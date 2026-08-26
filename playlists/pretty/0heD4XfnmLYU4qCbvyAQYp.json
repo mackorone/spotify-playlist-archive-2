@@ -1,13 +1,29 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4755,
+  "num_followers": 4757,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO+7d0kilVnLbkhRwBfzbTd4Zw8tU0",
+  "snapshot_id": "AAAO/ErrhzmGy7rr3TmixxPCgRNtHoAu",
   "tracks": [
+    {
+      "added_at": "2026-08-25 07:11:34",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd"
+      },
+      "artists": [
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd"
+        }
+      ],
+      "duration_ms": 442666,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg"
+    },
     {
       "added_at": "2026-08-22 17:03:56",
       "album": {

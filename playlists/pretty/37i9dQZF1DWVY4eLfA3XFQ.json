@@ -1,12 +1,12 @@
 {
   "description": "50% techno, 50% house \ud83e\udde8 Tech house operators, featuring Sapian",
-  "num_followers": 714013,
+  "num_followers": 714105,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGQ5oG4Ii/L+tdjjR4kIBweskpiu",
+  "snapshot_id": "AAAAAMoWsKRVFcPIj+zDSL+xWYzKU6ho",
   "tracks": [
     {
       "added_at": "2026-08-18 18:40:32",
@@ -211,6 +211,26 @@
       "duration_ms": 218436,
       "name": "MEDIA DOME",
       "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
+    },
+    {
+      "added_at": "2026-08-25 20:18:13",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6dxYOF9u2bKALs7kYgqS2I"
+      },
+      "artists": [
+        {
+          "name": "Buka",
+          "url": "https://open.spotify.com/artist/7pMb9epN40nWxVpGHFNSRI"
+        },
+        {
+          "name": "Dodi",
+          "url": "https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0ICM7FsB0a1kNzTA9ahDSF"
     },
     {
       "added_at": "2026-08-21 16:49:14",
@@ -1727,26 +1747,6 @@
       "duration_ms": 204375,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1TtkiapicAnn1NxK2aARnp"
-    },
-    {
-      "added_at": "2026-07-10 04:01:31",
-      "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/0a1Skpwx5RjTkDP3vL9a8e"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        },
-        {
-          "name": "Zack Darza",
-          "url": "https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/7pdnrLzhnwtEAdlcIPpAwe"
     },
     {
       "added_at": "2026-05-15 04:02:19",

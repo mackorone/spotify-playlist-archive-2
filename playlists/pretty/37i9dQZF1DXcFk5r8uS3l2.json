@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1068926,
+  "num_followers": 1068948,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKogrC6jKqRyibbGSIhU0NIP+17b",
+  "snapshot_id": "AAAAANjCRRS/ANYL/VvR70bPFRt7dB8e",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:51",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
         "name": "Hand It Over (feat. Soweto Gospel Choir)",
         "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 203232,
       "name": "Hand It Over (feat. Soweto Gospel Choir)",
       "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
-        "name": "Ohio Players",
-        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 147985,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Fussing and Fighting",
-        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 254320,
-      "name": "Fussing and Fighting",
-      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
         "name": "Dark and Stormy",
         "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 193146,
       "name": "Silver Wave",
       "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
+        "name": "Fussing and Fighting",
+        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "Fussing and Fighting",
+      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
-      },
-      "artists": [
-        {
-          "name": "The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Madame President",
-      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
         "name": "Switch On",
         "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 258218,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+      },
+      "artists": [
+        {
+          "name": "The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Madame President",
+      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
         "name": "House On Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 201733,
       "name": "Saviour - Unplugged",
       "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Blues Worse Than I Ever Had",
-        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+        "name": "The Breakdown",
+        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Blues Worse Than I Ever Had",
-      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
+      "duration_ms": 234808,
+      "name": "One Day Away",
+      "url": "https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -1087,6 +1087,22 @@
       "duration_ms": 228192,
       "name": "Best Believe",
       "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
+        "name": "Blues Worse Than I Ever Had",
+        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Blues Worse Than I Ever Had",
+      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Slow Lightning (Deluxe)",
-        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Out for Blood",
-      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
         "name": "Let the Music Get Down in Your Soul",
         "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+        "name": "Slow Lightning (Deluxe)",
+        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Can\u2019t Stand Still",
-      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
+      "duration_ms": 234266,
+      "name": "Out for Blood",
+      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "The Breakdown",
-        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 234808,
-      "name": "One Day Away",
-      "url": "https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 255218,
       "name": "Drifting (feat. Marcus King)",
       "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1467,24 +1483,8 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
       "artists": [
         {
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-08-21 04:01:51",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
-    },
-    {
-      "added_at": "2026-08-21 04:01:51",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
@@ -1563,8 +1547,24 @@
     {
       "added_at": "2026-08-21 04:01:51",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
+      "added_at": "2026-08-21 04:01:51",
+      "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
       },
       "artists": [
         {
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2026-08-21 04:01:51",

@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 458118,
+  "num_followers": 458191,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM6PU5mk831exmyT3TL1N6w4Ow0v",
+  "snapshot_id": "AAAAABFn6b+6FK/WSxh1QTG9fFVdouno",
   "tracks": [
     {
       "added_at": "2026-03-13 19:07:31",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 162800,
       "name": "Al gato y al rat\u00f3n",
       "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Dame Una Se\u00f1al",
         "url": "https://open.spotify.com/album/4zFH3sOTGYIC3rsCqW2W2N"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 280807,
       "name": "Dame Una Se\u00f1al",
       "url": "https://open.spotify.com/track/3iAD9ey6jjDwihBDaML2Mr"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
-      },
-      "artists": [
-        {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Limonadas Verdes",
+        "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
+      },
+      "artists": [
+        {
+          "name": "Tropical Del Bravo",
+          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Limonadas Verdes",
+      "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 252000,
       "name": "El Negro Jos\u00e9",
       "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Limonadas Verdes",
-        "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
-      },
-      "artists": [
-        {
-          "name": "Tropical Del Bravo",
-          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Limonadas Verdes",
-      "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 198843,
       "name": "Coronada",
       "url": "https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2026-03-13 19:07:31",

@@ -1,12 +1,12 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Michael Bibi, KETTAMA",
-  "num_followers": 68621,
+  "num_followers": 68619,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMrDR33LdBn9gDIVcDtJQUq/M66T",
+  "snapshot_id": "AAAAAPBNR3utGDfj0M3dQnr+P67YFj+4",
   "tracks": [
     {
       "added_at": "2026-08-14 12:36:18",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-08-14 12:36:18",
       "album": {
-        "name": "Actin' Tough",
-        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Turnley",
-          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Actin' Tough",
-      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
-    },
-    {
-      "added_at": "2026-08-14 12:36:18",
-      "album": {
         "name": "World Away",
         "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 187686,
       "name": "World Away",
       "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+    },
+    {
+      "added_at": "2026-08-14 12:36:18",
+      "album": {
+        "name": "Actin' Tough",
+        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Turnley",
+          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Actin' Tough",
+      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
     },
     {
       "added_at": "2026-08-14 12:36:18",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-08-14 12:36:18",
       "album": {
-        "name": "Dive Into Me",
-        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Dive Into Me",
-      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
-    },
-    {
-      "added_at": "2026-08-14 12:36:18",
-      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2026-08-14 12:36:18",
+      "album": {
+        "name": "Dive Into Me",
+        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Dive Into Me",
+      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
     },
     {
       "added_at": "2026-08-14 12:36:18",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-08-14 12:36:18",
       "album": {
-        "name": "Stars Will Align",
-        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 234366,
-      "name": "Stars Will Align",
-      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
-    },
-    {
-      "added_at": "2026-08-14 12:36:18",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+    },
+    {
+      "added_at": "2026-08-14 12:36:18",
+      "album": {
+        "name": "Stars Will Align",
+        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Stars Will Align",
+      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
     },
     {
       "added_at": "2026-08-14 12:36:18",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2026-08-14 12:36:18",
       "album": {
-        "name": "La R\u00e9volution",
-        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 132492,
-      "name": "La R\u00e9volution",
-      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
-    },
-    {
-      "added_at": "2026-08-14 12:36:18",
-      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -1587,26 +1567,6 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-08-14 12:36:18",
-      "album": {
-        "name": "Just The Way You Are (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 181609,
-      "name": "Just The Way You Are - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
     },
     {
       "added_at": "2026-08-14 12:36:18",
@@ -1635,6 +1595,26 @@
     {
       "added_at": "2026-08-14 12:36:18",
       "album": {
+        "name": "Just The Way You Are (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 181609,
+      "name": "Just The Way You Are - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
+    },
+    {
+      "added_at": "2026-08-14 12:36:18",
+      "album": {
         "name": "Love Is The Only Thing",
         "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 171093,
       "name": "Love Is The Only Thing",
       "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
+    },
+    {
+      "added_at": "2026-08-14 12:36:18",
+      "album": {
+        "name": "La R\u00e9volution",
+        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 132492,
+      "name": "La R\u00e9volution",
+      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
     },
     {
       "added_at": "2026-08-14 12:36:18",
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2026-08-14 12:36:18",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 153245,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     }
   ],
   "unique_name": "mint Japan",

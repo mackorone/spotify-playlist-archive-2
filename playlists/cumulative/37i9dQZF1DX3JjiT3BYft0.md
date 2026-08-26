@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-474 songs - 1 day 9 hr 41 min
+475 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Beautiful Birthday](https://open.spotify.com/track/0CqlIR5fcvENyg0jyPmUdS) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 4:16 | 2022-05-17 | 2022-07-29 |
 | [BLACK SHOUT](https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 4:04 | 2023-05-30 | 2024-04-19 |
 | [BLACK SHOUT](https://open.spotify.com/track/2DTM7VgdT2WrMxdbJDL0pK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [BLACK SHOUT](https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3) | 4:06 | 2022-06-23 | 2022-07-18 |
+| [BLACK SHOUT \- \(10th anniv\. ver.\)](https://open.spotify.com/track/1HfPagEyxGNlU0W1iwUTpr) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Lehre der Rose](https://open.spotify.com/album/1HPun9tYXr9jHr2nk297S8) | 4:05 | 2026-08-25 |  |
 | [Blazing Bonfire!](https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2) | 3:44 | 2022-06-23 | 2022-10-02 |
 | [Blessing Chord](https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:37 | 2022-10-25 | 2024-04-19 |
 | [Blessing Chord](https://open.spotify.com/track/2q6DCS4KiXsi9Uq0qDIRvP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:37 | 2022-06-23 | 2022-10-02 |
@@ -133,7 +134,7 @@
 | [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 | 2024-06-12 | 2025-04-11 |
 | [Light a fire](https://open.spotify.com/track/2wBHkB3R5IOhGO3CPZt5pO) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:29 | 2022-05-17 | 2022-07-28 |
 | [Light Delight](https://open.spotify.com/track/1uY6uOC7DfLsrxFWcNqJHW) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [CiRCLING](https://open.spotify.com/album/4Myv0aLwr7OhYJqq2HzH2T) | 5:09 | 2022-05-17 | 2022-07-21 |
-| [Listen!! \- Cover](https://open.spotify.com/track/7fPdIuNqu222MRU3LUQIHH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:47 | 2025-10-02 | 2026-08-06 |
+| [Listen!! \- Cover](https://open.spotify.com/track/7fPdIuNqu222MRU3LUQIHH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:47 | 2025-10-02 |  |
 | [Live Beyond!!](https://open.spotify.com/track/35leZAoLw6bjXchbPqXv0f) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 5:14 | 2022-06-23 | 2022-07-29 |
 | [LOUDER](https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 3:34 | 2023-05-30 | 2024-04-19 |
 | [LOUDER](https://open.spotify.com/track/10D7xUQI6nfHvkmUEiCgwM) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [BLACK SHOUT](https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3) | 3:35 | 2022-05-17 | 2022-07-23 |
@@ -142,7 +143,7 @@
 | [Neo\-Aspect](https://open.spotify.com/track/5cgXMOSZLF9lfbG7nrxF25) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 5:07 | 2023-12-12 | 2024-04-19 |
 | [Neo\-Aspect](https://open.spotify.com/track/2ctkJPzluv1BfsEcsOPsS5) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:10 | 2022-05-17 | 2022-07-27 |
 | [NO GIRL NO CRY \- Poppin'Party Ver.](https://open.spotify.com/track/7vjHI1ZrjMFuynrPmwvgG3) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:11 | 2022-05-17 | 2022-07-19 |
-| [Northern lights \- Cover](https://open.spotify.com/track/55RYpBqJz5hzsO22QzbLF3) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:29 | 2025-07-22 |  |
+| [Northern lights \- Cover](https://open.spotify.com/track/55RYpBqJz5hzsO22QzbLF3) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:29 | 2025-07-22 | 2026-08-26 |
 | [ON YOUR MARK](https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:00 | 2022-10-25 | 2024-01-10 |
 | [ON YOUR MARK](https://open.spotify.com/track/3qU8WNOgUbch9q1MBwbmUH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:01 | 2022-05-17 | 2022-07-28 |
 | [ON YOUR MARK](https://open.spotify.com/track/0AJMNmF8wA33dHu5DQ5oUO) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ON YOUR MARK](https://open.spotify.com/album/5NCnQuOJF3ERX7AgjmsJj0) | 4:01 | 2022-05-17 | 2022-07-27 |
@@ -422,7 +423,7 @@
 | [新しい季節に](https://open.spotify.com/track/0a8N9Mf1zsfNTGFMpTZFlD) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/2SzMaaGrYJUaEMsuDdDi7U) | 3:31 | 2024-01-23 | 2025-03-01 |
 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 | 2024-12-24 |  |
 | [明弦音](https://open.spotify.com/track/1enc7tpwG5F49UFgov1vwJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 4:03 | 2024-12-17 |  |
-| [星の約束](https://open.spotify.com/track/6F8xnT2B7MuImmA6VS7Bw2) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:04 | 2026-04-21 |  |
+| [星の約束](https://open.spotify.com/track/6F8xnT2B7MuImmA6VS7Bw2) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:04 | 2026-04-21 | 2026-08-26 |
 | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK) | 3:11 | 2025-03-18 |  |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 | 2023-06-29 | 2024-12-25 |

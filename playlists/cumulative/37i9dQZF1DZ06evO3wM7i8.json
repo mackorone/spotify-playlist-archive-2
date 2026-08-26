@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Djangology (feat. St\u00e9phane Grappelli)",
+        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "(It's Only A) Paper Moon (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/2cCVEW76gMpnxs5e6DRmCI"
+    },
+    {
+      "album": {
         "name": "Djangologie Vol9 / 1939 - 1940",
         "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
@@ -38,7 +64,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 187133,
       "name": "After You're Gone",
       "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
@@ -172,10 +198,50 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 211266,
       "name": "Anniversary Song",
       "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
+    },
+    {
+      "album": {
+        "name": "Swing 48",
+        "url": "https://open.spotify.com/album/7oWKezX29OBKUfTPuaI5B4"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214106,
+      "name": "Anniversary Song",
+      "url": "https://open.spotify.com/track/5kmoN0IsAQKJMzbcsC5ilm"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159253,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6HOD79or2cqZXXDcJjHv2Q"
     },
     {
       "album": {
@@ -215,6 +281,46 @@
     },
     {
       "album": {
+        "name": "Djangologie Vol5 / 1937",
+        "url": "https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Bill Coleman",
+          "url": "https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "Bill Coleman Blues",
+      "url": "https://open.spotify.com/track/3xiccIUm1Ftn3fZsbqR7qY"
+    },
+    {
+      "album": {
+        "name": "Monsieur Guitare",
+        "url": "https://open.spotify.com/album/0TFWioxMxobSR0fRwjohEy"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175363,
+      "name": "Billets doux",
+      "url": "https://open.spotify.com/track/46qHVvfYeuYqa63JPop4QR"
+    },
+    {
+      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -234,10 +340,50 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 177015,
       "name": "Billets Doux",
       "url": "https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv"
+    },
+    {
+      "album": {
+        "name": "All Star Sessions",
+        "url": "https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5FrH1vA7RC9hsDInaZ3OkT"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174320,
+      "name": "Boogie Woogie - Pt. 1",
+      "url": "https://open.spotify.com/track/7jWGCongZAo4gLgmeLqzuq"
     },
     {
       "album": {
@@ -339,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Djangologie Vol15 / 1946 - 1947",
+        "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "Coquette",
+      "url": "https://open.spotify.com/track/1gQ3i8BIRvlBuhv4Gw7law"
+    },
+    {
+      "album": {
         "name": "War Clouds 1940",
         "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
       },
@@ -402,7 +570,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 195293,
       "name": "Diminushing",
       "url": "https://open.spotify.com/track/6lxPn9j76u4hdt8WNvxdcq"
@@ -420,10 +588,32 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 158013,
       "name": "Django's Tiger",
       "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
+    },
+    {
+      "album": {
+        "name": "Place De Brouck\u00e8re",
+        "url": "https://open.spotify.com/album/685eY10xQDzmCtNK1kwarl"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stan Brenders et son grand orchestre",
+          "url": "https://open.spotify.com/artist/7CdXXlGZCXXoK7UNXNvmbT"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "Djangology",
+      "url": "https://open.spotify.com/track/4SNNZF4eL6yAhM9Ra7Q3I7"
     },
     {
       "album": {
@@ -479,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Djangologie Vol13 / 1942 - 1943",
+        "url": "https://open.spotify.com/album/5R48nNVJJWiKgDC2f1pIg2"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140773,
+      "name": "Douce ambiance",
+      "url": "https://open.spotify.com/track/6FjTKZayzI8Uw4APoADjPS"
+    },
+    {
+      "album": {
         "name": "Djangologie Vol7 / 1937 - 1938",
         "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
@@ -512,7 +724,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 194640,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm"
@@ -579,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Django Reinhardt",
+        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "Honey Suckle Rose",
+      "url": "https://open.spotify.com/track/3sLg7jEXaGKRnWk10EjcQ0"
+    },
+    {
+      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -631,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Djangologie Vol6 / 1937",
+        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "I Can't Believe That You're in Love with Me",
+      "url": "https://open.spotify.com/track/1SsXeDaRwSq78v2a91VNhk"
+    },
+    {
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -662,7 +910,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 172993,
       "name": "I Can't Give You Anything but Love",
       "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
@@ -688,7 +936,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 186437,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
@@ -788,7 +1036,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 207960,
       "name": "I Saw Stars (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5"
@@ -806,7 +1054,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 153333,
       "name": "I'll See You in My Dreams",
       "url": "https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP"
@@ -846,10 +1094,28 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 198800,
       "name": "Improvisation sur le 1er mvt concerto r\u00e9 mineur",
       "url": "https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol6 / 1937",
+        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147133,
+      "name": "Interpr\u00e9tation swing 1er mvt concerto r\u00e9 mineur",
+      "url": "https://open.spotify.com/track/2zRzwccOmqB7d2AeM3SgO7"
     },
     {
       "album": {
@@ -872,10 +1138,32 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 173161,
       "name": "It Was So Beautiful",
       "url": "https://open.spotify.com/track/23MCn1hqzitd00ctBSofv5"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol17 / 1949",
+        "url": "https://open.spotify.com/album/2TQl3RR0C6gSWPE9PsQ5pm"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211133,
+      "name": "Just a Gigolo",
+      "url": "https://open.spotify.com/track/0495Qtdyt8d0zniFL7E7Aq"
     },
     {
       "album": {
@@ -930,7 +1218,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 133866,
       "name": "Les yeux noirs (Dark Eyes)",
       "url": "https://open.spotify.com/track/4cOhTQgJqBtnIws8Il92Ww"
@@ -956,7 +1244,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 166000,
       "name": "Limehouse Blues",
       "url": "https://open.spotify.com/track/6lMMTn73wVaDh1gJW3rsBu"
@@ -982,7 +1270,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 190866,
       "name": "Lover Man (Oh, Where Can You Be?) (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/4w473yXLEtb4tVQ592R8dE"
@@ -1008,7 +1296,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 182800,
       "name": "Menilmontant (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa"
@@ -1034,7 +1322,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 196626,
       "name": "Minor Swing",
       "url": "https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf"
@@ -1082,7 +1370,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 184197,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp"
@@ -1100,7 +1388,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "My Blue Heaven",
       "url": "https://open.spotify.com/track/6Z51gcpjOPPVhcWppdsfyL"
@@ -1176,7 +1464,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 168493,
       "name": "My Melancholy Baby",
       "url": "https://open.spotify.com/track/7qcXGDzIkRUjfm7r75XW0k"
@@ -1194,7 +1482,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 182866,
       "name": "My Serenade",
       "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
@@ -1216,7 +1504,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 171106,
       "name": "Nagasaki",
       "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
@@ -1238,6 +1526,24 @@
       "duration_ms": 149960,
       "name": "Naguine",
       "url": "https://open.spotify.com/track/3tLFWTuHRrBOFppiDA3pHT"
+    },
+    {
+      "album": {
+        "name": "Nuages",
+        "url": "https://open.spotify.com/album/7rDE7DrM8A80tlL4lpUaxR"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "Night And Day - 1953 Version",
+      "url": "https://open.spotify.com/track/10wKynDmEhY6lt5sKENEIf"
     },
     {
       "album": {
@@ -1298,10 +1604,36 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 157840,
       "name": "Ol' Man River",
       "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol1 / 1928 - 1936",
+        "url": "https://open.spotify.com/album/6BriMWIwo9rAupVxwyLm9b"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157960,
+      "name": "Oriental Shuffle",
+      "url": "https://open.spotify.com/track/6UnMk57FMOLulWTq9UTtrT"
     },
     {
       "album": {
@@ -1482,7 +1814,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 162733,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B"
@@ -1515,6 +1847,46 @@
     },
     {
       "album": {
+        "name": "All Star Sessions",
+        "url": "https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/1PSN1tyTjJv845m98iBb0s"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2xsWxOTPFJKKA6xy7874HC"
+    },
+    {
+      "album": {
         "name": "Django Reinhardt: Legendary Recordings",
         "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
@@ -1526,7 +1898,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 160866,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1rV3Q3UrxEWHkSo68lPiqb"
@@ -1602,7 +1974,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 168400,
       "name": "Swing 42",
       "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
@@ -1658,7 +2030,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 172160,
       "name": "Swinging with Django",
       "url": "https://open.spotify.com/track/75LBvLhNCU8KWqeOr6BSOd"
@@ -1683,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Djangologie Vol7 / 1937 - 1938",
+        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Tea for Two",
+      "url": "https://open.spotify.com/track/3J0vC7T9DmAJdXDIp8Xq7v"
+    },
+    {
+      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -1698,7 +2088,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 158693,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RNtMMMt5NJOiuUA3BIVTh"
@@ -1757,6 +2147,50 @@
     },
     {
       "album": {
+        "name": "Djangologie Vol.4 / 1937",
+        "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Andre Ekyan",
+          "url": "https://open.spotify.com/artist/1pOFlNEK2vIUCacdFXFHMe"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "Tiger Rag",
+      "url": "https://open.spotify.com/track/3iRWijS2XTHffTS0xOQWkY"
+    },
+    {
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184880,
+      "name": "To Each His Own (Symphonie)",
+      "url": "https://open.spotify.com/track/3PVFKkVksFKRJkmHCvCOjW"
+    },
+    {
+      "album": {
         "name": "Django Reinhardt: Legendary Recordings",
         "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
       },
@@ -1786,7 +2220,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 185546,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK"
@@ -1808,6 +2242,28 @@
       "duration_ms": 185546,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/7Gj5OjTc4riTgEL1C0dhws"
+    },
+    {
+      "album": {
+        "name": "Django's Blues",
+        "url": "https://open.spotify.com/album/5NhcHhsaMzLbLxKFQc4P73"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187960,
+      "name": "Topsy",
+      "url": "https://open.spotify.com/track/6aXi1ZsvCMVAgRjKKYek07"
     },
     {
       "album": {
@@ -1868,10 +2324,50 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 181009,
       "name": "Viper's Dream",
       "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol6 / 1937",
+        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Viper's Dream",
+      "url": "https://open.spotify.com/track/5DFAmVGzEK95Y5MnL1FQuq"
+    },
+    {
+      "album": {
+        "name": "Djangologie Vol16 / 1947 - 1949",
+        "url": "https://open.spotify.com/album/1N38aYyq2EKWJW8t6oPa4P"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "Vous qui passez sans me voir",
+      "url": "https://open.spotify.com/track/1qy9Pd8ENeVfSK3aZcEOv9"
     },
     {
       "album": {

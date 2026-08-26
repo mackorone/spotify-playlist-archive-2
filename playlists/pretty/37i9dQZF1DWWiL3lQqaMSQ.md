@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > Congratulations to all the winners and nominees of the 41st <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover & Host: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,026 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,039 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 74 | [Movin'](https://open.spotify.com/track/3GMAWqfLysQyx0b5kPJve9) | [JustCordell](https://open.spotify.com/artist/4kyOIXivEHCVnJOfSo6lYn) | [Movin'](https://open.spotify.com/album/1LGEQX1mObwzgTq6s1TBxJ) | 2:20 |
 | 75 | [10X My Blessings](https://open.spotify.com/track/5sj387BtBhSrSwG7bd4Smu) | [Jevon Dewand](https://open.spotify.com/artist/29aLw1wHmH1tpXaG3bMnXF), [The Trap Starz](https://open.spotify.com/artist/17moVmi9P15CQZCjkT6381), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Gaz Money](https://open.spotify.com/artist/6jrXycYc3G5AG0S1PjAqWr) | [10X My Blessings](https://open.spotify.com/album/2wx00GZFBzzagY5BlbQF7c) | 3:58 |
 
-Snapshot ID: `AAAAAPshohBhDuse/x7lBVaetm/ou8ql`
+Snapshot ID: `AAAAAE3lx5J2nTEiEFbrVF2iTn0fJ2ED`

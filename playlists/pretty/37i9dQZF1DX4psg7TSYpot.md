@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Enjoy the summer breeze with these sunny lounge beats ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,594 likes - 83 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,774 likes - 83 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 82 | [Aishiteru](https://open.spotify.com/track/7tImitLob81848Jdy6MdUt) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Aishiteru](https://open.spotify.com/album/2nXIJK982tSqSTg5JZYdu9) | 2:12 |
 | 83 | [Beach Wave](https://open.spotify.com/track/0XCqVrAzvWP1kQzu9i83Tw) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Beach Wave](https://open.spotify.com/album/2TBSaaMx60Kgnips9Ifosq) | 2:33 |
 
-Snapshot ID: `AAAAALxKZA8J/wmDt1sukhTkD7lB/qsU`
+Snapshot ID: `AAAAAI4p28Fzrg9J1tMciahnnDMGjwzI`

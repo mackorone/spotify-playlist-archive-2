@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:4vA9K7BZzkqFAh9hQfXwiD\">Gioac</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:58lKFq1ZTU6IH6NWkmObn0\">Gloria Tricamo</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -9865,6 +9865,24 @@
     },
     {
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/1oIjyIhOPI0gNI2mqRGRNn"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184925,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/39SutNbDiIxPPojdYA23vd"
+    },
+    {
+      "album": {
         "name": "FUTURO3",
         "url": "https://open.spotify.com/album/3883plODFEQ6pDJEQu6oJ0"
       },
@@ -10644,7 +10662,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 221306,
       "name": "Distruggere un amore",
       "url": "https://open.spotify.com/track/178sk2KA9TX9EgchAmGbBs"
@@ -12368,6 +12386,24 @@
       "duration_ms": 200547,
       "name": "everything",
       "url": "https://open.spotify.com/track/2Nby1Q0ozXqR9EZtBV9Y1C"
+    },
+    {
+      "album": {
+        "name": "Extra Wave",
+        "url": "https://open.spotify.com/album/6DuZp5UYQksOPbTA7ZbWMo"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212807,
+      "name": "Extra Wave",
+      "url": "https://open.spotify.com/track/22xm77fKMfx2XUwO4wB417"
     },
     {
       "album": {
@@ -14110,6 +14146,24 @@
       "duration_ms": 154591,
       "name": "FRATM",
       "url": "https://open.spotify.com/track/5AkwdXb5L3A0gcSSCVHtnt"
+    },
+    {
+      "album": {
+        "name": "La distanza tra noi e la riva",
+        "url": "https://open.spotify.com/album/6lABr1q9xWtpu2it0p8uOi"
+      },
+      "artists": [
+        {
+          "name": "Pallida Cavtat",
+          "url": "https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256623,
+      "name": "Freccia Rossa",
+      "url": "https://open.spotify.com/track/4H6CGn4vlCTitULeFQX2Oo"
     },
     {
       "album": {
@@ -28474,7 +28528,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 176709,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/60O9RVj2LGZuLQrFepZ9v4"
@@ -29190,7 +29244,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 232835,
       "name": "perdersi",
       "url": "https://open.spotify.com/track/2bZwh76HQSXkTtfmbowpwc"
@@ -34106,6 +34160,24 @@
       "duration_ms": 177560,
       "name": "Sentimenti in Giro",
       "url": "https://open.spotify.com/track/4qJotoxYsJRlgawZCaKMis"
+    },
+    {
+      "album": {
+        "name": "sentirmi di nuovo",
+        "url": "https://open.spotify.com/album/3soaLBLeGMu07VTLk9YEob"
+      },
+      "artists": [
+        {
+          "name": "Murphy",
+          "url": "https://open.spotify.com/artist/1VmfzwrzzditKu8NPltZXB"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167763,
+      "name": "sentirmi di nuovo",
+      "url": "https://open.spotify.com/track/3DPAH6kszAwV20Ner1zAC3"
     },
     {
       "album": {
@@ -40434,7 +40506,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 207433,
       "name": "Uomini gentili",
       "url": "https://open.spotify.com/track/2XGysxgEOpclU7vt6ey1qX"

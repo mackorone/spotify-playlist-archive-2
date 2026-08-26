@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-184 songs - 11 hr 30 min
+185 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,10 +123,11 @@
 | [My Nemesis](https://open.spotify.com/track/3yjAlc027mS1b7Mjh6c1Fb) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:35 | 2022-05-30 | 2023-08-28 |
 | [My Nemesis](https://open.spotify.com/track/5f2uoq4GfpeViLcsP3FtES) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:35 | 2023-08-27 | 2025-12-21 |
 | [Nails In The Coffin](https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 4:09 | 2026-08-02 |  |
-| [Never Enough](https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/4UiURCeJj7RgC3MVel2zOt) | 3:29 | 2025-12-20 |  |
+| [Never Enough](https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/4UiURCeJj7RgC3MVel2zOt) | 3:29 | 2025-12-20 | 2026-08-26 |
 | [Never Enough](https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/3mgPA7sjUDoXi3s9xGSi4O) | 3:29 | 2023-09-15 | 2025-12-09 |
 | [Never Enough](https://open.spotify.com/track/3v95MyscKq1J6zdt2NFTgp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj) | 3:29 | 2025-12-09 | 2025-12-20 |
 | [Never Enough](https://open.spotify.com/track/5RFGKcEjbcHBrr6jgU0wPE) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB) | 3:29 | 2022-05-30 | 2023-09-16 |
+| [Never Enough \- 2025 VERSION](https://open.spotify.com/track/07Ex8nzyAZpTOdRyDYOkUx) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:30 | 2026-08-26 |  |
 | [No One Gets Left Behind](https://open.spotify.com/track/007qYpVaKepM83aZ9Fld0L) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:23 | 2022-05-30 | 2023-08-31 |
 | [No One Gets Left Behind](https://open.spotify.com/track/3Z15JSB3lBhe00Jv2lz4OG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 3:23 | 2023-08-30 | 2025-12-25 |
 | [No One Gets Left Behind](https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:23 | 2023-09-15 | 2025-12-03 |
@@ -147,7 +148,7 @@
 | [The Bleeding](https://open.spotify.com/track/4l4ytfBCPSovTX8CB5li3m) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB) | 4:28 | 2022-05-30 | 2023-08-28 |
 | [The Bleeding](https://open.spotify.com/track/6LRmV5GZUjKLgxi7lBWriQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj) | 4:28 | 2023-08-27 | 2025-12-24 |
 | [The Bleeding](https://open.spotify.com/track/0PhgdhsVVVFQBAL4FXSy1K) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/2Mn74oOIxU32wfHDcHknRL) | 4:31 | 2023-09-25 | 2025-12-04 |
-| [The Bleeding](https://open.spotify.com/track/6Q1VTJwPerMgRAD0ojg8Ax) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/6IYm3QNNraRFIJdMBPh1wN) | 4:31 | 2025-12-24 |  |
+| [The Bleeding](https://open.spotify.com/track/6Q1VTJwPerMgRAD0ojg8Ax) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/6IYm3QNNraRFIJdMBPh1wN) | 4:31 | 2025-12-24 | 2026-08-26 |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2022-08-20 | 2025-09-09 |
 | [The End \(feat\. BABYMETAL\) \- 2025 VERSION](https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:42 | 2025-09-09 |  |
 | [The Pride](https://open.spotify.com/track/2tbMiz9p19QbSJlbHiMs2y) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe\)](https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy) | 3:23 | 2023-08-25 | 2026-01-04 |

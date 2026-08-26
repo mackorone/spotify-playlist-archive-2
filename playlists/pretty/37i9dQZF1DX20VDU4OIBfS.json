@@ -1,12 +1,12 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3008632,
+  "num_followers": 3008581,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJd919RzvaFGFtSDBXPApmzXnYfL",
+  "snapshot_id": "AAAAAEXZtONd5HHC3yyf8X1H3Rhpw+yq",
   "tracks": [
     {
       "added_at": "2026-07-28 20:14:40",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "En carne viva",
+        "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "Estar enamorado",
+      "url": "https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Fuiste M\u00eda un Verano",
         "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 279506,
       "name": "Y Te Vas",
       "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "En carne viva",
-        "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "Estar enamorado",
-      "url": "https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 257440,
       "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
       "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Daniela Romo",
-        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "1 + 1 = 2 Enamorados",
         "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 205909,
       "name": "1+1=2 Enamorados",
       "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Daniela Romo",
+        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
-      },
-      "artists": [
-        {
-          "name": "Maria Conchita Alonso",
-          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "Noche De Copas",
-      "url": "https://open.spotify.com/track/7wDiDAk8cBPACxGSY2Xv4D"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Entre El Agua Y El Fuego",
         "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 271000,
       "name": "Canci\u00f3n de Oto\u00f1o",
       "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "Noche De Copas",
+      "url": "https://open.spotify.com/track/7wDiDAk8cBPACxGSY2Xv4D"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Just Another Band From East L.A.: A Collection",
-        "url": "https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Mis Mejores Canciones",
         "url": "https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 217506,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Just Another Band From East L.A.: A Collection",
+        "url": "https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "My Spanish Album",
+        "url": "https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Echame A Mi La Culpa",
+      "url": "https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Una Estrella En El Cielo",
         "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "My Spanish Album",
-        "url": "https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Echame A Mi La Culpa",
-      "url": "https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Yo Mismo",
-        "url": "https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel",
-          "url": "https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Marinero De Luces",
         "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 289293,
       "name": "Hoy Quiero Confesarme",
       "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Yo Mismo",
+        "url": "https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel",
+          "url": "https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "My Life: The Greatest Hits",
-        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Con el Paso del Tiempo",
         "url": "https://open.spotify.com/album/3rCxaZwnmmWYhEx0QffUbx"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 288733,
       "name": "Qu\u00e9 Canten los Ni\u00f1os - Homenaje a las Aldeas SOS",
       "url": "https://open.spotify.com/track/27ZrFLElsXCUIrSvgGD497"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "My Life: The Greatest Hits",
+        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
+      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Lila Deneken......Por Cobard\u00eda",
-        "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
-      },
-      "artists": [
-        {
-          "name": "Lila Deneken",
-          "url": "https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG"
-        }
-      ],
-      "duration_ms": 284440,
-      "name": "Por Cobard\u00eda",
-      "url": "https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Serrat En Directo",
         "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 204449,
       "name": "Cantares - En Directo",
       "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Lila Deneken......Por Cobard\u00eda",
+        "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
+      },
+      "artists": [
+        {
+          "name": "Lila Deneken",
+          "url": "https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG"
+        }
+      ],
+      "duration_ms": 284440,
+      "name": "Por Cobard\u00eda",
+      "url": "https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0"
     }
   ],
   "unique_name": "Canciones del Recuerdo",

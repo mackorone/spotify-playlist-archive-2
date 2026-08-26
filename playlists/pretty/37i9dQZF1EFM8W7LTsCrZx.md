@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 99 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 99 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 58 | [500 Joints](https://open.spotify.com/track/07mqNcvJcPWufsUtowNlTx) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:53 |
 | 59 | [Gazo](https://open.spotify.com/track/6OVA3aHCUbRGjSRGBAcFuz) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 1:33 |
 | 60 | [BACK2BACK](https://open.spotify.com/track/5nFbbEFzQHyduCrWrlb4B0) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:27 |
-| 61 | [Best Friend](https://open.spotify.com/track/5OqZnpcYO4cx5e5z8nwg3p) | [Smoothie 215](https://open.spotify.com/artist/3LdkCyOQTESOUSU9l0G90g), [SAIM x CAN](https://open.spotify.com/artist/4YUesmru7Xm84LGTBKVBSc) | [215](https://open.spotify.com/album/4H4gYJqzxPIr57kO7UrYUs) | 2:05 |
-| 62 | [HOMERUN](https://open.spotify.com/track/1EuMOnjaKu5mK9sGmTuMIV) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:46 |
+| 61 | [HOMERUN](https://open.spotify.com/track/1EuMOnjaKu5mK9sGmTuMIV) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:46 |
+| 62 | [Best Friend](https://open.spotify.com/track/5OqZnpcYO4cx5e5z8nwg3p) | [Smoothie 215](https://open.spotify.com/artist/3LdkCyOQTESOUSU9l0G90g), [SAIM x CAN](https://open.spotify.com/artist/4YUesmru7Xm84LGTBKVBSc) | [215](https://open.spotify.com/album/4H4gYJqzxPIr57kO7UrYUs) | 2:05 |
 | 63 | [Glock 17](https://open.spotify.com/track/0GtFRCbcK2PBoOMnB6jZS5) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 1:53 |
 | 64 | [Candyshop](https://open.spotify.com/track/36a8dZZagp2tNmUSfeFdoc) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:50 |
 | 65 | [SIR](https://open.spotify.com/track/5WeQpEPnN3OrwYbiThat0k) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 1:59 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 98 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 99 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcadpAAAAADTaniQxORK+yMJNJ5wldC/`
+Snapshot ID: `AcajRAAAAABOsHtjv6RNQtSsBLgDZ66m`

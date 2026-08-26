@@ -92,6 +92,6 @@
 | [Why Would I](https://open.spotify.com/track/3tlagYGVQF3IArtnyE6f8x) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [I Feel Different Every Day](https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB) | 3:21 | 2025-02-09 |  |
 | [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 | 2024-10-02 | 2025-02-10 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2024-01-29 |  |
-| [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2024-01-29 |  |
+| [Zero \- J.I.D Remix](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2024-01-29 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

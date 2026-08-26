@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215954,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
+    },
+    {
+      "album": {
         "name": "Can't Stop Won't Stop (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
       },
@@ -2272,7 +2290,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 165290,
       "name": "No Flockin'",
       "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"

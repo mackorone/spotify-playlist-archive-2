@@ -1,12 +1,12 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1639998,
+  "num_followers": 1639579,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC/rmVkTXWTMaI2ScsflBrTgIGVm",
+  "snapshot_id": "AAAAACZeR3WlS5FqHJrircmRsj/NDAba",
   "tracks": [
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Copper Changes Color",
-        "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Millions",
-      "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Copper Changes Color",
+        "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 196126,
       "name": "California",
       "url": "https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
     },
     {
       "added_at": "2026-07-09 23:27:48",

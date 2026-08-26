@@ -4,7 +4,7 @@
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 57 min
+86 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,12 @@
 | [Death March](https://open.spotify.com/track/1LeHl5s8Bep4Ngl238B9Cm) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Adderall](https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH) | 1:04 | 2023-06-11 | 2023-10-05 |
 | [Disasterpiece](https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 5:08 | 2022-05-30 |  |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2022-05-30 |  |
-| [Everything Ends](https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-05-30 |  |
+| [Everything Ends](https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-05-30 | 2026-08-26 |
 | [Eyeless](https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 3:56 | 2024-08-13 |  |
 | [Eyeless](https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:56 | 2022-05-30 | 2024-08-13 |
 | [Finale](https://open.spotify.com/track/6hqys5tmolP7EU6ZNP981s) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:07 | 2024-07-22 | 2024-07-23 |
 | [Gematria \(The Killing Name\)](https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 6:01 | 2024-06-03 |  |
-| [Gently](https://open.spotify.com/track/00WbLoO3bSlUdAy8al106S) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:54 | 2024-01-06 | 2024-01-08 |
+| [Gently](https://open.spotify.com/track/00WbLoO3bSlUdAy8al106S) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:54 | 2024-01-06 |  |
 | [Get This](https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:03 | 2024-07-27 |  |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-10-02 | 2022-10-22 |
 | [Heirloom](https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:31 | 2022-10-12 | 2024-07-24 |
@@ -47,7 +47,8 @@
 | [Me Inside](https://open.spotify.com/track/5gs3OJVv8wly05nf44iHiZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 2:39 | 2024-07-14 | 2024-08-30 |
 | [Me Inside \- Demo](https://open.spotify.com/track/3fxohV0CcizJxe8pvmtubb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Me Inside \(Demo\)](https://open.spotify.com/album/071FN3PArMqTHyawzqv0At) | 2:47 | 2025-09-01 | 2025-09-22 |
 | [Medicine for the Dead](https://open.spotify.com/track/0qFBuG34m8V4LMgYUMYPV7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 6:16 | 2022-10-01 | 2024-07-12 |
-| [My Plague](https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:40 | 2022-05-30 |  |
+| [Metabolic](https://open.spotify.com/track/5i2MXxinpfJCj1ynihiNnt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:59 | 2026-08-26 |  |
+| [My Plague](https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:40 | 2022-05-30 | 2026-08-26 |
 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 | 2022-05-30 |  |
 | [No Life](https://open.spotify.com/track/0zy365BwajyyRj9NR3FVOU) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:47 | 2024-08-01 | 2024-08-08 |
 | [No Life](https://open.spotify.com/track/4hHU7KlmOi8rIhpPB6fTg4) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 2:47 | 2024-08-08 | 2025-10-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 131807,
+  "num_followers": 131798,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABO0Pq2qU4lOQ3CoHki8399",
+  "snapshot_id": "aouJgAAAAADzSg8nwQN5lf9T8Jv3vrzU",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278593,
+      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
+      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anderson Freire e Amigos",
         "url": "https://open.spotify.com/album/3MhRDO1ySLk4zInakHyvw9"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 266657,
       "name": "Identidade",
       "url": "https://open.spotify.com/track/0TCO41XDSOqMDC5Q1g7rDe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278593,
-      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
-      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incompar\u00e1vel",
-        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 206332,
-      "name": "For\u00e7a",
-      "url": "https://open.spotify.com/track/5aZMrryYfsOa0GV95kjPO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siga em Frente",
         "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 253004,
       "name": "Lugar Santo",
       "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 206332,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/5aZMrryYfsOa0GV95kjPO2"
     },
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
       "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 338253,
-      "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
+      "duration_ms": 287602,
+      "name": "Com os Olhos da F\u00e9",
+      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+        "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
       },
       "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 287602,
-      "name": "Com os Olhos da F\u00e9",
-      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
+      "duration_ms": 338253,
+      "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 467647,
-      "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
       },
@@ -863,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quatro por Um Forever (Ao Vivo)",
-        "url": "https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs"
+        "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
       "artists": [
         {
-          "name": "Quatro por Um",
-          "url": "https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz"
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
         },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 300672,
-      "name": "Porque Creio em Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
+      "duration_ms": 467647,
+      "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
     },
     {
       "added_at": null,
@@ -895,6 +875,26 @@
       "duration_ms": 248407,
       "name": "Apaixonado Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quatro por Um Forever (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs"
+      },
+      "artists": [
+        {
+          "name": "Quatro por Um",
+          "url": "https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 300672,
+      "name": "Porque Creio em Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
     },
     {
       "added_at": null,

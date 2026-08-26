@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,177 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,173 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 42 | [Wicked N Ruff](https://open.spotify.com/track/4XjgbpZ4rtt0PwE0QNOMJh) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Wicked N Ruff](https://open.spotify.com/album/5EJu2S7NXFtotFysgcl8WN) | 4:41 |
 | 43 | [Even Angels Ghost](https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [Even Angels Ghost](https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS) | 4:22 |
 | 44 | [Reckoning](https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Reckoning](https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq) | 5:49 |
-| 45 | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/track/0xu869oKDmbWv66goofbFq) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY) | 5:43 |
+| 45 | [I’m your girl right? \- Fcukers Remix](https://open.spotify.com/track/0xu869oKDmbWv66goofbFq) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY) | 5:43 |
 | 46 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 47 | [check check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [check check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |
 | 48 | [When You Smile](https://open.spotify.com/track/1mhTX06itPHKN5cWj5fIVj) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [When You Smile](https://open.spotify.com/album/7n29Ak1v8crsUb5JOH6WU1) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Without Pause](https://open.spotify.com/track/2DcvId9f7WuBgqWG11KH4H) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Without Pause](https://open.spotify.com/album/2abVu6lYCTT6Coxf2q4TSs) | 7:23 |
 | 100 | [Pay Attention to Me](https://open.spotify.com/track/0euCs7l9u8japDamITC7Ab) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Pay Attention to Me](https://open.spotify.com/album/2JpkP5mLRbWr19HwaYKfqj) | 3:52 |
 
-Snapshot ID: `AAAAAPbZ0gVWlMhKvOKWE3P5e0SRyRcc`
+Snapshot ID: `AAAAAJ0xMaIRptpQPoC2I4LLfaoWBKGy`

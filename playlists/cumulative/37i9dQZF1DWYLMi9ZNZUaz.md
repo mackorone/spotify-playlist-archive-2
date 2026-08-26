@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
 
 362 songs - 21 hr 5 min
 

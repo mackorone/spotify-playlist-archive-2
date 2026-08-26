@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our fifth Gold House Future Music Accelerator artists:  Mikayla Geier, Joyce Wrice, and Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,869 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,874 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 49 | [Gimme More \- Spotify Singles](https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Spotify Singles](https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL) | 2:52 |
 | 50 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 
-Snapshot ID: `AAAAAOkd+Tq7VfIUF0o/pfhObrDQXbxm`
+Snapshot ID: `AAAAAGskZLnQ7S+q4nnzl6cK6BaiL1Hg`

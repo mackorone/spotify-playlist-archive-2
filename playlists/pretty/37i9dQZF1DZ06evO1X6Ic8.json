@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 835871,
+  "num_followers": 835940,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACE0Qm2YtLU51VzUW2IM/xT",
+  "snapshot_id": "aouJgAAAAACOQMwb8+XgHPuKZOftYHXY",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 283840,
-      "name": "A Change Of Heart",
-      "url": "https://open.spotify.com/track/49clMzwHdKb5f0awEH99pg"
+      "duration_ms": 293076,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6C88rHxXBlpcgtBY3HAF0E"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 293076,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6C88rHxXBlpcgtBY3HAF0E"
+      "duration_ms": 175117,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 175117,
-      "name": "Roadkill",
-      "url": "https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 270104,
       "name": "She's American",
       "url": "https://open.spotify.com/track/5aV4HUW9RFOB0aXq0Ud9s0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "Me & You Together Song",
+      "url": "https://open.spotify.com/track/6SrvijeageGUiFu9iCDdmM"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 207223,
-      "name": "Me & You Together Song",
-      "url": "https://open.spotify.com/track/6SrvijeageGUiFu9iCDdmM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 132546,
       "name": "Milk",
       "url": "https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 247265,
+      "name": "Tonight (I Wish I Was Your Boy)",
+      "url": "https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 247265,
-      "name": "Tonight (I Wish I Was Your Boy)",
-      "url": "https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 1975 (Deluxe)",
         "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 244653,
       "name": "Undo",
       "url": "https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 269929,
+      "name": "Guys",
+      "url": "https://open.spotify.com/track/0dGyrOsSR0TOAxY4UBojmV"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 269929,
-      "name": "Guys",
-      "url": "https://open.spotify.com/track/0dGyrOsSR0TOAxY4UBojmV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 1975 (Deluxe)",
         "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 285833,
+      "name": "The Birthday Party",
+      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 295151,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 380320,
+      "name": "If I Believe You",
+      "url": "https://open.spotify.com/track/1IwdvZ3djfD1SfhexKUmXk"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 172559,
       "name": "Spinning (with Charli XCX & The 1975)",
       "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 285833,
-      "name": "The Birthday Party",
-      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
       "duration_ms": 205493,
       "name": "Looking For Somebody To Love - Live From The AO Arena, Manchester, 17.02.24",
       "url": "https://open.spotify.com/track/1RmVIc0JioOJHOVMIF64G9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still... At Their Very Best (Live From The AO Arena, Manchester, 17.02.24)",
+        "url": "https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "A Change of Heart - Live From The AO Arena, Manchester, 17.02.24",
+      "url": "https://open.spotify.com/track/5djoUJDG0RuRhDDSSLqZvD"
     }
   ],
   "unique_name": "This Is The 1975",

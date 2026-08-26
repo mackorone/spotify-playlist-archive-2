@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 590 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 6 | [Alérgica](https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 3:32 |
 | 7 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 |
 | 8 | [Belik Bellak](https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Belik Bellak](https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX) | 2:43 |
-| 9 | [Por Qué No Me Esperaste?](https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Por Qué No Me Esperaste?](https://open.spotify.com/album/1hWml9piZCciySPV41eXkR) | 3:20 |
-| 10 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 |
+| 9 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 |
+| 10 | [Por Qué No Me Esperaste?](https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Por Qué No Me Esperaste?](https://open.spotify.com/album/1hWml9piZCciySPV41eXkR) | 3:20 |
 | 11 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 |
 | 12 | [Asi Hablamos en Tijuana](https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Hablamos en Tijuana](https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z) | 2:47 |
 | 13 | [Cita Conmigo](https://open.spotify.com/track/0UjIWUuqNWmWZPeysFtfsg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Cita Conmigo](https://open.spotify.com/album/2M4gAYg1NVtmuQ4m0I22tV) | 2:41 |
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 20 | [Cuidado con El Perro](https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:52 |
 | 21 | [No Te Contaron Mal](https://open.spotify.com/track/6PZSOXSEUGR0kKxffxccLU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Te Contaron Mal](https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm) | 2:12 |
 | 22 | [Pierde La Que Se Lo Queda](https://open.spotify.com/track/0COFIuK4hUxgVle2OKgq6L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pierde La Que Se Lo Queda](https://open.spotify.com/album/17ZMxnlVKKooOOgVmLJl07) | 3:21 |
-| 23 | [Sin Él](https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Sin Él](https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ) | 3:13 |
+| 23 | [Entre la Guerra y el Amor](https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Entre la Guerra y el Amor](https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO) | 2:58 |
 | 24 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
-| 25 | [Entre la Guerra y el Amor](https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Entre la Guerra y el Amor](https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO) | 2:58 |
+| 25 | [Sin Él](https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Sin Él](https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ) | 3:13 |
 | 26 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:41 |
-| 27 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 |
+| 27 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
 | 28 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:32 |
-| 29 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
+| 29 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 |
 | 30 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 |
 | 31 | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 |
 | 32 | [Pinocho](https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:20 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 47 | [Qué Me Vas A Dar Si Vuelvo](https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Vivo Desde Tijuana](https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8) | 3:50 |
 | 48 | [Ódiame \(En Vivo\)](https://open.spotify.com/track/1dAknd30nacHZilqUb2fnT) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ódiame \(En Vivo\)](https://open.spotify.com/album/3KzkE6ODv8I5XAIghnkUHw) | 3:19 |
 | 49 | [Leña de Pirul \- En Vivo](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 |
-| 50 | [Vuelve](https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Vuelve](https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa) | 3:34 |
+| 50 | [En Donde Esta Tu Amor](https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Donde Esta Tu Amor](https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY) | 2:49 |
 
-Snapshot ID: `aoo4AAAAAADz5RxWbLTYHFGm6NrWQDHi`
+Snapshot ID: `aouJgAAAAABtJmWanDPREVTHk2BasfaQ`

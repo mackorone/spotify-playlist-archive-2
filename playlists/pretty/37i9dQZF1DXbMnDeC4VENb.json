@@ -1,12 +1,12 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 200871,
+  "num_followers": 200914,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAALQ1vCfXKofu6VP92BTLS6oqTb+",
+  "snapshot_id": "AAAAAOtzedAd68cR3dPElO6zF0lNADgk",
   "tracks": [
     {
       "added_at": "2026-07-10 06:00:39",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Olv\u00eddate",
+        "url": "https://open.spotify.com/album/6ClbshPjH9IBGbTQd0TwlO"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 193058,
+      "name": "Olv\u00eddate",
+      "url": "https://open.spotify.com/track/6Y4EGEbQvkh5s3hqcCknca"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Nada Es Para Siempre",
         "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 195060,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Olv\u00eddate",
-        "url": "https://open.spotify.com/album/6ClbshPjH9IBGbTQd0TwlO"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 193058,
-      "name": "Olv\u00eddate",
-      "url": "https://open.spotify.com/track/6Y4EGEbQvkh5s3hqcCknca"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Una Carta para Ti",
+        "url": "https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Una Carta para Ti",
+      "url": "https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Bajo Sustancias",
         "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
       },
@@ -1271,26 +1287,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Por Un Beso",
         "url": "https://open.spotify.com/album/1WlVjhzcuvwsHqCJX3BztF"
       },
@@ -1311,34 +1307,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Una Carta para Ti",
-        "url": "https://open.spotify.com/album/3WCytJW9xN79jmV1D07Ytb"
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
       },
       "artists": [
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Una Carta para Ti",
-      "url": "https://open.spotify.com/track/7IO8017LlzTcVu8K5EeNnP"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Qu\u00e9 Agusticidad",
-        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
-      },
-      "artists": [
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
         }
       ],
-      "duration_ms": 260571,
-      "name": "Qu\u00e9 Agusticidad",
-      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1359,22 +1343,18 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Todo Menso",
-        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 191917,
-      "name": "Todo Menso",
-      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Todo Menso",
+        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 191917,
+      "name": "Todo Menso",
+      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Le Pido a la Noche",
         "url": "https://open.spotify.com/album/5A2O82embthnUakFLo7US1"
       },
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Ni Por Favor (Si No Me Quieres Ni Modo)",
-        "url": "https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
-      "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "TE VAS",
         "url": "https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 167332,
       "name": "TE VAS",
       "url": "https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Ni Por Favor (Si No Me Quieres Ni Modo)",
+        "url": "https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
+      "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1699,6 +1699,30 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Punto de Quiebre",
+        "url": "https://open.spotify.com/album/1GxhmPcuyNST8j5JEataUT"
+      },
+      "artists": [
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "La Vida Pasa",
+      "url": "https://open.spotify.com/track/53BED28TRVZQ9uEGPQL88X"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Mala Suerte",
         "url": "https://open.spotify.com/album/4ueZPWC5oxrgUOh9nxF99r"
       },
@@ -1719,26 +1743,6 @@
       "duration_ms": 202067,
       "name": "Mala Suerte",
       "url": "https://open.spotify.com/track/5XoFPmVH1utr6vSS1AkFnT"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "S\u00f3lo Si Es Contigo",
-        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 239926,
-      "name": "S\u00f3lo Si Es Contigo",
-      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1783,26 +1787,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Punto de Quiebre",
-        "url": "https://open.spotify.com/album/1GxhmPcuyNST8j5JEataUT"
+        "name": "S\u00f3lo Si Es Contigo",
+        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
       },
       "artists": [
         {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 306000,
-      "name": "La Vida Pasa",
-      "url": "https://open.spotify.com/track/53BED28TRVZQ9uEGPQL88X"
+      "duration_ms": 239926,
+      "name": "S\u00f3lo Si Es Contigo",
+      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "No Me Hables de Amores",
         "url": "https://open.spotify.com/album/1zbxG5KTD9aXT61bd2Akej"
       },
@@ -1931,18 +1947,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Confundido",
-        "url": "https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve"
+        "name": "Ya Sabes Como Soy",
+        "url": "https://open.spotify.com/album/524s7F2BKNuGcTVrUmSAe9"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo"
+      "duration_ms": 176786,
+      "name": "Ya Sabes Como Soy",
+      "url": "https://open.spotify.com/track/4cWIAA9Ua0eEEoZDq8T0Ti"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1963,26 +1983,6 @@
       "duration_ms": 198260,
       "name": "Portarnos Mal",
       "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Ya Sabes Como Soy",
-        "url": "https://open.spotify.com/album/524s7F2BKNuGcTVrUmSAe9"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Ya Sabes Como Soy",
-      "url": "https://open.spotify.com/track/4cWIAA9Ua0eEEoZDq8T0Ti"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Parte del proceso",
+        "url": "https://open.spotify.com/album/1TXVwMBcD0qPAE7wyvnkoz"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 185028,
+      "name": "Parte del proceso",
+      "url": "https://open.spotify.com/track/2P0M1N1uFQkLoMPAI8Df53"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Ni Como Amigo",
         "url": "https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 220000,
       "name": "Ni Como Amigo",
       "url": "https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Parte del proceso",
-        "url": "https://open.spotify.com/album/1TXVwMBcD0qPAE7wyvnkoz"
-      },
-      "artists": [
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 185028,
-      "name": "Parte del proceso",
-      "url": "https://open.spotify.com/track/2P0M1N1uFQkLoMPAI8Df53"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2375,26 +2375,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Axelitimia",
-        "url": "https://open.spotify.com/album/1RLVRmJbyWwB5GCSuWehDa"
-      },
-      "artists": [
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        },
-        {
-          "name": "OPYI",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/0RktlcsAtmvZmE28fBicWU"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -2411,6 +2391,26 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Axelitimia",
+        "url": "https://open.spotify.com/album/1RLVRmJbyWwB5GCSuWehDa"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        },
+        {
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/0RktlcsAtmvZmE28fBicWU"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2487,6 +2487,30 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "No Es Mala Idea",
+        "url": "https://open.spotify.com/album/5DwBczskT737Pj0enuIXew"
+      },
+      "artists": [
+        {
+          "name": "Hione",
+          "url": "https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Dj Kay Fear",
+          "url": "https://open.spotify.com/artist/54nmJ9XTJMCad8cxQwsrE6"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "No Es Mala Idea",
+      "url": "https://open.spotify.com/track/5c18b7Ir7M4VhHzehheFHk"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Mil Escalas",
         "url": "https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6"
       },
@@ -2527,30 +2551,6 @@
       "duration_ms": 202695,
       "name": "Breve Detalle",
       "url": "https://open.spotify.com/track/0V9PezNaKJARBds59bnFCq"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "No Es Mala Idea",
-        "url": "https://open.spotify.com/album/5DwBczskT737Pj0enuIXew"
-      },
-      "artists": [
-        {
-          "name": "Hione",
-          "url": "https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Dj Kay Fear",
-          "url": "https://open.spotify.com/artist/54nmJ9XTJMCad8cxQwsrE6"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "No Es Mala Idea",
-      "url": "https://open.spotify.com/track/5c18b7Ir7M4VhHzehheFHk"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2751,26 +2751,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Quieres",
-        "url": "https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Quieres",
-      "url": "https://open.spotify.com/track/5o6YxpVNGZ0lF0RyFksspd"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Contacto",
         "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
       },
@@ -2787,6 +2767,26 @@
       "duration_ms": 162807,
       "name": "Contacto",
       "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/5o6YxpVNGZ0lF0RyFksspd"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2987,6 +2987,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "B\u00e9same Lento",
+        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 271714,
+      "name": "B\u00e9same Lento",
+      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Findes",
         "url": "https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy"
       },
@@ -3003,22 +3019,6 @@
       "duration_ms": 161304,
       "name": "Findes",
       "url": "https://open.spotify.com/track/5JAP0DcgbnOPvpSVC7Bmm9"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "B\u00e9same Lento",
-        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 271714,
-      "name": "B\u00e9same Lento",
-      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -3079,22 +3079,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Siempre Ser\u00e1s para M\u00ed",
-        "url": "https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "Siempre Ser\u00e1s para M\u00ed",
-      "url": "https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Se Te Olvid\u00f3 Que Te Gustaba",
         "url": "https://open.spotify.com/album/57Iwb7f2hNb3LnrIG1Zct3"
       },
@@ -3107,6 +3091,22 @@
       "duration_ms": 176678,
       "name": "Se Te Olvid\u00f3 Que Te Gustaba",
       "url": "https://open.spotify.com/track/7yd58ySNvnAnrGQfxlo6qN"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Siempre Ser\u00e1s para M\u00ed",
+        "url": "https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "Siempre Ser\u00e1s para M\u00ed",
+      "url": "https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -3327,6 +3327,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G"
+      },
+      "artists": [
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Yo No Falle",
         "url": "https://open.spotify.com/album/28RbW0K3IVpyoqW6pcm3Sk"
       },
@@ -3343,22 +3359,6 @@
       "duration_ms": 203091,
       "name": "Yo No Falle",
       "url": "https://open.spotify.com/track/5RPfVviu5jQQrn70CB0Ega"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G"
-      },
-      "artists": [
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -3455,22 +3455,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Lo Juro",
-        "url": "https://open.spotify.com/album/3qiqfl0YMdwGA9LIWlOUJo"
-      },
-      "artists": [
-        {
-          "name": "Rapozt Mortem",
-          "url": "https://open.spotify.com/artist/1KHXqOQxGsx47nQ3VsYCoy"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Lo Juro",
-      "url": "https://open.spotify.com/track/40xGd8aRX4HUfzoTwQi4Jj"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "En una Nube",
         "url": "https://open.spotify.com/album/3fODLYocKVu9M1SWXnpGbF"
       },
@@ -3487,6 +3471,22 @@
       "duration_ms": 226521,
       "name": "En una Nube",
       "url": "https://open.spotify.com/track/5qpiI7NRnRm49JFXAbQNfN"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Lo Juro",
+        "url": "https://open.spotify.com/album/3qiqfl0YMdwGA9LIWlOUJo"
+      },
+      "artists": [
+        {
+          "name": "Rapozt Mortem",
+          "url": "https://open.spotify.com/artist/1KHXqOQxGsx47nQ3VsYCoy"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Lo Juro",
+      "url": "https://open.spotify.com/track/40xGd8aRX4HUfzoTwQi4Jj"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -3939,22 +3939,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Lo que se va, Se va",
-        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
-      },
-      "artists": [
-        {
-          "name": "Nuco",
-          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
-        }
-      ],
-      "duration_ms": 177274,
-      "name": "Lo que se va, Se va",
-      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "\u00c1rtico",
         "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
       },
@@ -3971,6 +3955,22 @@
       "duration_ms": 219000,
       "name": "Mi Estrella",
       "url": "https://open.spotify.com/track/0WurjPYKP2FQdL7PILZi8j"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Lo que se va, Se va",
+        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
+      },
+      "artists": [
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        }
+      ],
+      "duration_ms": 177274,
+      "name": "Lo que se va, Se va",
+      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -4359,22 +4359,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Talento De Vida",
-        "url": "https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Mi Kryptonita",
-      "url": "https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB"
       },
@@ -4403,6 +4387,22 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Talento De Vida",
+        "url": "https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 188089,
+      "name": "Mi Kryptonita",
+      "url": "https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -4507,22 +4507,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Perder para Ganar",
         "url": "https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB"
       },
@@ -4535,6 +4519,22 @@
       "duration_ms": 211973,
       "name": "Volvernos a Topar",
       "url": "https://open.spotify.com/track/2g1WWDdLIhLsFTy0t04u3f"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -4599,22 +4599,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 203150,
-      "name": "SE MARCHIT\u00d3 LA FLOR",
-      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Mi Vida Es Mejor",
         "url": "https://open.spotify.com/album/6O9tWJ5uhg6SHu6AM60IAR"
       },
@@ -4627,6 +4611,22 @@
       "duration_ms": 169290,
       "name": "Mi Vida Es Mejor",
       "url": "https://open.spotify.com/track/3bnEmZgrF0McEGGCmosnED"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 203150,
+      "name": "SE MARCHIT\u00d3 LA FLOR",
+      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -4839,26 +4839,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Sin pistola",
-        "url": "https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy"
-      },
-      "artists": [
-        {
-          "name": "V.Rod",
-          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 153857,
-      "name": "Sin pistola",
-      "url": "https://open.spotify.com/track/008gGt53LBG5eBo7rfganm"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "FOTOS DE FAMILIA Vol. 1",
         "url": "https://open.spotify.com/album/3JqqNRyCHjYOlFEhLDiV94"
       },
@@ -4875,6 +4855,26 @@
       "duration_ms": 168015,
       "name": "AFRODISIACO",
       "url": "https://open.spotify.com/track/2mB8alPfoXyO1cOzjxL5ng"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Sin pistola",
+        "url": "https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy"
+      },
+      "artists": [
+        {
+          "name": "V.Rod",
+          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 153857,
+      "name": "Sin pistola",
+      "url": "https://open.spotify.com/track/008gGt53LBG5eBo7rfganm"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -5255,18 +5255,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
-        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
       },
       "artists": [
         {
           "name": "Gera MX",
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 234360,
-      "name": "Te Estaba Pensando",
-      "url": "https://open.spotify.com/track/0zDShO01tPtc9UzORBXbiX"
+      "duration_ms": 188500,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -5351,22 +5355,18 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Querida",
-        "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
+        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
+        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
       },
       "artists": [
         {
           "name": "Gera MX",
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 188500,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
+      "duration_ms": 234360,
+      "name": "Te Estaba Pensando",
+      "url": "https://open.spotify.com/track/0zDShO01tPtc9UzORBXbiX"
     },
     {
       "added_at": "2026-07-10 06:00:39",

@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188241,
+  "num_followers": 188230,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqdwUHJ4d3w2dt4ekhl5sgnfMGG",
+  "snapshot_id": "AAAAAHK6OrakA/GVcMh6G4GQnO8+Vo5u",
   "tracks": [
     {
       "added_at": "2026-08-21 08:52:55",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 270680,
       "name": "Yes I'm Changing",
       "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 213188,
       "name": "Old Lovers (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "Bottle",
-        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 258353,
-      "name": "Bottle",
-      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 221790,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 211233,
       "name": "East Village",
       "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "Things Take Time",
-        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Things Take Time",
-      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "Everything in Between",
+        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "duration_ms": 213642,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "When the Magic Comes",
         "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 210168,
       "name": "When the Magic Comes",
       "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "Everything in Between",
-        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
-      },
-      "artists": [
-        {
-          "name": "Munan",
-          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
-        }
-      ],
-      "duration_ms": 213642,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "LE GROOVE D'UNE CHANSON TRISTE",
+        "url": "https://open.spotify.com/album/2zlXNZdEbQesMpP0PV483s"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "LE GROOVE D'UNE CHANSON TRISTE",
+      "url": "https://open.spotify.com/track/26TR6ha1XZ2lPA30AU8iMV"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "Respire",
         "url": "https://open.spotify.com/album/0L3ckhg2u5HcQrFWHkzB9P"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 269653,
       "name": "Annecy",
       "url": "https://open.spotify.com/track/7CBXiV6q0kPOms002HJyoM"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "LE GROOVE D'UNE CHANSON TRISTE",
-        "url": "https://open.spotify.com/album/2zlXNZdEbQesMpP0PV483s"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "LE GROOVE D'UNE CHANSON TRISTE",
-      "url": "https://open.spotify.com/track/26TR6ha1XZ2lPA30AU8iMV"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Fou de toi",
-        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 140248,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 198640,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Fou de toi",
+        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "duration_ms": 140248,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Ache",
-        "url": "https://open.spotify.com/album/1ZglL7piZRwXuAILjndgOz"
-      },
-      "artists": [
-        {
-          "name": "Flora Hibberd",
-          "url": "https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/3cepuSHtaG4aN2EYY4DLwv"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Fool of Myself",
         "url": "https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 204520,
       "name": "Fool of Myself",
       "url": "https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Ache",
+        "url": "https://open.spotify.com/album/1ZglL7piZRwXuAILjndgOz"
+      },
+      "artists": [
+        {
+          "name": "Flora Hibberd",
+          "url": "https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/3cepuSHtaG4aN2EYY4DLwv"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "No Juego",
-        "url": "https://open.spotify.com/album/3UycolNGNA7DMQZBvOITR2"
+        "name": "the plushies, they love you bro",
+        "url": "https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
         }
       ],
-      "duration_ms": 190466,
-      "name": "No Juego",
-      "url": "https://open.spotify.com/track/4PKlFsTOV2SOCskSUS86Je"
+      "duration_ms": 105999,
+      "name": "the plushies, they love you bro",
+      "url": "https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "the plushies, they love you bro",
-        "url": "https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS"
+        "name": "No Juego",
+        "url": "https://open.spotify.com/album/3UycolNGNA7DMQZBvOITR2"
       },
       "artists": [
         {
-          "name": "Clara Kimera",
-          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 105999,
-      "name": "the plushies, they love you bro",
-      "url": "https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD"
+      "duration_ms": 190466,
+      "name": "No Juego",
+      "url": "https://open.spotify.com/track/4PKlFsTOV2SOCskSUS86Je"
     }
   ],
   "unique_name": "D\u00eener entre amis",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Mbosso, Nandy, S2kizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,254 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,284 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Sijamaliza](https://open.spotify.com/track/3LegRPMFfSMGs4wyYhB5wd) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Sijamaliza](https://open.spotify.com/album/3XAAXp3WsMZtBci4BPBF2E) | 2:42 |
 | 60 | [Wange](https://open.spotify.com/track/6xAiy56e2VZxSsWT7EKx2A) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Wange](https://open.spotify.com/album/35FjBLon7dtFYhsWJXtR8t) | 2:49 |
 
-Snapshot ID: `AAAAAOZEpZfoS6L+9nxgukyeMu5g049G`
+Snapshot ID: `AAAAAHgm3X/+AjbiOZ/QFTjm47dONBWz`

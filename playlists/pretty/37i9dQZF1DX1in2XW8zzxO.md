@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,712 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,759 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Rekisa Kapela \(feat\. Certified Dyan\)](https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Certified Dyan](https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q) | [The EEQualizer](https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U) | 6:01 |
 | 50 | [Vanhu](https://open.spotify.com/track/4f54S9iJuUDeAd72x7Fe2w) | [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC), [Afrikayla](https://open.spotify.com/artist/2F9X3CybO4nJ2DgmeAfa6k), [Vutomi](https://open.spotify.com/artist/1laGt6Q7rQk16Ya5mpooxA), [SwooshMafia](https://open.spotify.com/artist/6yD2BwDz48rTuqHTGYCReA) | [Vanhu](https://open.spotify.com/album/1xkHOiJizPkdNZhAYzBmjT) | 4:31 |
 
-Snapshot ID: `AAAAAPwYAed9BxTP7JupoFEwqIHNz+qM`
+Snapshot ID: `AAAAAOckoEqdVD1e3smkMI+L/fRG5W4u`

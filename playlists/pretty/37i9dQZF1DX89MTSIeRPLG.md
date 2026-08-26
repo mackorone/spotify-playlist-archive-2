@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,276 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,283 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 47 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
 | 48 | [Paid to Rap](https://open.spotify.com/track/6KTYCE6x5a8HyPNiGKqYJt) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [Wizzle](https://open.spotify.com/album/2Vvrzgq8XHNAEE6RIfYADd) | 1:41 |
 | 49 | [Cruise Control](https://open.spotify.com/track/6VUP0NVCY6m7enzUyf8MzY) | [El'teainte](https://open.spotify.com/artist/6XCFoVBRPN2ciV01d43q07) | [Fuego](https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2) | 3:24 |
-| 50 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [51 June](https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
+| 50 | [Ok Cool](https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Ok Cool](https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom) | 2:57 |
 
-Snapshot ID: `AAAAAFPTRfpvKsT2o2wqgiB8k4vnaxVo`
+Snapshot ID: `AAAAAGdJMKNO2x+whKhBFnAQFvCrjkU1`

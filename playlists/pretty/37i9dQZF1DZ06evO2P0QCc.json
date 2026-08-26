@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 126007,
+  "num_followers": 126026,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACw67zzSAaT/Qqnixl2KNv+",
+  "snapshot_id": "aouJgAAAAAApSbaYqDVDkAEuZJljzag5",
   "tracks": [
     {
       "added_at": null,
@@ -411,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A la Larga Te Acostumbras",
-        "url": "https://open.spotify.com/album/5jk2mKBw1wNaDuCHy0lwvz"
-      },
-      "artists": [
-        {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Dr.Shenka",
-          "url": "https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Tengo un Amor",
-      "url": "https://open.spotify.com/track/7F0iPNyf2Zmxmu7r220B5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -827,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skannibal Party, Vol. 14",
-        "url": "https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Lamba Do Ska",
-      "url": "https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta, Vol.1",
         "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
@@ -855,6 +815,38 @@
       "duration_ms": 208826,
       "name": "Nunca Digas Que No",
       "url": "https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "No Puedo Ser Tu Amigo",
+      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 256016,
+      "name": "P\u00e1ginas en Blanco",
+      "url": "https://open.spotify.com/track/0Te6eXGhdb1dv1qDMTnJm7"
     }
   ],
   "unique_name": "This Is Inspector",

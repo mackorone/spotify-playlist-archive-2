@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGh+Lm8sktGxRMGbGRUV5fnINjOo",
+  "snapshot_id": "AAAAAMfEk98F4l74eyqgKHDrCaH3ZHf3",
   "tracks": [
     {
       "added_at": "2026-08-21 04:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 260695,
       "name": "40 Nights",
       "url": "https://open.spotify.com/track/2CTwK5KZryhCTxLwv0TAJg"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "The Old Guys",
+      "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -55,42 +75,22 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "The Old Guys",
-      "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
         "name": "By Any Means",
         "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        },
-        {
           "name": "David Kushner",
           "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 236505,
-      "name": "By Any Means - Film Version",
-      "url": "https://open.spotify.com/track/29JlmxdWXF6rbDPMbK2m4X"
+      "duration_ms": 193963,
+      "name": "By Any Means - Single Version",
+      "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -151,6 +151,26 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "AND FLY",
+        "url": "https://open.spotify.com/album/7edISwQZLLb6RuHN6N0jy3"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 231901,
+      "name": "YOU CAN ALWAYS COME BACK HOME",
+      "url": "https://open.spotify.com/track/2vqBRoGsI41kO1f7sIp6qE"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "Saw You Stand",
         "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
       },
@@ -187,22 +207,18 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "AND FLY",
-        "url": "https://open.spotify.com/album/7edISwQZLLb6RuHN6N0jy3"
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 231901,
-      "name": "YOU CAN ALWAYS COME BACK HOME",
-      "url": "https://open.spotify.com/track/2vqBRoGsI41kO1f7sIp6qE"
+      "duration_ms": 159810,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -219,22 +235,6 @@
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Nimrods Original Soundtrack",
-        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 72528,
-      "name": "Auld Lang Syne - Live",
-      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Mess",
-        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
+        "name": "Nimrods Original Soundtrack",
+        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 159810,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
+      "duration_ms": 72528,
+      "name": "Auld Lang Syne - Live",
+      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
         "name": "OUT THE BOX",
         "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
       },
@@ -371,38 +351,22 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm"
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
         }
       ],
-      "duration_ms": 386020,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Still Crying",
-        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 249654,
-      "name": "Still Crying",
-      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -431,6 +395,42 @@
       "duration_ms": 145813,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/3jj1qRsDIvU4zgMo3YKDkD"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Still Crying",
+        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249654,
+      "name": "Still Crying",
+      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 386020,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
-      },
-      "artists": [
-        {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 279779,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
         "name": "Philip Glass: Evening Song No.3",
         "url": "https://open.spotify.com/album/3UqOjOrakeACSn8Zk3joZs"
       },
@@ -547,30 +531,18 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Natural Blues (TECIE)",
-        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
         }
       ],
-      "duration_ms": 252857,
-      "name": "Natural Blues (TECIE)",
-      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
+      "duration_ms": 279779,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -603,6 +575,54 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "Natural Blues (TECIE)",
+        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "Natural Blues (TECIE)",
+      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Floette ft. John Glacier",
+        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 192212,
+      "name": "Floette ft. John Glacier",
+      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
         "url": "https://open.spotify.com/album/0Z3NEbszFJ6dMTCIloKdQP"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 343786,
       "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
       "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Floette ft. John Glacier",
-        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 192212,
-      "name": "Floette ft. John Glacier",
-      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
     },
     {
       "added_at": "2026-08-21 04:00:00",

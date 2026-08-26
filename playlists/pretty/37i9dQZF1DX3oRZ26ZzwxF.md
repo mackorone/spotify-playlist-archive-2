@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Himra
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,206 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,338 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [BRAMOGO](https://open.spotify.com/track/6I7jDDtu8qKPpiBITFv7nt) | [JOPAPI](https://open.spotify.com/artist/51YvT0bgf9HKKRtcripRT7), [The shirurgian on the beatz](https://open.spotify.com/artist/1ymJIefHhbqjZXbFJvEMDE) | [BRAMOGO](https://open.spotify.com/album/4ME6XM6XrlNmRBWYUfhrLV) | 2:42 |
 | 50 | [FAIS ÇA BIEN](https://open.spotify.com/track/71ETExWimdrcoAbUio6b79) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [FAIS ÇA BIEN](https://open.spotify.com/album/1kLHbf3rbvaRB7CbEjauC5) | 3:33 |
 
-Snapshot ID: `AAAAALR13CAw9WHma8/harZXSjJ4d61g`
+Snapshot ID: `AAAAAG8Lsl+bYzIq84WihhKQe1OgVYTY`

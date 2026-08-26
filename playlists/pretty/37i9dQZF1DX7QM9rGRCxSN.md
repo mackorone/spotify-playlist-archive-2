@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,239 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,243 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 14 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
 | 15 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
 | 16 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
-| 17 | [Como en el 'Crechendo'](https://open.spotify.com/track/6KTjo4RmDk3J0mxsrdLw5F) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [Lomas Verdes](https://open.spotify.com/album/5RKUyelUpA0DsHZLM4Y8bn) | 3:25 |
-| 18 | [La Noche](https://open.spotify.com/track/1jpP9y8UW2BMBAYYy4QCqQ) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Todo Va Hacia el Mar](https://open.spotify.com/album/3hUBWCquWieokQRa0Yzvmx) | 3:33 |
+| 17 | [La Noche](https://open.spotify.com/track/1jpP9y8UW2BMBAYYy4QCqQ) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Todo Va Hacia el Mar](https://open.spotify.com/album/3hUBWCquWieokQRa0Yzvmx) | 3:33 |
+| 18 | [Como en el 'Crechendo'](https://open.spotify.com/track/6KTjo4RmDk3J0mxsrdLw5F) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [Lomas Verdes](https://open.spotify.com/album/5RKUyelUpA0DsHZLM4Y8bn) | 3:25 |
 | 19 | [San Borja](https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Cortacalles](https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM) | 4:35 |
 | 20 | [Despertar](https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Despertar](https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG) | 3:48 |
 | 21 | [Charlie contra los monjes](https://open.spotify.com/track/3uUOxbnLTaG1FpSFWobwgY) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Flora y Fauna del Estado de México](https://open.spotify.com/album/37TT0YwBeoYDSx4xq68gQ8) | 3:12 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 31 | [Aniversários São Difíceis](https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY) | [El Toro Fuerte](https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ) | [Nossos Amigos e os Lugares Que Visitamos](https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL) | 6:21 |
 | 32 | [Emo Mid Windows](https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs) | [El mejor verano de mi vida](https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n) | [El mejor verano de mi vida](https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2) | 2:26 |
 | 33 | [Mata a Tus Ídolos](https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [S / T](https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB) | 1:48 |
-| 34 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
-| 35 | [El Club Internacional de Astronautas Fracasados](https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Y Si un Día Explota el Planeta Quiero Tenerte Cerca](https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy) | 3:54 |
-| 36 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
+| 34 | [El Club Internacional de Astronautas Fracasados](https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Y Si un Día Explota el Planeta Quiero Tenerte Cerca](https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy) | 3:54 |
+| 35 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
+| 36 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
 | 37 | [Parálisis del Sueño](https://open.spotify.com/track/3OgIhXydbvv8KV6lpyT3gx) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Omelette Du Fromage](https://open.spotify.com/album/2PbgzSvLi7z46n6WKiL4kK) | 2:30 |
 | 38 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
 | 39 | [Orquídeas](https://open.spotify.com/track/0uNYFj02U52kOYTJAhzJNN) | [Hummm](https://open.spotify.com/artist/5Nd5eFtrvfMLHmA78iGmT7) | [Orquídeas](https://open.spotify.com/album/6BvXv0f2qbNI9aC1iKAs62) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [Comenzar De Cero](https://open.spotify.com/track/6nzIedKdHdAiz8iZa5fHU5) | [Congelador](https://open.spotify.com/artist/3OggS6Lzuzojyvd8t8ZAat) | [Panorama Neutral](https://open.spotify.com/album/4TMvWBmWr1WTTBIPzsLGul) | 3:22 |
 | 50 | [Monty murió por mi culpa y ahora su fantasma no deja de molestarme](https://open.spotify.com/track/1Css9p0LMeZ8v84E7tig4j) | [Angelo Con Baja Autoestima](https://open.spotify.com/artist/15eh6gwszLI2pu628n0nRx) | [Verde Color Universo](https://open.spotify.com/album/7hIp2B3nKf6iERwUkWk9IS) | 3:02 |
 
-Snapshot ID: `AAAAABqP6ZR3SE2nva09WRb9r2jwQGsG`
+Snapshot ID: `AAAAAErgoUoxj9rwq0FgxuHGEbLY2ExZ`

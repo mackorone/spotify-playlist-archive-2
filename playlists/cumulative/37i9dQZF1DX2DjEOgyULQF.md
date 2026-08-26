@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-500 songs - 23 hr 36 min
+502 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Light Flow](https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Light Flow](https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE) | 2:59 | 2024-12-20 | 2026-04-04 |
 | [Light Fragments](https://open.spotify.com/track/2B2VLchzDh0QXW5b7ad4Ao) | [Canopy Sound](https://open.spotify.com/artist/6tjeq3snhkGGVQrBRMzr0s) | [Light Fragments](https://open.spotify.com/album/4P7tquVb7abAFrSOm3Yevf) | 2:52 | 2026-07-03 |  |
 | [Light of my Life](https://open.spotify.com/track/2Ole1aJrKoBLlfbZLdvF4l) | [Vantalis](https://open.spotify.com/artist/2gHum2biYAe1RQbhblGuIl) | [Light of my Life](https://open.spotify.com/album/6WndiNkiQw2bOr4t9c7RNT) | 3:08 | 2026-04-03 | 2026-08-20 |
+| [Like A Dream](https://open.spotify.com/track/14kB7WvRwqQZxvYK0SfTqw) | [Sous la vague](https://open.spotify.com/artist/0OozwIRMLcU0nCpyANNLBG) | [Like A Dream](https://open.spotify.com/album/2b0l0UA3ZUcBVrrvGOwizl) | 2:31 | 2026-08-19 |  |
 | [Like Water](https://open.spotify.com/track/5cbaZZoB2iYsP7FQHmKRzq) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Light](https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi) | 3:26 | 2023-04-28 | 2023-07-14 |
 | [Limitless](https://open.spotify.com/track/4Z9CDkOyfnVtS2gUgmZe3i) | [Soulström](https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6) | [Limitless](https://open.spotify.com/album/06SkRwuEyIo7ZlAcuFVmvv) | 2:18 | 2025-09-10 | 2026-02-15 |
 | [Lingering](https://open.spotify.com/track/5QU6zrvhmxn0Vy3b5iNIl7) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Lingering](https://open.spotify.com/album/0WQE5fEVkKrdprb1ppjjc8) | 2:36 | 2026-02-23 | 2026-04-04 |
@@ -284,7 +285,7 @@
 | [Mistember](https://open.spotify.com/track/6HcbLaRb6QtOe9E2MLTkXy) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Mistember](https://open.spotify.com/album/7GA20NRg7lToIYZN6Zq8qp) | 3:10 | 2025-03-19 | 2026-08-12 |
 | [Misty Glade](https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Misty Glade](https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV) | 3:50 | 2024-06-03 | 2026-04-04 |
 | [Mitra´s Morning](https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Mitra´s Morning](https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y) | 2:35 | 2023-10-06 | 2025-12-18 |
-| [Morning Birds](https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG) | [Ørlund](https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y) | [Morning Birds](https://open.spotify.com/album/1sxlE0lCbIN8n7ssEcgvZV) | 2:48 | 2026-07-03 |  |
+| [Morning Birds](https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG) | [Ørlund](https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y) | [Morning Birds](https://open.spotify.com/album/1sxlE0lCbIN8n7ssEcgvZV) | 2:48 | 2026-07-03 | 2026-08-26 |
 | [Morning Flourish](https://open.spotify.com/track/682ajrmPSRg9h9iAnT1Y3X) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Morning Flourish](https://open.spotify.com/album/5xCELqjiM5ClyW12ggx7Qz) | 2:40 | 2025-03-19 | 2026-04-04 |
 | [Morning Serenity](https://open.spotify.com/track/1f0Xfxjv0ClqY4PGedSAoq) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Morning Serenity](https://open.spotify.com/album/61PBagExiEvzSCp7H4hKbC) | 2:22 | 2026-02-23 | 2026-04-04 |
 | [Morning Song Of The Forest](https://open.spotify.com/track/1hJuOC8J64RPYKxhX9374D) | [Sandman](https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a) | [Morning Song Of The Forest](https://open.spotify.com/album/7H02S49UW6E3BosVybXlEj) | 2:09 | 2026-06-26 |  |
@@ -322,6 +323,7 @@
 | [Of Younger Days](https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7) | [Sky's Memoirs](https://open.spotify.com/artist/7qMHZInw2IFsTan4o7lZKh) | [Of Younger Days](https://open.spotify.com/album/0cw8E6kq8cc7cEnh1dWXDh) | 3:17 | 2026-06-26 | 2026-07-03 |
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2023-04-28 | 2025-05-22 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
+| [Opening Trees](https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E) | [Morouj](https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK) | [Opening Trees](https://open.spotify.com/album/1ve1MD9koLWiujPSXZxOXO) | 3:05 | 2026-08-19 |  |
 | [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 | 2024-08-23 | 2025-09-11 |
 | [Organesque](https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf) | [Mellow Bars](https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe) | [Organesque](https://open.spotify.com/album/3iBYE3TVsCrIKB69RfIZ7o) | 2:39 | 2023-04-28 | 2024-06-25 |
 | [Orlithan](https://open.spotify.com/track/29phtIWzxNHi76o4bH3qeq) | [Eva Duarte](https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg) | [Orlithan](https://open.spotify.com/album/68894zg6ctvRgb4nw4CQAV) | 2:28 | 2026-06-26 | 2026-07-12 |
@@ -452,7 +454,7 @@
 | [Trace](https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL) | [Cuatico](https://open.spotify.com/artist/7uwkc1ZXfm0rVruHw8a91m) | [Trace](https://open.spotify.com/album/7ubIk8MvGIJ4TYXTiGGPOF) | 2:17 | 2026-01-08 | 2026-04-04 |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2023-04-28 | 2024-04-02 |
 | [Tranquility](https://open.spotify.com/track/3qoGayotW8LH4rmjuYiB9r) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Tranquility](https://open.spotify.com/album/58nrqDQObWPfNLTcBSJw9H) | 2:23 | 2026-08-19 |  |
-| [Transcendent Pools](https://open.spotify.com/track/3zxKbETJMvNUEbQJsng8hs) | [Brave Olgot](https://open.spotify.com/artist/36ZUkDeMXc5THGh3Wzls66) | [Transcendent Pools](https://open.spotify.com/album/2PdNceP5p7zyrqQXlC33bm) | 2:39 | 2026-07-03 |  |
+| [Transcendent Pools](https://open.spotify.com/track/3zxKbETJMvNUEbQJsng8hs) | [Brave Olgot](https://open.spotify.com/artist/36ZUkDeMXc5THGh3Wzls66) | [Transcendent Pools](https://open.spotify.com/album/2PdNceP5p7zyrqQXlC33bm) | 2:39 | 2026-07-03 | 2026-08-26 |
 | [Transmission](https://open.spotify.com/track/06O8wPfnfKwzme7B2l6mEP) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Transmission](https://open.spotify.com/album/6P9UOCViUkPpWijj7wV6fQ) | 2:51 | 2024-11-28 | 2026-04-04 |
 | [Tree Spirits](https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Tree Spirits](https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z) | 2:24 | 2024-07-19 | 2026-04-04 |
 | [Treelines](https://open.spotify.com/track/6ULxcjZlx0SWEp0f6gJnrH) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Treelines](https://open.spotify.com/album/65yPAJqfjzZs0IrjfMoZf4) | 3:11 | 2026-06-12 | 2026-08-22 |

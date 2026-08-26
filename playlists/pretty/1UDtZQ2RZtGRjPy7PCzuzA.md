@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > yk what else is massive
 
-[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,184 songs - 2 day 18 hr 52 min
+[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,188 songs - 2 day 19 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1192,5 +1192,9 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1182 | [St\. Patrick's](https://open.spotify.com/track/2qzzG3HPPphZekVBxlEFLy) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:40 |
 | 1183 | [Love Is A Battlefield](https://open.spotify.com/track/4p1PizAGdglm2sVvPuFPWs) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [The Collection](https://open.spotify.com/album/2FmhbFIebAChLAJh9Bfg8b) | 4:05 |
 | 1184 | [Notice Me, Horton \- From "Seussical The Musical"](https://open.spotify.com/track/5HML9ylanbhqWYe0kk3jiM) | [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Stephen Flaherty](https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy), [Janine LaManna](https://open.spotify.com/artist/6JR2RlXf1P7oALaIiHwJEm), [Kevin Chamberlin](https://open.spotify.com/artist/0hjafZk3hkNc7iamqlXfJY) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 3:07 |
+| 1185 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 |
+| 1186 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
+| 1187 | [For Now](https://open.spotify.com/track/7zCbNTKUV9R8FJ9kxz2RwH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:53 |
+| 1188 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
 
-Snapshot ID: `AAAMHvpKFM82p4LdaciDmETCrGCv7lYL`
+Snapshot ID: `AAAMIiYiUX7Oq4vpxIhzKc+aj66IBGNx`

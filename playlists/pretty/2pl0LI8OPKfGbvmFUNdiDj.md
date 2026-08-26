@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,121 likes - 59 songs - 3 hr 17 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,131 likes - 64 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,10 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 57 | [Happy Pill](https://open.spotify.com/track/70s2jRIzv2wH9WiQv3CNuY) | [Millie Mountain](https://open.spotify.com/artist/6DVdCYxPalV6GXHAFhEkIG) | [Tools](https://open.spotify.com/album/5prOUcOkdi374LTU7xR6h8) | 1:58 |
 | 58 | [Forever](https://open.spotify.com/track/1RuckU5sGctczAPxEBiNRl) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Forever](https://open.spotify.com/album/0HwDigYQQjh0T0tqsC71dM) | 4:17 |
 | 59 | [Need and Desire](https://open.spotify.com/track/0PP0HKi1EVTQ5OupfncE7A) | [Ebb 'n Flow](https://open.spotify.com/artist/10whZfAsmPiGyP9x4K4VMu) | [Need and Desire](https://open.spotify.com/album/3XXqrdUMW5OjilzoqgTxid) | 3:04 |
+| 60 | [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 |
+| 61 | [sobreviviendo \- rock cover](https://open.spotify.com/track/67t7nf3Ckc04zijo1Wc5Nl) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [sobreviviendo \(rock cover\)](https://open.spotify.com/album/375bUy8EBPaL3Fa7mfzttx) | 6:22 |
+| 62 | [Orbit](https://open.spotify.com/track/73Bv1zWG07mVOuRMY9Hyhx) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [Orbit](https://open.spotify.com/album/7I6IVz3d9uV2G54Hu0hQLh) | 3:58 |
+| 63 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 |
+| 64 | [BLAME](https://open.spotify.com/track/7Hly2elHJYMeinWlhHrDSp) | [NatStar](https://open.spotify.com/artist/4CoERlRqP61DsVAksrSXLb) | [BLK MIRROR \- EP1](https://open.spotify.com/album/5NqoJ7iV2vz0r4knhqxbX6) | 3:10 |
 
-Snapshot ID: `AAAEPtsfztnvQ8eTCLKOJzOD7b/PRKRY`
+Snapshot ID: `AAAEQ19CxAZ4Ca3kOkz6lnTunOXwhrgu`

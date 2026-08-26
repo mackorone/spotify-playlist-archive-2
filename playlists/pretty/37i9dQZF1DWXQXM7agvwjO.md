@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: cehryl \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,846 likes - 105 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,855 likes - 105 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 104 | [Good Waves Island](https://open.spotify.com/track/7qzY06e8kjU1EFakPvBP5E) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [阿弗娄](https://open.spotify.com/artist/45AmuWhASTkl17qmyearER) | [Good Waves Island](https://open.spotify.com/album/1qI6WrLnmtOHKCggLtslnC) | 3:36 |
 | 105 | [TAMAK](https://open.spotify.com/track/5BonYT6dM76PrprdPxBQh9) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b) | [TAMAK](https://open.spotify.com/album/0zBSMEGPnaw6SgZvFEJsu5) | 4:49 |
 
-Snapshot ID: `AAAAANdl8M1qEVxn+qsyVZBUXnEKN5DJ`
+Snapshot ID: `AAAAAOvAAb8exmk1qGd5tTgORngleckx`

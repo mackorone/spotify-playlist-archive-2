@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Fontaines D.C
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,079 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,067 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Self Sabotage](https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Self Sabotage](https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1) | 2:22 |
 | 100 | [True](https://open.spotify.com/track/2oEytO1vmheSKGuXNx9TYI) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [True](https://open.spotify.com/album/4BuPoOfriUi0QHgCOgUXBf) | 3:37 |
 
-Snapshot ID: `AAAAAAi39O/vD8WT9VaatmgVZoO2nqZM`
+Snapshot ID: `AAAAACKi5apUpRQJqJKr84m9W7YdQjAJ`

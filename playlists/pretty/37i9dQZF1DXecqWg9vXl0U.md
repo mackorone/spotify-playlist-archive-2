@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,387 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,391 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 56 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
 | 57 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [los pies](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
 | 58 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 |
-| 59 | [Claro](https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Claro](https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn) | 1:43 |
-| 60 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
-| 61 | [Tiempo, a ver](https://open.spotify.com/track/6GD69uM56K8RSEY2K4bBvK) | [Bosque](https://open.spotify.com/artist/6xIiv2i3zkP4mzGQvGVHTS) | [Traigo un monte](https://open.spotify.com/album/4Tji6shiBgFB3oHHIqPmWo) | 2:44 |
-| 62 | [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 |
+| 59 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
+| 60 | [Claro](https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Claro](https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn) | 1:43 |
+| 61 | [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 |
+| 62 | [Tiempo, a ver](https://open.spotify.com/track/6GD69uM56K8RSEY2K4bBvK) | [Bosque](https://open.spotify.com/artist/6xIiv2i3zkP4mzGQvGVHTS) | [Traigo un monte](https://open.spotify.com/album/4Tji6shiBgFB3oHHIqPmWo) | 2:44 |
 | 63 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
 | 64 | [Horas Sin Dormir](https://open.spotify.com/track/3RmAeEq33kS5ZmVEvltSxn) | [Mi Personaje Favorito](https://open.spotify.com/artist/7AtFWgyB5RHfG7ytVrjelf), [Bacbruce](https://open.spotify.com/artist/4ZZWSne8JPSNNU8Ehk0vyS) | [Horas Sin Dormir](https://open.spotify.com/album/0JLhIyDxEvfhJv3HycpGpv) | 3:26 |
 | 65 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Me Sobran las Ganas \(Cuando Te Vas\)](https://open.spotify.com/track/18SrWIyth3DmyLgDiZfR6a) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M), [Lizi Lay](https://open.spotify.com/artist/1ePXokISu6GVKdSaw5XWic) | [Me Sobran las Ganas \(Cuando Te Vas\)](https://open.spotify.com/album/2YvrMCoIpDsOW6Cz7UD5qj) | 3:02 |
 | 75 | [amor universal](https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [amor universal](https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ) | 3:43 |
 
-Snapshot ID: `AAAAANSfskhXuq1/tOvs5N8utiDx66SP`
+Snapshot ID: `AAAAAItLkbtZikZF0jQkSLjMvWeFNr3m`

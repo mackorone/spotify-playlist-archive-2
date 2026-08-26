@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,719 likes - 54 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,754 likes - 54 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 53 | [クリスマス](https://open.spotify.com/track/7BHuEHufMzJVVu1Avp2PmD) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [Orange Sunshine](https://open.spotify.com/album/7j8oAuDBsqe8z9U9xcw1b1) | 4:19 |
 | 54 | [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 |
 
-Snapshot ID: `AAAAAAaWlyItrXINoUVng7CEm0xPI9IS`
+Snapshot ID: `AAAAAObGtdMqrMGSNNAF7cRMS9U9w8Di`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 495 likes - 400 songs - 16 hr 12 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 494 likes - 400 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 74 | [Noir \(Felted Piano\)](https://open.spotify.com/track/06aUusIYN99gFTQpYYyNjx) | [Sidney Chopin](https://open.spotify.com/artist/1bxajqVPVL8V1o0gc3pcxm), [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Impressions](https://open.spotify.com/album/10h0s6Kijg3pkNYiQRHakX) | 2:03 |
 | 75 | [monday nights](https://open.spotify.com/track/0tFcFZwKBGaVZR6gYEopVv) | [onlyzach](https://open.spotify.com/artist/0UlTasbC3GTcNI00B34mNA) | [monday nights](https://open.spotify.com/album/2cU6tVNc7ga0UfkMN9meD2) | 1:55 |
 | 76 | [Sliver \(Piano Version\)](https://open.spotify.com/track/1ciWfZMhjjbujMZLt66oUs) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [Sliver](https://open.spotify.com/album/7zemnSpuc1lN57ce7iKD94) | 2:13 |
-| 77 | [Hiver \(5:14\)](https://open.spotify.com/track/56VnAXOYj5OLUZyjJFoOqI) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Hiver \(5:14\)](https://open.spotify.com/album/2IoX0QExzSZG9C68LcuOat) | 2:10 |
+| 77 | [Hiver \(5:14\)](https://open.spotify.com/track/0hdPReYgvJNMXcE1jI3A1s) | [Paul Drilhon](https://open.spotify.com/artist/6dNS9L2t0kM6RqjQ9gkblT), [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Hiver \(5:14\)](https://open.spotify.com/album/2MNWgkdTN4uV5hcMV9KCyY) | 2:10 |
 | 78 | [Bright New Morning](https://open.spotify.com/track/7d72IApcPPgrspzu4yPklv) | [Valentino Mancini](https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2) | [Bright New Morning](https://open.spotify.com/album/4pU5Fh4tnYu2kjh3b6gNVf) | 2:22 |
 | 79 | [Distanza](https://open.spotify.com/track/6KjPbWK0F28jYqkYBWB4Yl) | [Leonardo Fontana](https://open.spotify.com/artist/1OZ67r3FKyVCTwhyPSBzjf) | [Distanza](https://open.spotify.com/album/7xl8pM5CLJ7MyMRXSIcbUC) | 2:03 |
 | 80 | [Hiver \(7:11\)](https://open.spotify.com/track/3IXbgVz7ppLZxZZXzo9aBd) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Hiver \(7:11\)](https://open.spotify.com/album/28zPXylnqx9stnNEvdVJ5z) | 2:50 |
@@ -378,7 +378,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 368 | [Pastels and hues](https://open.spotify.com/track/2WL38o4ab7ZzIm1QXlQTCM) | [Thayer](https://open.spotify.com/artist/1GAHD2clwrr7wsSgUqHw5b) | [Pastels and hues](https://open.spotify.com/album/2KuNCIlttTIA9wmjCSx6cj) | 3:05 |
 | 369 | [Behind The Forest](https://open.spotify.com/track/2aXRctm9IicGsgGBGxuFpj) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Behind The Forest](https://open.spotify.com/album/1BAFooeEqM1cvDZFUxzikQ) | 2:36 |
 | 370 | [Temperance](https://open.spotify.com/track/42LO3n2s3wqawS25NIBK4W) | [Eskricke](https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt) | [Temperance](https://open.spotify.com/album/2NzCYt1NR6nqQY4KTmjFgY) | 2:03 |
-| 371 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 |
+| 371 | [del mar](https://open.spotify.com/track/1TmNJdWhmdFf526Nc8pRK6) | [emerson MC](https://open.spotify.com/artist/0lj5TPEopsS4dGT1triwf5) | [del mar](https://open.spotify.com/album/3HKkwlFcu6NHp4fgiNtnbc) | 1:47 |
 | 372 | [Once Upon a Time](https://open.spotify.com/track/5jvtbybELkHnFrFJxDDLDe) | [Jordan Seigel](https://open.spotify.com/artist/1s6Tpkmcu82ZnLoRjESUbI) | [Machine Heart \(Original Score\)](https://open.spotify.com/album/5X44PMHU5MpBqFuTQZBoDE) | 2:05 |
 | 373 | [Morpho Menelaus](https://open.spotify.com/track/4DpJeIgAxlrLBsLPY88Skq) | [Valentin Scholl](https://open.spotify.com/artist/31nziFCQXhUjs3mURgkS3j) | [Morpho Menelaus](https://open.spotify.com/album/2eCt7zkeaSnCqLiD3KUb2F) | 2:04 |
 | 374 | [Sierra](https://open.spotify.com/track/1vo0FDdS2LOgbF59kZueow) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Sierra](https://open.spotify.com/album/5FJ07iBpkQiq7aKMhuAVq7) | 3:08 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 399 | [Dream Waltz](https://open.spotify.com/track/62O35G0iHVKb9W6uSZmWEv) | [Pierre Lebold](https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM) | [Dream Waltz](https://open.spotify.com/album/6I5PJDVDGP2zlNvqbI3MmF) | 2:38 |
 | 400 | [growing old](https://open.spotify.com/track/1d51vvubceobrHPXDJ6Wvs) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [growing old](https://open.spotify.com/album/5BzW6onKV8CMZTQXGGgUeo) | 2:35 |
 
-Snapshot ID: `AAAIavqva3U9L0bc8UvHPES8tRhxTTs1`
+Snapshot ID: `AAAIcgJHGzuQTyAxN9gFboWV6oTf5Qoc`

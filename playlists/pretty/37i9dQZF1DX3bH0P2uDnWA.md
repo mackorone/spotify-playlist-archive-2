@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,005 likes - 150 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,995 likes - 150 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 122 | [Sing Sing Sing \- Extra Medium Remix](https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs), [Extra Medium](https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I) | [Dance, Dance, Dance \(Extra Steps\)](https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS) | 4:18 |
 | 123 | [Allez Viens \(Via Con Me\) \[feat\. Pierre Santini & Lada Redstar\]](https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Pierre Santini](https://open.spotify.com/artist/2sERfmcDISRbdIvSwc1srm), [Lada Redstar](https://open.spotify.com/artist/2hvVzDZUDCDV1CMEYefruX) | [Introducing, Bart&Baker](https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9) | 3:29 |
 | 124 | [Glam \- Electro\-swing Remix](https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR) | [Dimie Cat](https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI) | [Glam! \- Single](https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9) | 3:07 |
-| 125 | [Pingu \(Game Sessions\)](https://open.spotify.com/track/0b0KLvIue75k7HzPb2n59G) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs), [Arnau Altimir](https://open.spotify.com/artist/147urXJ1DAPRW1TRtVGWar), [Magalí Sare](https://open.spotify.com/artist/4yU06ZMQgomPONCGeO0HgE) | [Pingu \(Game Sessions\)](https://open.spotify.com/album/1FSdi1V08eZUBrt3EpRI6X) | 3:45 |
+| 125 | [Pingu \- Game Sessions](https://open.spotify.com/track/0b0KLvIue75k7HzPb2n59G) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs), [Arnau Altimir](https://open.spotify.com/artist/147urXJ1DAPRW1TRtVGWar), [Magalí Sare](https://open.spotify.com/artist/4yU06ZMQgomPONCGeO0HgE) | [Pingu \(Game Sessions\)](https://open.spotify.com/album/1FSdi1V08eZUBrt3EpRI6X) | 3:45 |
 | 126 | [Stay \(Electro Swing Remix\)](https://open.spotify.com/track/6ZcdAII7aNBWqq7ZIjzoQe) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Stay \(Electro Swing Remix\)](https://open.spotify.com/album/0MYkQQArOoxc0Kdw88Niad) | 3:19 |
 | 127 | [Busy Doing Nothing](https://open.spotify.com/track/1WJkGgiuF9ye09HqMiU2Pw) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Busy Doing Nothing](https://open.spotify.com/album/1UtlRgPOYym8XUmfFg9fLr) | 3:19 |
 | 128 | [AKH Odessa](https://open.spotify.com/track/5Y6jWzTtil6LwMChWEE8Tu) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Russian Gentlemen Club](https://open.spotify.com/artist/2n0QKE9OP6RYRkwbgI9nRG) | [AKH Odessa](https://open.spotify.com/album/3z0i8xWAB2svFBmzGbI0F0) | 4:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 149 | [Who’s Evie Now?](https://open.spotify.com/track/2RMboYE8BXPooJpHK6v6Nw) | [Andrew Gerle](https://open.spotify.com/artist/3ItYFOck10exFSS6aJMegS), [DJ Salisbury](https://open.spotify.com/artist/7lnBuvIUqvVmIux4Mf4Kc7), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Keri René Fuller](https://open.spotify.com/artist/66Jio1SQDMRME7S2WboYPQ) | [Whisper Darkly \(Concept Album\)](https://open.spotify.com/album/1xMpMRN25K3pCVXyj44per) | 3:58 |
 | 150 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh) | [The Cat Came Back](https://open.spotify.com/album/3NMJ7yVpUcwwE5alueef9V) | 2:53 |
 
-Snapshot ID: `AAAAADXIQOC/QVZnc5q+3if2DbnaY/ie`
+Snapshot ID: `AAAAADuVCU9Yvhc3v3Hzak7s2ORFXOm8`

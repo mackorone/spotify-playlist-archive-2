@@ -27212,7 +27212,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 233410,
       "name": "Menjaga Hati",
       "url": "https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk"
@@ -27328,7 +27328,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
@@ -42911,20 +42911,24 @@
     },
     {
       "album": {
-        "name": "Tell Me (feat. AG COCO)",
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/6DhHxRDSzwje4NiEl8YTyE"
       },
       "artists": [
         {
           "name": "Pinstripes",
           "url": "https://open.spotify.com/artist/55sDlhEtcEfwIzApR6AHgH"
+        },
+        {
+          "name": "AG COCO",
+          "url": "https://open.spotify.com/artist/5MQk3WIAnNUAgz8FuhQjzX"
         }
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183941,
-      "name": "Tell Me (feat. AG COCO)",
+      "name": "Tell Me",
       "url": "https://open.spotify.com/track/6uDMZjFejctSFnUJZevz9U"
     },
     {

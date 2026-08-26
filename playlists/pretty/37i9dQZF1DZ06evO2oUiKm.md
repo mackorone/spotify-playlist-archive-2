@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,607 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,610 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 35 | [What About Love?](https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:57 |
 | 36 | [Hold On I'm Coming](https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 2:47 |
 | 37 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
-| 38 | [Alright](https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Freedom \- EP](https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J) | 3:49 |
+| 38 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 |
 | 39 | [The Color Purple \(Reprise\)](https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Color Purple New Broadway Cast](https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:54 |
 | 40 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 |
 | 41 | [Brick By Brick](https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 5:17 |
-| 42 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 |
-| 43 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 |
+| 42 | [Alright](https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Freedom \- EP](https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J) | 3:49 |
+| 43 | [Glowing Up](https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:52 |
 | 44 | [We'll Meet Again \- Late Night Session](https://open.spotify.com/track/201a3upQFiGtvWQSGlaVlk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Night Blooms](https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU) | 3:04 |
 | 45 | [How I Could Fall](https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:01 |
-| 46 | [Glowing Up](https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:52 |
+| 46 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 |
 | 47 | [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 |
-| 48 | [Somebody Gonna Love You](https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 1:17 |
-| 49 | [Ocean In The Desert](https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ocean In The Desert](https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR) | 3:44 |
+| 48 | [Ocean In The Desert](https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ocean In The Desert](https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR) | 3:44 |
+| 49 | [Somebody Gonna Love You](https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 1:17 |
 | 50 | [Hero](https://open.spotify.com/track/2sgqTwYVgjQT3scjsefjDP) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 4:04 |
 
-Snapshot ID: `aoo4AAAAAAAyn4EBLy5pxztkW71B8EY+`
+Snapshot ID: `aouJgAAAAAAzZ2DpKijLVJsNBlPMhxMG`

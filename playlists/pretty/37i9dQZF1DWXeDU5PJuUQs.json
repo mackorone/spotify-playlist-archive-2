@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 272967,
+  "num_followers": 273023,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABW+zMl6pwo0qQNd2KSYsq8WXbcb",
+  "snapshot_id": "AAAAAEAbiAXM1UhaNUCEiXU0lTnp9ftE",
   "tracks": [
     {
       "added_at": "2026-06-23 12:55:28",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
-      },
-      "artists": [
-        {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo 2019",
         "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 147113,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 71981,
+      "name": "Persiana Americana - En Vivo",
+      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "Tu Falta de Querer (En Vivo)",
         "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 196200,
       "name": "Tu Falta de Querer - En Vivo",
       "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 64017,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo en Tropicalisima",
-        "url": "https://open.spotify.com/album/6WeE45ER2kNMikIGFdLGhB"
-      },
-      "artists": [
-        {
-          "name": "Antonio Rios",
-          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
-        }
-      ],
-      "duration_ms": 124760,
-      "name": "Nunca Me Faltes - En Vivo",
-      "url": "https://open.spotify.com/track/2Lwbym6o1XiNgW0DPSQZzK"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "En Vivo en Tropicalisima",
+        "url": "https://open.spotify.com/album/6WeE45ER2kNMikIGFdLGhB"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
         }
       ],
-      "duration_ms": 117653,
-      "name": "El Tano Pastita",
-      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
+      "duration_ms": 124760,
+      "name": "Nunca Me Faltes - En Vivo",
+      "url": "https://open.spotify.com/track/2Lwbym6o1XiNgW0DPSQZzK"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1047,6 +1031,22 @@
       "duration_ms": 177739,
       "name": "No Llores - En Vivo",
       "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 117653,
+      "name": "El Tano Pastita",
+      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
-      },
-      "artists": [
-        {
-          "name": "Carlos Montalvo",
-          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Sin ti no se vivir",
-      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 131265,
       "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
       "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Sin ti no se vivir",
+      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Tu Sin Mi - En Vivo",
-      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Cosas del Amor (En Vivo)",
         "url": "https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 196058,
       "name": "Cosas del Amor - En Vivo",
       "url": "https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Sergio Torres - Session #50 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/3Q4Pml7HR06oTRmvXfdIiq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 182953,
       "name": "Mi celosa hermosa",
       "url": "https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Flor del Ba\u00f1ado (En Vivo)",
-        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 221376,
-      "name": "Flor del Ba\u00f1ado (En Vivo)",
-      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 624797,
       "name": "Como Fui a Enamorarme de Ti / Ahora Te Vas / Te Vas a Arrepentir / Dime",
       "url": "https://open.spotify.com/track/33tBimDq2tY1ofsRcpIjC0"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Flor del Ba\u00f1ado (En Vivo)",
+        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 221376,
+      "name": "Flor del Ba\u00f1ado (En Vivo)",
+      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "M\u00e1tame",
-      "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Era Tranquila (En Vivo)",
         "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 237098,
       "name": "Era Tranquila - En Vivo",
       "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "M\u00e1tame",
+      "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
     },
     {
       "added_at": "2026-06-23 12:55:28",

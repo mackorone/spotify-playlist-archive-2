@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Pepe Aguilar",
-  "num_followers": 84464,
+  "num_followers": 84465,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExxv8+r7Om7PsLISwh6ig/cHKOu",
+  "snapshot_id": "AAAAAEccDneNpGc+9KlIxzZZt95T517K",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:48",
@@ -167,26 +167,6 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
-        "name": "El Mayor de los Ranas (En Vivo)",
-        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 174037,
-      "name": "El Mayor de los Ranas (En Vivo)",
-      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
+        "name": "El Mayor de los Ranas (En Vivo)",
+        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "duration_ms": 174037,
+      "name": "El Mayor de los Ranas - En Vivo",
+      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -237,7 +237,7 @@
         }
       ],
       "duration_ms": 230034,
-      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "name": "Qu\u00e9 Fuimos - En Vivo",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
     },
     {
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
-        "name": "Tragedias de Mi Pueblo (Con Banda)",
-        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253105,
-      "name": "Me Vale Madre",
-      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
+        "name": "Tragedias de Mi Pueblo (Con Banda)",
+        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253105,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -573,7 +573,7 @@
         }
       ],
       "duration_ms": 161480,
-      "name": "Ctrl + Z (En Vivo)",
+      "name": "Ctrl + Z - En Vivo",
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     },
     {
@@ -685,7 +685,7 @@
         }
       ],
       "duration_ms": 192978,
-      "name": "Por Qui\u00e9n Me Dejas (En vivo)",
+      "name": "Por Qui\u00e9n Me Dejas - En vivo",
       "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
     },
     {
@@ -781,7 +781,7 @@
         }
       ],
       "duration_ms": 226345,
-      "name": "Dile a Tu Orgullo (En Vivo)",
+      "name": "Dile a Tu Orgullo - En Vivo",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
     },
     {
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
-        "name": "La Vieja Escuela",
-        "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
-      },
-      "artists": [
-        {
-          "name": "Milicia Del Rancho",
-          "url": "https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi"
-        }
-      ],
-      "duration_ms": 171885,
-      "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
-      "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
+        "name": "La Vieja Escuela",
+        "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
+      },
+      "artists": [
+        {
+          "name": "Milicia Del Rancho",
+          "url": "https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
+      "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
-        "name": "Corridos En Vivo",
-        "url": "https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Los Ninis - En Vivo",
-      "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
         "name": "Sigo Siendo El M Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3gTAVNVPSj660tNcGU7gl0"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 228997,
       "name": "Sigo Siendo El M Grande (En Vivo)",
       "url": "https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
+        "name": "Corridos En Vivo",
+        "url": "https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Los Ninis - En Vivo",
+      "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
     },
     {
       "added_at": "2026-08-21 04:02:48",

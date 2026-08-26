@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 733522,
+  "num_followers": 733505,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJIoMHgOzyHGf3jT/VI71Rz8aqOB",
+  "snapshot_id": "AAAAAKEiWKsaokw6RmzUKmlIsi2nWgf7",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:24",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Pretty Hands",
-      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 236226,
       "name": "half of my hometown - ballerini album version",
       "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Pretty Hands",
+      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
       },
       "artists": [
         {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+          "name": "Nelly Joy",
+          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
         }
       ],
-      "duration_ms": 205840,
-      "name": "20/10 TN",
-      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+      "duration_ms": 219217,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 158960,
       "name": "Cheap Suit",
       "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
-      },
-      "artists": [
-        {
-          "name": "Nelly Joy",
-          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
-        }
-      ],
-      "duration_ms": 219217,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
-      },
-      "artists": [
-        {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
-        }
-      ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     },
     {
       "added_at": "2026-07-24 04:02:24",

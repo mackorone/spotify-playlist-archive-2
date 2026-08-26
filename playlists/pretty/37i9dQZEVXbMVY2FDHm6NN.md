@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,113 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,119 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [演员](https://open.spotify.com/track/5Sib99jpYybZAicUMETb3h) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初学者](https://open.spotify.com/album/6fxZNu6wYqd7GDCVsFOAcw) | 4:21 |
 | 50 | [Whiplash \(English Version\)](https://open.spotify.com/track/4YHeXM7mgLvxpvaUGnybGK) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:03 |
 
-Snapshot ID: `Mh+jOAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiD0uAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 124502,
+  "num_followers": 124533,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhZpkDlVoWUWZv6rswN+IBb9ZKN",
+  "snapshot_id": "AAAAAJwkHBXkm/G5KMmiXJY4lBXSbser",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -219,18 +219,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "New Age Of Earth",
-        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
+        "name": "Natural States",
+        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        },
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
         }
       ],
-      "duration_ms": 349666,
-      "name": "Deep Distance",
-      "url": "https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699"
+      "duration_ms": 258000,
+      "name": "Rain Forest",
+      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -271,22 +275,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Natural States",
-        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
+        "name": "New Age Of Earth",
+        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
       "artists": [
         {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        },
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Rain Forest",
-      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
+      "duration_ms": 349666,
+      "name": "Deep Distance",
+      "url": "https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Quiet Joy / Domestic Peace",
-        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Quiet Joy",
-      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 672226,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Quiet Joy / Domestic Peace",
+        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Quiet Joy",
+      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
     },
     {
       "added_at": "2023-08-18 14:02:54",

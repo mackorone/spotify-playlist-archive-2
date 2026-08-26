@@ -1,12 +1,12 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Victony",
-  "num_followers": 320683,
+  "num_followers": 320691,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKor1pZ/UzD7V79YmLHGUGyohXpN",
+  "snapshot_id": "AAAAAGJfGGuRCTd4CfJat62PBHcHN0WS",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:27",
@@ -67,6 +67,22 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
+        "name": "attention!",
+        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 155852,
+      "name": "attention!",
+      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
-        "name": "attention!",
-        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 155852,
-      "name": "attention!",
-      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Baddies",
         "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -415,26 +415,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "when the party's over",
-        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
-      },
-      "artists": [
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+      },
+      "artists": [
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "TOO HOT",
-        "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "TOO HOT",
-      "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Shy Lover",
         "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 163404,
       "name": "Shy Lover",
       "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "TOO HOT",
+        "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "TOO HOT",
+      "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -571,6 +571,26 @@
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "DADAMAN",
+      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -715,26 +735,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "DADAMAN",
-      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
+        "name": "KOFFEE",
+        "url": "https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S"
+      },
+      "artists": [
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 147330,
+      "name": "KOFFEE",
+      "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
         "name": "PARTYGYAL",
         "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "KOFFEE",
-        "url": "https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S"
+        "name": "FAVORITE LOVER",
+        "url": "https://open.spotify.com/album/5aDXI1PoBR8V7T0fffBNHR"
       },
       "artists": [
         {
-          "name": "Original Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 147330,
-      "name": "KOFFEE",
-      "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
+      "duration_ms": 148588,
+      "name": "FAVORITE LOVER",
+      "url": "https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -823,22 +839,6 @@
       "duration_ms": 173800,
       "name": "Worthwhile",
       "url": "https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
-        "name": "FAVORITE LOVER",
-        "url": "https://open.spotify.com/album/5aDXI1PoBR8V7T0fffBNHR"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 148588,
-      "name": "FAVORITE LOVER",
-      "url": "https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj"
     },
     {
       "added_at": "2026-08-20 23:00:27",

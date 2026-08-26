@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Aug 21st \(Fri\) @ Kyung Hee University Grand Peace Palace, Seoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,147 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,151 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 |
 | 20 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 |
 
-Snapshot ID: `AAAAAOl5ZBaf9C1uJZXoNkWBu8/2zfi8`
+Snapshot ID: `AAAAACvpkwyr1QF7cYHb8407W50EdIqH`

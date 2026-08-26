@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,192 likes - 34 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,208 likes - 34 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 33 | [Angel o Demonio](https://open.spotify.com/track/5lsgrqKy2rEMFAHZtUNcHc) | [Christian Herrera y Matacos](https://open.spotify.com/artist/2TcOOjVN4yyZhYxdSlL2WD) | [Angel o Demonio](https://open.spotify.com/album/7yCuB9Ko2SP9aRYpZ8Mg1p) | 3:20 |
 | 34 | [León Herido](https://open.spotify.com/track/1NozLbd1xBSHigq4yWbrJi) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [TERNURA FOLK](https://open.spotify.com/album/6JltHrY2RjHdorEy3bFwye) | 3:56 |
 
-Snapshot ID: `AAAAAMwnsa8PG+5nlxXS9qnElVPnw/Oe`
+Snapshot ID: `AAAAAAm/AX+vSFGWfqHZZyT84owAqVHR`

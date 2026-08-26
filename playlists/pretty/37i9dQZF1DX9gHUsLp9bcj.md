@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,868 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,882 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 23 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
 | 24 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 25 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
-| 26 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
+| 26 | [Quiereme siempre \- Remastered](https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Por siempre los 5 latinos, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6) | 2:16 |
 | 27 | [Amor Que Malo Eres](https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:37 |
-| 28 | [Quiereme siempre \- Remastered](https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Por siempre los 5 latinos, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6) | 2:16 |
+| 28 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
 | 29 | [Quinto Patio](https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 3:03 |
 | 30 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
 | 31 | [Mambo en Sax](https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Best Of Perez Prado: The Original Mambo \#5](https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m) | 2:30 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 43 | [Siboney \(Orch\. Ebbinghouse\)](https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1) | [Ernesto Lecuona](https://open.spotify.com/artist/4Gd1JXQVbYicIeo2bDNHwL), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Karl\-Heinz Loges](https://open.spotify.com/artist/1VTpMc0kGScmCzqyur5D6c) | [Plácido Domingo \- Be My Love](https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW) | 3:37 |
 | 44 | [Violetas Imperiales](https://open.spotify.com/track/78AoGsUdZx3a4ymoSu465r) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Exitos](https://open.spotify.com/album/25ZE2WbBSvLAJTxRNZqKHY) | 3:31 |
 | 45 | [Vaya Con Dios](https://open.spotify.com/track/2Do8R4fmmgDHkva5rl3hEx) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Trio los Panchos](https://open.spotify.com/album/0gv3injd2puX7pu6CMvBAq) | 2:41 |
-| 46 | [Espinita](https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Canciones de la Radio, Vol\. 2](https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI) | 2:21 |
+| 46 | [Recordándote](https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Grandes Exitos](https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD) | 1:57 |
 | 47 | [Cuál Es La Idea \(What's the Idea\)](https://open.spotify.com/track/4CNCGwxNp9rnVqo2fzmDYK) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 3:19 |
-| 48 | [Recordándote](https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Grandes Exitos](https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD) | 1:57 |
+| 48 | [Espinita](https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Canciones de la Radio, Vol\. 2](https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI) | 2:21 |
 | 49 | [Mambo No 5](https://open.spotify.com/track/3fQLXoRwKQTnThncdMCqwG) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Plays Mucho Mambo..\. and Other Fantastic Compositions](https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk) | 2:36 |
 | 50 | [Angustia](https://open.spotify.com/track/5ZQi9369ovLvjyvp4vEHTM) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [La Sonora Matancera Desde Cuba\. 20 Éxitos](https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1) | 2:57 |
 
-Snapshot ID: `AAAAAIxNjrJ7SSTY5A/n9xTVF7Y0bHyZ`
+Snapshot ID: `AAAAALaeJ5ND1qh2y8UZKCc/9DoveE5q`

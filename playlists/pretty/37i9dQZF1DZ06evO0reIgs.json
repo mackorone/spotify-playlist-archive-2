@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81965,
+  "num_followers": 81963,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABkHwyWkQA2KR2517p113XA",
+  "snapshot_id": "aouJgAAAAABq71rQH7VnvC/8gWv/bf/B",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cintilante",
+        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        },
+        {
+          "name": "Amorim PL",
+          "url": "https://open.spotify.com/artist/65F0ZSq5lEEWBe5dSMwPtB"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Porta Aberta",
+      "url": "https://open.spotify.com/track/6AH3DsNS11Tie09WQra0Yt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -831,26 +855,6 @@
       "duration_ms": 208695,
       "name": "No Cais",
       "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beira Mar, Pt. 2",
-        "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 139124,
-      "name": "Beira Mar, Pt. 2",
-      "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
     },
     {
       "added_at": null,
@@ -879,6 +883,70 @@
       "duration_ms": 220500,
       "name": "N\u00e3o Vou Dormir Cedo",
       "url": "https://open.spotify.com/track/4JugYnZ8NTvzF0pCMpa49v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beira Mar, Pt. 2",
+        "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 139124,
+      "name": "Beira Mar, Pt. 2",
+      "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cintilante",
+        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Desafeto",
+      "url": "https://open.spotify.com/track/1z05v7xXsw9FTN1rIgiskK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi"
     },
     {
       "added_at": null,
@@ -919,8 +987,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Garota",
+      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cintilante",
+        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
       },
       "artists": [
         {
@@ -928,17 +1016,17 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
         }
       ],
-      "duration_ms": 225000,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi"
+      "duration_ms": 165849,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/5R5aj3IpImgubBo7mnDPGm"
     },
     {
       "added_at": null,
@@ -1003,50 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cintilante",
-        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "2B",
-          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
-        },
-        {
-          "name": "Amorim PL",
-          "url": "https://open.spotify.com/artist/65F0ZSq5lEEWBe5dSMwPtB"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Porta Aberta",
-      "url": "https://open.spotify.com/track/6AH3DsNS11Tie09WQra0Yt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 275905,
-      "name": "Garota",
-      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ponto Panor\u00e2mico",
         "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
       },
@@ -1067,6 +1111,34 @@
       "duration_ms": 162352,
       "name": "Te Escolhi",
       "url": "https://open.spotify.com/track/4hr93nmJbrM5fa6TpxA1jW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cintilante",
+        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Seu Olhar",
+      "url": "https://open.spotify.com/track/704naSwe7DPtbMfqeMsRp1"
     },
     {
       "added_at": null,
@@ -1111,26 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cintilante",
-        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "2B",
-          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Desafeto",
-      "url": "https://open.spotify.com/track/1z05v7xXsw9FTN1rIgiskK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
@@ -1147,6 +1199,26 @@
       "duration_ms": 157006,
       "name": "Por Aqui",
       "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cintilante",
+        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Desespero",
+      "url": "https://open.spotify.com/track/5nH4FgCedYNklpVfLqxHmB"
     },
     {
       "added_at": null,
@@ -1179,22 +1251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "Efeito Violeta",
-      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1215,54 +1271,6 @@
       "duration_ms": 185454,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sejas Bem Feliz",
-        "url": "https://open.spotify.com/album/3meUGWg5bCK4OoEJBOUkve"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "Sejas Bem Feliz",
-      "url": "https://open.spotify.com/track/4d8FiRf83bWZk7EZpEE1GA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "GREGO",
-          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Liberta",
-      "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

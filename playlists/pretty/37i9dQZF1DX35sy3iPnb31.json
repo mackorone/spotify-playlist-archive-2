@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2377,
+  "num_followers": 2379,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFME3nX/yiOh4qdhKsKboQWw+OFx",
+  "snapshot_id": "AAAAAE3L4NlkYYfpZtpBl03+pOW9qDMC",
   "tracks": [
     {
       "added_at": "2026-07-31 15:05:53",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "Sentimental Things",
         "url": "https://open.spotify.com/album/0yJu6n3gg2LXJcL1KsaaU9"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 135504,
       "name": "Sentimental Things",
       "url": "https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
-      },
-      "artists": [
-        {
-          "name": "Andye",
-          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Sun Up / Hilly Fields",
-        "url": "https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc"
-      },
-      "artists": [
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Sun Up",
-      "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Billo",
         "url": "https://open.spotify.com/album/3E93c87HK1qNpthSVaJ2UV"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 151794,
       "name": "Billo",
       "url": "https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Sun Up / Hilly Fields",
+        "url": "https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Sun Up",
+      "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "Hershey Kiss",
         "url": "https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 128640,
       "name": "Hershey Kiss",
       "url": "https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
-      },
-      "artists": [
-        {
-          "name": "Dj Cin\u00e9ma Quartier Latin",
-          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Only Sun, Only Moon",
-        "url": "https://open.spotify.com/album/7d3DkRBTSsbnFLtNzeWhi4"
-      },
-      "artists": [
-        {
-          "name": "Lockimara",
-          "url": "https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx"
-        },
-        {
-          "name": "Artemis Dara",
-          "url": "https://open.spotify.com/artist/303wxqymiRyKxaDQiQSSha"
-        }
-      ],
-      "duration_ms": 286370,
-      "name": "Only Moon",
-      "url": "https://open.spotify.com/track/36Q60wlaCKJKVPWtIu3zcN"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Podjab",
         "url": "https://open.spotify.com/album/6qJpflZY8jaIRMf1y4x8dN"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 252975,
       "name": "Podjab",
       "url": "https://open.spotify.com/track/65lAYSuVNKppkeI0NEJLW3"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Only Sun, Only Moon",
+        "url": "https://open.spotify.com/album/7d3DkRBTSsbnFLtNzeWhi4"
+      },
+      "artists": [
+        {
+          "name": "Lockimara",
+          "url": "https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx"
+        },
+        {
+          "name": "Artemis Dara",
+          "url": "https://open.spotify.com/artist/303wxqymiRyKxaDQiQSSha"
+        }
+      ],
+      "duration_ms": 286370,
+      "name": "Only Moon",
+      "url": "https://open.spotify.com/track/36Q60wlaCKJKVPWtIu3zcN"
     },
     {
       "added_at": "2026-07-31 15:05:53",

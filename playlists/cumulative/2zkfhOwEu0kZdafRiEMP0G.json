@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241466,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4Musyaro0NM5Awx8b5c627"
+    },
+    {
+      "album": {
         "name": "The Phantom of the Opera (feat. Rachel Potter)",
         "url": "https://open.spotify.com/album/6gdR1SzxujWuzIRl7NqfJt"
       },

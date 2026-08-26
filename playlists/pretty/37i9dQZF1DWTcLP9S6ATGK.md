@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Christie
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,545 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,528 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Di Garis Senja](https://open.spotify.com/track/3ch30lUlPPCHNn1n6wUA3A) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Di Garis Senja](https://open.spotify.com/album/29R6JbQWVPgB4epP6sbNSu) | 4:15 |
 | 100 | [Tidur Siang](https://open.spotify.com/track/3eWvcOqcl6Q9EUSRs5KlrG) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Tidur Siang](https://open.spotify.com/album/35RrMjUVNurkQJN6OrMCZI) | 3:19 |
 
-Snapshot ID: `AAAAAK57ozCTl4mZek0bnAUo073ZLrtm`
+Snapshot ID: `AAAAAJENkLzf1L76m0gCPbkfKsqdB7M6`

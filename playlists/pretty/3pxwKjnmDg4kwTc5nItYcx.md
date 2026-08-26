@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,545 likes - 96 songs - 5 hr 11 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,544 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 94 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 95 | [I Feel You](https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Lost On The Way To Paradise](https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan) | 2:39 |
 | 96 | [SOMETHING BETTER](https://open.spotify.com/track/6bXeuV5CheMzDoPzj9FetV) | [MANÚ](https://open.spotify.com/artist/7BEmHb9jAPMHB3HwfTuPnh) | [SOMETHING BETTER](https://open.spotify.com/album/4ewWpy8l1WPOcbDaGz1E3P) | 2:06 |
+| 97 | [Just One](https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Just One](https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy) | 3:12 |
 
-Snapshot ID: `AAAILGtFtt+a1lfg5FFZQBDh5Z2DalbM`
+Snapshot ID: `AAAILxKGrIESZoEp1ZdQNqLiZ46VAPl0`

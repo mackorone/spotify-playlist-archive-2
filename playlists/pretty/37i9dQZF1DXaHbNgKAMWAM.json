@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21008,
+  "num_followers": 21011,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACwjx0yoyRS2V1Awe+JyDxJXi5B8",
+  "snapshot_id": "AAAAAHjv5gSZHaUiVMbdj6+qlgvpCn3y",
   "tracks": [
     {
       "added_at": "2026-06-25 15:51:09",
@@ -175,18 +175,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "3rd MINI ALBUM [LOVE PULSE]",
-        "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
+        "name": "gimbap",
+        "url": "https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
         }
       ],
-      "duration_ms": 172100,
-      "name": "EVERYTHING",
-      "url": "https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab"
+      "duration_ms": 201080,
+      "name": "romeo n juliet (feat. youra)",
+      "url": "https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -207,22 +211,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "gimbap",
-        "url": "https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp"
+        "name": "3rd MINI ALBUM [LOVE PULSE]",
+        "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 201080,
-      "name": "romeo n juliet (feat. youra)",
-      "url": "https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws"
+      "duration_ms": 172100,
+      "name": "EVERYTHING",
+      "url": "https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "ELSE",
-        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
-      },
-      "artists": [
-        {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
-        }
-      ],
-      "duration_ms": 172899,
-      "name": "Thinkin\u2019 Bout U",
-      "url": "https://open.spotify.com/track/1LXJv1gk92JZ0LJ8I7glo2"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
         "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 199746,
       "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
       "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "ELSE",
+        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 172899,
+      "name": "Thinkin\u2019 Bout U",
+      "url": "https://open.spotify.com/track/1LXJv1gk92JZ0LJ8I7glo2"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 244764,
-      "name": "I Will Be By Your Side",
-      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 244764,
+      "name": "I Will Be By Your Side",
+      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
       "added_at": "2026-06-25 15:51:09",

@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "Ascenseur pour l'echafaud",
+        "url": "https://open.spotify.com/album/5BcPZGYYch0uDOV5UkbWvs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Ascenseur pour l'\u00e9chafaud",
+      "url": "https://open.spotify.com/track/0jDkyJEancofFgkGOGba6f"
+    },
+    {
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -296,7 +314,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 276800,
       "name": "But Not For Me - Take 1 / RVG Remastered 2008",
       "url": "https://open.spotify.com/track/16xrvoly0kWh4Rruc73XlL"
@@ -355,6 +373,40 @@
     },
     {
       "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468666,
+      "name": "Dear Old Stockholm (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/1d0NjHhCDKCKZIbws021xD"
+    },
+    {
+      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -370,6 +422,24 @@
       "duration_ms": 168760,
       "name": "Deception",
       "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
+    },
+    {
+      "album": {
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469689,
+      "name": "Diane - Remastered 2026",
+      "url": "https://open.spotify.com/track/4MwMqzv1Xz7VHBLsfoWht2"
     },
     {
       "album": {
@@ -474,10 +544,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 566133,
       "name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69720,
+      "name": "Flamenco Sketches - Studio Sequence 2",
+      "url": "https://open.spotify.com/track/1p9HpuOBxEWQkD7UVJpj0b"
     },
     {
       "album": {
@@ -595,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189924,
+      "name": "Godchild",
+      "url": "https://open.spotify.com/track/4R7zWSh3kH7mAftCc1SUg1"
+    },
+    {
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -624,10 +730,28 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 167612,
       "name": "G\u00e9n\u00e9rique - Mono Version",
       "url": "https://open.spotify.com/track/1hh6s2tQuxdnaHET2hlNSH"
+    },
+    {
+      "album": {
+        "name": "A Night of Miles Davis",
+        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278813,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/3egtoc5ShzYYaTbFHuMtQS"
     },
     {
       "album": {
@@ -878,7 +1002,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 193546,
       "name": "Jeru",
       "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
@@ -939,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 707253,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/66vrjgMvWOLyeKBuMGA0Cz"
+    },
+    {
+      "album": {
         "name": "Miles Ahead (Expanded Edition)",
         "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
@@ -988,7 +1130,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 342066,
       "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh"
@@ -1082,7 +1224,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 363410,
       "name": "My Funny Valentine - Remastered 2026",
       "url": "https://open.spotify.com/track/3hh9LKcW1eQkBP3XjtvZpI"
@@ -1152,7 +1294,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 314160,
       "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
@@ -1216,7 +1358,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 589200,
       "name": "On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/0tUq1zaYNoV6ZiYRU2bjqf"
@@ -1241,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Rubberband",
+        "url": "https://open.spotify.com/album/0m3hXmvbvwjpIXai7HOWys"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344010,
+      "name": "Rubberband of Life (feat. Ledisi)",
+      "url": "https://open.spotify.com/track/2cKH6blsLnE8oEEmAu34YB"
+    },
+    {
+      "album": {
         "name": "Seven Steps To Heaven (2023 Remaster)",
         "url": "https://open.spotify.com/album/625H2ZomGelxwZcrpFqLA7"
       },
@@ -1252,7 +1416,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 385554,
       "name": "Seven Steps to Heaven (2023 Remaster)",
       "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
@@ -1402,7 +1566,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 635066,
       "name": "Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo"
@@ -1424,7 +1588,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 30693,
       "name": "Studio Discussion - One",
       "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
@@ -1442,7 +1606,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 197426,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
@@ -1518,7 +1682,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 236992,
       "name": "The Pan Piper",
       "url": "https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW"
@@ -1558,7 +1722,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 316666,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
@@ -1580,6 +1744,24 @@
       "duration_ms": 192992,
       "name": "Venus De Milo",
       "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
+    },
+    {
+      "album": {
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410908,
+      "name": "Vierd Blues - Remastered 2026",
+      "url": "https://open.spotify.com/track/4w50PHCRdG2LiDUZ6pn5IG"
     },
     {
       "album": {
@@ -1609,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "A Night of Miles Davis",
+        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323800,
+      "name": "Well You Needn't",
+      "url": "https://open.spotify.com/track/0qA5AHKrikhjrZgMq4cv6W"
+    },
+    {
+      "album": {
         "name": "A Day In Paris",
         "url": "https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU"
       },
@@ -1620,7 +1820,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 219640,
       "name": "What's New",
       "url": "https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP"
@@ -1686,6 +1886,24 @@
       "duration_ms": 226160,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U"
+    },
+    {
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53189,
+      "name": "\u00c9vasion de Julien - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/6dF77yYxp9WW0q7y0tYTMK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl6"

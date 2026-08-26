@@ -490,7 +490,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 145232,
       "name": "Don't Take Everybody To Be Your Friend",
       "url": "https://open.spotify.com/track/3bmT6zIM0SmV3hv4kGgmqN"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 130442,
       "name": "Father Prepare Me",
       "url": "https://open.spotify.com/track/1JzOFnaBuWxnbtETqaotzh"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183950,
       "name": "Feed Me Jesus",
       "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 124739,
       "name": "God Is Wonderful",
       "url": "https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd"
@@ -1514,10 +1514,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 117760,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/3fXJQ6nntDXr2lUw7EfM4Z"
+    },
+    {
+      "album": {
+        "name": "Sister Rosetta Tharpe, Vol. 5 - Complete Int\u00e9grale 1953-1957",
+        "url": "https://open.spotify.com/album/5o5lVj8xQn4xdS6nFNl441"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120226,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/6JgOwnIBa7iZa4zMNQBKTD"
     },
     {
       "album": {
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 85983,
       "name": "Oh, The Joy That Came To Me",
       "url": "https://open.spotify.com/track/6HiEL8sTTAfhSNibOkghyd"
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "Peace In The Valley",
       "url": "https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5"
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 160093,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 192725,
       "name": "The Natural Facts",
       "url": "https://open.spotify.com/track/1BiQpjLDTUikC99xsjzJTV"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 184683,
       "name": "There'll Be Peace In The Valley For Me",
       "url": "https://open.spotify.com/track/4jC4Jt97udeQMFlMtTBWwx"
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 225066,
       "name": "Woman - Live Overdub",
       "url": "https://open.spotify.com/track/728RA8R6JWIv18t7cb07Ci"

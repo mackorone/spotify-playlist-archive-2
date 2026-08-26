@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-383 songs - 23 hr 38 min
+387 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [November](https://open.spotify.com/track/6saWWilud85AtEAxOhEYKj) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [November](https://open.spotify.com/album/0WSEMdQ7LyZFXiDP38dmKL) | 3:42 | 2025-11-23 | 2026-02-02 |
 | [Now](https://open.spotify.com/track/0E3kVurlBVyeiPT1oNaCI9) | [V.E.N!](https://open.spotify.com/artist/3sO9u4dOUWYj61kcOTBExd) | [The Beauty of Danger](https://open.spotify.com/album/2Jju9kOvnnejxo3XNVTI4k) | 3:00 | 2026-08-22 |  |
 | [Não Bom](https://open.spotify.com/track/5Gm8ePYwKkWHTcAIWpwfR1) | [SINCERSIX](https://open.spotify.com/artist/7zJGhnTmm0NKy3JDYIKskG) | [Não Bom](https://open.spotify.com/album/6yebdivCb5VsaJzH6GS2AZ) | 3:06 | 2026-08-19 | 2026-08-22 |
+| [Ocean Beach](https://open.spotify.com/track/732OoMnt9lHm1T5RcPwtuS) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Jacob Tompkins](https://open.spotify.com/artist/3steuCKTOPNk0zjtR5Hfbg) | [Ocean Beach](https://open.spotify.com/album/2uqnJtzSjq5RHXFblkLPCw) | 2:40 | 2026-08-25 |  |
 | [Opener \- The 2021 Remix](https://open.spotify.com/track/1o6ILuU2z8wC4sDX9lG0pm) | [Danny Mortimer](https://open.spotify.com/artist/6l9w9nqxBSB2ZXyLcpbWkJ) | [Songs From The Cutting Room Floor](https://open.spotify.com/album/2x4aoQQsWLengzDjCOMifL) | 3:56 | 2026-07-21 |  |
 | [Out Alive](https://open.spotify.com/track/2pJpwBSvXFSyNjkNo2p6b0) | [Mike McKenzie](https://open.spotify.com/artist/1ovhdzbqCmorFrI1dq0TAd) | [I'd Wait Again](https://open.spotify.com/album/0pdBVIn45RJ8A9FXqAJpTx) | 3:42 | 2025-11-23 | 2025-12-08 |
 | [Out Of Wine](https://open.spotify.com/track/3GmBZBdFrcipnjygnZkLkq) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Out Of Wine](https://open.spotify.com/album/3eRAaQyMUYgcEz0h4bOE5J) | 3:05 | 2026-03-22 | 2026-05-04 |
@@ -334,6 +335,7 @@
 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2026-06-19 | 2026-07-22 |
 | [Superhero](https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON) | [The Shambles](https://open.spotify.com/artist/0TueUMthNygY3RiEWtRJ4Y) | [Superhero](https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf) | 2:54 | 2025-11-16 | 2026-08-07 |
 | [Swan](https://open.spotify.com/track/07UMhZBENkYwPDfQrn2s9t) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [Flair](https://open.spotify.com/album/2AfdH1P3nAPnYSzXBBplim) | 3:12 | 2025-11-23 | 2025-12-01 |
+| [Take Me Home](https://open.spotify.com/track/5lPtbctnX3adI7zg4ysTEW) | [In\-Motion](https://open.spotify.com/artist/7M966gAnsOIc9z0FFQwBea) | [Take Me Home](https://open.spotify.com/album/4GNPA7AIuRfIHNuGwiS7Ew) | 4:04 | 2026-08-25 |  |
 | [Take Me In Your Arms](https://open.spotify.com/track/5eqOCqtZpiDChi2E7PZUS8) | [Tidings](https://open.spotify.com/artist/6ccYjyRlpLNeOMMMfQjyOb) | [Take Me In Your Arms](https://open.spotify.com/album/6eYKXiC1laQN6mBJg9QBTj) | 7:15 | 2026-08-19 | 2026-08-22 |
 | [Tall As A Mountain](https://open.spotify.com/track/0NYeIYjWO0tiDYvRE6tsAA) | [An Dannsa Dub](https://open.spotify.com/artist/5qVrRD2al9wFR0OcJa1VcH), [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a), [MAL](https://open.spotify.com/artist/6glslwkcvP7HUjOiDGkMWh) | [Tall As A Mountain](https://open.spotify.com/album/0pivhuJWUH0a0HQ3mpqS5b) | 3:38 | 2026-03-05 | 2026-03-22 |
 | [Taste](https://open.spotify.com/track/4XV1TmHa8raGK34SZv4wJE) | [Michy Tree](https://open.spotify.com/artist/6IyOI1zh5l4XVk3H8WPjDi) | [Phases](https://open.spotify.com/album/6QXJtaPo6mjhcfwSwnpLr5) | 2:53 | 2025-11-16 | 2025-11-24 |
@@ -354,6 +356,7 @@
 | [The Mullets are Moving in](https://open.spotify.com/track/4HSQG4ln6ybxEup2PKwfHh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [The Mullets are Moving in](https://open.spotify.com/album/61Qwp1DqiJ3WcgsdfnsxZV) | 2:58 | 2026-01-11 | 2026-02-02 |
 | [The Neighbour's House](https://open.spotify.com/track/35K2nVqDK59RnvW7pdj1LZ) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Bedside Opera](https://open.spotify.com/album/0Z6CpWVOCn8VcZqEQGKoK6) | 3:52 | 2026-03-06 | 2026-05-04 |
 | [The Other Side](https://open.spotify.com/track/7zMtCcnTZgdoDmWP8ilxzR) | [The Falls Band](https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu) | [The Other Side](https://open.spotify.com/album/4IQXEhLJRua6IXZ5z77sQ7) | 2:30 | 2026-06-19 |  |
+| [The Red Dress](https://open.spotify.com/track/2ZpO90oiJOPh6uNhmDarw2) | [Time Spent Driving](https://open.spotify.com/artist/3FRK7L4QCaaSAY8bPD6EUA) | [Lost Leaves](https://open.spotify.com/album/4iKwobQq1Sm48jl25B265P) | 3:59 | 2026-08-25 |  |
 | [The Shadow](https://open.spotify.com/track/1mcneLdPg8ossSX5Mu8Epz) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Pain in the Yeahs](https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd) | [The Shadow](https://open.spotify.com/album/5PiWNYUNyiCqNZ7WVJxaXQ) | 3:16 | 2026-08-13 | 2026-08-22 |
 | [The Talk](https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm) | [Casual Drag](https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N) | [The Talk](https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU) | 2:57 | 2026-05-03 | 2026-05-11 |
 | [The World's Fairytale](https://open.spotify.com/track/3967kWoIKt352K1STgnNtS) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 2:57 | 2026-06-22 | 2026-07-22 |
@@ -363,6 +366,7 @@
 | [Top \(I can see for miles\)](https://open.spotify.com/track/0kNruf2wYPoJHAzBiZIJT7) | [Delirium](https://open.spotify.com/artist/3OYzwHHHkiMSRo0bwhx8pO) | [Delirium \(home recordings\)](https://open.spotify.com/album/7KmenobD65pgvvV07IhcPl) | 4:48 | 2025-11-16 | 2025-11-24 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2026-01-25 | 2026-02-01 |
 | [TURN AROUND](https://open.spotify.com/track/3uUP0YYjP04xMBIRJ2dtrp) | [MOG](https://open.spotify.com/artist/1PeU4PsYtNaksLeuMOJM6n), [Roo Geddes](https://open.spotify.com/artist/6XDO2rklQELJT2IVlbVMO5), [Neil Sutcliffe](https://open.spotify.com/artist/6jX2zm5LaKgwIaWyjoxpVp), [Ewan Hastie](https://open.spotify.com/artist/03ajVwie49KhJaWvSg17ES) | [Lab Raps](https://open.spotify.com/album/3XLtGJwNwsFBrGSCVBnOlA) | 3:15 | 2025-12-28 | 2026-02-03 |
+| [Tus Latidos](https://open.spotify.com/track/7yKVHxYCRMIDDGBQ7zQTTT) | [Taiki](https://open.spotify.com/artist/5reg1fgjPsjD6lp553hI9v) | [Tus Latidos](https://open.spotify.com/album/1RMFwT5xZyo9d57uM1NHl8) | 2:21 | 2026-08-25 |  |
 | [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2026-01-09 | 2026-03-07 |
 | [Undercurrents](https://open.spotify.com/track/4MS830aig1FAP5loRX82nU) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Undercurrents](https://open.spotify.com/album/2Lu0CjzJuQ4coG2LRxPzsC) | 3:37 | 2026-06-19 | 2026-07-22 |
 | [United](https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [United](https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s) | 4:02 | 2026-07-11 | 2026-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto:  Los Ángeles Azules, TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,688 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,557 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [Que Se Vaya](https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Que Se Vaya](https://open.spotify.com/album/5o1z80S9I0tVQk9Qk2NA7H) | 3:32 |
 | 51 | [PÓNMELA](https://open.spotify.com/track/6PpXPtmCn3rCRaRV9Q029Z) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [PÓNMELA](https://open.spotify.com/album/65f59TWriGyQnn3QKta0mw) | 2:07 |
 
-Snapshot ID: `AAAAAD91y091h/jGFjc52jmANKkHzGiZ`
+Snapshot ID: `AAAAAFGNXyvrks07SLWp1ahUv2Pscd2o`

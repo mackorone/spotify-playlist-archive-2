@@ -883,6 +883,32 @@
     },
     {
       "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/0WCMp97OX1aYE79Bu9D39d"
+      },
+      "artists": [
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Ali Najih",
+          "url": "https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo"
+        },
+        {
+          "name": "Leno Martin",
+          "url": "https://open.spotify.com/artist/5JK0lP2maJcJ6G1z8N9r5K"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/3ccxlJdWBlTCc00bf8CcZy"
+    },
+    {
+      "album": {
         "name": "arike (acoustic)",
         "url": "https://open.spotify.com/album/4RIkITJdXVPbjXvRCI6rD3"
       },
@@ -3024,7 +3050,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 158571,
       "name": "GOODALOJANAYA",
       "url": "https://open.spotify.com/track/141sTe0CBJX2mgT6ikbWvH"

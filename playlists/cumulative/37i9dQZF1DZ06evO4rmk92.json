@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 184466,
       "name": "(I Love You) For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 286173,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 168826,
       "name": "Acercate Mas (Come Closer To Me)",
       "url": "https://open.spotify.com/track/76AbCflWiJBgByIqFl396O"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 113293,
       "name": "Almost Like Being In Love - Remastered",
       "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Let's Face The Music (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Answer Me, My Love",
+      "url": "https://open.spotify.com/track/4lIkNu9pVDSGBqaJ1OKeed"
+    },
+    {
+      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -222,6 +240,24 @@
       "duration_ms": 175600,
       "name": "Answer Me, My Love",
       "url": "https://open.spotify.com/track/4i7bU18iUPKxPMrld9W48M"
+    },
+    {
+      "album": {
+        "name": "A Mis Amigos (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2iAQVxwMt60xXVe7VDrofV"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133066,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/1Lf7vlpJi4QoVSGhNpdZrZ"
     },
     {
       "album": {
@@ -432,7 +468,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 170346,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/68XbEHDqjefcO6fVfNssfb"
@@ -580,6 +616,24 @@
       "duration_ms": 239093,
       "name": "Exactly Like You - Live at the Blue Note Chicago",
       "url": "https://open.spotify.com/track/3wL0UOzErJ5a6nlkNuULcF"
+    },
+    {
+      "album": {
+        "name": "A Mis Amigos (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2iAQVxwMt60xXVe7VDrofV"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115733,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/0AoV4qPo0KSmpsu2vZxo5H"
     },
     {
       "album": {
@@ -736,7 +790,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
@@ -902,7 +956,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
@@ -1086,7 +1140,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 169786,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
@@ -1238,7 +1292,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 191186,
       "name": "My Kind Of Girl",
       "url": "https://open.spotify.com/track/3F4W9lrEsEcpVnlcGSBXb0"
@@ -1256,7 +1310,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 173533,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
@@ -1274,7 +1328,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 153666,
       "name": "Noche De Ronda",
       "url": "https://open.spotify.com/track/14r5VuEHs2S4H54yiYI1Sb"
@@ -1346,7 +1400,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 153866,
       "name": "Orange Colored Sky - As Heard on \u201cFallout\u201d (Series)",
       "url": "https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC"
@@ -1458,7 +1512,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 167853,
       "name": "Ramblin' Rose",
       "url": "https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy"
@@ -1476,7 +1530,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
@@ -1574,7 +1628,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Solamente Una Vez",
       "url": "https://open.spotify.com/track/4CzO5nlZdaoa331G9qfpIV"
@@ -1610,7 +1664,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 195573,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL"
@@ -1682,7 +1736,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 160680,
       "name": "Te Quiero Dijiste",
       "url": "https://open.spotify.com/track/5XaRuenP7XjJt1IjWrw49J"
@@ -1736,7 +1790,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 179666,
       "name": "That's All - Remastered",
       "url": "https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de"
@@ -1892,7 +1946,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 218066,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
@@ -2022,7 +2076,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 154026,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/4sfHDOLuNHbSo8EpEa5oIg"
@@ -2304,7 +2358,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 249680,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/42p5zI23jUWahgQnCJoFkF"
@@ -2448,7 +2502,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 162600,
       "name": "You'll Never Know - Remastered",
       "url": "https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m"
@@ -2502,7 +2556,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 189560,
       "name": "\u2019Tis Autumn",
       "url": "https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea"

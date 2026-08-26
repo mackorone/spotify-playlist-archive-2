@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  Niina
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,254 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,271 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 25 | [Excuse Me, I'm Speaking](https://open.spotify.com/track/46l6HTqqNBysg4IokCKET9) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [All Good Men](https://open.spotify.com/album/43cC6Wx7CTKWC25ByXQJXl) | 2:18 |
 | 26 | [Justice](https://open.spotify.com/track/2YngYkcu2jlUOIRsrR4KJF) | [PYTKO](https://open.spotify.com/artist/2vH1O5Nw59lQVEhX9BeIfr), [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Justice](https://open.spotify.com/album/6zkM9aXglPHVXWz5UoIf7T) | 3:35 |
 | 27 | [Pretty Little Highs](https://open.spotify.com/track/4RpKKP65SNUHFfCK2uRSoY) | [Noriella](https://open.spotify.com/artist/3YGi8XIyDp51urKGTTLOhe) | [Pretty Little Highs](https://open.spotify.com/album/3tfd8zy3hbStwGhRbNa4Fi) | 2:30 |
-| 28 | [GUTTER](https://open.spotify.com/track/2dBek4NrMAlfpqPgnYo2kH) | [FACTORY](https://open.spotify.com/artist/1n14UqdErWRuhHPO3oWTf4), [Murielle](https://open.spotify.com/artist/5UQjojCaZvw1XFLA9lodTS), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc), [Sophie Hintze](https://open.spotify.com/artist/2PuvS2BroRdS81r09CCnPH), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [GUTTER](https://open.spotify.com/album/50DHOda8sOEfaxQJfhzyhT) | 2:59 |
+| 28 | [GUTTER](https://open.spotify.com/track/2dBek4NrMAlfpqPgnYo2kH) | [FACTORY](https://open.spotify.com/artist/1n14UqdErWRuhHPO3oWTf4), [Murielle](https://open.spotify.com/artist/5UQjojCaZvw1XFLA9lodTS), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc), [Sophie Hintze](https://open.spotify.com/artist/2PuvS2BroRdS81r09CCnPH), [halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [GUTTER](https://open.spotify.com/album/50DHOda8sOEfaxQJfhzyhT) | 2:59 |
 | 29 | [Accidental Tattoo](https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd) | [case/lang/veirs](https://open.spotify.com/artist/63I02CqRt2xKO0o5QvmHs5), [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Accidental Tattoo](https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM) | 3:15 |
 | 30 | [Toke](https://open.spotify.com/track/0bqgtZ5RmjPLxZ3C03ckL3) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Toke](https://open.spotify.com/album/2YFKRAL5aepKRTiG9Qb39v) | 1:34 |
 | 31 | [T](https://open.spotify.com/track/299kqZHWyMLL2Ng0DQkJ5q) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [TRISTAN1](https://open.spotify.com/album/7txEo8xATuZOJys8TIWnL2) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Fuck Up](https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Triple Shooting Star](https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR) | 3:58 |
 | 50 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 
-Snapshot ID: `AAAAAC8boN/Of+plQ1jVoVpCm9G0WodK`
+Snapshot ID: `AAAAAKJAtAIO1SB97SiL9yDXBzKIEU7V`

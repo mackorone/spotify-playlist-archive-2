@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,550 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,551 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 18 | [Love Hurts](https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 3:47 |
 | 19 | [Victim of Circumstance](https://open.spotify.com/track/1xLQkXYNUY4sequtLRmGYD) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 2:54 |
 | 20 | [Fake Friends](https://open.spotify.com/track/0VmPPpFGWRwhXvNN9YpdUA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas) | 3:24 |
-| 21 | [A.C.D.C.](https://open.spotify.com/track/094d5lrmlKxKyNGDaAR9Go) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc) | 3:20 |
-| 22 | [New Orleans](https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF) | 2:53 |
+| 21 | [New Orleans](https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF) | 2:53 |
+| 22 | [A.C.D.C.](https://open.spotify.com/track/094d5lrmlKxKyNGDaAR9Go) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc) | 3:20 |
 | 23 | [\(I'm Gonna\) Run Away](https://open.spotify.com/track/5xa98AOYx4nY4yj0MF9AFX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 2:28 |
 | 24 | [Shout](https://open.spotify.com/track/1DydpBvRaDWShDDhLWt9pb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 2:48 |
 | 25 | [I Want You](https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv) | 2:41 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 42 | [Long Time \- \(Acoustic\)](https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Changeup \(Acoustic\)](https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT) | 2:51 |
 | 43 | [School Days](https://open.spotify.com/track/7nfFHki7aSYJoLXe2sT2CQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Essentials](https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG) | 3:02 |
 | 44 | [Activity Grrrl](https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL) | 3:35 |
-| 45 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
-| 46 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 |
-| 47 | [I Hate Myself For Loving You](https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:07 |
+| 45 | [I Hate Myself For Loving You](https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:07 |
+| 46 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
+| 47 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 |
 | 48 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
 | 49 | [I Love You Love Me Love](https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF) | 3:19 |
 | 50 | [Coney Island Whitefish](https://open.spotify.com/track/0s0oLRYtGnZkJEQ59NjRsQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas) | 3:36 |
 
-Snapshot ID: `aoo4AAAAAAC8xzQxX21yNykSrFQgDF6+`
+Snapshot ID: `aouJgAAAAAB+hNPWC3jOBlRaQAWjignd`

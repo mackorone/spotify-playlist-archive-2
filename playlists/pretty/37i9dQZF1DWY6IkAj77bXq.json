@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 86652,
+  "num_followers": 86668,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAuGzV2N4fZTfRm8uYfN6cfXHpjX",
+  "snapshot_id": "AAAAALYLJsjZaa7/JNt+O0B/zcqfRDGV",
   "tracks": [
     {
       "added_at": "2026-07-03 13:37:40",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln"
-      },
-      "artists": [
-        {
-          "name": "Evanesce",
-          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Simple wonders",
         "url": "https://open.spotify.com/album/7FMMeVOfu8AVtyjvzB3vC2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 186221,
       "name": "Simple wonders",
       "url": "https://open.spotify.com/track/3vBKVMeeWosEmAqqx0FWxd"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Zense",
-        "url": "https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ"
-      },
-      "artists": [
-        {
-          "name": "Nagawa Meditation",
-          "url": "https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ"
-        }
-      ],
-      "duration_ms": 177688,
-      "name": "Zense",
-      "url": "https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Constellation",
         "url": "https://open.spotify.com/album/60lIvdWv7SKv6G5IOXgq5D"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 154000,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/4rfarsda54eUg7P7dmM3VO"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Zense",
+        "url": "https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ"
+      },
+      "artists": [
+        {
+          "name": "Nagawa Meditation",
+          "url": "https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ"
+        }
+      ],
+      "duration_ms": 177688,
+      "name": "Zense",
+      "url": "https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Moon Over Quiet Hills",
-        "url": "https://open.spotify.com/album/7EynO0IlSdNkdh2H6PA31L"
-      },
-      "artists": [
-        {
-          "name": "Tellus Gardens",
-          "url": "https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT"
-        }
-      ],
-      "duration_ms": 219714,
-      "name": "Moon Over Quiet Hills",
-      "url": "https://open.spotify.com/track/743BKP04wOpRGyt9uK7DVH"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "When The Day Fades",
         "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 151367,
       "name": "When The Day Fades",
       "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Moon Over Quiet Hills",
+        "url": "https://open.spotify.com/album/7EynO0IlSdNkdh2H6PA31L"
+      },
+      "artists": [
+        {
+          "name": "Tellus Gardens",
+          "url": "https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT"
+        }
+      ],
+      "duration_ms": 219714,
+      "name": "Moon Over Quiet Hills",
+      "url": "https://open.spotify.com/track/743BKP04wOpRGyt9uK7DVH"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Renacer en Calma",
-        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
-      },
-      "artists": [
-        {
-          "name": "Esmeraldas",
-          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Ecos de Meditaci\u00f3n",
-      "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 170176,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Renacer en Calma",
+        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
+      },
+      "artists": [
+        {
+          "name": "Esmeraldas",
+          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Ecos de Meditaci\u00f3n",
+      "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Meditatio Lux",
-        "url": "https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO"
-      },
-      "artists": [
-        {
-          "name": "Maurie",
-          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Meditatio Lux",
-      "url": "https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Mist Over Mountains",
         "url": "https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Mountain View",
-        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
+        "name": "Meditatio Lux",
+        "url": "https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO"
       },
       "artists": [
         {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+          "name": "Maurie",
+          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
         }
       ],
-      "duration_ms": 152974,
-      "name": "Mountain View",
-      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
+      "duration_ms": 225000,
+      "name": "Meditatio Lux",
+      "url": "https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -999,6 +983,22 @@
       "duration_ms": 154749,
       "name": "Evening Waves",
       "url": "https://open.spotify.com/track/3qfv2OFBqpSDGBFxVjrSgB"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Mountain View",
+        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 152974,
+      "name": "Mountain View",
+      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Spiritual Oasis",
-        "url": "https://open.spotify.com/album/3W2XFXjeoW9w57gbVqQa0q"
-      },
-      "artists": [
-        {
-          "name": "Warmth of Muba",
-          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
-        }
-      ],
-      "duration_ms": 140649,
-      "name": "Spiritual Oasis",
-      "url": "https://open.spotify.com/track/1RyDmEXJBK9YPWPABmMc3A"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Ishi",
         "url": "https://open.spotify.com/album/2XJfGbF75RMIQv39UnlwAH"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Slow Falling of Light",
-        "url": "https://open.spotify.com/album/713In70uLYleJ6Te91PM7w"
+        "name": "Spiritual Oasis",
+        "url": "https://open.spotify.com/album/3W2XFXjeoW9w57gbVqQa0q"
       },
       "artists": [
         {
-          "name": "Through Quiet Tides",
-          "url": "https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi"
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
         }
       ],
-      "duration_ms": 185742,
-      "name": "Slow Falling of Light",
-      "url": "https://open.spotify.com/track/2cmZz0u7VhVFVGiaNsPbL7"
+      "duration_ms": 140649,
+      "name": "Spiritual Oasis",
+      "url": "https://open.spotify.com/track/1RyDmEXJBK9YPWPABmMc3A"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1207,6 +1191,22 @@
       "duration_ms": 198095,
       "name": "Clear Horizon",
       "url": "https://open.spotify.com/track/5FbOETGBJmTS4oHQP5dRRv"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Slow Falling of Light",
+        "url": "https://open.spotify.com/album/713In70uLYleJ6Te91PM7w"
+      },
+      "artists": [
+        {
+          "name": "Through Quiet Tides",
+          "url": "https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi"
+        }
+      ],
+      "duration_ms": 185742,
+      "name": "Slow Falling of Light",
+      "url": "https://open.spotify.com/track/2cmZz0u7VhVFVGiaNsPbL7"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Mind Balance",
-        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
-      },
-      "artists": [
-        {
-          "name": "Angelic Planet",
-          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Mind Balance",
-      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Glacial Views",
         "url": "https://open.spotify.com/album/056OKAZ5jCLKD0KnQCdxZV"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 169000,
       "name": "Airy",
       "url": "https://open.spotify.com/track/7kpBv3fPwlJ5OtslNj4vgV"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Mind Balance",
+      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Mare Silentis",
-        "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
-      },
-      "artists": [
-        {
-          "name": "Cassio Bera",
-          "url": "https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Mare Silentis",
-      "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 150250,
       "name": "Let Hold",
       "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Mare Silentis",
+        "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
+      },
+      "artists": [
+        {
+          "name": "Cassio Bera",
+          "url": "https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Mare Silentis",
+      "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
-      },
-      "artists": [
-        {
-          "name": "Georgia Vesper",
-          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
-        }
-      ],
-      "duration_ms": 144043,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Above All Else",
         "url": "https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A"
       },
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
+      },
+      "artists": [
+        {
+          "name": "Georgia Vesper",
+          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
+        }
+      ],
+      "duration_ms": 144043,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
         "name": "Intangible",
         "url": "https://open.spotify.com/album/5deAB4dzBQkIZ56zsXkgSk"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Yalmi",
-        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
-      },
-      "artists": [
-        {
-          "name": "Merc La",
-          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Yalmi",
-      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Milestone",
         "url": "https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 212400,
       "name": "Birdcage Walk",
       "url": "https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Yalmi",
+        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
+      },
+      "artists": [
+        {
+          "name": "Merc La",
+          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Yalmi",
+      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
     },
     {
       "added_at": "2026-07-03 13:37:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,419 likes - 173 songs - 9 hr 40 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,424 likes - 177 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,5 +181,9 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 171 | [Skinny Boyfriend](https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Skinny Boyfriend](https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J) | 3:29 |
 | 172 | [Now](https://open.spotify.com/track/0E3kVurlBVyeiPT1oNaCI9) | [V.E.N!](https://open.spotify.com/artist/3sO9u4dOUWYj61kcOTBExd) | [The Beauty of Danger](https://open.spotify.com/album/2Jju9kOvnnejxo3XNVTI4k) | 3:00 |
 | 173 | [Notti senza sonnu](https://open.spotify.com/track/7f3DjU2N41dMAVhurBr6c2) | [Original Sicilian Style](https://open.spotify.com/artist/1ItdqjvLA5Kcx3kDkGgcVZ) | [Sutta stu celu](https://open.spotify.com/album/4gUiYiJJqvP7reBzm5qWfN) | 2:48 |
+| 174 | [Tus Latidos](https://open.spotify.com/track/7yKVHxYCRMIDDGBQ7zQTTT) | [Taiki](https://open.spotify.com/artist/5reg1fgjPsjD6lp553hI9v) | [Tus Latidos](https://open.spotify.com/album/1RMFwT5xZyo9d57uM1NHl8) | 2:21 |
+| 175 | [The Red Dress](https://open.spotify.com/track/2ZpO90oiJOPh6uNhmDarw2) | [Time Spent Driving](https://open.spotify.com/artist/3FRK7L4QCaaSAY8bPD6EUA) | [Lost Leaves](https://open.spotify.com/album/4iKwobQq1Sm48jl25B265P) | 3:59 |
+| 176 | [Take Me Home](https://open.spotify.com/track/5lPtbctnX3adI7zg4ysTEW) | [In\-Motion](https://open.spotify.com/artist/7M966gAnsOIc9z0FFQwBea) | [Take Me Home](https://open.spotify.com/album/4GNPA7AIuRfIHNuGwiS7Ew) | 4:04 |
+| 177 | [Ocean Beach](https://open.spotify.com/track/732OoMnt9lHm1T5RcPwtuS) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Jacob Tompkins](https://open.spotify.com/artist/3steuCKTOPNk0zjtR5Hfbg) | [Ocean Beach](https://open.spotify.com/album/2uqnJtzSjq5RHXFblkLPCw) | 2:40 |
 
-Snapshot ID: `AACCSeXz8CpRRYcMEd3K9/JX+eZrdlgT`
+Snapshot ID: `AACCTcQAfWRzclN5lty8AAtj4TNWfNdj`

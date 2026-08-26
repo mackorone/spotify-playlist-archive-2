@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,091 likes - 290 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,094 likes - 290 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 59 | [help, im still falling](https://open.spotify.com/track/2wRzkt3aewjpSeudZ7n2R3) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [help, im still falling](https://open.spotify.com/album/7asLU164NaILgnXfewdEXY) | 1:46 |
 | 60 | [Hardness Of A Silverspoon](https://open.spotify.com/track/5oEKcYeulKqQsW4G56dqpQ) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Hardness Of A Silverspoon](https://open.spotify.com/album/6x0d87k68ekuF281QJ2UkS) | 2:33 |
 | 61 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
-| 62 | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/track/0xu869oKDmbWv66goofbFq) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY) | 5:43 |
+| 62 | [I’m your girl right? \- Fcukers Remix](https://open.spotify.com/track/0xu869oKDmbWv66goofbFq) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY) | 5:43 |
 | 63 | [Slow It Down](https://open.spotify.com/track/50fesVpmySp5ABT64ZA17n) | [orseno](https://open.spotify.com/artist/5svYyK2SyLuFmhglLymIch), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [buzzard](https://open.spotify.com/album/75Vf0sPTI84lN0P9POlnQn) | 3:32 |
 | 64 | [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 |
 | 65 | [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 289 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 |
 | 290 | [peach](https://open.spotify.com/track/1lBi4AcyxeJyoe8Qhx4Hye) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [peach](https://open.spotify.com/album/6ea02No4KgESvZYXEp1RVH) | 2:19 |
 
-Snapshot ID: `AAAAALx89KsatnnC7Zry8YFxRbxrUkg7`
+Snapshot ID: `AAAAAP7qlNRrhHvsuNRqGjXHzjconPmk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: The Aitch",
+  "description": "50 Hits in einer Playlist! Cover: makko, The Chainsmokers",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 106480,
       "name": "Darling",
       "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
@@ -2745,6 +2745,28 @@
     },
     {
       "album": {
+        "name": "So ist das mit dem Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4sre2JgnwsJoH2Bd8r0tEA"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        },
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146131,
+      "name": "Glaubst du nicht auch",
+      "url": "https://open.spotify.com/track/1MDC9cmNlt3nU18QDk0STY"
+    },
+    {
+      "album": {
         "name": "Gl\u00fcck",
         "url": "https://open.spotify.com/album/4Mgv8693VB0RY2REV6jnOO"
       },
@@ -3510,6 +3532,46 @@
       "duration_ms": 148332,
       "name": "Interstellar (Zwischen den Sternen)",
       "url": "https://open.spotify.com/track/5PQUtofqhSPbfsC3Mi4YtS"
+    },
+    {
+      "album": {
+        "name": "Inundauswendig",
+        "url": "https://open.spotify.com/album/0R7lKm7pMZHjdrY1UVcc02"
+      },
+      "artists": [
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Inundauswendig",
+      "url": "https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq"
+    },
+    {
+      "album": {
+        "name": "ISSA",
+        "url": "https://open.spotify.com/album/5SLGlw14A9KHD5CK6ZNcKQ"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144861,
+      "name": "ISSA",
+      "url": "https://open.spotify.com/track/7medoAnENNaeVAHQbGcOMK"
     },
     {
       "album": {
@@ -4708,7 +4770,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
@@ -7890,7 +7952,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 173769,
       "name": "Wenn du mich fragst",
       "url": "https://open.spotify.com/track/0qMoR2ZhKTy3YhaNHooZkP"

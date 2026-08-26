@@ -1,12 +1,12 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93830,
+  "num_followers": 93824,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHBLTUgiV3Ysw+0huVIK4caWFIJ",
+  "snapshot_id": "AAAAAIPtyZy367gk7T6QYX8wsCuxi8lW",
   "tracks": [
     {
       "added_at": "2026-08-20 22:00:09",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Neverending Love (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Neverending Love (8-track Remix by MP)",
-      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Liten o stor",
-        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+        "name": "Neverending Love (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 312103,
-      "name": "Liten o stor",
-      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+      "duration_ms": 149508,
+      "name": "Neverending Love (8-track Remix by MP)",
+      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -583,22 +583,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Home to Us",
-        "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
+        "name": "Sciura",
+        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 191325,
-      "name": "Home to Us",
-      "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
+      "duration_ms": 171706,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -619,18 +615,22 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Sciura",
-        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
+        "name": "Home to Us",
+        "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 171706,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
+      "duration_ms": 191325,
+      "name": "Home to Us",
+      "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Ingen plockar en maskros",
-        "url": "https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Ingen plockar en maskros",
-      "url": "https://open.spotify.com/track/55kyGw7WmOpInVrabROr68"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Revalution Club",
         "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 269250,
       "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
       "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Ingen plockar en maskros",
+        "url": "https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Ingen plockar en maskros",
+      "url": "https://open.spotify.com/track/55kyGw7WmOpInVrabROr68"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
+        "name": "Everything's wasted",
+        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
       },
       "artists": [
         {
-          "name": "The Magnolia",
-          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
         }
       ],
-      "duration_ms": 208173,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
+      "duration_ms": 262501,
+      "name": "Everything's wasted",
+      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Everything's wasted",
-        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
       },
       "artists": [
         {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
         }
       ],
-      "duration_ms": 262501,
-      "name": "Everything's wasted",
-      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
+      "duration_ms": 208173,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq"
-      },
-      "artists": [
-        {
-          "name": "Laila Ad\u00e8le",
-          "url": "https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ"
-        }
-      ],
-      "duration_ms": 185579,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "RANSOMS",
         "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 183278,
       "name": "RANSOMS",
       "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq"
+      },
+      "artists": [
+        {
+          "name": "Laila Ad\u00e8le",
+          "url": "https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ"
+        }
+      ],
+      "duration_ms": 185579,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
         "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
         "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
         }
       ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1395,38 +1411,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
-        "name": "Rosor",
-        "url": "https://open.spotify.com/album/2Ms7NYrOs79Q2N6M4C7D3S"
-      },
-      "artists": [
-        {
-          "name": "Pernilla Andersson",
-          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
-        }
-      ],
-      "duration_ms": 225031,
-      "name": "Rosor",
-      "url": "https://open.spotify.com/track/0aDYLomq2NbOuqniPSJ65T"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Another Kingdom Is Gone (Kleerup Rework)",
         "url": "https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 215250,
       "name": "Another Kingdom Is Gone (Kleerup Rework)",
       "url": "https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Rosor",
+        "url": "https://open.spotify.com/album/2Ms7NYrOs79Q2N6M4C7D3S"
+      },
+      "artists": [
+        {
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
+        }
+      ],
+      "duration_ms": 225031,
+      "name": "Rosor",
+      "url": "https://open.spotify.com/track/0aDYLomq2NbOuqniPSJ65T"
     },
     {
       "added_at": "2026-08-20 22:00:09",

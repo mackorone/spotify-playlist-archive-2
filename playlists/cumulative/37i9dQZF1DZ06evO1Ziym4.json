@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 261372,
       "name": "14 Years",
       "url": "https://open.spotify.com/track/7xki0BmuOllyquWqjhETyr"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 305800,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh"
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "Bad Obsession",
+      "url": "https://open.spotify.com/track/4PSnQLK4uSmFfuZYEcXNUp"
+    },
+    {
+      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -110,6 +128,24 @@
       "duration_ms": 297226,
       "name": "Better",
       "url": "https://open.spotify.com/track/3nW5v0Htr1ySk8czTJIA2V"
+    },
+    {
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424493,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/77bCgbwirSDVeBGHxg00A7"
     },
     {
       "album": {
@@ -250,7 +286,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 208506,
       "name": "Down On The Farm",
       "url": "https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM"
@@ -293,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341306,
+      "name": "Get In The Ring",
+      "url": "https://open.spotify.com/track/4BIMNBkz3OgRgARIMYh7QW"
+    },
+    {
+      "album": {
         "name": "The Spaghetti Incident?",
         "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
@@ -304,7 +358,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 234906,
       "name": "Hair Of The Dog",
       "url": "https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh"
@@ -344,6 +398,24 @@
       "duration_ms": 698200,
       "name": "Hotel California / Only Women Bleed / Knockin' On Heaven's Door - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
       "url": "https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2"
+    },
+    {
+      "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408333,
+      "name": "Human Being",
+      "url": "https://open.spotify.com/track/1lOuIyCsLqFwQFLFahWCC6"
     },
     {
       "album": {
@@ -412,10 +484,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 336000,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+    },
+    {
+      "album": {
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447160,
+      "name": "Knockin' On Heaven's Door - Live In London / 1992",
+      "url": "https://open.spotify.com/track/2da7wnI5OoV89TsdKMM81k"
     },
     {
       "album": {
@@ -491,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Move To The City (1988 Acoustic Version)",
+        "url": "https://open.spotify.com/album/3DBIk4M0qaT0QR5DMIXnJq"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Move To The City - 1988 Acoustic Version",
+      "url": "https://open.spotify.com/track/2sVWzrtoEzBJW7eXAcUzrc"
+    },
+    {
+      "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
@@ -502,7 +610,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 214240,
       "name": "Move To The City - Live",
       "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
@@ -664,10 +772,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "album": {
+        "name": "Use Your Illusion I (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/33HYdYXXadqsdZ1NsYmS6o"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535733,
+      "name": "November Rain - 2022 Version",
+      "url": "https://open.spotify.com/track/3q9npStSssk7sZWotiNQLK"
     },
     {
       "album": {
@@ -718,7 +844,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
@@ -779,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287906,
+      "name": "Pretty Tied Up (The Perils Of Rock N' Roll Decadence)",
+      "url": "https://open.spotify.com/track/2hAt6y582UsTcwvCKTcTMs"
+    },
+    {
+      "album": {
         "name": "The Spaghetti Incident?",
         "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
@@ -790,7 +934,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "Raw Power",
       "url": "https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ"
@@ -830,6 +974,24 @@
       "duration_ms": 201613,
       "name": "Reckless Life - Live",
       "url": "https://open.spotify.com/track/0iLV9SuiXvAf7QI1LIHybg"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373266,
+      "name": "Rocket Queen",
+      "url": "https://open.spotify.com/track/0xaNdYwK8ZF3cHSjraQGC0"
     },
     {
       "album": {
@@ -916,7 +1078,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 259906,
       "name": "Since I Don't Have You",
       "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
@@ -934,7 +1096,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2lU2VI066HaPGyKTh6ANvI"
@@ -1096,10 +1258,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 192666,
       "name": "Used To Love Her",
       "url": "https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia"
+    },
+    {
+      "album": {
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257866,
+      "name": "Used To Love Her - Live In Tokyo / 1988",
+      "url": "https://open.spotify.com/track/3PNstDXu8XpaHyc6kLVBhL"
     },
     {
       "album": {
@@ -1186,7 +1366,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 196226,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY"
@@ -1204,10 +1384,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 343640,
       "name": "You Could Be Mine",
       "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+    },
+    {
+      "album": {
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362266,
+      "name": "You Could Be Mine - Live In Japan / 1992",
+      "url": "https://open.spotify.com/track/4BrYH5uQYdK5aRubDEP3cO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ziym4"

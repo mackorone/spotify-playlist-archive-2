@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7676,
+  "num_followers": 7682,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAC/lbiYGHB6YQQXGGdtf98X",
+  "snapshot_id": "aouJgAAAAAA2UzUkjkTlCK5p1fN6e0Jh",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unblocked",
+        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 315072,
+      "name": "Sam\u2019s Vibe",
+      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Isle Of Queens Deluxe",
         "url": "https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 231133,
       "name": "New Phone, Who Dis? (Remix) [feat. Durand Bernarr]",
       "url": "https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unblocked",
-        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 315072,
-      "name": "Sam\u2019s Vibe",
-      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Rollin\u2019",
-      "url": "https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 236904,
       "name": "GPS",
       "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "Rollin\u2019",
+      "url": "https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Clock Don\u2019t Go Back",
-        "url": "https://open.spotify.com/album/03Rtmq1Acm34vWhG6eOYd6"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 280064,
-      "name": "Decline (feat. Durand Bernarr)",
-      "url": "https://open.spotify.com/track/5lutTlJVyL6g3tth1nbPuo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 91994,
       "name": "PIT STOP",
       "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Clock Don\u2019t Go Back",
+        "url": "https://open.spotify.com/album/03Rtmq1Acm34vWhG6eOYd6"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 280064,
+      "name": "Decline (feat. Durand Bernarr)",
+      "url": "https://open.spotify.com/track/5lutTlJVyL6g3tth1nbPuo"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 207947,
       "name": "Neutral",
       "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -759,30 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Fail Are We Still Cool?",
-        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
+        "name": "Hip 2 Hip Hypnosis",
+        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
       },
       "artists": [
         {
-          "name": "Patrick Paige II",
-          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
-        },
-        {
-          "name": "Allen Love",
-          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
         },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 229558,
-      "name": "Whisper (Want My Luv)",
-      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
+      "duration_ms": 193880,
+      "name": "Hip 2 Hip Hypnosis",
+      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
     },
     {
       "added_at": null,
@@ -807,22 +799,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip 2 Hip Hypnosis",
-        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
+        "name": "If I Fail Are We Still Cool?",
+        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
       },
       "artists": [
         {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+          "name": "Patrick Paige II",
+          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
+        },
+        {
+          "name": "Allen Love",
+          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
         },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Hip 2 Hip Hypnosis",
-      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
+      "duration_ms": 229558,
+      "name": "Whisper (Want My Luv)",
+      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
     },
     {
       "added_at": null,
@@ -863,6 +863,38 @@
       "duration_ms": 268668,
       "name": "minding_my business",
       "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 213275,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 171460,
+      "name": "Processing...",
+      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

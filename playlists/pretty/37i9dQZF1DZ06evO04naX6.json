@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 181006,
+  "num_followers": 181036,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAC25evLtSlJQQYZXsYZ8wjI",
+  "snapshot_id": "aouJgAAAAACj5Vvt25mC53hSGyHcYLKr",
   "tracks": [
     {
       "added_at": null,
@@ -667,42 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 134277,
-      "name": "Me Voy A La Chingada",
-      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 120101,
-      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEX AND LOVE",
         "url": "https://open.spotify.com/album/3lIHHrdS4kzUgqvMXgPEKP"
       },
@@ -727,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 120101,
+      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/30YDfz90cdslkFPfoPBR9U"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 136026,
       "name": "Te Suelto el Pelo",
       "url": "https://open.spotify.com/track/4YlhOXm12hH7qWsRb4MZYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 134277,
+      "name": "Me Voy A La Chingada",
+      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Underdog - El Subestimado",
-        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Cuando Baila Reggaeton",
-      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -1051,34 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Unica - Remix",
-      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ginza (Remix)",
         "url": "https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ"
       },
@@ -1127,6 +1079,58 @@
       "duration_ms": 373960,
       "name": "Ginza - Remix",
       "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Unica - Remix",
+      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 166929,
+      "name": "UNA M\u00c1S",
+      "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
     }
   ],
   "unique_name": "This Is Yandel",

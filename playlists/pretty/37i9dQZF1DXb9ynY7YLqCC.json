@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 187617,
+  "num_followers": 187631,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0fe8Ktg6TtqOWCA5Pmollr38gU",
+  "snapshot_id": "AAAAAB+p0de6c1VzI3XFb+1fm4uTQSs5",
   "tracks": [
     {
       "added_at": "2026-04-24 03:01:11",
@@ -1019,42 +1019,6 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
-        "name": "Irreal",
-        "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
-      },
-      "artists": [
-        {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 218755,
-      "name": "Certezas de cart\u00f3n",
-      "url": "https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI"
-    },
-    {
-      "added_at": "2026-04-24 03:01:11",
-      "album": {
-        "name": "Mi\u00e9rcoles",
-        "url": "https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK"
-      },
-      "artists": [
-        {
-          "name": "De La Gran Pi\u00f1ata",
-          "url": "https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK"
-        }
-      ],
-      "duration_ms": 282026,
-      "name": "Anguilita",
-      "url": "https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG"
-    },
-    {
-      "added_at": "2026-04-24 03:01:11",
-      "album": {
         "name": "Sacrificio y Rock N\u00b4Roll",
         "url": "https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM"
       },
@@ -1083,6 +1047,42 @@
       "duration_ms": 241775,
       "name": "Sacrificio y Rock N\u00b4Roll",
       "url": "https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx"
+    },
+    {
+      "added_at": "2026-04-24 03:01:11",
+      "album": {
+        "name": "Mi\u00e9rcoles",
+        "url": "https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK"
+      },
+      "artists": [
+        {
+          "name": "De La Gran Pi\u00f1ata",
+          "url": "https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Anguilita",
+      "url": "https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG"
+    },
+    {
+      "added_at": "2026-04-24 03:01:11",
+      "album": {
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 218755,
+      "name": "Certezas de cart\u00f3n",
+      "url": "https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI"
     },
     {
       "added_at": "2026-04-24 03:01:11",

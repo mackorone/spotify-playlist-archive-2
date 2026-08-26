@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,297 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,299 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 49 | [Chica×Chica](https://open.spotify.com/track/2xAQQszho64vWxo5xa7e0F) | [みほ・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/04Pzgjj5UlS28N9sKeIXwX) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目2](https://open.spotify.com/album/4M12YvwwGbcwexRTydDy4H) | 4:06 |
 | 50 | [Moonlight destiny](https://open.spotify.com/track/7k23PwzprCuA2cAgPTMgmW) | [りすこfrom STAR☆ANIS](https://open.spotify.com/artist/7DK1Wv6HgOGHNqrj6WnOHq) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 6:28 |
 
-Snapshot ID: `AAAAAI4o0ftFJ2hdtwhM4AHjxbXMaeqy`
+Snapshot ID: `AAAAAHmKtLxeR58/7ElgbKzOeGX50J8L`

@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58255,
+  "num_followers": 58259,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACDbBsQZpJH6osC2HpRSbgd",
+  "snapshot_id": "aouJgAAAAADBHaCkc10qGZ43Ktwh/mF7",
   "tracks": [
     {
       "added_at": null,
@@ -191,70 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cypher",
-        "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 482926,
-      "name": "Cypher",
-      "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cholo en un Low",
-      "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampa (Lqra Session #18)",
         "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
       },
@@ -287,6 +223,22 @@
       "duration_ms": 260859,
       "name": "Trampa (Lqra Session #18)",
       "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cholo en un Low",
+      "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
     },
     {
       "added_at": null,
@@ -791,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Borrachera",
-        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pura Borrachera",
-      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toques de Queda",
         "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
       },
@@ -831,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Borrachera",
+        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pura Borrachera",
+      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -843,6 +795,26 @@
       "duration_ms": 200306,
       "name": "Lento Y Contento",
       "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
     },
     {
       "added_at": null,
@@ -871,26 +843,6 @@
       "duration_ms": 285000,
       "name": "No Es Que Sea Mam\u00f3n",
       "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Tu Piel",
-        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Por Tu Piel",
-      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
     },
     {
       "added_at": null,
@@ -1091,30 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA NETA SIN CARETA",
-        "url": "https://open.spotify.com/album/126AtDnK92bonVs7eD5hK6"
-      },
-      "artists": [
-        {
-          "name": "Foyone",
-          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 203181,
-      "name": "LA NETA SIN CARETA",
-      "url": "https://open.spotify.com/track/5mELwfFZZRAdCTXjhdNSwB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre High",
         "url": "https://open.spotify.com/album/0WSxsgqE0iWITJVWvvLyBB"
       },
@@ -1139,6 +1067,30 @@
       "duration_ms": 284501,
       "name": "Siempre High",
       "url": "https://open.spotify.com/track/2mimHhtQ7lK2JI2Bl4GKow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA NETA SIN CARETA",
+        "url": "https://open.spotify.com/album/126AtDnK92bonVs7eD5hK6"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 203181,
+      "name": "LA NETA SIN CARETA",
+      "url": "https://open.spotify.com/track/5mELwfFZZRAdCTXjhdNSwB"
     },
     {
       "added_at": null,
@@ -1183,6 +1135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo Cholo",
+        "url": "https://open.spotify.com/album/1k6OrwoCWoIMa9ObPY792d"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Mundo Cholo",
+      "url": "https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -1215,22 +1187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo Cholo",
-        "url": "https://open.spotify.com/album/1k6OrwoCWoIMa9ObPY792d"
+        "name": "Alcohol Amargo",
+        "url": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
       },
       "artists": [
         {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Mundo Cholo",
-      "url": "https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ"
+      "duration_ms": 236202,
+      "name": "Alcohol Amargo",
+      "url": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
     },
     {
       "added_at": null,
@@ -1271,26 +1243,6 @@
       "duration_ms": 226813,
       "name": "Los de la A",
       "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alcohol Amargo",
-        "url": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 236202,
-      "name": "Alcohol Amargo",
-      "url": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
     },
     {
       "added_at": null,
@@ -1387,6 +1339,30 @@
       "duration_ms": 234000,
       "name": "Alzypher Vol. 3",
       "url": "https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Inmensidades",
+        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 189078,
+      "name": "Tequila y Lim\u00f3n",
+      "url": "https://open.spotify.com/track/72zs1y5Oe4LmORRE3DmthP"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

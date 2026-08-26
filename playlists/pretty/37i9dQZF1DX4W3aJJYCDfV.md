@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jorja Smith, Sam Smith, Fontaines D.C., Cleo Sol and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,881 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,815 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 3 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 4 | [Gentlewoman](https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:00 |
 | 5 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
-| 6 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 6 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 7 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 8 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
 | 9 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [wish u](https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl) | [The Twins](https://open.spotify.com/artist/6vsNRwGyyXmphFE9Lu27qi) | [wish u](https://open.spotify.com/album/0aKeyMr8TBJZ87ToNctoqF) | 1:50 |
 | 100 | [Nobody Cares](https://open.spotify.com/track/61q3jK7LepONT21nXLgJLe) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Nobody Cares](https://open.spotify.com/album/5gRKWM2hGzMmQs7OyIejLW) | 2:17 |
 
-Snapshot ID: `AAAAAEMB5f5/vhPUSzT4R+/XqpgjDJBr`
+Snapshot ID: `AAAAADCiGTWMCio120vIYpAWR3Dl5JXB`

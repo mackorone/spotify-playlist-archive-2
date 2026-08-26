@@ -6322,7 +6322,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 252144,
       "name": "Barii",
       "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
@@ -27766,6 +27766,24 @@
       "duration_ms": 209777,
       "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
       "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
+    },
+    {
+      "album": {
+        "name": "hey fever",
+        "url": "https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG"
+      },
+      "artists": [
+        {
+          "name": "Whu Else",
+          "url": "https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122416,
+      "name": "hey fever",
+      "url": "https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl"
     },
     {
       "album": {

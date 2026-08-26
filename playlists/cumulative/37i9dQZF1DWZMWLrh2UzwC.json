@@ -347976,6 +347976,28 @@
     {
       "album": {
         "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6DhHxRDSzwje4NiEl8YTyE"
+      },
+      "artists": [
+        {
+          "name": "Pinstripes",
+          "url": "https://open.spotify.com/artist/55sDlhEtcEfwIzApR6AHgH"
+        },
+        {
+          "name": "AG COCO",
+          "url": "https://open.spotify.com/artist/5MQk3WIAnNUAgz8FuhQjzX"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183941,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6uDMZjFejctSFnUJZevz9U"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/2Klp3W14R2Ymspkw7OcSwR"
       },
       "artists": [
@@ -348008,24 +348030,6 @@
       "duration_ms": 237798,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1KUAOJkgvMmDHxlR1juKUz"
-    },
-    {
-      "album": {
-        "name": "Tell Me (feat. AG COCO)",
-        "url": "https://open.spotify.com/album/6DhHxRDSzwje4NiEl8YTyE"
-      },
-      "artists": [
-        {
-          "name": "Pinstripes",
-          "url": "https://open.spotify.com/artist/55sDlhEtcEfwIzApR6AHgH"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183941,
-      "name": "Tell Me (feat. AG COCO)",
-      "url": "https://open.spotify.com/track/6uDMZjFejctSFnUJZevz9U"
     },
     {
       "album": {

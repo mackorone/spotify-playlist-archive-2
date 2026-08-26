@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Coppernikas, Mia Morris and more",
+  "description": "With Die Mannequin, Mia Morris, Coppernikas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 159285,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0"
@@ -1994,6 +1994,24 @@
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
+    },
+    {
+      "album": {
+        "name": "Carmilla",
+        "url": "https://open.spotify.com/album/3noWNMmABRq4fezqCq3Mkk"
+      },
+      "artists": [
+        {
+          "name": "Six Foot Blonde",
+          "url": "https://open.spotify.com/artist/221FT80tDz6lzvz4U1ySSe"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254976,
+      "name": "Carmilla",
+      "url": "https://open.spotify.com/track/60snKyvd5ibuOFsCluj2Lg"
     },
     {
       "album": {
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -3986,7 +4004,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Hang On Me",
       "url": "https://open.spotify.com/track/34RCix3Dx61ufZFSDlIyNs"
@@ -5737,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "Invisible Tonight",
+        "url": "https://open.spotify.com/album/7ygsghuGcE8KN2kPY9vNRa"
+      },
+      "artists": [
+        {
+          "name": "The Nearly Deads",
+          "url": "https://open.spotify.com/artist/02xGrkvi3hMrDW023OJNAc"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Invisible Tonight",
+      "url": "https://open.spotify.com/track/35HAaAaqB1jvi436M7BNjQ"
+    },
+    {
+      "album": {
         "name": "Error 404: Patience Not Found",
         "url": "https://open.spotify.com/album/50apzoCURxhJuxqF1ndshG"
       },
@@ -5784,7 +5820,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -7972,7 +8008,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 211291,
       "name": "Not Listening",
       "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
@@ -8606,7 +8642,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 192334,
       "name": "Paint a Picture - Remix",
       "url": "https://open.spotify.com/track/1Mwnk5Yj0c11WaHDzCvzSt"
@@ -8768,7 +8804,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 205271,
       "name": "Phone Calls",
       "url": "https://open.spotify.com/track/7AkKvO5OaTLYoDJq1Z7kDq"
@@ -9366,7 +9402,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 263746,
       "name": "Rock'n' Roll tonight",
       "url": "https://open.spotify.com/track/6THswMu9UxQRarm4MW2iKK"
@@ -9864,7 +9900,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 182150,
       "name": "Signal Born",
       "url": "https://open.spotify.com/track/0h3KrQMhfOUXhcTdXGgWJI"
@@ -10866,7 +10902,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -11342,7 +11378,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 135163,
       "name": "Turn You Off",
       "url": "https://open.spotify.com/track/11V3BXeXgGUSE5y3JEwXqe"
@@ -11382,6 +11418,24 @@
       "duration_ms": 183530,
       "name": "Ugly Lights",
       "url": "https://open.spotify.com/track/01Dh4x0x0zcKfVuTdLmToe"
+    },
+    {
+      "album": {
+        "name": "Calls for Rebellion",
+        "url": "https://open.spotify.com/album/1bBuSOG6lNGCyA3n9RpRpS"
+      },
+      "artists": [
+        {
+          "name": "The Soap Girls",
+          "url": "https://open.spotify.com/artist/1OLHfdAPzzmWwnOVSX67km"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "Ugly Underneath",
+      "url": "https://open.spotify.com/track/2tqArile77lZGxWWFjTjni"
     },
     {
       "album": {
@@ -11648,7 +11702,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"

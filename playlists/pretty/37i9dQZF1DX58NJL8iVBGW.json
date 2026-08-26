@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 819657,
+  "num_followers": 819748,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACkdD+YEr3ZyIGfuXlI0iWcnkfht",
+  "snapshot_id": "AAAAAMq8/WGLcf75iNilowPx+NNahxox",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:04",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "Parker Millsap",
-        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 242266,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "Parker Millsap",
+        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Hades Pleads",
-      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "Heavy Load",
         "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 224226,
       "name": "Get Right Church",
       "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Hades Pleads",
+      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "The Winter of '68",
-        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 202979,
-      "name": "The Winter of '68",
-      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "Bottom of the River",
         "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 201240,
       "name": "Bottom of the River",
       "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "The Winter of '68",
+        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 202979,
+      "name": "The Winter of '68",
+      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "Election Day",
-        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Election Day",
-      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 285680,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "Another Man\u02bcs Grave",
-        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
-      },
-      "artists": [
-        {
-          "name": "Amigo the Devil",
-          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
-        }
-      ],
-      "duration_ms": 188677,
-      "name": "Another Man\u02bcs Grave",
-      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "The Dirty River Boys",
         "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 214040,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "Another Man\u02bcs Grave",
+        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "duration_ms": 188677,
+      "name": "Another Man\u02bcs Grave",
+      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "Look Homeward",
         "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
+        "name": "Black Dog Sin",
+        "url": "https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Black Dog Sin",
+      "url": "https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
         "name": "Small Town Murder Songs - Original Soundtrack",
         "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
-        "name": "Black Dog Sin",
-        "url": "https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Black Dog Sin",
-      "url": "https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn"
     },
     {
       "added_at": "2026-08-14 04:01:04",

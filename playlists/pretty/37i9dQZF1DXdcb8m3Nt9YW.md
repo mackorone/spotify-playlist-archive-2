@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Cornelio Vega y su Dinastía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,244 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,329 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 15 | [Chuy Y Mauricio \- En Vivo](https://open.spotify.com/track/22UmACAeWIG0HPPKwlUGW2) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Raúl Hernández Jr.](https://open.spotify.com/artist/5z31c3mbByOIgXn6B8GffX) | [Del Rancho Al Palenque](https://open.spotify.com/album/2j5zovb9hcE0SVyC0y0qMV) | 3:08 |
 | 16 | [Un Desengaño \- En Vivo](https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [En Vivo Desde la Fogata](https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk) | 3:20 |
 | 17 | [El Rey De Mil Coronas \(En Vivo\)](https://open.spotify.com/track/0YO0eVBZsdEgFdUgY59O6g) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Rey De Mil Coronas \(En Vivo\)](https://open.spotify.com/album/4CK2UFpYOeRduNaxEaWLwx) | 2:34 |
-| 18 | [Por Quién Me Dejas \(En vivo\)](https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Coronar Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw) | 3:12 |
+| 18 | [Por Quién Me Dejas \- En vivo](https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Coronar Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw) | 3:12 |
 | 19 | [El desquite \- En Vivo](https://open.spotify.com/track/5MyARyHHKOOs2IV7HAWMiC) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Banda la Única del Rancho](https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU) | [La Revancha Vol.2 \(En Vivo\)](https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq) | 3:03 |
 | 20 | [Una flor quise cortar](https://open.spotify.com/track/0GQtlRggAcNzT8NLmqvODG) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Cantando en casa](https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD) | 2:23 |
 | 21 | [Corre \(En Vivo\)](https://open.spotify.com/track/031vptkhlHXymEmgYUA7D8) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [Corre \(En Vivo\)](https://open.spotify.com/album/01q5N6GegdNRFu6cfs4xxg) | 3:03 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 124 | [La Siembra En El Cerro](https://open.spotify.com/track/1JwfEcCXRBONintEFJZtsG) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:28 |
 | 125 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 
-Snapshot ID: `AAAAAIRBqnD06IkmnTHjz0CSyAjxL9gu`
+Snapshot ID: `AAAAAPP5fWQY0wbKvkY1tNGUEGuQ2J/m`

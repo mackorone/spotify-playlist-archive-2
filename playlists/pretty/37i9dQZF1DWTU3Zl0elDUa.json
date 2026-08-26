@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 598762,
+  "num_followers": 598988,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXUJWIuK1ULfNQU4VvDxJjdio5X",
+  "snapshot_id": "AAAAAEIE2BheUrDE55zgGvEs4NSR9zD6",
   "tracks": [
     {
       "added_at": "2026-05-04 16:53:23",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Get Get Down",
         "url": "https://open.spotify.com/album/1ND1coyFl0AIA9D5OujGgg"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 367786,
       "name": "Get Get Down",
       "url": "https://open.spotify.com/track/4h4AEqy0iBbjdlbtWvIx5O"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
     },
     {
       "added_at": "2026-05-04 16:53:23",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
+        "name": "Beyond The Mix",
+        "url": "https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "duration_ms": 417706,
+      "name": "The Whistle Song",
+      "url": "https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
         "name": "Club Classics",
         "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 416026,
       "name": "Where Love Lives - featured on the John Lewis Christmas Advert 2025",
       "url": "https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
-        "name": "Beyond The Mix",
-        "url": "https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD"
-      },
-      "artists": [
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 417706,
-      "name": "The Whistle Song",
-      "url": "https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1"
     },
     {
       "added_at": "2026-05-04 16:53:23",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "Club Classics",
-        "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
-      },
-      "artists": [
-        {
-          "name": "Alison Limerick",
-          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
-        }
-      ],
-      "duration_ms": 516533,
-      "name": "Love Come Down - Club Vocal Mix",
-      "url": "https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 342986,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "Club Classics",
+        "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
+      },
+      "artists": [
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        }
+      ],
+      "duration_ms": 516533,
+      "name": "Love Come Down - Club Vocal Mix",
+      "url": "https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5"
     },
     {
       "added_at": "2026-05-04 16:53:23",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "Club Classics",
-        "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
       "artists": [
         {
-          "name": "Alison Limerick",
-          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
-        },
-        {
-          "name": "Steve Anderson",
-          "url": "https://open.spotify.com/artist/1w2vC8mujXXoXYTVRxJybN"
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
         }
       ],
-      "duration_ms": 424266,
-      "name": "Make It On My Own - 12\" Club Mix",
-      "url": "https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL"
+      "duration_ms": 270760,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr"
     }
   ],
   "unique_name": "90s House Classics",

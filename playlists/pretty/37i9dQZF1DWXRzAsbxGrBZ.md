@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Judith Sephuma, C\-Blak
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,253 likes - 75 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,316 likes - 75 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What is House Music?](https://open.spotify.com/track/4toMhQ37opr4Yn62xTf2Xk) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [THE XO EFFECT 3](https://open.spotify.com/album/2aAhhE2vCF8ThhsbGomf0T) | 6:08 |
 | 2 | [Iya Iyo \(C\-Blak Re\-Visited Mashed\-Up Remix\)](https://open.spotify.com/track/3Cu6PlZBpsLDz4BID0Y63L) | [Judith Sephuma](https://open.spotify.com/artist/4UhNEvY4mAznOBZJkbXX8E), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Iya Iyo \(Remixes\)](https://open.spotify.com/album/1QXExp1WlSdg1OCU95CMGE) | 6:24 |
 | 3 | [Hope](https://open.spotify.com/track/1eEmLgPWolEEmdKLOIGUqK) | [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt) | [H.O.P.E](https://open.spotify.com/album/2U7mHuDIualzk08xsfacRT) | 5:23 |
-| 4 | [Our Thing \- Edit](https://open.spotify.com/track/4S4LanPOToXWMZrAjr1e54) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Tahir Jones](https://open.spotify.com/artist/7c5zf6s8ViIvwLIwWEdiWH) | [Our Thing / Every Waking Day](https://open.spotify.com/album/265EDrAdEmdktKL33xAxbu) | 4:16 |
+| 4 | [Our Thing \- Edit](https://open.spotify.com/track/4S4LanPOToXWMZrAjr1e54) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Tahir Jones](https://open.spotify.com/artist/7c5zf6s8ViIvwLIwWEdiWH) | [Our Thing / Every Waking Day](https://open.spotify.com/album/265EDrAdEmdktKL33xAxbu) | 4:16 |
 | 5 | [Bigger Than Us](https://open.spotify.com/track/6JdJ823ZQ2102oQnFosjGa) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [Bigger Than Us](https://open.spotify.com/album/3ek3Xm3lvP5wyRQFOi8F8l) | 5:26 |
 | 6 | [Lost in Tempo](https://open.spotify.com/track/2GqmRRUOwIK48n8Al8CU97) | [Deeper Phil](https://open.spotify.com/artist/1kV0CNLLylygX6XfJjt75N), [Djy Vino](https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8) | [Deepyano Single Pack](https://open.spotify.com/album/3crFCZualeq1PXEpS209SP) | 6:14 |
 | 7 | [For The Night](https://open.spotify.com/track/77AOMNQWP346mMAOf1vkcQ) | [Liquideep](https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP) | [For The Night](https://open.spotify.com/album/4qVBgqbLWOpWwhVfZiUI7S) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 74 | [Lucky Man \- Da Gifto's Remake](https://open.spotify.com/track/4xb4ur7DrYA4L5sBS2cvN8) | [LnSoul](https://open.spotify.com/artist/5UfmOvlvYSikp9JvZutZtk), [Kenton Lee](https://open.spotify.com/artist/6YBvH6Au8RM76TTcuTDA5h), [Caviar Musique](https://open.spotify.com/artist/4kbLdUj3XS7lBxUI5ZynFz) | [Lucky Man \(Da Gifto's Remake\)](https://open.spotify.com/album/2EssVYSSSLOJjKcOBxusWf) | 8:08 |
 | 75 | [Mfanaka \(Mfana Noxman\)](https://open.spotify.com/track/24wJMihL08N5HMAxgNEGQK) | [Slaga](https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw), [Dazz\-B MusiQ](https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn), [Macnoss](https://open.spotify.com/artist/1lKc8wWqtr5h8dgFbQ1mf2) | [Mfanaka \(Mfana Noxman\)](https://open.spotify.com/album/6tIeOt2XiKPfDliDlPYoRX) | 7:08 |
 
-Snapshot ID: `AAAAABWKCcXYdvAWIGBBjwGZVYZJPip3`
+Snapshot ID: `AAAAAOjLHTGrPgxoh3AcYXqiqQ5OXLHZ`

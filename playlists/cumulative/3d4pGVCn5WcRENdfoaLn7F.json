@@ -7017,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le"
+      },
+      "artists": [
+        {
+          "name": "Solace in Me",
+          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r"
+    },
+    {
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Ghard
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,963 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,916 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [VIDA DE ILUSÃO](https://open.spotify.com/track/671zmu4aFMn7u16sTKL5dl) | [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Th DaB](https://open.spotify.com/artist/1Vx0bnfBGRwBsqziNlf4H7), [CHIMOTO](https://open.spotify.com/artist/4gAHD78EU5OSEYhSsRKpJd) | [VIDA DE ILUSÃO](https://open.spotify.com/album/7JhdBWpvumB1bYR5kJhu7T) | 3:30 |
 | 75 | [ICE](https://open.spotify.com/track/4QMWwYSQuRAEOUzKlso99B) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv) | [ICE](https://open.spotify.com/album/2STAYDW8pSzp50BixLEgpD) | 2:19 |
 
-Snapshot ID: `AAAAAKCLNQ3v9gLEyn5F7IPLMmJJT7M8`
+Snapshot ID: `AAAAAMk+KmAxrdgvi/rlUrp7upqbKMVd`

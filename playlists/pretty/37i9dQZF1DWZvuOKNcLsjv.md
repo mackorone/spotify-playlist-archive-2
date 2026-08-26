@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: BIGBANG
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,075 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,070 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 58 | [ojigi](https://open.spotify.com/track/4XTJaCl0DLgZrd7ZexuXQh) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [ojigi](https://open.spotify.com/album/0xcUMeamFTuOLMKSicNYWx) | 3:54 |
 | 59 | [MY LIFE](https://open.spotify.com/track/1gzHbSSKOeYVXhYkK7g7Pe) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [MY LIFE](https://open.spotify.com/album/5maPKQIoR7vxfNJcdOmPpC) | 4:34 |
 
-Snapshot ID: `AAAAALGXWKQaFM7t4LHDsEe+edyVSG0e`
+Snapshot ID: `AAAAAO2/H+8J4Qp/5mzJHsY57INnZegL`

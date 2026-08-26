@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 72 | [naked](https://open.spotify.com/track/342V5RVC9DFrYfAA6OOJkJ) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:53 |
 | 73 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
 | 74 | [Happy](https://open.spotify.com/track/4juczSsaf3zwU0OZLFgp0a) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [MOOD: I'm Feeling Petty](https://open.spotify.com/album/4zx5HhEbBW4lg0sgVP24Tg) | 2:51 |
-| 75 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 |
-| 76 | [Still Feels The Same](https://open.spotify.com/track/36ofZpdOk2lb9JSI7Hfyhn) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 3:01 |
+| 75 | [Still Feels The Same](https://open.spotify.com/track/36ofZpdOk2lb9JSI7Hfyhn) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 3:01 |
+| 76 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 |
 | 77 | [h8 u right now](https://open.spotify.com/track/102PnC9x6PwMec0i2DRiV0) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [h8 u right now](https://open.spotify.com/album/1CYXIOyMtlGPR5a1JcwcTm) | 2:57 |
 | 78 | [This Side Of The Dirt](https://open.spotify.com/track/2fsYoZ2E7LNRkNqCH5FuMo) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [This Side Of The Dirt](https://open.spotify.com/album/7zkixgWE2b1OoR3L8UClPZ) | 3:21 |
 | 79 | [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 132 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 133 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `AcadmgAAAAAc2XHMNsnHUfHSw2vC/SWW`
+Snapshot ID: `AcajOgAAAADzJ7wOQnigyshN4H1iLmBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,932 likes - 200 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,254 likes - 200 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 |
 | 200 | [Better Now](https://open.spotify.com/track/0bFSQSxqsZ1tUif24rmrAY) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Better Now](https://open.spotify.com/album/1SkZFaRpRhhrj8H9JA2d0I) | 2:10 |
 
-Snapshot ID: `AAAAAFuVmrsDIP4VSEhWYgMGGWH6CL2l`
+Snapshot ID: `AAAAAPn+9yQDSAo0QiFgRCXxEgC6fKTr`

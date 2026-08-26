@@ -4,7 +4,7 @@
 
 > 
 
-151 songs - 14 hr 1 min
+152 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Light In The Eyes](https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Light In The Eyes](https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t) | 5:52 | 2025-08-27 |  |
 | [Lightbringers](https://open.spotify.com/track/4vlYC3s6Ps8fA8hLGcaiNG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:10 | 2023-07-01 |  |
 | [Liquid Slow](https://open.spotify.com/track/6Qp2c0odcvUIN640gVyisz) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Liquid Slow EP](https://open.spotify.com/album/496wGRSvPBhF6s3KnTxupv) | 6:46 | 2023-02-05 |  |
+| [Lost In Bliss](https://open.spotify.com/track/4ebKHrtRfaY71EKJuplo4V) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Lost In Bliss](https://open.spotify.com/album/0F17CLPTmc1rqhqrmipryG) | 5:28 | 2026-08-25 |  |
 | [LOVE 4 RAVE](https://open.spotify.com/track/2jjw8APg1tTkH23uB0AmM1) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [LOVE 4 RAVE](https://open.spotify.com/album/65CYSd8fqzKYUyYtQdKDhK) | 5:53 | 2021-10-01 |  |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-07-17 |  |
 | [make a move](https://open.spotify.com/track/7tasT0r0WpnfYSVfDc3UUK) | [nørus](https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz) | [\_songs](https://open.spotify.com/album/2wwitaZ4741WPHfh10MRzr) | 7:36 | 2023-08-19 |  |

@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Mar de Copas",
+        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Devuelve un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0dcKVklCyj0Kr7uN91OP4q"
+    },
+    {
+      "album": {
         "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
         "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 190960,
       "name": "Devuelve un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"

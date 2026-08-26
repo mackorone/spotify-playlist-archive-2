@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXPFTQr1zLFTWXgczLjB7GR8SQU9VY",
+  "snapshot_id": "AAAXQhmHYbnN9bFEvFeHR7HOs5L7xcAR",
   "tracks": [
     {
       "added_at": "2026-08-21 09:03:00",
@@ -2151,6 +2151,106 @@
       "duration_ms": 299344,
       "name": "A Grave for Your Grief",
       "url": "https://open.spotify.com/track/3YMBzXhzprcuffAsqsWJh1"
+    },
+    {
+      "added_at": "2026-08-25 08:44:29",
+      "album": {
+        "name": "TAXI",
+        "url": "https://open.spotify.com/album/0Es6W4uPJPAyAj8qlXk1p4"
+      },
+      "artists": [
+        {
+          "name": "Krist\u00fdna Pejcharov\u00e1",
+          "url": "https://open.spotify.com/artist/225szxG4SqVKPU6hfOGiD5"
+        }
+      ],
+      "duration_ms": 123172,
+      "name": "TAXI",
+      "url": "https://open.spotify.com/track/2OwQ3G2XqOakVEDZ7wF78U"
+    },
+    {
+      "added_at": "2026-08-25 08:44:33",
+      "album": {
+        "name": "One I Choose",
+        "url": "https://open.spotify.com/album/0BcaHDbCaRgVQYmyEYdaJL"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ"
+        },
+        {
+          "name": "Avaraj",
+          "url": "https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC"
+        }
+      ],
+      "duration_ms": 154902,
+      "name": "One I Choose",
+      "url": "https://open.spotify.com/track/4AviqYGbYeoyrV9fFTMr0j"
+    },
+    {
+      "added_at": "2026-08-25 08:44:35",
+      "album": {
+        "name": "\u0417\u0430\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456",
+        "url": "https://open.spotify.com/album/5mcwpQ0N0cg5Hjyal3jiUS"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u0430\u043d\u044f \u0420\u0430\u0441\u0441\u0435\u043b",
+          "url": "https://open.spotify.com/artist/3mYI64hXQqSKifOhYlFFXx"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "\u0417\u0430\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456",
+      "url": "https://open.spotify.com/track/6DjzyPuBITliDIBNEW1Rcb"
+    },
+    {
+      "added_at": "2026-08-25 08:44:51",
+      "album": {
+        "name": "Long Way Back",
+        "url": "https://open.spotify.com/album/69LFgCAV86GGkkVkBABtTG"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 232920,
+      "name": "Long Way Back",
+      "url": "https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr"
+    },
+    {
+      "added_at": "2026-08-25 08:45:02",
+      "album": {
+        "name": "The Cost of Loving",
+        "url": "https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "duration_ms": 192801,
+      "name": "Don't Grow Sick of Me",
+      "url": "https://open.spotify.com/track/0OCiuKDpVghgWWg5r6T5Jt"
+    },
+    {
+      "added_at": "2026-08-25 08:45:07",
+      "album": {
+        "name": "Believe What You Like",
+        "url": "https://open.spotify.com/album/0L29Rt5YtUiTib2IhiP958"
+      },
+      "artists": [
+        {
+          "name": "Alice Boxall",
+          "url": "https://open.spotify.com/artist/29IFhoHDHGm7gfupUdOCkD"
+        }
+      ],
+      "duration_ms": 226321,
+      "name": "Believe What You Like",
+      "url": "https://open.spotify.com/track/4rxuvpHj7VrTkjB329rnR6"
     }
   ],
   "unique_name": "New Indie Music",

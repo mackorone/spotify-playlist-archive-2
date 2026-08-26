@@ -1,12 +1,12 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 140719,
+  "num_followers": 140767,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACkYMlMMNcuWip/Xs0iuys1",
+  "snapshot_id": "aouJgAAAAAAqcaYY/dh0Fv2NBY1ows0t",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
       "duration_ms": 157499,
       "name": "D\u00c1KITI \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "D\u00e9jate Llevar",
-      "url": "https://open.spotify.com/track/4eevohYu5jHXgnCitivUVT"
     }
   ],
   "unique_name": "This Is The Mar\u00edas",

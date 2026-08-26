@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 349793,
+  "num_followers": 349861,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYuczl1xOw8ZAu78H9WYcBwe41u",
+  "snapshot_id": "AAAAAO9jf0nZWA8OhJlqxAk1eLeCktPp",
   "tracks": [
     {
       "added_at": "2025-10-03 16:58:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "Pra Dizer Adeus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 253232,
-      "name": "Pra Dizer Adeus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
         "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182933,
       "name": "Straight From The Heart - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "Pra Dizer Adeus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 253232,
+      "name": "Pra Dizer Adeus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58"
     },
     {
       "added_at": "2025-10-03 16:58:21",
@@ -873,7 +873,7 @@
         }
       ],
       "duration_ms": 242109,
-      "name": "Caleidosc\u00f3pio (Ao Vivo)",
+      "name": "Caleidosc\u00f3pio - Ao Vivo",
       "url": "https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi"
     },
     {
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "S\u00e3o Paulo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/79hcKgsKK6w2n7sBVX2SMr"
-      },
-      "artists": [
-        {
-          "name": "Inocentes",
-          "url": "https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2"
-        }
-      ],
-      "duration_ms": 274146,
-      "name": "S\u00e3o Paulo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3MSa7yTSPF1XJsoSBth86V"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Keep the Village Alive (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 256853,
       "name": "I Wanna Get Lost With You - Acoustic 2015",
       "url": "https://open.spotify.com/track/4rhGVkQaa29ZtWy4M9cbRw"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "S\u00e3o Paulo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/79hcKgsKK6w2n7sBVX2SMr"
+      },
+      "artists": [
+        {
+          "name": "Inocentes",
+          "url": "https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2"
+        }
+      ],
+      "duration_ms": 274146,
+      "name": "S\u00e3o Paulo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3MSa7yTSPF1XJsoSBth86V"
     },
     {
       "added_at": "2025-10-03 16:58:21",

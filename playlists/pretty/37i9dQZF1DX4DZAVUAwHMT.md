@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,459,942 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,836 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Silent Pictures](https://open.spotify.com/track/0JMyXn7qUYjdpqvt4jOX7u) | [Mouth Ulcers](https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5) | [Silent Pictures](https://open.spotify.com/album/0uj5lZsHyJz6JeLaUAK8EB) | 3:24 |
 | 80 | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/track/23i3HWN6em3HxUJyyiynYh) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/album/3vFNcU7GHXyLCt7Q4bBDbs) | 2:58 |
 
-Snapshot ID: `AAAAAEXXIhxiIxpUp+CIvgkWxN+dtTfh`
+Snapshot ID: `AAAAALVKC0z5YxH7f/uD9te61BMLT3eV`

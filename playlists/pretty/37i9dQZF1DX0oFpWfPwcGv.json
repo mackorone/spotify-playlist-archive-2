@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 74466,
+  "num_followers": 74468,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFUNWUS/5GcLYfQjwcxsX8La5e94",
+  "snapshot_id": "AAAAAFcjpdnfERtSiYW4oLlIEA1CqNtc",
   "tracks": [
     {
       "added_at": "2026-01-15 16:33:26",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 274066,
       "name": "My Forbidden Lover",
       "url": "https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Ready To Roll",
-        "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Saturday Night, Sunday Morning",
-      "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Norma Jean",
         "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 366160,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Ready To Roll",
+        "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Saturday Night, Sunday Morning",
+      "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
     },
     {
       "added_at": "2026-01-15 16:33:26",

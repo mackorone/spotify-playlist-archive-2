@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "Angels Punishment",
+      "url": "https://open.spotify.com/track/0PEkuzIhCEaHAZchrPClN5"
+    },
+    {
+      "album": {
         "name": "Black Anima (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 230333,
       "name": "Daylight Dancer",
       "url": "https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn"
@@ -214,10 +232,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 307266,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
+    },
+    {
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266786,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/4CsHEN85p24nSEX3jXEvY5"
     },
     {
       "album": {
@@ -250,7 +286,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 286533,
       "name": "Heaven's a Lie",
       "url": "https://open.spotify.com/track/0I7y3aEavUHgkt4aCreBDa"
@@ -275,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Broken Crown Halo",
+        "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Hostage to the Light",
+      "url": "https://open.spotify.com/track/0luo6xtSEr8N5j7F3qYk8H"
+    },
+    {
+      "album": {
         "name": "Sleepless Empire",
         "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
       },
@@ -294,6 +348,24 @@
       "duration_ms": 259079,
       "name": "Hosting the Shadow (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/6VkkDO5w32HXkgdCDPz9E3"
+    },
+    {
+      "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252893,
+      "name": "Humane",
+      "url": "https://open.spotify.com/track/2Zm431XQvXekPBztL2CgM8"
     },
     {
       "album": {
@@ -366,6 +438,24 @@
       "duration_ms": 172280,
       "name": "I Wish You Were Dead",
       "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
+    },
+    {
+      "album": {
+        "name": "Shallow Life",
+        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "I Won't Tell You",
+      "url": "https://open.spotify.com/track/3NNDgLuq4C5lMxawRZB5OX"
     },
     {
       "album": {
@@ -542,7 +632,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 243106,
       "name": "Our Truth",
       "url": "https://open.spotify.com/track/6vS5siwSidItcWFXskcpAA"
@@ -564,6 +654,24 @@
       "duration_ms": 225453,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4EsCBMrhAjCNu84DAo1tOn"
+    },
+    {
+      "album": {
+        "name": "Unleashed Memories (Re-Release + Bonus)",
+        "url": "https://open.spotify.com/album/3FQgJtOcKfuTlRkKIkCAV2"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276680,
+      "name": "Purify",
+      "url": "https://open.spotify.com/track/0hpTxcKVbKWP1b629LVrrc"
     },
     {
       "album": {
@@ -657,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Unleashed Memories (Re-Release + Bonus)",
+        "url": "https://open.spotify.com/album/3FQgJtOcKfuTlRkKIkCAV2"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233440,
+      "name": "Senzafine",
+      "url": "https://open.spotify.com/track/0WZXtSE1w08YDvU0nA7nF7"
+    },
+    {
+      "album": {
         "name": "Sleepless Empire",
         "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
       },
@@ -704,7 +830,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 281826,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
@@ -867,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Unleashed Memories (Re-Release + Bonus)",
+        "url": "https://open.spotify.com/album/3FQgJtOcKfuTlRkKIkCAV2"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274626,
+      "name": "To Live Is To Hide",
+      "url": "https://open.spotify.com/track/3yWIPGvQ7QcOhKx2gNImQW"
+    },
+    {
+      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -878,7 +1022,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 201906,
       "name": "To the Edge",
       "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
@@ -998,7 +1142,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 221093,
       "name": "What I See",
       "url": "https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi"
@@ -1016,7 +1160,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 218906,
       "name": "Within Me",
       "url": "https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs"

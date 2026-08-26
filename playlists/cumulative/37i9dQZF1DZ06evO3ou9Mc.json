@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268053,
+      "name": "A Lot Like Me",
+      "url": "https://open.spotify.com/track/7HsNq43QGE1J0QQJvIyOWz"
+    },
+    {
+      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 114666,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 191026,
       "name": "Army Of One",
       "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 223906,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Burn It Up",
+      "url": "https://open.spotify.com/track/7Fr87m1WolBIw83M8GaLFF"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
       },
@@ -214,7 +250,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 197800,
       "name": "Come Out and Play",
       "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
@@ -286,7 +322,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 167893,
       "name": "Cool To Hate",
       "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
@@ -383,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Just The Punk Stuff",
+        "url": "https://open.spotify.com/album/4j8BqfNQxSd1jZDg2YAL3w"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131066,
+      "name": "Elders",
+      "url": "https://open.spotify.com/track/2LA1Sw7RRaO19iW2RStrwq"
+    },
+    {
+      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -448,10 +502,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 268826,
       "name": "Gone Away - 1997",
       "url": "https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Gone Away - 2021",
+      "url": "https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC"
     },
     {
       "album": {
@@ -502,7 +574,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 278440,
       "name": "Hammerhead",
       "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
@@ -610,7 +682,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 234666,
       "name": "I Choose",
       "url": "https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG"
@@ -635,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "It'll Be a Long Time",
+      "url": "https://open.spotify.com/track/7AlhX0qiNi1zo2k9VPCSOg"
+    },
+    {
+      "album": {
         "name": "The Offspring",
         "url": "https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7"
       },
@@ -646,7 +736,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 155360,
       "name": "Jennifer Lost The War",
       "url": "https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu"
@@ -664,7 +754,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 196373,
       "name": "Kick Him When He's Down",
       "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
@@ -856,7 +946,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S"
@@ -892,7 +982,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 177373,
       "name": "Mota",
       "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
@@ -910,7 +1000,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 146960,
       "name": "Nitro (Youth Energy)",
       "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
@@ -946,7 +1036,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 209333,
       "name": "Nothingtown",
       "url": "https://open.spotify.com/track/0KKWophXFSiaZr62j7lQp1"
@@ -1080,7 +1170,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 212173,
       "name": "Race Against Myself",
       "url": "https://open.spotify.com/track/1ZoTvDjwvmXDOQ3B2g5nDx"
@@ -1282,7 +1372,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 179506,
       "name": "Takes Me Nowhere",
       "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
@@ -1300,7 +1390,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 154626,
       "name": "The Fall Guy",
       "url": "https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx"
@@ -1376,7 +1466,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 176666,
       "name": "The Meaning Of Life",
       "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
@@ -1412,7 +1502,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 158333,
       "name": "This Is Not Utopia",
       "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
@@ -1430,7 +1520,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 189160,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
@@ -1556,7 +1646,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 132133,
       "name": "What Happened to You?",
       "url": "https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp"

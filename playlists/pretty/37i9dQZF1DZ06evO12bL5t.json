@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 145073,
+  "num_followers": 145091,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACEB5bEsPSh2BhCxK0HutXS",
+  "snapshot_id": "aouJgAAAAADc8SR2Bup96ZTE80cLW0/v",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 213265,
-      "name": "Lo Que Pudo Ser",
-      "url": "https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -363,22 +347,6 @@
       "duration_ms": 213102,
       "name": "Soy El Jefe",
       "url": "https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 146374,
-      "name": "Jarabe Con Sprite",
-      "url": "https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4"
     },
     {
       "added_at": null,
@@ -399,6 +367,22 @@
       "duration_ms": 177647,
       "name": "Plush",
       "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 146374,
+      "name": "Jarabe Con Sprite",
+      "url": "https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4"
     },
     {
       "added_at": null,
@@ -435,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 241785,
-      "name": "Distinta Movida",
-      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -463,6 +431,22 @@
       "duration_ms": 186118,
       "name": "Chequen Los Datos",
       "url": "https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 241785,
+      "name": "Distinta Movida",
+      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
     },
     {
       "added_at": null,
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
       },
       "artists": [
         {
@@ -492,25 +476,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 198461,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "Se Sufre Pa Merecer",
-      "url": "https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq"
+      "duration_ms": 132527,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
     },
     {
       "added_at": null,
@@ -531,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "Se Sufre Pa Merecer",
+      "url": "https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
         "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
       },
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait",
-        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 132527,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -575,38 +543,6 @@
       "duration_ms": 180256,
       "name": "Gelatti",
       "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 220752,
-      "name": "Crimes",
-      "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
-        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/0uCptU5AmxgXn3yUVHG35z"
     },
     {
       "added_at": null,
@@ -655,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 222819,
-      "name": "Coraz\u00f3n Cromado",
-      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
         "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
       },
@@ -680,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 223333,
-      "name": "P\u00e9rdida De Tiempo",
-      "url": "https://open.spotify.com/track/6h3vi3mEGJVoJBjtDY1mcp"
+      "duration_ms": 181920,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/0uCptU5AmxgXn3yUVHG35z"
     },
     {
       "added_at": null,
@@ -723,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -759,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "P\u00e9rdida De Tiempo",
+      "url": "https://open.spotify.com/track/6h3vi3mEGJVoJBjtDY1mcp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -775,22 +695,6 @@
       "duration_ms": 145375,
       "name": "Seguimos Dando Lata",
       "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
-        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r"
     },
     {
       "added_at": null,
@@ -831,6 +735,22 @@
       "duration_ms": 186147,
       "name": "Amor Tirano",
       "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r"
     },
     {
       "added_at": null,
@@ -903,6 +823,94 @@
       "duration_ms": 223606,
       "name": "Its Over",
       "url": "https://open.spotify.com/track/36H3mjns9xZJAYOwj5qsM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Siempre Activo",
+      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Line Up",
+        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
+      },
+      "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 188481,
+      "name": "Vara Alta",
+      "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Que Fuera",
+        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Ni Que Fuera",
+      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 180431,
+      "name": "En La Movida",
+      "url": "https://open.spotify.com/track/2CNnwl5Gv3w8geQLCOlrsu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152433,
+      "name": "Buena Vida Mala Fama",
+      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
     }
   ],
   "unique_name": "This Is Herencia de Patrones",

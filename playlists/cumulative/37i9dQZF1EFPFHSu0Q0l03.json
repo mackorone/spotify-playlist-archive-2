@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/408JIQlMovwaT7xBpYSGB4"
+      },
+      "artists": [
+        {
+          "name": "Mia love",
+          "url": "https://open.spotify.com/artist/5qiCYZvl8rqI3wPDVZ4TXU"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/1mWhIXuBH3FfuOsHmJbmz0"
+    },
+    {
+      "album": {
         "name": "Sad Songs for Dirty Lovers",
         "url": "https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: PARTYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,041 likes - 274 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,060 likes - 274 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 111 | [SHOTTY](https://open.spotify.com/track/4K1PTydr3XFO84GJV6Xc2Y) | [Storm Reid](https://open.spotify.com/artist/2wli1yIG3wTiBubpPwUD3K) | [SHOTTY](https://open.spotify.com/album/23LPSIQ9lYo1QjK0cs7eiX) | 2:54 |
 | 112 | [Wishy Washy](https://open.spotify.com/track/6DGJAPJmqDCVFvc4wLtz17) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [Wishy Washy](https://open.spotify.com/album/4VHikGAgExqBMJeOmJbwTI) | 2:00 |
 | 113 | [One and the Same](https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One and the Same](https://open.spotify.com/album/6RvgpXA6LKZoToLxrlTylh) | 3:43 |
-| 114 | [onyx](https://open.spotify.com/track/2Oow3GTiUU5ps5oc5tCBqX) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [onyx](https://open.spotify.com/album/3ImvIV2llQizVPojZjxSkI) | 3:33 |
+| 114 | [onyx](https://open.spotify.com/track/2Oow3GTiUU5ps5oc5tCBqX) | [halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [onyx](https://open.spotify.com/album/3ImvIV2llQizVPojZjxSkI) | 3:33 |
 | 115 | [Strength Of A Woman](https://open.spotify.com/track/0HqN7ZQ6PlW7nb7s4y5np7) | [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Moana: Voices Across The Ocean \(Music Inspired By\)](https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv) | 2:52 |
 | 116 | [With You](https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [With You](https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI) | 2:39 |
 | 117 | [Ready for You](https://open.spotify.com/track/1Qbb2Adaiy6AEvecbRS9mk) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Ready for You](https://open.spotify.com/album/0LdpxC6sqCoVKcA6m1Cnit) | 2:43 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 273 | [On Demand](https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO) | [Imani Imani](https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ) | [Papercut](https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf) | 2:41 |
 | 274 | [Find Me](https://open.spotify.com/track/5V589jlf5pbV2CYFeUJyI8) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Find Me](https://open.spotify.com/album/2bTSoOUmxiM4nm1Ny3aPos) | 3:33 |
 
-Snapshot ID: `AAAAACPuF2aR+zLT3BTwNgO3iwdMGooS`
+Snapshot ID: `AAAAAAqk51AFIIER144JlOU1VqNZ3TWK`

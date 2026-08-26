@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,502 likes - 100 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,533 likes - 100 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 10 | [Tubular Bells \- Pt\. II](https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 23:17 |
 | 11 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 |
 | 12 | [Lake of the Ozarks](https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Cusco 2](https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c) | 3:48 |
-| 13 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
+| 13 | [Rain Forest](https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n) | [Paul Speer](https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe), [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Natural States](https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K) | 4:18 |
 | 14 | [Down to the Moon](https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN) | [Andreas Vollenweider](https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp), [Walter Keiser](https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX), [Pedro Haldemann](https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2), [Jon Otis](https://open.spotify.com/artist/1eYM0EaoFHS1YhPdBNeN0j), [Matthias Ziegler](https://open.spotify.com/artist/0BJA103k5TtODCqNU9Aac5), [Christoph Ziegler](https://open.spotify.com/artist/3ArHMvXvhmgMF8SdPHSSSj) | [Down to the Moon](https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF) | 2:27 |
-| 15 | [Rain Forest](https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n) | [Paul Speer](https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe), [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Natural States](https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K) | 4:18 |
+| 15 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
 | 16 | [Alpha](https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:44 |
 | 17 | [Aurora](https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Cool Islands](https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945) | 3:13 |
 | 18 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 51 | [Valley In The Clouds](https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Valley In The Clouds](https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S) | 3:35 |
 | 52 | [Canyon Sunrise](https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Jonathan Kramer](https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO) | [Desert Dawn Song](https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW) | 8:32 |
 | 53 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 |
-| 54 | [Dion Blue](https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS) | [Tim Weisberg](https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v) | [Best Of Tim Weisberg: Smile!](https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox) | 3:29 |
-| 55 | [Silmarillion](https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v), [Jan Akkerman](https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t) | [Meditation](https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND) | 12:00 |
+| 54 | [Silmarillion](https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v), [Jan Akkerman](https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t) | [Meditation](https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND) | 12:00 |
+| 55 | [Dion Blue](https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS) | [Tim Weisberg](https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v) | [Best Of Tim Weisberg: Smile!](https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox) | 3:29 |
 | 56 | [Stepping Stars](https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Valley In The Clouds](https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S) | 3:45 |
 | 57 | [Crystal Petals](https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 3:20 |
 | 58 | [Chi](https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Ki](https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9) | 6:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 63 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 |
 | 64 | [Zen Garden of the Soul Part I](https://open.spotify.com/track/09s4W3bYDmwotLUgozutls) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 2:21 |
 | 65 | [Boreale \- Remastered](https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 4:14 |
-| 66 | [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 |
-| 67 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 |
+| 66 | [Metropolis](https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Ages](https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX) | 11:12 |
+| 67 | [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 |
 | 68 | [Inner Mood I](https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [Mooncircles](https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk) | 1:30 |
 | 69 | [Glide III](https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 8:25 |
 | 70 | [Stained\-Glass Morning](https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Freefall](https://open.spotify.com/track/3XWjY5ywwVf134l4CnnxmY) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 2:16 |
 | 100 | [Inside Celeste](https://open.spotify.com/track/7vGQ5QFaO8jnCr7R4L4kxA) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/6k6ghR0Lh0W0cCXCrbkFsU) | 2:57 |
 
-Snapshot ID: `AAAAAGhZpkDlVoWUWZv6rswN+IBb9ZKN`
+Snapshot ID: `AAAAAJwkHBXkm/G5KMmiXJY4lBXSbser`

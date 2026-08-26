@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 264295,
+  "num_followers": 264321,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIukHtf0rQIH33JbbEkdlbdJq93J",
+  "snapshot_id": "AAAAAPn1WVnxxdVZuNI1dMKh+ldo1w+4",
   "tracks": [
     {
       "added_at": "2024-07-14 11:25:03",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-14 11:25:03",
       "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
-      },
-      "artists": [
-        {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
-    },
-    {
-      "added_at": "2024-07-14 11:25:03",
-      "album": {
         "name": "Save the Last Dance for Me",
         "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 154960,
       "name": "Save the Last Dance for Me",
       "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+    },
+    {
+      "added_at": "2024-07-14 11:25:03",
+      "album": {
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
+      },
+      "artists": [
+        {
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
     },
     {
       "added_at": "2024-07-14 11:25:03",

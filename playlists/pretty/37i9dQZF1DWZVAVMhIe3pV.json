@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 414148,
+  "num_followers": 414178,
   "original_name": "Energy Booster Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACHdcBT+3NonifYJhBBCmwqEo37d",
+  "snapshot_id": "AAAAAOHmxkKeloLC+Ic1XV7Evk99CTT9",
   "tracks": [
     {
       "added_at": "2024-11-14 18:42:17",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "abcdefu (angrier)",
-        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "abcdefu (angrier)",
-      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire (Bonus Track)",
       "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Milquetoast",
-      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 116453,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Milquetoast",
+      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Courage",
-      "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Spiralling Out",
         "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 266240,
-      "name": "The Best Things",
-      "url": "https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ"
+      "duration_ms": 210360,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1003,6 +987,22 @@
       "duration_ms": 238106,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "The Best Things",
+      "url": "https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "$WING",
-        "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 172353,
-      "name": "$WING",
-      "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Til Your Lungs Fall Out",
         "url": "https://open.spotify.com/album/032Ru084gRFiYPGnvzNLTz"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Flacco",
-        "url": "https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq"
+        "name": "$WING",
+        "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
       },
       "artists": [
         {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 250110,
-      "name": "Flacco",
-      "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
+      "duration_ms": 172353,
+      "name": "$WING",
+      "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1259,6 +1243,22 @@
       "duration_ms": 127151,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Flacco",
+        "url": "https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq"
+      },
+      "artists": [
+        {
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+        }
+      ],
+      "duration_ms": 250110,
+      "name": "Flacco",
+      "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
     },
     {
       "added_at": "2024-11-14 18:42:17",

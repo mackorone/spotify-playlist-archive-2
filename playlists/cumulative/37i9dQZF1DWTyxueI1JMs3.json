@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "A3! PLEASANT AUTUMN EP",
+        "url": "https://open.spotify.com/album/3PVb4YS1QAqKPYtTrNi8Lh"
+      },
+      "artists": [
+        {
+          "name": "AKIVE",
+          "url": "https://open.spotify.com/artist/4RJkMhMHQzx5bSYMzr7ZAI"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Break out!!",
+      "url": "https://open.spotify.com/track/5cODOqzSP1SSNyfVynsOpU"
+    },
+    {
+      "album": {
         "name": "Circle of Seasons",
         "url": "https://open.spotify.com/album/4wfAkeE04rz5KflrwYW75N"
       },
@@ -118,6 +136,24 @@
       "duration_ms": 226506,
       "name": "CROSS LINES",
       "url": "https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY"
+    },
+    {
+      "album": {
+        "name": "A3! PLEASANT WINTER EP",
+        "url": "https://open.spotify.com/album/5ljXgQntRaX3hI7RlnnUQ4"
+      },
+      "artists": [
+        {
+          "name": "FUYNE\u00c9",
+          "url": "https://open.spotify.com/artist/5rCn4KYg9DFHpdMHdNEQtI"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220066,
+      "name": "Crystal Love",
+      "url": "https://open.spotify.com/track/39HA9kGdf6mgfFnMTqQAmn"
     },
     {
       "album": {
@@ -494,7 +530,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 265440,
       "name": "PLASTIC POKER",
       "url": "https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf"
@@ -842,7 +878,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 240080,
       "name": "Third Impact",
       "url": "https://open.spotify.com/track/2u0jlZh5L0FCEDXK7CaHHb"
@@ -878,7 +914,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 238960,
       "name": "Ticket",
       "url": "https://open.spotify.com/track/4JKyqlViFlkDyQ95Br8EGM"
@@ -1018,7 +1054,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 162253,
       "name": "\u3080\u3064\u306e\u306f\u306a",
       "url": "https://open.spotify.com/track/1grTVwp3p0V2lXVY8nCDTh"
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 231520,
       "name": "\u30b2\u30ad\u590f\u2606Go My Way!",
       "url": "https://open.spotify.com/track/3Au4alj3n6RDNMrKCWXTik"
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 317440,
       "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Adam Chaffins
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,595 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,612 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Playing Fetch](https://open.spotify.com/track/5FSdDpJ2O30Jp7Ec8JYKR2) | [Trinity Jane](https://open.spotify.com/artist/3WkvvBMBUEzcLLGTBFTngT) | [Playing Fetch](https://open.spotify.com/album/0z6S6ABEqOY9bk0X9Ex7Yh) | 3:30 |
 | 100 | [Suitcase](https://open.spotify.com/track/7yWUwranBTGBPpIkWaemdL) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Suitcase](https://open.spotify.com/album/2NnNFQpObfTQx8KB4XLIPD) | 2:52 |
 
-Snapshot ID: `AAAAANnR7GIyxG0X+KVfRjD2FCDiEfOr`
+Snapshot ID: `AAAAAIiSbkX6sDotw5rsGhBiDbgy7n5h`

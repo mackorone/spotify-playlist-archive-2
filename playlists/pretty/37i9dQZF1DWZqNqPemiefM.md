@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: maya ongaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,894 likes - 195 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,939 likes - 195 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 194 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 195 | [Pray Play](https://open.spotify.com/track/0g31cCYqMBC6tBudGdPlZx) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/3USJbLcVYAPEbcRkXz7fYX) | 3:03 |
 
-Snapshot ID: `AAAAAK3sq9SVSTSiTwhETj+2wDKME9so`
+Snapshot ID: `AAAAAFu+/d2pfUm3UN8GhM9cZ974fZb0`

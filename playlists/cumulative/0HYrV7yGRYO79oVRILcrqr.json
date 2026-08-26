@@ -10353,6 +10353,24 @@
     },
     {
       "album": {
+        "name": "Stolen Dreams",
+        "url": "https://open.spotify.com/album/4sfXIhGcElZxNl4Fb19dIT"
+      },
+      "artists": [
+        {
+          "name": "Stu White",
+          "url": "https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "Stolen Dreams",
+      "url": "https://open.spotify.com/track/7d9GUj883SGBb4gw4JGcam"
+    },
+    {
+      "album": {
         "name": "Stoner",
         "url": "https://open.spotify.com/album/0oT9O2PT0bHFcHAhcoPRXB"
       },
@@ -10898,6 +10916,24 @@
       "duration_ms": 148506,
       "name": "The Endless Line",
       "url": "https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L"
+    },
+    {
+      "album": {
+        "name": "The Funeral March",
+        "url": "https://open.spotify.com/album/5XUdvSZQYtQVuNnRfDYvhW"
+      },
+      "artists": [
+        {
+          "name": "Zornheym",
+          "url": "https://open.spotify.com/artist/5YUadeP4WiWAwaMwXsczgJ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247620,
+      "name": "The Funeral March",
+      "url": "https://open.spotify.com/track/0QL841AJqf1PKLnXsWNCJp"
     },
     {
       "album": {

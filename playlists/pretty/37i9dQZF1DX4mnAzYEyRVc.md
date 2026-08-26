@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Massendefekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,577 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,596 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,13 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 67 | [STAY YOUNG STAY PUNK](https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C) | [FIVE STATE DRIVE](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [STAY YOUNG STAY PUNK](https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76) | 2:03 |
 | 68 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
 | 69 | [Juntos](https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Juntos](https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd) | 3:19 |
-| 70 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
-| 71 | [El Mosquito](https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [El Mosquito](https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr) | 3:08 |
+| 70 | [El Mosquito](https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [El Mosquito](https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr) | 3:08 |
+| 71 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 72 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 73 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
 | 74 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
-| 75 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
-| 76 | [Estoy en Paz](https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Estoy en Paz](https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM) | 2:52 |
+| 75 | [Estoy en Paz](https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Estoy en Paz](https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM) | 2:52 |
+| 76 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
 | 77 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
 | 78 | [Grüße ins Neandertal](https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Grüße ins Neandertal](https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup) | 1:46 |
 | 79 | [Juice](https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K) | [Sublime Reggae Kings](https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN), [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [Juice](https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp) | 2:59 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 92 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
 | 93 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 94 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
-| 95 | [Rómpela](https://open.spotify.com/track/7vECiTc2ctR0rdVefmcE2M) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Rómpela](https://open.spotify.com/album/2jovrBd9NY3lFixD3QllQ6) | 3:19 |
-| 96 | [Worm in de Appel](https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq) | [De Baron](https://open.spotify.com/artist/2xASE2c5LniZXcraRO0RML) | [BAALBEK](https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4) | 2:47 |
-| 97 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
+| 95 | [Worm in de Appel](https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq) | [De Baron](https://open.spotify.com/artist/2xASE2c5LniZXcraRO0RML) | [BAALBEK](https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4) | 2:47 |
+| 96 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
+| 97 | [Rómpela](https://open.spotify.com/track/7vECiTc2ctR0rdVefmcE2M) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Rómpela](https://open.spotify.com/album/2jovrBd9NY3lFixD3QllQ6) | 3:19 |
 | 98 | [Weit, weit weg](https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc) | [Sondaschule](https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk) | [Weit, weit weg](https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9) | 2:37 |
 | 99 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
 | 100 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
 
-Snapshot ID: `AAAAAEgKR9y+vMCGSYQnyXYNuWT6ArfE`
+Snapshot ID: `AAAAADLazp2DthjL26eEK/zjMb+TZx9k`

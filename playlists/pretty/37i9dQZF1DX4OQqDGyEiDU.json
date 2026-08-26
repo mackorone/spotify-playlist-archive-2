@@ -1,12 +1,12 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: r-906",
-  "num_followers": 121295,
+  "num_followers": 121284,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISU2u7WnvlpYfxarMdqp5qlvAlM",
+  "snapshot_id": "AAAAAKHcv5mFQJKYbTHN4KctwE3mbT3z",
   "tracks": [
     {
       "added_at": "2026-08-18 15:00:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-18 15:00:34",
       "album": {
-        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
-      },
-      "artists": [
-        {
-          "name": "\u7a32\u8449\u66c7",
-          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
-        }
-      ],
-      "duration_ms": 189412,
-      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
-    },
-    {
-      "added_at": "2026-08-18 15:00:34",
-      "album": {
         "name": "Corridor",
         "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 233875,
       "name": "\u30b7\u30e3\u30eb\u30eb",
       "url": "https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h"
+    },
+    {
+      "added_at": "2026-08-18 15:00:34",
+      "album": {
+        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "duration_ms": 189412,
+      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
     },
     {
       "added_at": "2026-08-18 15:00:34",

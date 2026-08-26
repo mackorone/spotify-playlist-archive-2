@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 168920,
       "name": "Castles Made of Sand",
       "url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
@@ -312,6 +312,24 @@
       "duration_ms": 493400,
       "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
+    },
+    {
+      "album": {
+        "name": "Band Of Gypsys (50th Anniversary / Live At Fillmore East, 1970)",
+        "url": "https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314002,
+      "name": "Changes - Live",
+      "url": "https://open.spotify.com/track/36JhoOlbwBJv134LMDk4cH"
     },
     {
       "album": {
@@ -398,7 +416,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 284333,
       "name": "Dolly Dagger",
       "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
@@ -510,6 +528,24 @@
       "duration_ms": 262186,
       "name": "Earth Blues - Alternate Mix",
       "url": "https://open.spotify.com/track/1IoxyyTW5BMW2g9G3XnJLd"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Electric Church Red House",
+      "url": "https://open.spotify.com/track/32mPKymSO6MZQ8BuYVERXM"
     },
     {
       "album": {
@@ -672,7 +708,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 223680,
       "name": "Gypsy Eyes",
       "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
@@ -690,7 +726,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 130039,
       "name": "Have You Ever Been (To Electric Ladyland)",
       "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
@@ -726,7 +762,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 364626,
       "name": "Hey Baby (New Rising Sun)",
       "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
@@ -766,6 +802,24 @@
       "duration_ms": 210160,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Highway Chile",
+      "url": "https://open.spotify.com/track/6r6ARqXEyXaoQjVZ1Mb1pV"
     },
     {
       "album": {
@@ -1014,7 +1068,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "Little Miss Strange",
       "url": "https://open.spotify.com/track/1jhH7vvy8hoHuc0mGuZsLX"
@@ -1032,10 +1086,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 145746,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
+    },
+    {
+      "album": {
+        "name": "The Jimi Hendrix Experience (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/1tNYWgvzsqA4OqNDX9Qhoq"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Little Wing (Live at the Royal Albert Hall, London, UK, February 24, 1969)",
+      "url": "https://open.spotify.com/track/0jxLSTZgZMKz4YVjhUQI8J"
     },
     {
       "album": {
@@ -1144,7 +1216,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 277346,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/065DgHzdiTnwiwEEBHFrIN"
@@ -1360,7 +1432,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 222066,
       "name": "Rainy Day, Dream Away",
       "url": "https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY"
@@ -1486,7 +1558,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183320,
       "name": "Spanish Castle Magic",
       "url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
@@ -1522,7 +1594,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 265586,
       "name": "Still Raining, Still Dreaming",
       "url": "https://open.spotify.com/track/0xKcrFF5ed7U4EPdG6vE4f"
@@ -1630,7 +1702,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 200733,
       "name": "The Wind Cries Mary",
       "url": "https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"
@@ -1666,7 +1738,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 177866,
       "name": "Up From The Skies",
       "url": "https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1"
@@ -1738,10 +1810,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 899933,
+      "name": "Voodoo Chile",
+      "url": "https://open.spotify.com/track/0auKlivXpm76wR63mMJ3pR"
     },
     {
       "album": {
@@ -1774,7 +1864,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 182546,
       "name": "Wait Until Tomorrow",
       "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"

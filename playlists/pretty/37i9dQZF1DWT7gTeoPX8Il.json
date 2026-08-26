@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 171427,
+  "num_followers": 171459,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJcArv8ezcAHxulQ1yUvIWV3NIFg",
+  "snapshot_id": "AAAAAK1DQ4tx6HdSdLzZ6CpRkmmHMOsx",
   "tracks": [
     {
       "added_at": "2026-07-17 07:14:07",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Menunggumu Sampai Akhir Hidup",
-        "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
-      },
-      "artists": [
-        {
-          "name": "Shanna Shannon",
-          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
-        }
-      ],
-      "duration_ms": 251298,
-      "name": "Menunggumu Sampai Akhir Hidup",
-      "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
         "name": "Menjaga Hati",
         "url": "https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 233410,
       "name": "Menjaga Hati",
       "url": "https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
+        "name": "Menunggumu Sampai Akhir Hidup",
+        "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
+      },
+      "artists": [
+        {
+          "name": "Shanna Shannon",
+          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
+        }
+      ],
+      "duration_ms": 251298,
+      "name": "Menunggumu Sampai Akhir Hidup",
+      "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -723,22 +723,18 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Seni Berdamai Dengan Takdir",
-        "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
+        "name": "Kata",
+        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
       },
       "artists": [
         {
-          "name": "Naim Daniel",
-          "url": "https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO"
-        },
-        {
-          "name": "Adnin Roslan",
-          "url": "https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 235890,
-      "name": "Seni Berdamai Dengan Takdir",
-      "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
+      "duration_ms": 220083,
+      "name": "Kata",
+      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -763,18 +759,22 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Kata",
-        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
+        "name": "Seni Berdamai Dengan Takdir",
+        "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
       },
       "artists": [
         {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+          "name": "Naim Daniel",
+          "url": "https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO"
+        },
+        {
+          "name": "Adnin Roslan",
+          "url": "https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg"
         }
       ],
-      "duration_ms": 220083,
-      "name": "Kata",
-      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
+      "duration_ms": 235890,
+      "name": "Seni Berdamai Dengan Takdir",
+      "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
     },
     {
       "added_at": "2026-07-17 07:14:07",

@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 159512,
+  "num_followers": 159531,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALH7O7HPhiALyOMJc0GdgOmVzusE",
+  "snapshot_id": "AAAAACZ0FcPlmqbIxghY917a6WzVF9jQ",
   "tracks": [
     {
       "added_at": "2025-03-13 14:12:56",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "And So it Goes",
         "url": "https://open.spotify.com/album/0tfPd7QamoduQalv7A376o"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 284750,
       "name": "And So it Goes",
       "url": "https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Most of the Time",
-        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 229822,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -671,6 +655,38 @@
       "duration_ms": 353941,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 229822,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Technically Acceptable",
+        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Iverson",
+          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
+        }
+      ],
+      "duration_ms": 230389,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -707,22 +723,6 @@
       "duration_ms": 148120,
       "name": "For No One",
       "url": "https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Technically Acceptable",
-        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Iverson",
-          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
-        }
-      ],
-      "duration_ms": 230389,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 549600,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -1107,26 +1131,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Staying in Touch",
-        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "The Long and Winding Road",
-      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1143,26 +1147,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+        "name": "Staying in Touch",
+        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
       "artists": [
         {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
         },
         {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
         }
       ],
-      "duration_ms": 549600,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
+      "duration_ms": 254066,
+      "name": "The Long and Winding Road",
+      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Who Used To Dance",
         "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Elles",
-        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
       "artists": [
         {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 262053,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1355,6 +1339,22 @@
       "duration_ms": 292249,
       "name": "Yester-Me, Yester-You, Yesterday",
       "url": "https://open.spotify.com/track/6d4dTwuc2FwcVLJbJvdERg"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Elles",
+        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0vwiOFVhknyIMu7TkFDbWo"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Magnetism, Vol. 1",
         "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 220795,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0vwiOFVhknyIMu7TkFDbWo"
     },
     {
       "added_at": "2025-03-13 14:12:56",

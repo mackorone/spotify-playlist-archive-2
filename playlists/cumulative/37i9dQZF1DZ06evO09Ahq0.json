@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 172318,
       "name": "(O)rdinary",
       "url": "https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 480706,
       "name": "A Little Piece of Heaven",
       "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 311813,
       "name": "Bat Country",
       "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 343600,
       "name": "Beast and the Harlot",
       "url": "https://open.spotify.com/track/6FVYwnVrnAEIRnY3bHJb46"
@@ -162,9 +162,27 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "date_added": "2022-05-30",
+      "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 406426,
+      "name": "Betrayed",
+      "url": "https://open.spotify.com/track/5fArVBrjtT7UPIQ8j2yQnJ"
+    },
+    {
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
       "duration_ms": 394466,
       "name": "Blinded in Chains",
       "url": "https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp"
@@ -200,7 +218,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 298813,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/4bcN9riyILh4IXEdmLGa8m"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 526013,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 222656,
       "name": "Magic",
       "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 288520,
       "name": "Scream",
       "url": "https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 334066,
       "name": "Seize the Day",
       "url": "https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 351533,
       "name": "Trashed and Scattered",
       "url": "https://open.spotify.com/track/01CYr3t0hedD915PmI5l4D"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 375026,
       "name": "We Love You",
       "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"

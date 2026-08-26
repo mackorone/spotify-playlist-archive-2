@@ -4,7 +4,7 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 17 min
+75 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Re\-up \(feat\. Young Dolph\)](https://open.spotify.com/track/1gD24i6I8Kec22rlqYr4t4) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Free Bricks 2 – Mixtape](https://open.spotify.com/album/3JNEc9m9mgHGvomUSXa295) | 3:39 | 2025-12-03 | 2026-06-01 |
 | [Real](https://open.spotify.com/track/4pfCylKzBa9dz0HHFVdXzi) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 3:07 | 2025-09-12 | 2025-10-22 |
 | [Real Talk \(feat\. Future\)](https://open.spotify.com/track/4aA3OzTBHR9cUKM8zILpqA) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:02 | 2025-04-01 |  |
-| [Shooter \(feat\. Young Scooter & Yung Fresh\)](https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Yung Fresh](https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt) | [Trap God](https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt) | 3:36 | 2025-04-01 |  |
+| [Shooter](https://open.spotify.com/track/1eG6v3whKB8o1GWOnC2A4n) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Yung Fresh](https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt) | [Trap God](https://open.spotify.com/album/1PdibECcUStPNmeTZxtoBY) | 3:57 | 2026-08-26 |  |
+| [Shooter \(feat\. Young Scooter & Yung Fresh\)](https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Yung Fresh](https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt) | [Trap God](https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt) | 3:36 | 2025-04-01 | 2026-08-26 |
 | [SLAM DUNK \(FEAT\. YOUNG SCOOTER\)](https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:22 | 2025-04-01 |  |
 | [Special \(feat\. Young Scooter\)](https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:58 | 2025-04-01 |  |
 | [STAYED DOWN \(feat\. Young Scooter\)](https://open.spotify.com/track/0VIiXARnoOP3X6G416SIe1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:51 | 2025-04-01 |  |

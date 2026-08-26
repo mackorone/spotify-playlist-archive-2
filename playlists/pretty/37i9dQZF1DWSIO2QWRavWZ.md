@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,931 likes - 175 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,952 likes - 175 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 48 | [CAN'T WAIT](https://open.spotify.com/track/6vsNjbln9XwsNtayWdWAAW) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [CAN'T WAIT](https://open.spotify.com/album/3hW3JXhIe8WwkPDBD5Ko3E) | 3:00 |
 | 49 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 |
 | 50 | [Different High](https://open.spotify.com/track/3v5zEJ439BTtSUZQoAMUDi) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 2:28 |
-| 51 | [onyx](https://open.spotify.com/track/2Oow3GTiUU5ps5oc5tCBqX) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [onyx](https://open.spotify.com/album/3ImvIV2llQizVPojZjxSkI) | 3:33 |
+| 51 | [onyx](https://open.spotify.com/track/2Oow3GTiUU5ps5oc5tCBqX) | [halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [onyx](https://open.spotify.com/album/3ImvIV2llQizVPojZjxSkI) | 3:33 |
 | 52 | [REVENGE](https://open.spotify.com/track/6WFUjFm7cUN44fWrcHQpaN) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [THE NAIJAMERICAN DREAM](https://open.spotify.com/album/4RsrgQml0MbefvMQN6r35I) | 3:02 |
 | 53 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
 | 54 | [Tunnel Vision](https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Tunnel Vision](https://open.spotify.com/album/7v8HsW73eimpHbkFajmNzV) | 2:59 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 174 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
 | 175 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 
-Snapshot ID: `AAAAAF3wzsJ3EwZs8AkCQgzstJgS8p2M`
+Snapshot ID: `AAAAAIpZpmKbb2JobpQ9ukD8tSKFrf9/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from ODUMODUBLVCK, Flo Milli, Lil Uzi Vert, Future and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,745 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,785 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 10 | [Nightmares To Dreams](https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Nightmares To Dreams](https://open.spotify.com/album/7pimoRaeILGeWTQPOpwADL) | 3:14 |
 | 11 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 12 | [won't stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [won't stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
-| 13 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 13 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 14 | [OMG feat pusha t](https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 2:26 |
 | 15 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |
 | 16 | [Radio](https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Radio](https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 50 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
 
-Snapshot ID: `AAAAANmoytCsbXPcpPZ29sSxoY4g7bi7`
+Snapshot ID: `AAAAAAc8dX9aV9WXYbrJXlYYu2RTp0Wt`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEQ6+jCq0qkQPhK2CU+P8OFVKFF2",
+  "snapshot_id": "AAAAAJ8DuE9hUqig6+rhuBfDVr0FpxHX",
   "tracks": [
     {
       "added_at": "2026-08-20 16:00:41",
@@ -327,17 +327,21 @@
     {
       "added_at": "2026-08-20 16:00:41",
       "album": {
-        "name": "Tell Me (feat. AG COCO)",
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/6DhHxRDSzwje4NiEl8YTyE"
       },
       "artists": [
         {
           "name": "Pinstripes",
           "url": "https://open.spotify.com/artist/55sDlhEtcEfwIzApR6AHgH"
+        },
+        {
+          "name": "AG COCO",
+          "url": "https://open.spotify.com/artist/5MQk3WIAnNUAgz8FuhQjzX"
         }
       ],
       "duration_ms": 183941,
-      "name": "Tell Me (feat. AG COCO)",
+      "name": "Tell Me",
       "url": "https://open.spotify.com/track/6uDMZjFejctSFnUJZevz9U"
     },
     {

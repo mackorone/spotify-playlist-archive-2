@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IzpUBoP2We.md) - [plain]
 
 > Sunny days start here! Listen to the classics from Sesame Street featuring everyone's favorite furry friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 71 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 71 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IzpUBoP2We.md) - [plain]
 | 70 | [Just One Me](https://open.spotify.com/track/2irJU0NrGpVFCklRjiwhfs) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE) | [Sesame Street: The Sesame Street Anniversary Album](https://open.spotify.com/album/7glUxiPkqdjL7A6WpuCL8T) | 2:12 |
 | 71 | [Hey Little Worm](https://open.spotify.com/track/1vgEzsQouzQLqljBjIaCMp) | [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [The Sesame Street Grouchketeers](https://open.spotify.com/artist/4bIEKaa63k23egFhqi7Zwd), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [F Is for Friend!](https://open.spotify.com/album/7rYgcQHmgQa0VvBinWHWvm) | 1:44 |
 
-Snapshot ID: `AAAAAAFzI57T6bIhI7mBm04I8HGE6yPP`
+Snapshot ID: `AAAAAENIUQXtARSmRiwhSuH/+Hot+vD7`

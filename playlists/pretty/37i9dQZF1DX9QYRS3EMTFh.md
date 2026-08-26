@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Miimii KDS
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,322 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,356 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 7 | [One More Cup](https://open.spotify.com/track/3bWwvbFr42gRLsYvam2LRB) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [One More Cup](https://open.spotify.com/album/5fSCPUfbsqiBBk4lEZYqgR) | 2:02 |
 | 8 | [Run To Ya Mumma](https://open.spotify.com/track/3XoVP3yEkbcMWbWHQZvaDo) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Foxii](https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Run To Ya Mumma](https://open.spotify.com/album/23S5bz5APLnANk77qQhus0) | 2:45 |
 | 9 | [Boss](https://open.spotify.com/track/0pz9Nm8wMv50rUffkzfwqD) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [Boss](https://open.spotify.com/album/05rvHy2DwAcmER2H1udQV4) | 2:34 |
-| 10 | [BAD GYAL](https://open.spotify.com/track/66D403DAwk6vRgHIv3WXCJ) | [SIKEM](https://open.spotify.com/artist/1E2l9VxEscguzMQiDG81gt), [DJ Vtrine](https://open.spotify.com/artist/3DS0FU7a6mYJyIANSDiJfw) | [BAD GYAL](https://open.spotify.com/album/00n17HwZcBPZuOnLgsCRcL) | 2:39 |
+| 10 | [BAD GYAL](https://open.spotify.com/track/66D403DAwk6vRgHIv3WXCJ) | [SIKEM](https://open.spotify.com/artist/1E2l9VxEscguzMQiDG81gt), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [BAD GYAL](https://open.spotify.com/album/00n17HwZcBPZuOnLgsCRcL) | 2:39 |
 | 11 | [90s](https://open.spotify.com/track/4CmAasAiVnxo3WGy0PNxHA) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [90S](https://open.spotify.com/album/1lqzpBgNsPrfQLnSxcFo2Y) | 3:29 |
 | 12 | [Face Card](https://open.spotify.com/track/4cGXfjpxzyOurjAKWRJnX9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Face Card](https://open.spotify.com/album/1wGMxU6nYYV8KeCeaJorzt) | 2:10 |
 | 13 | [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Caprison](https://open.spotify.com/track/7ADbFtqC6vr72KpOAuUIQZ) | [K\-RIM](https://open.spotify.com/artist/0II10Pn1LNFArIGqlxWrIm), [DJ SAURIER](https://open.spotify.com/artist/5FKogijn8UxQeGoSGgTpss) | [Caprison](https://open.spotify.com/album/16WvdpUgJ1vrXILN7LWOd3) | 2:05 |
 | 50 | [Shootè la](https://open.spotify.com/track/5rgknJmtlHKyFLtLWZJbT7) | [Keros\-N](https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc), [Youth CrazySquad](https://open.spotify.com/artist/7c0anpzJb2ssRsmpmoKRZ2) | [Shootè la](https://open.spotify.com/album/1Mzit7c5jUMIu25aQ06gCA) | 2:28 |
 
-Snapshot ID: `AAAAABvvVz6OAajcwPHcWn4n1ZezGzfC`
+Snapshot ID: `AAAAAMvGAL4lVOGyEft6ZB/SynDfpfZO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Ryok
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,016 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,001 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 59 | [Çölde Bahar](https://open.spotify.com/track/41vI39IWzM2H7F5l3TgX99) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Çölde Bahar](https://open.spotify.com/album/3khKSf3VU7KOty7afBRpQ9) | 3:00 |
 | 60 | [Yalansın](https://open.spotify.com/track/6AGWyMVRd9NsLw7PuANPOQ) | [Daha İki Durak Var](https://open.spotify.com/artist/5BsDr7OodfKCA4NhJTkva9) | [Yalansın](https://open.spotify.com/album/4pXNoldk8BKf4wwfUEmLZR) | 3:09 |
 | 61 | [Nereye Kadar](https://open.spotify.com/track/5Xil6P4sBspMCpHdL2Ysuj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Nereye Kadar](https://open.spotify.com/album/2rt2ohV5pqvqMmbKItLnqW) | 3:21 |
-| 62 | [Gecenin Ahı Var \(Senfonik\)](https://open.spotify.com/track/3pbTksWc7Jd4lz0gFQZuhO) | [Kırık Pena](https://open.spotify.com/artist/2UyRbOa0I0umGFcrQks3pv) | [Gecenin Ahı Var \(Senfonik\)](https://open.spotify.com/album/3NxWyAz7xtwdgbHX5CFyu8) | 4:06 |
+| 62 | [Gecenin Ahı Var \- Senfonik](https://open.spotify.com/track/3pbTksWc7Jd4lz0gFQZuhO) | [Kırık Pena](https://open.spotify.com/artist/2UyRbOa0I0umGFcrQks3pv) | [Gecenin Ahı Var \(Senfonik\)](https://open.spotify.com/album/3NxWyAz7xtwdgbHX5CFyu8) | 4:06 |
 | 63 | [Gönlümün Efendisi](https://open.spotify.com/track/5uHW5xPvQGeVI3zHU6wzIK) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Gönlümün Efendisi](https://open.spotify.com/album/2qsfBVYRFmpHpDDNWnP8aN) | 2:58 |
 | 64 | [Karşında Bi' Gör Beni](https://open.spotify.com/track/1tcRt75bmrIXLP51SJ2ASf) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Karşında Bi' Gör Beni](https://open.spotify.com/album/6Xtjyb2qbXBPL8ZtuJFXpS) | 3:27 |
 | 65 | [Bir Başıma](https://open.spotify.com/track/773663KSBBFi2OemBk2qYs) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1) | [Akıldan Geçer](https://open.spotify.com/album/5QuVvLTEdkJvNzNgNXGStE) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 |
 | 75 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 
-Snapshot ID: `AAAAAFnNvwlUcwNZoo3z7KKYmMe19x9+`
+Snapshot ID: `AAAAAKhzDwTfE0a11O5qgP7nfBmKg2G4`

@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 741859,
+  "num_followers": 741846,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJTLTNl0zbBhVg42ZMQzOrn7Nz2a",
+  "snapshot_id": "AAAAAM1WmHRB5mPUvwq+NZVZpGR3DowQ",
   "tracks": [
     {
       "added_at": "2026-01-07 19:33:17",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Unknown / Nth",
-      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Whipped Cream & Other Delights",
         "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 164546,
       "name": "Ladyfingers",
       "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 205525,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "to be held",
-        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 234742,
-      "name": "to be held",
-      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Seed of a Seed",
-        "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 257904,
-      "name": "Mouth of a Flower",
-      "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "patching",
         "url": "https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 191662,
       "name": "Lemon Garland",
       "url": "https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 257904,
+      "name": "Mouth of a Flower",
+      "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
     },
     {
       "added_at": "2026-01-07 19:33:17",

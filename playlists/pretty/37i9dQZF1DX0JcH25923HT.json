@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 601953,
+  "num_followers": 602121,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF2Li1WkbZSzNJQuQ1x4XdLEhzJ0",
+  "snapshot_id": "AAAAAJX7kLMY60Gp35h0/o8BRmZX3RoW",
   "tracks": [
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
-      },
-      "artists": [
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 284626,
       "name": "Dime",
       "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Buf\u00f3n",
-        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
       },
       "artists": [
         {
           "name": "LIT killah",
           "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Buf\u00f3n",
-      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1223,42 +1227,18 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+        "name": "Buf\u00f3n",
+        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
       },
       "artists": [
         {
           "name": "LIT killah",
           "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "Singapur (feat. Yung Beef)",
-      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
+      "duration_ms": 242500,
+      "name": "Buf\u00f3n",
+      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1283,6 +1263,26 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 169448,
+      "name": "Singapur (feat. Yung Beef)",
+      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 242418,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2026-08-11 14:10:49",

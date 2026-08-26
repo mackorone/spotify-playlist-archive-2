@@ -4,7 +4,7 @@
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri
 
-632 songs - 1 day 9 hr 48 min
+633 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-15 | 2024-02-03 |
 | [Ever New](https://open.spotify.com/track/5APSnVrpZZaOfzv3oiJ7uX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 5:44 | 2025-01-08 | 2025-11-29 |
 | [EVERGREENS](https://open.spotify.com/track/6dASsGRAWLEEVFhSAI3CL5) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [EVERGREENS](https://open.spotify.com/album/6LF5IJOwMQgbT9rlnvqoZm) | 2:48 | 2025-10-31 | 2026-02-14 |
-| [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 | 2026-06-16 |  |
+| [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 | 2026-06-16 | 2026-08-26 |
 | [everything led me to you](https://open.spotify.com/track/2JsZUBhPh5oXA8Rrm0sGFf) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [everything led me to you](https://open.spotify.com/album/6xpw9qxkrOCogmiwQxk2yD) | 2:34 | 2026-06-16 | 2026-08-22 |
 | [Excuse Me, I'm Speaking](https://open.spotify.com/track/46l6HTqqNBysg4IokCKET9) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [All Good Men](https://open.spotify.com/album/43cC6Wx7CTKWC25ByXQJXl) | 2:18 | 2026-06-26 | 2026-08-08 |
 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 | 2026-05-22 |  |
@@ -615,6 +615,7 @@
 | [Wasted Years](https://open.spotify.com/track/4SSajHadGx9jGLEP6Ex1FM) | [Bunny White](https://open.spotify.com/artist/24AEFLVkeESvvNH6w3B93p) | [Wasted Years](https://open.spotify.com/album/1q79vL6yc6Eyx47b2flsvY) | 3:44 | 2025-04-04 | 2025-11-01 |
 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2023-12-15 | 2024-08-10 |
 | [We Live We Die](https://open.spotify.com/track/6q3wbYq1uMfgu4bpCVEkUK) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spinning Out](https://open.spotify.com/album/0j0gVDSSk8tYhy4wS78T0c) | 3:03 | 2024-06-09 | 2025-09-06 |
+| [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 | 2026-08-21 |  |
 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 | 2026-07-10 |  |
 | [What you Know](https://open.spotify.com/track/2tbxEdJWzM7vT2OR8zLDFs) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Diary Of A Young Lit B\*tch](https://open.spotify.com/album/5fmJLK908UzunIOHhZE5Au) | 1:42 | 2026-06-26 | 2026-07-25 |
 | [What's The Word](https://open.spotify.com/track/78oFHv15HePyuxbi5iP6B5) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Enjoy The Ride](https://open.spotify.com/album/5nBLH7Rf0U7PjZqqK6NRUU) | 1:53 | 2025-06-13 | 2025-09-27 |

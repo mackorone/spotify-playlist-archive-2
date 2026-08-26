@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1481557,
+  "num_followers": 1481531,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZm/FzF4mY7dLUlyUIA7Rql7n7C",
+  "snapshot_id": "AAAAACR7BQKdq44enA4AsNLqpYAXafFU",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "No Love Lost to Kindness",
-        "url": "https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "Cowboy Without a Clue",
-      "url": "https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 239451,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "No Love Lost to Kindness",
+        "url": "https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "Cowboy Without a Clue",
+      "url": "https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
         "name": "Boys In Blue",
         "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1603,22 +1619,6 @@
       "duration_ms": 260000,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "I'm Not Afraid Of Music Anymore",
-        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 177071,
-      "name": "Along For The Ride",
-      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Singin\u2019 to an Empty Chair",
         "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 182824,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "I'm Not Afraid Of Music Anymore",
+        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 177071,
+      "name": "Along For The Ride",
+      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 163264,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Communicating",
         "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 188400,
       "name": "Communicating",
       "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 163264,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
     },
     {
       "added_at": "2026-08-21 04:02:54",

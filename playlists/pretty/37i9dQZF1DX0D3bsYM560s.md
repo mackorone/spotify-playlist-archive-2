@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Women pickers keeping tradition alive and breaking boundaries\. Cover: Della Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,739 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,761 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 99 | [Home To You](https://open.spotify.com/track/11d7hcLMtdrTFmMRDVBbX0) | [The Peasall Sisters](https://open.spotify.com/artist/683lE3PgdanngWCkm4za5n) | [Home To You](https://open.spotify.com/album/7rFnwh4Lt4ZmEy8mpg6LLq) | 2:36 |
 | 100 | [These Ole Blues](https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1), [Danny Paisley](https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi), [Darol Anger](https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf), [Shad Cobb](https://open.spotify.com/artist/7jOAerTS5LBS24HXDrD58u), [Ellie Hakanson](https://open.spotify.com/artist/2Co6Ms0rTsymHegZCNVWIu) | [These Ole Blues](https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS) | 4:15 |
 
-Snapshot ID: `AAAAAKIlXLUETqCJckhWKFPjZmrQ3P8Z`
+Snapshot ID: `AAAAAKRCgn9Db52/9sFzDW33sf7AzaxW`

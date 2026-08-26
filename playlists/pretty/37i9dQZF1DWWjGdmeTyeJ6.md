@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Grace Power\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,302 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,284 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Satisfied](https://open.spotify.com/track/00khq2O6tq0msfWIhQ8KqR) | [ZURI](https://open.spotify.com/artist/3BK5gMsNlUDLm3wgwT0DUF) | [Satisfied](https://open.spotify.com/album/6PY2fsWudnuKAeIgHXk7Ta) | 3:16 |
 | 100 | [rewrite](https://open.spotify.com/track/555f2FXKrip1OyXSMKURlS) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [darling, darling](https://open.spotify.com/album/0ImFz7IdveBPqcsKL2I02W) | 3:26 |
 
-Snapshot ID: `AAAAAHEQZz8MAILorvyk8pC55aVoZ2U8`
+Snapshot ID: `AAAAAEcZeecFIk5sIfzy6JISAeXdMF8s`

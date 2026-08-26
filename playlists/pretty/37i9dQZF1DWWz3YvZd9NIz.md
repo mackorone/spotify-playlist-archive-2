@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,571 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,589 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 17 | [Zombie](https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Zombie](https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH) | 4:49 |
 | 18 | [Turn The Tide](https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Turn The Tide](https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2) | 2:59 |
 | 19 | [How You Remind Me](https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [How You Remind Me](https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P) | 2:28 |
-| 20 | [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 |
-| 21 | [Boulevard Of Broken Dreams](https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Boulevard Of Broken Dreams](https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc) | 3:03 |
+| 20 | [Boulevard Of Broken Dreams](https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Boulevard Of Broken Dreams](https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc) | 3:03 |
+| 21 | [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 |
 | 22 | [Don't Stop Believin' \- Felix Harrer Remix](https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Don't Stop Believin' \(Felix Harrer Remix\)](https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN) | 3:27 |
 | 23 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 |
 | 24 | [Fire to the Rain \- Hardstyle Remix](https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k) | [ANDONIS](https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP) | [Fire to the Rain Hardstyle](https://open.spotify.com/album/1BLoFaML69GcWFn8uWkvX8) | 2:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Clarity](https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Clarity](https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13) | 3:09 |
 | 70 | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/track/6R5ZDu7hQJqSGjJKe3J78K) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/album/0l48E2jODBFaWoMjrpNyGm) | 3:36 |
 
-Snapshot ID: `AAAAACHldtVPUgmY74h5AC+xzOMsLIAc`
+Snapshot ID: `AAAAAAwbTeRUC138TChVSf9pI/ZGyCIu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > Smøgmænd er unge knive 🎭
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,212 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,218 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 15 | [Dagdrømmeri](https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Dagdrømmeri](https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK) | 3:08 |
 | 16 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 |
 | 17 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 |
-| 18 | [du forstår det, jeg forstår det ik](https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [du forstår det, jeg forstår det ik](https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y) | 2:59 |
-| 19 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 |
-| 20 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 |
+| 18 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 |
+| 19 | [du forstår det, jeg forstår det ik](https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [du forstår det, jeg forstår det ik](https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y) | 2:59 |
+| 20 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 |
 | 21 | [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 |
 | 22 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 23 | [Det Hele Handler Om Dig](https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Det Hele Handler Om Dig](https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS) | 3:18 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 64 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
 | 65 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
 | 66 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
-| 67 | [Fra ingenting til noget](https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ) | [Nikolaj Manuel Vonsild](https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO) | [Fra ingenting til noget](https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c) | 3:28 |
-| 68 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
-| 69 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 |
-| 70 | [niu bi](https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [niu bi](https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh) | 2:19 |
+| 67 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
+| 68 | [Fra ingenting til noget](https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ) | [Nikolaj Manuel Vonsild](https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO) | [Fra ingenting til noget](https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c) | 3:28 |
+| 69 | [Counterfeit](https://open.spotify.com/track/06AOUShyTSw86vuQPZbjcz) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [KATMORE](https://open.spotify.com/album/3XrVlXdr5JrwAQ0gLQtuBw) | 2:36 |
+| 70 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 |
 
-Snapshot ID: `AAAAAHttDVi+5Zdpal5GKZJdAXPmTRdR`
+Snapshot ID: `AAAAAMYMfk7EyfIqHzcSTxm5DU4cf5Y+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: yung kai
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,064 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,060 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [satellite](https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [satellite](https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX) | 3:13 |
 | 50 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 
-Snapshot ID: `AAAAAI0NgwJ0QOnfM8NVOxNWdg0aaZHO`
+Snapshot ID: `AAAAAIUOU8HDnswp1WSIkz1BysvzLgNM`

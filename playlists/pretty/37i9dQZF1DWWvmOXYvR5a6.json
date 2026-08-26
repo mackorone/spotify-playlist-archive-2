@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Raf Sandou)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221780,
+  "num_followers": 221772,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAsQfWcSJXeOfJiz9r7dnz9ieOXe",
+  "snapshot_id": "AAAAANP3E79BcUZLZJ+PLoFV1fMS7M1w",
   "tracks": [
     {
       "added_at": "2026-08-07 02:44:31",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-08-07 02:44:31",
       "album": {
+        "name": "UNSTEADY",
+        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I BE LIKE (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2026-08-07 02:44:31",
+      "album": {
         "name": "Blow Your Mind",
         "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
       },
@@ -959,26 +979,6 @@
     {
       "added_at": "2026-08-07 02:44:31",
       "album": {
-        "name": "UNSTEADY",
-        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I BE LIKE (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
-    },
-    {
-      "added_at": "2026-08-07 02:44:31",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
       },
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-08-07 02:44:31",
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2026-08-07 02:44:31",
+      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 183000,
       "name": "STAY on FIRE (feat. DEAN)",
       "url": "https://open.spotify.com/track/0VGeaj4sDq9UnwzSxiVgkZ"
-    },
-    {
-      "added_at": "2026-08-07 02:44:31",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "Infrared Camera",
-      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
       "added_at": "2026-08-07 02:44:31",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-08-07 02:44:31",
       "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "rosy",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+    },
+    {
+      "added_at": "2026-08-07 02:44:31",
+      "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 193493,
       "name": "ADHD (feat. Jambino)",
       "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
-    },
-    {
-      "added_at": "2026-08-07 02:44:31",
-      "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "rosy",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2026-08-07 02:44:31",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-08-07 02:44:31",
       "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
-        }
-      ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
-    },
-    {
-      "added_at": "2026-08-07 02:44:31",
-      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "added_at": "2026-08-07 02:44:31",
+      "album": {
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+        }
+      ],
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
     },
     {
       "added_at": "2026-08-07 02:44:31",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2026-08-07 02:44:31",
       "album": {
-        "name": "NAMU!",
-        "url": "https://open.spotify.com/album/4P0gl1yPbph5fkA6hu1KHd"
-      },
-      "artists": [
-        {
-          "name": "PAAK",
-          "url": "https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        }
-      ],
-      "duration_ms": 162658,
-      "name": "COT (feat. MILLI)",
-      "url": "https://open.spotify.com/track/3vAte5domSgArlZsXlPFhC"
-    },
-    {
-      "added_at": "2026-08-07 02:44:31",
-      "album": {
         "name": "MY MAN (Remix)",
         "url": "https://open.spotify.com/album/6k0E3GIjRUxcWEts05AfMw"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 220000,
       "name": "MY MAN - Remix",
       "url": "https://open.spotify.com/track/2rHcAV9iKHs19oKvM2elyV"
+    },
+    {
+      "added_at": "2026-08-07 02:44:31",
+      "album": {
+        "name": "NAMU!",
+        "url": "https://open.spotify.com/album/4P0gl1yPbph5fkA6hu1KHd"
+      },
+      "artists": [
+        {
+          "name": "PAAK",
+          "url": "https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "duration_ms": 162658,
+      "name": "COT (feat. MILLI)",
+      "url": "https://open.spotify.com/track/3vAte5domSgArlZsXlPFhC"
     },
     {
       "added_at": "2026-08-07 02:44:31",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2026-08-07 02:44:31",
       "album": {
-        "name": "AMBITION 5/10",
-        "url": "https://open.spotify.com/album/3etqC5rZJlcAwxgmditKP4"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Nosun",
-          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
-        },
-        {
-          "name": "MilliMax",
-          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "NEW AMBITION SOUND!",
-      "url": "https://open.spotify.com/track/0U9DUG6WjqUjRsvEMziUJC"
-    },
-    {
-      "added_at": "2026-08-07 02:44:31",
-      "album": {
         "name": "Phantom Pain",
         "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
       },
@@ -1723,6 +1699,30 @@
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
+    },
+    {
+      "added_at": "2026-08-07 02:44:31",
+      "album": {
+        "name": "AMBITION 5/10",
+        "url": "https://open.spotify.com/album/3etqC5rZJlcAwxgmditKP4"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "NEW AMBITION SOUND!",
+      "url": "https://open.spotify.com/track/0U9DUG6WjqUjRsvEMziUJC"
     },
     {
       "added_at": "2026-08-07 02:44:31",

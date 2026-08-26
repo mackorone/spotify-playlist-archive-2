@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 69739,
+  "num_followers": 69742,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABnvpy4Ax22iB8y0464bVl/",
+  "snapshot_id": "aouJgAAAAADaawulMOT/Tm3Qs1FJs3SG",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
+        "name": "Busc\u00e1ndote (Versi\u00f3n Radio)",
+        "url": "https://open.spotify.com/album/3p1eZpX3fYYC0Hbapp2BEK"
       },
       "artists": [
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
+      "duration_ms": 241994,
+      "name": "Busc\u00e1ndote - Versi\u00f3n Radio",
+      "url": "https://open.spotify.com/track/0HzXMHJ1jFV5ZNn9fm55Xi"
     },
     {
       "added_at": null,
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busc\u00e1ndote (Versi\u00f3n Radio)",
-        "url": "https://open.spotify.com/album/3p1eZpX3fYYC0Hbapp2BEK"
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
       },
       "artists": [
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 241994,
-      "name": "Busc\u00e1ndote - Versi\u00f3n Radio",
-      "url": "https://open.spotify.com/track/0HzXMHJ1jFV5ZNn9fm55Xi"
+      "duration_ms": 214000,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Sufrimos De Lo Mismo",
-      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
+      "duration_ms": 161860,
+      "name": "Sufrimos De Lo Mismo",
+      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
       "duration_ms": 165542,
       "name": "Bolerito - Remix",
       "url": "https://open.spotify.com/track/7zjyoM4TZ6o98XIqoMCZjI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estar Contigo",
         "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
       },
@@ -683,6 +683,30 @@
       "duration_ms": 228832,
       "name": "Estar Contigo",
       "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 209669,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi"
     },
     {
       "added_at": null,
@@ -723,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 209669,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Vac\u00edo",
         "url": "https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 151956,
       "name": "Un Vac\u00edo",
       "url": "https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Desaparecida",
-      "url": "https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 201370,
       "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
       "url": "https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Desaparecida",
+      "url": "https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 158217,
-      "name": "Hola Mi Amor",
-      "url": "https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Es Pa MI",
         "url": "https://open.spotify.com/album/2Stw5cW8fi6fvu4f8BBYTV"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 182040,
       "name": "Ella Es Pa MI",
       "url": "https://open.spotify.com/track/4jGNTiWNeLrvb9jadmBhNu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 158217,
+      "name": "Hola Mi Amor",
+      "url": "https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G"
     },
     {
       "added_at": null,

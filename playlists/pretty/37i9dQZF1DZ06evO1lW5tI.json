@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 265300,
+  "num_followers": 265331,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAATHcg3UiDOQqSMzkCGMS3+",
+  "snapshot_id": "aouJgAAAAAC75qubG6w/bSOxPYvTVTHx",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
       "duration_ms": 255100,
       "name": "A Love International",
       "url": "https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 240743,
+      "name": "Evan Finds the Third Room",
+      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 240743,
-      "name": "Evan Finds the Third Room",
-      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 333150,
-      "name": "Tongo Barra",
-      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 308913,
-      "name": "Right",
-      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 308913,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
     },
     {
       "added_at": null,

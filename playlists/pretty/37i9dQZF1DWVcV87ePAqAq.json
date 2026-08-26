@@ -1,12 +1,12 @@
 {
   "description": "R\u00e4nta p\u00e5 r\u00e4nta... \ud83d\udcb8",
-  "num_followers": 349787,
+  "num_followers": 349765,
   "original_name": "Grisch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItENR9tlY+FTUH0ZMFb7KdbNiQR",
+  "snapshot_id": "AAAAAGVq4VlsxcEpxaEq3LhW4IIhoYku",
   "tracks": [
     {
       "added_at": "2025-10-21 12:38:57",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-10-21 12:38:57",
       "album": {
-        "name": "What Is Love",
-        "url": "https://open.spotify.com/album/5IrMfIT621GidGPuOSRTB4"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/7JkZ2hQdDonRURJjlMuh8q"
-    },
-    {
-      "added_at": "2025-10-21 12:38:57",
-      "album": {
         "name": "One (Your Name)",
         "url": "https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 163246,
       "name": "One (Your Name) - Radio Edit",
       "url": "https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde"
+    },
+    {
+      "added_at": "2025-10-21 12:38:57",
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5IrMfIT621GidGPuOSRTB4"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/7JkZ2hQdDonRURJjlMuh8q"
     },
     {
       "added_at": "2025-10-21 12:38:57",

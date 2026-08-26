@@ -1,29 +1,13 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 84233,
+  "num_followers": 84252,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACA7aVjgRMSC+w4vOf4jUNs",
+  "snapshot_id": "aouJgAAAAACtqQGytqQMe1Gx6g0Xpa/r",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selected Ambient Works 85-92",
-        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 293751,
-      "name": "Xtal",
-      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -87,6 +55,22 @@
       "duration_ms": 228053,
       "name": "Pulsewidth",
       "url": "https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
       "added_at": null,
@@ -123,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Flim",
-      "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -155,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
       "artists": [
         {
@@ -164,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 310746,
-      "name": "Alberto Balsalm",
-      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+      "duration_ms": 177093,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
     },
     {
       "added_at": null,
@@ -187,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
       "artists": [
         {
@@ -196,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 177266,
-      "name": "IZ-US",
-      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
+      "duration_ms": 205186,
+      "name": "Nanou2",
+      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
     },
     {
       "added_at": null,
@@ -219,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
       "artists": [
         {
@@ -228,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 205186,
-      "name": "Nanou2",
-      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
+      "duration_ms": 177266,
+      "name": "IZ-US",
+      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
     },
     {
       "added_at": null,
@@ -340,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 547133,
-      "name": "Tha",
-      "url": "https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S"
+      "duration_ms": 434306,
+      "name": "Ptolemy",
+      "url": "https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb"
     },
     {
       "added_at": null,
@@ -619,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -628,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 440333,
-      "name": "Blue Calx",
-      "url": "https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK"
+      "duration_ms": 184906,
+      "name": "Yellow Calx",
+      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
     },
     {
       "added_at": null,
@@ -667,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Yellow Calx",
-      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works Volume II (Expanded Edition)",
         "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
@@ -692,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 401911,
-      "name": "Rhubarb Orc. 19.53 Rev",
-      "url": "https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG"
+      "duration_ms": 440333,
+      "name": "Blue Calx",
+      "url": "https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK"
     },
     {
       "added_at": null,
@@ -715,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 631240,
-      "name": "XMAS_EVET10 [120][thanaton3 mix]",
-      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Richard D. James Album",
         "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
@@ -747,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -756,9 +692,25 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 289693,
-      "name": "The Waxen Pith",
-      "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 401911,
+      "name": "Rhubarb Orc. 19.53 Rev",
+      "url": "https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG"
     },
     {
       "added_at": null,
@@ -787,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -803,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+        "name": "Digeridoo (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
       },
       "artists": [
         {
@@ -812,9 +780,41 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 134840,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+      "duration_ms": 432938,
+      "name": "Digeridoo - 2022 Remaster",
+      "url": "https://open.spotify.com/track/2Fh8MjqWLFCoiOOHQRfqgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Nannou",
+      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 108011,
+      "name": "piano un10 it happened",
+      "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
     }
   ],
   "unique_name": "This Is Aphex Twin",

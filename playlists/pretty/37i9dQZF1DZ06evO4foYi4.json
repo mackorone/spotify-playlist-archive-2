@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55796,
+  "num_followers": 55797,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABWoBuBOogfVn89Kc9V46jB",
+  "snapshot_id": "aouJgAAAAAANp9zCJ4kzDD1NrNChXPGM",
   "tracks": [
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 281578,
-      "name": "The Nowhere Inn (Live)",
-      "url": "https://open.spotify.com/track/5puEAUQFnOr5JeGfNbAhjo"
+      "duration_ms": 88024,
+      "name": "We Put A Pearl In the Ground (Live)",
+      "url": "https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 88024,
-      "name": "We Put A Pearl In the Ground (Live)",
-      "url": "https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV"
+      "duration_ms": 239699,
+      "name": "The Bed (Live)",
+      "url": "https://open.spotify.com/track/0GPNGwsiYWC45uTQ6nwRtj"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 239699,
-      "name": "The Bed (Live)",
-      "url": "https://open.spotify.com/track/0GPNGwsiYWC45uTQ6nwRtj"
+      "duration_ms": 281578,
+      "name": "The Nowhere Inn (Live)",
+      "url": "https://open.spotify.com/track/5puEAUQFnOr5JeGfNbAhjo"
     },
     {
       "added_at": null,
@@ -855,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-        "url": "https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG"
+        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
       },
       "artists": [
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 211200,
-      "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-      "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
+      "duration_ms": 236460,
+      "name": "Now, Now (Live)",
+      "url": "https://open.spotify.com/track/7Bvi4kZarHzBvhDQ0ZXOum"
     }
   ],
   "unique_name": "This Is St. Vincent",

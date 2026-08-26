@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Diego & Victor Hugo, PARTYNEXTDOOR,  Lagum,  Cynthia Luz com Sotam, Panda e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,306,207 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,861 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [PERDÃO](https://open.spotify.com/track/1nRdITAMTmqJykLYa1GAvZ) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [PERDÃO](https://open.spotify.com/album/62xYNEa58iTsHSqUrAibj6) | 2:35 |
 | 37 | [HEY!](https://open.spotify.com/track/4Ga0nbC7A3Vllz4Tiib5UU) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [HEY!](https://open.spotify.com/album/1SItss2l4S3kGDwWP5hMyt) | 2:18 |
 | 38 | [Pessoas de Plástico](https://open.spotify.com/track/3jusdd9Yz6m0ouIA1101jj) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ Kaio Mix](https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB) | [Pessoas de Plástico](https://open.spotify.com/album/3hJ7hK1QfR7CDE6KaWY49q) | 2:55 |
-| 39 | [Velho rei](https://open.spotify.com/track/6P41RCOQ3jC0wKlQmrKczg) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Dj Caique](https://open.spotify.com/artist/07nLgGNQ4ZlwQv4OwDOutM), [Tayob J.](https://open.spotify.com/artist/6oKkWcJx9065Pau8aAMpkj) | [Velho rei](https://open.spotify.com/album/4S5BuYVw4KnVAcY405LF5p) | 3:16 |
+| 39 | [Velho rei](https://open.spotify.com/track/6P41RCOQ3jC0wKlQmrKczg) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Tayob J.](https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX) | [Velho rei](https://open.spotify.com/album/4S5BuYVw4KnVAcY405LF5p) | 3:16 |
 | 40 | [Bota Pra Subir](https://open.spotify.com/track/25yQJ8tJyqDdvaq2J8MBn4) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Niki Roki](https://open.spotify.com/artist/1zH3l41RMqHrAO5f9Jms9j), [Renannobeat](https://open.spotify.com/artist/4r0YgjntWlIiOrfjg9KRdv), [LUVV Records](https://open.spotify.com/artist/2M2sFq4wTRAhgKVvtICpRB) | [Bota Pra Subir](https://open.spotify.com/album/1tMnCnHnhHKbCONsUjF6tP) | 2:29 |
 | 41 | [Vai Lembrar Apaixonada](https://open.spotify.com/track/08wxVR4v5ODZIkQh69a3w2) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp) | [Vai Lembrar Apaixonada](https://open.spotify.com/album/1udqLiIS4VBe3PIeLudjbt) | 2:29 |
 | 42 | [Tipo Vagalume](https://open.spotify.com/track/6Q2TWwuOADGRK4BXBYWTJO) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Gubeatz](https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Tipo Vagalume](https://open.spotify.com/album/16DDzULjZEw1stQzVfYLAB) | 4:46 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 78 | [A Última Canção De Amor](https://open.spotify.com/track/3awnK0B1KMlpxLkhW2CewR) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Do Outro Lado da Avenida](https://open.spotify.com/album/4vmcqR8xKACMPvBX1R79qe) | 3:51 |
 | 79 | [Fera Domesticada](https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG) | [Inofensiva Flor](https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR) | 2:38 |
 
-Snapshot ID: `AAAAAIdYcaUVMo9hP3J+4kvtriekbcUO`
+Snapshot ID: `AAAAAD9lt69WRtZkoMQNj1rpHzSq+4zQ`

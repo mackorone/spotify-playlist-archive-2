@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 484868,
+  "num_followers": 484871,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFtxYIsv6PlZUwx3Rvyc0rlC7jLy",
+  "snapshot_id": "AAAAAFthEpu4TeWB5bnrBAoVG6r2FAqz",
   "tracks": [
     {
       "added_at": "2026-06-17 20:08:40",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "All I Ever Asked (with sombr)",
         "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 217578,
       "name": "All I Ever Asked (with sombr)",
       "url": "https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 266884,
-      "name": "In The Modern World",
-      "url": "https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Talk On The Hill",
-        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 207774,
-      "name": "Talk On The Hill",
-      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Birthday Boy",
         "url": "https://open.spotify.com/album/72Z77w5eAZSVabS99doBbx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 184768,
       "name": "Control",
       "url": "https://open.spotify.com/track/5FEA5vTR5TsxcS6ND10kNq"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "you and forever",
-        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 234971,
-      "name": "you and forever",
-      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "2SIDED",
         "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "you and forever",
+        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 234971,
+      "name": "you and forever",
+      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Seven Seas",
-        "url": "https://open.spotify.com/album/5kx1N8ll8DhnjXeXhL0f3J"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "Seven Seas",
-      "url": "https://open.spotify.com/track/5zgg4YKpmHxFyMpGaSxGTu"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "just friends",
         "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 208363,
       "name": "just friends",
       "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Seven Seas",
+        "url": "https://open.spotify.com/album/5kx1N8ll8DhnjXeXhL0f3J"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 181213,
+      "name": "Seven Seas",
+      "url": "https://open.spotify.com/track/5zgg4YKpmHxFyMpGaSxGTu"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Holy Grail",
-        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Holy Grail",
-      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 201808,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 189440,
       "name": "PIRATE RADIO*",
       "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 201808,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Not Around Anymore",
-        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Not Around Anymore",
-      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Better ft. Cuco",
         "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Not Around Anymore",
+        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Not Around Anymore",
+      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
     },
     {
       "added_at": "2026-06-17 20:08:40",

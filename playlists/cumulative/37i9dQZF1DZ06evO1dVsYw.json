@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "A V\u00edtima",
+      "url": "https://open.spotify.com/track/2ki0ZW9m5HIAdALRldfXM1"
+    },
+    {
+      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -193,6 +211,24 @@
     },
     {
       "album": {
+        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265586,
+      "name": "Da Ponte pr\u00e1 C\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6N2v3qyuXnr6ZXnIAjCQmC"
+    },
+    {
+      "album": {
         "name": "Sobrevivendo no Inferno",
         "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
       },
@@ -244,7 +280,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 377613,
       "name": "Estilo Cachorro",
       "url": "https://open.spotify.com/track/2tR8iLdCeYhVcyPZvN6T7X"
@@ -608,10 +644,28 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 411866,
       "name": "Negro Drama",
       "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
+    },
+    {
+      "album": {
+        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318760,
+      "name": "Negro Drama - Ao Vivo",
+      "url": "https://open.spotify.com/track/0YG19EaGbGtN7m8xVzgEGv"
     },
     {
       "album": {
@@ -874,6 +928,24 @@
       "duration_ms": 67429,
       "name": "Somos o Que Somos",
       "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
+    },
+    {
+      "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108426,
+      "name": "Sou + Voc\u00ea",
+      "url": "https://open.spotify.com/track/5G1T3Cj4vP7uiGMUb278ut"
     },
     {
       "album": {

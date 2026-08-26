@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-151 songs - 8 hr 46 min
+152 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Blame It On Eve](https://open.spotify.com/track/2Gb45i57zA76fV09OmQjGO) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL) | 3:43 | 2023-06-17 | 2025-10-26 |
 | [Blame It On Eve](https://open.spotify.com/track/4Px9ClC3i18jlc2bABbXp8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 3:43 | 2025-10-26 |  |
 | [Blue Sky Cathedral](https://open.spotify.com/track/3VIyK7NVZQxsvjY2B4HEm5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:34 | 2024-01-19 | 2024-01-31 |
+| [Can't Live Without Your Love](https://open.spotify.com/track/2qWqFxYMDY2x7w6Vxlrf3s) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD) | 3:29 | 2026-08-26 |  |
 | [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 | 2023-06-17 | 2024-12-06 |
 | [Changing Tunes](https://open.spotify.com/track/6WRpvScDBQhxZaxopTLvj5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:10 | 2024-12-06 |  |
 | [Cigarettes & Whiskey](https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 3:38 | 2023-06-17 | 2025-10-24 |
@@ -33,7 +34,7 @@
 | [Dirt Track Cowboys](https://open.spotify.com/track/0kqfqRf0Sfpej2PWkagoAq) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand \(Special Bonus Tour Edition\)](https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD) | 2:53 | 2025-10-25 |  |
 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 | 2023-06-17 | 2025-10-25 |
 | [Dirt Track Cowboys '08](https://open.spotify.com/track/3RXfGZcQuzRRlxFMIBWGUJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 2:59 | 2024-12-04 | 2024-12-13 |
-| [Dirt Track Cowboys '08](https://open.spotify.com/track/4ErRHNP7QitMvvoZEbDwS1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/5m70A77DEcJlMn4A1Gsic0) | 2:59 | 2026-05-28 | 2026-08-25 |
+| [Dirt Track Cowboys '08](https://open.spotify.com/track/4ErRHNP7QitMvvoZEbDwS1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/5m70A77DEcJlMn4A1Gsic0) | 2:59 | 2026-05-28 |  |
 | [Drunk](https://open.spotify.com/track/45lasTnqrHd1t9SZ8s2SWa) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 3:18 | 2023-06-17 | 2024-12-08 |
 | [Drunk](https://open.spotify.com/track/3PvLDkx6Xz934xsrSk6pqO) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:20 | 2024-12-08 |  |
 | [Dumb Things](https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:41 | 2023-06-17 |  |
@@ -112,12 +113,12 @@
 | [Number 34](https://open.spotify.com/track/06KtoiOxJgda07fHxV5IjZ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 2:54 | 2025-10-22 |  |
 | [Number 34](https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 2:54 | 2023-06-17 | 2025-10-22 |
 | [Open Ended Heartache](https://open.spotify.com/track/60tADaE8MpEuDbaOFl1eVZ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 3:59 | 2024-11-29 | 2025-01-05 |
-| [Open Ended Heartache](https://open.spotify.com/track/7emnOHu74dSBtayjP3vPgG) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD) | 4:03 | 2026-08-25 |  |
+| [Open Ended Heartache](https://open.spotify.com/track/7emnOHu74dSBtayjP3vPgG) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD) | 4:03 | 2026-08-25 | 2026-08-26 |
 | [Our Church](https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Our Church](https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX) | 3:39 | 2023-06-17 |  |
 | [Party Down Under](https://open.spotify.com/track/6voVE1ccTkRYYNE9BtkIqV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/6kTwLscyl9GiE3tk1oLvrK) | 3:16 | 2023-06-17 | 2024-12-04 |
 | [Party Down Under](https://open.spotify.com/track/5CgbrnnfMfKHJnAdo7Hw5X) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/2mwqhOULfCrN8QPA2c8PD7) | 3:17 | 2024-12-04 |  |
 | [Ready For Love](https://open.spotify.com/track/3YSl4i3tefmSES68EHJNpV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:55 | 2023-06-17 | 2025-10-25 |
-| [Ready For Love](https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD) | 3:55 | 2025-10-26 |  |
+| [Ready For Love](https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD) | 3:55 | 2025-10-26 | 2026-08-26 |
 | [She's Country](https://open.spotify.com/track/5OWMPMZNh6W0AEBUFUQD1h) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 3:42 | 2025-10-25 |  |
 | [She's Country](https://open.spotify.com/track/6RsEU2x1ufggklj11Xg1Mt) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:42 | 2023-06-17 | 2025-10-25 |
 | [Six Days On The Road](https://open.spotify.com/track/0IMbo0eRqkIkAKO131Wusr) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 2:48 | 2023-06-17 | 2024-12-07 |

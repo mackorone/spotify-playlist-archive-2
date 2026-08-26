@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Miles Caton
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,045 likes - 199 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,049 likes - 199 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 198 | [Come Home](https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Come Home](https://open.spotify.com/album/3coobmbIsiyA7O8K3PIEYQ) | 3:12 |
 | 199 | [to see thru closed eyes](https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:15 |
 
-Snapshot ID: `AAAAAKzXEgyiNdeAclAppeSzbzHdbcWP`
+Snapshot ID: `AAAAABETNEEw5/NByxKiwfET2eyacVQH`

@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 193920,
       "name": "Gone Going",
       "url": "https://open.spotify.com/track/7oJtjEkcsXLGcuXaZ8o2VJ"
@@ -992,10 +992,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 262840,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/6U7GUjtamt2P0LcFod1dBT"
+    },
+    {
+      "album": {
+        "name": "Mas Que Nada",
+        "url": "https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Mas Que Nada - Radio Edit",
+      "url": "https://open.spotify.com/track/0vFs2Eorve6vnnQcmItot1"
     },
     {
       "album": {
@@ -1116,6 +1138,32 @@
       "duration_ms": 250986,
       "name": "My Humps - Single Version",
       "url": "https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268440,
+      "name": "My Style",
+      "url": "https://open.spotify.com/track/4X76j1maXUPutHtrb9cGnL"
     },
     {
       "album": {

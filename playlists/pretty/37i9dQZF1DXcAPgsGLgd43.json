@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 120959,
+  "num_followers": 121000,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/ybVVHOs9BbgITLs5oyMReWrEC",
+  "snapshot_id": "AAAAAHA8ocEqxMTm7mIlv4WZgx4P78co",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:26",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2026-08-21 04:01:26",
       "album": {
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
+      },
+      "artists": [
+        {
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
+        {
+          "name": "Mydoz",
+          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
+        },
+        {
+          "name": "Zairah",
+          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
+        }
+      ],
+      "duration_ms": 165123,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+    },
+    {
+      "added_at": "2026-08-21 04:01:26",
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 203809,
       "name": "Ta Sendo",
       "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
-    },
-    {
-      "added_at": "2026-08-21 04:01:26",
-      "album": {
-        "name": "Rulay",
-        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
-      },
-      "artists": [
-        {
-          "name": "GROSSOMODDO",
-          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
-        },
-        {
-          "name": "Mydoz",
-          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
-        },
-        {
-          "name": "Zairah",
-          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "Rulay",
-      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
     },
     {
       "added_at": "2026-08-21 04:01:26",
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2026-08-21 04:01:26",
       "album": {
-        "name": "Ando High",
-        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+        "name": "La Bamba",
+        "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "MESSINA.",
+          "url": "https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV"
         },
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Rawling",
+          "url": "https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J"
         }
       ],
-      "duration_ms": 165875,
-      "name": "Ando High",
-      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+      "duration_ms": 197862,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
     },
     {
       "added_at": "2026-08-21 04:01:26",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2026-08-21 04:01:26",
       "album": {
+        "name": "Ando High",
+        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "Ando High",
+      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2026-08-21 04:01:26",
+      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2026-08-21 04:01:26",
-      "album": {
-        "name": "La Bamba",
-        "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
-      },
-      "artists": [
-        {
-          "name": "MESSINA.",
-          "url": "https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV"
-        },
-        {
-          "name": "Rawling",
-          "url": "https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J"
-        }
-      ],
-      "duration_ms": 197862,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
     },
     {
       "added_at": "2026-08-21 04:01:26",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2026-08-21 04:01:26",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
-      },
-      "artists": [
-        {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2026-08-21 04:01:26",
-      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2026-08-21 04:01:26",
+      "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2026-08-21 04:01:26",

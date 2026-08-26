@@ -4,7 +4,7 @@
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 45 min
+65 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Tu Amistad Me Hace Bien \- En Vivo](https://open.spotify.com/track/7gUJ7lxBwciZpkohIRt5ph) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO), [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Lorelei Taron](https://open.spotify.com/artist/4BgKgow0sYMYbeCwch19Bo), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 4:08 | 2024-05-24 | 2026-06-04 |
 | [Tu Bandera](https://open.spotify.com/track/2cpTtthg2R3PMRjkxOJJyK) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:18 | 2024-05-24 |  |
 | [Tú Estás Aquí \(Live\)](https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Marcela Gandara \(Live\)](https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq) | 5:30 | 2024-05-24 |  |
+| [Tú Estás Aquí \- En Vivo](https://open.spotify.com/track/6zd4W5nBVnqXTIhaASx9GO) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 4:57 | 2026-08-26 |  |
 | [Un Destello De Tu Gloria \- En Vivo](https://open.spotify.com/track/1p857QcWbg695PflPkPYIE) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Te Daré Lo Mejor \(En Vivo\)](https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc) | 5:33 | 2024-05-24 |  |
 | [Una Casa Vacía](https://open.spotify.com/track/7BwjXbstceaeN4bjbt9caj) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 2:47 | 2024-05-24 |  |
 | [Ven Conmigo](https://open.spotify.com/track/4iF7uLUsvBFcu8j3E5qkR0) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Más](https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp) | 4:04 | 2025-09-19 | 2025-10-03 |

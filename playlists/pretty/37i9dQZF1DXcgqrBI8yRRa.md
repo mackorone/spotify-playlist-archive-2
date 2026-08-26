@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Trending rn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,657 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,781 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 49 | [ACCRA GIRLS](https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:50 |
 | 50 | [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 |
 
-Snapshot ID: `AAAAADY2QCUi9kBAbDkjmomdV645PRSZ`
+Snapshot ID: `AAAAAHPh1IfKRfioXkJ69Zr0YC0/w3RA`

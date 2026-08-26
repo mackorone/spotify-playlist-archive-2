@@ -101,6 +101,32 @@
     },
     {
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
+    },
+    {
+      "album": {
         "name": "Bheegi Bheegi",
         "url": "https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX"
       },
@@ -318,6 +344,36 @@
       "duration_ms": 212470,
       "name": "Do You Know",
       "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
+    },
+    {
+      "album": {
+        "name": "Fursat",
+        "url": "https://open.spotify.com/album/4hOuhOK9HajId8i4mty9x3"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Devv Sadaana",
+          "url": "https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Fursat",
+      "url": "https://open.spotify.com/track/5BsCCxp6jEOyWdsI86PbrU"
     },
     {
       "album": {
@@ -978,7 +1034,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 217192,
       "name": "RAINA",
       "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
@@ -1310,7 +1366,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 185156,
       "name": "Tu Ru Ruu",
       "url": "https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO"

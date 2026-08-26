@@ -5221,6 +5221,36 @@
     },
     {
       "album": {
+        "name": "From Mars with Love",
+        "url": "https://open.spotify.com/album/6NkDCZir9nJ1JkO1OWjg0f"
+      },
+      "artists": [
+        {
+          "name": "Dios",
+          "url": "https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu"
+        },
+        {
+          "name": "\u305f\u306a\u304b",
+          "url": "https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm"
+        },
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "sasanomaly",
+          "url": "https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244213,
+      "name": "From Mars with Love",
+      "url": "https://open.spotify.com/track/5tA9lPFZ8vqxLntazB9jSa"
+    },
+    {
+      "album": {
         "name": "from me to u (feat. Poppy)",
         "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
       },
@@ -7672,6 +7702,24 @@
       "duration_ms": 177717,
       "name": "Just Kids",
       "url": "https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5922",
+        "url": "https://open.spotify.com/album/7d9zq5sS33IziYFk3omqHy"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "K/// ILL YOU",
+      "url": "https://open.spotify.com/track/4dHjXZ0EHZBD1yK0uHju3f"
     },
     {
       "album": {
@@ -14122,7 +14170,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 283544,
       "name": "Shippo",
       "url": "https://open.spotify.com/track/1hdp6CGludVSn1t4CQ30vf"
@@ -18389,6 +18437,24 @@
     },
     {
       "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/1npt0QjEzaC9751wWLpoVV"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/7HZlCNH4f8zM60D9RpIpIA"
+    },
+    {
+      "album": {
         "name": "driven by impulse",
         "url": "https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5"
       },
@@ -21188,7 +21254,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 195560,
       "name": "\u30a2\u30b6\u30b9",
       "url": "https://open.spotify.com/track/4VeGFCvKHvQwgcQ8bKBFM8"
@@ -27556,7 +27622,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 250000,
       "name": "\u6708\u306e\u6900",
       "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"
@@ -29464,7 +29530,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 197000,
       "name": "\u88f8",
       "url": "https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA"
@@ -29846,6 +29912,24 @@
       "duration_ms": 260680,
       "name": "\u8f1d\u3051\u308b\u3082\u306e",
       "url": "https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS"
+    },
+    {
+      "album": {
+        "name": "\u9000\u5c48\u306e\u305b\u3044",
+        "url": "https://open.spotify.com/album/4Ka7M9n4ucxDapLac8nvzW"
+      },
+      "artists": [
+        {
+          "name": "ULTRA",
+          "url": "https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "\u9000\u5c48\u306e\u305b\u3044",
+      "url": "https://open.spotify.com/track/6vVP4jCjRjkbVgy5OShX6X"
     },
     {
       "album": {

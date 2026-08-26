@@ -8279,6 +8279,24 @@
     },
     {
       "album": {
+        "name": "Just One",
+        "url": "https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Just One",
+      "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
+    },
+    {
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn"
       },

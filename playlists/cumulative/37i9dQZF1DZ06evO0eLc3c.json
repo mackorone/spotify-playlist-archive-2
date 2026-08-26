@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 238546,
       "name": "1959",
       "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 243933,
       "name": "25th Floor",
       "url": "https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 396360,
       "name": "Ain't It Strange",
       "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 275829,
       "name": "Amerigo",
       "url": "https://open.spotify.com/track/1tZ4JHHtnELQC3smRIkJ2q"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 189733,
       "name": "Ask the Angels",
       "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
@@ -182,6 +182,36 @@
       "duration_ms": 204800,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Rock & Roll Hall Of Fame Concerts",
+        "url": "https://open.spotify.com/album/53AiGaRJym6bxyEkk7WCKr"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        },
+        {
+          "name": "Roy Bittan",
+          "url": "https://open.spotify.com/artist/2uMBWftwOZ58RWZ2tDxPvj"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Because The Night (with Bruce Springsteen, Patti Smith, and Roy Bittan) - Live",
+      "url": "https://open.spotify.com/track/7H6n3D4jatXNudO4sUNgJw"
     },
     {
       "album": {
@@ -250,10 +280,28 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 554186,
       "name": "Birdland",
       "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
+    },
+    {
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592293,
+      "name": "Birdland - Live",
+      "url": "https://open.spotify.com/track/16Mv1ceLVVggvNxBiHBQ2m"
     },
     {
       "album": {
@@ -286,10 +334,46 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 244640,
       "name": "Break It Up",
       "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "Broken Flag",
+      "url": "https://open.spotify.com/track/4aCBaCTzY7bnqMZnpVHYPH"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack / Deluxe Version)",
+        "url": "https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "Capitol Letter - From \u201cThe Hunger Games: Catching Fire\" Soundtrack",
+      "url": "https://open.spotify.com/track/6nFTOfz07bLtJWaAwLKYkF"
     },
     {
       "album": {
@@ -362,7 +446,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 312440,
       "name": "Citizen Ship",
       "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
@@ -380,7 +464,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 256533,
       "name": "Dancing Barefoot",
       "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
@@ -416,7 +500,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 259906,
       "name": "Distant Fingers",
       "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
@@ -441,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362133,
+      "name": "Easter",
+      "url": "https://open.spotify.com/track/3LD5taZhF1KNtzvJWoEqjf"
+    },
+    {
+      "album": {
         "name": "Horses",
         "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
       },
@@ -452,7 +554,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 161413,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/2Vvck2UY0DMK6yjQkmwqff"
@@ -578,7 +680,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 283400,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/3JRoZqOoTuQu6pI1prK7QC"
@@ -621,6 +723,24 @@
     },
     {
       "album": {
+        "name": "The Essential Patti Smith",
+        "url": "https://open.spotify.com/album/6T658dwX3T5srleWvZUuwn"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618208,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/2zAKLfOJLTHK5RGrj9ag0x"
+    },
+    {
+      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -632,10 +752,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 354320,
       "name": "Gloria: In Excelsis Deo",
       "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+    },
+    {
+      "album": {
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379076,
+      "name": "Gloria: In Excelsis Deo - RCA Demo",
+      "url": "https://open.spotify.com/track/0MSxpNm6EeGEie2KQWGPk2"
     },
     {
       "album": {
@@ -686,7 +824,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 196346,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
@@ -708,6 +846,24 @@
       "duration_ms": 196463,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2awElNTUMbC5jmiNSIoxEM"
+    },
+    {
+      "album": {
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269920,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/1OZ8vKnZ74J0mAaY64RL7v"
     },
     {
       "album": {
@@ -776,7 +932,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 265466,
       "name": "Kimberly",
       "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
@@ -798,6 +954,24 @@
       "duration_ms": 565453,
       "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
       "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
+    },
+    {
+      "album": {
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283340,
+      "name": "Lo and Beholden",
+      "url": "https://open.spotify.com/track/0pf6HTSjykx8KLf1HwQmda"
     },
     {
       "album": {
@@ -855,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/2fBCopvLxPFrg603WIi0IG"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316320,
+      "name": "My Blakean Year",
+      "url": "https://open.spotify.com/track/1htpR3yp6yjlpvd2IV7olS"
+    },
+    {
+      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -902,8 +1094,8 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
-      "duration_ms": 302373,
+      "date_removed": null,
+      "duration_ms": 302363,
       "name": "Nine",
       "url": "https://open.spotify.com/track/3QhvmNavqP0mxrxeih9vBr"
     },
@@ -920,7 +1112,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 161256,
       "name": "One Too Many Mornings - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/5EqUuTADsqTyzoSYYKJJV0"
@@ -956,7 +1148,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 260533,
       "name": "Paths That Cross",
       "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
@@ -974,7 +1166,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 309493,
       "name": "Peaceable Kingdom",
       "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
@@ -992,7 +1184,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 310400,
       "name": "People Have the Power",
       "url": "https://open.spotify.com/track/4GbnjrrobeVLCl1FQ5C0OY"
@@ -1046,7 +1238,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 426466,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
@@ -1082,7 +1274,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 201800,
       "name": "Pumping",
       "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
@@ -1118,10 +1310,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 205173,
       "name": "Redondo Beach",
       "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
+    },
+    {
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "Redondo Beach - Live",
+      "url": "https://open.spotify.com/track/2D3HfAqy0vPNg18h5OGJ5B"
     },
     {
       "album": {
@@ -1226,7 +1436,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 260133,
       "name": "So You Want to Be",
       "url": "https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW"
@@ -1266,7 +1476,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 248533,
       "name": "Space Monkey",
       "url": "https://open.spotify.com/track/6rH42cutB9ZnEmTwgFY6tq"
@@ -1302,7 +1512,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 174503,
       "name": "The Hunter Gets Captured by The Game",
       "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
@@ -1320,7 +1530,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 327026,
       "name": "The Jackson Song",
       "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
@@ -1356,7 +1566,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 265293,
       "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
       "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
@@ -1374,7 +1584,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 229403,
       "name": "This Is the Girl",
       "url": "https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB"
@@ -1400,6 +1610,24 @@
     {
       "album": {
         "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "Up There Down There",
+      "url": "https://open.spotify.com/track/2hWbr9ROYS3au3s1bSRFZJ"
+    },
+    {
+      "album": {
+        "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
       },
       "artists": [
@@ -1414,6 +1642,24 @@
       "duration_ms": 290543,
       "name": "Up There Down There",
       "url": "https://open.spotify.com/track/3G1qf3HSMxuTpOrTfh3TPt"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280800,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0pSF7WgfHsAVeXW6fP4J9r"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Mac Miller,  Central Cee and BossMan Dlow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,584,471 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,582,904 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |
 | 50 | [Talk Ya Shit](https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Talk Ya Shit](https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4) | 2:25 |
 
-Snapshot ID: `AAAAAHgt2So1X9N/rFXYTNYsDrDE3IJ1`
+Snapshot ID: `AAAAAGxnToBosHJSBPFtka7cHCZVG0qz`

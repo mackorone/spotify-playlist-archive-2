@@ -4,7 +4,7 @@
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-155 songs - 9 hr 27 min
+156 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Crown Royal](https://open.spotify.com/track/0Fd4NNrfktw5SJzNgvyQec) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:56 | 2025-01-06 | 2026-06-08 |
 | [Crown Royal](https://open.spotify.com/track/3YYtsFBs8SjdoVcVYgLPex) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/3AGYCI89BqoyYTpU881c5S) | 3:56 | 2026-06-08 | 2026-07-31 |
 | [Crown Royal](https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:56 | 2023-05-02 | 2025-01-06 |
-| [Crown Royal](https://open.spotify.com/track/0tNOyOw32Khwf0AuZemqXn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi) | 3:56 | 2026-07-31 |  |
+| [Crown Royal](https://open.spotify.com/track/0tNOyOw32Khwf0AuZemqXn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi) | 3:56 | 2026-07-31 | 2026-08-26 |
 | [Don't Want Your Money](https://open.spotify.com/track/4NBPGGT2dH40ZhbTlKgDX2) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Mahi](https://open.spotify.com/artist/1S3UG513w8Jnx0OJFaiRjl) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:36 | 2023-09-18 | 2023-09-26 |
 | [Drunken Slide](https://open.spotify.com/track/0eLC9r8sHWFmWrErNVXkYr) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:36 | 2024-11-26 | 2025-03-20 |
 | [Drunken Slide](https://open.spotify.com/track/2RQtJYUJGsWOxy1jcDQpBy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:36 | 2025-03-20 | 2025-04-25 |
@@ -137,6 +137,7 @@
 | [Simple Love Song](https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:44 | 2023-05-02 | 2025-01-04 |
 | [Slow Down](https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:33 | 2023-05-02 | 2024-11-29 |
 | [Spam Musubi Song](https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Spam Musubi Song](https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk) | 2:20 | 2024-05-01 |  |
+| [Sunday](https://open.spotify.com/track/6bqOqZb66WG0peuFQ5yUqq) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi) | 4:24 | 2026-08-26 |  |
 | [Sweet Thing](https://open.spotify.com/track/16POAWtQWZ745ao5PpKrzo) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ) | 3:31 | 2026-02-19 | 2026-07-28 |
 | [Sweet Thing](https://open.spotify.com/track/2RaxJXpC33ymT8igZzdWHb) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:31 | 2023-05-02 | 2025-01-07 |
 | [Sweet Thing](https://open.spotify.com/track/4BDHYvhC9q9XvVtXKKMfCz) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT) | 3:31 | 2026-07-28 |  |

@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-594 songs - 1 day 22 hr 51 min
+595 songs - 1 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Always Doing Good](https://open.spotify.com/track/3rGwkG01eYjGotsDJekog4) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Always Doing Good](https://open.spotify.com/album/5SkdcS83ly5OQdNPZk4dOC) | 6:58 | 2026-07-24 | 2026-08-07 |
 | [Amarachi](https://open.spotify.com/track/4Mv5S4DBpeNtYTa4kjmxmZ) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Amarachi](https://open.spotify.com/album/37fme3qZGTNm55biwXBpyI) | 2:47 | 2023-12-05 | 2023-12-13 |
 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 | 2024-01-12 | 2024-02-02 |
-| [Amen Amen](https://open.spotify.com/track/45beXwi0eSva0HfDDZJhjR) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Ore Macaulay](https://open.spotify.com/artist/2yK1FYSA1D1hTNFD0rFhrD), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:27 | 2024-03-29 |  |
+| [Amen Amen](https://open.spotify.com/track/45beXwi0eSva0HfDDZJhjR) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Ore Macaulay](https://open.spotify.com/artist/2yK1FYSA1D1hTNFD0rFhrD), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:27 | 2024-03-29 | 2026-08-26 |
 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 | 2026-03-13 | 2026-03-27 |
 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 | 2025-04-18 | 2025-04-22 |
 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 | 2024-03-01 | 2024-03-29 |
@@ -197,6 +197,7 @@
 | [Giver of Good Things](https://open.spotify.com/track/4aDY4firFK9JKg6AgpPHwP) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Giver of Good Things](https://open.spotify.com/album/6jUm0DbfPTh0KQlPDMj10E) | 2:28 | 2025-12-12 | 2026-03-13 |
 | [Glorified](https://open.spotify.com/track/6Lldkt5PhRsKWQ5zelEZbg) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Glorified](https://open.spotify.com/album/43uCot5puRm6FRYsaBnsCe) | 2:49 | 2026-08-07 |  |
 | [Glory On The Other Side \- Live Acoustic](https://open.spotify.com/track/6m7JvJbg2wXdLnkYW8EjJD) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Integrity Worship](https://open.spotify.com/artist/697Av8ZId2eyKtaHSEg4ZM), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side \(Live Acoustic\)](https://open.spotify.com/album/4ywsKcwF8mUfuKUwnIgTKf) | 5:16 | 2025-07-25 | 2025-08-22 |
+| [Glory to God in the Highest](https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Life Recording](https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ) | 13:34 | 2026-08-14 |  |
 | [God Be The Glory](https://open.spotify.com/track/2O75KOWDHDcsy3uifzJIPU) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God Be The Glory](https://open.spotify.com/album/3j2ymNszeFauxvBIMPeHvK) | 3:35 | 2023-12-29 | 2024-04-10 |
 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 | 2024-04-12 |  |
 | [God is good](https://open.spotify.com/track/4HyMhf7T147TQux0rvTXSG) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [BRIDGing the RIFT](https://open.spotify.com/album/6we43DBB24KPqt6JK9ccTr) | 3:53 | 2025-04-11 | 2025-04-18 |

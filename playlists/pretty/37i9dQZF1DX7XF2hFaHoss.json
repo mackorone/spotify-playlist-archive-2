@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 155943,
+  "num_followers": 155944,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABQ44+mAjI4HOevhv8SlZt8McnLm",
+  "snapshot_id": "AAAAAHhppe/P24WV+nnSlK3WbhYuDjAq",
   "tracks": [
     {
       "added_at": "2026-03-08 15:34:05",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 187403,
       "name": "Like The Rain",
       "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1420,12 +1420,12 @@
       },
       "artists": [
         {
-          "name": "Laura Cortese & The Dance Cards",
-          "url": "https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3"
-        },
-        {
           "name": "Laura Cortese",
           "url": "https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n"
+        },
+        {
+          "name": "Laura Cortese & The Dance Cards",
+          "url": "https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3"
         }
       ],
       "duration_ms": 241373,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Stereo Express
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,139 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,199 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Amina](https://open.spotify.com/track/22T6hOJhPh8Lnx8YD9IO32) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf), [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF), [Sounds Of Sirin](https://open.spotify.com/artist/0aPNhtrzvas6BBr9N7Db7w) | [Amina](https://open.spotify.com/album/5wQGZcbuXrgm9QDPMLPrze) | 3:52 |
 | 90 | [Punk](https://open.spotify.com/track/2QhmBUjbtdYQ2SYL3vjIlk) | [Tobias Paul](https://open.spotify.com/artist/5CIYD5Vga4j87RGPfY7sVG) | [Sphinx EP](https://open.spotify.com/album/370VB6PlhZCewKne2GolWt) | 5:57 |
 
-Snapshot ID: `AAAAAKX82FQPTpyeyXwKJDq7WnN7qt7G`
+Snapshot ID: `AAAAAAWdIjVdwfLPD5gHm7DeTxm1n5Io`

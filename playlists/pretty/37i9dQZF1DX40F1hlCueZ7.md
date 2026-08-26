@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 
 > Lo mejor del año  del mundo indie y alternativo, como Amaia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,036 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,053 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 | 57 | [Podría haber sido](https://open.spotify.com/track/2e9thHYozCbdZb4jQAFEGD) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [LBQ](https://open.spotify.com/album/3bhsRCGzdhvSDbjOjOtLod) | 2:58 |
 | 58 | [tiene que ser más fácil](https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [tiene que ser más fácil](https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa) | 3:50 |
 | 59 | [Eternamente Joven](https://open.spotify.com/track/4K8alAvQw15kEGvSzm3WgT) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.III\)](https://open.spotify.com/album/3N5Q9YAJAC2pM2CT7WUiQN) | 2:43 |
-| 60 | [Un beso y una flor](https://open.spotify.com/track/0Nud4e4UMarXudvjxS2bBA) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/1lz6YxwXcevEmYumlpqhk5) | 2:50 |
+| 60 | [Un beso y una flor](https://open.spotify.com/track/0Nud4e4UMarXudvjxS2bBA) | [Niños](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/1lz6YxwXcevEmYumlpqhk5) | 2:50 |
 
-Snapshot ID: `AAAAAAZspcN+ZZIKTF9tDUX96PYso33V`
+Snapshot ID: `AAAAAPMqtfgajn/ftPsE7lZYMtdV0S6r`

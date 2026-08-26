@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes met Langa! <a href="spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl">Check hier meer zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,173 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,166 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 74 | [LORO PIANA](https://open.spotify.com/track/5SXNdfEcNT0NQYoAjVD6xA) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [LORO PIANA](https://open.spotify.com/album/4p1dhq8QWbwbQaKBjJVe8l) | 2:10 |
 | 75 | [Like Me](https://open.spotify.com/track/1Hg54dQu3hi1Rp2Y2Z5nGc) | [BDLC](https://open.spotify.com/artist/0UBc2uIm71KuYr7JoA8O74) | [Like Me](https://open.spotify.com/album/5KxE40ZSS4DXVhlVIitQQL) | 2:39 |
 
-Snapshot ID: `AAAAAOP6lg7FaBmGzRjXBRsY1giW3aMU`
+Snapshot ID: `AAAAAMGIXyimohWGiBZd47jFrWzXZfrt`

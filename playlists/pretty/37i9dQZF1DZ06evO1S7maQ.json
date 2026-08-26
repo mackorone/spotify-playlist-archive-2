@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 666578,
+  "num_followers": 666596,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABclk+XWj/IauNMiYrhTzut",
+  "snapshot_id": "aouJgAAAAAD/HVOGGdOuP/cA1qwgOcG/",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
@@ -55,102 +39,6 @@
       "duration_ms": 196813,
       "name": "Streets of Philadelphia - Single Edit",
       "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 199452,
-      "name": "Hungry Heart",
-      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 159313,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 275347,
-      "name": "Tougher Than the Rest",
-      "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267853,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 299366,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
     },
     {
       "added_at": null,
@@ -171,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
       },
       "artists": [
         {
@@ -180,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 289186,
-      "name": "Thunder Road",
-      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+      "duration_ms": 199452,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
     {
       "added_at": null,
@@ -207,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
       "artists": [
         {
@@ -216,9 +104,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 257213,
-      "name": "Brilliant Disguise",
-      "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
+      "duration_ms": 267853,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
       "added_at": null,
@@ -239,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
       },
       "artists": [
         {
@@ -248,15 +136,15 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 258893,
-      "name": "Waitin' On A Sunny Day",
-      "url": "https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx"
+      "duration_ms": 299366,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
       "artists": [
         {
@@ -264,57 +152,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 243280,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tracks",
-        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Sad Eyes - Studio Outtake - 1990",
-      "url": "https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 277502,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 391552,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+      "duration_ms": 257213,
+      "name": "Brilliant Disguise",
+      "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
     },
     {
       "added_at": null,
@@ -335,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 277502,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lucky Town",
         "url": "https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h"
       },
@@ -351,70 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 211922,
-      "name": "I'm Goin' Down",
-      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 191315,
-      "name": "Tenth Avenue Freeze-Out",
-      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 290328,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "The Promised Land",
-      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only the Strong Survive",
         "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
@@ -427,54 +219,6 @@
       "duration_ms": 296906,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 262302,
-      "name": "One Step Up",
-      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Radio Nowhere",
-      "url": "https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tracks",
-        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Pink Cadillac - Single B-Side - 1984",
-      "url": "https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2"
     },
     {
       "added_at": null,
@@ -499,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
@@ -508,15 +252,15 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 266705,
-      "name": "The Ghost of Tom Joad",
-      "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
+      "duration_ms": 242343,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Wild, the Innocent & The E Street Shuffle",
-        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
       "artists": [
         {
@@ -524,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 424079,
-      "name": "Rosalita (Come Out Tonight)",
-      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
+      "duration_ms": 310080,
+      "name": "Human Touch - Single Edit",
+      "url": "https://open.spotify.com/track/68lxYbgjSltSxiDPeyQN3Q"
     },
     {
       "added_at": null,
@@ -551,22 +295,6 @@
       "duration_ms": 268838,
       "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
       "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruce Springsteen & The E Street Band Live 1975-85",
-        "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 390320,
-      "name": "Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",
-      "url": "https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu"
     },
     {
       "added_at": null,
@@ -639,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 416453,
-      "name": "Racing in the Street",
-      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
@@ -667,22 +379,6 @@
       "duration_ms": 205130,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 295493,
-      "name": "Letter To You",
-      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
     },
     {
       "added_at": null,
@@ -703,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 295493,
+      "name": "Letter To You",
+      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -715,38 +427,6 @@
       "duration_ms": 240226,
       "name": "Prove It All Night",
       "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 391764,
-      "name": "Backstreets",
-      "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 257594,
-      "name": "Out In the Street",
-      "url": "https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG"
     },
     {
       "added_at": null,
@@ -767,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
@@ -776,15 +456,15 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 274186,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU"
+      "duration_ms": 290253,
+      "name": "Darlington County",
+      "url": "https://open.spotify.com/track/3O5RCjnjWlF0CYkcvJaGVm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
       "artists": [
         {
@@ -792,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 573497,
-      "name": "Jungleland",
-      "url": "https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6"
+      "duration_ms": 236000,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
     },
     {
       "added_at": null,
@@ -815,8 +495,48 @@
     {
       "added_at": null,
       "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+        "name": "Dustland (feat. Bruce Springsteen)",
+        "url": "https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 264507,
+      "name": "Dustland (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Rainy Night in Soho",
+        "url": "https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        }
+      ],
+      "duration_ms": 272127,
+      "name": "A Rainy Night in Soho",
+      "url": "https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
       },
       "artists": [
         {
@@ -824,9 +544,297 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
+      "duration_ms": 237786,
+      "name": "Youngstown",
+      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 259171,
+      "name": "Girls In Their Summer Clothes",
+      "url": "https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "One Minute You're Here",
+      "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 349506,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "Mansion on the Hill",
+      "url": "https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 248119,
+      "name": "Lonesome Day",
+      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 354813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 274120,
+      "name": "Long Walk Home",
+      "url": "https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Highway Patrolman",
+      "url": "https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Cadillac Ranch",
+      "url": "https://open.spotify.com/track/2rYYg1HMvlNT9A1SdjSYlx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Bruce Springsteen (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "Trapped - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",
+      "url": "https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Working On A Dream",
+        "url": "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 210004,
+      "name": "Working On a Dream",
+      "url": "https://open.spotify.com/track/08QZBupqwLXOalOpgiTi5e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 190802,
+      "name": "Used Cars",
+      "url": "https://open.spotify.com/track/1LDz5dqGxxWSOxNWjuzclb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chimes of Freedom (Live) - EP",
+        "url": "https://open.spotify.com/album/19WSRDMLPZSOIRsOMiaSD5"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 399534,
+      "name": "Tougher Than The Rest - Live at LA Memorial Sports Arena, Los Angeles, CA - April 1988",
+      "url": "https://open.spotify.com/track/1to15krhDdpKKomyT8Ihit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 181341,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270280,
+      "name": "House Of A Thousand Guitars",
+      "url": "https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 299937,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/5A2wRK7ch9tg6k5iibUsgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 248625,
+      "name": "Reason to Believe",
+      "url": "https://open.spotify.com/track/7tRIpQDyq22qkjdk4mzBrq"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

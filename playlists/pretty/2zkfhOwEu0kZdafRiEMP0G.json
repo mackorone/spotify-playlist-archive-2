@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAHCO/+KuGLauftq0jAD0cRUH48jSIQ",
+  "snapshot_id": "AAAHCc3xrg+HncbXxn7wwO2dwOYywV2K",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -1523,6 +1523,22 @@
       "duration_ms": 231695,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/6UpYEpNUC5WcqBkONs33eM"
+    },
+    {
+      "added_at": "2026-08-25 02:34:56",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4Musyaro0NM5Awx8b5c627"
     }
   ],
   "unique_name": "idek man",

@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193199,
+      "name": "Against The Grain",
+      "url": "https://open.spotify.com/track/0trUJorcGfvDRoaqS8zawx"
+    },
+    {
+      "album": {
         "name": "Best of Me",
         "url": "https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P"
       },
@@ -2108,7 +2126,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 423156,
-      "name": "Testify (Live in LA)",
+      "name": "Testify - Live in LA",
       "url": "https://open.spotify.com/track/0tAfjwAoZwDJZS0KRn2SGQ"
     },
     {

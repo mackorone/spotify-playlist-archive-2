@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 616746,
+  "num_followers": 616888,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABn/d6Z3oGyFNBfL/XE5llh",
+  "snapshot_id": "aouJgAAAAADEJiYQZ9H4RJV2iZkmW+Wg",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "A Forest",
-      "url": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Japanese Whispers",
         "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 312240,
-      "name": "A Letter To Elise",
-      "url": "https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventeen Seconds",
         "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 218960,
       "name": "Play For Today",
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Let's Go To Bed",
+      "url": "https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
@@ -228,15 +228,15 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 212840,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz"
+      "duration_ms": 398933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 214160,
-      "name": "Let's Go To Bed",
-      "url": "https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin"
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Kiss Me Kiss Me Kiss Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ePzzwdioJqP6RsYMSMnlt"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 398933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+      "duration_ms": 193200,
+      "name": "Why Can't I Be You? - Remastered 2006",
+      "url": "https://open.spotify.com/track/4yvLuzn3JWfasEnHFVBbdM"
     },
     {
       "added_at": null,
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 408690,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss Me Kiss Me Kiss Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ePzzwdioJqP6RsYMSMnlt"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Why Can't I Be You? - Remastered 2006",
-      "url": "https://open.spotify.com/track/4yvLuzn3JWfasEnHFVBbdM"
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/4i5a73hGNtTXXmxEUW2esC"
     },
     {
       "added_at": null,
@@ -363,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 283086,
-      "name": "A Fragile Thing",
-      "url": "https://open.spotify.com/track/4i5a73hGNtTXXmxEUW2esC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
       },
@@ -411,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs Of A Lost World",
         "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
       },
@@ -439,6 +391,22 @@
       "duration_ms": 321101,
       "name": "All I Ever Am",
       "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
     },
     {
       "added_at": null,
@@ -459,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
       "artists": [
         {
@@ -468,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Primary",
-      "url": "https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI"
+      "duration_ms": 282786,
+      "name": "A Forest",
+      "url": "https://open.spotify.com/track/0o4S13NJiEdnzy67ZKoyFZ"
     },
     {
       "added_at": null,
@@ -523,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Cut Here",
-      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -555,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Cut Here",
+      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs Of A Lost World",
         "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
       },
@@ -567,22 +535,6 @@
       "duration_ms": 363460,
       "name": "I Can Never Say Goodbye",
       "url": "https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "M",
-      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
     },
     {
       "added_at": null,
@@ -619,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 257418,
-      "name": "Warsong",
-      "url": "https://open.spotify.com/track/2xKKz8S1y8F7aGzwK4oi1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
@@ -647,6 +583,22 @@
       "duration_ms": 261959,
       "name": "Doing The Unstuck",
       "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 257418,
+      "name": "Warsong",
+      "url": "https://open.spotify.com/track/2xKKz8S1y8F7aGzwK4oi1m"
     },
     {
       "added_at": null,
@@ -667,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fire In Cairo",
-      "url": "https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventeen Seconds",
         "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
@@ -695,38 +631,6 @@
       "duration_ms": 199000,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 279826,
-      "name": "To Wish Impossible Things",
-      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disintegration (Remastered)",
-        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 283880,
-      "name": "Last Dance - Remastered",
-      "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
     },
     {
       "added_at": null,
@@ -763,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
       "artists": [
         {
@@ -772,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 304640,
-      "name": "A Strange Day",
-      "url": "https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D"
+      "duration_ms": 283880,
+      "name": "Last Dance - Remastered",
+      "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
     },
     {
       "added_at": null,
@@ -795,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 410360,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/21BxZ4jL908jasBK4t1HqU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Top (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV"
       },
@@ -807,6 +727,86 @@
       "duration_ms": 221826,
       "name": "The Caterpillar",
       "url": "https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Galore - The Singles 1987-1997",
+        "url": "https://open.spotify.com/album/3jRLyc2t1tExfVpdB88EUm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Never Enough - Single Version",
+      "url": "https://open.spotify.com/track/7q7i45mATNoJg1QZd5NkEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 426013,
+      "name": "Homesick - Remastered",
+      "url": "https://open.spotify.com/track/21F3fMG5BEWbUSuwC3dv5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 393986,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 198506,
+      "name": "Six Different Ways - 2006 Remaster",
+      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "Just Say Yes",
+      "url": "https://open.spotify.com/track/5OAtuLbVAurDAtqcTyoL35"
     }
   ],
   "unique_name": "This Is The Cure",

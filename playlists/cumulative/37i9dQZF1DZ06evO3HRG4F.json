@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Dr. Hollywood",
+        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307640,
+      "name": "B\u00e1jale de Huevos",
+      "url": "https://open.spotify.com/track/30RhKloFNLHUaCdbPL3cGc"
+    },
+    {
+      "album": {
         "name": "Pares y Duetos: Disco 2",
         "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 301573,
       "name": "De Que el Amor Apesta Apesta - En Vivo",
       "url": "https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 206239,
       "name": "Las Encueradas",
       "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 317920,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7"
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 255746,
       "name": "Vaquero Rockanrolero",
       "url": "https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 256394,
       "name": "Vaquero Rockanrolero",
       "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"

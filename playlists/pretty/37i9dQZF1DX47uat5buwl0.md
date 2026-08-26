@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Antoon kiest 20 bangers voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,985 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,974 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 99 | [Drugsprobleem](https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk) | 2:44 |
 | 100 | [Zomer in NL](https://open.spotify.com/track/1YEMCWrZNYuinXS870FjFP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Zomer in NL](https://open.spotify.com/album/4d49Zsyb9LRxSiAF93uoBp) | 2:33 |
 
-Snapshot ID: `AAAAALxvd2KI4KVdkli7dgbO7JPsIalO`
+Snapshot ID: `AAAAAJw3IE8KuRB8YvvpZnb7hADYqeaW`

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Iben
+> The best new music by independent artists in the Nordics\. Cover: GB
 
-1,692 songs - 3 day 16 hr 57 min
+1,697 songs - 3 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [I Fell In Love In The Dance](https://open.spotify.com/track/2pZ44gPYwKV3dEAVEOm3NF) | [hi.jens](https://open.spotify.com/artist/1pa3THAd0q3skRNJEo8fof), [Emil James](https://open.spotify.com/artist/0GVWszNxgESXaMJFRbFS6Q) | [I Fell In Love In The Dance](https://open.spotify.com/album/76NDkoV90nyo8sy2jKl9xO) | 3:07 | 2025-02-13 | 2025-03-14 |
 | [i gotta go](https://open.spotify.com/track/2k3wJvbMhxcnMfRMkbJ5UG) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [i gotta go](https://open.spotify.com/album/3mdRsSTmet3TdnsRGSpywT) | 3:43 | 2025-10-23 | 2026-02-06 |
 | [I HATE IT!](https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v) | [Hanna Mel](https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8) | [I HATE IT!](https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82) | 2:58 | 2024-06-27 | 2024-08-23 |
+| [I Have to Buy Stuff](https://open.spotify.com/track/3uvTH8Tq39G6pQ2ZMJeeRC) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [I Have To Buy Stuff](https://open.spotify.com/album/39M5RUWcIKbFsLmk4UARqt) | 2:51 | 2026-08-25 |  |
 | [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/album/4q8hI8J9570eJLga2mquGM) | 3:50 | 2026-01-29 | 2026-04-15 |
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-05-30 | 2025-01-03 |
 | [I Know U Can Do It](https://open.spotify.com/track/2yBBWkH5lyOAuEGruZikX7) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [I Know U Can Do It](https://open.spotify.com/album/2fM5gS0X85TNMxD9EXl8u5) | 3:01 | 2025-10-30 | 2026-02-13 |
@@ -787,6 +788,7 @@
 | [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 | 2024-02-08 | 2024-03-15 |
 | [Just Me](https://open.spotify.com/track/7GSybnK7FpO884JDOlfNjY) | [Pish](https://open.spotify.com/artist/031RVClqaUebiDDv8bSDvh) | [Just Me](https://open.spotify.com/album/5FX7uCNFdaQ4sVGFj28ykB) | 3:14 | 2024-11-21 | 2024-12-05 |
 | [Just Yours \(Your Hell\)](https://open.spotify.com/track/6IINIwPsWoF5kEwCIcsA0N) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL), [Amanda Alexander](https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2) | [Enemy](https://open.spotify.com/album/2JcWwmyL0gDebUT18fZLnV) | 3:24 | 2024-11-28 | 2025-02-28 |
+| [KeenKeenKeen](https://open.spotify.com/track/6LMCwGXVVlEtkuJ7PEQ8TR) | [Sthlm Royalty](https://open.spotify.com/artist/3TL3k8pfLwQH5GUx4T6K38), [aka Hugo](https://open.spotify.com/artist/2B6Ekx8gNUrAhJWVkFjGT3), [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [KeenKeenKeen](https://open.spotify.com/album/66HEuNYGzl0G9v0tXPrmyx) | 2:27 | 2026-08-25 |  |
 | [Keep Forgetting](https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Keep Forgetting](https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj) | 2:53 | 2024-08-29 | 2025-01-18 |
 | [Keep It Simple](https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E) | [Melr](https://open.spotify.com/artist/6AGtYsLIZrn8KbtrJUP2Uu) | [Keep It Simple](https://open.spotify.com/album/42V3QZUhgYF2059NCTMg7u) | 3:02 | 2026-01-22 | 2026-04-02 |
 | [Keep on running off](https://open.spotify.com/track/2mgd2uGU3DWJG0NuR122Wh) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Keep on running off](https://open.spotify.com/album/5e172q7lNrtoi3BjDy58H1) | 3:00 | 2024-06-27 | 2024-08-23 |
@@ -903,6 +905,7 @@
 | [Love Is Only Fun with You](https://open.spotify.com/track/0CdR8LkcVr8YJEoLrTJ1Bh) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Love Is Only Fun with You](https://open.spotify.com/album/2Ag5VFOHDYXaBODmVbO1Y7) | 3:21 | 2024-07-25 | 2024-10-11 |
 | [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 | 2026-03-12 | 2026-04-02 |
 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 | 2025-01-30 | 2025-02-21 |
+| [Love Me](https://open.spotify.com/track/6sxPkot6EBYh5KRKzOfwBC) | [Selma Eriksen](https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz) | [Love Me](https://open.spotify.com/album/0Xt30AWKQG2VirORfC81tT) | 2:16 | 2026-08-25 |  |
 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 | 2024-02-08 | 2024-02-16 |
 | [Love You Right](https://open.spotify.com/track/0lc4pk8yFSCnQfXyGQLPqx) | [Deliverie](https://open.spotify.com/artist/1oGA7ikSikSgGvjtFE6rIU) | [Love You Right](https://open.spotify.com/album/79HZVKPc4jyPX24vbeyCyQ) | 2:48 | 2025-06-12 | 2025-08-01 |
 | [Loved By You](https://open.spotify.com/track/60kMTxFUxC7jbbBE3OQ8bK) | [Sofie Fjellvang](https://open.spotify.com/artist/5eVGdFYlPXJw7xjTCziQt5) | [Loved By You](https://open.spotify.com/album/2pEM7hbJOkpvMMRZMk2YMU) | 2:55 | 2024-02-08 | 2024-02-23 |
@@ -1154,6 +1157,7 @@
 | [Pile Of Wood](https://open.spotify.com/track/5VvrluL9oo4Sq4gvCyimcS) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Champion](https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn) | 3:10 | 2024-08-15 | 2024-10-04 |
 | [Pillow Fight](https://open.spotify.com/track/6IirflzATUKBV3DNTg8qDa) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Pillow Fight](https://open.spotify.com/album/2kueyYVrVm9XmgnLcc5Y6s) | 3:38 | 2024-08-08 | 2024-09-20 |
 | [Pink Skies](https://open.spotify.com/track/0zAFhX6GKUJiVFTRIu4pWM) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Pink Skies](https://open.spotify.com/album/2VJ9qCFsP8wIqZjoj6caC2) | 3:51 | 2026-06-02 | 2026-07-29 |
+| [Pipe Dream](https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Herzsprung](https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1) | 3:01 | 2026-08-25 |  |
 | [PIRAJA](https://open.spotify.com/track/2ofv8EUyAd0izryUdaNXTV) | [MAMI UMAMI](https://open.spotify.com/artist/1gXudtIPsBxon00193AQb9) | [PIRAJA](https://open.spotify.com/album/7CABo0JMsd0IvJWdzrQDPt) | 3:15 | 2025-06-12 | 2025-08-01 |
 | [Pisces Ocean](https://open.spotify.com/track/5v31JPDoK8YVFnVJAzCnLq) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Golden Rose](https://open.spotify.com/album/2ZTEUUBAQHdTTlAvoBtePS) | 2:45 | 2024-11-21 | 2024-12-05 |
 | [pixel heart](https://open.spotify.com/track/5tuBcdw0wZTVBFEumaX7zq) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [pixel heart](https://open.spotify.com/album/2JN3HJiXofIxU9pluRaH0m) | 3:04 | 2026-06-16 |  |
@@ -1270,6 +1274,7 @@
 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 | 2024-02-08 | 2024-03-08 |
 | [Sand Castles \- TMI Tammi Remix](https://open.spotify.com/track/0Zfim47YsmdgqxTXcf6Y6w) | [GRETA](https://open.spotify.com/artist/6qcpBIlSWMhas6waVUKCbK), [TMI Tammi](https://open.spotify.com/artist/4S9F9lnFpjsqvCMiBpvsNu) | [Sand Castles \(TMI Tammi Remix\)](https://open.spotify.com/album/6PmdHy3dE0H1NbBmKDPaAK) | 2:21 | 2024-02-22 | 2024-03-22 |
 | [Sarah Jessica Parker](https://open.spotify.com/track/7F2Yl1aIrS57wy0CpfekLN) | [Glayden](https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj) | [Sarah Jessica Parker](https://open.spotify.com/album/5MsgGwZ649JiyQa9b9j6yA) | 4:04 | 2026-06-30 |  |
+| [satisfied](https://open.spotify.com/track/0ThWbCApewgq1IHBxbh8XI) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [satisfied](https://open.spotify.com/album/39J0FWAD3mgg0Qz3CqH8sN) | 3:59 | 2026-08-25 |  |
 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 | 2025-09-25 | 2025-12-04 |
 | [Say Ciao](https://open.spotify.com/track/4vjpJ2eiOJk3ECQAt8CSFc) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Say Ciao](https://open.spotify.com/album/67WSfTA4VUaknSxrnygkUq) | 2:57 | 2025-06-05 | 2025-07-25 |
 | [Say It's Over](https://open.spotify.com/track/2Bld0ECkYEE0Txsgdkp0hA) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Say It's Over](https://open.spotify.com/album/5vTE6chsIaysIXnlqJ22zE) | 2:05 | 2025-03-27 | 2025-04-25 |

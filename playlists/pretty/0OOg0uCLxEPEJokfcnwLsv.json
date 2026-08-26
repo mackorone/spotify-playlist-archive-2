@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1257,
+  "num_followers": 1262,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAG2UIR9XF1TvvTXvPNhzPfH1yoGjUA",
+  "snapshot_id": "AAAG3fOuwBENUpxRzZ41Oee4BPdmwXZc",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1131,6 +1131,70 @@
       "duration_ms": 209706,
       "name": "Skinny Boyfriend",
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
+    },
+    {
+      "added_at": "2026-08-26 00:09:36",
+      "album": {
+        "name": "Rough Mix",
+        "url": "https://open.spotify.com/album/1Ze45BUNg2nH2rjysEeirm"
+      },
+      "artists": [
+        {
+          "name": "Sivan Langer",
+          "url": "https://open.spotify.com/artist/7ckVHLOYWQRV09kEoLOiqD"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Three Monkey Song",
+      "url": "https://open.spotify.com/track/2noQ7yK0sfWuIJC8gbf2PQ"
+    },
+    {
+      "added_at": "2026-08-26 00:12:06",
+      "album": {
+        "name": "BAIT",
+        "url": "https://open.spotify.com/album/0HkWj6I4OOaAfAHuIciqBS"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "BAIT",
+      "url": "https://open.spotify.com/track/2uVSAVSODR0UyYzIZG9AY7"
+    },
+    {
+      "added_at": "2026-08-26 00:18:56",
+      "album": {
+        "name": "When All is Said and Done",
+        "url": "https://open.spotify.com/album/2cYhf6h2XPwRbUhiyeb4du"
+      },
+      "artists": [
+        {
+          "name": "Jillian Ann",
+          "url": "https://open.spotify.com/artist/4fUrsaEHtekVVwgtwHC7YA"
+        }
+      ],
+      "duration_ms": 359400,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/4TYbC3ZCjA5tXAhClm0yUT"
+    },
+    {
+      "added_at": "2026-08-26 00:25:27",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le"
+      },
+      "artists": [
+        {
+          "name": "Solace in Me",
+          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r"
     }
   ],
   "unique_name": "Unsigned Rock",

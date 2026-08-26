@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 23055,
+  "num_followers": 23056,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABI0ENkWHdNcmv+B1zsjqjV9w4Dj",
+  "snapshot_id": "AAAAAP94L8ntll1dOcUwfBQrmtFh9joS",
   "tracks": [
     {
       "added_at": "2024-06-16 15:20:38",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "My Old Man",
-      "url": "https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
         "name": "At The Speed Of Life",
         "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 235400,
       "name": "The Foundation",
       "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "My Old Man",
+      "url": "https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS"
     },
     {
       "added_at": "2024-06-16 15:20:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: bombe
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,806 likes - 64 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,807 likes - 64 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 63 | [Burn the Bridges](https://open.spotify.com/track/4OYRrA8plQ4p2whMAvHaqX) | [Horse](https://open.spotify.com/artist/10C4K8Q8euwMy59wDBVWNL) | [Burn the Bridges](https://open.spotify.com/album/07i7Iq0mIc8h4TUDCbOegS) | 4:25 |
 | 64 | [C'est normal](https://open.spotify.com/track/6BGtsJWx1z2Azuc7Y9aVgy) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [C'est normal](https://open.spotify.com/album/2ih55fk339v9wUvBuB4b9c) | 4:16 |
 
-Snapshot ID: `AAAAAAvGobdQexfhMuSEa6IaCisWwNEd`
+Snapshot ID: `AAAAAJIU9xOFW4jgoNLnXUpVx5AOP4b+`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,475 likes - 70 songs - 3 hr 5 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,469 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Need No One \(feat\. VICI\)](https://open.spotify.com/track/00Q8DINwsW6Oe1kr62D2Lt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [VICI](https://open.spotify.com/artist/1VgmNNs0nqvTXv6mMdzyFk) | [Need No One \(feat\. VICI\)](https://open.spotify.com/album/3pIOWf5V8zS7V56vynnVDs) | 2:37 |
 | 2 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/0rGxIKdpNUy15kCLea8Woh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p3rk95jqISXQf26v9cz3u) | 2:32 |
-| 3 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 3 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 4 | [Turnt To A Target](https://open.spotify.com/track/4hPfHFjl9GDxR3uvpZ7DMh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Turnt To A Target](https://open.spotify.com/album/38nVQrUylnvcwOZIK9epvr) | 3:04 |
 | 5 | [REAL 1](https://open.spotify.com/track/5sqQJpw8b5FRtQiMboCFoe) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [THE WIZARD \(DELUXE\)](https://open.spotify.com/album/6epN6qmgx0NQwfXvKTnJbN) | 2:10 |
 | 6 | [PRINCE OF THE SCENE](https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PRINCE OF THE SCENE](https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e) | 1:56 |

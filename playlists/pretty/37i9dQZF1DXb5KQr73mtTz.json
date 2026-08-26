@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22166,
+  "num_followers": 22168,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxi7jrIDmv/IS1NWbLbnntvouRb",
+  "snapshot_id": "AAAAAAk6eHi45DY8eLxKVlwevl+qhEeF",
   "tracks": [
     {
       "added_at": "2026-04-29 09:21:42",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "Head over Heels, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5"
-      },
-      "artists": [
-        {
-          "name": "Choo young woo",
-          "url": "https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
         "name": "Phantom Lawyer, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1D0D9wTkMgUxTyVSAsNhNt"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 198000,
       "name": "Here I Am (Phantom Lawyer : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/1ymd1VFO6Rodf2hKVv03Ny"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
+        "name": "Head over Heels, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5"
+      },
+      "artists": [
+        {
+          "name": "Choo young woo",
+          "url": "https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I"
     },
     {
       "added_at": "2026-04-29 09:21:42",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "Empty words",
-        "url": "https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 252144,
-      "name": "Empty words",
-      "url": "https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
         "name": "Once again OST Part 1",
         "url": "https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
+        "name": "Empty words",
+        "url": "https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 252144,
+      "name": "Empty words",
+      "url": "https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg"
     },
     {
       "added_at": "2026-04-29 09:21:42",

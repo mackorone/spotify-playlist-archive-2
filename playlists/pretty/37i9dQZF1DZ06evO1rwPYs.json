@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107399,
+  "num_followers": 107396,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAD6nYmO9SocTu4PSPl3ii+K",
+  "snapshot_id": "aouJgAAAAAAmFJGPbfNdh7SfoEXqvhSA",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regalo Del Alma",
-        "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 250373,
-      "name": "Rie y Llora",
-      "url": "https://open.spotify.com/track/63knvuoSPpfzIwdDuWRSoV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/0iwS6wwKRVN1h1tf0BgQxC"
       },
@@ -171,54 +155,6 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/7nflSbrgBCitUnW4psdR7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
-        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
-      },
-      "artists": [
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Jeni Fujita",
-          "url": "https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2"
-        }
-      ],
-      "duration_ms": 270493,
-      "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
-      "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 'Brillante' Best",
-        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
     },
     {
       "added_at": null,
@@ -399,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 327466,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -443,6 +359,26 @@
       "duration_ms": 274826,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
       "added_at": null,
@@ -531,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Vasos Vacios",
-      "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only They Could Have Made This Album (Remastered 2024)",
         "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
       },
@@ -587,26 +503,6 @@
       "duration_ms": 175600,
       "name": "Melao De Ca\u00f1a",
       "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes \u00c9xitos De Celia Cruz",
-        "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Guede Zaina",
-      "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
     },
     {
       "added_at": null,
@@ -651,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/4fTZTSPkgeyUxtQeyCnjfh"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 326043,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/1yMMuYe547pEE0LgKkdG8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Vivir\u00e9",
         "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
       },
@@ -703,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 308933,
-      "name": "La Sopa En Botella",
-      "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -739,6 +599,26 @@
       "duration_ms": 163666,
       "name": "Tuya, Y M\u00e1s Que Tuya",
       "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 308933,
+      "name": "La Sopa En Botella",
+      "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
     },
     {
       "added_at": null,
@@ -935,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+        "name": "Etc. Etc. Etc.",
+        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
       },
       "artists": [
         {
@@ -944,9 +824,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 223466,
-      "name": "Dos D\u00edas en la Vida",
-      "url": "https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c"
+      "duration_ms": 180207,
+      "name": "Az\u00facar, Az\u00facar",
+      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
     },
     {
       "added_at": null,
@@ -967,22 +847,6 @@
       "duration_ms": 217478,
       "name": "Sabor Gitano",
       "url": "https://open.spotify.com/track/6Pf8k23JUFjnLk6oBiv14o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Etc. Etc. Etc.",
-        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 180207,
-      "name": "Az\u00facar, Az\u00facar",
-      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
     },
     {
       "added_at": null,
@@ -1091,6 +955,142 @@
       "duration_ms": 257160,
       "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
       "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira (Remastered 2025)",
+        "url": "https://open.spotify.com/album/1kmTAexmlUr0sN1bAEmNW2"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 151115,
+      "name": "Esperar\u00e9 - Remastered 2025",
+      "url": "https://open.spotify.com/track/31ENOVq4bqIsnhZ2CaroBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/2ECJDdT0Tg3PDWXedljsTj"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Cuba Que Lindos Son Tus Paisajes (with Celia Cruz)",
+      "url": "https://open.spotify.com/track/3JMV9j4FT9hElS9yjcuwKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celia Cruz Centennial",
+        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Az\u00facar Negra",
+        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Amores De Un D\u00eda",
+      "url": "https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celia y Willie",
+        "url": "https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "Dos Jueyes",
+      "url": "https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 478173,
+      "name": "Enc\u00e1ntigo",
+      "url": "https://open.spotify.com/track/1LNJ3Ne0gSkGGhkjYMtTN3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Rock And Roll",
+      "url": "https://open.spotify.com/track/6lcU1mpbQHV3iRj4XJDr87"
     }
   ],
   "unique_name": "This Is Celia Cruz",

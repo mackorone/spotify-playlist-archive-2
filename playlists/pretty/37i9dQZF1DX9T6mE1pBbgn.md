@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T6mE1pBbgn.md) - [plain]
 
 > Enjoy the ILLIT FAN CONCERT \[GLITTER DAY\] LIVE SET including the voices of them on stage! \(아일릿의 무대 멘트와 목소리가 포함된 \[GLITTER DAY\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,886 likes - 14 songs - 32 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,885 likes - 14 songs - 32 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T6mE1pBbgn.md) - [plain]
 | 9 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 |
 | 10 | [IYKYK \(If You Know You Know\)](https://open.spotify.com/track/31UtyhPu6vu9LJBzoygDiQ) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:24 |
 | 11 | [Talk \- IYKYK \(If You Know You Know\)](https://open.spotify.com/track/7t3pGxIGQopos2suK4tT76) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [ILLIT FAN CONCERT \[GLITTER DAY\]](https://open.spotify.com/album/1MgJylDPFRngFjSdAkPtVe) | 2:20 |
-| 12 | [Almond Chocolate \(Korean Ver.\)](https://open.spotify.com/track/6L2DSQ4tjyyTnPAOQDVfCr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Almond Chocolate \(Korean Ver.\)](https://open.spotify.com/album/775URHH5FqYCkzxswNR7nZ) | 3:21 |
+| 12 | [Almond Chocolate \- Korean Ver.](https://open.spotify.com/track/6L2DSQ4tjyyTnPAOQDVfCr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Almond Chocolate \(Korean Ver.\)](https://open.spotify.com/album/775URHH5FqYCkzxswNR7nZ) | 3:21 |
 | 13 | [Ending Comment](https://open.spotify.com/track/6KQLdVl8645teaS5zLTCmN) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [ILLIT FAN CONCERT \[GLITTER DAY\]](https://open.spotify.com/album/1MgJylDPFRngFjSdAkPtVe) | 1:33 |
 | 14 | [I'll Like You](https://open.spotify.com/track/2v7aUMUc1kerJyaRmIx9zd) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:07 |
 
-Snapshot ID: `AAAAAGQ4DjZjv7uQVBXMgLgWW2O/w1et`
+Snapshot ID: `AAAAAA4hbZD4ODSb8IyVf0dx04NN2P4s`

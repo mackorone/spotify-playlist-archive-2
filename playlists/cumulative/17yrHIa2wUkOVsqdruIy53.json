@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 34.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 35.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 149677,
       "name": "ABC",
       "url": "https://open.spotify.com/track/2o4hGAMyIiRavhCdhZTJMD"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 143130,
       "name": "ALLEIN",
       "url": "https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 117906,
       "name": "Berlin calling",
       "url": "https://open.spotify.com/track/17WXmsUDHzaNZlSlB3xR6b"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 261266,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
@@ -5816,6 +5816,24 @@
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
+    },
+    {
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
       "album": {
@@ -7418,7 +7436,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -8326,7 +8344,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -8570,6 +8588,28 @@
       "duration_ms": 166906,
       "name": "Mitten in der Nacht",
       "url": "https://open.spotify.com/track/4MxKZPqKG1YIKkloGt82Pv"
+    },
+    {
+      "album": {
+        "name": "MO' MONEY MO' HATERS",
+        "url": "https://open.spotify.com/album/1LxVJL1XpcvVD84ZRssFHB"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142313,
+      "name": "MO' MONEY MO' HATERS",
+      "url": "https://open.spotify.com/track/5wNL9XBGoMjeZM3FzkpnMm"
     },
     {
       "album": {
@@ -10149,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "RAHEEM",
+        "url": "https://open.spotify.com/album/7Erm1ZwzWeyyvDs0KMK6ha"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130370,
+      "name": "RAHEEM",
+      "url": "https://open.spotify.com/track/4xltR68cjUkYyjuYK09ESR"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -10468,7 +10526,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -10576,7 +10634,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183257,
       "name": "ROOF VOLLER STARS",
       "url": "https://open.spotify.com/track/27daTOuLKfly6Qu518HNJD"
@@ -10953,6 +11011,24 @@
     },
     {
       "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186475,
+      "name": "Sebebi Yar",
+      "url": "https://open.spotify.com/track/1gd1TicErR4bwjR3CYxyra"
+    },
+    {
+      "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
@@ -11320,7 +11396,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 138855,
       "name": "SIXPACK",
       "url": "https://open.spotify.com/track/2f5YQWx6uqfR9QUnLzmwTg"
@@ -13569,6 +13645,28 @@
     },
     {
       "album": {
+        "name": "Verschwommen",
+        "url": "https://open.spotify.com/album/2ZsqkEcR7NVtW65rRDTQoO"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128735,
+      "name": "Verschwommen",
+      "url": "https://open.spotify.com/track/1km0nSYg3uFU7ezuRbbwyL"
+    },
+    {
+      "album": {
         "name": "Vielleicht Vielleicht",
         "url": "https://open.spotify.com/album/3xunU89Mwwaw3gbwwLg0BX"
       },
@@ -13646,6 +13744,24 @@
       "duration_ms": 147472,
       "name": "Vollmond",
       "url": "https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz"
+    },
+    {
+      "album": {
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Von hier an blind",
+      "url": "https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU"
     },
     {
       "album": {
@@ -14914,7 +15030,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 146470,
       "name": "YMM",
       "url": "https://open.spotify.com/track/7w4mUC2hLqH6lZ2v5jm8nD"

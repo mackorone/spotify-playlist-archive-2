@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,325 likes - 241 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,323 likes - 241 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 | 77 | [IYKYK \(If You Know You Know\)](https://open.spotify.com/track/31UtyhPu6vu9LJBzoygDiQ) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:24 |
 | 78 | [I'll Like You](https://open.spotify.com/track/2v7aUMUc1kerJyaRmIx9zd) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:07 |
 | 79 | [Comment from ILLIT 2](https://open.spotify.com/track/4XVIJmZHGt9LMQKujBcOBo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Weverse Con Festival 2025](https://open.spotify.com/album/0NHvuAS9wWHCRH9E0GRiia) | 0:58 |
-| 80 | [Almond Chocolate \(Korean Ver.\)](https://open.spotify.com/track/6L2DSQ4tjyyTnPAOQDVfCr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Almond Chocolate \(Korean Ver.\)](https://open.spotify.com/album/775URHH5FqYCkzxswNR7nZ) | 3:21 |
+| 80 | [Almond Chocolate \- Korean Ver.](https://open.spotify.com/track/6L2DSQ4tjyyTnPAOQDVfCr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Almond Chocolate \(Korean Ver.\)](https://open.spotify.com/album/775URHH5FqYCkzxswNR7nZ) | 3:21 |
 | 81 | [Comment from ILLIT 3](https://open.spotify.com/track/5HbANubcIDZFyCLVmImtGU) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Weverse Con Festival 2025](https://open.spotify.com/album/0NHvuAS9wWHCRH9E0GRiia) | 2:36 |
 | 82 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 |
 | 83 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 | 240 | [Comment from TOMORROW X TOGETHER 4](https://open.spotify.com/track/4C0aptvfs2NXDedayPCjkM) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Weverse Con Festival 2025](https://open.spotify.com/album/0NHvuAS9wWHCRH9E0GRiia) | 2:22 |
 | 241 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |
 
-Snapshot ID: `AAAAAKRvrwYt1a5lONoGRyw4dRKDmrsI`
+Snapshot ID: `AAAAAGflEmJZ4N4g1QTIlgz7v0nKWclX`

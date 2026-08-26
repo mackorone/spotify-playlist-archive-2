@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 
 > This is Aldous Harding\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,171 likes - 37 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,175 likes - 37 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 6 | [Coats](https://open.spotify.com/track/2ck5LysJdg1BbMqaLzr0XT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:28 |
 | 7 | [Blend](https://open.spotify.com/track/1VJtHbJ5aNXB6fDVWMMxW0) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 2:29 |
 | 8 | [Treasure](https://open.spotify.com/track/1WHoY2uSPpewqUm80q4d68) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:11 |
-| 9 | [Titus Groan](https://open.spotify.com/track/4MD3p4I6z0kLqm85Mlyklp) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:17 |
+| 9 | [Titus Alone](https://open.spotify.com/track/4S4BG20TWQtuYmpJLOzVUe) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:17 |
 | 10 | [Train on the Island](https://open.spotify.com/track/34HkzjN1ieQeiHKmq1w6cw) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 5:35 |
 | 11 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 12 | [Weight of the Planets](https://open.spotify.com/track/1l5sITewMRl7AVtep3M3XO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:43 |
-| 13 | [Titus Alone](https://open.spotify.com/track/4S4BG20TWQtuYmpJLOzVUe) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:17 |
+| 13 | [Titus Groan](https://open.spotify.com/track/4MD3p4I6z0kLqm85Mlyklp) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:17 |
 | 14 | [Worms](https://open.spotify.com/track/0I3cVuHuONIPRXZP7Ee14Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:53 |
 | 15 | [Fever](https://open.spotify.com/track/2wymwkZMbYWNzr1kY69Aze) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 4:17 |
 | 16 | [Fixture Picture](https://open.spotify.com/track/1MZPteit5RISR1rqp6YnnW) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:07 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 36 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 |
 | 37 | [Elation](https://open.spotify.com/track/0TY3pVvegcVfdQ7nzF2KRP) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elation](https://open.spotify.com/album/1lm0XRk446YYNyD8mFgunU) | 5:25 |
 
-Snapshot ID: `aoo4AAAAAADJ+5Abiul4JPc4i4++i01c`
+Snapshot ID: `aouJgAAAAABqJkCTDrfTqRJevRliTnEH`

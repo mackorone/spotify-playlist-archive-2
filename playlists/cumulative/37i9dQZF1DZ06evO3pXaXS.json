@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 173600,
       "name": "Behind My Camel",
       "url": "https://open.spotify.com/track/3ubCAVpBwpNiFpeOShjNTt"
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/77s4ZSCcSpDSwJWNCS0b4W"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "Born In The 50's - Live In Boston, 1979 / Remastered 2003",
+      "url": "https://open.spotify.com/track/7akiEAOzhCSGEQCufx7Iso"
+    },
+    {
+      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -106,10 +124,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 255213,
       "name": "Bring On The Night",
       "url": "https://open.spotify.com/track/4EkNINvDLeGgIL4zYGsYPb"
+    },
+    {
+      "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/77s4ZSCcSpDSwJWNCS0b4W"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316533,
+      "name": "Bring On The Night - Live In Boston, 1979 / Remastered 2003",
+      "url": "https://open.spotify.com/track/1UXY9bfUBxcHbp4n0tkRwF"
     },
     {
       "album": {
@@ -196,7 +232,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 193866,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/2zGmWtewQWYWMZMptybOMg"
@@ -520,7 +556,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 172893,
       "name": "Hungry For You",
       "url": "https://open.spotify.com/track/6xK4wLYwSszCXsiPhOhG4I"
@@ -574,7 +610,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 192013,
       "name": "It's Alright For You",
       "url": "https://open.spotify.com/track/5fTI7JCaMRK09WtwG8ZrRK"
@@ -632,6 +668,24 @@
       "duration_ms": 119920,
       "name": "Loch",
       "url": "https://open.spotify.com/track/2cZsLKCtoJ5rCqknUzDkTi"
+    },
+    {
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/1EmsYXYl7TP5kv0A3P9qLi"
     },
     {
       "album": {
@@ -700,7 +754,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 119946,
       "name": "Miss Gradenko",
       "url": "https://open.spotify.com/track/1HAy3OuIEMm7ArA4Ec52ym"
@@ -754,7 +808,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 176973,
       "name": "On Any Other Day",
       "url": "https://open.spotify.com/track/6rN4PWNTD8AY1mfLslqrQG"
@@ -808,10 +862,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 234800,
       "name": "Peanuts",
       "url": "https://open.spotify.com/track/7Jsli31ZTv3TI28qcXzEkE"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Re-Humanise Yourself",
+      "url": "https://open.spotify.com/track/2JyVV8vBL5IyjRQ6TC1ztN"
     },
     {
       "album": {
@@ -826,7 +898,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 185133,
       "name": "Reggatta De Blanc",
       "url": "https://open.spotify.com/track/2EEp2vTGSRDSLHWUF80EZZ"
@@ -880,7 +952,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 213693,
       "name": "Secret Journey",
       "url": "https://open.spotify.com/track/1klFQ3R5AN86f0moMUdSYS"
@@ -934,7 +1006,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 289586,
       "name": "So Lonely",
       "url": "https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX"
@@ -1006,10 +1078,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 300466,
       "name": "Synchronicity II",
       "url": "https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe"
+    },
+    {
+      "album": {
+        "name": "Certifiable (Live in Buenos Aires)",
+        "url": "https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383400,
+      "name": "Synchronicity II - Live From River Plate Stadium, Buenos Aires",
+      "url": "https://open.spotify.com/track/4N8Nz9mvPlbflRD0pFFZw9"
     },
     {
       "album": {
@@ -1028,6 +1118,24 @@
       "duration_ms": 259493,
       "name": "Tea In The Sahara",
       "url": "https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L"
+    },
+    {
+      "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/77s4ZSCcSpDSwJWNCS0b4W"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292960,
+      "name": "Tea In The Sahara - Live In Atlanta, 1983 / Remastered 2003",
+      "url": "https://open.spotify.com/track/28l6igiVg6HmICg94TZghf"
     },
     {
       "album": {
@@ -1132,7 +1240,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 233253,
       "name": "Voices Inside My Head",
       "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
@@ -1172,6 +1280,24 @@
       "duration_ms": 216800,
       "name": "Walking In Your Footsteps",
       "url": "https://open.spotify.com/track/363cVHJDjrYIkN5HcIAGCx"
+    },
+    {
+      "album": {
+        "name": "Certifiable (Live in Buenos Aires)",
+        "url": "https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275760,
+      "name": "Walking In Your Footsteps - Live From River Plate Stadium, Buenos Aires",
+      "url": "https://open.spotify.com/track/0NgI1X1RvQW1tFhgWggAqo"
     },
     {
       "album": {
@@ -1230,7 +1356,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 216666,
       "name": "When The World Is Running Down, You Make The Best Of What's Still Around",
       "url": "https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9"

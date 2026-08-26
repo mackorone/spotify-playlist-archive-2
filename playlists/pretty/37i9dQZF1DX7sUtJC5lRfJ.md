@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,217 likes - 32 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,224 likes - 32 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 26 | [Tình Yêu Ngủ Quên](https://open.spotify.com/track/2MjpqyEA73TzenhDmj0RFN) | [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f), [LYHAN](https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy) | [Tình Yêu Ngủ Quên](https://open.spotify.com/album/4zrlMRfQ6NxqK6JvpxeTwj) | 2:57 |
 | 27 | [Từ Đầu](https://open.spotify.com/track/7AAnw2xzxKplhRa0nCpM9i) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Từ Đầu](https://open.spotify.com/album/5ta4BkE2WfbV50RZi5Ziiy) | 5:09 |
 | 28 | [Lá Ngọc Cành Vàng](https://open.spotify.com/track/0vbmSk6huZt5H6vhpfI6BX) | [Kiều Anh](https://open.spotify.com/artist/3hlJ2qli6WvQaJ1FqyTP02) | [Lá Ngọc Cành Vàng](https://open.spotify.com/album/0PudQio1QykKKekRWXfEdm) | 3:42 |
-| 29 | [Come My Way \(softer version\)](https://open.spotify.com/track/331pu1rdL2Yn7Z3F1RNXBR) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Come My Way \(softer version\)](https://open.spotify.com/album/43alGrjxDlHq4hrqkiS1mJ) | 3:26 |
+| 29 | [Come My Way \- softer version](https://open.spotify.com/track/331pu1rdL2Yn7Z3F1RNXBR) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Come My Way \(softer version\)](https://open.spotify.com/album/43alGrjxDlHq4hrqkiS1mJ) | 3:26 |
 | 30 | [Dịu Dàng Dịu Dàng](https://open.spotify.com/track/1Ey8kzGN2TJyjkiPvBUQ5s) | [Ái Phương](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Dịu Dàng Dịu Dàng](https://open.spotify.com/album/63tLvLUbTrK3dt61ly72UH) | 2:59 |
 | 31 | [mới hôm qua](https://open.spotify.com/track/1ZjICQJECU0rO8Vf6AOVbv) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ÁNH SÁNG • MÀN ĐÊM](https://open.spotify.com/album/6k7nuWjzJRXCxolrOr56C0) | 3:16 |
 | 32 | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/track/6ELX356o21U28T73ZxruUj) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/album/4qCaDixeJX4LXWMZs6rVyl) | 4:34 |
 
-Snapshot ID: `AAAAAMMOF4oVIbywiV+z4eHQbwr6M95G`
+Snapshot ID: `AAAAADqO1pwf3duRYD/sGk6e9ZdUaDm5`

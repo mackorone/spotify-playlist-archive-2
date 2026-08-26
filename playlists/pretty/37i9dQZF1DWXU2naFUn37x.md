@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Artie 5ive in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,491 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,508 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 54 | [OLÈ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:05 |
 | 55 | [RODRIGO RISIVI](https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [RODRIGO RISIVI](https://open.spotify.com/album/35tkrI72FDhu3SlSjdqrt4) | 2:44 |
 
-Snapshot ID: `AAAAAAdVDsFLi9VGfcEeA3YZsSscheCJ`
+Snapshot ID: `AAAAANQ8JYaPPfI6BX/4g4Dsz1tjfAPa`

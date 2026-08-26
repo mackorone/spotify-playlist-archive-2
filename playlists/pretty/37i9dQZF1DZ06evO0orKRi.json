@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25793,
+  "num_followers": 25790,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAClU5U8PiH6ZwfAkmJlkcDh",
+  "snapshot_id": "aouJgAAAAADUInDYVz/QCfIQgjvfz944",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Leave Him In The Long Yard",
+      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duncan (Y.O.G.A. Remix)",
         "url": "https://open.spotify.com/album/1Gx6CWJlcJBrm4S0fLvCOI"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 117488,
       "name": "Duncan - Y.O.G.A. Remix",
       "url": "https://open.spotify.com/track/0waZRDs36r4RuqX8sK0YZc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Leave Him In The Long Yard",
-      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Piece of Australia (Remastered)",
-        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 132093,
-      "name": "Cunnamulla Fella - 1998 Remaster",
-      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No. 50 - The Golden Anniversary Album",
         "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 180906,
       "name": "A Pub With No Beer - 1979 Version",
       "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Piece of Australia (Remastered)",
+        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 132093,
+      "name": "Cunnamulla Fella - 1998 Remaster",
+      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
     },
     {
       "added_at": null,
@@ -323,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 169666,
-      "name": "Highway Fever - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
+      "duration_ms": 174466,
+      "name": "Pushin' Time",
+      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights On The Hill (Remastered)",
-        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Pushin' Time",
-      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
+      "duration_ms": 169666,
+      "name": "Highway Fever - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Give Me Room",
-      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man Who Steadies The Lead",
         "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
       },
@@ -751,22 +735,6 @@
       "duration_ms": 267973,
       "name": "No Man's Land - 1992 - Remaster",
       "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "And The Band Played Waltzing Matilda - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/4O9L3Uau0ZbjMhXcnGrJCy"
     },
     {
       "added_at": null,
@@ -791,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "And The Band Played Waltzing Matilda - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/4O9L3Uau0ZbjMhXcnGrJCy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+      "duration_ms": 174333,
+      "name": "Give Me Room",
+      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 174773,
       "name": "Old Time Country Halls",
       "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     }
   ],
   "unique_name": "This Is Slim Dusty",

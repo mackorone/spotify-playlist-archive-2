@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16646,
+  "num_followers": 16649,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADS3TIRqbZ6OrK+HnZvAHyh",
+  "snapshot_id": "aouJgAAAAADmJ7czRv9igKiS+e3iMIyS",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/54y5nUFqtxTan8dQHkImL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Until the End",
         "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 235933,
       "name": "Career Suicide",
       "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/54y5nUFqtxTan8dQHkImL9"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 166786,
-      "name": "Die My Darling",
-      "url": "https://open.spotify.com/track/5uk5KmlJbMMiCK5DNKHSaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Until the End",
         "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 253400,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 166786,
+      "name": "Die My Darling",
+      "url": "https://open.spotify.com/track/5uk5KmlJbMMiCK5DNKHSaM"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+        "name": "Brackish (Live)",
+        "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
       },
       "artists": [
         {
@@ -516,25 +516,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 171773,
-      "name": "We Are The Lamb",
-      "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "My Plague",
-      "url": "https://open.spotify.com/track/3Riuyxso4Zj3w1IVUw3waL"
+      "duration_ms": 172334,
+      "name": "Brackish (Live)",
+      "url": "https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 329506,
       "name": "Look So Pretty",
       "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "My Plague",
+      "url": "https://open.spotify.com/track/3Riuyxso4Zj3w1IVUw3waL"
     },
     {
       "added_at": null,
@@ -580,25 +580,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 131853,
-      "name": "I've Failed You",
-      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
+      "duration_ms": 221773,
+      "name": "Empires (Part 2)",
+      "url": "https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brackish (Live)",
-        "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 172334,
-      "name": "Brackish (Live)",
-      "url": "https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG"
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,
@@ -647,22 +631,6 @@
       "duration_ms": 238038,
       "name": "Witch Hunt",
       "url": "https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Sorrow I Know",
-      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
     },
     {
       "added_at": null,
@@ -692,15 +660,15 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Forgive And Forget",
-      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
+      "duration_ms": 210160,
+      "name": "Sorrow I Know",
+      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
       "artists": [
         {
@@ -708,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 221773,
-      "name": "Empires (Part 2)",
-      "url": "https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V"
+      "duration_ms": 224160,
+      "name": "Forgive And Forget",
+      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
     }
   ],
   "unique_name": "This Is Kittie",

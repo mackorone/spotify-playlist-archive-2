@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Angine de Poitrine",
-  "num_followers": 77628,
+  "num_followers": 77637,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAJdTDh7Jea155UKIL58lfJIQHJn",
+  "snapshot_id": "AAAAACFrGFoaRaxZbNknzu341iaicDWy",
   "tracks": [
     {
       "added_at": "2026-07-10 01:13:08",
@@ -949,26 +949,6 @@
       "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94"
     },
     {
-      "added_at": "2026-07-10 01:13:08",
-      "album": {
-        "name": "We Might as Well Be Strangers (ft. Wednesday)",
-        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "We Might as Well Be Strangers (ft. Wednesday)",
-      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
-    },
-    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "sTraNgeRs",
@@ -999,6 +979,26 @@
       "duration_ms": 198026,
       "name": "Digital Silence",
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "added_at": "2026-07-10 01:13:08",
+      "album": {
+        "name": "We Might as Well Be Strangers (ft. Wednesday)",
+        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 183573,
       "name": "Loud Bark",
       "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "The Sheepdogs (Deluxe)",
-        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "The Human Condition",
         "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 235672,
       "name": "Again",
       "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "The Sheepdogs (Deluxe)",
+        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
     },
     {
       "added_at": "2026-05-06 20:31:40",

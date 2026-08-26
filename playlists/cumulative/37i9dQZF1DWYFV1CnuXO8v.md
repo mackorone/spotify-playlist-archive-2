@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-354 songs - 22 hr 34 min
+355 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 | 2023-05-23 |
 | [Edeeny Forsa](https://open.spotify.com/track/5NF3iP4QiFYEOaoABVXJIp) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Asl El Ehsas](https://open.spotify.com/album/7dYTATIl9SI7IquLQGh8hm) | 3:34 | 2023-09-29 | 2023-10-02 |
 | [Ediny Forsa](https://open.spotify.com/track/0upAh0hDpgOStY7FBzAG1f) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Asl El Ehsas](https://open.spotify.com/album/0XXg30QU75wrbEi6H93p9u) | 3:36 | 2023-09-08 | 2023-10-10 |
+| [El Ayah](https://open.spotify.com/track/2dG8oLvpO61OsmDo2U1Oy8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Ayah](https://open.spotify.com/album/30NGKVgfo8xRh6UugCieTv) | 3:30 | 2026-08-25 |  |
 | [El Dalo3a](https://open.spotify.com/track/2K4ieVCCeraEIXiTCgPAXW) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [El Dalo3a](https://open.spotify.com/album/6bTn0ckB0jj1huHBq4AXvZ) | 3:00 | 2023-09-08 | 2023-09-15 |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2023-02-13 | 2023-05-23 |
 | [El Hob El Ha2e2y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha2e2y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 | 2023-02-13 |  |
@@ -160,7 +161,7 @@
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 | 2023-02-13 |  |
 | [Khalik Fakrny](https://open.spotify.com/track/7DYa99MDxGMIFouOh8bHdi) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Amarain](https://open.spotify.com/album/6lFQUzUQr4KlZP2joLPY7z) | 3:26 | 2026-05-12 |  |
 | [Khatawa](https://open.spotify.com/track/3N6DYmCVTZs2Oy4arj7RqN) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Khatawa](https://open.spotify.com/album/3nNkVRG6vn79jqu1tmlPHP) | 3:20 | 2023-02-13 | 2023-04-06 |
-| [Khodni Eleik](https://open.spotify.com/track/35NvGLU38ElWqhd7NW659s) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:32 | 2024-06-26 |  |
+| [Khodni Eleik](https://open.spotify.com/track/35NvGLU38ElWqhd7NW659s) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:32 | 2024-06-26 | 2026-08-26 |
 | [Kol El Habiba](https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Kol El Habiba](https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA) | 4:47 | 2024-04-25 |  |
 | [Kol El Hob Da](https://open.spotify.com/track/39u0WVuE7dweTP5ZBcZ01i) | [Ghada Ragab](https://open.spotify.com/artist/2mUS8rHeilrnszk67wezKV) | [Kol El Hob Da](https://open.spotify.com/album/65YLbC1rTXfXnkHisk86JD) | 4:10 | 2023-09-08 | 2023-11-07 |
 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 | 2023-07-13 |  |

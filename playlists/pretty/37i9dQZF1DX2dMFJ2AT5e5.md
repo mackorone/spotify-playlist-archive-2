@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > De Wembley al Azteca\. Los cantos que mueven al estadio\. Maná en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,934 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,927 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 29 | [El Corrido De Monterrey](https://open.spotify.com/track/1CTIs7OmI0qaYjmX1c8DKU) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Ilumina Señor A México](https://open.spotify.com/album/1xSrVuzjzj8yoSrB4WAH3V) | 3:43 |
 | 30 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 |
 
-Snapshot ID: `AAAAAAhZi9G4gNLGIBhsrYv8VvLSlyrc`
+Snapshot ID: `AAAAAMMikLiUosasHgVCViUw9nJJQj9C`

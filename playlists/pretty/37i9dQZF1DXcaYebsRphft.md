@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『ILLIT LIVE 'PRESS START︎︎❤' in JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,458 likes - 26 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,455 likes - 26 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 3 | [IYKYK \(If You Know You Know\)](https://open.spotify.com/track/31UtyhPu6vu9LJBzoygDiQ) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:24 |
 | 4 | [bamsopoong](https://open.spotify.com/track/3INETdToKVgt2vfp1wYBFw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:19 |
 | 5 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
-| 6 | [Cherish \(My Love\) \(Moonlight Remix\)](https://open.spotify.com/track/2dqI8Lc6Ocss0M0jOrVeIo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 3:23 |
+| 6 | [Cherish \(My Love\) \- Moonlight Remix](https://open.spotify.com/track/2dqI8Lc6Ocss0M0jOrVeIo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 3:23 |
 | 7 | [I'll Like You](https://open.spotify.com/track/2v7aUMUc1kerJyaRmIx9zd) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:07 |
 | 8 | [Pimple](https://open.spotify.com/track/1ZPwN2BYeKssfv4avkzyKI) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:40 |
 | 9 | [Almond Chocolate](https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Almond Chocolate](https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO) | 3:21 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 25 | [oops!](https://open.spotify.com/track/1tO6hb9Ym7aTV8hJ31tLjr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:41 |
 | 26 | [Message from IROHA](https://open.spotify.com/track/1jPda57cKSslt4R6mv64RN) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Message from ILLIT](https://open.spotify.com/album/2ObocO8p64NG4F1GKfdoQn) | 0:14 |
 
-Snapshot ID: `AAAAAJgn9TTogeMAcxewxUXp4nIA1BX7`
+Snapshot ID: `AAAAAOthyKh6zEQshyfXnSotUa3iK9/n`

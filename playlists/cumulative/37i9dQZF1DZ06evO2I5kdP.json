@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 245270,
       "name": "11: 11",
       "url": "https://open.spotify.com/track/3FZ7zfIKqDA7Ggdh8YSzli"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 424273,
       "name": "And Instantly Take Effect",
       "url": "https://open.spotify.com/track/3jCxGUOiUPbTIo6dVekl1H"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 110360,
       "name": "Arp",
       "url": "https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 243898,
       "name": "Lair 10",
       "url": "https://open.spotify.com/track/4ICfUmLK13c9zPEggxIbbf"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 71000,
       "name": "Out of office",
       "url": "https://open.spotify.com/track/5TkUaF6MwF1hsPw72J6InV"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 468112,
       "name": "Pillar 3",
       "url": "https://open.spotify.com/track/0wxxcLgZtAFaJP5ClM3s91"
@@ -1240,6 +1240,24 @@
       "duration_ms": 410000,
       "name": "Pottery Fragments",
       "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
+    },
+    {
+      "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266122,
+      "name": "Prelude for Juan",
+      "url": "https://open.spotify.com/track/4QQcMBClVyZYPoEGmgkGQB"
     },
     {
       "album": {
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 222747,
       "name": "Small Choir",
       "url": "https://open.spotify.com/track/3NHVzKfiThQeeyG395TNFA"
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 76949,
       "name": "Super Interlude Pt. 1",
       "url": "https://open.spotify.com/track/4IJ2Bbi3alh0JmMVuLAKzm"
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 202279,
       "name": "Tongue Shaped Rock",
       "url": "https://open.spotify.com/track/4Sb6iUxcBR9rvcCRmozowE"
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 211626,
       "name": "Vancouver Island Quartet",
       "url": "https://open.spotify.com/track/4S8IPAhjIxeYdJl6mDmGIp"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 103931,
       "name": "Your Changes Have Been Submitted",
       "url": "https://open.spotify.com/track/14ZvL9Wc06Rw6MMyZxJnIu"

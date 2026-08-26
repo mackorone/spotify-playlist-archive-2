@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 642214,
+  "num_followers": 642355,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMsXOCUqdEcVQe1RDLlH/4RYGGXl",
+  "snapshot_id": "AAAAANrE713g5I5rI2PW80eN54brPPlE",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-14 04:01:23",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 734333,
-      "name": "In/Flux",
-      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
-    },
-    {
-      "added_at": "2026-08-14 04:01:23",
-      "album": {
         "name": "Blow Your Headphones",
         "url": "https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 408000,
       "name": "A Mother (For Your Mind)",
       "url": "https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3"
+    },
+    {
+      "added_at": "2026-08-14 04:01:23",
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 734333,
+      "name": "In/Flux",
+      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
     },
     {
       "added_at": "2026-08-14 04:01:23",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2026-08-14 04:01:23",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
         }
       ],
-      "duration_ms": 352000,
-      "name": "Electric Lazyland",
-      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
+      "duration_ms": 346160,
+      "name": "Take Nine",
+      "url": "https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp"
     },
     {
       "added_at": "2026-08-14 04:01:23",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2026-08-14 04:01:23",
       "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
         }
       ],
-      "duration_ms": 346160,
-      "name": "Take Nine",
-      "url": "https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp"
+      "duration_ms": 352000,
+      "name": "Electric Lazyland",
+      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
     },
     {
       "added_at": "2026-08-14 04:01:23",

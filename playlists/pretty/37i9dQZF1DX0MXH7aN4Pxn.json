@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 725052,
+  "num_followers": 725007,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMF4USTDxz46HcJKjGP9RQt31tjG",
+  "snapshot_id": "AAAAAOKZKIjx3/gjjRihWutgrSvi/4tE",
   "tracks": [
     {
       "added_at": "2026-07-02 23:00:04",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-07-02 23:00:04",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 197549,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2026-07-02 23:00:04",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
+    },
+    {
+      "added_at": "2026-07-02 23:00:04",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2026-07-02 23:00:04",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2026-07-02 23:00:04",
       "album": {
-        "name": "They Don't Know (Radio Edit)",
-        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 161726,
-      "name": "They Don't Know - Radio Edit",
-      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
-    },
-    {
-      "added_at": "2026-07-02 23:00:04",
-      "album": {
         "name": "If Your Girl",
         "url": "https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k"
       },
@@ -1975,22 +1959,38 @@
     {
       "added_at": "2026-07-02 23:00:04",
       "album": {
-        "name": "Push The Tempo",
-        "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
+        "name": "They Don't Know (Radio Edit)",
+        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
         }
       ],
-      "duration_ms": 161829,
-      "name": "Push The Tempo",
-      "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
+      "duration_ms": 161726,
+      "name": "They Don't Know - Radio Edit",
+      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
+    },
+    {
+      "added_at": "2026-07-02 23:00:04",
+      "album": {
+        "name": "Where Do We Go (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Where Do We Go (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
     }
   ],
   "unique_name": "PARTY MODE",

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157943,
+  "num_followers": 157941,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6Gs2a9XFqUyXy16xCYTXv5CJ88",
+  "snapshot_id": "AAAAABsNbp1WaIBYBWqHkYjZ+mpygbVe",
   "tracks": [
     {
       "added_at": "2026-05-21 12:03:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 305979,
-      "name": "Vi pumper hjertet op",
-      "url": "https://open.spotify.com/track/1cfMhTjfBjnnTkbs2chWzD"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 305979,
+      "name": "Vi pumper hjertet op",
+      "url": "https://open.spotify.com/track/1cfMhTjfBjnnTkbs2chWzD"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Kogeplade",
-        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Kogeplade",
-      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "beholder mit t\u00f8j p\u00e5",
         "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 188425,
       "name": "beholder mit t\u00f8j p\u00e5",
       "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Kogeplade",
+        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Vi ku' g\u00e5 hele vejen",
-        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
+        "name": "Den nye pige",
+        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
         }
       ],
-      "duration_ms": 206745,
-      "name": "Vi ku' g\u00e5 hele vejen",
-      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
+      "duration_ms": 169851,
+      "name": "Den nye pige",
+      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Den nye pige",
-        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
+        "name": "Vi ku' g\u00e5 hele vejen",
+        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
         }
       ],
-      "duration_ms": 169851,
-      "name": "Den nye pige",
-      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
+      "duration_ms": 206745,
+      "name": "Vi ku' g\u00e5 hele vejen",
+      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Dagdr\u00f8mmeri",
+        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 188963,
+      "name": "Dagdr\u00f8mmeri",
+      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "\u00d8delagt Byen (feat. Augusta Schackinger)",
         "url": "https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 157021,
       "name": "\u00d8delagt Byen (feat. Augusta Schackinger)",
       "url": "https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Dagdr\u00f8mmeri",
-        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 188963,
-      "name": "Dagdr\u00f8mmeri",
-      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "v\u00e5gner",
         "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 193983,
       "name": "r\u00f8r ved hinanden (feat. Chris Burton)",
       "url": "https://open.spotify.com/track/50Kk0GqslIy4RnZ2ekLVog"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Det \u00d8nsker Jeg For Dig (feat. Burhan G)",
         "url": "https://open.spotify.com/album/2Wd7GUiG8M5y6hSpMxT3Kd"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 205978,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-05-21 12:03:22",

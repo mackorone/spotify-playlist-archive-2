@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73238,
+  "num_followers": 73249,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABHugssxnRnSSrrrlop+Oklqqzfq",
+  "snapshot_id": "AAAAAKYWndzv/6py/hZY9ErrreDfXf67",
   "tracks": [
     {
       "added_at": "2026-08-07 14:24:16",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
         "name": "Desalinho",
         "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Sexto Sentido",
-      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Aprendi a Viver S\u00f3",
+      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
         "name": "FORA DA LEI",
         "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
       },
       "artists": [
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
         }
       ],
-      "duration_ms": 198101,
-      "name": "Aprendi a Viver S\u00f3",
-      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
+      "duration_ms": 279412,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -479,22 +495,6 @@
       "duration_ms": 190993,
       "name": "Jeito Certo",
       "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
-      },
-      "artists": [
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        }
-      ],
-      "duration_ms": 279412,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
       "artists": [
         {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
         }
       ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -587,22 +603,6 @@
       "duration_ms": 220728,
       "name": "Fim\u2026",
       "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Passageiro do Bem - LADO B",
-        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Voc\u00ea Merece",
-      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Dias Calmos",
         "url": "https://open.spotify.com/album/5PPpz2nNIQbFj6AjoNHQDe"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 136901,
       "name": "Dias Calmos",
       "url": "https://open.spotify.com/track/7xLwWDt22A5fsFDAPBKBIt"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Passageiro do Bem - LADO B",
+        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Voc\u00ea Merece",
+      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
     },
     {
       "added_at": "2026-08-07 14:24:16",

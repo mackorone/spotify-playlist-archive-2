@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 48571,
+  "num_followers": 48572,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADdhHE6TAFXeP30XrUy1hIj",
+  "snapshot_id": "aouJgAAAAAAtGTaDTe8+tDyd+85YedzW",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "The Plateaux Of Mirror - Remastered 2004",
-      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -363,22 +343,6 @@
       "duration_ms": 181933,
       "name": "The Big Ship - 2004 Remaster",
       "url": "https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 727080,
-      "name": "1/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
     },
     {
       "added_at": null,
@@ -499,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -531,6 +479,22 @@
       "duration_ms": 194453,
       "name": "The Pearl - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before And After Science",
+        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "By This River - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8"
     },
     {
       "added_at": null,
@@ -579,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before And After Science",
-        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "By This River - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -624,9 +572,29 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Deep Blue Day - Remastered 2005",
-      "url": "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
+      "duration_ms": 202773,
+      "name": "Under Stars II - Remastered 2005",
+      "url": "https://open.spotify.com/track/1zeqghK8uQXeEbIQJna4NX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
     },
     {
       "added_at": null,
@@ -647,22 +615,6 @@
       "duration_ms": 265962,
       "name": "I Saw You",
       "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 4: On Land (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "A Clearing - Remastered 2004",
-      "url": "https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26"
     },
     {
       "added_at": null,
@@ -716,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 202773,
-      "name": "Under Stars II - Remastered 2005",
-      "url": "https://open.spotify.com/track/1zeqghK8uQXeEbIQJna4NX"
+      "duration_ms": 275186,
+      "name": "Weightless - Remastered 2005",
+      "url": "https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb"
     },
     {
       "added_at": null,
@@ -787,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Green World (2004 Remaster)",
-        "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
         {
@@ -796,25 +748,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 101706,
-      "name": "Another Green World - 2004 Remaster",
-      "url": "https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 4: On Land (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 326866,
-      "name": "Unfamiliar Wind (Leeks Hills) - Remastered 2004",
-      "url": "https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A"
+      "duration_ms": 480280,
+      "name": "Stars - Remastered 2005",
+      "url": "https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh"
     },
     {
       "added_at": null,
@@ -871,6 +807,62 @@
       "duration_ms": 247146,
       "name": "Spring Frost",
       "url": "https://open.spotify.com/track/0H2bToqKlvyx0K7dbPSlOb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Green World (2004 Remaster)",
+        "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "St Elmo's Fire - Remastered 2004",
+      "url": "https://open.spotify.com/track/0UROPTHqU5C7TI1N8wOkIF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+      },
+      "artists": [
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Wind On Wind",
+      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Verdigris",
+      "url": "https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp"
     }
   ],
   "unique_name": "This Is Brian Eno",

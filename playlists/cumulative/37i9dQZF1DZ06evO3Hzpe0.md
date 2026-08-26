@@ -4,7 +4,7 @@
 
 > This is Carl Carlton\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 5 min
+50 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Don’t You Wanna Make Love](https://open.spotify.com/track/07G0J1Z8SPfZeIAZWx1QXS) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 4:02 | 2025-12-18 |  |
 | [Drop By My Place](https://open.spotify.com/track/71DMqKYyDkS1otrkh0vR1x) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:47 | 2025-12-18 | 2025-12-24 |
 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 | 2025-12-18 |  |
-| [Fighting In The Name Of Love](https://open.spotify.com/track/1tElwTh2KSprYI9SUIJmpM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:26 | 2026-05-18 | 2026-08-21 |
+| [Fighting In The Name Of Love](https://open.spotify.com/track/1tElwTh2KSprYI9SUIJmpM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:26 | 2026-05-18 |  |
 | [Free Fine and 21](https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:57 | 2025-12-18 |  |
 | [God Is Good](https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [God Is Good](https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z) | 4:20 | 2025-12-18 |  |
 | [Hold On a Little Longer](https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Hold On a Little Longer](https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq) | 3:21 | 2025-12-18 |  |
@@ -33,7 +33,7 @@
 | [Love Thang](https://open.spotify.com/track/3K2FwvRcDicgE61er9rM2h) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Love Thang](https://open.spotify.com/album/2Z64FBRqcaeKjfVM4YPVOs) | 3:51 | 2025-12-18 |  |
 | [Malaga Airport \- Night Beats Mix](https://open.spotify.com/track/3Rp5DybTxMSr6seDyuNQjo) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [House Dj Set, Vol\. 3](https://open.spotify.com/album/0J1UklpBuJzV8Aj1cJHVKP) | 3:21 | 2025-12-18 |  |
 | [Mama's Boy](https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:10 | 2025-12-18 |  |
-| [Milkcow's Calf Blues](https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Mauro Spina](https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx) | [Hellhound On My Trail: Songs Of Robert Johnson](https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex) | 2:24 | 2025-12-18 |  |
+| [Milkcow's Calf Blues](https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Mauro Spina](https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx) | [Hellhound On My Trail: Songs Of Robert Johnson](https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex) | 2:24 | 2025-12-18 | 2026-08-26 |
 | [Morning Noon And Nightime](https://open.spotify.com/track/3TSokwmbHnVbiYQ0XApkb3) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 3:40 | 2026-03-10 |  |
 | [Never Got Over You](https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:05 | 2025-12-18 |  |
 | [One More Minute](https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [One More Minute](https://open.spotify.com/album/3jndkU4mOLfouW54RprLar) | 4:41 | 2025-12-18 |  |
@@ -41,7 +41,8 @@
 | [Private Revibe](https://open.spotify.com/track/0HoxL5hk97ccPyrS50ccAb) | [Claudio Souza Mattos](https://open.spotify.com/artist/4iw9h6vEM5MdeIhu3ziMDp), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Revibe](https://open.spotify.com/album/0Ae4jrAHXyNKxD91BY4ZW4) | 4:53 | 2025-12-18 |  |
 | [Release Soul \- Long Island Mix](https://open.spotify.com/track/1ZkDqpq8ak5GQapv9BNJVx) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Dubbin on the Dancefloor, Vol\. 1 \(House Dubs & Deep Tracks\)](https://open.spotify.com/album/6cekweXZKnBrFkNSgsYkfm) | 3:14 | 2025-12-18 |  |
 | [Saturday](https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Saturday](https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U) | 4:40 | 2025-12-18 |  |
-| [Sexy Lady](https://open.spotify.com/track/1Q6m9ybTeZRgMnkhPZuNJs) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 5:24 | 2025-12-18 |  |
+| [Sexy Lady](https://open.spotify.com/track/6VucazvcECsPs5eM7K8qNu) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [MegaMix Funk](https://open.spotify.com/album/0xqZeYYu0PYUUMgF1Ku9gD) | 3:36 | 2026-08-26 |  |
+| [Sexy Lady](https://open.spotify.com/track/1Q6m9ybTeZRgMnkhPZuNJs) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 5:24 | 2025-12-18 | 2026-08-26 |
 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:55 | 2025-12-18 |  |
 | [Smokin' Room](https://open.spotify.com/track/1Hmm0C4IccbRODCp5vUGBU) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 3:33 | 2025-12-18 |  |
 | [Spend the Night](https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 6:18 | 2025-12-18 | 2026-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,589 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,610 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 41 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
 | 42 | [Fitzcarraldo](https://open.spotify.com/track/4FAN7gg5LPWtEsX2xie3XV) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [Fitzcarraldo](https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu) | 6:08 |
 | 43 | [King's Call](https://open.spotify.com/track/3x3oEFoQzTwqrMLj6Zufgf) | [Phil Lynott](https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7) | [Solo In Soho](https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c) | 3:38 |
-| 44 | [Flame](https://open.spotify.com/track/2147WIWlvQkAMW8l0QZWF7) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Flock](https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD) | 3:53 |
-| 45 | [The Rocker](https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:15 |
+| 44 | [The Rocker](https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:15 |
+| 45 | [Flame](https://open.spotify.com/track/2147WIWlvQkAMW8l0QZWF7) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Flock](https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD) | 3:53 |
 | 46 | [Parachute](https://open.spotify.com/track/12h3ZVYHOEMLBA3NDo5zGd) | [Something Happens](https://open.spotify.com/artist/6V7D7M2wECmGR8eBp9r4Kx) | [Stuck Together With God's Glue](https://open.spotify.com/album/0VC8DNqENeIyGehHX5nsuV) | 4:30 |
 | 47 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
 | 48 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
 | 49 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 |
 | 50 | [When We Were Young](https://open.spotify.com/track/4qrZQgux5HbzKblPGFY0y0) | [Whipping Boy](https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2) | [Heartworm](https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ) | 2:50 |
 
-Snapshot ID: `AAAAANX4Aw09KAEVSNq2pP/hPq4Ca9l+`
+Snapshot ID: `AAAAAHi+byboeTGqDiww0LXbOdhs9cyG`

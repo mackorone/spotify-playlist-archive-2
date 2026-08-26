@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: JUNIOR\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Aziz Konkrite\. Artwork: Isu Kim
 
 542 songs - 1 day 4 hr 24 min
 

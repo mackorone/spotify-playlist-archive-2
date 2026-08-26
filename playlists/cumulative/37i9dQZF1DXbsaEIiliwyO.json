@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Lehre der Rose",
+        "url": "https://open.spotify.com/album/1HPun9tYXr9jHr2nk297S8"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "BLACK SHOUT - (10th anniv. ver.)",
+      "url": "https://open.spotify.com/track/1HfPagEyxGNlU0W1iwUTpr"
+    },
+    {
+      "album": {
         "name": "Bloody Liar",
         "url": "https://open.spotify.com/album/1oU9RnBIPknsbhA6timxeh"
       },
@@ -524,6 +542,24 @@
       "duration_ms": 216040,
       "name": "Drown Out the Noise and Push Through the Trash",
       "url": "https://open.spotify.com/track/7kgpuDQ0n9nFfYxttuECjg"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
     },
     {
       "album": {
@@ -2626,7 +2662,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 234766,
       "name": "\u3053\u308c\u306f\u307c\u304f\u305f\u3061\u306e\u751f\u5b58\u306e\u3042\u3089\u3059\u3058",
       "url": "https://open.spotify.com/track/51pypU0qsKgWwiPdMuCzmi"
@@ -4726,7 +4762,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 171000,
       "name": "\u9006\u69d8",
       "url": "https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn"

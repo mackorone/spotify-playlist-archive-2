@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0XlmFrZ1K5.md) - [plain]
 
 > Enjoy songs from artists appearing on THE GLOW 2026! \(THE GLOW 2026의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,987 likes - 76 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991 likes - 76 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0XlmFrZ1K5.md) - [plain]
 | 75 | [The Weakest](https://open.spotify.com/track/36cMs0d2TC5Hs7keii0hp4) | [24th](https://open.spotify.com/artist/4akrpG8RfXOP6F6DjLe4nV) | [The Weakest](https://open.spotify.com/album/3ZNY6p2IhQagEPlbWudkVt) | 3:40 |
 | 76 | [Summer Cold](https://open.spotify.com/track/5ZH0eXW5Zgj9XDo8WbL9iW) | [24th](https://open.spotify.com/artist/4akrpG8RfXOP6F6DjLe4nV) | [Summer Cold](https://open.spotify.com/album/6PrTbpVDMRI8rROUrfYAeY) | 4:18 |
 
-Snapshot ID: `AAAAAAo16D+Pe3nPLQqxflDiUe4/Nwcb`
+Snapshot ID: `AAAAALc5rD5Cle+ltxt03KiRNW3gegdv`

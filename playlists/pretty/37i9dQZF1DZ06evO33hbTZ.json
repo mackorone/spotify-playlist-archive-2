@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6092,
+  "num_followers": 6096,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACyq5MhZIyLX6tJb2TWJKAR",
+  "snapshot_id": "aouJgAAAAACl8Jc5Tj/FO7eLxc2N+b3b",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 200969,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take It All (Live)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 520293,
       "name": "Jesus, Lamb Of God - Live",
       "url": "https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 200969,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi"
     },
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "20Minutes Spontaneous Deep Worship",
-        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
+        "name": "According To Brother Nwachukwu",
+        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
       },
       "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 1270909,
-      "name": "20Minutes Spontaneous Deep Worship",
-      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
+      "duration_ms": 193207,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
     },
     {
       "added_at": null,
@@ -471,26 +475,6 @@
       "duration_ms": 234586,
       "name": "Absolutely Nothing",
       "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "According To Brother Nwachukwu",
-        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 193207,
-      "name": "Onyeoma",
-      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,990 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,004 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 68 | [U KNOW](https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [U KNOW](https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB) | 3:42 |
 | 69 | [Pumpin \- Robbie Doherty Remix](https://open.spotify.com/track/5UHWWKPPfPhMnq2qub3Fwh) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Pumpin \(Robbie Doherty Remix\)](https://open.spotify.com/album/0pwEhzuMwkadGXLd7ZFEeK) | 5:30 |
 | 70 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
-| 71 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
-| 72 | [Boujee](https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Boujee](https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ) | 2:32 |
+| 71 | [Boujee](https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Boujee](https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ) | 2:32 |
+| 72 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 | 73 | [Don’t Forget My Love](https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu) | 3:19 |
 | 74 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
 | 75 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 77 | [Get Buck](https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Get Buck](https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl) | 2:30 |
 | 78 | [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 |
 | 79 | [Never Come Back](https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro) | 5:05 |
-| 80 | [if you wanna party, come over to my house \- Eli Escobar Remix](https://open.spotify.com/track/1obXMs0oyVrL1Q8nUEOV1n) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [if you wanna party, come over to my house \(Eli Escobar Remix\)](https://open.spotify.com/album/3ODn6pp0jhX5dD3utiadBd) | 5:14 |
+| 80 | [Face 2 Face](https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392) | [Face 2 Face](https://open.spotify.com/album/1Hb12RMgFSsYtdhw4bqc97) | 3:41 |
 
-Snapshot ID: `AAAAAD+XAQHWTqGO9mhpXQYGpU+6WeOe`
+Snapshot ID: `AAAAAEvPF7sO/9m0UfRdD4RBOFsxv+F+`

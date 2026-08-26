@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3893690,
+  "num_followers": 3893515,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGV9lbvf6gaYPRFCxfysNfn5CPnU",
+  "snapshot_id": "AAAAAHxCNGg2mY/5joUBByw2Mm51k5Lj",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:13",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Sweet Release",
-        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
-      },
-      "artists": [
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        }
-      ],
-      "duration_ms": 226101,
-      "name": "Sweet Release",
-      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 175708,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Sweet Release",
+        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
+      },
+      "artists": [
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        }
+      ],
+      "duration_ms": 226101,
+      "name": "Sweet Release",
+      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "duration_ms": 199450,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "I Cared For You",
         "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 270476,
       "name": "I Cared For You",
       "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Ren Ocean",
-          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
-        }
-      ],
-      "duration_ms": 199450,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "One Love (Nobody Else)",
+        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "One Love (Nobody Else)",
+      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 195812,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "One Love (Nobody Else)",
-        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 217487,
-      "name": "One Love (Nobody Else)",
-      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Somewhere In Between",
-        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Sun & Rain",
         "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 200640,
       "name": "Sun & Rain",
       "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "This Is Our Life",
-        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "This Is Our Life",
-      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1523,18 +1503,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+        "name": "This Is Our Life",
+        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
       "artists": [
         {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
         }
       ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+      "duration_ms": 268560,
+      "name": "This Is Our Life",
+      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1551,6 +1535,38 @@
       "duration_ms": 210500,
       "name": "All Is Right",
       "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1587,22 +1603,6 @@
       "duration_ms": 222148,
       "name": "Fire To The Water",
       "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1691,18 +1691,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
         }
       ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+      "duration_ms": 248000,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 273442,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "the art of letting go",
         "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 274000,
       "name": "the art of letting go",
       "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 273442,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Screen",
         "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 246147,
       "name": "Screen",
       "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
         }
       ],
-      "duration_ms": 205161,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU"
+      "duration_ms": 232440,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
     }
   ],
   "unique_name": "Chill Tracks",

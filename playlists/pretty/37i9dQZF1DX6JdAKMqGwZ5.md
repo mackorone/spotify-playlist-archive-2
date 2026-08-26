@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Nico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,691 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,686 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 2 | [La Boca del Lobo](https://open.spotify.com/track/3KMdnYhFgFMPOmWYc7Alx4) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [La Boca del Lobo](https://open.spotify.com/album/6FbPApCJOcvGgZvGbcsckq) | 3:40 |
 | 3 | [El mejor verano de la vida](https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL) | [Smile](https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o) | [El mejor verano de la vida](https://open.spotify.com/album/1gTXbQtT1bSiEUpvm7GmhJ) | 3:26 |
 | 4 | [Huir](https://open.spotify.com/track/7oNgiONvRB2OEtf04QO7I0) | [Nico](https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET) | [Huir](https://open.spotify.com/album/2YlxbQw0ydp9I7Xa0tPEiX) | 2:18 |
-| 5 | [Un beso y una flor](https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx) | 2:50 |
+| 5 | [Un beso y una flor](https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG) | [Niños](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx) | 2:50 |
 | 6 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |
 | 7 | [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 |
 | 8 | [flores](https://open.spotify.com/track/4iyFSLbG83uQk3R3VFjzrj) | [natxo](https://open.spotify.com/artist/6P7AHRoOhZJBgVjOuPL64R), [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [flores](https://open.spotify.com/album/6jEDnIHxmmMODa1pkXmlNd) | 2:57 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Sé Que Te Vas A Ir](https://open.spotify.com/track/25riTX5vEOraVZcYqPkBrw) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Sé Que Te Vas A Ir](https://open.spotify.com/album/2qW2gVKVFU8aKQMTgLDvC1) | 2:49 |
 | 120 | [SEÑAL](https://open.spotify.com/track/1DE1jMSSQcIzDQgFcJnKAI) | [CRISTALINO](https://open.spotify.com/artist/3MNLGEDFGdv7WYDy2YbCtZ), [Jaime Beltrán](https://open.spotify.com/artist/65N5bB3AeOdqACl8wHepaA) | [Destello, señal, hilo y alba](https://open.spotify.com/album/5TvLGH3WC2txxLpx4UqsZm) | 4:07 |
 
-Snapshot ID: `AAAAAE+xwIoxth2lm2Gh2K32PAz47p+8`
+Snapshot ID: `AAAAAMRxBk9rNmR2ecGCfbNPX9NSndUZ`

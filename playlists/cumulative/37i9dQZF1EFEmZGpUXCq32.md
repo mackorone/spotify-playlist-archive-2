@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 8 hr 29 min
+127 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24th & Lake \(feat\. Cory Henry & Robert Sput Searight\)](https://open.spotify.com/track/6uPjhxRjo2uNf9EnFyOi8B) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Curly](https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert ‘Sput’ Searight](https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun) | [Curly](https://open.spotify.com/album/2nU5t7MkLCpkq07YkJv6vf) | 5:49 | 2024-05-01 |  |
 | [2AM](https://open.spotify.com/track/2eejBNyr1D9QDOxOSwS9DU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:34 | 2024-05-01 |  |
 | [Afro Brooklyn \(feat\. Phil Lassiter\)](https://open.spotify.com/track/00SP1LwpXjWInNKeBxjyWZ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Phil Lassiter](https://open.spotify.com/artist/264Py7hwwoMAarZeA3OcGr) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:53 | 2024-05-01 |  |
+| [Against The Grain](https://open.spotify.com/track/0trUJorcGfvDRoaqS8zawx) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:13 | 2026-08-25 |  |
 | [Alone](https://open.spotify.com/track/0654qpngLbRcjdIvgkhFhO) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:16 | 2024-05-01 |  |
 | [Anything 4 U](https://open.spotify.com/track/6FWR1UWLMp8mPtl2tHEFHr) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:48 | 2024-05-01 |  |
 | [Back When](https://open.spotify.com/track/3k7iWFyEWddfdOSgOgml2t) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:18 | 2024-05-01 |  |
@@ -115,7 +116,7 @@
 | [Spook](https://open.spotify.com/track/7umDQBZF1qudei5WqO0Ygj) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c), [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL) | [Spook](https://open.spotify.com/album/347qJZdcoABaKLoC5hnGMv) | 4:52 | 2024-05-01 |  |
 | [Switch](https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:16 | 2024-05-01 |  |
 | [Takes All Time](https://open.spotify.com/track/5pymHGITzflbYApm8qZfGx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 5:03 | 2024-05-01 |  |
-| [Testify \(Live in LA\)](https://open.spotify.com/track/0tAfjwAoZwDJZS0KRn2SGQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Art of Love \(Live in LA\)](https://open.spotify.com/album/7575MmvKNIEh6puvpyMfoL) | 7:03 | 2024-05-01 |  |
+| [Testify \- Live in LA](https://open.spotify.com/track/0tAfjwAoZwDJZS0KRn2SGQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Art of Love \(Live in LA\)](https://open.spotify.com/album/7575MmvKNIEh6puvpyMfoL) | 7:03 | 2024-05-01 |  |
 | [Testimony \(Live At The Piano\)](https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Live At The Piano](https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe) | 0:52 | 2024-05-01 |  |
 | [That Third Thing](https://open.spotify.com/track/0FtSH8ysKakj66F3iRZc8J) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:10 | 2024-05-01 |  |
 | [The Fool](https://open.spotify.com/track/6IODcVjWGEyQMn4WplPOxV) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:12 | 2024-05-01 |  |

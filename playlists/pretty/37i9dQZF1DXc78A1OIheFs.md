@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,378 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,377 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 32 | [halftime oranges](https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [halftime oranges](https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d) | 3:33 |
 | 33 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 34 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
-| 35 | [Bless the Broken Road](https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Bless the Broken Road](https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D) | 3:10 |
-| 36 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
-| 37 | [24/7](https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [24/7](https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY) | 3:18 |
+| 35 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
+| 36 | [24/7](https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [24/7](https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY) | 3:18 |
+| 37 | [Bless the Broken Road](https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Bless the Broken Road](https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D) | 3:10 |
 | 38 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 |
 | 39 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 | 40 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 55 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
 | 56 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 |
 | 57 | [BLEED](https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BLEED](https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2) | 3:35 |
-| 58 | [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 |
-| 59 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
-| 60 | [No Excuses](https://open.spotify.com/track/0PuxAQgCYmfLBabuVR7OlY) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [No Excuses](https://open.spotify.com/album/7gCGb9oTHGniVU8yjXOtnf) | 3:31 |
-| 61 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
-| 62 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
-| 63 | [tomato baby](https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [tomato baby](https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV) | 2:48 |
-| 64 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
-| 65 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
-| 66 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
-| 67 | [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 |
-| 68 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
-| 69 | [me > you](https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG) | [Imani\-J](https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk) | [me > you](https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u) | 2:40 |
+| 58 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
+| 59 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
+| 60 | [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 |
+| 61 | [No Excuses](https://open.spotify.com/track/0PuxAQgCYmfLBabuVR7OlY) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [No Excuses](https://open.spotify.com/album/7gCGb9oTHGniVU8yjXOtnf) | 3:31 |
+| 62 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
+| 63 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
+| 64 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
+| 65 | [tomato baby](https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [tomato baby](https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV) | 2:48 |
+| 66 | [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 |
+| 67 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
+| 68 | [me > you](https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG) | [Imani\-J](https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk) | [me > you](https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u) | 2:40 |
+| 69 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
 | 70 | [Brown Sugar](https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Brown Sugar](https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe) | 3:09 |
 | 71 | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 |
 | 72 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
 | 73 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
 | 74 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 |
-| 75 | [Coats](https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Coats](https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv) | 3:28 |
+| 75 | [Letting Love Die](https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g) | [Heidi Simpson](https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9) | [Letting Love Die](https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG) | 2:59 |
 
-Snapshot ID: `AAAAAOuAxDaEVECGnACTz5GcBq9VvZ+n`
+Snapshot ID: `AAAAAEi32ibXGAp/KX/Y7lg1WQrhVkdN`

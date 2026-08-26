@@ -5292,7 +5292,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 178847,
       "name": "Beyonce",
       "url": "https://open.spotify.com/track/6Pa8w6Q4C7lNunjgtqxBkh"
@@ -9288,7 +9288,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 152706,
       "name": "DND",
       "url": "https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO"
@@ -17269,6 +17269,24 @@
     },
     {
       "album": {
+        "name": "PIIKA",
+        "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
+      },
+      "artists": [
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139807,
+      "name": "HERTTUA",
+      "url": "https://open.spotify.com/track/0sngRbFw2tUAiqpOlAxJfb"
+    },
+    {
+      "album": {
         "name": "vapaa",
         "url": "https://open.spotify.com/album/0VVJFUR3yPKY6MYWFIlGq9"
       },
@@ -17688,7 +17706,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"

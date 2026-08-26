@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHODXtntnVuMdX43c/gfpgJoPk3l",
+  "snapshot_id": "AAAAADV4VUgb31N1WwUOx3P0pYFwfNs5",
   "tracks": [
     {
       "added_at": null,
@@ -47,18 +47,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall from Grace",
-        "url": "https://open.spotify.com/album/5RikhTUZ6wIyNsU5WezmZI"
+        "name": "V\u00e6rstev\u00e6nna",
+        "url": "https://open.spotify.com/album/4gjHa1krm1x5BVjmplMk30"
       },
       "artists": [
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
         }
       ],
-      "duration_ms": 301250,
-      "name": "Fall from Grace",
-      "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
+      "duration_ms": 121973,
+      "name": "V\u00e6rstev\u00e6nna",
+      "url": "https://open.spotify.com/track/4PoNlPin3j1eXYFbJ8P4sV"
     },
     {
       "added_at": null,
@@ -111,34 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/4D8hddcmQ9mRPLJ9Ni0GLZ"
+        "name": "The Queen of Iceni",
+        "url": "https://open.spotify.com/album/3veo6htTTXh96qkBBM1j1a"
       },
       "artists": [
         {
-          "name": "Haneke Twins",
-          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+          "name": "Antichrisis",
+          "url": "https://open.spotify.com/artist/6UUUa4HW9J8uLuWvsw0iRJ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Den Neste",
-        "url": "https://open.spotify.com/album/0h1lTgDpgLabw08cAHQyRk"
-      },
-      "artists": [
-        {
-          "name": "Henrik Arnesen",
-          "url": "https://open.spotify.com/artist/1ogXc3FoR7PTyeiyJ601ER"
-        }
-      ],
-      "duration_ms": 199957,
-      "name": "Den Neste",
-      "url": "https://open.spotify.com/track/0lVtS8CUIi3mVl60ch4P6x"
+      "duration_ms": 246520,
+      "name": "The Queen of Iceni",
+      "url": "https://open.spotify.com/track/1BLVYGEpOwX7xuulobVEzH"
     },
     {
       "added_at": null,
@@ -159,58 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Queen of Iceni",
-        "url": "https://open.spotify.com/album/3veo6htTTXh96qkBBM1j1a"
-      },
-      "artists": [
-        {
-          "name": "Antichrisis",
-          "url": "https://open.spotify.com/artist/6UUUa4HW9J8uLuWvsw0iRJ"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "The Queen of Iceni",
-      "url": "https://open.spotify.com/track/1BLVYGEpOwX7xuulobVEzH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kom Og Klikk (Harvey North Remix)",
-        "url": "https://open.spotify.com/album/3bxsAtlrEYaoSg6M6DkBmR"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        },
-        {
-          "name": "Harvey North",
-          "url": "https://open.spotify.com/artist/14dwcok1XkKY5jsDvVNxDj"
-        }
-      ],
-      "duration_ms": 243902,
-      "name": "Kom Og Klikk - Harvey North Remix",
-      "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "InstantFamous",
-        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
-      },
-      "artists": [
-        {
-          "name": "SUGAR JUNKIES",
-          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
-        }
-      ],
-      "duration_ms": 249272,
-      "name": "Only What You Love",
-      "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond the Mirrors",
         "url": "https://open.spotify.com/album/3xVJJMY1Hcyn17NNyde98b"
       },
@@ -223,150 +155,6 @@
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Remains",
-        "url": "https://open.spotify.com/album/2ryT3PneH0kB6YEaIcwHQC"
-      },
-      "artists": [
-        {
-          "name": "FirstWave Music",
-          "url": "https://open.spotify.com/artist/1ZqeU75x2rVrcsb9XemiX4"
-        }
-      ],
-      "duration_ms": 299896,
-      "name": "My Remains",
-      "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never the Same",
-        "url": "https://open.spotify.com/album/1igc8PfGM3LoFSQMW2H0Kf"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
-        }
-      ],
-      "duration_ms": 299311,
-      "name": "Never the Same",
-      "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Briste Eller B\u00e6re",
-      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Klokkene ringer for kvelden",
-        "url": "https://open.spotify.com/album/10aJyfp2xODV4GKt6Ef0rB"
-      },
-      "artists": [
-        {
-          "name": "Autoimmune",
-          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
-        }
-      ],
-      "duration_ms": 214001,
-      "name": "Klokkene ringer for kvelden",
-      "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virus Potus (Extended)",
-        "url": "https://open.spotify.com/album/2S6SKZ9P1Fw5rsRhNousSF"
-      },
-      "artists": [
-        {
-          "name": "Vii-Pii",
-          "url": "https://open.spotify.com/artist/1yHisc887E51cW9ljgjnVZ"
-        }
-      ],
-      "duration_ms": 128600,
-      "name": "Virus Potus",
-      "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simply Three Chords In My Heart",
-        "url": "https://open.spotify.com/album/5BwxOEHGD0Ll8L8Vy9SYeh"
-      },
-      "artists": [
-        {
-          "name": "Rosenthal",
-          "url": "https://open.spotify.com/artist/4PuxEMkCR9a6yYp8hRfoCL"
-        }
-      ],
-      "duration_ms": 86105,
-      "name": "You Got Alone",
-      "url": "https://open.spotify.com/track/6PMw1fsBFPPWxjcl7kbZ9K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bf (Metropolis Remaster)",
-        "url": "https://open.spotify.com/album/3BkQbYjc2p95LeAl1aTCy6"
-      },
-      "artists": [
-        {
-          "name": "alles w\u00bfrd gut",
-          "url": "https://open.spotify.com/artist/1DdDjMbO4CdlAoJsjGTHzQ"
-        }
-      ],
-      "duration_ms": 282133,
-      "name": "Verschworen (Metropolis Remaster)",
-      "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En liten dose deg",
-        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "En liten dose deg",
-      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ashes of Life",
-        "url": "https://open.spotify.com/album/5q7lXUgCbbmMRTgBNGrSdO"
-      },
-      "artists": [
-        {
-          "name": "Underground Fire",
-          "url": "https://open.spotify.com/artist/58aTWpcVPsrJiQqT4hjYjE"
-        }
-      ],
-      "duration_ms": 351146,
-      "name": "Passage",
-      "url": "https://open.spotify.com/track/3i5lFBoCIBlBoo54xIj3gF"
     },
     {
       "added_at": null,
@@ -391,6 +179,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kom Og Klikk (Harvey North Remix)",
+        "url": "https://open.spotify.com/album/3bxsAtlrEYaoSg6M6DkBmR"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Harvey North",
+          "url": "https://open.spotify.com/artist/14dwcok1XkKY5jsDvVNxDj"
+        }
+      ],
+      "duration_ms": 243902,
+      "name": "Kom Og Klikk - Harvey North Remix",
+      "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stale",
+        "url": "https://open.spotify.com/album/2YiT87zmFgPv2aG8vWnMlw"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "duration_ms": 327951,
+      "name": "Stale",
+      "url": "https://open.spotify.com/track/7i4c2nXS9JyKmajo0VMcNI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame Donny",
+        "url": "https://open.spotify.com/album/1rBAYcVHr19xKz1lSDtjZy"
+      },
+      "artists": [
+        {
+          "name": "Blame Donny",
+          "url": "https://open.spotify.com/artist/1ZGg15c5V5zqEzT6UoVNAH"
+        }
+      ],
+      "duration_ms": 99552,
+      "name": "Fall Of A Good Man",
+      "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cenobite Tapes",
         "url": "https://open.spotify.com/album/0p1fkB1ZJuc6GX0RW4qhve"
       },
@@ -407,18 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let the Rain Fall (Single)",
-        "url": "https://open.spotify.com/album/6arnHLhBqiZxfP9goJGMyQ"
+        "name": "Dopey Smile",
+        "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
       },
       "artists": [
         {
-          "name": "David Von Beahm",
-          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
         }
       ],
-      "duration_ms": 275670,
-      "name": "Let the Rain Fall",
-      "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
+      "duration_ms": 249000,
+      "name": "Dopey Smile",
+      "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
     },
     {
       "added_at": null,
@@ -432,173 +272,25 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Strak Saltomortale",
-      "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
+      "duration_ms": 151000,
+      "name": "Briste Eller B\u00e6re",
+      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Just Keep Swimming",
-        "url": "https://open.spotify.com/album/7LmcuNts5OXsMLkfCxwy7s"
+        "name": "Fake News",
+        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
       },
       "artists": [
         {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
         }
       ],
-      "duration_ms": 254925,
-      "name": "Just Keep Swimming",
-      "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Me On (Flag and The Wind)",
-        "url": "https://open.spotify.com/album/1k6GY9XTpvYmRtZnEYUyRg"
-      },
-      "artists": [
-        {
-          "name": "Exhaust",
-          "url": "https://open.spotify.com/artist/1hhHDrOjXAYZ4n9a94RNi4"
-        }
-      ],
-      "duration_ms": 253374,
-      "name": "Turn Me on (Flag and the Wind)",
-      "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IO",
-        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
-      },
-      "artists": [
-        {
-          "name": "OlD NATIVE OMEN",
-          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
-        }
-      ],
-      "duration_ms": 299655,
-      "name": "IO",
-      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un like",
-        "url": "https://open.spotify.com/album/6a5u2EmkgnhmONHH7g3liY"
-      },
-      "artists": [
-        {
-          "name": "Roy Di Maio",
-          "url": "https://open.spotify.com/artist/1O2GSHdlTIgnbNjU9SHcpA"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Un like",
-      "url": "https://open.spotify.com/track/4tF9BrYphNbdxL87KtAJct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borte vekk i sola",
-        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 184162,
-      "name": "Borte vekk i sola",
-      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious Circle (The Remix)",
-        "url": "https://open.spotify.com/album/3tRvnokOslvqryc0Ga702B"
-      },
-      "artists": [
-        {
-          "name": "JZ",
-          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
-        }
-      ],
-      "duration_ms": 281494,
-      "name": "Vicious Circle - The Remix",
-      "url": "https://open.spotify.com/track/0hAMcrJmELgj72PMjeFqrG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've got a pimple on the end of my Nose",
-        "url": "https://open.spotify.com/album/1uvcxF5aRj0pxpNyIAD1GV"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Marshall Effect",
-          "url": "https://open.spotify.com/artist/6qWLUNjrDejYDpi33PnFvJ"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "I've got a pimple on the end of my Nose",
-      "url": "https://open.spotify.com/track/63SLIxTcwnYDJ2pyGXyYKL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart of the Spiral EP",
-        "url": "https://open.spotify.com/album/6Perx1ffBlYRNNbuRCJzUt"
-      },
-      "artists": [
-        {
-          "name": "File Under Humanoid",
-          "url": "https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Last Good Year",
-      "url": "https://open.spotify.com/track/5abvZLtaVQlfFNqoeEv5ur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minnefond",
-        "url": "https://open.spotify.com/album/7kjUoXd95mEnGQJe5EgBSL"
-      },
-      "artists": [
-        {
-          "name": "Mareritt Larsen",
-          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
-        }
-      ],
-      "duration_ms": 167051,
-      "name": "Minnefond",
-      "url": "https://open.spotify.com/track/4UzE44sX6mQj2uFxX1Byff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        },
-        {
-          "name": "Mestringskoret",
-          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Stjernene Lyser",
-      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
+      "duration_ms": 261821,
+      "name": "Fake News",
+      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
     },
     {
       "added_at": null,
@@ -619,18 +311,134 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6ddksmWBpvTweONoUz3HZs"
+        "name": "\u00bf (Metropolis Remaster)",
+        "url": "https://open.spotify.com/album/3BkQbYjc2p95LeAl1aTCy6"
       },
       "artists": [
         {
-          "name": "Lewis Tivey",
-          "url": "https://open.spotify.com/artist/6rMQpa1tR5sI8xGboy8mXR"
+          "name": "alles w\u00bfrd gut",
+          "url": "https://open.spotify.com/artist/1DdDjMbO4CdlAoJsjGTHzQ"
         }
       ],
-      "duration_ms": 259840,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
+      "duration_ms": 282133,
+      "name": "Verschworen (Metropolis Remaster)",
+      "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/4D8hddcmQ9mRPLJ9Ni0GLZ"
+      },
+      "artists": [
+        {
+          "name": "Haneke Twins",
+          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En liten dose deg",
+        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "En liten dose deg",
+      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minnefond",
+        "url": "https://open.spotify.com/album/7kjUoXd95mEnGQJe5EgBSL"
+      },
+      "artists": [
+        {
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
+        }
+      ],
+      "duration_ms": 167051,
+      "name": "Minnefond",
+      "url": "https://open.spotify.com/track/4UzE44sX6mQj2uFxX1Byff"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Gasp Dispatch",
+        "url": "https://open.spotify.com/album/11JupMgexZGifRzhVtxhE0"
+      },
+      "artists": [
+        {
+          "name": "Bloodbath Ambulance",
+          "url": "https://open.spotify.com/artist/5em1bH5J3ggah4tfgvLQq7"
+        }
+      ],
+      "duration_ms": 69743,
+      "name": "Last Gasp Dispatch",
+      "url": "https://open.spotify.com/track/3nOM6Zb7SLjREBzdVILcei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard-Ons/Jerry A",
+        "url": "https://open.spotify.com/album/6njrFn3tt4A17FUqGhYzVL"
+      },
+      "artists": [
+        {
+          "name": "Hard-Ons",
+          "url": "https://open.spotify.com/artist/6zqlA0w5k0Al6QJFyvRrHB"
+        },
+        {
+          "name": "Jerry A. Lang",
+          "url": "https://open.spotify.com/artist/3nDaN0S91DQluJAWsalxDE"
+        }
+      ],
+      "duration_ms": 184241,
+      "name": "Old And Whys",
+      "url": "https://open.spotify.com/track/1ysvKJt74kWHbsDrZeRgTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Down 'N' Dirty: Volume 1",
+        "url": "https://open.spotify.com/album/6gmpbWtF0ZRqXD1pLmijQe"
+      },
+      "artists": [
+        {
+          "name": "Nick Helm",
+          "url": "https://open.spotify.com/artist/2JYFvQnnocLtU3Anrt5vS2"
+        }
+      ],
+      "duration_ms": 215836,
+      "name": "Battle Damaged",
+      "url": "https://open.spotify.com/track/26XPlS6lDhvL6VAJBHXX1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Strak Saltomortale",
+      "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
     },
     {
       "added_at": null,
@@ -644,9 +452,77 @@
           "url": "https://open.spotify.com/artist/7dkDCTVzTq43IpyrF5UgRD"
         }
       ],
-      "duration_ms": 217733,
-      "name": "The Witness Tree",
-      "url": "https://open.spotify.com/track/5zJZTmMLUfoVRhZNrqW2Bt"
+      "duration_ms": 220506,
+      "name": "My Black Mirror",
+      "url": "https://open.spotify.com/track/06FB6M3MM69kGzK3UneyH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simply Three Chords In My Heart",
+        "url": "https://open.spotify.com/album/5BwxOEHGD0Ll8L8Vy9SYeh"
+      },
+      "artists": [
+        {
+          "name": "Rosenthal",
+          "url": "https://open.spotify.com/artist/4PuxEMkCR9a6yYp8hRfoCL"
+        }
+      ],
+      "duration_ms": 86105,
+      "name": "You Got Alone",
+      "url": "https://open.spotify.com/track/6PMw1fsBFPPWxjcl7kbZ9K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Me On (Flag and The Wind)",
+        "url": "https://open.spotify.com/album/1k6GY9XTpvYmRtZnEYUyRg"
+      },
+      "artists": [
+        {
+          "name": "Exhaust",
+          "url": "https://open.spotify.com/artist/1hhHDrOjXAYZ4n9a94RNi4"
+        }
+      ],
+      "duration_ms": 253374,
+      "name": "Turn Me on (Flag and the Wind)",
+      "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/3lxKDfXUG1unB1R8W0GJfK"
+      },
+      "artists": [
+        {
+          "name": "RYDIS",
+          "url": "https://open.spotify.com/artist/4zWJ1DPqgmIfaKxNOWfKze"
+        },
+        {
+          "name": "Inmehead",
+          "url": "https://open.spotify.com/artist/3pjzGVLqzeeOMoIa9rW5WB"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borte vekk i sola",
+        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 184162,
+      "name": "Borte vekk i sola",
+      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
     },
     {
       "added_at": null,
@@ -671,18 +547,150 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Just A Photograph",
-        "url": "https://open.spotify.com/album/0uZ7ZxecWh4RFXvAKkF8s6"
+        "name": "Ashes of Life",
+        "url": "https://open.spotify.com/album/5q7lXUgCbbmMRTgBNGrSdO"
       },
       "artists": [
         {
-          "name": "Simone Vignini",
-          "url": "https://open.spotify.com/artist/2nJ85JfXrhJCBmEhkGlMaU"
+          "name": "Underground Fire",
+          "url": "https://open.spotify.com/artist/58aTWpcVPsrJiQqT4hjYjE"
         }
       ],
-      "duration_ms": 191525,
-      "name": "It's Just A Photograph",
-      "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
+      "duration_ms": 351146,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/3i5lFBoCIBlBoo54xIj3gF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reality Is a Failure",
+        "url": "https://open.spotify.com/album/4dRAPfkoQyV8h2ByHhkrgl"
+      },
+      "artists": [
+        {
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+        }
+      ],
+      "duration_ms": 204570,
+      "name": "Reality Is a Failure",
+      "url": "https://open.spotify.com/track/7HF4DGxpBjBjPkHmqXdvQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Krieg ist Kacke",
+        "url": "https://open.spotify.com/album/4jd9RMKXVl2QiAw0AHj8Nx"
+      },
+      "artists": [
+        {
+          "name": "Mutti und Vati",
+          "url": "https://open.spotify.com/artist/1R8TnUXoYW4S6pRYiy1dP8"
+        }
+      ],
+      "duration_ms": 330737,
+      "name": "Flieg Vogel flieg",
+      "url": "https://open.spotify.com/track/4D1e1mUnr2huaOxcEZv08G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Mestringskoret",
+          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Stjernene Lyser",
+      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
+      },
+      "artists": [
+        {
+          "name": "OlD NATIVE OMEN",
+          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
+        }
+      ],
+      "duration_ms": 299655,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stories of Violence",
+        "url": "https://open.spotify.com/album/2XsYtG3hGMQtaL8bw9ZBw5"
+      },
+      "artists": [
+        {
+          "name": "Haneke Twins",
+          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+        }
+      ],
+      "duration_ms": 177352,
+      "name": "Feel the Burn",
+      "url": "https://open.spotify.com/track/4M3fdKeOdFbZS7uBbY56Km"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virus Potus (Extended)",
+        "url": "https://open.spotify.com/album/2S6SKZ9P1Fw5rsRhNousSF"
+      },
+      "artists": [
+        {
+          "name": "Vii-Pii",
+          "url": "https://open.spotify.com/artist/1yHisc887E51cW9ljgjnVZ"
+        }
+      ],
+      "duration_ms": 128600,
+      "name": "Virus Potus",
+      "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00f6rkret bakom h\u00f6rnet",
+        "url": "https://open.spotify.com/album/0yzZeuwaRF0hFcKIEkBdyH"
+      },
+      "artists": [
+        {
+          "name": "\u00d6STKUSTEN",
+          "url": "https://open.spotify.com/artist/7orPQ8R0qGhgKsLhi8QjZO"
+        }
+      ],
+      "duration_ms": 276940,
+      "name": "Tapetblomma",
+      "url": "https://open.spotify.com/track/43m5wGSqGgkPR9nOgPdamR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Tell Me Everything Is Going to Be Alright",
+        "url": "https://open.spotify.com/album/6ROtsXslus0DRKcyt2ffsA"
+      },
+      "artists": [
+        {
+          "name": "NOTNORTH",
+          "url": "https://open.spotify.com/artist/1nC7PSJJ0RJEGBpZcuPlzx"
+        }
+      ],
+      "duration_ms": 193445,
+      "name": "After Your Love",
+      "url": "https://open.spotify.com/track/0WdGm6My3Tg7qt1Gb71XLs"
     },
     {
       "added_at": null,
@@ -703,82 +711,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/2xEOwC7rRY7ZElvDNrqGEj"
+        "name": "The Witness Tree",
+        "url": "https://open.spotify.com/album/51htr1aOOty6Pw0EoTzGQP"
       },
       "artists": [
         {
-          "name": "Mal Fantome",
-          "url": "https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y"
+          "name": "IKON",
+          "url": "https://open.spotify.com/artist/7dkDCTVzTq43IpyrF5UgRD"
         }
       ],
-      "duration_ms": 190128,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"
+      "duration_ms": 217733,
+      "name": "The Witness Tree",
+      "url": "https://open.spotify.com/track/5zJZTmMLUfoVRhZNrqW2Bt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ham-Fisted-Hate-Filled-Joy",
-        "url": "https://open.spotify.com/album/09PzeyFtGlHaoLM2eJHPwW"
+        "name": "OLP30 Live",
+        "url": "https://open.spotify.com/album/0RYon4lQe9cAhIimkE6AUo"
       },
       "artists": [
         {
-          "name": "The Charlie Marshall Effect",
-          "url": "https://open.spotify.com/artist/6qWLUNjrDejYDpi33PnFvJ"
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
         }
       ],
-      "duration_ms": 161377,
-      "name": "End of your Existence",
-      "url": "https://open.spotify.com/track/7BlWU9BYjGtDvuYVk60Ti9"
+      "duration_ms": 298602,
+      "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
+      "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "End of Chocolate",
-        "url": "https://open.spotify.com/album/3KCHK7qWZaBlUpIOSa2f7C"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/35jdHkfOSAAGord4z8iIKZ"
       },
       "artists": [
         {
-          "name": "Autoimmune",
-          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
+          "name": "Marc Amacher",
+          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
         }
       ],
-      "duration_ms": 208490,
-      "name": "End of Chocolate",
-      "url": "https://open.spotify.com/track/1jEr9qqNs6CHSPi3KwfZpC"
+      "duration_ms": 249250,
+      "name": "Dark Night",
+      "url": "https://open.spotify.com/track/540iBG3WkAkXCOh1hpmyJu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/4dvSoIH80G8SPSSyJPwwQ3"
+        "name": "It's Just A Photograph",
+        "url": "https://open.spotify.com/album/0uZ7ZxecWh4RFXvAKkF8s6"
       },
       "artists": [
         {
-          "name": "Firehill",
-          "url": "https://open.spotify.com/artist/6f1rti1er9Al2g3fHBMnES"
+          "name": "Simone Vignini",
+          "url": "https://open.spotify.com/artist/2nJ85JfXrhJCBmEhkGlMaU"
         }
       ],
-      "duration_ms": 246373,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
+      "duration_ms": 191525,
+      "name": "It's Just A Photograph",
+      "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Complaint",
-        "url": "https://open.spotify.com/album/09N87B5iA9H59pCeXItCfu"
+        "name": "Space Echo",
+        "url": "https://open.spotify.com/album/3SERelqD32RDDphqgiWlba"
       },
       "artists": [
         {
-          "name": "The Old",
-          "url": "https://open.spotify.com/artist/4quEGG6kPYvNpgp2V6j3dp"
+          "name": "Death Yak",
+          "url": "https://open.spotify.com/artist/6JnwQvnO0qSYDH5QnnseKw"
         }
       ],
-      "duration_ms": 186600,
-      "name": "The Complaint",
-      "url": "https://open.spotify.com/track/2VbsZTkw9ryNI2ctcb5DFy"
+      "duration_ms": 263026,
+      "name": "Aloha From The Void",
+      "url": "https://open.spotify.com/track/3QDoBTR7yfC5ktM591AdQu"
     },
     {
       "added_at": null,
@@ -799,34 +807,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Waiter's Patience..",
-        "url": "https://open.spotify.com/album/0rluDVOgbHEeXl7wOlqtRe"
+        "name": "Heart of the Spiral EP",
+        "url": "https://open.spotify.com/album/6Perx1ffBlYRNNbuRCJzUt"
       },
       "artists": [
         {
-          "name": "Geir Terje Sagen",
-          "url": "https://open.spotify.com/artist/4sSoETldqjicbrHiq0zCRy"
+          "name": "File Under Humanoid",
+          "url": "https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx"
         }
       ],
-      "duration_ms": 297735,
-      "name": "I Consider My Own",
-      "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
+      "duration_ms": 200000,
+      "name": "Last Good Year",
+      "url": "https://open.spotify.com/track/5abvZLtaVQlfFNqoeEv5ur"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lich Tree / Sei\u00f0r",
-        "url": "https://open.spotify.com/album/5ie4eSVK4zoyGFIyHOhtC7"
+        "name": "South Side",
+        "url": "https://open.spotify.com/album/5vrNA47J7GqdR3zkigf86V"
       },
       "artists": [
         {
-          "name": "Sparkling Cyanide",
-          "url": "https://open.spotify.com/artist/5Bo0RERjwt6aG13ny1d6dY"
+          "name": "weapons of self destruction",
+          "url": "https://open.spotify.com/artist/6dYAQRwebnAQ38F0lQQjn3"
         }
       ],
-      "duration_ms": 253020,
-      "name": "Lich Tree",
-      "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
+      "duration_ms": 205292,
+      "name": "South Side",
+      "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

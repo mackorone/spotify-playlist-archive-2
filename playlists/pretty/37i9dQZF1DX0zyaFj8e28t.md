@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,027 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,042 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 30 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Best of Jeanne Mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |
 | 31 | [Duel au soleil \- 2006 Remaster](https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Pop Satori \(2006 Remaster\)](https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb) | 4:21 |
 | 32 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
-| 33 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
-| 34 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 |
+| 33 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 |
+| 34 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
 | 35 | [Disparue](https://open.spotify.com/track/280p8WbpK05bAptetUzEcx) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Disparue \- EP](https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc) | 3:09 |
 | 36 | [Tropique](https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0) | [Muriel Dacq](https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP) | [Tropique](https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO) | 3:32 |
 | 37 | [Elle a les yeux revolver](https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of 85\-95](https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 49 | [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 |
 | 50 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
 
-Snapshot ID: `AAAAAObnw1F5t9rTZu9d8K3LCR8KSjgv`
+Snapshot ID: `AAAAAIbTJLTbMoALxB0l+GJZ8/92mf4t`

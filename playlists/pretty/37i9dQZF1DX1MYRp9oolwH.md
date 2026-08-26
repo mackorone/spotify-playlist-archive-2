@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,365 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,366 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 50 | [Priyasakhi \(From "EPIC \- First Semester"\)](https://open.spotify.com/track/1HDXZO5k652uOnB6L8hc66) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Priyasakhi \(From "EPIC \- First Semester"\)](https://open.spotify.com/album/1E1CnQQez2ZOyNRYOv2zip) | 3:44 |
 | 51 | [Mondi Dhanive](https://open.spotify.com/track/0AYZrzMaJfOAvR5cMAIYsF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Amaram](https://open.spotify.com/album/2H5R0QcLV0XeOEGIiupUuS) | 3:48 |
 
-Snapshot ID: `AAAAAEZkMgtvrLqHf/0VU+c/MT7mmDV+`
+Snapshot ID: `AAAAAJC2Kh8yYgnnJ4swUvrBVwNLnEKx`

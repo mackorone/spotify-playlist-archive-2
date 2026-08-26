@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 179100,
       "name": "Heart Less",
       "url": "https://open.spotify.com/track/76M7fcJzZS7wpxCiriOaAZ"
@@ -3667,6 +3667,10 @@
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
       "artists": [
+        {
+          "name": "Hillary Scott",
+          "url": "https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri"
+        },
         {
           "name": "Hillary Scott & The Scott Family",
           "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"

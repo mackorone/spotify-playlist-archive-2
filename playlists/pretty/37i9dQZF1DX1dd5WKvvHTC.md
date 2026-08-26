@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:78Rk1F0jGdipWWfrhyWwt3?si">Patrick Droney</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,104 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,126 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Guillotine](https://open.spotify.com/track/6Zqufsn9eQJIBbG8J19WV7) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Guillotine](https://open.spotify.com/album/1gzRGz1AcDmzkqDxvGiwu3) | 3:21 |
 | 40 | [Take It Slow](https://open.spotify.com/track/7AySRx3goPeNlKyEVuoFob) | [Aggy](https://open.spotify.com/artist/44fgwExiweZu5TavZcsQkR) | [Behind Closed Doors](https://open.spotify.com/album/0wqGCifg1HsEYpwTuwu7kc) | 3:33 |
 
-Snapshot ID: `AAAAAN5AxLSRMV1fdc6uLtAojtxMkAFL`
+Snapshot ID: `AAAAAAUCIFXfeqA63VDkXMlR8vRyVf5O`

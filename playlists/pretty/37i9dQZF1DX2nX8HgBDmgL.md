@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,521 likes - 92 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,568 likes - 92 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 30 | [Tum](https://open.spotify.com/track/6mHTwIXqZtuQUF1fEkrhFB) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Tum](https://open.spotify.com/album/4INFMJi3SwIEWixQjlMNig) | 4:18 |
 | 31 | [Thinking of You](https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Thinking of You](https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa) | 3:00 |
 | 32 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |
-| 33 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
+| 33 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabaat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
 | 34 | [Dealer](https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Da Future](https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR), [Virk Andaaz](https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l) | [Dealer](https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N) | 1:50 |
 | 35 | [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 |
 | 36 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 91 | [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 |
 | 92 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 
-Snapshot ID: `AAAAACmTy+XOTNJg+QA+P720IEv51vuR`
+Snapshot ID: `AAAAAMVM/YJAEZIT95OgbPIQWJuy4dx3`

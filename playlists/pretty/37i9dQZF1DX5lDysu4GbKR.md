@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,800 likes - 170 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,762 likes - 170 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 14 | [Is There A Reason](https://open.spotify.com/track/5WukHjLReaDzCm2ilksKix) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:12 |
 | 15 | [Dumb MF](https://open.spotify.com/track/3FYpz5OiMhy2cOj7Kr1el9) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [What I Feel Now](https://open.spotify.com/album/2jkOzrPeMEP41d8pgSBq2n) | 2:56 |
 | 16 | [Give Me A Smile](https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:57 |
-| 17 | [Tangled \(Stripped\)](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 |
+| 17 | [Tangled \- Stripped](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 |
 | 18 | [He's Not Me \(Acoustic\)](https://open.spotify.com/track/74LjNAxOeocnpRDiOUqOVy) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me \(Acoustic\)](https://open.spotify.com/album/20HaMwPU3CtG5OFHEslB0U) | 3:13 |
 | 19 | [28 Degrees In Houston \- Acoustic](https://open.spotify.com/track/1snIH5F1BcCT0ASu8iKImP) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [28 Degrees In Houston \(Acoustic\)](https://open.spotify.com/album/2xySHe99qRHvo8DFbzsVlr) | 2:18 |
 | 20 | [START OVER \- Acoustic](https://open.spotify.com/track/6GJfB3PI0OAkyXsDEZKc6H) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [START OVER II.](https://open.spotify.com/album/7GyuBVawGjSCm4FFMgTh25) | 3:38 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 169 | [Runaway](https://open.spotify.com/track/2djLuf0US0tAhZQqGHF8Q2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Runaway](https://open.spotify.com/album/0N21fqUh7pnxP1BmPBctTc) | 5:08 |
 | 170 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
 
-Snapshot ID: `AAAAANSMiiGHhf5SNlr5mYsdmNi2yI27`
+Snapshot ID: `AAAAAFN33UKHnq93LZ/BfYnJFv+uK/dR`

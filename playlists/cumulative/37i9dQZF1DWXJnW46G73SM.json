@@ -1835,6 +1835,32 @@
     },
     {
       "album": {
+        "name": "CHALET 5",
+        "url": "https://open.spotify.com/album/6FV7ydzlayTOfpg0PcnEus"
+      },
+      "artists": [
+        {
+          "name": "Khaled Ali",
+          "url": "https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1"
+        },
+        {
+          "name": "TAG",
+          "url": "https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2"
+        },
+        {
+          "name": "Bashmohannad",
+          "url": "https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "ALABA",
+      "url": "https://open.spotify.com/track/5HeNGCqeSSrgoWcMNZ9lAu"
+    },
+    {
+      "album": {
         "name": "Alatool",
         "url": "https://open.spotify.com/album/6cxCGNkka3ZcuaJ6133IiI"
       },
@@ -3106,7 +3132,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 187937,
       "name": "AUTOMATEEKI",
       "url": "https://open.spotify.com/track/7z84NjPnVNqiU0HrLijBAV"
@@ -12462,7 +12488,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 168748,
       "name": "Leh lesa bafakar fek?",
       "url": "https://open.spotify.com/track/2A65388wFs4aJyjijZoE6v"
@@ -21008,6 +21034,24 @@
       "duration_ms": 259498,
       "name": "Yemken \u064a\u0645\u0643\u0646",
       "url": "https://open.spotify.com/track/0b4voU1mmHNiGSkCRcoN8Z"
+    },
+    {
+      "album": {
+        "name": "Yesaalo 3ank",
+        "url": "https://open.spotify.com/album/5yUwv5zXAeJHvjdLbEX6TF"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Yesaalo 3ank",
+      "url": "https://open.spotify.com/track/7I0qvacX0xIJtjozHf2iAo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: fred again.\. & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,089 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,963 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 9 | [Así](https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Así](https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ) | 3:14 |
 | 10 | [Celosa](https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Celosa](https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc) | 2:35 |
 | 11 | [Azul \(Versão Espanhol\)](https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:22 |
-| 12 | [Pensando En Ti](https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Pensando En Ti](https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt) | 2:52 |
-| 13 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
+| 12 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
+| 13 | [Pensando En Ti](https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Pensando En Ti](https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt) | 2:52 |
 | 14 | [AMIGOS CON DERECHOS](https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [AMIGOS CON DERECHOS](https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2) | 2:48 |
 | 15 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 16 | [Tell Me](https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Tell Me](https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz) | 2:40 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 29 | [Bandido Estrella](https://open.spotify.com/track/63sB8inKilaoKUBm1oM79C) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:08 |
 | 30 | [En bucle](https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 5:16 |
 | 31 | [TREMENDA](https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:09 |
-| 32 | [WhyWhyWhy](https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [WhyWhyWhy](https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS) | 2:39 |
-| 33 | [Mi Vicio Tu](https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg) | [Julian Solorzano](https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D) | [Mi Vicio Tu](https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU) | 4:53 |
+| 32 | [Mi Vicio Tu](https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg) | [Julian Solorzano](https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D) | [Mi Vicio Tu](https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU) | 4:53 |
+| 33 | [WhyWhyWhy](https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [WhyWhyWhy](https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS) | 2:39 |
 | 34 | [Estratosférico](https://open.spotify.com/track/7i2CjzSK2cHAQkkWNoQz2O) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:05 |
 | 35 | [como un imán](https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0) | [Claudia Arenas](https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po) | [como un imán](https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7) | 2:46 |
 | 36 | [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 43 | [LINEAS PARALELAS](https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [LINEAS PARALELAS](https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7) | 3:02 |
 | 44 | [Sensación de Calor](https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Sensación de Calor](https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B) | 2:25 |
 | 45 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
-| 46 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |
-| 47 | [Los Monsters](https://open.spotify.com/track/6CFs11pe4834Zkm9tqJGB6) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Perreando a Escondidas](https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7) | 2:26 |
+| 46 | [Los Monsters](https://open.spotify.com/track/6CFs11pe4834Zkm9tqJGB6) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Perreando a Escondidas](https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7) | 2:26 |
+| 47 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |
 | 48 | [Encontrarme Contigo](https://open.spotify.com/track/5PdbXImWW5Xi9UCKUSpBeF) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Encontrarme Contigo](https://open.spotify.com/album/5knAELxSn0BZOb1nmVuD2U) | 2:20 |
-| 49 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
-| 50 | [Xclusiva](https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU) | 2:21 |
+| 49 | [Xclusiva](https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU) | 2:21 |
+| 50 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
 
-Snapshot ID: `AAAAAH+4ydM8jfrXq6Z/MLq0ShMi4sh6`
+Snapshot ID: `AAAAAIA0mRCKq3NYRcRtcahm9GhwIePV`

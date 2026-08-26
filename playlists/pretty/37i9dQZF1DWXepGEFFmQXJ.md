@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: STELLA LEFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,014 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,021 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Damned If I Do](https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:37 |
 | 50 | [Me for Me](https://open.spotify.com/track/3vkk9KwXzXnHdBrDVWzG10) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Me For Me](https://open.spotify.com/album/5qQJL7oEiwqzykhsj3bqEA) | 2:51 |
 
-Snapshot ID: `AAAAAGTs9ifUUwhQJmgn4tv0AQMwuin+`
+Snapshot ID: `AAAAADez6p0b1lS3vhnpsPK4MT4LO/kM`

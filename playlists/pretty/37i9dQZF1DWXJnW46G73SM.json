@@ -1,13 +1,29 @@
 {
   "description": "\u0627\u064a\u0647 \u0627\u0644\u062c\u062f\u064a\u062f\u061f \u0627\u0644\u063a\u0644\u0627\u0641: \u0647\u064a\u0644\u0629",
-  "num_followers": 1122,
+  "num_followers": 1136,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAApE6HQ4hZSPu4aXUCZgei/YUHNW",
+  "snapshot_id": "AAAAABCFxXBj5UGRBSJrC3MdOlVrHYBb",
   "tracks": [
+    {
+      "added_at": "2026-08-25 19:17:50",
+      "album": {
+        "name": "Yesaalo 3ank",
+        "url": "https://open.spotify.com/album/5yUwv5zXAeJHvjdLbEX6TF"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Yesaalo 3ank",
+      "url": "https://open.spotify.com/track/7I0qvacX0xIJtjozHf2iAo"
+    },
     {
       "added_at": "2026-08-10 09:22:26",
       "album": {
@@ -67,6 +83,30 @@
       "duration_ms": 293789,
       "name": "Wahdy",
       "url": "https://open.spotify.com/track/1OwzQclT2f3H8LoHmIG0eE"
+    },
+    {
+      "added_at": "2026-08-25 14:16:39",
+      "album": {
+        "name": "CHALET 5",
+        "url": "https://open.spotify.com/album/6FV7ydzlayTOfpg0PcnEus"
+      },
+      "artists": [
+        {
+          "name": "Khaled Ali",
+          "url": "https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1"
+        },
+        {
+          "name": "TAG",
+          "url": "https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2"
+        },
+        {
+          "name": "Bashmohannad",
+          "url": "https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "ALABA",
+      "url": "https://open.spotify.com/track/5HeNGCqeSSrgoWcMNZ9lAu"
     },
     {
       "added_at": "2026-08-10 09:22:26",
@@ -275,26 +315,6 @@
       "duration_ms": 181898,
       "name": "SENGARY",
       "url": "https://open.spotify.com/track/0KUmgVeluvgfpXbwxd5N1b"
-    },
-    {
-      "added_at": "2026-08-10 09:22:26",
-      "album": {
-        "name": "AUTOMATEEKI",
-        "url": "https://open.spotify.com/album/3aKK74kxa4BeruLx3fWCoa"
-      },
-      "artists": [
-        {
-          "name": "Hussob",
-          "url": "https://open.spotify.com/artist/01XJ5fP6pN5SFWkLuC0jHs"
-        },
-        {
-          "name": "Bea Kadri",
-          "url": "https://open.spotify.com/artist/6PEL51sVVuFWxri9rDwNiN"
-        }
-      ],
-      "duration_ms": 187937,
-      "name": "AUTOMATEEKI",
-      "url": "https://open.spotify.com/track/7z84NjPnVNqiU0HrLijBAV"
     },
     {
       "added_at": "2026-08-10 09:22:26",
@@ -583,22 +603,6 @@
       "duration_ms": 191149,
       "name": "SEBY NAFSEK KHALES",
       "url": "https://open.spotify.com/track/7dR4nnWzcUDpcW67jnOTfs"
-    },
-    {
-      "added_at": "2026-08-10 09:22:26",
-      "album": {
-        "name": "Leh lesa bafakar fek?",
-        "url": "https://open.spotify.com/album/6m3zaCvr9gXIUEdGJi4aqN"
-      },
-      "artists": [
-        {
-          "name": "Randa Shoukry",
-          "url": "https://open.spotify.com/artist/0plRDM2KLLtxIekVKFX8P8"
-        }
-      ],
-      "duration_ms": 168748,
-      "name": "Leh lesa bafakar fek?",
-      "url": "https://open.spotify.com/track/2A65388wFs4aJyjijZoE6v"
     },
     {
       "added_at": "2026-08-10 09:22:26",

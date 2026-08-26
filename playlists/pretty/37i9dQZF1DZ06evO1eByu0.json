@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162097,
+  "num_followers": 162096,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAATtk8KKILkqNiR50B7jQeP",
+  "snapshot_id": "aouJgAAAAADnTiyj5cuvrztfH0Ckmj5H",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
       "duration_ms": 389820,
       "name": "Jeov\u00e1 Jireh",
       "url": "https://open.spotify.com/track/1uoA57FMhP9QjZxIJZVEWo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 343051,
-      "name": "Ressuscita-me",
-      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
     },
     {
       "added_at": null,
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+        "name": "O Poder do Teu Amor",
+        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 295360,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+      "duration_ms": 250840,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
     },
     {
       "added_at": null,
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder do Teu Amor",
-        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
       },
       "artists": [
         {
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 250840,
-      "name": "Ao \u00danico",
-      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
     },
     {
       "added_at": null,
@@ -775,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 160914,
-      "name": "Samuel",
-      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 340172,
       "name": "Casa de Deus",
       "url": "https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 160914,
+      "name": "Samuel",
+      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
     },
     {
       "added_at": null,
@@ -859,22 +843,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simples Assim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
+        "name": "Yo S\u00e9 Quien Soy",
+        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 239294,
+      "name": "Yo S\u00e9 Quien Soy",
+      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 233795,
-      "name": "Hoje \u00e9 tempo de louvar a Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu"
+      "duration_ms": 201038,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
     }
   ],
   "unique_name": "This Is Aline Barros",

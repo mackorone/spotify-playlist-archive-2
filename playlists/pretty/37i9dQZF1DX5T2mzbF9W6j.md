@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,045 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,044 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 28 | [Tańczę](https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Tańczę](https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S) | 3:14 |
 | 29 | [MAM TALENT](https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q) | 3:28 |
 | 30 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
-| 31 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
+| 31 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
 | 32 | [sezon](https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [sezon](https://open.spotify.com/album/31swt0uojnqryFf44XBDzx) | 3:01 |
-| 33 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
+| 33 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
 | 34 | [LUBIMY](https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [LUBIMY](https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT) | 2:28 |
 | 35 | [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 |
 | 36 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 57 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
 | 58 | [Póki Mam Ciebie](https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Póki Mam Ciebie](https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy) | 2:20 |
 | 59 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
-| 60 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
+| 60 | [A Nuż](https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Światłocienie EP](https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw) | 2:41 |
 
-Snapshot ID: `AAAAAG1kV9wv6RJkjQkTS8sxg1SlW0zW`
+Snapshot ID: `AAAAAG1SA725u0BwANOEhxj5fspVf9LH`

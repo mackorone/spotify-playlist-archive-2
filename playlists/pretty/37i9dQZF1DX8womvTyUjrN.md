@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,472 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,497 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [antes de que sea tarDe](https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [antes de que sea tarDe](https://open.spotify.com/album/36bWqtnkyFILCbvuneTDzh) | 3:11 |
 | 50 | [I N T E N S I D A D](https://open.spotify.com/track/0h8dF0FcFb8DEz668vlpxZ) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [I N T E N S I D A D](https://open.spotify.com/album/60w9jb6QvamAWBUzY3xYeL) | 2:46 |
 
-Snapshot ID: `AAAAAOX5jAcI2MOmk1n1Q0cBlfASxZ3N`
+Snapshot ID: `AAAAAAR6tSwRPnvMBreW215NuAOBcabC`

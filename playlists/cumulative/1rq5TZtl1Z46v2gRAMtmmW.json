@@ -9585,6 +9585,28 @@
     },
     {
       "album": {
+        "name": "THAT KID",
+        "url": "https://open.spotify.com/album/3D71e0tS6t9Z9DFU59rmBY"
+      },
+      "artists": [
+        {
+          "name": "Elliott Skinner",
+          "url": "https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "THAT KID",
+      "url": "https://open.spotify.com/track/3LD0amRQFt55wXQ7n3vbeL"
+    },
+    {
+      "album": {
         "name": "Creek",
         "url": "https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk"
       },

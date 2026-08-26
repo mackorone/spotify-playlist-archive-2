@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30083,
+  "num_followers": 30081,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADa3tPs5lkcC7TJKcseflf2",
+  "snapshot_id": "aouJgAAAAAARR9SNt0i8MVRwEabCsTh6",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 139306,
-      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
-      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You've Got A Friend In Me (From \"Toy Story\")",
         "url": "https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk"
       },
@@ -107,26 +87,6 @@
       "duration_ms": 252560,
       "name": "You've Got A Friend In Me - From \"Toy Story\"",
       "url": "https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 293146,
-      "name": "Liebestraum No. 3 in A-Flat Major, S. 541 / 3",
-      "url": "https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA"
     },
     {
       "added_at": null,
@@ -151,22 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Magic",
-        "url": "https://open.spotify.com/album/1rEECaYPfrTMA7gDIXcOGk"
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 59066,
-      "name": "Klavierst\u00fcck in F Major, K. 33b",
-      "url": "https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb"
+      "duration_ms": 293146,
+      "name": "Liebestraum No. 3 in A-Flat Major, S. 541 / 3",
+      "url": "https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA"
     },
     {
       "added_at": null,
@@ -187,26 +147,6 @@
       "duration_ms": 140040,
       "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
       "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": null,
@@ -243,6 +183,26 @@
       "duration_ms": 170360,
       "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
       "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": null,
@@ -455,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt: Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
-        "url": "https://open.spotify.com/album/3lhDAw7jJXezveOqSvhf2A"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/4sknlExcYjhwvoFjKfZ7vb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
         "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
       },
@@ -491,6 +431,26 @@
       "duration_ms": 81080,
       "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
       "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liszt: Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
+        "url": "https://open.spotify.com/album/3lhDAw7jJXezveOqSvhf2A"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/4sknlExcYjhwvoFjKfZ7vb"
     },
     {
       "added_at": null,
@@ -531,38 +491,6 @@
       "duration_ms": 160356,
       "name": "The Bare Necessities - From \"The Jungle Book\"",
       "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: VII. Aquarium",
-        "url": "https://open.spotify.com/album/70h0zSzyYjkoeRBK5X8HTc"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Gina Alice",
-          "url": "https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Carnival of the Animals, R. 125: VII. Aquarium",
-      "url": "https://open.spotify.com/track/1BWEb4iDMM2cPhkbatJ6MX"
     },
     {
       "added_at": null,
@@ -635,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book 2",
-        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
-      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Disney Book",
         "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
       },
@@ -675,6 +583,26 @@
       "duration_ms": 249342,
       "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
       "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book 2",
+        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
+      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
     },
     {
       "added_at": null,
@@ -1051,6 +979,74 @@
       "duration_ms": 35826,
       "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
       "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kung Fu Panda 3 (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Gan Gou",
+          "url": "https://open.spotify.com/artist/1Hvg7FHdAIFTFJsM4rGOtE"
+        },
+        {
+          "name": "Jian Wang",
+          "url": "https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 121400,
+      "name": "The Arrival of Kai",
+      "url": "https://open.spotify.com/track/5xmPliSKbVhTojeqciPLmU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Hoy En Adelante",
+        "url": "https://open.spotify.com/album/3kYwxPyraUrGj6nLZV6ymq"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 281240,
+      "name": "Me Enamor\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/5JEXFUtcIem9QdCS0Cy6HY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lang Lang: The Chopin Album",
+        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 130280,
+      "name": "Chopin: Minute Waltz",
+      "url": "https://open.spotify.com/track/5PJdoZiLVsMy4cfQjZfum6"
     }
   ],
   "unique_name": "This Is Lang Lang",

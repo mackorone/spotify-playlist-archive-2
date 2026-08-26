@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,310 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,318 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 32 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
 | 33 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
 | 34 | [ח'ת שתיים](https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אני נינה](https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB) | 4:07 |
-| 35 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 |
+| 35 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
 | 36 | [ניגון עתיק](https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:24 |
-| 37 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
+| 37 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 |
 | 38 | [מי אני מה אני מה אני עושה פה](https://open.spotify.com/track/7IvjKMzyMgfJIEO1cBn2ze) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [מי אני מה אני מה אני עושה פה](https://open.spotify.com/album/1aIxpfJMLpgiPtnYZibNbt) | 3:42 |
 | 39 | [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 |
 | 40 | [טאם טאם](https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [טאם טאם](https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z) | 2:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 45 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
 | 46 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
 | 47 | [מחברת כאב](https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:14 |
-| 48 | [אם נותרנו נאהב](https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [אם נותרנו נאהב](https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC) | 3:33 |
-| 49 | [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 |
+| 48 | [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 |
+| 49 | [אם נותרנו נאהב](https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [אם נותרנו נאהב](https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC) | 3:33 |
 | 50 | [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 |
 
-Snapshot ID: `AAAAAHVKz86pEIvnCNiJDvtCKs/R0y4o`
+Snapshot ID: `AAAAALUDL5pni4TsSvmBlJ/EsX4x90Ij`

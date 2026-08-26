@@ -6,8 +6,108 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAHnWkTTNAGPSIlVQeIWskfJS+zhC5O",
+  "snapshot_id": "AAAHrB+7gARXCGOCcDHoUi2fypZAig6U",
   "tracks": [
+    {
+      "added_at": "2026-08-25 07:49:01",
+      "album": {
+        "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30ec\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/1UQEuxQO94uH1esf26BtWD"
+      },
+      "artists": [
+        {
+          "name": "STEAKA",
+          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 118999,
+      "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30ec\u30a4\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3wSEENcG4Ga2wVNEeWobIE"
+    },
+    {
+      "added_at": "2026-08-25 07:49:11",
+      "album": {
+        "name": "\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0",
+        "url": "https://open.spotify.com/album/4wmUq98V1Voy89jjQK9Tdl"
+      },
+      "artists": [
+        {
+          "name": "Snarewaves",
+          "url": "https://open.spotify.com/artist/0Hb4Csp68W2ZZHMylxyiov"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 99703,
+      "name": "\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/3W3HXBjEk0YukBItAvUPCt"
+    },
+    {
+      "added_at": "2026-08-25 07:49:21",
+      "album": {
+        "name": "\u30b3\u30ba\u30df\u30c3\u30af\u30c0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4rhbNkWv12vWlEXcjDx0gJ"
+      },
+      "artists": [
+        {
+          "name": "\u96f2\u4e39",
+          "url": "https://open.spotify.com/artist/2n6XWhZaj4eIij2sH19zV9"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 205383,
+      "name": "\u30b3\u30ba\u30df\u30c3\u30af\u30c0\u30a4\u30d0\u30fc (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/7B9fCqAdQlIfv36Pwob5Om"
+    },
+    {
+      "added_at": "2026-08-25 07:49:31",
+      "album": {
+        "name": "\u30ca\u30a4\u30c8\u30b9\u30b1\u30a4\u30d7",
+        "url": "https://open.spotify.com/album/0Nl7UlagVGgORuYkD0Gt0M"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u76ee",
+          "url": "https://open.spotify.com/artist/1Fxy768cDOGSRa1zhgXRn5"
+        },
+        {
+          "name": "\u9cf4\u82b1\u30d2\u30e1",
+          "url": "https://open.spotify.com/artist/5YeBpB4eLKxOdLwsHU6kFr"
+        }
+      ],
+      "duration_ms": 189164,
+      "name": "\u30ca\u30a4\u30c8\u30b9\u30b1\u30a4\u30d7 (feat. \u9cf4\u82b1\u30d2\u30e1)",
+      "url": "https://open.spotify.com/track/0qYtVJ4Qv05QxyvrGu2us9"
+    },
+    {
+      "added_at": "2026-08-25 07:49:41",
+      "album": {
+        "name": "Hot Ice",
+        "url": "https://open.spotify.com/album/31CCJUxu3ShT1loGptuir5"
+      },
+      "artists": [
+        {
+          "name": "\u6cab\u5c3e",
+          "url": "https://open.spotify.com/artist/3xiRtHEkgQZINconT2YCPA"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Hot Ice (feat. KAITO)",
+      "url": "https://open.spotify.com/track/3a9WHy5Bgl3hXFq4lp60Y6"
+    },
     {
       "added_at": "2026-07-28 07:57:25",
       "album": {
@@ -707,106 +807,6 @@
       "duration_ms": 140840,
       "name": "\u30d2\u30d7\u30ce\u30bb\u30e9\u30d4\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0eREkdTQ8Fx5XMzPWggJKy"
-    },
-    {
-      "added_at": "2026-04-28 07:54:33",
-      "album": {
-        "name": "\u96e8\u8863 1st Official Album\u300e\u30a2\u30e1\u30ce\u30c1\u30d1\u30ec\u30fc\u30c9\u300f (DISC1)",
-        "url": "https://open.spotify.com/album/5I5hKLaenqh4McdmjU9XWZ"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30e0",
-          "url": "https://open.spotify.com/artist/0brk1b63lDCENkhX44AChd"
-        },
-        {
-          "name": "\u96e8\u8863",
-          "url": "https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK"
-        }
-      ],
-      "duration_ms": 184210,
-      "name": "\u30a2\u30a4\u30a2\u30a4\u5098 (feat. \u96e8\u8863)",
-      "url": "https://open.spotify.com/track/4KKe0iXMtFHT4SayCyPKkH"
-    },
-    {
-      "added_at": "2026-04-28 07:55:42",
-      "album": {
-        "name": "\u30bc\u30e9",
-        "url": "https://open.spotify.com/album/2lPu9Pu8VmT1QID3AmlzMu"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30e6\u30a6",
-          "url": "https://open.spotify.com/artist/5yPv8lxtJChNOlfobJfGoK"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 152524,
-      "name": "\u30bc\u30e9 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2wtYkG61hLNaTEpQBxuq6L"
-    },
-    {
-      "added_at": "2026-04-28 07:55:56",
-      "album": {
-        "name": "\u30a2\u30ac\u30ec\u2606\u30df\u30e9\u30a4",
-        "url": "https://open.spotify.com/album/65CGuWtSRwvjRxnAVKhtVv"
-      },
-      "artists": [
-        {
-          "name": "\u305d\u308a\u3063\u3069\u3073\u30fc\u3064",
-          "url": "https://open.spotify.com/artist/76IWUnp1D3oRp4eexCzE7x"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 266842,
-      "name": "\u30a2\u30ac\u30ec\u2606\u30df\u30e9\u30a4 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6L9XjdZwm2airhBFcgQS3D"
-    },
-    {
-      "added_at": "2026-04-28 07:56:08",
-      "album": {
-        "name": "\u52d8\u9055\u30a4",
-        "url": "https://open.spotify.com/album/0hT7GsO0FUPcAFhuJD2aeK"
-      },
-      "artists": [
-        {
-          "name": "\u3056\u3093\u304e",
-          "url": "https://open.spotify.com/artist/4wDMrlrNQiBlMgsZBzGOhP"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 128800,
-      "name": "\u52d8\u9055\u30a4 (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/66yj6wOVuQpNNFSzSBgtj9"
-    },
-    {
-      "added_at": "2026-04-28 07:56:21",
-      "album": {
-        "name": "\u30ad\u30e9\u30ad\u30e9\u30cf\u30c3\u30d4\u30fc\u30cf\u30cb\u30fc\u30c7\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/4GDXzQEhIS2BRN2eTXY9G9"
-      },
-      "artists": [
-        {
-          "name": "Kid P",
-          "url": "https://open.spotify.com/artist/3ZpU4v2TxHDybEBEh0Y15U"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 198999,
-      "name": "\u30ad\u30e9\u30ad\u30e9\u30cf\u30c3\u30d4\u30fc\u30cf\u30cb\u30fc\u30c7\u30a4\u30ba (feat. KAITO)",
-      "url": "https://open.spotify.com/track/3kuhbRot0pnJo9Bbtc0fTK"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

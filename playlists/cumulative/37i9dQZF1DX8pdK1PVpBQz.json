@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Ricky Neil Jr.  ",
+  "description": "The best new music by independent artists and labels. Cover: LILY B",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -7070,7 +7070,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 238000,
       "name": "Belong Here",
       "url": "https://open.spotify.com/track/6xndoEY98rh63ndna1g0IA"
@@ -22868,7 +22868,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 217021,
       "name": "Estranged Daughter",
       "url": "https://open.spotify.com/track/7t6R48TgCbvLqtgga3rQc2"
@@ -29720,7 +29720,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 182568,
       "name": "god left (this place long ago)",
       "url": "https://open.spotify.com/track/4HEzvASTk0JAJH1KwkhxLU"
@@ -43184,7 +43184,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 211840,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/5F7T1d2OIvTrNiO06HZ0pv"
@@ -44207,6 +44207,24 @@
     },
     {
       "album": {
+        "name": "Lina",
+        "url": "https://open.spotify.com/album/0w7FwFYBwyz4EP0rUFZh8u"
+      },
+      "artists": [
+        {
+          "name": "LILY B",
+          "url": "https://open.spotify.com/artist/4DBqgdhqseFfJ9ArHkhzAv"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204524,
+      "name": "Lina",
+      "url": "https://open.spotify.com/track/28CQkVkE3YWevQ8kVKTncm"
+    },
+    {
+      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/7pH6v2DPUCCDeKLyzsBz7y"
       },
@@ -44392,6 +44410,24 @@
       "duration_ms": 161847,
       "name": "Livin' At Night",
       "url": "https://open.spotify.com/track/62qlXS2ZaC1YGeP6qr5n3e"
+    },
+    {
+      "album": {
+        "name": "Living",
+        "url": "https://open.spotify.com/album/2LHuToJ5vvkH5xbQuJMN4M"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Joseph",
+          "url": "https://open.spotify.com/artist/4tTxAiYXXGiphsXH4mkh1Q"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189034,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/3N1N3sgIdcQj63kKvymNKz"
     },
     {
       "album": {
@@ -51393,6 +51429,24 @@
     },
     {
       "album": {
+        "name": "New Dog, Old Tricks",
+        "url": "https://open.spotify.com/album/15WSGIepJW76qgYeAcujB7"
+      },
+      "artists": [
+        {
+          "name": "Achtung!",
+          "url": "https://open.spotify.com/artist/11vFsI8vvhNwf6DrgH4xB9"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340750,
+      "name": "New Dog, Old Tricks",
+      "url": "https://open.spotify.com/track/0PwY8xNW8fRoyJTJDMdjMm"
+    },
+    {
+      "album": {
         "name": "New Feelings",
         "url": "https://open.spotify.com/album/5uMABp0y0oZXkLrYlwtOFZ"
       },
@@ -53771,6 +53825,24 @@
     },
     {
       "album": {
+        "name": "Hellhole of the Pacific",
+        "url": "https://open.spotify.com/album/5PoKWT8mdV0HJfeZaTBesb"
+      },
+      "artists": [
+        {
+          "name": "Greatsouth",
+          "url": "https://open.spotify.com/artist/39mSHxPg5MiolYsL4lUsRU"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206347,
+      "name": "NVS",
+      "url": "https://open.spotify.com/track/2WiIGwoPD046I2OKq3xbsP"
+    },
+    {
+      "album": {
         "name": "Community",
         "url": "https://open.spotify.com/album/4LrZtx2mah3FfsvbUlsCz6"
       },
@@ -56140,7 +56212,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 181600,
       "name": "out to dry",
       "url": "https://open.spotify.com/track/4uBDWljo6nRoItIArgxHc3"
@@ -56524,6 +56596,24 @@
       "duration_ms": 178913,
       "name": "OVERRATED",
       "url": "https://open.spotify.com/track/4rVj1hwnXyGUlQCtIT64mU"
+    },
+    {
+      "album": {
+        "name": "Overstimulation",
+        "url": "https://open.spotify.com/album/0OqxCcvKl3ZZ0hmvkbc3b8"
+      },
+      "artists": [
+        {
+          "name": "Normal Pleasure",
+          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Overstimulation",
+      "url": "https://open.spotify.com/track/4TalMAISBeuezixiWJQ0fe"
     },
     {
       "album": {
@@ -64386,7 +64476,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 139826,
       "name": "Science Fiction",
       "url": "https://open.spotify.com/track/5M0gOIEJYXJFX3XSD1Q5IE"
@@ -75077,6 +75167,24 @@
     },
     {
       "album": {
+        "name": "THE RISING TIDE / KEEPS ME ALIVE",
+        "url": "https://open.spotify.com/album/5jfY4l1ZadvvYneqsQA38T"
+      },
+      "artists": [
+        {
+          "name": "ILLAN KAAPAN",
+          "url": "https://open.spotify.com/artist/1pMwGxFxWKzqkHHgaYrpZ4"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143177,
+      "name": "THE RISING TIDE",
+      "url": "https://open.spotify.com/track/3JDqHduzsN6uxm0pkM6GK2"
+    },
+    {
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/4lF9iwq1K2U6qRvVroJXWl"
       },
@@ -83667,6 +83775,24 @@
     },
     {
       "album": {
+        "name": "Wildlife",
+        "url": "https://open.spotify.com/album/1jzPsttV7iISrTmSdvPzId"
+      },
+      "artists": [
+        {
+          "name": "Sugar Soap",
+          "url": "https://open.spotify.com/artist/0YC3Wpu3bK68UYP9xSL2Ir"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218654,
+      "name": "Wildlife",
+      "url": "https://open.spotify.com/track/3SQnDXgdrshCupgrd6ZjEP"
+    },
+    {
+      "album": {
         "name": "Wildones",
         "url": "https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR"
       },
@@ -83910,7 +84036,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 196565,
       "name": "Wish It Was You",
       "url": "https://open.spotify.com/track/0aGMtrVw9I6I93agLT9Ap1"

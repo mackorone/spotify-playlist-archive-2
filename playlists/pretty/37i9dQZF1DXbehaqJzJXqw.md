@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,193 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,465 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 79 | [Que rest\-t\-il de nos amours?](https://open.spotify.com/track/3WYTn5VlkWkdacjGRsGvSv) | [Trenet](https://open.spotify.com/artist/46rtisc5v3TLu5Bulmyj10), [Chauliac](https://open.spotify.com/artist/7qK2iIIASmqPi0RMEVbXn2), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door](https://open.spotify.com/album/1Qo0mVjKK1eEZ5vGFpRvbl) | 2:57 |
 | 80 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
 | 81 | [Je Suis Seule Ce Soir](https://open.spotify.com/track/6g7lZAZ4vNyeswmaEFenlz) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/7aD6SxbDiyXAXoagiOxeO9) | 2:17 |
-| 82 | [Plus bleu que tes yeux](https://open.spotify.com/track/1TzWvpsXhggO68d6FNmanm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 3:23 |
-| 83 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 |
+| 82 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 |
+| 83 | [Plus bleu que tes yeux](https://open.spotify.com/track/1TzWvpsXhggO68d6FNmanm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 3:23 |
 | 84 | [L'onde amère](https://open.spotify.com/track/6figNg1aCljy2HQcFG2KLZ) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Nolita](https://open.spotify.com/album/5M6CSIWhFBH97H9W35jaOn) | 2:59 |
 | 85 | [Mes pas dans la neige \(Spanish Song Bird\)](https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [LA DISPARITION](https://open.spotify.com/album/6p2Mn3SnLuqX0HzzPh5zUV) | 4:17 |
 
-Snapshot ID: `AAAAACvrpu+oSeI/qup95M40zGu+a5T0`
+Snapshot ID: `AAAAADSEklNMKpTZAi4JDP8KgJUVsRCw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Check out the <a href="https://open.spotify.com/playlist/37i9dQZF1DXc3O66k5Ivui">BTS's NORMAL Day playlist </a>\. This playlist reflects your votes for each member's personal picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,081,703 likes - 326 songs - 19 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,081,682 likes - 326 songs - 19 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 60 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 61 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
 | 62 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 |
-| 63 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 |
-| 64 | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 |
+| 63 | [Standing Next to You \- USHER Remix](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 |
+| 64 | [3D \- Justin Timberlake Remix](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 |
 | 65 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 |
 | 66 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 |
 | 67 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
@@ -301,7 +301,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 291 | [Make It Right \(feat\. Lauv\) \(Acoustic Remix\)](https://open.spotify.com/track/4aQooO4mUMX1l457bgYR6a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Make It Right \(feat\. Lauv\) \(Acoustic Remix\)](https://open.spotify.com/album/1mGRx12r0mVGK7jgp3eFe2) | 4:15 |
 | 292 | [Change](https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Change](https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq) | 4:37 |
 | 293 | [forever rain](https://open.spotify.com/track/0MBLKSjisnYtP4J6KYYT1T) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:31 |
-| 294 | [Make It Right \(feat\. Lauv\) \(EDM Remix\)](https://open.spotify.com/track/57PBRXsXl2rEAR85Gh4Qac) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Frants](https://open.spotify.com/artist/7qxLQ0CByGfbd3HdL7ilR8) | [Make It Right \(feat\. Lauv\) \(EDM Remix\)](https://open.spotify.com/album/408RKKP71NxM0WprGQAUsB) | 4:06 |
+| 294 | [Make It Right \(feat\. Lauv\) \- EDM Remix](https://open.spotify.com/track/57PBRXsXl2rEAR85Gh4Qac) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Frants](https://open.spotify.com/artist/7qxLQ0CByGfbd3HdL7ilR8) | [Make It Right \(feat\. Lauv\) \(EDM Remix\)](https://open.spotify.com/album/408RKKP71NxM0WprGQAUsB) | 4:06 |
 | 295 | [SWIM with RM \(Chill Hip Hop Remix\)](https://open.spotify.com/track/7EytKcb3klVPpN5IW1sj1Y) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:43 |
 | 296 | [SWIM with Jin \(Alternative Rock Remix\)](https://open.spotify.com/track/5dZLsPskKzph16LWo31uxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:13 |
 | 297 | [SWIM with SUGA \(Melodic Techno Remix\)](https://open.spotify.com/track/5AL5OrvyIMPqKjl9iw3xO5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:39 |
@@ -335,4 +335,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 325 | [Skit: R U Happy Now?](https://open.spotify.com/track/53XrsilgguJmmsEtDsj0yY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 2:28 |
 | 326 | [Skit: Circle Room Talk](https://open.spotify.com/track/4Ut6UU8Yyihz1jCZWSCQpu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 2:11 |
 
-Snapshot ID: `AAAAALzDouvjuc8otWXsf4AxFjN4s9/X`
+Snapshot ID: `AAAAAIowl/MtEGQ2WD/44vPhzqJQKX8n`

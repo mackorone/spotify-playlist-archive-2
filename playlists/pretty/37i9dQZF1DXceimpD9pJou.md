@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Aline Barros y Danny Gokey
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,629 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,650 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Todo Lo Puedo](https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Todo Lo Puedo](https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L) | 2:49 |
 | 100 | [Viene Alegría](https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Viene Alegría](https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow) | 2:45 |
 
-Snapshot ID: `AAAAACSTdamDAGOHV1rtVfyBa5V/gudQ`
+Snapshot ID: `AAAAABxYe+I/+Hlf2xcqf2HRG8boB2pO`

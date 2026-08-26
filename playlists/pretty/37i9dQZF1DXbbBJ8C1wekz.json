@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 191034,
+  "num_followers": 191119,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGio8t7bgU+c88IabxGwap62n4t",
+  "snapshot_id": "AAAAAIefNH/2Q6I2fX8t6GOg24yfTpQS",
   "tracks": [
     {
       "added_at": "2026-08-07 14:27:34",
@@ -827,6 +827,30 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "Mds",
+        "url": "https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Mds",
+      "url": "https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -867,30 +891,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Mds",
-        "url": "https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Mds",
-      "url": "https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "808 CLUB",
-        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "PUTO (feat. Alee)",
-      "url": "https://open.spotify.com/track/1mhgqpCAnVZarcA65K6L0h"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "60K",
         "url": "https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 158797,
       "name": "60K",
       "url": "https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "PUTO (feat. Alee)",
+      "url": "https://open.spotify.com/track/1mhgqpCAnVZarcA65K6L0h"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "carta aberta",
-        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 262258,
-      "name": "carta aberta",
-      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "CAOS",
         "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 140343,
       "name": "ALPINISTA SOCIAL",
       "url": "https://open.spotify.com/track/5SuhtRofSXwsvto7BXUk9z"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "carta aberta",
+        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 262258,
+      "name": "carta aberta",
+      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1767,6 +1767,34 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        },
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "T\u00e1 Eu e a Nicole",
+      "url": "https://open.spotify.com/track/55DFJBnyMKBteeKUl25zIB"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "sua vez de escutar",
         "url": "https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq"
       },
@@ -1795,34 +1823,6 @@
       "duration_ms": 171219,
       "name": "a noite chega",
       "url": "https://open.spotify.com/track/5dO1AzjYhd8gdC0nzojaYd"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
-        },
-        {
-          "name": "AmandesNoBeat",
-          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "T\u00e1 Eu e a Nicole",
-      "url": "https://open.spotify.com/track/55DFJBnyMKBteeKUl25zIB"
     },
     {
       "added_at": "2026-08-07 14:27:34",

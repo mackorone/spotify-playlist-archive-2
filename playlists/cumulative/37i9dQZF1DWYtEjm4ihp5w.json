@@ -1907,6 +1907,28 @@
     },
     {
       "album": {
+        "name": "Casanightmare",
+        "url": "https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        },
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Casanightmare",
+      "url": "https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV"
+    },
+    {
+      "album": {
         "name": "Chabiba",
         "url": "https://open.spotify.com/album/6qQNLM5mRSFkjucuy8ghvn"
       },
@@ -6630,7 +6652,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 144000,
       "name": "M\u00caME PAS",
       "url": "https://open.spotify.com/track/3oQhKs5BpsjykMOtccBERO"

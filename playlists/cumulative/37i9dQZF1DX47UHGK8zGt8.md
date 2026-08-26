@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-342 songs - 19 hr 13 min
+343 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 | 2024-11-29 |  |
 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 | 2022-02-18 |  |
 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 | 2022-04-01 | 2024-11-13 |
+| [Delírio do Calor \- Ao Vivo](https://open.spotify.com/track/60xXR5egjNbrlcpsRTzJU8) | [Pitiko](https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn) | [Delírio do Calor \(Ao Vivo\)](https://open.spotify.com/album/7Ci2JtEoi49lUOSwsq3Vpk) | 2:30 | 2026-08-21 |  |
 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 | 2023-10-23 | 2023-10-25 |
 | [Denso e Danço](https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:37 | 2026-04-24 |  |
 | [Depois](https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 2:53 | 2022-06-24 | 2024-04-19 |
@@ -179,7 +180,7 @@
 | [Lembrei de Nós](https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Dominguinho](https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS) | 3:16 | 2025-05-13 |  |
 | [Lenda](https://open.spotify.com/track/44lq0DN2TWWfKzstAzKLXJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 4:19 | 2022-04-01 |  |
 | [Leoa](https://open.spotify.com/track/6l993djoioRwZkNvB8jkRp) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Leoa](https://open.spotify.com/album/7LqFIY1vkKx2fsxKshty6P) | 3:31 | 2022-02-18 | 2022-07-29 |
-| [Leve](https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:55 | 2022-04-01 |  |
+| [Leve](https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:55 | 2022-04-01 | 2026-08-26 |
 | [Leão](https://open.spotify.com/track/5jyhJeoNPBM5EGMU1OTfb8) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Leão](https://open.spotify.com/album/1N5Lvy0FhCxXpB0P047oRg) | 3:27 | 2022-02-18 |  |
 | [Lisboa](https://open.spotify.com/track/2o2xhyri4aJUtgMGkf5P0J) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:39 | 2025-05-02 |  |
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2022-02-18 |  |

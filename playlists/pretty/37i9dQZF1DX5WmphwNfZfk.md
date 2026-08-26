@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,608 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,604 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Echappée Belle](https://open.spotify.com/track/1RamTssAywFRRv4tVKWUeT) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [My World Is The Sun](https://open.spotify.com/album/2h1iYX66Vxm2DLFZgrdMp4) | 3:16 |
 | 50 | [Faux Real](https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Misstape 2](https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k) | 2:28 |
 
-Snapshot ID: `AAAAAJcX95CcHAYB73zHK0bPW0EJc8ur`
+Snapshot ID: `AAAAANiTOennyqtXr8DhmxbDPtWkGHbx`

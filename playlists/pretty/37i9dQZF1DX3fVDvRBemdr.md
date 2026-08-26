@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Tino Martin & Billy Dans! <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,483 likes - 105 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,484 likes - 105 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 104 | [Gitana](https://open.spotify.com/track/4a3SC21Ou8t9kaaNESDhqp) | [Niels Korsuize](https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy) | [Gitana](https://open.spotify.com/album/3mhkWSPUbW7BBx6pwVz4yc) | 2:26 |
 | 105 | [Word Nou Niet Verliefd](https://open.spotify.com/track/1ZpATRatNBgDJbRRFVTiJI) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Word Nou Niet Verliefd](https://open.spotify.com/album/6cSjWRts5xNQwZDj3dsYZ0) | 2:51 |
 
-Snapshot ID: `AAAAAO/qaHs4PRONzqntW27sx+PO4UXM`
+Snapshot ID: `AAAAAH/jHcblXfhxZ5DqskIaGekPaQqF`

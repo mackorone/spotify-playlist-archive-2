@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,508,106 likes - 217 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,508,374 likes - 217 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 216 | [lonely nights](https://open.spotify.com/track/02oyJrGlvHQ4sf7obYMJJk) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [lonely nights](https://open.spotify.com/album/1jZbrN0GqWFnJ8xZXo5IcC) | 2:03 |
 | 217 | [Wassup](https://open.spotify.com/track/0zmgqoq5xsNkrYIgBCGR6F) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Wassup](https://open.spotify.com/album/35n2gEskJlOROatuhjjtBX) | 2:08 |
 
-Snapshot ID: `AAAAAA53/7G+IupU2uizyBgiGlDdaOun`
+Snapshot ID: `AAAAANpJdjThyiPnGudBCD5mbtN563rf`

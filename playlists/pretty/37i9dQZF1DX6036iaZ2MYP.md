@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,918 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,986 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [C'EST QUI C'EST NOUS](https://open.spotify.com/track/10BMsgQMdhtybASU9SE8GD) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [C'EST QUI C'EST NOUS](https://open.spotify.com/album/6tVSD6o5et2tMaBGGpRHy0) | 2:12 |
 | 50 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 
-Snapshot ID: `AAAAAOQwLdGNx4U1i18oWXfn1YF9Hkll`
+Snapshot ID: `AAAAAL7q7cTJIzPj6jAtw2545WoUFNva`

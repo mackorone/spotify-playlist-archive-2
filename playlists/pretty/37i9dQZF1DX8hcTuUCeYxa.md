@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,956 likes - 89 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,961 likes - 89 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 88 | [Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Robotboy](https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z) | 2:34 |
 | 89 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 
-Snapshot ID: `AAAAALVCxvYcqnFqpSApyC1LQNbSERjL`
+Snapshot ID: `AAAAAKXN1CVYnLglPUcB2Z5B8cPqu0N0`

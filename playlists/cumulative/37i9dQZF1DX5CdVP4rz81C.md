@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Gracie Abrams
 
-1,794 songs - 3 day 22 hr 49 min
+1,796 songs - 3 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2023-11-17 | 2023-12-02 |
 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 | 2023-07-02 | 2023-08-12 |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2021-01-23 | 2021-03-19 |
-| [Anxious](https://open.spotify.com/track/63aEUl2Mq4KAuuEkai3LgJ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Anxious](https://open.spotify.com/album/2I65asGzHk1UogiMuM0BIe) | 2:26 | 2024-06-28 |  |
+| [Anxious](https://open.spotify.com/track/63aEUl2Mq4KAuuEkai3LgJ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Anxious](https://open.spotify.com/album/2I65asGzHk1UogiMuM0BIe) | 2:26 | 2024-06-28 | 2026-08-26 |
 | [Anyone Else But You](https://open.spotify.com/track/7dYof5SM0zM3MnraaF53qj) | [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4), [Lana Condor](https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc) | [Anyone Else But You](https://open.spotify.com/album/1d2tQ6FEL3ZYGLZQTOYVXM) | 2:49 | 2021-02-26 | 2021-05-22 |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-09-22 | 2024-03-23 |
 | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD) | 3:58 | 2021-04-15 | 2021-04-30 |
@@ -279,6 +279,7 @@
 | [Changes](https://open.spotify.com/track/2v8GT5HHcqFaTXS2xijw4r) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes](https://open.spotify.com/album/4h8xh5PZ1CNVW9vTdqRYAL) | 3:34 | 2021-01-23 | 2021-05-22 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-25 | 2022-07-30 |
 | [charlie](https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [maybe i already am](https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz) | 3:10 | 2024-09-06 | 2025-09-06 |
+| [Chasing Midnight](https://open.spotify.com/track/4ROx8ILeFj6GPxbZZueZ7D) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:35 | 2026-08-25 |  |
 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 | 2022-12-02 | 2023-07-15 |
 | [Chasing\_\(Demo\)](https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Mikayla Sippel](https://open.spotify.com/artist/4XRSNOy4w4E4euNeu3aIfr) | [Chasing\_\(Demo\)](https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk) | 3:01 | 2020-10-16 | 2021-02-06 |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/1PZDyestTVydtHpaIcfUJg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/5p5cFBRERDfiNJlfABACP0) | 4:31 | 2021-01-12 | 2021-04-03 |
@@ -974,6 +975,7 @@
 | [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 | 2024-05-17 | 2025-04-26 |
 | [Long Way Home](https://open.spotify.com/track/6Fiyilx7ZTmLTi33qYEda5) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/05x5S13Wmke33NKzXIPEs4) | 3:05 | 2024-09-13 |  |
 | [long way home](https://open.spotify.com/track/6M7C0SPmqWEsy1sF23Yt4V) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [long way home](https://open.spotify.com/album/0YjPmT6Y8BxWvvLorvnGRT) | 3:08 | 2023-01-06 | 2023-02-18 |
+| [Look at My Life](https://open.spotify.com/track/4Yf6QS1hjFWT1qMqvpzNcK) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 3:10 | 2026-08-25 |  |
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 5:32 | 2023-03-14 | 2023-04-29 |
 | [Look Back & Laugh](https://open.spotify.com/track/6e0Gfl49FN9m2c8QaB9vFr) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf) | 2:44 | 2022-09-16 | 2022-10-29 |
 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2023-05-12 | 2023-06-24 |
@@ -1264,7 +1266,7 @@
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-06-24 | 2022-08-27 |
 | [Real](https://open.spotify.com/track/0vk4AYy92FJy72y2pQFWAJ) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Real](https://open.spotify.com/album/1oz1E95l4lgqCxN2WRqDUC) | 2:43 | 2022-03-11 | 2022-03-26 |
 | [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 | 2023-05-26 | 2023-08-19 |
-| [Real Good Love](https://open.spotify.com/track/13NS1isrYiasCdCt775RL3) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Real Good Love](https://open.spotify.com/album/2CUpYizxYu2o1ULtbM61RF) | 2:52 | 2024-06-28 |  |
+| [Real Good Love](https://open.spotify.com/track/13NS1isrYiasCdCt775RL3) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Real Good Love](https://open.spotify.com/album/2CUpYizxYu2o1ULtbM61RF) | 2:52 | 2024-06-28 | 2026-08-26 |
 | [Real Thing \(feat\. Elohim\)](https://open.spotify.com/track/5wb8h2gUzyhmCwOtGp29z4) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Real Thing \(feat\. Elohim\)](https://open.spotify.com/album/6BelAZUC4yUO1wVouRJNmN) | 3:05 | 2021-12-24 | 2022-01-01 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 | 2022-04-09 |
 | [Really Mean It](https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 3:14 | 2024-01-19 | 2024-04-19 |

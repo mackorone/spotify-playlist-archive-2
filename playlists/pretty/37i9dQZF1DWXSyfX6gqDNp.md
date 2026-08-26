@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,184 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,194 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 50 | [Being the problem](https://open.spotify.com/track/2wJkGPUzUHcdDCPHe0bF4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Being the problem](https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T) | 2:56 |
 | 51 | [September Wind](https://open.spotify.com/track/6AWJW2j6yLLsn0f4mfm78t) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [September Wind](https://open.spotify.com/album/45WFC6dvpwiqGN4pTXrfMl) | 6:22 |
 
-Snapshot ID: `AAAAAOEUfgHJtThvox1aDu/0gE6CXdGE`
+Snapshot ID: `AAAAAIwT7QaDyosCF/l0wjENQ/k2ehW2`

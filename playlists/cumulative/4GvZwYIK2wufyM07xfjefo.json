@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 184242,
       "name": "Aoi (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7m6FcmsXRA5rws17edvIgT"
@@ -1517,6 +1517,32 @@
     },
     {
       "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/5obJv1sab9zmw1pjxKI5bX"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30be\u30f3",
+          "url": "https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "New Dawn (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/1VUvcIh2uAwkcqh70mcIk1"
+    },
+    {
+      "album": {
         "name": "FLOCCINAUCINIHILIPILIFICATION / NJ",
         "url": "https://open.spotify.com/album/0YkMGFdZpxAv32q6VKqDay"
       },
@@ -1798,6 +1824,28 @@
       "duration_ms": 166153,
       "name": "Room303 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3WKFq79bOxBnmYFFU8mcEu"
+    },
+    {
+      "album": {
+        "name": "Transitions",
+        "url": "https://open.spotify.com/album/0ttdxGq7HgWyQf42VlnKL4"
+      },
+      "artists": [
+        {
+          "name": "Chiquewa - \u3071\u3093\u3060\u3063\u3061",
+          "url": "https://open.spotify.com/artist/3dGJZgmwiip1ZaaGIZcgf3"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265296,
+      "name": "Rush Life (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/6cL5FN4A7c5De5uQm0SRju"
     },
     {
       "album": {
@@ -2378,7 +2426,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 191772,
       "name": "typing (feat. \u6b4c\u611b\u30e6\u30ad)",
       "url": "https://open.spotify.com/track/1N6NPeYqSvZzCBQDk7oSrH"
@@ -3558,7 +3606,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 138375,
       "name": "\u307e\u308b\u3067\u4e8c\u91cd\u632f\u308a\u5b50\u306e\u30bb\u30ab\u30a4\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4OyCyQrzNzRJNGONKv4mxr"
@@ -4480,6 +4528,28 @@
       "duration_ms": 168631,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306f\u51ac\u4f11\u307f (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/42C8SACfnGAbBSsfnnLzhh"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30b3\u30ed\u30ce\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/6CDXB2W3g6dUEGHXcWNVuV"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u3069\u3093\u30bf\u30a4\u30de\u30fcP",
+          "url": "https://open.spotify.com/artist/4ta5vqvsNmN0wFUultQHdJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305925,
+      "name": "\u30b3\u30b3\u30ed\u30ce\u30fc\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4H13q3URX6g9bTGrNSelcN"
     },
     {
       "album": {
@@ -6182,7 +6252,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183050,
       "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30fb\u30aa\u30fc\u30eb\u30fb\u30b6\u30c3\u30c8\u30fb\u30b8\u30e3\u30ba",
       "url": "https://open.spotify.com/track/4XclB9qUKnQH0uWY9w7HBf"
@@ -8005,6 +8075,24 @@
     },
     {
       "album": {
+        "name": "\u671d\u51ea\u3050 / \u6731\u590f\u6c37\u83d3",
+        "url": "https://open.spotify.com/album/1Lza0dq6osGrDpf3k4oF7C"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30b0",
+          "url": "https://open.spotify.com/artist/6e869zTslT6ZAJowpXGAMM"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "\u671d\u51ea\u3050",
+      "url": "https://open.spotify.com/track/7eyxHV8geW8CQRBZAmAV9T"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30b3\u30a5\u30b9\u30c6\u30a3\u30ab",
         "url": "https://open.spotify.com/album/3uvSyhlyS1IyWZeO2AHdW1"
       },
@@ -8274,6 +8362,24 @@
       "duration_ms": 297614,
       "name": "\u6df1\u3044\u68ee\u306e\u306a\u304b\u3067",
       "url": "https://open.spotify.com/track/4avoU6h4nOUP6uLl0CxZMy"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u306e\u97f3\u697d\u5bb6",
+        "url": "https://open.spotify.com/album/3qqJPlnLeBdzJHwGVIzmGT"
+      },
+      "artists": [
+        {
+          "name": "TOKOTOKO",
+          "url": "https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169249,
+      "name": "\u6df1\u591c\u30e9\u30b8\u30aa\u306b\u304a\u3044\u3067\u3088",
+      "url": "https://open.spotify.com/track/5QMNZvvdkdDnIgWZqvqfgy"
     },
     {
       "album": {
@@ -8958,7 +9064,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 261333,
       "name": "\u82b1\u3005\u6625\u306f\u307e\u305f\u5efb\u308b 2026ver (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
       "url": "https://open.spotify.com/track/54lzSFphgJubUHpSdFWiDp"

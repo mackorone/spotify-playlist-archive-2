@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: RONA
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,968 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,961 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 49 | [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 |
 | 50 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
 
-Snapshot ID: `AAAAAN7WRkAUy3FjtnS5GDko5K8tcV9F`
+Snapshot ID: `AAAAAO2QeUcS7X7HROfuQznzslUOuwGS`

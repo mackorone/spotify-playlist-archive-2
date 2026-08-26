@@ -4,7 +4,7 @@
 
 > speed.demon\_hyper\_sleaze.electro\_glitch\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.lucybedroque
 
-1,437 songs - 2 day 11 hr 37 min
+1,438 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,7 +828,7 @@
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-30 | 2024-08-04 |
 | [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 | 2025-02-28 | 2026-02-08 |
 | [Manmade Manmaid](https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Manmade Manmaid](https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA) | 2:40 | 2026-02-20 | 2026-03-21 |
-| [Manmade Manmaid \- Eilish Constance Re:mix](https://open.spotify.com/track/5XO2izrZ5YhDOu4j83VcfB) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5), [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Manmade Manmaid \(Eilish Constance Re:mix\)](https://open.spotify.com/album/50wXn4WcZLsvLv7W3LUiHM) | 2:40 | 2026-07-10 |  |
+| [Manmade Manmaid \- Eilish Constance Re:mix](https://open.spotify.com/track/5XO2izrZ5YhDOu4j83VcfB) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5), [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Manmade Manmaid \(Eilish Constance Re:mix\)](https://open.spotify.com/album/50wXn4WcZLsvLv7W3LUiHM) | 2:40 | 2026-07-10 | 2026-08-26 |
 | [MANNEQUIN](https://open.spotify.com/track/4BOZwlrJLGTPmePx9mM9pu) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:03 | 2026-02-07 | 2026-03-09 |
 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 | 2024-07-31 | 2026-01-31 |
 | [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 | 2023-09-01 | 2024-01-13 |
@@ -1308,6 +1308,7 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2023-01-14 |
 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 | 2024-07-30 | 2026-01-31 |
 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 | 2023-04-28 | 2023-06-06 |
+| [Track 4](https://open.spotify.com/track/1i9PajnrLIEwopapdvD3Se) | [estelle allen](https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4) | [Track 4](https://open.spotify.com/album/6zSiTkWbHkPDoQNNyYHYdT) | 2:44 | 2026-08-25 |  |
 | [trademark usa](https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:30 | 2022-04-12 | 2022-07-27 |
 | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3) | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/album/6CvqKeNcZzGoQIlrXet714) | 2:27 | 2021-10-20 | 2022-02-23 |
 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 | 2023-03-03 | 2023-05-06 |

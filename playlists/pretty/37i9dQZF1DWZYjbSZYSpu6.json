@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: WENDY, JUN. K)",
-  "num_followers": 392790,
+  "num_followers": 392784,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvYRJ7Q1kV2MPXusIXpo0IB6FLw",
+  "snapshot_id": "AAAAAOuhxHZmh1DQJTAk7+x1s/n1wKsS",
   "tracks": [
     {
       "added_at": "2026-08-24 05:17:29",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-08-24 05:17:29",
       "album": {
-        "name": "Rain Drops (Feat. Chodan of QWER)",
-        "url": "https://open.spotify.com/album/1iXiGFFMTl4uirqoakd53U"
-      },
-      "artists": [
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "Chodan",
-          "url": "https://open.spotify.com/artist/2QKtHEMLWgiXDE2tivddkc"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Rain Drops (Feat. Chodan of QWER)",
-      "url": "https://open.spotify.com/track/0mJ95hBlmJ7FOdPDTBs7RD"
-    },
-    {
-      "added_at": "2026-08-24 05:17:29",
-      "album": {
         "name": "Ghosting",
         "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 220693,
       "name": "Ghosting (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
+    },
+    {
+      "added_at": "2026-08-24 05:17:29",
+      "album": {
+        "name": "Rain Drops (Feat. Chodan of QWER)",
+        "url": "https://open.spotify.com/album/1iXiGFFMTl4uirqoakd53U"
+      },
+      "artists": [
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "Chodan",
+          "url": "https://open.spotify.com/artist/2QKtHEMLWgiXDE2tivddkc"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Rain Drops (Feat. Chodan of QWER)",
+      "url": "https://open.spotify.com/track/0mJ95hBlmJ7FOdPDTBs7RD"
     },
     {
       "added_at": "2026-08-24 05:17:29",

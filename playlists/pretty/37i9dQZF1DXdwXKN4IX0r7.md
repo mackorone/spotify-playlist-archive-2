@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwXKN4IX0r7.md) - [plain]
 
 > <a href="spotify:artist:7MdlXmq2HViAJWo9cf30sR">Cloonee</a>'s favorite tracks\. Curated by Cloonee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,063 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,087 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwXKN4IX0r7.md) - [plain]
 | 74 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 |
 | 75 | [aNYway](https://open.spotify.com/track/5TC4Iq44YSsdxTrzOoL2jj) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Quack](https://open.spotify.com/album/19PjKtym1K6kONfyQCxK4C) | 5:02 |
 
-Snapshot ID: `AAAAAMNQLLX4Iqo8wMOelcHg8IZydJpW`
+Snapshot ID: `AAAAABoNl2kmwmUjKeUE4SC6H6gFAZhv`

@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 730028,
+  "num_followers": 730006,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwbSt5GGPzqHSItLY9IiPWjFbd5",
+  "snapshot_id": "AAAAALWY2385KO80SzblVMDFaKtKzJjo",
   "tracks": [
     {
       "added_at": "2026-04-16 23:00:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Overjoyed",
-      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "onmyradio",
         "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 291133,
       "name": "sobeautiful",
       "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Friends & Family",
-        "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "The Only Way",
-      "url": "https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "The Love Is Gone",
         "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199732,
       "name": "The Love Is Gone",
       "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Friends & Family",
+        "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "The Only Way",
+      "url": "https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "ICU (with Justin Timberlake) [Remix]",
         "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
     },
     {
       "added_at": "2026-04-16 23:00:42",

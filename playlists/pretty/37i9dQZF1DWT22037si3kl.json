@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 151019,
+  "num_followers": 151018,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjKlamv2dfnkaoJyftzhQ7tzNcS",
+  "snapshot_id": "AAAAAOpZvTY69iOYF/IGDQ/EO4Uas3cD",
   "tracks": [
     {
       "added_at": "2026-08-21 22:01:20",
@@ -283,30 +283,6 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
-        "name": "CHTC?",
-        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
-      },
-      "artists": [
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "PIR\u00c2MIDE",
-      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
         "name": "Yeezy Slide \"REMIX\"",
         "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
       },
@@ -335,6 +311,30 @@
       "duration_ms": 138591,
       "name": "Yeezy Slide \"REMIX\"",
       "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "PIR\u00c2MIDE",
+      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
     },
     {
       "added_at": "2026-08-21 22:01:20",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2026-08-21 22:01:20",

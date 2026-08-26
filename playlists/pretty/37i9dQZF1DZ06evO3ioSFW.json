@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 533647,
+  "num_followers": 533741,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACGniozFT7A9QPlV+M6z9ZR",
+  "snapshot_id": "aouJgAAAAAAFORB4kk/7A6Sf32F7e0Kv",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 255520,
-      "name": "\u00c1ngel (Angels)",
-      "url": "https://open.spotify.com/track/0oxpihgVSWeYrPoLVZ4udk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Es Color De Rosa",
         "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 211116,
       "name": "Un Bendito D\u00eda",
       "url": "https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
     },
     {
       "added_at": null,
@@ -559,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Ll\u00e9vate",
-      "url": "https://open.spotify.com/track/2AHzaIprICahqw378HVUoO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
       },
@@ -595,6 +559,26 @@
       "duration_ms": 212175,
       "name": "Yo Te Prefiero a Ti",
       "url": "https://open.spotify.com/track/0LuHppPzpqZ6lxdpmjmAz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/2AHzaIprICahqw378HVUoO"
     },
     {
       "added_at": null,
@@ -631,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 214552,
-      "name": "Yo Tuve un Amor",
-      "url": "https://open.spotify.com/track/0aURWMQhHqx8LdnLYvhn9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Mariposas",
         "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
       },
@@ -659,6 +627,22 @@
       "duration_ms": 226933,
       "name": "Ahora Entendi",
       "url": "https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214552,
+      "name": "Yo Tuve un Amor",
+      "url": "https://open.spotify.com/track/0aURWMQhHqx8LdnLYvhn9G"
     },
     {
       "added_at": null,
@@ -699,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 163419,
-      "name": "Ev\u00edtame la Pena",
-      "url": "https://open.spotify.com/track/5iit5JfhTCIXmTcxDYk3kG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -727,6 +695,22 @@
       "duration_ms": 223120,
       "name": "Enamorada y Herida",
       "url": "https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 163419,
+      "name": "Ev\u00edtame la Pena",
+      "url": "https://open.spotify.com/track/5iit5JfhTCIXmTcxDYk3kG"
     },
     {
       "added_at": null,
@@ -763,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 153373,
-      "name": "Viento y Cielo Alcanzar",
-      "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 224386,
       "name": "A D\u00f3nde Va el Amor",
       "url": "https://open.spotify.com/track/4IXOuSEG9SHehdBRwEdezg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 153373,
+      "name": "Viento y Cielo Alcanzar",
+      "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
       },
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Patricio Borghetti",
+          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
         }
       ],
-      "duration_ms": 225720,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO"
+      "duration_ms": 324493,
+      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
     }
   ],
   "unique_name": "This Is Yuridia",

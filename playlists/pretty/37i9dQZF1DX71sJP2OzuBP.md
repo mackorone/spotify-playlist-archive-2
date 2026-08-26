@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,061 likes - 116 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,056 likes - 116 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 115 | [想要保護的 \- 電影《功夫》主題曲](https://open.spotify.com/track/3j0l0O8haMn4QsktFn9MMx) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK), [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [想要保護的 \(電影《功夫》主題曲\)](https://open.spotify.com/album/6ji6MIrhkYlM2MfoBepuUM) | 4:15 |
 | 116 | [曾經如今](https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [《愛了100萬次的我》新歌經典自選輯](https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa) | 4:05 |
 
-Snapshot ID: `AAAAAOMjACJyThnjf1hYA3FF3g+tJ7B3`
+Snapshot ID: `AAAAAJcHIoYd4xEOAdwsB1f2ZnmFMeXU`

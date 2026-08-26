@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,876 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,873 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 91 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 |
 | 92 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
 | 93 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
-| 94 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
-| 95 | [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 |
+| 94 | [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 |
+| 95 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
 | 96 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 |
 | 97 | [Coroa](https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Coroa](https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a) | 2:16 |
 | 98 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 | 99 | [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 |
 | 100 | [Shway Shway](https://open.spotify.com/track/13S2diRuXwgWCnJrPkot6D) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Celinatique](https://open.spotify.com/artist/1KcayMdMfOmdGF1Lq11F3T) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:33 |
 
-Snapshot ID: `AAAAABKRiSBynP8dtbZQQpIT0DkfYJtK`
+Snapshot ID: `AAAAAEWHgPDrdqF7P+XStsytUCkU4Xxt`

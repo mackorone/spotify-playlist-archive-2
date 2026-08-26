@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Yuridia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,859,551 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,859,593 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 7 | [Ponte Bonita](https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Ponte Bonita](https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j) | 2:41 |
 | 8 | [LA CITA FRESITA 2](https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [LA CITA FRESITA 2](https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA) | 2:55 |
 | 9 | [La Cherokee](https://open.spotify.com/track/286FxdzLxQJPzLDH6QQd5K) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Cherokee](https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae) | 2:55 |
-| 10 | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
+| 10 | [El Peor De Mis Fracasos \- En Vivo](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
 | 11 | [Llévala a La Luna](https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Llévala a La Luna](https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP) | 2:44 |
 | 12 | [Recuerdos en Común](https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Recuerdos en Común](https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT) | 3:34 |
 | 13 | [MATCHA](https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 49 | [Leña De Pirul](https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Leña De Pirul](https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f) | 2:46 |
 | 50 | [La Birria de Estela](https://open.spotify.com/track/6JHJY5geN9qhsHP7otLWfL) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [La Birria de Estela](https://open.spotify.com/album/0d2fAxdVEZRSEOJ4J6ZHbq) | 2:56 |
 
-Snapshot ID: `AAAAAKM4cBpa4KQYahmCRRwQg11limA3`
+Snapshot ID: `AAAAAEsBGP/iYHlNnExHu4jzzVc1SB00`

@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 200223,
       "name": "Against All Odds (Take A Look at Me Now) (feat. Westlife)",
       "url": "https://open.spotify.com/track/2IyiRal9MIYZHDTqNKr6os"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 248012,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
@@ -558,10 +558,50 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "album": {
+        "name": "The Remixes",
+        "url": "https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290466,
+      "name": "Fantasy (feat. O.D.B.)",
+      "url": "https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu"
+    },
+    {
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "Fly Like A Bird",
+      "url": "https://open.spotify.com/track/7FE5kIgUX01HdQQyg1M26n"
     },
     {
       "album": {
@@ -576,7 +616,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 240773,
       "name": "Forever",
       "url": "https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB"
@@ -670,7 +710,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 257921,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
@@ -721,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187933,
+      "name": "I Am Free",
+      "url": "https://open.spotify.com/track/0cCJ8mOuvpqb3Ic2FAooW6"
+    },
+    {
+      "album": {
         "name": "Mariah Carey",
         "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
       },
@@ -732,8 +790,8 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
-      "duration_ms": 288826,
+      "date_removed": null,
+      "duration_ms": 287467,
       "name": "I Don't Wanna Cry",
       "url": "https://open.spotify.com/track/1hFtJ5rV3aAm58ErijHdFO"
     },
@@ -870,10 +928,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 263933,
       "name": "I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
       "url": "https://open.spotify.com/track/5t1OvYkhjQzWrxlE3UcDb6"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged EP",
+        "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Trey Lorenz",
+          "url": "https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282373,
+      "name": "I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
+      "url": "https://open.spotify.com/track/2exGHTlYAUQ5UX4e7Uqc79"
     },
     {
       "album": {
@@ -888,7 +968,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 202403,
       "name": "In Your Feelings",
       "url": "https://open.spotify.com/track/0QZdgoHHwhFMkDazElGqLJ"
@@ -972,7 +1052,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 205617,
       "name": "Jesus I Do (feat. The Clark Sisters)",
       "url": "https://open.spotify.com/track/0fLwKttkpqaQDqDy8JH8Ul"
@@ -1026,7 +1106,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 228541,
       "name": "Love Takes Time",
       "url": "https://open.spotify.com/track/48l7PNpT2fBoT4cdLW6EzP"
@@ -1066,7 +1146,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 308018,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST"
@@ -1084,7 +1164,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 220093,
       "name": "Melt Away",
       "url": "https://open.spotify.com/track/7c010UJj6NGc5QcM8EaIt3"
@@ -1127,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295693,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/3kxr8R2FrhQcENEDvWPNqa"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -1138,7 +1236,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 230933,
       "name": "My All",
       "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
@@ -1200,6 +1298,24 @@
       "duration_ms": 170372,
       "name": "My Prayer",
       "url": "https://open.spotify.com/track/12Xk0yMK6GJEmz1DufsV9H"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224799,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/03VtT9Da5Ivxh8n3PHnQem"
     },
     {
       "album": {
@@ -1382,7 +1498,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 209266,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
@@ -1404,7 +1520,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
@@ -1560,7 +1676,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
@@ -1674,7 +1790,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 288640,
       "name": "Through The Rain",
       "url": "https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA"
@@ -1717,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Kiss Of Death",
+        "url": "https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv"
+      },
+      "artists": [
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293800,
+      "name": "U Make Me Wanna",
+      "url": "https://open.spotify.com/track/66PlVvBwKgTseZ1vCU3e46"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1728,7 +1866,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 213226,
       "name": "Underneath the Stars",
       "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
@@ -2142,7 +2280,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 272893,
       "name": "When You Believe - from The Prince of Egypt",
       "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"

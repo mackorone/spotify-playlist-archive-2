@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nipsey Hussle, Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,690 likes - 112 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,688 likes - 112 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 2 | [Meet The Redds \(feat\. Sexyy Red\)](https://open.spotify.com/track/0kR917YFVsHsZKzPIXzi0X) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Meet The Redds \(feat\. Sexyy Red\)](https://open.spotify.com/album/0OO0QKjySSi86LkZaOarHc) | 2:10 |
 | 3 | [JJK \(with Yuki Chiba\)](https://open.spotify.com/track/6acCX2vGgm8mBFJ65mGySQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [JJK \(with Yuki Chiba\)](https://open.spotify.com/album/44ruPTIqJ6EaEFAxOPvXVI) | 2:29 |
 | 4 | [ION KNOW YALL \(feat\. LIL YACHTY\)](https://open.spotify.com/track/39xJttnYfy3N2AYmCF6Iha) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Still Dangerous](https://open.spotify.com/album/7s4NBjgfxAAOETtqwRIvRV) | 3:00 |
-| 5 | [Knee Deep](https://open.spotify.com/track/2AoTIIbQ4LjAFKIn8gziRm) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Knee Deep](https://open.spotify.com/album/3M3xtc8lTcz5DleTHgLVzE) | 3:08 |
+| 5 | [Knee Deep](https://open.spotify.com/track/2AoTIIbQ4LjAFKIn8gziRm) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Knee Deep](https://open.spotify.com/album/3M3xtc8lTcz5DleTHgLVzE) | 3:08 |
 | 6 | [Ryuchijo](https://open.spotify.com/track/6P9tyHxFUy3chrOlwNsdf6) | [G PLANTS](https://open.spotify.com/artist/4iCVfqA83pTcu5Dngc2v6u) | [Ryuchijo](https://open.spotify.com/album/1x6sjfsgGz3oYDvcqvZwfr) | 3:50 |
 | 7 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 8 | [High Rank](https://open.spotify.com/track/2NK4T2AcaYmPrCqmRbzFmQ) | [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Fox BD](https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD) | [High Rank](https://open.spotify.com/album/7lN0DwNYpdiZliFa2DEMq9) | 2:26 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 111 | [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 |
 | 112 | [BAKA BAKA](https://open.spotify.com/track/7nQN2LeQwBWX9CaOcTPMzv) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [BAKA BAKA](https://open.spotify.com/album/0ZoQyFhctmUakbVOaj4jxr) | 2:38 |
 
-Snapshot ID: `AAAAAIvaZckCWiS52r1xfRHtyrZ8le6U`
+Snapshot ID: `AAAAAO+FwSH4hmh+VVKsgvQUph94Xq78`

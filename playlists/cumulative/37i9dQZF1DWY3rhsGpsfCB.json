@@ -16524,7 +16524,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 220206,
       "name": "STINGY",
       "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
@@ -20252,6 +20252,28 @@
       "duration_ms": 181871,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4"
+    },
+    {
+      "album": {
+        "name": "PersWaysion",
+        "url": "https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135861,
+      "name": "You're Mine",
+      "url": "https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb"
     },
     {
       "album": {

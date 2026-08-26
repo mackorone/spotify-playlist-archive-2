@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 188653,
       "name": "Back Foot",
       "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
@@ -1064,6 +1064,24 @@
       "duration_ms": 192320,
       "name": "Pouring Gasoline",
       "url": "https://open.spotify.com/track/6eF46qhfOX5iyz3MlRUEZD"
+    },
+    {
+      "album": {
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Professional Freak",
+      "url": "https://open.spotify.com/track/7bjJgt1FEAZ1vWceuzDgmT"
     },
     {
       "album": {

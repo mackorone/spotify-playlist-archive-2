@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- James the Seventh on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,421 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,395 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [dumbest girl in the world](https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [god forbid a girl spits out her feelings!](https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN) | 2:22 |
 | 50 | [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 |
 
-Snapshot ID: `AAAAAAFd1UQd+NwZUiF0P2l4ynnvfLuh`
+Snapshot ID: `AAAAACy7y/VLTS5bj+4d3npzSwKUYNS0`

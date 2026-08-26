@@ -1,12 +1,12 @@
 {
   "description": "This is The Who. The essential tracks, all in one playlist.",
-  "num_followers": 215822,
+  "num_followers": 215842,
   "original_name": "This Is The Who",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABAS2PnwpRZ6t/JSOjs1RVz",
+  "snapshot_id": "aouJgAAAAABTXruKmtqRDzBzaCOCHNfO",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Generation (Stereo Version)",
-        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "My Generation - Stereo Version",
-      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who\u2019s Next : Life House (Super Deluxe)",
         "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
       },
@@ -139,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 511400,
-      "name": "Won't Get Fooled Again - Original Album Version",
-      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quadrophenia (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
       },
@@ -167,6 +135,22 @@
       "duration_ms": 349600,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4Mqs0h95KAeNiGp7u4udlt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
     },
     {
       "added_at": null,
@@ -459,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Who By Numbers (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "Slip Kid",
-      "url": "https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quadrophenia (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
       },
@@ -507,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 320031,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You",
         "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
       },
@@ -539,38 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quadrophenia (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "The Punk And The Godfather",
-      "url": "https://open.spotify.com/track/2O1tCUkthqO7SWpXdDnp2T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meaty, Beaty, Big And Bouncy",
-        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 162760,
-      "name": "Pictures Of Lily",
-      "url": "https://open.spotify.com/track/123RhEzztpTieeEd13NexC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -580,9 +500,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 227626,
-      "name": "Go To The Mirror!",
-      "url": "https://open.spotify.com/track/4k6ejdRv0n3jsXnwdW42t7"
+      "duration_ms": 320031,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK"
     },
     {
       "added_at": null,
@@ -603,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quadrophenia",
-        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
       },
       "artists": [
         {
@@ -612,9 +532,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 373133,
-      "name": "Quadrophenia",
-      "url": "https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP"
+      "duration_ms": 162760,
+      "name": "Pictures Of Lily",
+      "url": "https://open.spotify.com/track/123RhEzztpTieeEd13NexC"
     },
     {
       "added_at": null,
@@ -644,41 +564,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 169041,
-      "name": "1921",
-      "url": "https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meaty, Beaty, Big And Bouncy",
-        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Boris The Spider",
-      "url": "https://open.spotify.com/track/4u2dUchYraxM1SFBHuE32o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quadrophenia",
-        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 224346,
-      "name": "Cut My Hair",
-      "url": "https://open.spotify.com/track/3fTPxECrrq7Zl5IIPDJEEY"
+      "duration_ms": 227626,
+      "name": "Go To The Mirror!",
+      "url": "https://open.spotify.com/track/4k6ejdRv0n3jsXnwdW42t7"
     },
     {
       "added_at": null,
@@ -699,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quadrophenia (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
       },
       "artists": [
         {
@@ -708,9 +596,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 301213,
-      "name": "Sea And Sand",
-      "url": "https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE"
+      "duration_ms": 147373,
+      "name": "Boris The Spider",
+      "url": "https://open.spotify.com/track/4u2dUchYraxM1SFBHuE32o"
     },
     {
       "added_at": null,
@@ -731,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "1921",
+      "url": "https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quadrophenia",
         "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
       },
@@ -740,9 +644,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 374280,
-      "name": "I've Had Enough",
-      "url": "https://open.spotify.com/track/2j5BDdYwHfJVPfgzmnD2DF"
+      "duration_ms": 129880,
+      "name": "I Am The Sea",
+      "url": "https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy"
     },
     {
       "added_at": null,
@@ -779,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "The Dirty Jobs",
+      "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHO (Deluxe)",
         "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
       },
@@ -795,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quadrophenia",
-        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
       },
       "artists": [
         {
@@ -804,9 +724,89 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 129880,
-      "name": "I Am The Sea",
-      "url": "https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy"
+      "duration_ms": 270426,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/3b8wboATWjPGIpWgFFORxK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "Anyway Anyhow Anywhere - Stereo Version",
+      "url": "https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Bell Boy",
+      "url": "https://open.spotify.com/track/0DkCOLwvtxVPs3ri0XbDLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Leeds (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 351840,
+      "name": "Young Man Blues - Live",
+      "url": "https://open.spotify.com/track/5LPSFlpCHZ4MDox8rMy0lz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "905",
+      "url": "https://open.spotify.com/track/1OUhfm8VXT7jvDPjH7P6Sx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Who Hits 50",
+        "url": "https://open.spotify.com/album/4MWzCje4KFt8oi2aHbhKUN"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "I'm A Boy - Mono",
+      "url": "https://open.spotify.com/track/5Vb8gqBtQz6bwRWj7Ip8j5"
     }
   ],
   "unique_name": "This Is The Who",

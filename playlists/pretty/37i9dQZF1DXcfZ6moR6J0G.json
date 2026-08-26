@@ -1,12 +1,12 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2303345,
+  "num_followers": 2303764,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdeeFocT0KN3lZKvwiEwJT4+uUT",
+  "snapshot_id": "AAAAAF/yrnve/1Qqm4AdLiu2mBSt6HA6",
   "tracks": [
     {
       "added_at": "2026-07-16 22:35:35",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Between Angels And Insects",
-      "url": "https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 223893,
       "name": "7 Words",
       "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Between Angels And Insects",
+      "url": "https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"
     },
     {
       "added_at": "2026-07-16 22:35:35",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Devil Without a Cause",
-        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Bawitdaba",
-      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190760,
       "name": "Boom",
       "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
+        "name": "Devil Without a Cause",
+        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Bawitdaba",
+      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
     },
     {
       "added_at": "2026-07-16 22:35:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "The Only",
-      "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186066,
       "name": "Die MF Die",
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
     },
     {
       "added_at": "2026-07-16 22:35:35",

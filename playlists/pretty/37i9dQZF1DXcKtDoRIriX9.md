@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,153 likes - 93 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,161 likes - 93 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 92 | [Girls In The Front](https://open.spotify.com/track/6NIOZ8P8swUthXkZTl0fmP) | [Oshana](https://open.spotify.com/artist/2PisRdzXzjlFqCzdRD7ega) | [Origins EP](https://open.spotify.com/album/42rm9dTjvnuKaeKkFpnYrl) | 8:00 |
 | 93 | [We...Lost...](https://open.spotify.com/track/07lt8NHZOC6sOkPdPJqO7M) | [Beatrice M.](https://open.spotify.com/artist/4VqxDVyNXrmZiNDwELNbgQ), [Theorist](https://open.spotify.com/artist/0aEOmJBly3AUOsilL9uHc8) | [We...Lost...](https://open.spotify.com/album/3kj140j3AbCKB2b6a7oXAB) | 3:43 |
 
-Snapshot ID: `AAAAANb8NEBcOKsiQDHXPHoVqTr7Rr7v`
+Snapshot ID: `AAAAACK/xO3+bvPzn6wWSwhLsy+UR+bF`

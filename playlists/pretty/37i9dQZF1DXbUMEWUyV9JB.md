@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,964 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,966 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 63 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 64 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 |
 | 65 | [La Colombiana](https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Colombiana](https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju) | 2:46 |
-| 66 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
-| 67 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 |
-| 68 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 |
-| 69 | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/track/4HS1Zmh4EsqxJ2j7vLgIRT) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/album/6Fa4gIficwgEvdGjQyvYzm) | 3:32 |
-| 70 | [La Bandera](https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera](https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit) | 2:40 |
+| 66 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 |
+| 67 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 |
+| 68 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
+| 69 | [La Bandera](https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera](https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit) | 2:40 |
+| 70 | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/track/4HS1Zmh4EsqxJ2j7vLgIRT) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/album/6Fa4gIficwgEvdGjQyvYzm) | 3:32 |
 | 71 | [BACCARAT](https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [BACCARAT](https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG) | 2:37 |
 | 72 | [No Hay Vida Sin Ti](https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Hay Vida Sin Ti](https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ) | 4:07 |
 | 73 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
 | 100 | [Adoro](https://open.spotify.com/track/10DXxZz4pj3Y3kNrutKbB8) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Adoro](https://open.spotify.com/album/5j4gCXvNTkOlYblzmA7eYR) | 3:30 |
 
-Snapshot ID: `AAAAAEs4SvSIvUSRIo7/5SkOyPlOHd5A`
+Snapshot ID: `AAAAAMceXWyYuYkTvSgDPJjhoWy3Pt0F`

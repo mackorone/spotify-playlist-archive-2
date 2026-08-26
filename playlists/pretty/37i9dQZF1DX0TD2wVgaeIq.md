@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,483 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,556 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 99 | [Bansuri Devi](https://open.spotify.com/track/2qJS00DNGAoDey317CPZqM) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Bansuri Devi](https://open.spotify.com/album/1iA3Sgu2WxM2k0HezwVjPl) | 5:13 |
 | 100 | [Healing Energy](https://open.spotify.com/track/5BgmQUITJ3NuJAYCcHsdfA) | [Shaant Man](https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO) | [Healing Energy](https://open.spotify.com/album/2ClNJPtgaQ1P6c3QuMSSAI) | 3:50 |
 
-Snapshot ID: `AAAAADiMNOjkCktsNv1+ejwiGLwGzZ9/`
+Snapshot ID: `AAAAAE57QAoK8eg68oIgZSr5rqnFpsB4`

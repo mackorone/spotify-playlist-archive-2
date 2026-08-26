@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Denzel Curry & Kenny Beats,  Mac Miller, slayr and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,789 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,851 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [Pocahontas](https://open.spotify.com/track/4qD36AafazvbzD1izYdfCT) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Pocahontas](https://open.spotify.com/album/1RrVgt1BtmQP9XVOag70nQ) | 2:27 |
 | 43 | [QUESTION MARK](https://open.spotify.com/track/1Cj9aavb9FbU51SjxXhl7g) | [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [QUESTION MARK](https://open.spotify.com/album/5UdFDFkF6uijPMwxz82fjG) | 2:13 |
 | 44 | [Fast Life](https://open.spotify.com/track/4EqTsr4JJ2Zc94WPPygJIN) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Fast Life](https://open.spotify.com/album/4WsJtjGQYQzgzC7mAGhALB) | 2:50 |
-| 45 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 45 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 46 | [Keep Up \(feat\. Boohavinn\)](https://open.spotify.com/track/13yfsQmT13TosKcw6181NQ) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Boohavinn](https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au) | [Keep Up \(feat\. Boohavinn\)](https://open.spotify.com/album/72nnb1NESNu80FvKIi38Kh) | 1:42 |
 | 47 | [iHOPE](https://open.spotify.com/track/62D4JVlJzRQjKAZhq3e128) | [QUANTRELL](https://open.spotify.com/artist/6dCvTKdEJbcoV2IAL0H0W0) | [PRIME / iHOPE](https://open.spotify.com/album/7dhTqmkciyj0p41lQ1GWL3) | 2:04 |
 | 48 | [1 \- 800](https://open.spotify.com/track/1BcFjLXCCxcT0pfgjvsiLb) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [1 \- 800](https://open.spotify.com/album/3KMJSdo5rl9MLNE3MyUjMN) | 1:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 59 | [Me In The Room](https://open.spotify.com/track/0wMUDfW2pTAZ2zFv4QioDR) | [Ronshach](https://open.spotify.com/artist/0EINQs1jKxovMVKKEmg3q4) | [Me In The Room](https://open.spotify.com/album/6iQAYtDI2Ms6E4kG75mZN2) | 1:59 |
 | 60 | [Hot Summer](https://open.spotify.com/track/7zHrmgAZGbfPyGjfI4qMzn) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Hot Summer](https://open.spotify.com/album/4ENjAZIVoS8yTGJ9vdbuBj) | 2:50 |
 
-Snapshot ID: `AAAAALhigEarVlccLnPsgP4y8Oj0ZZVa`
+Snapshot ID: `AAAAAEcsgb+JE9QWPr9sic3xg+jPz4pN`

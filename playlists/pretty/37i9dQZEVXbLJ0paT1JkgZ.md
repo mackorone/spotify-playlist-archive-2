@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,072 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,080 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [EL MEJOR HOMBRE DEL MUNDO](https://open.spotify.com/album/6fdaLD9AcFrRO32HjRHyq8) | 6:15 |
 | 50 | [222](https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [222](https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh) | 1:55 |
 
-Snapshot ID: `Mh+jOAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiD0uAAAAAAAAAAAAAAAAAAAAAAAAGVu`

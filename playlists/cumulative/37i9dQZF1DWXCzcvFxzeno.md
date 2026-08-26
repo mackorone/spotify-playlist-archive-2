@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-396 songs - 1 day 2 hr 32 min
+397 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Daydream](https://open.spotify.com/track/0WsROU8CJrMWBukK5IMs4y) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Warehouse Memories](https://open.spotify.com/album/3IRvcihOMBU1KNjrSX2YZh) | 7:43 | 2025-01-02 | 2025-01-10 |
 | [Definition of Hard Techno \- Lukas & Fernanda Martins Remix](https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q) | [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [Fernanda Martins](https://open.spotify.com/artist/52MgoD4ydR3spsWVir9naX), [Lukas](https://open.spotify.com/artist/41rDUBSuIZl3YscER2Fskv) | [Definition of Hard Techno](https://open.spotify.com/album/686gQUfEE4dyGJpu7SEjkv) | 6:47 | 2024-06-14 | 2024-06-19 |
 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 | 2024-04-09 | 2026-01-30 |
+| [Desespera](https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Desespera](https://open.spotify.com/album/48xgfMVN4wbsiH10Amgnf1) | 5:26 | 2026-07-30 |  |
 | [Devils Got My Back](https://open.spotify.com/track/0PItAl4HEXoEfK5NMRCAQW) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Devils Got My Back](https://open.spotify.com/album/2aSrnAjieDsZl8nbKdTk2n) | 2:25 | 2025-07-25 | 2026-05-17 |
 | [DGAF](https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [DGAF](https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI) | 3:42 | 2024-09-20 | 2024-11-14 |
 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-05-30 |  |
@@ -213,7 +214,7 @@
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 | 2025-07-25 |
 | [Kick Bass In Your Face](https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Kick Bass In Your Face](https://open.spotify.com/album/0MKm3xNFKPhhDGc16DoT3G) | 2:44 | 2024-09-27 | 2026-06-26 |
 | [Kick Drum Talk](https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Kick Drum Talk](https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1) | 3:47 | 2026-06-11 |  |
-| [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 |  |
+| [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 | 2026-08-26 |
 | [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATED](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 |  |
 | [Kiss Girl](https://open.spotify.com/track/27rVhCihd0rscnZtoj7ZDO) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Kiss Girl](https://open.spotify.com/album/2KQ17ihgLn28kaKFhcN4az) | 3:08 | 2025-01-24 | 2025-03-30 |
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-07-25 |  |

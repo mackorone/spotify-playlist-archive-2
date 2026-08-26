@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > TyriqueOrDie's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,421 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,464 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 49 | [95 South](https://open.spotify.com/track/45Nc6oQkbwLOQ3Os3wTghx) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx), [Chuck Inglish](https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv) | [95 South](https://open.spotify.com/album/2vq6pGthUZehQCtrToxqYX) | 3:09 |
 | 50 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scruffizer](https://open.spotify.com/artist/4nFfDHAqAGzzafiRt7KdEb) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
 
-Snapshot ID: `AAAAABIIt7eS/V/27Q6ik6DLDjp5z4Fc`
+Snapshot ID: `AAAAANe45vNAN02sKboNM66iPtcvFc1A`

@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 24300,
+  "num_followers": 24299,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKq5xPSNGGl8loUnhX+JRmifDxOh",
+  "snapshot_id": "AAAAAJuPlYUVS+KAiQjaa9ZTBk3o2TMc",
   "tracks": [
     {
       "added_at": "2026-02-17 14:09:55",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Music from the Front Room",
         "url": "https://open.spotify.com/album/6Pz9Wt7PD6YTkw4D4LQSDO"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -371,6 +355,22 @@
       "duration_ms": 230093,
       "name": "You\u2019re Getting To Be A Habit With Me",
       "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Travelin'",
         "url": "https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
       },
       "artists": [
         {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+          "name": "Yoon Jong Ryul",
+          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
         }
       ],
-      "duration_ms": 193000,
-      "name": "My Shining Hour",
-      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
+      "duration_ms": 357621,
+      "name": "Needle and Candle",
+      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
       },
       "artists": [
         {
-          "name": "Yoon Jong Ryul",
-          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 357621,
-      "name": "Needle and Candle",
-      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
+      "duration_ms": 193000,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
     },
     {
       "added_at": "2026-02-17 14:09:55",

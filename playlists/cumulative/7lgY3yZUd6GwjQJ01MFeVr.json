@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "TAKES ME BACK",
+        "url": "https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157029,
+      "name": "COUNTRY SONG",
+      "url": "https://open.spotify.com/track/53pLyiHTQWvUrguXfx9soV"
+    },
+    {
+      "album": {
         "name": "Country's Cool Again",
         "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
       },

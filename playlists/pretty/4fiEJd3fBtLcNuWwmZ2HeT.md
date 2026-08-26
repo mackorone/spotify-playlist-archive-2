@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 519 songs - 1 day 5 hr 50 min
+[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 520 songs - 1 day 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -527,5 +527,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 517 | [Koukatsu](https://open.spotify.com/track/4BeBddCKKwrTvqqyK5XZr5) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Koukatsu](https://open.spotify.com/album/4XvVtXEKOW0NQr9nyeXnoe) | 3:46 |
 | 518 | [Toutetsu](https://open.spotify.com/track/2MsGQOwD0CNkEO6npnbK0Z) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Toutetsu](https://open.spotify.com/album/4SmGvvUIfmEQvC6eOklB2m) | 4:08 |
 | 519 | [SIU](https://open.spotify.com/track/7AqPtCvcCx7zgEIHr2RO8B) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/6DOMrPaNqy5Iz5PuponuJz) | 4:38 |
+| 520 | [9:05AM](https://open.spotify.com/track/4xJNpTOBH56S9FyohmoHkw) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [9:05AM](https://open.spotify.com/album/4qbU6E7gD0eZvwaJqzjTzc) | 3:47 |
 
-Snapshot ID: `AAAKaamD81lzjROo9Rx/mDFfv0MW7PT0`
+Snapshot ID: `AAAKan2CIkTG3M81irMnt83FcaCyYjys`

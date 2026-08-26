@@ -95849,6 +95849,24 @@
     },
     {
       "album": {
+        "name": "Somebody's Lying",
+        "url": "https://open.spotify.com/album/4IMdc36rtEnHvtm8Oj99uD"
+      },
+      "artists": [
+        {
+          "name": "BothWorlds",
+          "url": "https://open.spotify.com/artist/2zSIBHZ12RGiI2BwBGKw3M"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267843,
+      "name": "Somebody's Lying",
+      "url": "https://open.spotify.com/track/4vi6b3LjGQWvI87TVShGbB"
+    },
+    {
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/74S1Wg9RXQ6A5z7Rxvwq6v"
       },

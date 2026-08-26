@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151253,
+  "num_followers": 151256,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADh2ssDF1J6ahFZ6c4aLmcV",
+  "snapshot_id": "aouJgAAAAACjIVLQyU7W0wXlb7u09knC",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brillante Sobre el Mic - EADDA9223",
-        "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
       },
       "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 246183,
-      "name": "Brillante Sobre el Mic - EADDA9223",
-      "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "added_at": null,
@@ -635,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brillante Sobre el Mic - EADDA9223",
+        "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 246183,
+      "name": "Brillante Sobre el Mic - EADDA9223",
+      "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguachile",
         "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 182858,
       "name": "CASTIGO",
       "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gotitas Saladas",
-        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 203021,
-      "name": "Gotitas Saladas",
-      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "added_at": null,
@@ -735,38 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "China De Los Ojos Negros",
-        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 154835,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Solamente Una Vez",
-      "url": "https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BALA PERDIDA",
         "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
       },
@@ -787,6 +755,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Solamente Una Vez",
+      "url": "https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "China De Los Ojos Negros",
+        "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 154835,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -799,38 +799,6 @@
       "duration_ms": 183817,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -851,6 +819,38 @@
       "duration_ms": 186840,
       "name": "Nada M\u00e1s Dec\u00eddete",
       "url": "https://open.spotify.com/track/7reIkem0M3QFwqNpCZ2pSN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": null,

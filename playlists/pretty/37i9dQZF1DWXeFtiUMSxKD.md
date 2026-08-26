@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeFtiUMSxKD.md) - [plain]
 
 > The songs that inspired "Wuthering Heights," curated by Charli xcx and Emerald Fennell\. Plus, the film's original soundtrack album by Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,086 likes - 38 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,098 likes - 38 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeFtiUMSxKD.md) - [plain]
 | 37 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:48 |
 | 38 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
 
-Snapshot ID: `AAAAAKDGQnCq4tvVXZgdcCDqwPy0Y5HU`
+Snapshot ID: `AAAAAItFLedINHa+C/ztor+LUHNoy75A`

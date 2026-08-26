@@ -3767,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224740,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
+    },
+    {
+      "album": {
         "name": "Worry About You",
         "url": "https://open.spotify.com/album/5nmek7NtizCaPrpePZFQkz"
       },

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1806595,
+  "num_followers": 1806722,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADMA9UpHwWZfF9ZPATUsYA0Uf46A",
+  "snapshot_id": "AAAAANnEiXwIA4xHohqskrIOmrB8NS82",
   "tracks": [
     {
       "added_at": "2024-07-12 15:40:20",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 182013,
       "name": "Gettin' Over (feat. Chris Willis & Fergie)",
       "url": "https://open.spotify.com/track/4fqwEothoIOcKr3pARJCgu"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Girlfriend (2008 Remix)",
-        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
-        }
-      ],
-      "duration_ms": 435986,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 191106,
       "name": "Love Don't Let Me Go (Walking Away) (David Guetta vs. The Egg)",
       "url": "https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Girlfriend (2008 Remix)",
+        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+        }
+      ],
+      "duration_ms": 435986,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "75, Brazil Street",
-        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
-      },
-      "artists": [
-        {
-          "name": "Nicola Fasano",
-          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
-        },
-        {
-          "name": "Pat-Rich",
-          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "75, Brazil Street (Radio Mix)",
-      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Everything (feat. Myah)",
         "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 228986,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "75, Brazil Street",
+        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
+      },
+      "artists": [
+        {
+          "name": "Nicola Fasano",
+          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
+        },
+        {
+          "name": "Pat-Rich",
+          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "75, Brazil Street (Radio Mix)",
+      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Only One (Radio Edit)",
-      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "DJ Ricardo! pres. Out Anthems 2",
         "url": "https://open.spotify.com/album/5CahiejF4QqKoAAwjDkxSR"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 271000,
       "name": "Love Don't Let Me Go (Walking Away) - David Guetta & Joachim Garraud's F*** Me I'm Famous Mix",
       "url": "https://open.spotify.com/track/2Wy13KxFZT49M05qcT4EJA"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Only One (Radio Edit)",
+      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Girl You Lost To Cocaine",
-        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
-      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "The Girl You Lost To Cocaine",
+        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
+      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Exploration of Space",
         "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1487,22 +1503,6 @@
       "duration_ms": 401360,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
         }
       ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
       },
       "artists": [
         {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         }
       ],
-      "duration_ms": 271586,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "The Sound of Goodbye (Part 2)",
+        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Perpetuous Dreamer",
+          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
+      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "It's Too Late",
         "url": "https://open.spotify.com/album/03x9MmSvyUhbnbphq2noVU"
       },
@@ -1755,22 +1775,34 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Sound of Goodbye (Part 2)",
-        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Perpetuous Dreamer",
-          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
         }
       ],
-      "duration_ms": 199133,
-      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
-      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Best of Alter Ego",
+        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1807,22 +1839,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
       },
       "artists": [
         {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
-      },
-      "artists": [
-        {
-          "name": "Flanders",
-          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "Behind - Callea Radio Mix",
-      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Deep Inside (2009 Mixes)",
         "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
       },
@@ -1963,6 +1963,22 @@
       "duration_ms": 392668,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
+      },
+      "artists": [
+        {
+          "name": "Flanders",
+          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "Behind - Callea Radio Mix",
+      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1983,22 +1999,6 @@
       "duration_ms": 180906,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Best of Alter Ego",
-        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
-      },
-      "artists": [
-        {
-          "name": "Alter Ego",
-          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
     },
     {
       "added_at": "2024-07-12 15:40:20",

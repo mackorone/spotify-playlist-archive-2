@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17175,
+  "num_followers": 17191,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKy+iepU6LmWYLAMoImM4LtRnPxI",
+  "snapshot_id": "AAAAAFocqky33IYn5tONqjRN2O2U5lSB",
   "tracks": [
     {
       "added_at": "2026-07-24 04:49:13",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "TRESCENDER",
         "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 161030,
       "name": "Regalito",
       "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Cuando Te Vi",
+        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 177115,
+      "name": "Cuando Te Vi",
+      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Baby Prime",
         "url": "https://open.spotify.com/album/3KtYriNAr8k2slfPNfCYXg"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 133186,
       "name": "Baby Prime",
       "url": "https://open.spotify.com/track/0wM3i3lZSv8pv8ffQobB7q"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Cuando Te Vi",
-        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 177115,
-      "name": "Cuando Te Vi",
-      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Pa' que lo bailen (Radio Edit)",
-        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 194770,
-      "name": "Pa' que lo bailen - Radio Edit",
-      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Cosas del Destino",
         "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Pa' que lo bailen (Radio Edit)",
+        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 194770,
+      "name": "Pa' que lo bailen - Radio Edit",
+      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 155613,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "La Revancha del Burro",
         "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
       },
@@ -1943,18 +1959,38 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
       },
       "artists": [
         {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
         }
       ],
-      "duration_ms": 155613,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -2003,42 +2039,6 @@
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "NINA",
-        "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "NINA",
-      "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     }
   ],
   "unique_name": "Palmera",

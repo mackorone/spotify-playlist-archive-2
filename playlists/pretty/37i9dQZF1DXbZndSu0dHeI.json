@@ -1,12 +1,12 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234143,
+  "num_followers": 234146,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANpCH9UiDuQM0lO0oK5Z2uhbBIqY",
+  "snapshot_id": "AAAAAEsNwnizGwUIgOyhVaqp8s46Ye7E",
   "tracks": [
     {
       "added_at": "2026-06-18 23:01:00",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
+    },
+    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Everything Is About You",
@@ -551,22 +567,6 @@
       "duration_ms": 157746,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
-    },
-    {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2tggKTosyVKKepsled2gaO"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 207353,
       "name": "Be Your Boy",
       "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "From the Night",
         "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Since July",
+        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "See For Miles",
+      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Since July",
-        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "See For Miles",
-      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "a leith ross song",
+        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "a leith ross song",
+      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 182624,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "a leith ross song",
-        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "a leith ross song",
-      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "I Don't Think of Kissing You",
@@ -1141,20 +1125,20 @@
       "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
     },
     {
-      "added_at": "2026-06-18 23:01:00",
+      "added_at": "2026-08-14 13:22:54",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
       },
       "artists": [
         {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
         }
       ],
-      "duration_ms": 204202,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
+      "duration_ms": 234374,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "The Loved Ones",
-        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 214387,
-      "name": "Victoria Falls",
-      "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Me and My Friends",
         "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+        "name": "The Loved Ones",
+        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+      "duration_ms": 214387,
+      "name": "Victoria Falls",
+      "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 181920,
       "name": "2much2soon",
       "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sad Summer",
-        "url": "https://open.spotify.com/album/3gX6kR3RhrMDD6P6gh03dI"
-      },
-      "artists": [
-        {
-          "name": "sundayclub",
-          "url": "https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Sad Summer",
-      "url": "https://open.spotify.com/track/1BK4EhT0zIW5FoD4LQRD4b"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "RAT RACE",
         "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 218712,
       "name": "RAT RACE",
       "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sad Summer",
+        "url": "https://open.spotify.com/album/3gX6kR3RhrMDD6P6gh03dI"
+      },
+      "artists": [
+        {
+          "name": "sundayclub",
+          "url": "https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Sad Summer",
+      "url": "https://open.spotify.com/track/1BK4EhT0zIW5FoD4LQRD4b"
     },
     {
       "added_at": "2026-06-18 23:01:00",

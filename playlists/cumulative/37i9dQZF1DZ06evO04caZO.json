@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 207133,
       "name": "Automatic Stop",
       "url": "https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2"
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Future Present Past",
+        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273554,
+      "name": "Drag Queen",
+      "url": "https://open.spotify.com/track/6k9mEHQUBi2IgFWkutnXaN"
+    },
+    {
+      "album": {
         "name": "Falling out of Love",
         "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 381293,
       "name": "Falling out of Love",
       "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+    },
+    {
+      "album": {
+        "name": "Fast Animals",
+        "url": "https://open.spotify.com/album/6sKy9KhjloDKHcoyfY8UgZ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Fast Animals",
+      "url": "https://open.spotify.com/track/4zVBpwpegumZ9inLiyBar1"
     },
     {
       "album": {
@@ -268,7 +304,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 224426,
       "name": "Hard To Explain",
       "url": "https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam"
@@ -286,7 +322,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 232562,
       "name": "Hawaii - Juicebox B-Side",
       "url": "https://open.spotify.com/track/6s9oj6aPupVSA1CSaaVZZL"
@@ -304,7 +340,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 206173,
       "name": "Heart In a Cage",
       "url": "https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x"
@@ -322,7 +358,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 162040,
       "name": "I Can't Win",
       "url": "https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy"
@@ -340,7 +376,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 194651,
       "name": "I'll Try Anything Once (\"You Only Live Once\" demo) - Heart In a Cage B-Side",
       "url": "https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L"
@@ -376,7 +412,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 265773,
       "name": "Ize of the World",
       "url": "https://open.spotify.com/track/1TbK5nWKIxZYIRVurMvkuR"
@@ -394,7 +430,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 194573,
       "name": "Juicebox",
       "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
@@ -412,7 +448,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 193506,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
@@ -488,6 +524,24 @@
       "duration_ms": 209626,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
+    },
+    {
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "Meet Me in the Bathroom",
+      "url": "https://open.spotify.com/track/08l9WKDuRyGeStQ9ojTlFh"
     },
     {
       "album": {
@@ -582,7 +636,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 276506,
       "name": "On the Other Side",
       "url": "https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix"
@@ -636,7 +690,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 208133,
       "name": "Razorblade",
       "url": "https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI"
@@ -672,7 +726,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
@@ -708,7 +762,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 153933,
       "name": "Soma",
       "url": "https://open.spotify.com/track/7G8hUONVhvJnkD3Ak8mNF1"
@@ -726,10 +780,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183573,
       "name": "Someday",
       "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT"
+    },
+    {
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "Take It Or Leave It",
+      "url": "https://open.spotify.com/track/0J2OnBNKwt0KICDyDFPUvl"
     },
     {
       "album": {
@@ -798,7 +870,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 185560,
       "name": "The End Has No End",
       "url": "https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF"
@@ -834,7 +906,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 208306,
       "name": "The Modern Age",
       "url": "https://open.spotify.com/track/1EsgUWQsxGBwnu3NATDjiU"
@@ -888,7 +960,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 187306,
       "name": "Under Control",
       "url": "https://open.spotify.com/track/3kKb3U3a8jmUJQB9ypE1Jl"
@@ -942,10 +1014,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 169506,
       "name": "What Ever Happened?",
       "url": "https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4"
+    },
+    {
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "When It Started",
+      "url": "https://open.spotify.com/track/3iiObSfkcBsETljmSB4Hcs"
     },
     {
       "album": {
@@ -996,7 +1086,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 189226,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"

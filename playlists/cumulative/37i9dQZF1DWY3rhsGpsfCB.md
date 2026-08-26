@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-1,000 songs - 2 day 3 hr 23 min
+1,001 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,7 +826,7 @@
 | [STEADY](https://open.spotify.com/track/6erljwO8IBc86msFELW55d) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [STEADY](https://open.spotify.com/album/2lgrPBSWOKLh31tlL1Po1M) | 2:37 | 2024-07-26 | 2024-08-02 |
 | [Steady](https://open.spotify.com/track/0Nk3N24fYgIN2zIpIlAacs) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD) | [Steady](https://open.spotify.com/album/3fIkHOp4fsL4I8ReXAGia3) | 3:15 | 2026-06-26 | 2026-08-20 |
 | [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2024-07-26 | 2024-09-13 |
-| [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 | 2026-02-06 |  |
+| [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 | 2026-02-06 | 2026-08-26 |
 | [Storytime](https://open.spotify.com/track/0x6LQtNgrtznyaDJ5bPBrp) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Storytime](https://open.spotify.com/album/1MoX3r1GbmjH4VWZg1ERrX) | 2:37 | 2025-03-14 | 2025-04-18 |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-09 | 2023-09-10 |
 | [Stuck \(Your Heart\)](https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Stuck \(Your Heart\)](https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O) | 4:10 | 2023-03-14 | 2023-04-15 |
@@ -1007,6 +1007,7 @@
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-12-01 | 2024-02-09 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-06-24 | 2022-11-26 |
 | [You Were Mine](https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp) | [Happy 2 Be Alive](https://open.spotify.com/album/3jXkhOEyaDn7grFbTJ9QQ1) | 3:01 | 2024-05-31 | 2024-07-04 |
+| [You're Mine](https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [PersWaysion](https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn) | 2:15 | 2026-08-19 |  |
 | [Your Matter](https://open.spotify.com/track/14c9HXha95gFZVJiEgRIZ0) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Matter](https://open.spotify.com/album/0iqTeEgr6priRCUW7kmKhj) | 3:11 | 2024-05-17 | 2024-07-27 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

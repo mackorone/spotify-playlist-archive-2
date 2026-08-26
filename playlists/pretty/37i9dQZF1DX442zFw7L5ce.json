@@ -1,12 +1,12 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 63173,
+  "num_followers": 63195,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADg9lsDx4tifKkFc7Azc7U/AOPtv",
+  "snapshot_id": "AAAAAAP+7YknEBcCcMGRjZmjA+mUCcAu",
   "tracks": [
     {
       "added_at": "2026-05-20 07:09:05",
@@ -181,26 +181,6 @@
       "url": "https://open.spotify.com/track/5aaY1uspY7bZbdal535FZm"
     },
     {
-      "added_at": "2021-10-21 04:58:47",
-      "album": {
-        "name": "Ala Vaikunthapurramuloo",
-        "url": "https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 198782,
-      "name": "Buttabomma - Telugu",
-      "url": "https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS"
-    },
-    {
       "added_at": "2025-02-10 12:33:38",
       "album": {
         "name": "Aradhya (From \"Kushi\") (Telugu)",
@@ -219,6 +199,26 @@
       "duration_ms": 282222,
       "name": "Aradhya (From \"Kushi\") (Telugu)",
       "url": "https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD"
+    },
+    {
+      "added_at": "2021-10-21 04:58:47",
+      "album": {
+        "name": "Ala Vaikunthapurramuloo",
+        "url": "https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 198782,
+      "name": "Buttabomma - Telugu",
+      "url": "https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Parugu",
+        "url": "https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C"
+      },
+      "artists": [
+        {
+          "name": "Saketh Naidu",
+          "url": "https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v"
+        }
+      ],
+      "duration_ms": 286639,
+      "name": "Nammavemo",
+      "url": "https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Attarrintiki Daaredi",
         "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
       },
@@ -819,6 +835,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Aadavari Matalaku Ardhalu Veruley",
+        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 319686,
+      "name": "Emaindhi Eevela",
+      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Thammudu",
         "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
       },
@@ -831,22 +863,6 @@
       "duration_ms": 316656,
       "name": "Vayari Bhama",
       "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Parugu",
-        "url": "https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C"
-      },
-      "artists": [
-        {
-          "name": "Saketh Naidu",
-          "url": "https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v"
-        }
-      ],
-      "duration_ms": 286639,
-      "name": "Nammavemo",
-      "url": "https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -879,22 +895,6 @@
       "duration_ms": 272759,
       "name": "Buggey Bangarama",
       "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Aadavari Matalaku Ardhalu Veruley",
-        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 319686,
-      "name": "Emaindhi Eevela",
-      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
     },
     {
       "added_at": "2022-10-13 05:39:22",

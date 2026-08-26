@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,951 likes - 49 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,966 likes - 49 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 48 | [Qualified](https://open.spotify.com/track/4O0XsCmf5dQLgq8htoq2oD) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Qualified](https://open.spotify.com/album/3iJ4NxF3WkAYi0W4hsSsQy) | 5:49 |
 | 49 | [So Loud](https://open.spotify.com/track/15EpJPx5BOaukHzd5SXRLV) | [BATU \(TR\)](https://open.spotify.com/artist/4bRac4iORCXK0jWtdCOdJL), [CVALM](https://open.spotify.com/artist/0xqR7rykJZR0Is0wAfnWBp) | [So Loud](https://open.spotify.com/album/2CfIWtmuv6Nga1ZgG5XOW5) | 3:24 |
 
-Snapshot ID: `AAAAAJzKsBbJpLARmZS3IKdKI+j2XnB+`
+Snapshot ID: `AAAAAIu721TINtHeuzZWC2vsd/exEOhg`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALPULq4vegl+PMGihWtS9jnzZY6P",
+  "snapshot_id": "AAAAAGbzlDqRwdBJ6tt4+varMq2IL9uO",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 150092,
       "name": "alone",
       "url": "https://open.spotify.com/track/0vkZ0YLOtFEaaRWlfFMgb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DRIVE BYE",
+        "url": "https://open.spotify.com/album/19fAAO4PeRKrgvYDfmxtbm"
+      },
+      "artists": [
+        {
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        }
+      ],
+      "duration_ms": 122723,
+      "name": "DRIVE BYE",
+      "url": "https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa"
     },
     {
       "added_at": null,
@@ -79,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRIVE BYE",
-        "url": "https://open.spotify.com/album/19fAAO4PeRKrgvYDfmxtbm"
-      },
-      "artists": [
-        {
-          "name": "Jflexxx",
-          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
-        }
-      ],
-      "duration_ms": 122723,
-      "name": "DRIVE BYE",
-      "url": "https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "not enn a diss",
         "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
       },
@@ -107,6 +107,26 @@
       "duration_ms": 81176,
       "name": "not enn a diss",
       "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "slur",
+        "url": "https://open.spotify.com/album/0zqPRw7HpKTTzh3HovZX6u"
+      },
+      "artists": [
+        {
+          "name": "Konto",
+          "url": "https://open.spotify.com/artist/1tGzMgkoDGrFiIYyshal4R"
+        },
+        {
+          "name": "imylia",
+          "url": "https://open.spotify.com/artist/3yEpoErVGLX6Q12Y5RTEde"
+        }
+      ],
+      "duration_ms": 105743,
+      "name": "slur",
+      "url": "https://open.spotify.com/track/71kF9Pw7KFfNsAqXGD6NQA"
     },
     {
       "added_at": null,
@@ -139,6 +159,22 @@
       "duration_ms": 126040,
       "name": "scrimmage",
       "url": "https://open.spotify.com/track/63W9vpUPPWerUd96x3nx8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloody Bruddas",
+        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        }
+      ],
+      "duration_ms": 128312,
+      "name": "AR-15",
+      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
     },
     {
       "added_at": null,
@@ -195,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloody Bruddas",
-        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        }
-      ],
-      "duration_ms": 128312,
-      "name": "AR-15",
-      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FERRARI",
         "url": "https://open.spotify.com/album/70mqGISBIev77sQBoNRVq3"
       },
@@ -223,6 +243,22 @@
       "duration_ms": 109759,
       "name": "FERRARI",
       "url": "https://open.spotify.com/track/4FOO0xTI6dXRRHJ8CCtAl6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me & Mine, Pt. 1",
+        "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 198149,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
     },
     {
       "added_at": null,
@@ -243,18 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me & Mine, Pt. 1",
-        "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
       },
       "artists": [
         {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+          "name": "999 WRLD",
+          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
         }
       ],
-      "duration_ms": 198149,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
+      "duration_ms": 110221,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
     },
     {
       "added_at": null,
@@ -291,70 +327,6 @@
       "duration_ms": 136672,
       "name": "Dead Friends",
       "url": "https://open.spotify.com/track/6mKTM5l5svqSDh1kohyLrf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Militia",
-        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
-      },
-      "artists": [
-        {
-          "name": "999 WRLD",
-          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "Militia",
-      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OUTTA TOWN",
-        "url": "https://open.spotify.com/album/0UqKq9ejW8gO39zJsgeUyo"
-      },
-      "artists": [
-        {
-          "name": "axaero",
-          "url": "https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz"
-        }
-      ],
-      "duration_ms": 153208,
-      "name": "supply!",
-      "url": "https://open.spotify.com/track/2vRipnqFruBOfVSXkbGuRz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ION WANNA TALK",
-        "url": "https://open.spotify.com/album/6sYy7eUNViW0EL57516MkN"
-      },
-      "artists": [
-        {
-          "name": "Hoodricch Q",
-          "url": "https://open.spotify.com/artist/4GZ5qqDALSTyLLXpjhpWtZ"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "THINKING OUT LOUD",
-      "url": "https://open.spotify.com/track/2LLh8oB38o4mOAMwnZFjHU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
-      },
-      "artists": [
-        {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
-        }
-      ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
@@ -403,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OUTTA TOWN",
+        "url": "https://open.spotify.com/album/0UqKq9ejW8gO39zJsgeUyo"
+      },
+      "artists": [
+        {
+          "name": "axaero",
+          "url": "https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz"
+        }
+      ],
+      "duration_ms": 153208,
+      "name": "supply!",
+      "url": "https://open.spotify.com/track/2vRipnqFruBOfVSXkbGuRz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Pain No Gain",
         "url": "https://open.spotify.com/album/0j4kcCJRc3pZgrApHgMlBt"
       },
@@ -419,18 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "i got bodies",
-        "url": "https://open.spotify.com/album/54w4OV3mq1xoHKpUT0jzhy"
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
       },
       "artists": [
         {
-          "name": "Bernard Jabs",
-          "url": "https://open.spotify.com/artist/1EBoLDWzc0lpDDIVasJhAv"
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
         }
       ],
-      "duration_ms": 108800,
-      "name": "i got bodies",
-      "url": "https://open.spotify.com/track/4brTxHpslYuWygGb4W1QPB"
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
@@ -483,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i got bodies",
+        "url": "https://open.spotify.com/album/54w4OV3mq1xoHKpUT0jzhy"
+      },
+      "artists": [
+        {
+          "name": "Bernard Jabs",
+          "url": "https://open.spotify.com/artist/1EBoLDWzc0lpDDIVasJhAv"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "i got bodies",
+      "url": "https://open.spotify.com/track/4brTxHpslYuWygGb4W1QPB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
       },
@@ -495,6 +499,34 @@
       "duration_ms": 130422,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink6 Vol. 1",
+        "url": "https://open.spotify.com/album/6YdkhzUmMcCWor28vavQ6y"
+      },
+      "artists": [
+        {
+          "name": "Slump Audios",
+          "url": "https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE"
+        },
+        {
+          "name": "pink6",
+          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
+        },
+        {
+          "name": "DJ BANNED",
+          "url": "https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd"
+        },
+        {
+          "name": "Chris Finesse Exclusives",
+          "url": "https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI"
+        }
+      ],
+      "duration_ms": 117002,
+      "name": "NODDING OFF",
+      "url": "https://open.spotify.com/track/5cKcbgcUcog96MzgE4guYS"
     },
     {
       "added_at": null,
@@ -515,50 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Stylist",
-        "url": "https://open.spotify.com/album/3a1Ao3nMVlLb5leLAfiPxx"
+        "name": "ION WANNA TALK",
+        "url": "https://open.spotify.com/album/6sYy7eUNViW0EL57516MkN"
       },
       "artists": [
         {
-          "name": "LOOK KILLA",
-          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
+          "name": "Hoodricch Q",
+          "url": "https://open.spotify.com/artist/4GZ5qqDALSTyLLXpjhpWtZ"
         }
       ],
-      "duration_ms": 178906,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire in my heart",
-        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
-      },
-      "artists": [
-        {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
-        }
-      ],
-      "duration_ms": 229738,
-      "name": "Fire in my heart",
-      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 4 Bop",
-        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
-      },
-      "artists": [
-        {
-          "name": "Curry B",
-          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Telephones",
-      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
+      "duration_ms": 141897,
+      "name": "THINKING OUT LOUD",
+      "url": "https://open.spotify.com/track/2LLh8oB38o4mOAMwnZFjHU"
     },
     {
       "added_at": null,
@@ -579,50 +579,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Hates 10",
-        "url": "https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1"
+        "name": "All 4 Bop",
+        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
       },
       "artists": [
         {
-          "name": "10cellphones",
-          "url": "https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv"
+          "name": "Curry B",
+          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
         }
       ],
-      "duration_ms": 106728,
-      "name": "Air Bender",
-      "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
+      "duration_ms": 145841,
+      "name": "Telephones",
+      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ"
+        "name": "Fire in my heart",
+        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
       "artists": [
         {
-          "name": "Che",
-          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
         }
       ],
-      "duration_ms": 114216,
-      "name": "nine",
-      "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 138814,
-      "name": "Ya Ya",
-      "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"
+      "duration_ms": 229738,
+      "name": "Fire in my heart",
+      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
     },
     {
       "added_at": null,
@@ -651,34 +635,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALL HOGGIN",
-        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
       },
       "artists": [
         {
-          "name": "Shadstackzz",
-          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 108946,
-      "name": "Leave the state",
-      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
+      "duration_ms": 138814,
+      "name": "Ya Ya",
+      "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Rayy Dubb",
+          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
         }
       ],
-      "duration_ms": 182791,
-      "name": "Nightcore 2",
-      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
+      "duration_ms": 165575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
     },
     {
       "added_at": null,
@@ -703,6 +687,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 106533,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BALL HOGGIN",
+        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
+      },
+      "artists": [
+        {
+          "name": "Shadstackzz",
+          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
+        }
+      ],
+      "duration_ms": 108946,
+      "name": "Leave the state",
+      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ"
+      },
+      "artists": [
+        {
+          "name": "Che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "duration_ms": 114216,
+      "name": "nine",
+      "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tap Hour",
         "url": "https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT"
       },
@@ -715,22 +747,6 @@
       "duration_ms": 120639,
       "name": "Tap Hour",
       "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "imposter",
-        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
-      },
-      "artists": [
-        {
-          "name": "boolymon",
-          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
-        }
-      ],
-      "duration_ms": 108437,
-      "name": "imposter",
-      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
     },
     {
       "added_at": null,
@@ -751,34 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disagree",
-        "url": "https://open.spotify.com/album/670icObNVMYesRcjmyXdT2"
+        "name": "Self Stylist",
+        "url": "https://open.spotify.com/album/3a1Ao3nMVlLb5leLAfiPxx"
       },
       "artists": [
         {
-          "name": "Duwap Kaine",
-          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
+          "name": "LOOK KILLA",
+          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
         }
       ],
-      "duration_ms": 136045,
-      "name": "Disagree",
-      "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winners Circle",
-        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
-      },
-      "artists": [
-        {
-          "name": "rexv2",
-          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
-        }
-      ],
-      "duration_ms": 123211,
-      "name": "YOUTUBE",
-      "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"
+      "duration_ms": 178906,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
     },
     {
       "added_at": null,
@@ -799,6 +799,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIG 3",
+        "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
+        {
+          "name": "Slimeto",
+          "url": "https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4"
+        }
+      ],
+      "duration_ms": 122483,
+      "name": "BIG 3",
+      "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
         "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
@@ -815,18 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bank Is Open",
-        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
+        "name": "Disagree",
+        "url": "https://open.spotify.com/album/670icObNVMYesRcjmyXdT2"
       },
       "artists": [
         {
-          "name": "Nb Bankz",
-          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
+          "name": "Duwap Kaine",
+          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
         }
       ],
-      "duration_ms": 138017,
-      "name": "P!NK GUN",
-      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
+      "duration_ms": 136045,
+      "name": "Disagree",
+      "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
     },
     {
       "added_at": null,

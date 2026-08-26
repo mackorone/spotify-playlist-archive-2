@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 233615,
+  "num_followers": 233690,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkK/6M6BI664wEQFgnpwqych9D6",
+  "snapshot_id": "AAAAAMnTKOfOCm/U0qUWwYvd/JKfXnmQ",
   "tracks": [
     {
       "added_at": "2024-07-12 18:46:41",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "No Copio",
-        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 205255,
-      "name": "No Copio",
-      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Nunca Vemos Nada",
         "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 221538,
       "name": "Sexo de Despedida",
       "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "No Copio",
+        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 205255,
+      "name": "No Copio",
+      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -955,18 +955,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+        "name": "Pantone",
+        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
-      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
+      "duration_ms": 265488,
+      "name": "Quien Va",
+      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -991,26 +999,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Pantone",
-        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
       "artists": [
         {
-          "name": "No Rules Clan",
-          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
-        },
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 265488,
-      "name": "Quien Va",
-      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
+      "duration_ms": 178533,
+      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
+      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
-      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Entren Los Que Quieran",
         "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 293066,
       "name": "Digo Lo Que Pienso",
       "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
+      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1643,6 +1643,34 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Retrospecci\u00f3n Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm"
+      },
+      "artists": [
+        {
+          "name": "Geoenezetao",
+          "url": "https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        },
+        {
+          "name": "Hordatoj",
+          "url": "https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu"
+        },
+        {
+          "name": "Sqb",
+          "url": "https://open.spotify.com/artist/751KWo9OE8EhdTgXVCKMOs"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "Viejos Habitantes",
+      "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Y Boquete Pa Tu Techo",
         "url": "https://open.spotify.com/album/5UzpBAZUPKyO0dIe6EFfLN"
       },
@@ -1671,34 +1699,6 @@
       "duration_ms": 238733,
       "name": "La Vida Es",
       "url": "https://open.spotify.com/track/4YymmqRZz37xUB42rLsb1P"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Retrospecci\u00f3n Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm"
-      },
-      "artists": [
-        {
-          "name": "Geoenezetao",
-          "url": "https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK"
-        },
-        {
-          "name": "Dj Dacel",
-          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
-        },
-        {
-          "name": "Hordatoj",
-          "url": "https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu"
-        },
-        {
-          "name": "Sqb",
-          "url": "https://open.spotify.com/artist/751KWo9OE8EhdTgXVCKMOs"
-        }
-      ],
-      "duration_ms": 137197,
-      "name": "Viejos Habitantes",
-      "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"
     },
     {
       "added_at": "2024-07-12 18:46:41",

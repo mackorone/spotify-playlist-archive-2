@@ -1,12 +1,12 @@
 {
   "description": "songs that make you feel like you're levitating",
-  "num_followers": 1574715,
+  "num_followers": 1574776,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJcINq7HF9v1mRhoVS5bO9ASOajd",
+  "snapshot_id": "AAAAAGz2W+sn9yLcMihRa91nztaSO9HI",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:36",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 326533,
-      "name": "Ex-Factor",
-      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 326533,
+      "name": "Ex-Factor",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
         "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -811,34 +795,18 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -859,6 +827,22 @@
       "duration_ms": 228762,
       "name": "Rearrange My World",
       "url": "https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -899,6 +883,22 @@
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Fitzpleasure",
+      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
         "name": "Settle (The Remixes)",
         "url": "https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Fitzpleasure",
-      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Highspeeds",
-        "url": "https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k"
-      },
-      "artists": [
-        {
-          "name": "Elliot Moss",
-          "url": "https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Solitude (Felsmann + Tiley Reinterpretation)",
         "url": "https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52"
       },
@@ -1409,20 +1393,36 @@
       "url": "https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7"
     },
     {
-      "added_at": "2026-07-10 04:01:07",
+      "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Saturday Night",
-        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
+        "name": "Highspeeds",
+        "url": "https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Elliot Moss",
+          "url": "https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
+      "duration_ms": 298906,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1441,20 +1441,20 @@
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
     },
     {
-      "added_at": "2026-06-08 16:01:54",
+      "added_at": "2026-07-10 04:01:07",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1521,6 +1521,22 @@
       "url": "https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB"
     },
     {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
       "added_at": "2026-06-12 04:02:15",
       "album": {
         "name": "The Fall",
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+      "duration_ms": 154531,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1571,22 +1587,6 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "Valentina",
-        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 154531,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1637,22 +1637,6 @@
       "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
     },
     {
-      "added_at": "2026-07-10 04:01:07",
-      "album": {
-        "name": "Fcukers - Spotify RADAR",
-        "url": "https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 295140,
-      "name": "Anemone - (Live) | Spotify RADAR",
-      "url": "https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3"
-    },
-    {
       "added_at": "2026-06-08 16:01:54",
       "album": {
         "name": "7",
@@ -1667,6 +1651,22 @@
       "duration_ms": 251160,
       "name": "Black Car",
       "url": "https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR"
+    },
+    {
+      "added_at": "2026-07-10 04:01:07",
+      "album": {
+        "name": "Fcukers - Spotify RADAR",
+        "url": "https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 295140,
+      "name": "Anemone - (Live) | Spotify RADAR",
+      "url": "https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3"
     },
     {
       "added_at": "2026-06-08 16:01:54",

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Victony",
-  "num_followers": 652448,
+  "num_followers": 652557,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJto9yoPMUnAk0UraMDKs1KGlmG4",
+  "snapshot_id": "AAAAANYdQQlkJJo+iVp/IqRZyYFE4jcy",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:43",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-08-21 00:01:43",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-21 00:01:43",
-      "album": {
         "name": "Juice & Liquor",
         "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 177087,
       "name": "Juice & Liquor",
       "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
+    },
+    {
+      "added_at": "2026-08-21 00:01:43",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-08-21 00:01:43",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-08-21 00:01:43",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
-    },
-    {
-      "added_at": "2026-08-21 00:01:43",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -967,6 +947,22 @@
     {
       "added_at": "2026-08-21 00:01:43",
       "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2026-08-21 00:01:43",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -987,18 +983,22 @@
     {
       "added_at": "2026-08-21 00:01:43",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
     },
     {
       "added_at": "2026-08-21 00:01:43",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-08-21 00:01:43",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "added_at": "2026-08-21 00:01:43",
+      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2026-08-21 00:01:43",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2026-08-21 00:01:43",

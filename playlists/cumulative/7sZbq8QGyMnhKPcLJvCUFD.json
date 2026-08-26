@@ -13513,6 +13513,24 @@
     },
     {
       "album": {
+        "name": "Redesigned",
+        "url": "https://open.spotify.com/album/3s1M0TCtwqnt1dZhYFeb2N"
+      },
+      "artists": [
+        {
+          "name": "Matzan",
+          "url": "https://open.spotify.com/artist/705wpA2q8KZMhSvhpmLiWC"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Redesigned",
+      "url": "https://open.spotify.com/track/1b0gi99XK7YVLE17keg2C1"
+    },
+    {
+      "album": {
         "name": "Reflect",
         "url": "https://open.spotify.com/album/3sDGWzEYgNvleBc5tM3p5G"
       },

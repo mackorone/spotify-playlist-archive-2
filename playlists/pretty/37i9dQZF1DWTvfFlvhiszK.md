@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,167 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,179 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 49 | [Koforidua Flowers](https://open.spotify.com/track/2TnWgysg3OGR3CCf3jKKKC) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [The Return of Kofi B](https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n) | 4:50 |
 | 50 | [Meyere ne me mpena](https://open.spotify.com/track/23ihDMqcmFHFviUdndXeld) | [OKOMFOUR KWADEE](https://open.spotify.com/artist/7cL1cbqdjLnI6R3uhUv6uu) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:45 |
 
-Snapshot ID: `AAAAAJ+0m/12N6IjAu2Q8mR7RD+mKX+6`
+Snapshot ID: `AAAAAEp7EXvuBNluRTyhxvRJkK95TP6/`

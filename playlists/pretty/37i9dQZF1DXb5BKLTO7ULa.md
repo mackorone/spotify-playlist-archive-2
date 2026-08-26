@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Roxy Dekker,  Tino Martin & Billy Dansen, Jorja Smith, Fontaines D.C\. en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,887 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,883 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 27 | [Ascension](https://open.spotify.com/track/5EzDFL1Wz95Ip4kp4LyuRX) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Ascension](https://open.spotify.com/album/7xNy3cBdyOG52lOEpbJbvy) | 3:02 |
 | 28 | [Motivation](https://open.spotify.com/track/59edZBlolguuivWORanXkJ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Motivation](https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV) | 3:53 |
 | 29 | [MADRID](https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID](https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT) | 3:04 |
-| 30 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 30 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 31 | [The Team](https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Team](https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh) | 3:33 |
 | 32 | [Lucky Ones](https://open.spotify.com/track/4xStcEBEoOYfBH0fTMM5hN) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [carteblanche](https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG) | [Lucky Ones](https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx) | 3:22 |
 | 33 | [Bloody Paradise](https://open.spotify.com/track/0lkDoxNvtLUNZcWnm9f8lF) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS \(Chinese Ver.\)](https://open.spotify.com/album/7LhAjABx06c9Zf6yIEcA4N) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Vanavond Ben Ik Vrij](https://open.spotify.com/track/4VICuM9mi2zfDUlmm0oJRl) | [Martijn Fischer](https://open.spotify.com/artist/3XcxxF0DcHXaSKutfg7vng) | [Vanavond Ben Ik Vrij](https://open.spotify.com/album/0GHA1eHbaMBav2Kep5HZZP) | 3:00 |
 | 100 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
 
-Snapshot ID: `AAAAAKbFinFBRWnRqCMIMBEctSiMRP3/`
+Snapshot ID: `AAAAAMl4LRiD37xHMib5rXW/tjqLTbr3`

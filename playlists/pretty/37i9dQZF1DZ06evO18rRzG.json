@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 446177,
+  "num_followers": 446342,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAASVShIUB9aiZZ89IGKndPY",
+  "snapshot_id": "aouJgAAAAACe4NzldTR1DeOGJ9LsuDZK",
   "tracks": [
     {
       "added_at": null,
@@ -243,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Hurt You?",
-        "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
       },
       "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 231964,
-      "name": "Who Hurt You?",
-      "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+        "name": "Who Hurt You?",
+        "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
       },
       "artists": [
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 240937,
-      "name": "Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus",
-      "url": "https://open.spotify.com/track/0BYuy4jQEMJzyo6rySSQpC"
+      "duration_ms": 231964,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
     },
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus",
+      "url": "https://open.spotify.com/track/0BYuy4jQEMJzyo6rySSQpC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pilgrim's Paradise",
         "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
       },
@@ -383,22 +403,6 @@
       "duration_ms": 246972,
       "name": "Streetcar",
       "url": "https://open.spotify.com/track/3m5rs2BeWjLUe0Ygc6aM7i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 169004,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indecision (feat. Daniel Caesar)",
-        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
       },
       "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Indecision (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+      "duration_ms": 169004,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Have A Baby (With Me)",
-      "url": "https://open.spotify.com/track/7sXOV8uUpxPtyTZoV2iqYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CASE STUDY 01",
         "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 318533,
       "name": "TOO DEEP TO TURN BACK",
       "url": "https://open.spotify.com/track/3EOzLBxti9kA01UvwfbPxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CASE STUDY 01",
         "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 261290,
       "name": "ENTROPY",
       "url": "https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/7sXOV8uUpxPtyTZoV2iqYa"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Sign Of The Times",
-      "url": "https://open.spotify.com/track/4idq70ESkXPCPhCCnzBK1y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CASE STUDY 01",
         "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 214277,
       "name": "LOVE AGAIN",
       "url": "https://open.spotify.com/track/7AzVV4CtTbzLVMc5GDVWZj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Sign Of The Times",
+      "url": "https://open.spotify.com/track/4idq70ESkXPCPhCCnzBK1y"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 293709,
-      "name": "Made to Fall in Love",
-      "url": "https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CASE STUDY 01",
         "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 266226,
       "name": "OPEN UP",
       "url": "https://open.spotify.com/track/40vHPre1xRPeCAuK2CNfs4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 293709,
+      "name": "Made to Fall in Love",
+      "url": "https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pilgrim's Paradise",
-        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 305081,
-      "name": "Death & Taxes",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 152250,
       "name": "West",
       "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pilgrim's Paradise",
+        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 305081,
+      "name": "Death & Taxes",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
     },
     {
       "added_at": null,

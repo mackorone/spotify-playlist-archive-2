@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 551 likes - 58 songs - 3 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 554 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 56 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
 | 57 | [Record Queen](https://open.spotify.com/track/44CQduAvXGeiQ74n9hMmIk) | [Sturgeon](https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF) | [Record Queen](https://open.spotify.com/album/2PZ4AIEKtnUXGgZwRuQdRJ) | 2:35 |
 | 58 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 |
+| 59 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 |
+| 60 | [Eloise](https://open.spotify.com/track/084dZY5tSg1EZcMmdQWKeK) | [Amber Elara](https://open.spotify.com/artist/7bu9U2hCgdooaao3ukguFW) | [Eloise](https://open.spotify.com/album/40vDrrYPKoNHVbqNzjPyvT) | 3:45 |
 
-Snapshot ID: `AAACGbYZPoY6Bk5EN172ZQFhdnXQ+iWJ`
+Snapshot ID: `AAACG4PkX36l7QGk0MaZkmAtVxKqQNSK`

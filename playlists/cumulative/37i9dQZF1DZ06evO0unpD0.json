@@ -256,7 +256,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 358173,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc"
@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303853,
+      "name": "Kamouki\u00e9",
+      "url": "https://open.spotify.com/track/6AkFPS7Fctmpqu8OwGmBFw"
+    },
+    {
+      "album": {
         "name": "So Kono",
         "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
       },
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 299546,
       "name": "Moussolou",
       "url": "https://open.spotify.com/track/0i9oSb46hYVTbSzGfjTF36"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 442546,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/1bhld9Fgp9UClF0xHCPFpB"
@@ -2445,6 +2463,44 @@
     },
     {
       "album": {
+        "name": "Yamore (FNX Omar Remix)",
+        "url": "https://open.spotify.com/album/4GXdN11GDSvXXj2hTjZIwP"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Yamore - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/1eUP5T0W0V8uUrY4DldUXc"
+    },
+    {
+      "album": {
         "name": "Yamore (Remix)",
         "url": "https://open.spotify.com/album/37KUHRtoiijZAiHHCLfwDT"
       },
@@ -2562,7 +2618,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Yele n Na",
       "url": "https://open.spotify.com/track/0e4Nz847n4DHLxEFQJWEpY"

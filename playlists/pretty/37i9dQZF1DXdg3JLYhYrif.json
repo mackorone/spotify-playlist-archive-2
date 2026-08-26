@@ -1,12 +1,12 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 378701,
+  "num_followers": 378702,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7rNv353+a6AKEeso3pc1XKZGDT",
+  "snapshot_id": "AAAAAJN+S9mk8+cEzNgWlMuMq+EW6xsQ",
   "tracks": [
     {
       "added_at": "2022-03-24 13:07:25",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Hoje",
+      "url": "https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Pa\u00eds do Futebol",
         "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 149002,
       "name": "Pa\u00eds do Futebol",
       "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Hoje",
-      "url": "https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI"
     },
     {
       "added_at": "2022-03-24 13:07:25",

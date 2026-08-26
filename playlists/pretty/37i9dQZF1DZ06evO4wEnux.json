@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADurcgmYDW6KMCrL+Yg9qG1",
+  "snapshot_id": "aouJgAAAAADFLsV7PrWZyTB1tibtPDHa",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Normal People",
-      "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
+      "duration_ms": 257213,
+      "name": "Better Friend",
+      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
     },
     {
       "added_at": null,
@@ -196,73 +196,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 257213,
-      "name": "Better Friend",
-      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 200881,
-      "name": "Lost Little Boys",
-      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 210547,
-      "name": "Cat Stevens",
-      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Love For Air",
-      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+      "duration_ms": 178400,
+      "name": "Normal People",
+      "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
     },
     {
       "added_at": null,
@@ -292,15 +228,15 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+        "name": "Piece Of Mind",
+        "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
       },
       "artists": [
         {
@@ -308,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Mine for Me",
-      "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
+      "duration_ms": 201951,
+      "name": "Piece Of Mind",
+      "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
     },
     {
       "added_at": null,
@@ -324,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+      "duration_ms": 185266,
+      "name": "Love For Air",
+      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
     },
     {
       "added_at": null,
@@ -356,15 +292,15 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 205600,
-      "name": "The Landscape",
-      "url": "https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR"
+      "duration_ms": 242733,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Piece Of Mind",
-        "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
       },
       "artists": [
         {
@@ -372,9 +308,57 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 201951,
-      "name": "Piece Of Mind",
-      "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
+      "duration_ms": 210547,
+      "name": "Cat Stevens",
+      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 251068,
+      "name": "Wondrous Heart",
+      "url": "https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "The Landscape",
+      "url": "https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR"
     },
     {
       "added_at": null,
@@ -439,6 +423,38 @@
       "duration_ms": 268777,
       "name": "Afterwords",
       "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 210827,
+      "name": "Half the Things",
+      "url": "https://open.spotify.com/track/7iHkJ0K8sWYs9R8xERHd5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Little Boys",
+        "url": "https://open.spotify.com/album/1HI9GK3AihZ3eRlrqn3Rfu"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Lost Little Boys - Radio Edit",
+      "url": "https://open.spotify.com/track/4lekrkL0ptAwUhnCSWPSwP"
     }
   ],
   "unique_name": "This Is Fatherson",

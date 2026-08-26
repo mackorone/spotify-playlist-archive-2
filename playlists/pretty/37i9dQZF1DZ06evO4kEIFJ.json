@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 165281,
+  "num_followers": 165280,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAAWH1xZ1pwY0STF2WFY7YDg",
+  "snapshot_id": "aouJgAAAAADsJQzemVHDHr7oazwIzH4I",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 141986,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RIGHT THERE!",
         "url": "https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 198359,
       "name": "RIGHT THERE!",
       "url": "https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "need dat boy",
-        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "need dat boy",
-      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+        "name": "need dat boy",
+        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 141986,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
+      "duration_ms": 172400,
+      "name": "need dat boy",
+      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
     },
     {
       "added_at": null,

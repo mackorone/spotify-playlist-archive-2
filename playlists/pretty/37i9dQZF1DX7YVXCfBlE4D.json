@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 646457,
+  "num_followers": 646527,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAtCgu16U1KAovSK/pvPzv66hdgO",
+  "snapshot_id": "AAAAAPuzuDdZlNtv8Yz8BIuPZv+oFXqr",
   "tracks": [
     {
       "added_at": "2024-07-11 00:56:29",
@@ -231,8 +231,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Sonora Santanera",
-        "url": "https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Perfume de Gardenia",
-      "url": "https://open.spotify.com/track/74bkVvdH3q2UNZ4MfcSucJ"
+      "duration_ms": 192773,
+      "name": "Luces de Nueva York",
+      "url": "https://open.spotify.com/track/1V8aCIW4zoGe4fuhWlWPHE"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -315,8 +315,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Sonora Santanera",
+        "url": "https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4"
       },
       "artists": [
         {
@@ -324,25 +324,25 @@
           "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 192773,
-      "name": "Luces de Nueva York",
-      "url": "https://open.spotify.com/track/1V8aCIW4zoGe4fuhWlWPHE"
+      "duration_ms": 211293,
+      "name": "Perfume de Gardenia",
+      "url": "https://open.spotify.com/track/74bkVvdH3q2UNZ4MfcSucJ"
     },
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
       },
       "artists": [
         {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 178906,
-      "name": "Como un Duende",
-      "url": "https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM"
+      "duration_ms": 193706,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Serenatas",
         "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 160853,
       "name": "Luna de octubre",
       "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 178906,
+      "name": "Como un Duende",
+      "url": "https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "El preso n\u00famero 9 (Remastered)",
-        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 218432,
-      "name": "La malague\u00f1a - Remastered",
-      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 162944,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "El preso n\u00famero 9 (Remastered)",
+        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 218432,
+      "name": "La malague\u00f1a - Remastered",
+      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Coleccion Original RCA",
-        "url": "https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn"
-      },
-      "artists": [
-        {
-          "name": "Amparo Montes",
-          "url": "https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH"
-        }
-      ],
-      "duration_ms": 135120,
-      "name": "Negra Consentida",
-      "url": "https://open.spotify.com/track/6tsFGZvzhNswBex1hKMq09"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Nos Hizo Falta Tiempo",
         "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 154866,
       "name": "Una Tacita de Caf\u00e9",
       "url": "https://open.spotify.com/track/2eCFUhsUHTy6i1Em7Ok08w"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Coleccion Original RCA",
+        "url": "https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn"
+      },
+      "artists": [
+        {
+          "name": "Amparo Montes",
+          "url": "https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH"
+        }
+      ],
+      "duration_ms": 135120,
+      "name": "Negra Consentida",
+      "url": "https://open.spotify.com/track/6tsFGZvzhNswBex1hKMq09"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Antolog\u00eda ...Boleros*",
         "url": "https://open.spotify.com/album/4hrLWzDuaYiKlQeExrmjVP"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 172920,
       "name": "No vuelvo contigo",
       "url": "https://open.spotify.com/track/3mvTuk8kQW3sAP3kSXJov0"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Noche Negra",
         "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 119739,
       "name": "Noche Negra",
       "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3P8U9V1pkElU1K7uNgi9aG"
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
       },
       "artists": [
         {
-          "name": "Roberto Ledesma",
-          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
         }
       ],
-      "duration_ms": 164960,
-      "name": "Se Me Olvid\u00f3 Tu Nombre",
-      "url": "https://open.spotify.com/track/0CQemGuwQ6oLzaEbIEP8zl"
+      "duration_ms": 175106,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "XEW La Voz de America Latina",
-        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3P8U9V1pkElU1K7uNgi9aG"
       },
       "artists": [
         {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+          "name": "Roberto Ledesma",
+          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
         }
       ],
-      "duration_ms": 175106,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
+      "duration_ms": 164960,
+      "name": "Se Me Olvid\u00f3 Tu Nombre",
+      "url": "https://open.spotify.com/track/0CQemGuwQ6oLzaEbIEP8zl"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Son Inolvidables: Cheo Feliciano & La Rondalla Venezolana",
-        "url": "https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0"
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano & La Rondalla Venezolana",
-          "url": "https://open.spotify.com/artist/3GY32o8BUpnqMxpf6tKCDi"
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
         }
       ],
-      "duration_ms": 193946,
-      "name": "Me Dices Que Te Vas",
-      "url": "https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V"
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+        "name": "Son Inolvidables: Cheo Feliciano & La Rondalla Venezolana",
+        "url": "https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0"
       },
       "artists": [
         {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+          "name": "Cheo Feliciano & La Rondalla Venezolana",
+          "url": "https://open.spotify.com/artist/3GY32o8BUpnqMxpf6tKCDi"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+      "duration_ms": 193946,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2237,7 +2237,7 @@
       "artists": [
         {
           "name": "Dr. Alfonso Ort\u00edz Tirado",
-          "url": "https://open.spotify.com/artist/0A8fGJXKGbDwuFcCihfrO4"
+          "url": "https://open.spotify.com/artist/3hlOljYjVCom3YivKRP9Oq"
         }
       ],
       "duration_ms": 164120,

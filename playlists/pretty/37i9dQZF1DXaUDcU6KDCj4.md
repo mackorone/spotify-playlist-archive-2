@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Anna Graves
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,841 likes - 166 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,875 likes - 166 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 165 | [Closed Doors \(Great Damnation\)](https://open.spotify.com/track/0NmRLCy7BOeCQNWtm6jRL5) | [Renee Christine](https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2) | [Closed Doors \(Great Damnation\)](https://open.spotify.com/album/4GWAdxhX6RnWmyTT645j81) | 3:16 |
 | 166 | [matador \(with Louella\)](https://open.spotify.com/track/2uvjI92vG77beoB0hnX3zV) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu), [Louella](https://open.spotify.com/artist/7ssfxtXuXQOsRmfjQIp6R1) | [matador \(with Louella\)](https://open.spotify.com/album/2oZa4gZkMc7tFaxu4rMRY8) | 3:26 |
 
-Snapshot ID: `AAAAALcbIETzzo0jzE0wEwjgO8UwbILG`
+Snapshot ID: `AAAAAAp55x90lk3jkAiWuFTC/814tca3`

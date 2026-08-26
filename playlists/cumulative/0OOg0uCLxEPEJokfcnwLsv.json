@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "BAIT",
+        "url": "https://open.spotify.com/album/0HkWj6I4OOaAfAHuIciqBS"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "BAIT",
+      "url": "https://open.spotify.com/track/2uVSAVSODR0UyYzIZG9AY7"
+    },
+    {
+      "album": {
         "name": "Balla da solo",
         "url": "https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA"
       },
@@ -1308,6 +1326,24 @@
       "duration_ms": 194486,
       "name": "Bittersweet Coming Of Age",
       "url": "https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2"
+    },
+    {
+      "album": {
+        "name": "When All is Said and Done",
+        "url": "https://open.spotify.com/album/2cYhf6h2XPwRbUhiyeb4du"
+      },
+      "artists": [
+        {
+          "name": "Jillian Ann",
+          "url": "https://open.spotify.com/artist/4fUrsaEHtekVVwgtwHC7YA"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359400,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/4TYbC3ZCjA5tXAhClm0yUT"
     },
     {
       "album": {
@@ -9955,6 +9991,24 @@
     },
     {
       "album": {
+        "name": "Rough Mix",
+        "url": "https://open.spotify.com/album/1Ze45BUNg2nH2rjysEeirm"
+      },
+      "artists": [
+        {
+          "name": "Sivan Langer",
+          "url": "https://open.spotify.com/artist/7ckVHLOYWQRV09kEoLOiqD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Three Monkey Song",
+      "url": "https://open.spotify.com/track/2noQ7yK0sfWuIJC8gbf2PQ"
+    },
+    {
+      "album": {
         "name": "Tic toc",
         "url": "https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko"
       },
@@ -10348,6 +10402,24 @@
       "duration_ms": 144243,
       "name": "Uncrumpled",
       "url": "https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le"
+      },
+      "artists": [
+        {
+          "name": "Solace in Me",
+          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r"
     },
     {
       "album": {

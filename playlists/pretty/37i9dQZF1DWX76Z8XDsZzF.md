@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 
 > Sit back, and chill with Bollywood's easygoing hits\. Cover \- Param Sundari
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,456 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,767 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 | 44 | [Chashni \(From "Bharat"\)](https://open.spotify.com/track/5X5db3FrBOHbibrFKA02MQ) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Chashni \(From "Bharat"\)](https://open.spotify.com/album/5MZ0GKSj7GZofWTBGkOku3) | 4:25 |
 | 45 | [Maahi Ve](https://open.spotify.com/track/1sbW5E7w8tnqpYk0Frx8QG) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:00 |
 | 46 | [Naina Da Kya Kasoor](https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h) | 3:30 |
-| 47 | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7) | 4:17 |
+| 47 | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \- Original Motion Picture Soundtrack](https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7) | 4:17 |
 | 48 | [Bolna](https://open.spotify.com/track/7zn5ecZSwGsLTi1wgxyVzd) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:32 |
 | 49 | [Maiyya Mainu](https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Jersey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC) | 3:51 |
 | 50 | [Dekha Hazaro Dafaa](https://open.spotify.com/track/190P8pyw8J4gr6ygwUlG3z) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Rustom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/78QGeq3kPu6bBNpYXUAR60) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 | 74 | [Gazab Ka Hai Din \(From "Dil Juunglee"\)](https://open.spotify.com/track/0lpDlWrV0Cw3eGGvPU6d3R) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk) | [Gazab Ka Hai Din \(From "Dil Juunglee"\)](https://open.spotify.com/album/2CDoBLpNRmnspcfY6Rci1U) | 3:56 |
 | 75 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 |
 
-Snapshot ID: `AAAAAO0icGiTtltTeQYAIXtM5TpJb7Ag`
+Snapshot ID: `AAAAAOdsPPMHWqwGc3G7f0HOwmQLoI9L`

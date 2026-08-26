@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,327 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,275 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [I See Myself In You](https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [I See Myself In You](https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH) | 3:30 |
 | 75 | [drag](https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [drag](https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu) | 3:49 |
 
-Snapshot ID: `AAAAAKTd1umh7c38CDpR4mRJ2S2vfLR0`
+Snapshot ID: `AAAAAD19jWaAxBzBGabkLhqYATENQrqF`

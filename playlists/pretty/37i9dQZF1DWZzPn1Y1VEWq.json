@@ -1,12 +1,12 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 391676,
+  "num_followers": 391678,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEqpWQLV3jfqqIdP4bzGK0wPZHiR",
+  "snapshot_id": "AAAAAPYlS/CGE9BQ0lL5/uTwjRbSzkjU",
   "tracks": [
     {
       "added_at": "2026-06-26 15:38:11",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Amor de verano",
-      "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Amor de verano",
+      "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "El cantante",
         "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 217973,
       "name": "Estadio Azteca",
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Turfshow",
-        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Yo No Me Quiero Casar, Y Ud?",
-      "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "El regreso",
         "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 182680,
       "name": "Tuyo siempre - En directo 2005",
       "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Turfshow",
+        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Yo No Me Quiero Casar, Y Ud?",
+      "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Cuentos Decapitados",
-        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Eso Vive",
-      "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 172251,
       "name": "Ser\u00e1 - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Cuentos Decapitados",
+        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "Eso Vive",
+      "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
     },
     {
       "added_at": "2026-06-26 15:38:11",

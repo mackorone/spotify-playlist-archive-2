@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,931 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,937 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 17 | [ประดับ](https://open.spotify.com/track/0Y4JbGKpTzV4gpRgOgglAE) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:06 |
 | 18 | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/track/0LIrz28O9gQqKgki2i09l5) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/album/0wktt1y5XwMR8qXvKaXNtM) | 3:36 |
 | 19 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
-| 20 | [WIRUNJUMBANG](https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [WIRUNJUMBANG](https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou) | 3:39 |
+| 20 | [Zindaria](https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [Zindaria](https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V) | 2:23 |
 | 21 | [ตัวปัญหา \(Envy\)](https://open.spotify.com/track/77mRCTRtDRg7UfeOqQMidd) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [ตัวปัญหา \(Envy\)](https://open.spotify.com/album/0Dbn4xDX8mguqDOA2FTkGY) | 3:03 |
 | 22 | [จุมพิต](https://open.spotify.com/track/3leItPP2XIt4eVia7kQ7ey) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MCB : Blonde Do It Better](https://open.spotify.com/album/49qzkCIVXuEu9vPqgN9UYJ) | 3:22 |
 | 23 | [Last Word](https://open.spotify.com/track/2vWbqVpmCaDBSvctgogvDf) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [Last Word](https://open.spotify.com/album/6p6lnMtET3Ic55JGslLhWb) | 3:51 |
 | 24 | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/track/3NuFCD3AHydEznL3WBMTfa) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/album/3V4VMN5AklsUFACWZYK5IL) | 2:59 |
-| 25 | [Zindaria](https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [Zindaria](https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V) | 2:23 |
+| 25 | [WIRUNJUMBANG](https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [WIRUNJUMBANG](https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou) | 3:39 |
 | 26 | [Sheป้ะ](https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [Sheป้ะ](https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX) | 3:53 |
 | 27 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
 | 28 | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/track/21NwwpDdex2A27E87VGqRX) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/album/3ID5rgCeHEpASNQjQmXmxN) | 2:33 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 33 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
 | 34 | [HOW ARE YOU](https://open.spotify.com/track/42PY0meRTLVpVn3Qv9iJKZ) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [HOW ARE YOU](https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw) | 3:26 |
 
-Snapshot ID: `AAAAABoIr8PAXecT7ogcTNMccFnWMPn6`
+Snapshot ID: `AAAAACrCr3g3vIwCPmMM8wnZP+V1vlMV`

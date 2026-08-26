@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: TRK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,984 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,003 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 44 | [YOROBO DRILL ACTE 3](https://open.spotify.com/track/1OD1skHTgSSLF8lmWTqbB6) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [JEUNE & RICHE \(DELUXE\)](https://open.spotify.com/album/3yNYy5fvug5JKo755SZaEE) | 2:49 |
 | 45 | [SL](https://open.spotify.com/track/7rKlN5VfDQ54sM4mHPTg6P) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 7:28 |
 | 46 | [Pression](https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:35 |
-| 47 | [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 |
-| 48 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
+| 47 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
+| 48 | [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 |
 | 49 | [TAPER CREER \(feat\. Gazo\)](https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:40 |
 | 50 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 |
 | 51 | [Yoyo / Petit coeur](https://open.spotify.com/track/0zKdCMxjRXZW3xENEFMI1k) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Glish](https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln) | 4:52 |
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 61 | [En Haut](https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X) | [En Haut](https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F) | 2:52 |
 | 62 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 63 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
-| 64 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
-| 65 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
+| 64 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
+| 65 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
 | 66 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |
 | 67 | [Bijou](https://open.spotify.com/track/5EXEDVRvpKJw3eQ4epRrD7) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:05 |
 | 68 | [Mpiaka](https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mpiaka](https://open.spotify.com/album/2BUr0YXhxjIq3GGElU6izf) | 3:36 |
-| 69 | [Oulala](https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Oulala](https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ) | 2:25 |
-| 70 | [No love](https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [No love](https://open.spotify.com/album/0n5zArvAPe7ZljF5p440pQ) | 3:22 |
-| 71 | [MINIMUM \(feat\. døpelym\)](https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd) | [SK 07](https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [MÉTAMORPHOSE](https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0) | 2:42 |
+| 69 | [MINIMUM \(feat\. døpelym\)](https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd) | [SK 07](https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [MÉTAMORPHOSE](https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0) | 2:42 |
+| 70 | [Oulala](https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Oulala](https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ) | 2:25 |
+| 71 | [No love](https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [No love](https://open.spotify.com/album/0n5zArvAPe7ZljF5p440pQ) | 3:22 |
 | 72 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
 | 73 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 |
 | 74 | [MILLIONS](https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [AFRO\-N\-TCHAM 1](https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [SAGACITÉ](https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [CONCRÉTISATION : L'ASCENSION](https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG) | 2:57 |
 | 80 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 
-Snapshot ID: `AAAAAJ2rFL17w1g8vqDyopcWGMbg0cD2`
+Snapshot ID: `AAAAAK4+3H7L10Q9dt4azRnp1W078vQi`

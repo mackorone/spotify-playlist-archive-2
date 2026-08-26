@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 248138,
       "name": "American Remains",
       "url": "https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 183004,
       "name": "Best of All Possible Worlds",
       "url": "https://open.spotify.com/track/2Aakqasjc65Fn8AnQPpznq"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 244249,
       "name": "Born and Raised in Black and White",
       "url": "https://open.spotify.com/track/6AEPHlvR4jgwXe2J0vM1Sl"
@@ -384,8 +384,8 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
-      "duration_ms": 162226,
+      "date_removed": null,
+      "duration_ms": 164975,
       "name": "Breakdown (A Long Way from Home)",
       "url": "https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l"
     },
@@ -406,6 +406,28 @@
       "duration_ms": 215133,
       "name": "Casey's Last Ride",
       "url": "https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34"
+    },
+    {
+      "album": {
+        "name": "The Winning Hand",
+        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247866,
+      "name": "Casey's Last Ride",
+      "url": "https://open.spotify.com/track/2OvDSBsuUGLPAw0WJlfuCo"
     },
     {
       "album": {
@@ -479,6 +501,24 @@
     },
     {
       "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "Come Sundown",
+      "url": "https://open.spotify.com/track/44jAbzqETjZFsTwQWaM30K"
+    },
+    {
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -506,7 +546,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 227878,
       "name": "Deportee (Plane Wreck at Los Gatos)",
       "url": "https://open.spotify.com/track/0SjDshX9dKeY73Pf512FMU"
@@ -788,7 +828,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 156770,
       "name": "Gettin' By, High and Strange",
       "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
@@ -842,10 +882,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 147909,
       "name": "Help Me Make It Through the Night",
       "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
+    },
+    {
+      "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249946,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/2Xz6GKJy96Ox5e3qwt5rY4"
     },
     {
       "album": {
@@ -1016,10 +1074,44 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 211421,
       "name": "If You Don't Like Hank Williams",
       "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
+    },
+    {
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202305,
+      "name": "Jim, I Wore a Tie Today",
+      "url": "https://open.spotify.com/track/7mlWXXM4qSF3faqxmc2XuM"
     },
     {
       "album": {
@@ -1052,7 +1144,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 188241,
       "name": "Jody and the Kid",
       "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
@@ -1086,7 +1178,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 240610,
       "name": "Living Legend",
       "url": "https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB"
@@ -1292,7 +1384,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 246733,
       "name": "Nobody Wins",
       "url": "https://open.spotify.com/track/7FpRYdpA3Qg3c0Q1ZXN905"
@@ -1658,7 +1750,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 194460,
       "name": "Silver Stallion",
       "url": "https://open.spotify.com/track/6ivUoajqXRNVIyEGhRkucw"
@@ -1692,7 +1784,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 177638,
       "name": "Songs That Make a Difference",
       "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
@@ -1804,7 +1896,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 224280,
       "name": "Thank You for a Life",
       "url": "https://open.spotify.com/track/3WGn1HhbtON4FIYVin8IEU"
@@ -1856,7 +1948,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 191667,
       "name": "The Last Cowboy Song",
       "url": "https://open.spotify.com/track/2zfK1yLW1HzHGbmYx6X9F8"
@@ -1966,6 +2058,40 @@
       "duration_ms": 197304,
       "name": "The Taker",
       "url": "https://open.spotify.com/track/18j2NHQJQ7Jrx4jWy2K1qu"
+    },
+    {
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215290,
+      "name": "The Twentieth Century Is Almost Over",
+      "url": "https://open.spotify.com/track/0G2VRCXmSmW7pyBz93NmuJ"
     },
     {
       "album": {
@@ -2114,7 +2240,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 157150,
       "name": "Two Stories Wide",
       "url": "https://open.spotify.com/track/673LeigxlaoCkxPaIyv5Sc"
@@ -2132,7 +2258,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 184860,
       "name": "When I Loved Her",
       "url": "https://open.spotify.com/track/7BgZt5aRKMlKB3BnFdxvf7"

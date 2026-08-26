@@ -4,7 +4,7 @@
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 34 min
+61 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,8 @@
 | ['T Is Voorbij](https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:30 | 2025-12-28 |  |
 | ['t Rode Licht](https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:36 | 2025-07-20 |  |
 | [Al Jouw Woorden Zijn Teveel](https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alleen Met Jou](https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL) | 4:04 | 2025-07-20 |  |
-| [Als Ik Jou Vergeef](https://open.spotify.com/track/24pNmGnmTN6qm8knOSw4Ey) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:41 | 2025-07-20 |  |
-| [Als Je Alles Weet](https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Liefde, Leven, Geven](https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi) | 4:11 | 2025-07-20 |  |
+| [Als Ik Jou Vergeef](https://open.spotify.com/track/24pNmGnmTN6qm8knOSw4Ey) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:41 | 2025-07-20 | 2026-08-26 |
+| [Als Je Alles Weet](https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Liefde, Leven, Geven](https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi) | 4:11 | 2025-07-20 | 2026-08-26 |
 | [Amor, Amor, Amor](https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:46 | 2025-07-20 |  |
 | [Bedankt Mijn Vriend](https://open.spotify.com/track/2f8rXpUhlKYsK1zUnHeSJj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Liefde, Leven, Geven](https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi) | 3:17 | 2025-07-20 |  |
 | [Blijf Bij Mij](https://open.spotify.com/track/4AQnXdOq7ChjMhibKrKne1) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Samen Met Dré](https://open.spotify.com/album/5iwfn6LrS7wwhuMLn16io3) | 4:01 | 2025-07-20 |  |
@@ -55,8 +55,10 @@
 | [Uit M'n Bol](https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 3:29 | 2025-07-20 |  |
 | [Vaag En Stil](https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Vaag En Stil](https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4) | 3:31 | 2025-07-20 |  |
 | [Volare](https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Innamorato](https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD) | 3:40 | 2025-07-20 |  |
+| [Voor Mij Geen Slingers Aan De Wand](https://open.spotify.com/track/0lkcEMsgY7bEW9WTstuJzC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:37 | 2026-08-26 |  |
 | [Waarom](https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:00 | 2025-07-20 |  |
 | [Want Ik Hou Van Jou](https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Want Ik Hou Van Jou](https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB) | 3:47 | 2025-07-20 |  |
+| [Wat 'N Ander Ook Zegt](https://open.spotify.com/track/6fKTN4aND8vkJvYdFoVuyk) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:08 | 2026-08-26 |  |
 | [Wat Is Dan Liefde](https://open.spotify.com/track/7lzSUHVotlqj0JSWIe5Q6D) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 3:36 | 2025-07-20 |  |
 | [Wees Zuinig Op M'n Meissie](https://open.spotify.com/track/1ZKArL3MUbctYbDA0aA70M) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 3:30 | 2025-07-20 |  |
 | [Wij Houden Van Oranje](https://open.spotify.com/track/4TWx4rM6PEaNi5cmqhmS5U) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Wij Houden Van Oranje](https://open.spotify.com/album/4JsfceecKCRAMuNtDm8nuH) | 2:44 | 2026-06-15 | 2026-06-22 |

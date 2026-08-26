@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Rizwan Fadillah
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,334 likes - 115 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,361 likes - 115 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 114 | [Sama Sama Tau](https://open.spotify.com/track/7EAfwpMk0WWKiMyoKvfPVd) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Sama Sama Tau](https://open.spotify.com/album/3Kweuk4RWAQJ5jJ3Y8MsYp) | 2:59 |
 | 115 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 
-Snapshot ID: `AAAAAN8c6GQjIEil/PCWDUvtuK7H1+1B`
+Snapshot ID: `AAAAAHUOkjCoMqkW5zx1Q46qqC0I2F3x`

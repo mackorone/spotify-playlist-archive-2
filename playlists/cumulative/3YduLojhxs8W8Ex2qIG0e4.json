@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/5yuT0QFdzG6llWEHh0fHNU"
+      },
+      "artists": [
+        {
+          "name": "Simon Paul Crabb",
+          "url": "https://open.spotify.com/artist/0tyVSwpO7QE8Kv3xDHdVbr"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239718,
+      "name": "The Envelope",
+      "url": "https://open.spotify.com/track/5dbARy6M7CcTgAGulHaytX"
+    },
+    {
+      "album": {
         "name": "The Party Must Go On",
         "url": "https://open.spotify.com/album/2lax9jtbIr7wgMeWqedkza"
       },

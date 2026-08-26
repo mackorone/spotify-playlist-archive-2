@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Remi Wolf
 
-2,501 songs - 5 day 13 hr 23 min
+2,502 songs - 5 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,6 +1192,7 @@
 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 | 2022-10-28 | 2023-02-11 |
 | [I’m okay, i’m just a little depressed](https://open.spotify.com/track/1O8LgRxgkJ8LUXyYohTcyZ) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SUPERBLOOM](https://open.spotify.com/album/3w8Ki3we6v5ClhTZwvXcqD) | 3:38 | 2020-11-10 | 2021-02-28 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-04-29 | 2023-07-01 |
+| [Jackie](https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Jackie](https://open.spotify.com/album/1SF3E1PRFrTKmcLnAnheaa) | 3:13 | 2026-08-24 |  |
 | [Jaded](https://open.spotify.com/track/1rwbl2Yj5KTRTuR33Gr30R) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [Jaded](https://open.spotify.com/album/4JNujar6UbfatJArQheVXK) | 3:12 | 2021-08-14 | 2021-08-15 |
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-03-24 | 2024-03-23 |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
@@ -1521,7 +1522,7 @@
 | [N.P.D](https://open.spotify.com/track/1eEIMkDqSr8jbnobIEBQz1) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [N.P.D](https://open.spotify.com/album/29hxvEZkaNi0quZsfpcp2U) | 5:31 | 2024-01-20 | 2024-02-11 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-22 | 2022-04-16 |
 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-10 | 2026-02-21 |
-| [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 | 2026-05-15 |  |
+| [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 | 2026-05-15 | 2026-08-26 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-08-06 |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-12 | 2023-06-23 |
 | [Name Something Better](https://open.spotify.com/track/2Nd1dImwW0VVN5HJ9MfvUd) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Easy Way To Lose](https://open.spotify.com/album/0QO71Myy3GIOVaG7v1jwwm) | 4:01 | 2024-01-12 | 2024-03-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,761 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,778 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 18 | [Who Do You Love](https://open.spotify.com/track/6kR2BCzArduYNuJdtezM8L) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:39 |
 | 19 | [Seven Days Too Long \- Mono](https://open.spotify.com/track/1WfHZKUkTwKQ57ukwd21PA) | [Chuck Wood](https://open.spotify.com/artist/7ot74oYptdmYydjyDmcLzg) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:21 |
 | 20 | [There's A Ghost In My House](https://open.spotify.com/track/4T20N2FPwrROVhJBb9n7rD) | [R\. Dean Taylor](https://open.spotify.com/artist/4Yg38CnYMoN09sMLf6KDdW) | [The Essential Collection](https://open.spotify.com/album/0tYlV4snWLH4rWQkX1p8nq) | 2:13 |
-| 21 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
-| 22 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
+| 21 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
+| 22 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
 | 23 | [Let's Wade In The Water](https://open.spotify.com/track/0l2CjLs5IuME1bZeRfNSrm) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 3:34 |
 | 24 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
 | 25 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 54 | [The Who Who Song \(Nobody But My Sweet Baby\)](https://open.spotify.com/track/1C4sO5BITSyC3q8zsgsxBd) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 2:51 |
 | 55 | [I Walked Away](https://open.spotify.com/track/6pbrgU3wtMWM4FkyOtZnnb) | [Bobby Paris](https://open.spotify.com/artist/5AEzIXzU4LV8Q3MKTKUXv9) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 3:10 |
 | 56 | [Walkin' up a One Way Street](https://open.spotify.com/track/4PBUEbH92briGYuDbnHZuw) | [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Walking up a One Way Street](https://open.spotify.com/album/4eNiXrq0bdXDcZd892i54P) | 2:41 |
-| 57 | [It'll Never Be Over For Me](https://open.spotify.com/track/27FZzhVCtPLwtYrnVp0npA) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Something Bad On My Mind](https://open.spotify.com/album/0xpALbNypvcqlsNVaprqtc) | 2:55 |
-| 58 | [In Orbit](https://open.spotify.com/track/1EiF7TFtceLo52Ds13eBhX) | [Joy Lovejoy](https://open.spotify.com/artist/4XJFw8T6JwLYIjCGWR6VUk) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:23 |
+| 57 | [In Orbit](https://open.spotify.com/track/1EiF7TFtceLo52Ds13eBhX) | [Joy Lovejoy](https://open.spotify.com/artist/4XJFw8T6JwLYIjCGWR6VUk) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:23 |
+| 58 | [It'll Never Be Over For Me](https://open.spotify.com/track/27FZzhVCtPLwtYrnVp0npA) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Something Bad On My Mind](https://open.spotify.com/album/0xpALbNypvcqlsNVaprqtc) | 2:55 |
 | 59 | [The Girl Across the Street](https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi) | [Moses Smith](https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj) | [The Northern Side of Philly Soul](https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw) | 4:12 |
 | 60 | [I Go to Pieces \(Everytime\)](https://open.spotify.com/track/36WkgL8NTUyz3z1GTfNhpV) | [Gerri Grainger](https://open.spotify.com/artist/6IH0S0jKDXEw66DTlWUnEl) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:29 |
 | 61 | [I Can't Hold On](https://open.spotify.com/track/6iHL1iozNGVexinzZwacyj) | [Lorraine Chandler](https://open.spotify.com/artist/0tNm55o29GmXLI4J5QptKh) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:24 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 75 | [Skiing in the Snow](https://open.spotify.com/track/0MGUfjPDUqMUJBhfWGQhHx) | [The Invitations](https://open.spotify.com/artist/32vBCJI7CQEKdZPmUgAJQB) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
 | 76 | [Let Love Come Between Us](https://open.spotify.com/track/6b1ZEXdMikajKUfrLzgOwj) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [The Pure Sound Of The Purifys](https://open.spotify.com/album/5kb8JoUSVy5itxArhE7kD3) | 2:27 |
 | 77 | [Gonna Get Along Without You Now \- Single Version](https://open.spotify.com/track/1qgtXp0dM8HSxlnbSQZDuc) | [The Vibrations](https://open.spotify.com/artist/3BLqcKdqgBI3oJvVg7Odz8) | [New Vibrations](https://open.spotify.com/album/17pK7FO1957b0Ap3PubWOh) | 2:07 |
-| 78 | [You Don't Want Me No More](https://open.spotify.com/track/4cQ1CLgqhJtlskXUpM25VE) | [Major Lance](https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt) | [The Best Of Major Lance: Everybody Loves A Good Time!](https://open.spotify.com/album/2MzrmQwcw5sWN5cx3amAPC) | 2:12 |
-| 79 | [Under Your Powerful Love](https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Joe Tex Collection Vol\. 2](https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3) | 4:26 |
+| 78 | [Under Your Powerful Love](https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Joe Tex Collection Vol\. 2](https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3) | 4:26 |
+| 79 | [You Don't Want Me No More](https://open.spotify.com/track/4cQ1CLgqhJtlskXUpM25VE) | [Major Lance](https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt) | [The Best Of Major Lance: Everybody Loves A Good Time!](https://open.spotify.com/album/2MzrmQwcw5sWN5cx3amAPC) | 2:12 |
 | 80 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
 | 81 | [I'm Where It's At](https://open.spotify.com/track/2ETtE2nroXLwviIrTkopbW) | [The Jades](https://open.spotify.com/artist/35ygC5lMRprqOIHZbcjsK0) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:28 |
 | 82 | [She Kissed Me](https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj) | [Frankie Beverly And The Butlers](https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 2](https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 99 | [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 |
 | 100 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
 
-Snapshot ID: `AAAAAEEKNl8WkUZGbFC/eTiadvmJEXVE`
+Snapshot ID: `AAAAANUcgf1QJy7qzaZBJdRtTBVJZKVf`

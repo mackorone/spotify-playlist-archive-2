@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,432 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,445 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 16 | [Zaterdag](https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:44 |
 | 17 | [Dichterbij Dan Ooit](https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:21 |
 | 18 | [Over De Dam](https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:10 |
-| 19 | [Mannenharten](https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:32 |
-| 20 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
-| 21 | [Hou Vol Hou Vast](https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 4:54 |
-| 22 | [Alles Is Liefde](https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Is Liefde](https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ) | 3:29 |
+| 19 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
+| 20 | [Mannenharten](https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:32 |
+| 21 | [Alles Is Liefde](https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Is Liefde](https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ) | 3:29 |
+| 22 | [Hou Vol Hou Vast](https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 4:54 |
 | 23 | [Aanzoek Zonder Ringen](https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [KODO](https://open.spotify.com/artist/6DZlM1W5NTS7TslSnDnKOB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 4:43 |
 | 24 | [Blauwe Ruis](https://open.spotify.com/track/65hR9p90SF1JUv4VCRnatj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:27 |
 | 25 | [Open Je Ogen](https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [In Het Midden Van Alles](https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6) | 4:38 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 45 | [De Mooiste Verliezers](https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 7:14 |
 | 46 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 |
 | 47 | [Vroeg of Laat](https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [De Grasbroek Sessies](https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b) | 3:18 |
-| 48 | [Vallende Engel](https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Oktober](https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0) | 4:40 |
-| 49 | [Een Manier Om Thuis Te Komen](https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 5:11 |
+| 48 | [Een Manier Om Thuis Te Komen](https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 5:11 |
+| 49 | [Vallende Engel](https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Oktober](https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0) | 4:40 |
 | 50 | [Regen](https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Francis](https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2) | 3:26 |
 
-Snapshot ID: `aoo4AAAAAADe4s34iEo9YG4nCXz9Say4`
+Snapshot ID: `aouJgAAAAAA8OTDoZo+TJSBbn9lkU7VS`

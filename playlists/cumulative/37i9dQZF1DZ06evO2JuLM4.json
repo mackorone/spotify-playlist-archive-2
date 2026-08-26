@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328560,
+      "name": "300 M.P.H. Torrential Outpour Blues",
+      "url": "https://open.spotify.com/track/6EZiB3Cb8WI4GNADA5y9cF"
+    },
+    {
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259533,
+      "name": "A Martyr for My Love for You",
+      "url": "https://open.spotify.com/track/46trhGOpR1wVqm59HMVLAh"
+    },
+    {
+      "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
@@ -16,10 +52,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 133293,
       "name": "Apple Blossom",
       "url": "https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249960,
+      "name": "As Ugly As I Seem",
+      "url": "https://open.spotify.com/track/5mKPLTRvJPfKRhiNf0GBuW"
     },
     {
       "album": {
@@ -52,7 +106,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 438551,
       "name": "Ball and Biscuit",
       "url": "https://open.spotify.com/track/0O2SYh5AZ0y8MAPOVC4Mxz"
@@ -124,7 +178,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 111040,
       "name": "Broken Bricks",
       "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
@@ -178,7 +232,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 258066,
       "name": "Catch Hell Blues",
       "url": "https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39"
@@ -268,7 +322,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 269946,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
@@ -286,7 +340,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 110093,
       "name": "Fell In Love With a Girl",
       "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
@@ -365,6 +419,42 @@
     },
     {
       "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "I Can Learn",
+      "url": "https://open.spotify.com/track/1x3HAFk6sG6InmBOmB2x4C"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187440,
+      "name": "I Fought Piranhas",
+      "url": "https://open.spotify.com/track/0hPrfUVJii1F0E98acDiFM"
+    },
+    {
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -394,7 +484,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 274533,
       "name": "I'm Slowly Turning Into You",
       "url": "https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG"
@@ -448,7 +538,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 149066,
       "name": "Jimmy the Exploder",
       "url": "https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK"
@@ -509,6 +599,24 @@
     },
     {
       "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "Let's Build a Home",
+      "url": "https://open.spotify.com/track/6eRkRjdcXutZWhXvhbqKTm"
+    },
+    {
+      "album": {
         "name": "The White Stripes Greatest Hits",
         "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
       },
@@ -556,7 +664,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 225400,
       "name": "Little Cream Soda",
       "url": "https://open.spotify.com/track/6c8EgiX8YLkb3dmQHCEbfN"
@@ -574,7 +682,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 138893,
       "name": "Little Ghost",
       "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
@@ -700,7 +808,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 35226,
       "name": "Passive Manipulation",
       "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
@@ -718,7 +826,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 228000,
       "name": "Rag and Bone",
       "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
@@ -736,7 +844,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 172573,
       "name": "Rated X - Live at Hotel Yorba",
       "url": "https://open.spotify.com/track/7j7M5QszpIxwh6u9dvjT8x"
@@ -776,6 +884,24 @@
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Sister, Do You Know My Name?",
+      "url": "https://open.spotify.com/track/1h1CncaFyTssQ9zGiHy1Ez"
     },
     {
       "album": {
@@ -851,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "The Air Near My Fingers",
+      "url": "https://open.spotify.com/track/7FvSjeL3svbbiPo2Rgirny"
+    },
+    {
+      "album": {
         "name": "Elephant (Deluxe)",
         "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
       },
@@ -905,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "The Union Forever",
+      "url": "https://open.spotify.com/track/2KsIyyd0aitfRhliFDRpId"
+    },
+    {
+      "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
@@ -916,7 +1078,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 194546,
       "name": "Truth Doesn't Make a Noise",
       "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
@@ -952,7 +1114,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
@@ -970,7 +1132,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 114360,
       "name": "When I Hear My Name",
       "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
@@ -988,7 +1150,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 202240,
       "name": "Why Can't You Be Nicer to Me?",
       "url": "https://open.spotify.com/track/2mcIqH8wKpaRr554Tj4tFM"

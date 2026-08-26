@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8721,
+  "num_followers": 8725,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADYU0N5ciGk10+L4AWY9A1U",
+  "snapshot_id": "aouJgAAAAADOcmJLT4rj2W6kPNxhFuDz",
   "tracks": [
     {
       "added_at": null,
@@ -727,30 +727,6 @@
       "duration_ms": 210250,
       "name": "KUKU GOOGLE AM",
       "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worry Me",
-        "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
-      },
-      "artists": [
-        {
-          "name": "DJ Jimmy Jatt",
-          "url": "https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 193044,
-      "name": "Worry Me",
-      "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
     },
     {
       "added_at": null,

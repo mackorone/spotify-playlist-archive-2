@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 390 songs - 20 hr 23 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 407 songs - 21 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -398,5 +398,22 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 388 | [Corn City Anthem \(Agbado My Hood\)](https://open.spotify.com/track/36ttlbAaoA2kBOObU9c2zv) | [Tomiwa Black](https://open.spotify.com/artist/2yTD1uxUYxcty53X3lze09) | [Corn City Anthem \(Agbado My Hood\)](https://open.spotify.com/album/1M42Y2VL523xhgMPF8ZG5o) | 3:38 |
 | 389 | [Lonely Nights](https://open.spotify.com/track/0eSWrY6LoKafkMlYbVyazg) | [Kon](https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b) | [Lonely Nights](https://open.spotify.com/album/0K6BQcpdYew4t3gjND1zLf) | 2:10 |
 | 390 | [We're Ok](https://open.spotify.com/track/02YKUMpXPdPd05IGpgcvtr) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [We're Ok](https://open.spotify.com/album/6D0q6dY0gC9c9tGKRYlQmp) | 2:56 |
+| 391 | [Exotic](https://open.spotify.com/track/0EzZn3eiRabEztb4vDS17U) | [YKTV Maj3sty](https://open.spotify.com/artist/67AQg6fLQOE0PcKEkiI6VH) | [Exotic](https://open.spotify.com/album/0IMbxTqPEWJ3HhM55NcS3y) | 2:52 |
+| 392 | [vamos vamos dance now](https://open.spotify.com/track/6mnQfZqPU5tcdlDUyhwtOL) | [Yo Fresh](https://open.spotify.com/artist/18e2xjkoVBVP7BAOTHieGN) | [vamos vamos dance now](https://open.spotify.com/album/44d9NKay3vvOFj3azzVVVj) | 2:44 |
+| 393 | [Mummy and Daddy](https://open.spotify.com/track/6a5TttPEQHBg8SsKZtJZ0B) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Mummy and Daddy](https://open.spotify.com/album/7efdLmy1h9HfswFMpTH77r) | 2:27 |
+| 394 | [Makise](https://open.spotify.com/track/6WtstcV5UAyKNhplLO26a0) | [Original Sicilian Style](https://open.spotify.com/artist/1ItdqjvLA5Kcx3kDkGgcVZ) | [Sutta stu celu](https://open.spotify.com/album/4gUiYiJJqvP7reBzm5qWfN) | 3:09 |
+| 395 | [back2Me](https://open.spotify.com/track/7ELltL5S8blDZqr8eTD4xA) | [Uxban](https://open.spotify.com/artist/433lt9JbmTHzNzHqZtiK7C) | [back2Me](https://open.spotify.com/album/2QWTLX1mp5QIm9V1CetEIu) | 2:42 |
+| 396 | [Your Eyes](https://open.spotify.com/track/1pzwOKIWXwyXKg5M6iuFlz) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Your Eyes](https://open.spotify.com/album/3lp2R87wuLtvFceJWmU987) | 3:31 |
+| 397 | [Squeeze In A Benz](https://open.spotify.com/track/3VNsEqaOqInSg3jkHX8hcu) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb) | [The World Is Ours](https://open.spotify.com/album/14w3HF19o0mnlozW9f13Lq) | 2:31 |
+| 398 | [Datejust](https://open.spotify.com/track/0B9PJY5L7fZHGihni6Zf1i) | [Don Oyster](https://open.spotify.com/artist/4lOzeAqWH62k26Myk9xSNN) | [Datejust](https://open.spotify.com/album/5AkiyVoRqs1aVdgM85a0GL) | 2:03 |
+| 399 | [Lil Flamin](https://open.spotify.com/track/6ASko61w7fTfd80NUQScDW) | [Zone](https://open.spotify.com/artist/0jgHSNGJphG3d0d6XjCYMa), [G3](https://open.spotify.com/artist/0JNCtQxeECtcc9ROh4GCh7) | [Love Zone](https://open.spotify.com/album/3IlLDEgiJLbDYktc2UgY5J) | 2:43 |
+| 400 | [Run it](https://open.spotify.com/track/1pNWeOGEPjocKHvFZfQ0IN) | [KillaHrtz](https://open.spotify.com/artist/2AOiN0yRMqCrb2tYNYWWER), [Nick Mile$](https://open.spotify.com/artist/3mWd973sCMRkEdWbCxwKQK), [Dvl Don](https://open.spotify.com/artist/4ANTgMZ86f9WoFDFRv9mzH) | [Run it](https://open.spotify.com/album/3sFZOnQfcxEEtl5mUCPLSt) | 2:07 |
+| 401 | [Coastline](https://open.spotify.com/track/17dtP8zjGfaH8b0Th873Wu) | [MELOPHANTS](https://open.spotify.com/artist/31vTdUTqmKypzgh8RiCdG0) | [Coastline](https://open.spotify.com/album/3KFURcF5dSIrU0iToTC78K) | 3:30 |
+| 402 | [Da te ljubim](https://open.spotify.com/track/6oymHkX0YjjNldHo6lob0E) | [Gino Marino](https://open.spotify.com/artist/6HutMDzXtV9w64kRCSYASn) | [Da te ljubim](https://open.spotify.com/album/6IlFDlivp0OOkHww0lBRaL) | 3:23 |
+| 403 | [DJ Banger](https://open.spotify.com/track/7dOU7RdyCAqRwfGc00xR57) | [Seb Banger](https://open.spotify.com/artist/59OMK93xwuu0K6MW6DRUEl) | [DJ Banger](https://open.spotify.com/album/5sZzy06eXyLL4pMD9DDeiA) | 3:24 |
+| 404 | [You Orient Me](https://open.spotify.com/track/7J7pMhd7fB8UhwC7JsBDmE) | [Troy Page](https://open.spotify.com/artist/43sl6HtfaTIfUYNi7GDSSh) | [You Orient Me](https://open.spotify.com/album/5JyTywZwRy29o97qQpKZpR) | 3:30 |
+| 405 | [My Drug](https://open.spotify.com/track/3FRKKaL6lUVLkg6eZ9LQ64) | [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7) | [My Drug](https://open.spotify.com/album/6ks8iwtkdHOZWlplOnhoGZ) | 3:44 |
+| 406 | [Musically](https://open.spotify.com/track/0yljrOHpjKPu7pS1VoX3JS) | [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7) | [Musically](https://open.spotify.com/album/3QyIwzh5hHEyooneN2AzCp) | 4:52 |
+| 407 | [Mummy and Daddy](https://open.spotify.com/track/6a5TttPEQHBg8SsKZtJZ0B) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Mummy and Daddy](https://open.spotify.com/album/7efdLmy1h9HfswFMpTH77r) | 2:27 |
 
-Snapshot ID: `AAAen6ZFbHKR2DQLYg+rv0Q7K6y5P0zv`
+Snapshot ID: `AAAesErGVDqhPpx2YKq1YhdeLvhGG7cf`

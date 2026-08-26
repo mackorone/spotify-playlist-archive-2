@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 353 likes - 2,566 songs - 6 day 6 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 353 likes - 2,567 songs - 6 day 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2574,5 +2574,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2564 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
 | 2565 | [La Ziminadda di Dominichinu \- Orchestral Version](https://open.spotify.com/track/0mc8ZILVFn9naG604eJCd7) | [Los Amigos](https://open.spotify.com/artist/0r5bcdtdDTvbKqzgicuo84), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [La Ziminadda di Dominichinu \(Orchestral Version\)](https://open.spotify.com/album/7jXo0AURN3pDWXC3M1sEWz) | 3:37 |
 | 2566 | [Goodbye](https://open.spotify.com/track/4drwARutqBFfGSHWDorifH) | [Andrew Whistler](https://open.spotify.com/artist/1wyuerQdwzNyYFMp8tyDc9) | [Goodbye](https://open.spotify.com/album/5gd6OT2GQ53tiJ8Ee9U5k8) | 3:35 |
+| 2567 | [Fragile Fantasy](https://open.spotify.com/track/03ZqzUxLxUcDu6mfGz3FCu) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Fragile Fantasy](https://open.spotify.com/album/4hQ4Q10iWMfRCXhHI9gUNw) | 4:06 |
 
-Snapshot ID: `AAAK6xAuxnEJ3FQ5fuXGJfOFR/1MT8ov`
+Snapshot ID: `AAAK7IqUN5xx37SZDnLDOk7lklMWiEx8`

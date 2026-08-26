@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Eves Laurent, Jack, Langa en Siggy & D1ns\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,012 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,973 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Skyline](https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Skyline](https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0) | 2:37 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAAOM3ESD/M+qJbNpilSzwHA+7rPSb`
+Snapshot ID: `AAAAANIOC35HIzO0/OA0HmRFuTjDcB1n`

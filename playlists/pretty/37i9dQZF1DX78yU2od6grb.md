@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,816 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,744 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 79 | [Swing](https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Swing](https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN) | 2:59 |
 | 80 | [Afrofuturista](https://open.spotify.com/track/35d6akAv0HQFb21Ooifwvi) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Afrofuturista](https://open.spotify.com/album/1BWtvpZIQkHY9CwG49QcWs) | 2:04 |
 
-Snapshot ID: `AAAAALl33bEYh1fFsaJ/SzjI+q3MzYPO`
+Snapshot ID: `AAAAAPM1GHwgWVVkU+4h0tf1NtdmT3XU`

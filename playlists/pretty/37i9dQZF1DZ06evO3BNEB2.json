@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40924,
+  "num_followers": 40931,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAA1B+iUcwxB7ou/MJhZGBGA",
+  "snapshot_id": "aouJgAAAAABD15HfUdJemZz1FUYbfh0K",
   "tracks": [
     {
       "added_at": null,
@@ -727,34 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -791,6 +763,34 @@
       "duration_ms": 245986,
       "name": "You Don't Know (feat. Wale)",
       "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
-        }
-      ],
-      "duration_ms": 230527,
-      "name": "Sue Me (feat. Kelly Price)",
-      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drew Barrymore (feat. Wale)",
         "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 216246,
       "name": "Drew Barrymore (feat. Wale)",
       "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        }
+      ],
+      "duration_ms": 230527,
+      "name": "Sue Me (feat. Kelly Price)",
+      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
     },
     {
       "added_at": null,

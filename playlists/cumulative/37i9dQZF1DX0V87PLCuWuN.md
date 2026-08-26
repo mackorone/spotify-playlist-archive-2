@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0V87PLCuWuN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0V87PLCuWuN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0V87PLCuWuN)
 
-### [Classical Decadence ](https://open.spotify.com/playlist/37i9dQZF1DX0V87PLCuWuN)
+### [Villain Era Classical](https://open.spotify.com/playlist/37i9dQZF1DX0V87PLCuWuN)
 
-> Opulent Classical Music for your Boss Era 💅
+> Powerful Classical 💅
 
 92 songs - 7 hr 19 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 947297,
+  "num_followers": 947338,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIH9YBpG1KD7n83uu77eG6yrtpuL",
+  "snapshot_id": "AAAAAH1jQna8EiVzP8EPQMWkZA7JpsGR",
   "tracks": [
     {
       "added_at": "2026-04-24 04:01:49",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 153693,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Three Six Five / Dance, Kid, Dance",
-        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Three Six Five",
-      "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 283973,
       "name": "Shelf In The Room",
       "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Three Six Five / Dance, Kid, Dance",
+        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Three Six Five",
+      "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "Way down We Go (Stripped)",
+        "url": "https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+      "duration_ms": 208213,
+      "name": "Way down We Go - Stripped",
+      "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Way down We Go (Stripped)",
-        "url": "https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Way down We Go - Stripped",
-      "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "A Celebration Of Endings",
         "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 328710,
+      "name": "Immortality",
+      "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
     }
   ],
   "unique_name": "Chill Rock",

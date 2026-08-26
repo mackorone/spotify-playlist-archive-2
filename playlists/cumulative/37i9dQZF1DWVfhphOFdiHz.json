@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 239000,
       "name": "Everything All The Time",
       "url": "https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M"
@@ -11448,6 +11448,24 @@
       "duration_ms": 183626,
       "name": "We Live We Die",
       "url": "https://open.spotify.com/track/6q3wbYq1uMfgu4bpCVEkUK"
+    },
+    {
+      "album": {
+        "name": "Wet Cement",
+        "url": "https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167206,
+      "name": "Wet Cement",
+      "url": "https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD"
     },
     {
       "album": {

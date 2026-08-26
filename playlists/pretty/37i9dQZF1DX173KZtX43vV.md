@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,394 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,395 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 |
 | 2 | [Gentlewoman](https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:00 |
 | 3 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 |
-| 4 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 4 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 5 | [The Dealer](https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [The Dealer](https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg) | 3:09 |
 | 6 | [Keep Up \(feat\. Boohavinn\)](https://open.spotify.com/track/13yfsQmT13TosKcw6181NQ) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Boohavinn](https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au) | [Keep Up \(feat\. Boohavinn\)](https://open.spotify.com/album/72nnb1NESNu80FvKIi38Kh) | 1:42 |
 | 7 | [We Dem Wah](https://open.spotify.com/track/427QvFAYUKKEyZRvOglMD5) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [We Dem Wah](https://open.spotify.com/album/0GpGe2HsCywEgMJU3kEuD4) | 3:02 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 48 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
 | 49 | [Break Me Down](https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8) | [Amma](https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm) | [Break Me Down](https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm) | 2:09 |
 
-Snapshot ID: `AAAAAJ9vc0WJVSqvlww3fsVB0akbuHbO`
+Snapshot ID: `AAAAAB1UcSzjkI26M7+rftW8tvbx4mNj`

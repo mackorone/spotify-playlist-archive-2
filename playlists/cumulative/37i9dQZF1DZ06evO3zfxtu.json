@@ -328,12 +328,12 @@
       },
       "artists": [
         {
-          "name": "Haviah Mighty",
-          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
-        },
-        {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
         }
       ],
       "date_added": "2026-01-15",
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 163636,
       "name": "LOVE DRUG",
       "url": "https://open.spotify.com/track/5n05c01VhIh4uIGj1ak9X5"
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 177133,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"

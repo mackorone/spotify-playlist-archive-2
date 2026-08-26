@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Montez
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,077 likes - 90 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,041 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [disstrack](https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [disstrack](https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh) | 2:40 |
 | 90 | [Bus fahren](https://open.spotify.com/track/0mM8FejmhCbJbceUUOwd5B) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Bus fahren](https://open.spotify.com/album/27kalF4EET0sWbqW6pxagJ) | 2:25 |
 
-Snapshot ID: `AAAAAABYNlpy+7+L7hP20n58ZPGk5xpD`
+Snapshot ID: `AAAAAO/szG+WSHJLLOBed1iWqmB0ZcOw`

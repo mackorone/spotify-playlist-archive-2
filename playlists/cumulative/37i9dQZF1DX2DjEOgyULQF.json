@@ -4589,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "Like A Dream",
+        "url": "https://open.spotify.com/album/2b0l0UA3ZUcBVrrvGOwizl"
+      },
+      "artists": [
+        {
+          "name": "Sous la vague",
+          "url": "https://open.spotify.com/artist/0OozwIRMLcU0nCpyANNLBG"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151486,
+      "name": "Like A Dream",
+      "url": "https://open.spotify.com/track/14kB7WvRwqQZxvYK0SfTqw"
+    },
+    {
+      "album": {
         "name": "Golden Light",
         "url": "https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi"
       },
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 168889,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG"
@@ -5670,6 +5688,24 @@
       "duration_ms": 164983,
       "name": "Onwards",
       "url": "https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf"
+    },
+    {
+      "album": {
+        "name": "Opening Trees",
+        "url": "https://open.spotify.com/album/1ve1MD9koLWiujPSXZxOXO"
+      },
+      "artists": [
+        {
+          "name": "Morouj",
+          "url": "https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Opening Trees",
+      "url": "https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E"
     },
     {
       "album": {
@@ -8028,7 +8064,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 159241,
       "name": "Transcendent Pools",
       "url": "https://open.spotify.com/track/3zxKbETJMvNUEbQJsng8hs"

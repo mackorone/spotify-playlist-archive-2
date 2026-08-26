@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,257 likes - 70 songs - 4 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,262 likes - 74 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 68 | [Immaterial](https://open.spotify.com/track/3ch8q6zYdTeVCxBDZylFT2) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Immaterial](https://open.spotify.com/album/2CXAueGVyyVU9vUF38yWry) | 2:22 |
 | 69 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 |
 | 70 | [Skinny Boyfriend](https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Skinny Boyfriend](https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J) | 3:29 |
+| 71 | [Three Monkey Song](https://open.spotify.com/track/2noQ7yK0sfWuIJC8gbf2PQ) | [Sivan Langer](https://open.spotify.com/artist/7ckVHLOYWQRV09kEoLOiqD) | [Rough Mix](https://open.spotify.com/album/1Ze45BUNg2nH2rjysEeirm) | 2:25 |
+| 72 | [BAIT](https://open.spotify.com/track/2uVSAVSODR0UyYzIZG9AY7) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [BAIT](https://open.spotify.com/album/0HkWj6I4OOaAfAHuIciqBS) | 3:49 |
+| 73 | [Black Dress](https://open.spotify.com/track/4TYbC3ZCjA5tXAhClm0yUT) | [Jillian Ann](https://open.spotify.com/artist/4fUrsaEHtekVVwgtwHC7YA) | [When All is Said and Done](https://open.spotify.com/album/2cYhf6h2XPwRbUhiyeb4du) | 5:59 |
+| 74 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
 
-Snapshot ID: `AAAG2UIR9XF1TvvTXvPNhzPfH1yoGjUA`
+Snapshot ID: `AAAG3fOuwBENUpxRzZ41Oee4BPdmwXZc`

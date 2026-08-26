@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30595,
+  "num_followers": 30599,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACZ1sp8A76qldax5CNqHyGQ",
+  "snapshot_id": "aouJgAAAAABTJXOCJ/2EoyFK6oVU2dQn",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 219637,
       "name": "Mississippi (feat. Tyler Bryant)",
       "url": "https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gray House (Original Soundtrack From the Amazon Series)",
-        "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/34IWp57r5GW8XKUfJw7IMx"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 292869,
-      "name": "The Devil's Boat - From The Gray House Original Soundtrack",
-      "url": "https://open.spotify.com/track/62kKtLqtYgzKNiug9baIAe"
+      "duration_ms": 199826,
+      "name": "John The Revelator",
+      "url": "https://open.spotify.com/track/0tfLA4hD0VD7ZU9hVrf3RR"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/34IWp57r5GW8XKUfJw7IMx"
+        "name": "The Gray House (Original Soundtrack From the Amazon Series)",
+        "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 199826,
-      "name": "John The Revelator",
-      "url": "https://open.spotify.com/track/0tfLA4hD0VD7ZU9hVrf3RR"
+      "duration_ms": 292869,
+      "name": "The Devil's Boat - From The Gray House Original Soundtrack",
+      "url": "https://open.spotify.com/track/62kKtLqtYgzKNiug9baIAe"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Runnin' Down a Dream",
+        "url": "https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 244307,
+      "name": "Runnin' Down a Dream",
+      "url": "https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Airline Highway",
         "url": "https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 185844,
       "name": "Louisiana Sunshine Feeling Okay",
       "url": "https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Runnin' Down a Dream",
-        "url": "https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 244307,
-      "name": "Runnin' Down a Dream",
-      "url": "https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "When God Closes a Door",
-      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
+      "duration_ms": 210040,
+      "name": "Sucker Puncher",
+      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
     },
     {
       "added_at": null,
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 210040,
-      "name": "Sucker Puncher",
-      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
     },
     {
       "added_at": null,
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 171256,
-      "name": "Blue Ridge Mountains",
-      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
+      "duration_ms": 209720,
+      "name": "When God Closes a Door",
+      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 164340,
       "name": "God Moves On The Water",
       "url": "https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom + An Acoustic Companion Vol. 2",
-        "url": "https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 244399,
-      "name": "You Are the River - Unplugged",
-      "url": "https://open.spotify.com/track/18cIqZB3aW2uibIqGPf1MS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom + An Acoustic Companion Vol. 2",
+        "url": "https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 244399,
+      "name": "You Are the River - Unplugged",
+      "url": "https://open.spotify.com/track/18cIqZB3aW2uibIqGPf1MS"
     },
     {
       "added_at": null,

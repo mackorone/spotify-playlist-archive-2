@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Dana Salah is co\-curating EQUAL Arabia this month.
 
-765 songs - 1 day 20 hr 0 min
+766 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Maghnateess](https://open.spotify.com/track/4AbDFi4FmZuk1IwUWhGtY7) | [Cheen](https://open.spotify.com/artist/29Es5aQwN2V7y4kn4GZrIp) | [Maghnateess](https://open.spotify.com/album/56BkSCPiZsLGOJwAEqWgks) | 2:57 | 2021-12-23 | 2022-03-01 |
 | [Mahesh Far2a](https://open.spotify.com/track/20btvMUJHhu6k2Geo7Iqb3) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Mahesh Far2a](https://open.spotify.com/album/20wpRtFJTghXYg6gc8soJQ) | 3:39 | 2026-07-15 |  |
 | [Majaneen](https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Majaneen](https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S) | 2:48 | 2022-10-06 | 2022-12-19 |
+| [Majnooneh](https://open.spotify.com/track/5GsYnurs7G5riCJFeHekQS) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Bent Bladna](https://open.spotify.com/album/68quw6MUK1xl2ShMjJpK6X) | 2:33 | 2026-08-25 |  |
 | [Majrooh](https://open.spotify.com/track/52Sy82cr1pNYrtekkLIjIx) | [Marina Ndayra](https://open.spotify.com/artist/2Rqvvqs1oN7ENbboDpm61v) | [Majrooh](https://open.spotify.com/album/24qh3pDomlGZ6WJS5aQSqe) | 3:34 | 2023-10-12 | 2023-11-18 |
 | [Makanak Khali](https://open.spotify.com/track/47fiFvcSChzOIrvh1BnRlR) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Makanak Khali](https://open.spotify.com/album/1BxWhitrI65tgN8ciUyzjC) | 4:16 | 2023-02-23 | 2023-07-14 |
 | [Makanak Mbyen](https://open.spotify.com/track/0TzQ3u6VhbcxTcRN3zBi8a) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Haneen](https://open.spotify.com/album/5ogbgcC7gexEMspoSYTU8z) | 3:49 | 2022-07-06 | 2022-07-08 |
@@ -518,7 +519,7 @@
 | [Shou Wadou Albak](https://open.spotify.com/track/7c0gjYzDwCJ56NYSpoUgzJ) | [Maribel Maalouf](https://open.spotify.com/artist/3MoSMS2jKVPPZbLw2W3qEV) | [Shou Wadou Albak](https://open.spotify.com/album/3OIz3IetACEIYuKUuSm0R5) | 3:14 | 2021-12-23 | 2022-03-02 |
 | [Shouf](https://open.spotify.com/track/7tueI4qZOssFDf61SNzdzy) | [Carolina Karam](https://open.spotify.com/artist/6zeJXT6e12k3LLAZHEgCSA) | [شوف](https://open.spotify.com/album/0in4kb6hakIBhYUlAgoHDB) | 3:35 | 2022-03-01 | 2022-07-28 |
 | [Shouf](https://open.spotify.com/track/4WH8T2gsUwPkQvLvXWPdbr) | [Flugen](https://open.spotify.com/artist/4AILr8jXuj2aDFu3C757AT), [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Meshwar](https://open.spotify.com/album/72zlxotZQ7fHxduR097Jwa) | 6:18 | 2021-12-30 | 2022-02-20 |
-| [Shu Ma Sar](https://open.spotify.com/track/3AhojhL75hKdm5lvsx40pp) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Shu Ma Sar](https://open.spotify.com/album/4suLQSCtkjso7Xru16G4Ga) | 2:45 | 2024-07-18 |  |
+| [Shu Ma Sar](https://open.spotify.com/track/3AhojhL75hKdm5lvsx40pp) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Shu Ma Sar](https://open.spotify.com/album/4suLQSCtkjso7Xru16G4Ga) | 2:45 | 2024-07-18 | 2026-08-26 |
 | [Shul Matloub](https://open.spotify.com/track/5JaF17AfofuEjc5jAC27IS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Shul Matloub](https://open.spotify.com/album/3utTAcuGsFnvDhfHhZA51x) | 1:48 | 2026-07-01 |  |
 | [Shway Shway](https://open.spotify.com/track/6sTssq4X4cBGcMsT9vmymq) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD) | [Shway Shway](https://open.spotify.com/album/569KpQXH9KebsbcEjTI8jr) | 2:45 | 2021-12-23 | 2022-03-02 |
 | [Siahak Tarab](https://open.spotify.com/track/7ludZiL5pdp3QKDjEEmMt0) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Siahak Tarab](https://open.spotify.com/album/4NhrRfjq5gt75bA7ig52xK) | 3:29 | 2023-09-25 | 2023-10-06 |

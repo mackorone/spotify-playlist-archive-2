@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,418 likes - 209 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,431 likes - 209 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 6 | [BIRDS OF A FEATHER](https://open.spotify.com/track/19PMNa4BwoSyZu8EUvxafW) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Portraits \(Popular Songs for Cello\)](https://open.spotify.com/album/5bOwnUAh0rvfcsgCeEYsmw) | 4:29 |
 | 7 | [DJ Got US Fallin’ In Love](https://open.spotify.com/track/2EOTuQRTwNaqzyg9CAhzZr) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:22 |
 | 8 | [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 |
-| 9 | [This Hell \(Arr\. For String Quartet by Maya Magub\)](https://open.spotify.com/track/6Ilxx9LyaBMNNJ5jJM4VGx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Lauren Amber Aquilina](https://open.spotify.com/artist/5ISwGfKjX5JeJvn3JZ8F3F), [Maya Magub](https://open.spotify.com/artist/1oGX73DWQVzJ5BcNDd9hG2), [RmX Quartet](https://open.spotify.com/artist/1BmTCGXIPn3IYeqNy1ZbiI) | [This Hell \(Arr\. For String Quartet by Maya Magub\)](https://open.spotify.com/album/4OyxBW2ec9hcuRgE2jmWXK) | 3:58 |
+| 9 | [This Hell \(Arr\. For String Quartet by Maya Magub\)](https://open.spotify.com/track/6Ilxx9LyaBMNNJ5jJM4VGx) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [Lauren Amber Aquilina](https://open.spotify.com/artist/5ISwGfKjX5JeJvn3JZ8F3F), [Victor Cheung Mun S Jamieson](https://open.spotify.com/artist/4dXbPMgmsufEQjfHafPCII), [Maya Magub](https://open.spotify.com/artist/1oGX73DWQVzJ5BcNDd9hG2), [RmX Quartet](https://open.spotify.com/artist/1BmTCGXIPn3IYeqNy1ZbiI) | [This Hell \(Arr\. For String Quartet by Maya Magub\)](https://open.spotify.com/album/4OyxBW2ec9hcuRgE2jmWXK) | 3:58 |
 | 10 | [Die With A Smile \(Arr\. Stephan Moccio for Piano\)](https://open.spotify.com/track/2YnBcjJQgyUs7rxFPybRdw) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Die With A Smile](https://open.spotify.com/album/6YBuNOlcydkYgIclXuu4YF) | 5:06 |
 | 11 | [Snooze](https://open.spotify.com/track/2ewnQHMl0MwFVw04HAwNz4) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Snooze](https://open.spotify.com/album/0krxPHkFpWjjrEN96N16Gp) | 3:11 |
 | 12 | [What Was I Made For? \(from "Barbie"\)](https://open.spotify.com/track/2BaHD2OcWV9R8Lz4v7t8N7) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [What Was I Made For? \(from "Barbie"\)](https://open.spotify.com/album/7whqDx4K2CC2wB3WnThTyT) | 3:44 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 208 | [Such Great Heights](https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/5qaF3UTjIIzapiEvfaDnfc) | 4:38 |
 | 209 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `AAAAALyjRI9ch/WjI9xH1V4KBLSs60Cv`
+Snapshot ID: `AAAAALtf4MRGrW9StEz5yQ93g5++rgnL`

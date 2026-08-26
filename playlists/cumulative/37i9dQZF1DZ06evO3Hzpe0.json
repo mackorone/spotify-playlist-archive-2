@@ -212,7 +212,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 206613,
       "name": "Fighting In The Name Of Love",
       "url": "https://open.spotify.com/track/1tElwTh2KSprYI9SUIJmpM"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 144440,
       "name": "Milkcow's Calf Blues",
       "url": "https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4"
@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "MegaMix Funk",
+        "url": "https://open.spotify.com/album/0xqZeYYu0PYUUMgF1Ku9gD"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "Sexy Lady",
+      "url": "https://open.spotify.com/track/6VucazvcECsPs5eM7K8qNu"
+    },
+    {
+      "album": {
         "name": "Carl Carlton (Expanded Edition)",
         "url": "https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 324360,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/1Q6m9ybTeZRgMnkhPZuNJs"

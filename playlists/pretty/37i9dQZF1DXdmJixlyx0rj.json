@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
-  "num_followers": 37993,
+  "num_followers": 38000,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFOZEPaYX/40mumHkQKYx/j/9tk1",
+  "snapshot_id": "AAAAAN2GuL5sjDVCc3dTE8GhQo5Ll1kq",
   "tracks": [
     {
       "added_at": "2026-08-20 05:31:14",
@@ -473,7 +473,7 @@
         }
       ],
       "duration_ms": 197160,
-      "name": "Standing Next to You (Future Funk Remix)",
+      "name": "Standing Next to You - Future Funk Remix",
       "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
     },
     {
@@ -669,7 +669,7 @@
         }
       ],
       "duration_ms": 195177,
-      "name": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
+      "name": "Billyeoon Goyangi (Do the Dance) - Snail's House Remix",
       "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
     },
     {
@@ -741,7 +741,7 @@
         }
       ],
       "duration_ms": 185142,
-      "name": "MONA LISA (Afro House Remix)",
+      "name": "MONA LISA - Afro House Remix",
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
     },
     {
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "XE\u00d6UL",
+        "url": "https://open.spotify.com/album/4HThPrEuT8tIYHDcBOO9a2"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Phone Down",
+      "url": "https://open.spotify.com/track/1xUtJf93RvTpa5Wm1w10Ux"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "CHU\u2661",
         "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
       },
@@ -1043,22 +1067,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "Mushroom House",
         "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
       },
@@ -1075,26 +1083,18 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "XE\u00d6UL",
-        "url": "https://open.spotify.com/album/4HThPrEuT8tIYHDcBOO9a2"
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
       },
       "artists": [
         {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        },
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        },
-        {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Phone Down",
-      "url": "https://open.spotify.com/track/1xUtJf93RvTpa5Wm1w10Ux"
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 255628,
       "name": "Energetic (Prequel Remix)",
       "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1309,7 +1309,7 @@
         }
       ],
       "duration_ms": 139419,
-      "name": "Back for More (with Anitta) (House Remix)",
+      "name": "Back for More (with Anitta) - House Remix",
       "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
     },
     {
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
+        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        },
+        {
+          "name": "Fox Stevenso",
+          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
+        },
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Don't Call Me - Fox Stevenson Remix",
+      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "NO DRUGS",
         "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
       },
@@ -1575,26 +1599,6 @@
       "duration_ms": 142360,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 211525,
-      "name": "wo ai ni",
-      "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1655,22 +1659,22 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
       },
       "artists": [
         {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
         },
         {
-          "name": "XIAOJUN",
-          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 179000,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
+      "duration_ms": 211525,
+      "name": "wo ai ni",
+      "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1687,6 +1691,26 @@
       "duration_ms": 245189,
       "name": "Monster - LDN Noise Creeper Bass Remix",
       "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "STARDUST",
+        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
+      },
+      "artists": [
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "STARDUST",
+      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1759,30 +1783,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
-        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        },
-        {
-          "name": "Fox Stevenso",
-          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
-        },
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Don't Call Me - Fox Stevenson Remix",
-      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "silkysmooth 05",
         "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
       },
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-08-20 05:31:14",

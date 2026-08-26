@@ -15304,7 +15304,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 226197,
       "name": "Fraud Payale",
       "url": "https://open.spotify.com/track/5KGx0VTq1lkF4zVqsS5Nh1"
@@ -24531,6 +24531,32 @@
     },
     {
       "album": {
+        "name": "Hi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ynUVhKeXeIOhlygKTjxwR"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186551,
+      "name": "Kannakuzhiya",
+      "url": "https://open.spotify.com/track/7M26jsZqOWgBb4nNoLF8XY"
+    },
+    {
+      "album": {
         "name": "Kannakuzhiya (From \"Hi\")",
         "url": "https://open.spotify.com/album/3it4tolMytzFrsfTBdM3bl"
       },
@@ -27406,6 +27432,32 @@
       "duration_ms": 233045,
       "name": "Kudi Kudi Thoothukudi Kudi (From \"Bumper\")",
       "url": "https://open.spotify.com/track/6HmqvN7SQgWWQnhhXMSFb9"
+    },
+    {
+      "album": {
+        "name": "Hi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ynUVhKeXeIOhlygKTjxwR"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Dhruv Vikram",
+          "url": "https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241593,
+      "name": "Kudikara Nenju",
+      "url": "https://open.spotify.com/track/2abnlvMUecmff6xnQW2DT5"
     },
     {
       "album": {
@@ -36000,7 +36052,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 238285,
       "name": "Nachindhi Machane (From \"MAGUDAM\")",
       "url": "https://open.spotify.com/track/2eepeVueLYzuZY45roHTKG"
@@ -41591,6 +41643,32 @@
     },
     {
       "album": {
+        "name": "Hi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ynUVhKeXeIOhlygKTjxwR"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Sathya Narayanan",
+          "url": "https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt"
+        },
+        {
+          "name": "Ashique AR",
+          "url": "https://open.spotify.com/artist/7a2hwgmPEziltEjQBW9kNI"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Pacha Pulla",
+      "url": "https://open.spotify.com/track/5fTlUsamMxnh4kVG3UCazS"
+    },
+    {
+      "album": {
         "name": "Pacha Pulla (From \"Hi\")",
         "url": "https://open.spotify.com/album/38wsRPyvYsIJmX84AF5xEZ"
       },
@@ -41610,7 +41688,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 220000,
       "name": "Pacha Pulla (From \"Hi\")",
       "url": "https://open.spotify.com/track/0XM1UhJTes6YUYcyAvhdoM"
@@ -46112,12 +46190,12 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Nargis",
-          "url": "https://open.spotify.com/artist/1jzTY2BnWg0xYsBC8RLBIP"
+          "name": "Nargis Teji",
+          "url": "https://open.spotify.com/artist/6rgek99Mjy548jM7aQpBnd"
         },
         {
-          "name": "Ashna",
-          "url": "https://open.spotify.com/artist/5Mic3qdp1a6XSOYjCBB3U3"
+          "name": "Asma Teji",
+          "url": "https://open.spotify.com/artist/4nTgmp4xA89rC3gKhHwrWg"
         },
         {
           "name": "Vivek",
@@ -46793,6 +46871,32 @@
     },
     {
       "album": {
+        "name": "Hi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ynUVhKeXeIOhlygKTjxwR"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226375,
+      "name": "Rasagulla",
+      "url": "https://open.spotify.com/track/6ia4eqVAcwp9t2BmoO3L2L"
+    },
+    {
+      "album": {
         "name": "Rasagulla (From \"Bell\")",
         "url": "https://open.spotify.com/album/1lvYdXvkLBRf6ishm54CUa"
       },
@@ -46868,7 +46972,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 226375,
       "name": "Rasagulla (From \"Hi\")",
       "url": "https://open.spotify.com/track/2mwbF8wiVOjxobaVsn0Jns"

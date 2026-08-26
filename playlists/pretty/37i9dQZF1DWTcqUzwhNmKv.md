@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Cenobia are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654,785 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,655,020 likes - 85 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 84 | [Doom in Bloom](https://open.spotify.com/track/2VBZe3z0ZV0IWYYqbTiZ4Y) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Doom in Bloom](https://open.spotify.com/album/6rACINI8jqJ82X1AjuqCmN) | 3:17 |
 | 85 | [Don't MisStep](https://open.spotify.com/track/61NDAaJEyNfixD2e0bmBe1) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Not Your Kingdom](https://open.spotify.com/album/5Ga69zVHRQGaY7Kqo0aGRU) | 1:34 |
 
-Snapshot ID: `AAAAAPa5JpyM+hu4PLSaWIhNIdcrB8Xu`
+Snapshot ID: `AAAAACJW3Wg7YrEwSt40hyB9h4NGO5ZW`

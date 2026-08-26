@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,560 likes - 346 songs - 21 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,562 likes - 346 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 133 | [Cannonball \- From The "Home" Soundtrack](https://open.spotify.com/track/2x4elpH0Q4CCCvHsI9GyA8) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1CqBtwIeVnXDzORWTO8Rpo) | 3:57 |
 | 134 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/3SQ4TlJjloLCfiCvVYYN0J) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt) | 2:01 |
 | 135 | [Midnight Decisions](https://open.spotify.com/track/5rVElqSBdfsDALQfc7z2ZQ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:42 |
-| 136 | [Lying Down](https://open.spotify.com/track/3RcmQ6DdLqwp38tFsWx0mj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:58 |
-| 137 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/7BOW2uXBJHtgVQfc9yn9dl) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/5tmULKILktWtrrQxsSz3qd) | 1:20 |
+| 136 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/7BOW2uXBJHtgVQfc9yn9dl) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/5tmULKILktWtrrQxsSz3qd) | 1:20 |
+| 137 | [Lying Down](https://open.spotify.com/track/3RcmQ6DdLqwp38tFsWx0mj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:58 |
 | 138 | [You've Changed](https://open.spotify.com/track/4cGNEByoQ3adGfq9rFGH2t) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:11 |
 | 139 | [The Whisperer \(feat\. Sia\)](https://open.spotify.com/track/4J1DXVKlC7h5wSgeuULPYh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:54 |
 | 140 | [I Forgive You](https://open.spotify.com/track/735axlkSRsqMIYwci9pQ9Y) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:19 |
@@ -289,8 +289,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 279 | [What the Future Holds](https://open.spotify.com/track/6Bz6HPvxHnA836U0JBsmz5) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 4:27 |
 | 280 | [Judge Me](https://open.spotify.com/track/66fhJHov6sAsZz7qCEJxDw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:15 |
 | 281 | [Treasure \- Acoustic Version](https://open.spotify.com/track/2cXjZJGfTGZLPFFKLpbSgo) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs, Vol.1](https://open.spotify.com/album/7f8XKrpjldzXBpnkkzmFyY) | 3:24 |
-| 282 | [Green Card](https://open.spotify.com/track/6J7vprT8CB5vy5KA1KIwgY) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Wish Bone](https://open.spotify.com/album/0ohYHaVFBYh7qYI5zXbvD6) | 4:08 |
-| 283 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 |
+| 282 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 |
+| 283 | [Green Card](https://open.spotify.com/track/6J7vprT8CB5vy5KA1KIwgY) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Wish Bone](https://open.spotify.com/album/0ohYHaVFBYh7qYI5zXbvD6) | 4:08 |
 | 284 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 |
 | 285 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
 | 286 | [Dim The Lights](https://open.spotify.com/track/7EvMgSKZFwMKyu7IhvBlC8) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP) | [Echoes](https://open.spotify.com/album/7N2cWgNd4fFlaMKmiK61N5) | 3:26 |
@@ -315,8 +315,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 305 | [I Will Get Over You](https://open.spotify.com/track/2EuVDGZ3aLtGen3jiYUHlE) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [When You Grow Up](https://open.spotify.com/album/40VVhYrRI1I7OWWIJwhtcw) | 3:42 |
 | 306 | [Galaxy \- Gawler Remix / Radio Edit](https://open.spotify.com/track/3FQhlhZK98XKIPEyZ1AySj) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Gawler](https://open.spotify.com/artist/0ZWeSRSlrHHs0thSzvAfyp) | [Galaxy \(Gawler Remix\)](https://open.spotify.com/album/3WLcNk9ZWrMry1tKdSjBGH) | 3:44 |
 | 307 | [Private Girl](https://open.spotify.com/track/0y32B17hxkjYNo79sovw5F) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:38 |
-| 308 | [Secrets](https://open.spotify.com/track/6y1ewbLHpJNL9LIA1lX4HM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [For Lovers, Dreamers & Me](https://open.spotify.com/album/71lxWlnwM9mIm2RBT4yPnG) | 4:54 |
-| 309 | [Everything You Needed](https://open.spotify.com/track/3Hjl3OZnxOVGMFHvlzGzkI) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 3:50 |
+| 308 | [Everything You Needed](https://open.spotify.com/track/3Hjl3OZnxOVGMFHvlzGzkI) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 3:50 |
+| 309 | [Secrets](https://open.spotify.com/track/6y1ewbLHpJNL9LIA1lX4HM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [For Lovers, Dreamers & Me](https://open.spotify.com/album/71lxWlnwM9mIm2RBT4yPnG) | 4:54 |
 | 310 | [Thistles](https://open.spotify.com/track/1DG2Y8FQFxV9JF910iwvRy) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden \(Special Edition\)](https://open.spotify.com/album/0rE1U1JpelacpberZnhXT0) | 3:38 |
 | 311 | [Your Body Talk](https://open.spotify.com/track/67HmaRfj87if7pXaXPkXwR) | [Raffey Cassidy](https://open.spotify.com/artist/0BHyFQDnozqjy1EoKpoiRT) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:47 |
 | 312 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 345 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 346 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcadpAAAAAALjwQxfS97xdvXmeXJlHdj`
+Snapshot ID: `AcajRAAAAACGoKPfIueIPyAxXC8istAl`

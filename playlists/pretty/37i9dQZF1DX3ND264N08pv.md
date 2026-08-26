@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,387 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,408 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 40 | [Turn the Tide](https://open.spotify.com/track/41xptomAuNGKBU6g00EoLv) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [RWF](https://open.spotify.com/artist/5SSccKfaWK4yIu8TsqUtac), [KIOR](https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ) | [Cyber War](https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF) | 2:58 |
 | 41 | [High Speed \(Zaagkicks Music\)](https://open.spotify.com/track/5PSPgMMtcX2OEBwuG29IsV) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [High Speed \(Zaagkicks Music\)](https://open.spotify.com/album/6RUwyzVcj8O9iJ20jW2PqX) | 2:11 |
 | 42 | [Trip to Okinawa](https://open.spotify.com/track/0EIm2X1P607GilEFnEpqy5) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Speed Freak](https://open.spotify.com/artist/3HtFJOBdchYr7TpB63p6De) | [Trip to Okinawa](https://open.spotify.com/album/08NBCAB4VHGFWKdprYLoRL) | 3:15 |
-| 43 | [Make It Fucking Harder!](https://open.spotify.com/track/4atDi2L3enDcDZdJ1PxCdl) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Make It Fucking Harder!](https://open.spotify.com/album/2F9VvuvmaxTpYNwTEmK8uv) | 2:53 |
-| 44 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
+| 43 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
+| 44 | [Make It Fucking Harder!](https://open.spotify.com/track/4atDi2L3enDcDZdJ1PxCdl) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Make It Fucking Harder!](https://open.spotify.com/album/2F9VvuvmaxTpYNwTEmK8uv) | 2:53 |
 | 45 | [Just like me \- Nosferatu Remix](https://open.spotify.com/track/1ZBR5pgAyBOVEByrGGT27i) | [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [MC Jeff](https://open.spotify.com/artist/7zKk52i6Ad4So5HltHRPa9), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Just like me \(Nosferatu Remix\)](https://open.spotify.com/album/2AkApAXF401gaLEhEQdfyr) | 4:56 |
 | 46 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 |
 | 47 | [Sound The Alarm](https://open.spotify.com/track/77RXsitsubxemClFhtM8Kr) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Sound The Alarm](https://open.spotify.com/album/1bSFo51TYynrW9FGhJiuJG) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
 | 50 | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/track/4FEKWUDChRiAbJZpgVrV7z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/album/4oFYkPDrLs77KONze5TbhJ) | 3:54 |
 
-Snapshot ID: `AAAAALa+7xdV9gVAn2EL3IONO7Hf6eAC`
+Snapshot ID: `AAAAAL1GCsJV+WQJZUAK/BynwHFMcNL5`

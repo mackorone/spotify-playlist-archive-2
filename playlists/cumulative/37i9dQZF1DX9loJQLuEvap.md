@@ -2,9 +2,9 @@
 
 ### [Great Female Voices](https://open.spotify.com/playlist/37i9dQZF1DX9loJQLuEvap)
 
-> Celebrating the greatest female voices of all time\. Cover: Adele
+> Celebrating the greatest female voices of all time\. Cover: Dolly Parton
 
-141 songs - 9 hr 19 min
+142 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2021-01-08 |  |
 | [I Try](https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [I Try: The Macy Gray Collection](https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa) | 3:58 | 2021-01-08 | 2022-07-29 |
 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 | 2022-07-11 | 2024-04-19 |
+| [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 | 2026-08-25 |  |
 | [I'll Never Love This Way Again](https://open.spotify.com/track/6knDV0tW6YIRG6XeIN3Xus) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Essential Memories Of Love](https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY) | 3:31 | 2021-01-08 | 2022-04-23 |
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2022-04-22 |  |
 | [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 | 2022-04-22 | 2025-05-31 |
@@ -106,7 +107,7 @@
 | [Rescue Me](https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [Soul](https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk) | 2:56 | 2021-05-31 | 2022-07-29 |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2022-04-22 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2022-07-11 | 2024-04-19 |
-| [Rolling in the Deep](https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:48 | 2022-04-22 |  |
+| [Rolling in the Deep](https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:48 | 2022-04-22 | 2026-08-26 |
 | [Sacrifice](https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:18 | 2025-08-22 | 2025-12-13 |
 | [She's In Love With The Boy](https://open.spotify.com/track/4EJvW4NHAk7TrIeX44jjXF) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Love Songs](https://open.spotify.com/album/3F3ssJx3jlQBOkD6EVM7Z1) | 4:05 | 2021-06-07 | 2022-11-13 |
 | [Since I Fell For You](https://open.spotify.com/track/3DG4WI5bE5IyfTteCgrXa6) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [Before Me](https://open.spotify.com/album/2epCdnoKoOoYA3heqJs5WP) | 3:51 | 2021-01-08 | 2022-04-23 |

@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-1,270 songs - 2 day 12 hr 29 min
+1,273 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Clarity](https://open.spotify.com/track/1UPkqj7fza1v8TcGsPGH9c) | [Kirala Heights](https://open.spotify.com/artist/4Q9spaJvvcoT4KLXUNmsS3) | [Clarity](https://open.spotify.com/album/5JWzS8i5VQ3B7m8nNfJpby) | 2:40 | 2025-06-23 | 2026-03-20 |
 | [Clarus](https://open.spotify.com/track/546z2s6Gwp0HKXhNNteaL6) | [kinshū\_91](https://open.spotify.com/artist/4D8GTgi3UMksbvkGjyXykD) | [Clarus](https://open.spotify.com/album/16n6nALovr8PD0VS0YbCP4) | 3:24 | 2024-11-21 | 2025-10-09 |
 | [Clear Language](https://open.spotify.com/track/0JGfoZbSvYQiPVQQQSSxmr) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/3W9oDXNed8I4RJiQek5vkE) | 3:13 | 2019-06-19\* | 2021-09-03 |
+| [Clear Mind](https://open.spotify.com/track/7Fni42H810g5qEcWkZqd4A) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Clear Mind](https://open.spotify.com/album/74EviIjKG5lqNU7Q90ndhr) | 2:15 | 2026-08-25 |  |
 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 | 2019-06-19\* | 2023-08-25 |
 | [Closed Orbit](https://open.spotify.com/track/6RFvx7fus3yOKHTh06qjC0) | [Veldas](https://open.spotify.com/artist/5F18FuQCNYjrzM5zhdCwhh) | [Closed Orbit](https://open.spotify.com/album/2tx7mLjz7y3ojEJ2G8W4kv) | 2:16 | 2025-10-24 | 2026-03-20 |
 | [Closer](https://open.spotify.com/track/3kkH1XIAqtsWrb3vXdAnym) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Closer](https://open.spotify.com/album/3yOlCRaOGv6KmzkPKlzE8X) | 2:29 | 2019-06-19\* | 2020-08-07 |
@@ -254,6 +255,7 @@
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2019-06-19\* | 2023-04-29 |
 | [Dans i Vindi](https://open.spotify.com/track/57nmWRdN5zPzMAlkCLsuKA) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Fjarlagt Ljus](https://open.spotify.com/album/7kmXJFHI5btwoDpUN4JsiN) | 3:04 | 2019-07-31 | 2021-09-14 |
 | [Darker](https://open.spotify.com/track/092DLaLs5wYSKgbvdcsa13) | [Echo Dunes](https://open.spotify.com/artist/50Ezs7XNWax4alIPBDUeg1) | [Darker](https://open.spotify.com/album/5PW6HuCP8f10mFdiCeQGu6) | 2:14 | 2026-03-19 |  |
+| [Dawn Breaker](https://open.spotify.com/track/2KoTG8ZY36VBWrLtpUHQIt) | [Sonic Waves](https://open.spotify.com/artist/6lK8FIq08Z4J62sC5dHDqk) | [Dawn Breaker](https://open.spotify.com/album/21l1ue6bWzE21nFHpqnEcn) | 2:14 | 2026-08-25 |  |
 | [Dawn Echoes](https://open.spotify.com/track/5uQGTiG1GHUl34Fy011A0F) | [Jo Anand](https://open.spotify.com/artist/3BwTil5deMArBtcIhEUJXw) | [Dawn Echoes](https://open.spotify.com/album/60SG4Q7bt6Es9tfkGG64tX) | 2:14 | 2026-02-24 | 2026-06-12 |
 | [Dawning](https://open.spotify.com/track/56ag77KIUFvxJhA1gdObsq) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Dawning](https://open.spotify.com/album/4VvHn570mwVivAzfkUOnLG) | 3:26 | 2019-09-14 | 2021-06-24 |
 | [Day 5: For Carol](https://open.spotify.com/track/3JjeC1epY5y2Jysxn5FVCB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Tobie Tripp](https://open.spotify.com/artist/01QCmol7KmMumj4PVfu8Cn) | [5 Day Mischon](https://open.spotify.com/album/7fxmKgApcmXOVOlXuNEsQL) | 6:34 | 2020-01-03 | 2020-11-06 |
@@ -383,6 +385,7 @@
 | [Feel the Breeze](https://open.spotify.com/track/0vUcaGixVs5gRwdmvJapA7) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Feel the Breeze](https://open.spotify.com/album/16dcXv0shy4UYcXIaNhPpR) | 2:48 | 2023-09-01 | 2024-08-03 |
 | [FEELINE](https://open.spotify.com/track/5jlh2A7kDzNSiLyTUq2OLn) | [Woodries](https://open.spotify.com/artist/56X80M5Y0Icft2QDuES047) | [FEELINE](https://open.spotify.com/album/469zkjVaas3CPFmVs4lPoo) | 2:22 | 2026-04-13 |  |
 | [Feels Like Flying](https://open.spotify.com/track/3mMd2MGvEIDAfMfvcb9wsC) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Feels Like Flying](https://open.spotify.com/album/4GnIXsJtxjVMPJvR0O1g2f) | 3:18 | 2020-08-07 | 2023-08-25 |
+| [Field Of Action](https://open.spotify.com/track/5cQqIpNDJIZ3TR1IouvSFd) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [Field Of Action](https://open.spotify.com/album/54ppuM1iFcfLmiLEDGUk5a) | 2:15 | 2026-08-25 |  |
 | [Fields of Iris](https://open.spotify.com/track/7lM6rrQSb5gMNiGN4EOCIQ) | [Les Luke](https://open.spotify.com/artist/32CcGw6tNOp1TJRFKBIMjg) | [Fields of Iris](https://open.spotify.com/album/6tNDda7O8j4cqUGV1sWJiJ) | 2:24 | 2024-12-04 | 2026-03-20 |
 | [Figurines](https://open.spotify.com/track/16TVo5vkdsQXql3BrBtVbw) | [Apóge](https://open.spotify.com/artist/5dm30lAhxbtZQhIspnkzOh) | [Figurines](https://open.spotify.com/album/6vx01fgaP7Ibltadn9UkH7) | 2:06 | 2026-07-02 |  |
 | [Figuring out](https://open.spotify.com/track/4FPoY74yTqSdbUZ2zNJ5rz) | [Arnar Egilsson](https://open.spotify.com/artist/1zpMLqhMMTg2vzSf5BC5eI) | [Figuring out](https://open.spotify.com/album/2jkQbDvjuV3zyc3zU4Je6W) | 2:11 | 2026-07-02 |  |

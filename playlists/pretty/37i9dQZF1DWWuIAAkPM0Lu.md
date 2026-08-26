@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Andreas Odbjerg & Medina, Nik & Jay og Smøgmænd ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,193 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,191 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 99 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
 | 100 | [Light That Never Goes Out](https://open.spotify.com/track/5CqrjbsznxZNJ914mTqAsH) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Light That Never Goes Out](https://open.spotify.com/album/5F6ViTRGVxJD8yNiVZy9Ui) | 2:50 |
 
-Snapshot ID: `AAAAANu6dkRtlugrGF5Ls6UNaG/Tv5Ov`
+Snapshot ID: `AAAAAH+OHc9AvvEkV94NHogUpUNnKeA+`

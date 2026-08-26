@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jxggi, Ninja and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,175 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,190 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 19 | [IMPALA](https://open.spotify.com/track/4IX7r3syg7ha9qdRdZkZZq) | [Gurkaran](https://open.spotify.com/artist/1bB9oeDvOI0f9LaItw0HHi), [Simr](https://open.spotify.com/artist/4FwWxQ8wJODeIGr9sydGy8) | [EP\-OCH](https://open.spotify.com/album/54i3TWRAhuWtQHr3ziWS6v) | 2:58 |
 | 20 | [Limence](https://open.spotify.com/track/2QyEBDy8jVmD3gvAwfPpsW) | [GTrax](https://open.spotify.com/artist/4TTvhD8krNUGdQ5Q2ACFSI), [Healer](https://open.spotify.com/artist/1I8qJVKXK4Y7MYwaTFvEnP) | [Limence](https://open.spotify.com/album/0BbdIWkL4LkhxVGabvIulP) | 2:27 |
 | 21 | [Kaali Jarsiyan](https://open.spotify.com/track/70bw1f1hTJI6XT3HT69rOJ) | [Nihaash](https://open.spotify.com/artist/3Ojc6eoVezxVtmm5lP6eKa), [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Jaggi Jagowal](https://open.spotify.com/artist/3t8xDVn95kr8GZ7pSkuNnA) | [Kaali Jarsiyan](https://open.spotify.com/album/2BhVdepISKoJaNeOzfMWVL) | 2:23 |
-| 22 | [Revenge](https://open.spotify.com/track/7jpawcQrdYWVRIoMbaoWye) | [Karam Gill](https://open.spotify.com/artist/2Bfq0XocaXAMxuOfjPfAcE) | [Road To Glory](https://open.spotify.com/album/0azlV3PIG86CjDwVfAQ6JC) | 2:11 |
+| 22 | [Revenge](https://open.spotify.com/track/7jpawcQrdYWVRIoMbaoWye) | [Karam Gill](https://open.spotify.com/artist/2Bfq0XocaXAMxuOfjPfAcE), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf) | [Road To Glory](https://open.spotify.com/album/0azlV3PIG86CjDwVfAQ6JC) | 2:11 |
 | 23 | [Bora Bora](https://open.spotify.com/track/54Q5oSNZHv5t16ytAwbtJa) | [shailender](https://open.spotify.com/artist/3pGMalKzg1VShlHxE18Aq5), [Da Future](https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR), [Roy Cheema](https://open.spotify.com/artist/485fvKY1nlSpfRRHBSMOW6) | [Bora Bora](https://open.spotify.com/album/6hjx3rbVECJ6tqh5DOwh6x) | 2:33 |
 | 24 | [UDA AEDA](https://open.spotify.com/track/15S3RrnmNpfPf1aFxw2wkP) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Jovinbainz](https://open.spotify.com/artist/5pDsg7wlmFI8ubgEh6rmt4) | [UDA AEDA](https://open.spotify.com/album/17pwKiTk7c65UVoG1yk0y9) | 3:54 |
 | 25 | [666](https://open.spotify.com/track/1gZSbOKG32gpjVjy29TQGR) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [SoundsbyJeremy](https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ) | [666](https://open.spotify.com/album/11wizp7coeLp55KLgbdTLm) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Overlord](https://open.spotify.com/track/2JoRcaMUIFETX7nRXMMSC1) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Overlord](https://open.spotify.com/album/2wnyKYLKRqG07L9Ty0tS5C) | 2:32 |
 | 75 | [God by My Side](https://open.spotify.com/track/5IcBpsOM1jJABjPwrCsZNo) | [Rohi Maroon](https://open.spotify.com/artist/3Uy0nTor2dulBos33pDNq1) | [God by My Side](https://open.spotify.com/album/0ceeYe8x7zMEcFvoaijB0o) | 2:48 |
 
-Snapshot ID: `AAAAAIzoftrtoPsyctCUNAMPyK7gBrCR`
+Snapshot ID: `AAAAAEQkgDQXasa9fiNE+372BPTgS4v7`

@@ -4,13 +4,13 @@
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 58 min
+55 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 | 2022-01-11 | 2023-10-11 |
 | [About A Girl](https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:48 | 2023-10-10 |  |
-| [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 | 2022-01-11 |  |
+| [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 | 2022-01-11 | 2026-08-26 |
 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 | 2022-01-11 |  |
 | [Been A Son \- BBC Mark Goodier Session](https://open.spotify.com/track/4dXBG3zz9SzaPBtm4Fv91x) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:55 | 2022-01-11 |  |
 | [Blew](https://open.spotify.com/track/7pETV41GUutaZ6KMHMAYIH) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:54 | 2022-01-11 |  |
@@ -42,19 +42,21 @@
 | [Mr\. Moustache](https://open.spotify.com/track/5TZbtpZcTWKEn81Du4hiTb) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:23 | 2022-01-11 | 2023-10-11 |
 | [Negative Creep](https://open.spotify.com/track/5IeTFRymTDiza7DciBD1Gk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:55 | 2022-01-11 |  |
 | [Oh Me \- Live](https://open.spotify.com/track/2vfCSwToh0Am0O4zgHXfn7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:26 | 2022-01-11 |  |
-| [Old Age \- Nevermind Outtake](https://open.spotify.com/track/4lkG5xoXvOByRaWaWxdQWZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 4:19 | 2025-10-04 |  |
+| [Old Age \- Nevermind Outtake](https://open.spotify.com/track/4lkG5xoXvOByRaWaWxdQWZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 4:19 | 2025-10-04 | 2026-08-26 |
 | [Pennyroyal Tea](https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:38 | 2022-01-11 |  |
 | [Pennyroyal Tea \- Live In Los Angeles, Great Western Forum \- December 30, 1993](https://open.spotify.com/track/7g8wYvj1XPFu7CRNFH7zsa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero 30th Live](https://open.spotify.com/album/251D5futdABXD1SHrd47lb) | 3:58 | 2023-10-10 | 2023-11-11 |
 | [Plateau \- Live](https://open.spotify.com/track/2smax1OWAxOo63p14G8KZx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 | 2022-01-11 |  |
 | [Polly](https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 2:53 | 2022-01-11 | 2022-11-11 |
 | [Rape Me](https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 2:50 | 2022-01-11 |  |
 | [Sappy](https://open.spotify.com/track/7tUtvGeKB2V5W5ms6uBlyC) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:25 | 2022-01-11 |  |
+| [Scentless Apprentice](https://open.spotify.com/track/54UFDHWI2q7WHfrGbSNWph) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:48 | 2026-08-26 |  |
 | [School](https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:42 | 2022-01-11 |  |
 | [Serve The Servants](https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:37 | 2022-01-11 |  |
 | [Sliver](https://open.spotify.com/track/3BtHClmMmURD8UHF2fiyxt) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 2:16 | 2022-01-11 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 5:01 | 2022-01-11 |  |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-10 | 2022-03-19 |
-| [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-01-11 |  |
+| [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-01-11 | 2026-08-26 |
+| [Territorial Pissings](https://open.spotify.com/track/6oZYLz0vZy8HhqwioRYtTp) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 2:22 | 2026-08-26 |  |
 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2022-01-11 |  |
 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 | 2023-10-10 | 2024-10-19 |
 | [Verse Chorus Verse \- Outtake](https://open.spotify.com/track/27sz8XfkjnUqTRJwxjHrS1) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:16 | 2022-03-30 |  |

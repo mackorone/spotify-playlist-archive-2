@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,117 likes - 77 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,299 likes - 77 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 76 | [Break the lines](https://open.spotify.com/track/6bKxkGEyWDa9dYFLW1rCoS) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [Break the lines](https://open.spotify.com/album/5Yozs3uJhsT54sRtK0BTqV) | 3:05 |
 | 77 | [Chelsea Bridge](https://open.spotify.com/track/2wxy1aZya6S7mYZAn2m3I3) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 4:49 |
 
-Snapshot ID: `AAAAAJr1uYPYHbTbb9u9lO1GdV5U8TPI`
+Snapshot ID: `AAAAAPEyQUcxx2igJk1oMBQnmdSqwZ63`

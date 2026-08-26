@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 40074,
+  "num_followers": 40077,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAAilC1VMkpzcfAlm8coqZMK",
+  "snapshot_id": "aouJgAAAAACi6OGzhxw7oxkOxzgIP3am",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Fuck The D To The A",
-      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 173752,
       "name": "Female Goat",
       "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Fuck The D To The A",
+      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Period (We Live)",
+      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4 1 Nite",
         "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 205296,
       "name": "4 1 Nite",
       "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Period (We Live)",
-      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Flashy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Act Bad",
         "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Flashy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
     },
     {
       "added_at": null,

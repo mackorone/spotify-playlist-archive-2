@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,514 likes - 115 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,553 likes - 115 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 53 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 54 | [Last Time](https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Last Time](https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf) | 3:34 |
 | 55 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
-| 56 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 |
-| 57 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
+| 56 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
+| 57 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 |
 | 58 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
 | 59 | [Permis b bébé](https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:09 |
 | 60 | [Tenha Fé, Pois Amanhã um Lindo Dia Vai Nascer](https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t) | [Salinas](https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk) | [Wanted Bossa Nova: From Diggers to Music Lovers](https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs) | 2:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 76 | [You Don't Have to Be a Star \(To Be In My Show\)](https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M) | [Marilyn McCoo](https://open.spotify.com/artist/2jirMwr4cHJzjtx8vDX5IO), [Billy Davis Jr.](https://open.spotify.com/artist/090k1Fxa70NDQvkXmQBUfW) | [I Hope We Get To Love In Time](https://open.spotify.com/album/6Vwss896snaZfuyr351z99) | 4:39 |
 | 77 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
 | 78 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 |
-| 79 | [Handsome](https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX) | [Drug Cabin](https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk) | [Wiggle Room](https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW) | 2:27 |
-| 80 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 |
+| 79 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 |
+| 80 | [Handsome](https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX) | [Drug Cabin](https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk) | [Wiggle Room](https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW) | 2:27 |
 | 81 | [Always on My Mind \(Acoustic\)](https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7), [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Always on My Mind \(Acoustic\)](https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt) | 3:34 |
 | 82 | [RISE](https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE](https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ) | 5:03 |
 | 83 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 |
@@ -108,20 +108,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 98 | [My Dirty Desire](https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [My Dirty Desire / Dreaming In Slow Motion](https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM) | 3:26 |
 | 99 | [Sun & Moon](https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Sun & Moon](https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g) | 2:45 |
 | 100 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
-| 101 | [I Don't](https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:22 |
-| 102 | [Fossils](https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC) | [THAO](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG) | [Fossils](https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf) | 4:03 |
+| 101 | [Fossils](https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC) | [THAO](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG) | [Fossils](https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf) | 4:03 |
+| 102 | [I Don't](https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:22 |
 | 103 | [Slippin](https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg) | [Quadron](https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ) | [Quadron](https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ) | 4:32 |
 | 104 | [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 |
 | 105 | [Picture Frame](https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [Picture Frame](https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU) | 3:15 |
 | 106 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 |
 | 107 | [You're A Song \(That I Can't Sing\)](https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Chameleon](https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT) | 3:11 |
 | 108 | [Where's My Beach Hat](https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [TORNADO](https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv) | 3:24 |
-| 109 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
-| 110 | [Progress](https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Yim Yames](https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 3:19 |
-| 111 | [Tell Me With Your Eyes \(Just Be You\)](https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108) | [Rob Galbraith](https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc) | [Damn It All](https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd) | 3:47 |
-| 112 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
-| 113 | [Late Night Morning Light](https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 2:05 |
+| 109 | [Tell Me With Your Eyes \(Just Be You\)](https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108) | [Rob Galbraith](https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc) | [Damn It All](https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd) | 3:47 |
+| 110 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
+| 111 | [Progress](https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Yim Yames](https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 3:19 |
+| 112 | [Late Night Morning Light](https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 2:05 |
+| 113 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
 | 114 | [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 |
 | 115 | [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 |
 
-Snapshot ID: `AAAAAIF2OH6AQ7n/9e5hxaWJxrsteIbx`
+Snapshot ID: `AAAAAL2FcP0Y9WxD9ctDQGXJW5BVKjQM`

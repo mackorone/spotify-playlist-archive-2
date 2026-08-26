@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 432938,
       "name": "Digeridoo - 2022 Remaster",
       "url": "https://open.spotify.com/track/2Fh8MjqWLFCoiOOHQRfqgq"
@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255773,
+      "name": "Nannou",
+      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
+    },
+    {
+      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
       },
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 108011,
       "name": "piano un10 it happened",
       "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
@@ -2360,6 +2378,24 @@
       "duration_ms": 303920,
       "name": "produk 29 [101]",
       "url": "https://open.spotify.com/track/4ZShsMZrAhAvemrjx1wxuv"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434306,
+      "name": "Ptolemy",
+      "url": "https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb"
     },
     {
       "album": {
@@ -2616,7 +2652,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 547133,
       "name": "Tha",
       "url": "https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S"
@@ -2652,7 +2688,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 289693,
       "name": "The Waxen Pith",
       "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"

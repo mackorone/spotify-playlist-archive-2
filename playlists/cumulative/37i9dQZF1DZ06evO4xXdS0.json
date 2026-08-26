@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 176080,
       "name": "Ain't Got No - I Got Life - Single Version",
       "url": "https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 164986,
       "name": "Do I Move You?",
       "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 168240,
       "name": "Go to Hell",
       "url": "https://open.spotify.com/track/0xJIP7dF3yRrL2FUKQF4IO"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 233000,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 176413,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/1EJNVmLt3wnssius7WVE2l"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 257624,
       "name": "Little Girl Blue (2013 - Remaster)",
       "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 314840,
       "name": "My Way",
       "url": "https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 195933,
       "name": "No Woman, No Cry - Outtake",
       "url": "https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi"
@@ -978,6 +978,24 @@
       "duration_ms": 232632,
       "name": "Sinnerman - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc"
     },
     {
       "album": {

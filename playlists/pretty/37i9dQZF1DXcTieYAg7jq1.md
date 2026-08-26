@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: tig3r lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,561 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,603 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 |
 | 100 | [Big Star](https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Big Star](https://open.spotify.com/album/01IYN4SUBDMYXXs6F3LWVG) | 4:15 |
 
-Snapshot ID: `AAAAAK0IZVUZBCB4uFB19TO3a0hPnl/9`
+Snapshot ID: `AAAAAHaX4mnv3NHhMY8BXbmUliv+JMxy`

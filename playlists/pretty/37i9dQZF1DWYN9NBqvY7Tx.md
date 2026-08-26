@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,013 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247,093 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 21 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 |
 | 22 | [Ultramoon](https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Ultramoon](https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW) | 4:16 |
 | 23 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |
-| 24 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
-| 25 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
+| 24 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
+| 25 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
 | 26 | [LIKE THAT](https://open.spotify.com/track/03NcUtUA1w3i89cYnoPOfv) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [LIKE THAT](https://open.spotify.com/album/7b4flWfPPr9KbpR7a3fV6b) | 2:37 |
 | 27 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 28 | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1) | 1:47 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 88 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 |
 | 89 | [AVANGARD](https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc) | 2:36 |
 | 90 | [cantcatchme](https://open.spotify.com/track/71XdxnvFc773OCQaJynqmf) | [uramaki.](https://open.spotify.com/artist/3AMDhBn0zTUgeY5o7Wplxh) | [club maki](https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb) | 5:04 |
-| 91 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 |
-| 92 | [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 |
+| 91 | [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 |
+| 92 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 |
 | 93 | [ONE FOR YOU](https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [ONE FOR YOU](https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd) | 2:32 |
 | 94 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
 | 95 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Duro](https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Duro](https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch) | 3:05 |
 | 100 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 |
 
-Snapshot ID: `AAAAALkp4JIsahC3xEqltCC0j0vhAz+4`
+Snapshot ID: `AAAAAO19QSzZH/bdAVR63SH+yr6Ev1lV`

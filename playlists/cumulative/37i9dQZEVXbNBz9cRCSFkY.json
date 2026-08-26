@@ -374,7 +374,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 228571,
       "name": "4:AM",
       "url": "https://open.spotify.com/track/0iq4IOcuvSXP3VNTjOLBf1"
@@ -9608,7 +9608,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 247000,
       "name": "Ipagdadamot Kita",
       "url": "https://open.spotify.com/track/4F1lbAADITrGQaHh0F6g58"
@@ -17801,6 +17801,24 @@
     },
     {
       "album": {
+        "name": "Shuloks",
+        "url": "https://open.spotify.com/album/70FbVi8zPEnqd19ZBnyq2s"
+      },
+      "artists": [
+        {
+          "name": "RAPROJECT SIX",
+          "url": "https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178639,
+      "name": "Shuloks",
+      "url": "https://open.spotify.com/track/1m4zRUexgXzzpI9Sb94bgz"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -19530,7 +19548,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 206181,
       "name": "TAKE ALL THE LOVE",
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
@@ -20532,7 +20550,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -20550,7 +20568,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"

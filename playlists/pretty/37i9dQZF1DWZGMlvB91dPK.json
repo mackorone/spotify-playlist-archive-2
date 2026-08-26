@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 4056,
+  "num_followers": 4055,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOi18/CJLeCnEKXJwj+7cCPIEFTX",
+  "snapshot_id": "AAAAADoc2cWQ68Nd+gi0Z5kWlShi+4BW",
   "tracks": [
     {
       "added_at": "2025-11-20 17:00:08",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "GROSSE MAISON",
-        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
-      },
-      "artists": [
-        {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        }
-      ],
-      "duration_ms": 129408,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "je dirai rien",
         "url": "https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 187756,
       "name": "je dirai rien",
       "url": "https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Flou",
+        "url": "https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "duration_ms": 141998,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -411,18 +411,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Flou",
-        "url": "https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro"
+        "name": "GROSSE MAISON",
+        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
       },
       "artists": [
         {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
         }
       ],
-      "duration_ms": 141998,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
+      "duration_ms": 129408,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
-      },
-      "artists": [
-        {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
-        }
-      ],
-      "duration_ms": 165378,
-      "name": "La rivi\u00e8re",
-      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "FOR\u00caT",
         "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172867,
       "name": "Lib\u00e8re",
       "url": "https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "duration_ms": 165378,
+      "name": "La rivi\u00e8re",
+      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Down the Row",
-        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
-      },
-      "artists": [
-        {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
-        }
-      ],
-      "duration_ms": 209396,
-      "name": "Down the Row",
-      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "INSURGENCIA",
         "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 132600,
       "name": "INSURGENCIA",
       "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Down the Row",
+        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
+      },
+      "artists": [
+        {
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
+        }
+      ],
+      "duration_ms": 209396,
+      "name": "Down the Row",
+      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
     },
     {
       "added_at": "2025-11-20 17:00:08",

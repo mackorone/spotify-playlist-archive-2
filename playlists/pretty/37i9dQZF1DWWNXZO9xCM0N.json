@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 128547,
+  "num_followers": 128593,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOlcOi0w4PPgcMVImN7EgPn5d5jE",
+  "snapshot_id": "AAAAAKpCBQWp9ve6ZJMYMkRdhq8er5v6",
   "tracks": [
     {
       "added_at": "2024-06-24 22:23:31",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Ernie's Conspiracy",
-        "url": "https://open.spotify.com/album/4ct08H1cKeyDlskmRyTHwi"
-      },
-      "artists": [
-        {
-          "name": "Orquesta La Conspiraci\u00f3n",
-          "url": "https://open.spotify.com/artist/7hsBFT561tLiwvZrylykQG"
-        }
-      ],
-      "duration_ms": 347066,
-      "name": "Magdalena",
-      "url": "https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Salsa Y Control",
         "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 227400,
       "name": "Salsa Y Control",
       "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Ernie's Conspiracy",
+        "url": "https://open.spotify.com/album/4ct08H1cKeyDlskmRyTHwi"
+      },
+      "artists": [
+        {
+          "name": "Orquesta La Conspiraci\u00f3n",
+          "url": "https://open.spotify.com/artist/7hsBFT561tLiwvZrylykQG"
+        }
+      ],
+      "duration_ms": 347066,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Rey del Bajo",
+        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
+      },
+      "artists": [
+        {
+          "name": "Bobby Valentin",
+          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Cuando Te Vea",
+      "url": "https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Tumi Cuba Classics Volume 4: Son",
         "url": "https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 365240,
       "name": "Tal Vez Vuelvas a Llamarme",
       "url": "https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Rey del Bajo",
-        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
-      },
-      "artists": [
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Cuando Te Vea",
-      "url": "https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z"
     },
     {
       "added_at": "2024-06-24 22:23:31",

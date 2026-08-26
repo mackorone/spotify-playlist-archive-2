@@ -4,7 +4,7 @@
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 32 min
+62 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Broken People](https://open.spotify.com/track/5N5o5FArQjWJdZhy00qmUK) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:39 | 2022-01-11 | 2025-12-26 |
 | [Chip Away](https://open.spotify.com/track/7mlv1xHxHHv3PBcapEiJp7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 2:43 | 2022-01-14 | 2022-09-23 |
 | [City \- Soul Kiss 88](https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 2:30 | 2022-01-11 |  |
-| [Classic Girl](https://open.spotify.com/track/6Y6XXDCJsDYgde0FH6hlhl) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 5:07 | 2022-01-11 |  |
+| [Classic Girl](https://open.spotify.com/track/6Y6XXDCJsDYgde0FH6hlhl) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 5:07 | 2022-01-11 | 2026-08-26 |
 | [Curiosity Kills](https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 4:29 | 2022-01-12 |  |
 | [Don't Call Me Nigger, Whitey \(with Body Count\)](https://open.spotify.com/track/2vJY6FmgufXRAG5XAEmg52) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR), [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 4:18 | 2022-01-25 | 2022-10-13 |
 | [End To The Lies](https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:31 | 2022-01-19 |  |
@@ -37,9 +37,10 @@
 | [My Cat's Name Is Maceo \- Demo](https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:23 | 2022-01-11 |  |
 | [My Time](https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:32 | 2022-01-11 |  |
 | [No One's Leaving](https://open.spotify.com/track/4IgQThPOeAndnA4VIuIRcX) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:01 | 2022-01-24 | 2026-01-19 |
-| [Obvious](https://open.spotify.com/track/0OY5dYogbCSH4zvzL1hrrG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 5:55 | 2022-01-11 | 2025-08-23 |
+| [Obvious](https://open.spotify.com/track/0OY5dYogbCSH4zvzL1hrrG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 5:55 | 2022-01-11 |  |
 | [Ocean Size](https://open.spotify.com/track/5lCjgHTEE7tbmzDVaCloGC) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:19 | 2022-01-11 |  |
 | [Of Course](https://open.spotify.com/track/4Yl4zTUU8Tvhs5KjwjtH17) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 7:02 | 2022-01-12 | 2022-10-13 |
+| [Of Course \- Live](https://open.spotify.com/track/2cat5jWLw4J4uASTAznex1) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Alive at Twenty\-Five \- Ritual De Lo Habitual Live](https://open.spotify.com/album/6XQRLJZqxADFmJYbDUOpGN) | 5:31 | 2026-08-26 |  |
 | [Pigs in Zen](https://open.spotify.com/track/0MbbjxUwRG0nNbneLXKkHP) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:30 | 2022-02-13 | 2022-07-19 |
 | [Price I Pay](https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:27 | 2022-02-24 |  |
 | [Ripple](https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 4:39 | 2022-01-11 |  |
@@ -48,7 +49,7 @@
 | [So What!](https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:19 | 2022-01-11 |  |
 | [Splash A Little Water On It](https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 5:13 | 2022-01-11 |  |
 | [Standing in the Shower...Thinking](https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:05 | 2022-01-11 | 2026-02-28 |
-| [Stop!](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 | 2022-01-11 |  |
+| [Stop!](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 | 2022-01-11 | 2026-08-26 |
 | [Strays](https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 4:32 | 2022-01-27 |  |
 | [Suffer Some](https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 4:14 | 2022-01-11 | 2025-06-02 |
 | [Summertime Rolls](https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 6:16 | 2022-01-12 |  |
@@ -57,7 +58,7 @@
 | [Sympathy for the Devil \- from Sons of Anarchy](https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Songs of Anarchy: Volume 2 \(Music from Sons of Anarchy\)](https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c) | 5:26 | 2022-01-11 |  |
 | [Ted, Just Admit It...](https://open.spotify.com/track/2l7iDl470hxtX7FkzAA3wz) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 7:22 | 2022-01-16 | 2022-10-11 |
 | [The Riches](https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:44 | 2022-01-11 |  |
-| [Then She Did...](https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 8:20 | 2022-01-11 |  |
+| [Then She Did...](https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 8:20 | 2022-01-11 | 2026-08-26 |
 | [Three Days](https://open.spotify.com/track/05AW0o01NVyzWn52uM9boY) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 10:48 | 2022-01-11 |  |
 | [To Match The Sun](https://open.spotify.com/track/3XYHyEs2go41Bcsbn2vPXz) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:25 | 2022-01-27 | 2022-01-29 |
 | [Trip Away](https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:34 | 2022-01-11 |  |

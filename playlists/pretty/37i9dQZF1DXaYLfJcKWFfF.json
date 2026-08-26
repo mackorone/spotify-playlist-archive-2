@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from Africa and diaspora to dive into. Cover: Mishy Kope",
-  "num_followers": 3062,
+  "num_followers": 3071,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE7lVA2CaQVBZpLh/GVfStGwA3QA",
+  "snapshot_id": "AAAAABzzZqQPw8RH1GlObvw3svKgmtcj",
   "tracks": [
     {
       "added_at": "2026-08-07 02:00:02",
@@ -115,26 +115,18 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Afro G Western",
-        "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/5DxR3lqaovRan5jG5aP4r2"
       },
       "artists": [
         {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "Stevo Atambire",
-          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
-        },
-        {
-          "name": "TSIE",
-          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Afro G Western",
-      "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+      "duration_ms": 166601,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2MCMoWWhsuslO8NBRAfHR0"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -155,18 +147,26 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/5DxR3lqaovRan5jG5aP4r2"
+        "name": "Afro G Western",
+        "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
       },
       "artists": [
         {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
         }
       ],
-      "duration_ms": 166601,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/2MCMoWWhsuslO8NBRAfHR0"
+      "duration_ms": 223000,
+      "name": "Afro G Western",
+      "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -223,26 +223,18 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y"
       },
       "artists": [
         {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
           "name": "Booshle G.",
           "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        },
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
+      "duration_ms": 168492,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -279,18 +271,26 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
       },
       "artists": [
         {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
           "name": "Booshle G.",
           "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
         }
       ],
-      "duration_ms": 168492,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX"
+      "duration_ms": 140952,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
+        "name": "OKAY!",
+        "url": "https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "OKAY!",
+      "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
         "name": "Sinatanale",
         "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 214956,
       "name": "Sinatanale",
       "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
-        "name": "OKAY!",
-        "url": "https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "OKAY!",
-      "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV"
+      },
+      "artists": [
+        {
+          "name": "Kaiya Gamble",
+          "url": "https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU"
+        },
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 166940,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
         "name": "Pour Some More",
         "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
       },
@@ -1051,26 +1071,6 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV"
-      },
-      "artists": [
-        {
-          "name": "Kaiya Gamble",
-          "url": "https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU"
-        },
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 166940,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
         "name": "Adwuma",
         "url": "https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs"
       },
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Feel It All",
-        "url": "https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ"
+        "name": "We Will Run",
+        "url": "https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Feel It All",
-      "url": "https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh"
+      "duration_ms": 188400,
+      "name": "We Will Run",
+      "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 193477,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
         "name": "Mellow Dramatic",
         "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 234582,
       "name": "New Lamp",
       "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 193477,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "We Will Run",
-        "url": "https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz"
+        "name": "Feel It All",
+        "url": "https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 188400,
-      "name": "We Will Run",
-      "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"
+      "duration_ms": 168200,
+      "name": "Feel It All",
+      "url": "https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
+        "name": "Yalwa",
+        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Yalwa",
+      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
         "name": "Holu Lufuno",
         "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "REST OF YOUR LIFE",
-        "url": "https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 271838,
-      "name": "Rest Of Your Life",
-      "url": "https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 173634,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
+        "name": "REST OF YOUR LIFE",
+        "url": "https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 271838,
+      "name": "Rest Of Your Life",
+      "url": "https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1311,8 +1327,8 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Yalwa",
-        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+        "name": "Zama",
+        "url": "https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh"
       },
       "artists": [
         {
@@ -1320,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
         }
       ],
-      "duration_ms": 154333,
-      "name": "Yalwa",
-      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+      "duration_ms": 263493,
+      "name": "Zama",
+      "url": "https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1379,34 +1395,18 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+        "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
+        "url": "https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6"
       },
       "artists": [
         {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+          "name": "Etuk Ubong",
+          "url": "https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7"
         }
       ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
-        "name": "Zama",
-        "url": "https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "Zama",
-      "url": "https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE"
+      "duration_ms": 351900,
+      "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
+      "url": "https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm"
     }
   ],
   "unique_name": "Afro Indie",

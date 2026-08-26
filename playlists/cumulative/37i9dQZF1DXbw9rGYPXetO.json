@@ -547,6 +547,32 @@
     },
     {
       "album": {
+        "name": "Kachaudi Gali | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/3kqqrHGNYm8vgexntOEYd6"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Utpal Udit",
+          "url": "https://open.spotify.com/artist/6CofdUvEkvHE8r0vPAtg0h"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "Kachaudi Gali | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/5eaM2BtVi2SsjA8Q31QGF3"
+    },
+    {
+      "album": {
         "name": "Madras 1964",
         "url": "https://open.spotify.com/album/6cDIt3S7CdWT8WrjzuDtJz"
       },

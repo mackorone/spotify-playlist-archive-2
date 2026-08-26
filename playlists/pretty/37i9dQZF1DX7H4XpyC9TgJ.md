@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 
 > Are you ready to be a Jimin's MUSE? 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,131 likes - 34 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,189 likes - 34 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intro to 'This is Jimin'](https://open.spotify.com/track/6EFMY32aseg0jFvZHOIasw) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Jimin's Message to ARMY Audio Liners](https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV) | 0:08 |
 | 2 | [SWIM with Jimin \(Slow Jam R&B Remix\)](https://open.spotify.com/track/1rHA1rzjy0cBgmV0ZwfrXb) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:29 |
 | 3 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
-| 4 | [Be Mine \(English Version\)](https://open.spotify.com/track/4DairgmwgyfmFHm0e7kRPL) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Be Mine \(English Version\)](https://open.spotify.com/album/7EGoWlfxvnwpTamkoOhWcb) | 3:27 |
+| 4 | [Be Mine \- English Version](https://open.spotify.com/track/4DairgmwgyfmFHm0e7kRPL) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Be Mine \(English Version\)](https://open.spotify.com/album/7EGoWlfxvnwpTamkoOhWcb) | 3:27 |
 | 5 | [Closer Than This](https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:43 |
 | 6 | [Rebirth \(Intro\)](https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:24 |
 | 7 | [Interlude : Showtime](https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 1:18 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 | 33 | [Like Crazy \(Instrumental\)](https://open.spotify.com/track/0cxhv3PpIkmREXqobuB0zG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:32 |
 | 34 | [Outro Message from Jimin](https://open.spotify.com/track/1uCSqZZIan266XTbkmTCCV) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Jimin's Message to ARMY Audio Liners](https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV) | 0:05 |
 
-Snapshot ID: `AAAAAFnlguE2WGWTx0kFmLb4d23Y/hG8`
+Snapshot ID: `AAAAAAXoh/TFPmII9cc74G1r9SEDr6/I`

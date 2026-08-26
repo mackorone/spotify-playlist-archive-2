@@ -1,12 +1,12 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 674422,
+  "num_followers": 674572,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABasyGju9Tbi7BMyecTvU9iYBINt",
+  "snapshot_id": "AAAAAAGN5orzcCKbdrZoPmsJBfleyK5F",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:34",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Let the Rain Come Down",
-      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+      "duration_ms": 199773,
+      "name": "Let the Rain Come Down",
+      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
+        "name": "Living Proof (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 218986,
+      "name": "Living Proof (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
-        "name": "Living Proof (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 218986,
-      "name": "Living Proof (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
         "name": "World On Fire",
         "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "All of Your Stones",
-        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 429488,
-      "name": "I Need You (feat. Ashley Monroe)",
-      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
+      "duration_ms": 187880,
+      "name": "The Devil I Know",
+      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1675,18 +1671,22 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
+        "name": "All of Your Stones",
+        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
       },
       "artists": [
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 187880,
-      "name": "The Devil I Know",
-      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
+      "duration_ms": 429488,
+      "name": "I Need You (feat. Ashley Monroe)",
+      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
     },
     {
       "added_at": "2026-06-26 04:01:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rex Orange County, Daniel Caesar, BIGBANG, Bunga Citra Lestari, Josh Florentino, Rizwan Fadilah dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,624 likes - 107 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,617 likes - 107 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 73 | [Sweetest](https://open.spotify.com/track/2Z4WJ6lFttemi3TIpSZ4rB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Sweetest](https://open.spotify.com/album/55hrj4PZ3eGm3XBkw2BE1P) | 3:02 |
 | 74 | [Broken Diamonds](https://open.spotify.com/track/6A3maDJ9zaEwNRHL8aij0L) | [POK](https://open.spotify.com/artist/3hnAccux59ZMl0nJqpLz44) | [Broken Diamonds](https://open.spotify.com/album/5YLNcuuvsKcuCw3Pv2RciC) | 3:04 |
 | 75 | [IT IS](https://open.spotify.com/track/6sgGwEi4cTtkKr502TgGnZ) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [IT IS](https://open.spotify.com/album/61drX26TxcvgaKotFHinVQ) | 2:16 |
-| 76 | [Tell Me \(feat\. AG COCO\)](https://open.spotify.com/track/6uDMZjFejctSFnUJZevz9U) | [Pinstripes](https://open.spotify.com/artist/55sDlhEtcEfwIzApR6AHgH) | [Tell Me \(feat\. AG COCO\)](https://open.spotify.com/album/6DhHxRDSzwje4NiEl8YTyE) | 3:03 |
+| 76 | [Tell Me](https://open.spotify.com/track/6uDMZjFejctSFnUJZevz9U) | [Pinstripes](https://open.spotify.com/artist/55sDlhEtcEfwIzApR6AHgH), [AG COCO](https://open.spotify.com/artist/5MQk3WIAnNUAgz8FuhQjzX) | [Tell Me](https://open.spotify.com/album/6DhHxRDSzwje4NiEl8YTyE) | 3:03 |
 | 77 | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 |
 | 78 | [DIFFERENT](https://open.spotify.com/track/4Cy4n8Tskg9Hn8L90mW4VL) | [Syasya Rizal](https://open.spotify.com/artist/5v6OyN4JnkVwba9Rd83ozu) | [DIFFERENT](https://open.spotify.com/album/0xC5bXCoXOiZjWcT1wK10z) | 3:02 |
 | 79 | [MAMA](https://open.spotify.com/track/3DtGcc3Alp7cQESPk2EQtA) | [Stacy](https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX) | [MAMA](https://open.spotify.com/album/0Luwmpf0xU7EninHESk7WP) | 4:08 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 106 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
 | 107 | [Amnesia](https://open.spotify.com/track/6twcigHXokNqbYWXKaaYYm) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [Amnesia](https://open.spotify.com/album/6AKBYcMAQrqvKSd6MHSPcF) | 2:36 |
 
-Snapshot ID: `AAAAADdOtOvfGxWoUzsxWw97mTweSh4N`
+Snapshot ID: `AAAAAG6//5qqqW1HAOV9Q74802Avgcvr`

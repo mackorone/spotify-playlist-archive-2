@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,908 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,037 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [POR TI](https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX) | [POR TI](https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa) | 1:55 |
 | 50 | [Booster](https://open.spotify.com/track/2uRtKtAriztwH2ZTYEL5NU) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Booster](https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb) | 2:11 |
 
-Snapshot ID: `AAAAAHrwHdQPIddiVt1rX4dyFI9xL2eb`
+Snapshot ID: `AAAAANSSC02lYZMEWaspFBP56Z82qM4a`

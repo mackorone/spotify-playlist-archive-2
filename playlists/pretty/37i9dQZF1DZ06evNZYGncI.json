@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 1083730,
+  "num_followers": 1083838,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAAEtT+fTd8WPisQes2jKbJ/",
+  "snapshot_id": "aouJgAAAAACh7MPZk3v0L3rNUli2VVrp",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 220293,
-      "name": "My Plague",
-      "url": "https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i"
+      "duration_ms": 308306,
+      "name": "Disasterpiece",
+      "url": "https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iowa (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 308306,
-      "name": "Disasterpiece",
-      "url": "https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iowa (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Everything Ends",
-      "url": "https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP"
+      "duration_ms": 123400,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
     },
     {
       "added_at": null,
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 123400,
-      "name": "Get This",
-      "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
+      "duration_ms": 345693,
+      "name": "'Til We Die",
+      "url": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 345693,
-      "name": "'Til We Die",
-      "url": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
+      "duration_ms": 289226,
+      "name": "The Chapeltown Rag",
+      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 289226,
-      "name": "The Chapeltown Rag",
-      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
+      "duration_ms": 315506,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 315506,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L"
+      "duration_ms": 231146,
+      "name": "Warranty",
+      "url": "https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 231146,
-      "name": "Warranty",
-      "url": "https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1"
+      "duration_ms": 361533,
+      "name": "Gematria (The Killing Name)",
+      "url": "https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5"
     },
     {
       "added_at": null,
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 361533,
-      "name": "Gematria (The Killing Name)",
-      "url": "https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End, So Far",
         "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 315906,
       "name": "Hive Mind",
       "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iowa (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Metabolic",
+      "url": "https://open.spotify.com/track/5i2MXxinpfJCj1ynihiNnt"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 340400,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iowa (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/00WbLoO3bSlUdAy8al106S"
     }
   ],
   "unique_name": "This Is Slipknot",

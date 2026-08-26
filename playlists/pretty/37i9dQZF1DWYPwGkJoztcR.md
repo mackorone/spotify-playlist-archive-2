@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,668 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,666 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 42 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 |
 | 43 | [Same Heart](https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Same Heart](https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8) | 3:39 |
 | 44 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
-| 45 | [Last Forever \- Acoustic](https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Last Forever](https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P) | 3:14 |
-| 46 | [Never Felt The Rain \(feat\. FENNE\)](https://open.spotify.com/track/3X9RJFvBRpfiHrWeB3iE9V) | [Cas Heim](https://open.spotify.com/artist/0yXP3FUiGEKpLAXV1czUIE), [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Never Felt The Rain \(feat\. FENNE\)](https://open.spotify.com/album/5l1lpfVQcauzbECuyD5BxQ) | 4:29 |
-| 47 | [Heart of the Matter](https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Heart of the Matter](https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt) | 4:04 |
-| 48 | [Here's To Forever](https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx) | [Bart van Liemt](https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D) | [Here's To Forever](https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7) | 3:04 |
+| 45 | [Never Felt The Rain \(feat\. FENNE\)](https://open.spotify.com/track/3X9RJFvBRpfiHrWeB3iE9V) | [Cas Heim](https://open.spotify.com/artist/0yXP3FUiGEKpLAXV1czUIE), [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Never Felt The Rain \(feat\. FENNE\)](https://open.spotify.com/album/5l1lpfVQcauzbECuyD5BxQ) | 4:29 |
+| 46 | [Last Forever \- Acoustic](https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Last Forever](https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P) | 3:14 |
+| 47 | [Here's To Forever](https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx) | [Bart van Liemt](https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D) | [Here's To Forever](https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7) | 3:04 |
+| 48 | [Heart of the Matter](https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Heart of the Matter](https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt) | 4:04 |
 | 49 | [Northern Star](https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Northern Star](https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP) | 3:12 |
 | 50 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 |
 | 51 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 54 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 |
 | 55 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
 | 56 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 |
-| 57 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 |
-| 58 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
+| 57 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
+| 58 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 |
 | 59 | [One Life](https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [One Life](https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC) | 2:30 |
 | 60 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 |
 | 61 | [When She’s Around](https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When She’s Around](https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 99 | [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 |
 | 100 | [Suddenly Forever](https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR) | [Selwyn](https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ) | [Suddenly Forever](https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7) | 3:20 |
 
-Snapshot ID: `AAAAAOwguvZTjx5pT/UKZIYZz72IO56v`
+Snapshot ID: `AAAAAP0cC9v3+Q18WT2OV5TBK0PdYfV+`

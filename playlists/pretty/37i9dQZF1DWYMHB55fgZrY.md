@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. el Xava Drago por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,550 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,582 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 99 | [Alcohol](https://open.spotify.com/track/4Om8q2itxIhPZ8eC5BY19U) | [Resorte](https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic) | [Rebota \(F=KX\)2](https://open.spotify.com/album/7i40q5hprq8zKeQze2xW9H) | 3:41 |
 | 100 | [Cuando Pase el Temblor \- Versión Sinfónico \[En Vivo\]](https://open.spotify.com/track/5VIRFG7jnzr8tElckFwgtA) | [Sabo Romo](https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju), [Marciano Cantero](https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO), [Roberto Casas Torres](https://open.spotify.com/artist/5UDBBukBCBMrBKjrOhjyuN), [Neon](https://open.spotify.com/artist/47UqGCZS8g1V6ZnFKAkK0A), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ), [Ritmo Peligroso](https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d), [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N), [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U), [Cala \(Rostros Ocultos\)](https://open.spotify.com/artist/2pTuStgL0ImeVhEweOPu50) | [Rock en Tu Idioma Sinfónico](https://open.spotify.com/album/3ayan86yMHukQACm3V7T6J) | 4:02 |
 
-Snapshot ID: `AAAAAMI2ANZOzwNJYXs28ym+cgixPjJK`
+Snapshot ID: `AAAAAJpUXIQAo6E3A214Q0h6a0L3e2YN`

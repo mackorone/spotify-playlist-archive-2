@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von makko, The Chainsmokers, Jorja Smith, Sido, Jazeek, Carly Rae Jepsen & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,785 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,742 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 38 | [DUBAI](https://open.spotify.com/track/5K9x7Npbq2swS3XSmQjFtZ) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [DUBAI](https://open.spotify.com/album/73rMNDoChpSjFrI7WvpSTW) | 2:44 |
 | 39 | [New Tempo](https://open.spotify.com/track/3LnmD0Ms9aKhRTpmdLU6P0) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [New Tempo](https://open.spotify.com/album/02UTp94niIKFzZhD4vpJ9Z) | 3:26 |
 | 40 | [SEDUCTIVE](https://open.spotify.com/track/1pk6Qo3Vzv4kUF81BxU4S5) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [SEDUCTIVE](https://open.spotify.com/album/6ptfPyyIfY3Ll1VSeNx1aL) | 3:04 |
-| 41 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 41 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 42 | [Sage \(Feat\. Adekunle Gold\)](https://open.spotify.com/track/6YqpwusGcdhwS4ZFp1D0CX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Sage \(Feat\. Adekunle Gold\)](https://open.spotify.com/album/7xOoOG9UTWxSnYWOiMEOor) | 2:53 |
 | 43 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
 | 44 | [Leave Me Behind](https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Leave Me Behind](https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 74 | [Aus meinem Kopf](https://open.spotify.com/track/7hwpmjKIMDzADvirA6yQ0I) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Aus meinem Kopf](https://open.spotify.com/album/2OT9kCogQLGvK7TATOcq2q) | 3:24 |
 | 75 | [Crazy Frog \- Axel F](https://open.spotify.com/track/31O0OYNBVsw58u3AgQqYPO) | [The Butcher Sisters](https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM) | [Crazy Frog \- Axel F](https://open.spotify.com/album/6w83dmZPBFyWlCbWhp83EI) | 2:38 |
 
-Snapshot ID: `AAAAAJ8jx1gqyxyZBg0jtOO7sAjo7Njw`
+Snapshot ID: `AAAAAOu5oE31l/GedQXLAXuldTVA2r4q`

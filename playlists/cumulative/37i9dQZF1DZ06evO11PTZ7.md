@@ -4,7 +4,7 @@
 
 > This is Sick Of It All\. The essential tracks, all in one playlist.
 
-50 songs - 1 hr 50 min
+53 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,14 @@
 | [Call to Arms](https://open.spotify.com/track/5VeaXLqDmSM1WcmVLBBn6M) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Call to Arms](https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU) | 1:48 | 2026-07-26 |  |
 | [Clobberin' Time](https://open.spotify.com/track/7AIqWpo3KRHEGA2ECSF3FH) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 1:09 | 2026-07-26 |  |
 | [Clobberin' Time / Pay the Price](https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:48 | 2026-07-26 |  |
-| [Consume](https://open.spotify.com/track/7HeUlljvm2qSTWX9lGn3aF) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 3:43 | 2026-07-26 |  |
+| [Consume](https://open.spotify.com/track/7HeUlljvm2qSTWX9lGn3aF) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 3:43 | 2026-07-26 | 2026-08-26 |
 | [Death Or Jail](https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Based On A True Story](https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3) | 2:51 | 2026-07-26 |  |
-| [Desperate Fool](https://open.spotify.com/track/0RNDe3pOrVKvOMfsaAipjP) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 1:51 | 2026-07-26 |  |
+| [Desperate Fool](https://open.spotify.com/track/0RNDe3pOrVKvOMfsaAipjP) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 1:51 | 2026-07-26 | 2026-08-26 |
 | [Die Alone](https://open.spotify.com/track/4aEnzfYLyYXNPCYnhGRiW4) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 2:33 | 2026-07-26 |  |
 | [District](https://open.spotify.com/track/6vwk2JVvchaqoKXXaDyMf0) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Yours Truly](https://open.spotify.com/album/31k142dr62jiftXxOnjmfF) | 3:26 | 2026-07-26 |  |
 | [DNC](https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Last Act of Defiance](https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV) | 2:42 | 2026-07-26 |  |
+| [Farm Team](https://open.spotify.com/track/0KzMtZVgoneM8LP0gQvwME) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 2:22 | 2026-08-26 |  |
+| [Force My Hand](https://open.spotify.com/track/4jyic7n3CPtE1LRdt74uwK) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 2:27 | 2026-08-26 |  |
 | [Friends Like You](https://open.spotify.com/track/1ca43CK4y8sBoZDSGsZFid) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:08 | 2026-07-26 |  |
 | [G\. I\. Joe Headstomp](https://open.spotify.com/track/33wj2515UqBaZdLuRP2CJG) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:19 | 2026-07-26 |  |
 | [Goatless](https://open.spotify.com/track/1vO83H2MAKuKaisSk8P9UP) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 1:20 | 2026-07-26 |  |
@@ -30,11 +32,12 @@
 | [Hello Pricks](https://open.spotify.com/track/6tHhMcEUL0VafmsXzlJqPR) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Yours Truly](https://open.spotify.com/album/31k142dr62jiftXxOnjmfF) | 2:53 | 2026-07-26 |  |
 | [Injustice System!](https://open.spotify.com/track/5AUlwP1gZFUcfMfkyVDKPW) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 1:53 | 2026-07-26 |  |
 | [Inner Vision](https://open.spotify.com/track/1TsHbUg7QB71VUx8hbyg79) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 1:54 | 2026-07-26 |  |
+| [Insurrection](https://open.spotify.com/track/72sxWQLp3hBblFUIxTRfG5) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 1:49 | 2026-08-26 |  |
 | [It's Clobberin' Time](https://open.spotify.com/track/157CCj9ID91CGvG2hy0XQE) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Sick Of It All](https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R) | 0:45 | 2026-07-26 |  |
 | [Just Look Around](https://open.spotify.com/track/6rabHuX6nMyq9eC6VpEVyi) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:26 | 2026-07-26 |  |
 | [Machete](https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 2:03 | 2026-07-26 |  |
 | [Make A Mark](https://open.spotify.com/track/6eCxi8qQmJT89kWMyAOMmi) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 3:11 | 2026-07-26 |  |
-| [Maladjusted](https://open.spotify.com/track/1pALvpCp59kO9qPJPMm2jD) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 2:24 | 2026-07-26 |  |
+| [Maladjusted](https://open.spotify.com/track/1pALvpCp59kO9qPJPMm2jD) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 2:24 | 2026-07-26 | 2026-08-26 |
 | [N.S./My Revenge](https://open.spotify.com/track/6MxlzQlmyJqQmzkeFt83Wn) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Sick Of It All](https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R) | 1:13 | 2026-07-26 |  |
 | [No Cure](https://open.spotify.com/track/5s2Z5o4780r1nFQ9gmpfhF) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 2:58 | 2026-07-26 |  |
 | [One Step Ahead](https://open.spotify.com/track/2Lzi8DXYLHSN2vYPV2zrK4) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Built to Last](https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k) | 2:07 | 2026-07-26 |  |

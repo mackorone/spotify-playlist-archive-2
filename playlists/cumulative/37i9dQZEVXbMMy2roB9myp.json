@@ -690,7 +690,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 226746,
       "name": "9 de Julio",
       "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
@@ -3549,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "Civilizaci\u00f3n",
+        "url": "https://open.spotify.com/album/2MwcuVRq2oyyaXlrnqVw1m"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320760,
+      "name": "Bicho de Ciudad",
+      "url": "https://open.spotify.com/track/0pSDFUNlOZlkaQry1fFI5Q"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -5904,7 +5922,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 159146,
       "name": "Coraz\u00f3n Sin Cara - En Vivo",
       "url": "https://open.spotify.com/track/2f9AllMPPxD0aulDlYZ4M5"
@@ -9650,7 +9668,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -11392,7 +11410,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 268213,
       "name": "Hab\u00eda una Vez...",
       "url": "https://open.spotify.com/track/3ayHT7okY784fCWMYDbspt"
@@ -13114,7 +13132,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 207533,
       "name": "L a k e n o s h i",
       "url": "https://open.spotify.com/track/6OoYmAP9oZtBiSomWpDTWP"
@@ -18714,7 +18732,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 80480,
       "name": "NO LES DA",
       "url": "https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE"
@@ -18896,7 +18914,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 215372,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/1Zh6HllrXT0Khrwk2j3TrZ"
@@ -19540,7 +19558,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
@@ -20492,7 +20510,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 176703,
       "name": "Para La Gilada - Remix",
       "url": "https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB"
@@ -23042,7 +23060,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 191703,
       "name": "QUE ONDA",
       "url": "https://open.spotify.com/track/61vlMpyFxXmxvahvA7Bi3z"
@@ -31628,7 +31646,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 160510,
       "name": "\u00bfQui\u00e9n te dijo? - En Vivo",
       "url": "https://open.spotify.com/track/7D3INyQTrKEkKzWJe4Eigr"

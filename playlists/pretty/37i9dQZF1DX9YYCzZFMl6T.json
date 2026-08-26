@@ -1,12 +1,12 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8218,
+  "num_followers": 8222,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4zUwis2RbBNToNbFuVt3Z5HG5p",
+  "snapshot_id": "AAAAABSGQRUHelFsjCuCBqftq1mn2sW4",
   "tracks": [
     {
       "added_at": "2025-12-12 05:00:29",
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "A Dotted Line",
-        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
       },
       "artists": [
         {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 262786,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
+      "duration_ms": 164600,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -203,18 +203,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
+        "name": "A Dotted Line",
+        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 164600,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
+      "duration_ms": 262786,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 131746,
-      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Sing: Christmas Songs",
         "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 179653,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 131746,
+      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Send Me Out Like Autumn",
-        "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
-      },
-      "artists": [
-        {
-          "name": "King Margo",
-          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Send Me Out Like Autumn",
-      "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 194582,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Send Me Out Like Autumn",
+        "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
+      },
+      "artists": [
+        {
+          "name": "King Margo",
+          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Send Me Out Like Autumn",
+      "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Hard Candy Christmas",
-        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        }
-      ],
-      "duration_ms": 207735,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "I Heard The Bells on Christmas Day",
         "url": "https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 189360,
       "name": "I Heard The Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
     },
     {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Merry Christmas Asshole",
-        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
-      },
-      "artists": [
-        {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
-        }
-      ],
-      "duration_ms": 185056,
-      "name": "Merry Christmas Asshole",
-      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
-    },
-    {
       "added_at": "2025-12-18 16:35:14",
       "album": {
         "name": "Everybody Knows It's Christmas",
@@ -787,6 +771,22 @@
       "duration_ms": 224760,
       "name": "Wrapping Presents For Myself",
       "url": "https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Merry Christmas Asshole",
+        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 185056,
+      "name": "Merry Christmas Asshole",
+      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
     },
     {
       "added_at": "2025-12-12 05:00:29",

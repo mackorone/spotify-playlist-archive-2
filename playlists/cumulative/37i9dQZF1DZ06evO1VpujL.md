@@ -4,7 +4,7 @@
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 49 min
+82 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Ruling Force](https://open.spotify.com/track/4pvGRrSuY0VUUJfzsrPAFI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:52 | 2025-10-23 |  |
 | [Selector](https://open.spotify.com/track/1DstlW4VDy7sc4kZ1sJpW0) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:23 | 2024-09-17 |  |
 | [Set Fazers](https://open.spotify.com/track/1IYOdwWpd4IQKwqhRPpklu) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:15 | 2024-09-17 |  |
-| [Set It Off](https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(U.S\. Version\)](https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4) | 3:03 | 2024-09-17 |  |
+| [Set It Off](https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(U.S\. Version\)](https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4) | 3:03 | 2024-09-17 | 2026-08-26 |
 | [Shut Ya Mouth](https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:43 | 2024-09-17 |  |
 | [Sound the Siren](https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:20 | 2024-09-17 |  |
 | [Stand for Something](https://open.spotify.com/track/2juhfL5ob3ykgArNQOtBYX) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 4:06 | 2024-09-17 | 2025-10-23 |
@@ -83,6 +83,7 @@
 | [Unstoppable](https://open.spotify.com/track/41YqZ01I6xnP64LzTQcdGz) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:03 | 2024-09-17 |  |
 | [Volume](https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:37 | 2024-09-17 |  |
 | [Warning \- feat\. Jacoby Shaddix](https://open.spotify.com/track/51D2Hs0t0X37GWI0TTMyaW) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:50 | 2024-09-17 |  |
+| [We Want](https://open.spotify.com/track/4NPTNNv1CaQ1eZVb0r8pse) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:01 | 2026-08-26 |  |
 | [Worlds on Fire](https://open.spotify.com/track/5ndr0VBUk8Uz8GmGEEt8tY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill the Power](https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk) | 3:31 | 2024-09-17 | 2025-10-23 |
 | [Worlds on Fire](https://open.spotify.com/track/01KiGFAD8PTLqRIEjYEqfP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:31 | 2025-10-23 |  |
 | [You Can't Stop It](https://open.spotify.com/track/1OLv5MkZEkrQqEmNJOxgGY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:53 | 2025-09-16 | 2025-10-19 |

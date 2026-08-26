@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369108,
+  "num_followers": 369114,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADDnj40SU+ixHteIVUGnDIm",
+  "snapshot_id": "aouJgAAAAAC9qduCz/APlxDjKd10yj2w",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "EAT",
-        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
       "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         },
         {
-          "name": "The New Respects",
-          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+          "name": "Miri Mesika",
+          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 167254,
-      "name": "Watchmen",
-      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
+      "duration_ms": 106552,
+      "name": "Follow The Light (Reprise) - I Will Not Be Afraid Medley",
+      "url": "https://open.spotify.com/track/36K0jYspMVKFl51CWaMNRh"
     },
     {
       "added_at": null,
@@ -199,26 +199,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+        "name": "EAT",
+        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
       },
       "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         },
         {
-          "name": "Miri Mesika",
-          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
         }
       ],
-      "duration_ms": 106552,
-      "name": "Follow The Light (Reprise) - I Will Not Be Afraid Medley",
-      "url": "https://open.spotify.com/track/36K0jYspMVKFl51CWaMNRh"
+      "duration_ms": 167254,
+      "name": "Watchmen",
+      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
     },
     {
       "added_at": null,

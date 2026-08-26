@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,679 likes - 241 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,666 likes - 241 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 7 | [Someday at Christmas \- Live from the Eiffel Tower](https://open.spotify.com/track/1UsV1RrYzF1cg0rFo4QyGs) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Someday at Christmas \(Live from the Eiffel Tower\)](https://open.spotify.com/album/2JzM8IFzL14WqqXs20UpzP) | 4:10 |
 | 8 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
 | 9 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/794chmpAl8jGk4Y6TDhqbO) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Oh\. What\. Fun\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5UsgaDjEL9Jt4010E2VG6h) | 2:32 |
-| 10 | [NOT CUTE ANYMORE \(Holiday Party ver.\)](https://open.spotify.com/track/34E2VK7s9Gs7k5ryMxOftR) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 2:26 |
+| 10 | [NOT CUTE ANYMORE \- Holiday Party ver.](https://open.spotify.com/track/34E2VK7s9Gs7k5ryMxOftR) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 2:26 |
 | 11 | [White Christmas](https://open.spotify.com/track/7hzgg84aVpUctPPcZTIH0S) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [White Christmas](https://open.spotify.com/album/5fl4eCd8Z4eb4aIZiMRpER) | 2:32 |
 | 12 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
 | 13 | [Ain't It Christmas After All](https://open.spotify.com/track/1dDXaalglYgG1CjWMLyAU5) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Ain't It Christmas After All](https://open.spotify.com/album/7La5oRYXkT2ZpqvgH9IBwC) | 2:45 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 240 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
 | 241 | [Holiday Dream](https://open.spotify.com/track/0kRLJXQOxLBWIn7H4vG9cA) | [Jamra](https://open.spotify.com/artist/5s8r3DCYb7AhwXrQNFoyh8) | [Holiday Dream](https://open.spotify.com/album/5hGhLXk2pz1G0ROuRKPPs0) | 3:02 |
 
-Snapshot ID: `AAAAAJkibOW1tVBr1Qy5120KDGNq87/n`
+Snapshot ID: `AAAAACMiWjp2DzeI5bcQk5dz9CpCUfmX`

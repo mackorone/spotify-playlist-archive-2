@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: EL DE LA TINTA 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,590 likes - 66 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,569 likes - 66 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 65 | [Andar Conmigo](https://open.spotify.com/track/2dTdjc27Sbsq0MNJwi4l3t) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Lost & Found](https://open.spotify.com/album/5oHfUAj2xatKNR8tgUSwB0) | 3:51 |
 | 66 | [Migajas](https://open.spotify.com/track/3cZAlvCZ9WQAVBRLxrkkjM) | [Loreto](https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh) | [Migajas](https://open.spotify.com/album/6YZNghBIp2PYtdueWgyQPu) | 3:08 |
 
-Snapshot ID: `AAAAAHoyWZR2+9Te9zuUFYVmtOx9A1cK`
+Snapshot ID: `AAAAAGe64dd0IwIdIzeyCKKwdc/0JtZr`

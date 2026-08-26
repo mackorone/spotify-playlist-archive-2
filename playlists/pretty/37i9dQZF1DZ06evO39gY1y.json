@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 260511,
+  "num_followers": 260555,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACPqAZNzb8Fybuls2xDM5Sq",
+  "snapshot_id": "aouJgAAAAAA15cYu3raEyq1aJLLyIdyq",
   "tracks": [
     {
       "added_at": null,
@@ -211,34 +211,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letras Chiquitas",
-        "url": "https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT"
+        "name": "Antes del alba",
+        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
       },
       "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 262961,
-      "name": "Letras Chiquitas",
-      "url": "https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b"
+      "duration_ms": 181418,
+      "name": "T\u00fa tienes el son",
+      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
     },
     {
       "added_at": null,
@@ -283,30 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes del alba",
-        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "T\u00fa tienes el son",
-      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -327,26 +295,6 @@
       "duration_ms": 209292,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2N5GGKdxHZeQOxNDlZPfbP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nico Male\u00f3n",
-          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Aqu\u00ed Todo Esta Bien",
-      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
     },
     {
       "added_at": null,
@@ -379,6 +327,26 @@
       "duration_ms": 243711,
       "name": "Burbuja de Amor",
       "url": "https://open.spotify.com/track/2KEixVbLseX0hfD3KeM4A3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nico Male\u00f3n",
+          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Aqu\u00ed Todo Esta Bien",
+      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
     },
     {
       "added_at": null,
@@ -955,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Maletas",
+        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Lejos de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tiempo Cura",
         "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
       },
@@ -971,22 +955,6 @@
       "duration_ms": 208564,
       "name": "El Tiempo Cura",
       "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Maletas",
-        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Lejos de Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
     },
     {
       "added_at": null,
@@ -1143,6 +1111,30 @@
       "duration_ms": 241549,
       "name": "Voy a Estar Bien",
       "url": "https://open.spotify.com/track/2QrRQQh6xNSBl1ZXBcJ6HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No estes triste",
+        "url": "https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "No Est\u00e9s Triste",
+      "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
     }
   ],
   "unique_name": "This Is Charles Ans",

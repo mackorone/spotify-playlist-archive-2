@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "En alabanza y gracia",
+        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181926,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/6SP7gwc3R7NnVecD16aCtI"
+    },
+    {
+      "album": {
         "name": "La B\u00fasqueda",
         "url": "https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 191609,
       "name": "Bendita",
       "url": "https://open.spotify.com/track/4N6NPzM6XO9iXaHf3X4CaY"
@@ -286,7 +304,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 251656,
       "name": "Buscar estar",
       "url": "https://open.spotify.com/track/0jwbFOJUIwztn9a325Drcq"
@@ -416,6 +434,24 @@
       "duration_ms": 213453,
       "name": "Camino",
       "url": "https://open.spotify.com/track/4QrpejsTZZ17A9wbpct57e"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213459,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/5MW00eJJMfwWapoxJdd1M6"
     },
     {
       "album": {
@@ -574,7 +610,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 226416,
       "name": "Con el diablo al lado",
       "url": "https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3"
@@ -682,7 +718,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 265565,
       "name": "Conquista",
       "url": "https://open.spotify.com/track/4uaoi4nSH1UyeYh8EdUmZS"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 189473,
       "name": "De la tierra crece",
       "url": "https://open.spotify.com/track/22DFli4cbSsY1UkTLymWkK"
@@ -869,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "Despoblamiento Global",
+      "url": "https://open.spotify.com/track/2Kz5cz7gREafVIYuX73C3w"
+    },
+    {
+      "album": {
         "name": "Con Rastafari Todo Concuerda",
         "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
       },
@@ -934,10 +988,28 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 185618,
       "name": "Dos que brillamos",
       "url": "https://open.spotify.com/track/712ohvUbUMUe9NF1ZOS9ly"
+    },
+    {
+      "album": {
+        "name": "En alabanza y gracia",
+        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235866,
+      "name": "El Mes\u00edas se reencarn\u00f3",
+      "url": "https://open.spotify.com/track/1SIqk7w08fuTQF9bdaBkcj"
     },
     {
       "album": {
@@ -956,6 +1028,24 @@
       "duration_ms": 209960,
       "name": "En la naturaleza",
       "url": "https://open.spotify.com/track/7KM07uVWpOtSqwzvZfgZ73"
+    },
+    {
+      "album": {
+        "name": "En alabanza y gracia",
+        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209976,
+      "name": "En la naturaleza",
+      "url": "https://open.spotify.com/track/7i6YJhfBw1vV7ue612FnWe"
     },
     {
       "album": {
@@ -1006,7 +1096,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 253142,
       "name": "En Zion mi anhelo",
       "url": "https://open.spotify.com/track/51KXnyV3u3TGUhpilGyt1Y"
@@ -1028,6 +1118,24 @@
       "duration_ms": 256665,
       "name": "En Zion mi anhelo",
       "url": "https://open.spotify.com/track/2DtKSErB8T984w0XGfSGIr"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256666,
+      "name": "EN ZION MI ANHELO - En Vivo",
+      "url": "https://open.spotify.com/track/2U0yBxVHpYFAoKTuuUjY9k"
     },
     {
       "album": {
@@ -1096,7 +1204,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 183103,
       "name": "Esa luz",
       "url": "https://open.spotify.com/track/0KGb64YLoDy5qonAqmY69r"
@@ -1247,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Con Rastafari todo concuerda",
+        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189937,
+      "name": "Fuerte como una roca",
+      "url": "https://open.spotify.com/track/33V9yZXbzJ5f3N7cmMxXD6"
+    },
+    {
+      "album": {
         "name": "Con Rastafari Todo Concuerda",
         "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
       },
@@ -1294,7 +1420,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 241068,
       "name": "Fuma del humo y sana",
       "url": "https://open.spotify.com/track/7kCXcX93yudTcnr5RZXdnd"
@@ -1352,10 +1478,28 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 222259,
       "name": "Fumando vamos a casa",
       "url": "https://open.spotify.com/track/2GQdf0WXn1GgksCHnjW8ow"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191981,
+      "name": "Ganjah en mi habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/1ggXz2O9Q3GduyUuVJRzBP"
     },
     {
       "album": {
@@ -1406,7 +1550,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 247058,
       "name": "Guerrero de Jah",
       "url": "https://open.spotify.com/track/4UpYWMyuwEf2V3nswTHdxJ"
@@ -1428,6 +1572,24 @@
       "duration_ms": 202369,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/65NZr3FVk21eV5KSeS0g65"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180928,
+      "name": "I&I Iriebless",
+      "url": "https://open.spotify.com/track/2AAxuXc9bRUnOlX8S4n8Qt"
     },
     {
       "album": {
@@ -1586,7 +1748,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 195046,
       "name": "Irie",
       "url": "https://open.spotify.com/track/2lXWq2wdLB00gdjfERLj3z"
@@ -2011,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170084,
+      "name": "M\u00fasica",
+      "url": "https://open.spotify.com/track/1yQknSv7qfOc4ZLgoc1nIu"
+    },
+    {
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2c1Ctje54v5kkdc932GsqN"
       },
@@ -2137,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270952,
+      "name": "NO ESTES TRISTE - En Vivo",
+      "url": "https://open.spotify.com/track/1KSXyvyKTaDnSgqcCVkp1U"
+    },
+    {
+      "album": {
         "name": "En alabanza y gracia",
         "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
       },
@@ -2148,7 +2346,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 238026,
       "name": "No est\u00e9s triste",
       "url": "https://open.spotify.com/track/3BwbC1KvbvxdvUg6mNGrkU"
@@ -2210,6 +2408,24 @@
       "duration_ms": 180447,
       "name": "No existen fronteras",
       "url": "https://open.spotify.com/track/7joTq2CorwMDNeI0DZechn"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari todo concuerda",
+        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170525,
+      "name": "No mas guerra",
+      "url": "https://open.spotify.com/track/56xkZkfO1reBgGdflhy2j2"
     },
     {
       "album": {
@@ -2340,7 +2556,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 212693,
       "name": "Por lo que obtuve",
       "url": "https://open.spotify.com/track/4qFtkjfZLSrfDzTRbRjkFc"
@@ -2365,6 +2581,42 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "POR LO QUE OBTUVE - En Vivo",
+      "url": "https://open.spotify.com/track/4rPksJGTQsisCfxxKqDBsa"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221563,
+      "name": "Por mi mismo",
+      "url": "https://open.spotify.com/track/1y8nlPAuyBQrd78ItcASrL"
+    },
+    {
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer"
       },
@@ -2380,6 +2632,24 @@
       "duration_ms": 260758,
       "name": "Que pasa contigo",
       "url": "https://open.spotify.com/track/4lnkk6OwHZR9IhHvyLmH8T"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166555,
+      "name": "Quieren llevarnos",
+      "url": "https://open.spotify.com/track/2Hhl2bW0t9MtD4n3eOdGnb"
     },
     {
       "album": {
@@ -2466,7 +2736,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 197762,
       "name": "Rasta Es",
       "url": "https://open.spotify.com/track/4ThVJbKqD1kq5EdSFMTtiM"
@@ -2581,6 +2851,42 @@
     },
     {
       "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223026,
+      "name": "Sigo el camino",
+      "url": "https://open.spotify.com/track/6lYY5T8qvOnZDruIeCH4nj"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171036,
+      "name": "Sobreviviente",
+      "url": "https://open.spotify.com/track/5XToOqxduaBS7k7Y4lK4Be"
+    },
+    {
+      "album": {
         "name": "Sanazion",
         "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
       },
@@ -2628,7 +2934,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 189868,
       "name": "Somos R",
       "url": "https://open.spotify.com/track/3v9dv7i6G3qpAkR6dHUZg6"
@@ -2664,7 +2970,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 196114,
       "name": "Ten paciencia",
       "url": "https://open.spotify.com/track/6eCBaeECJCWwVY5aceMPeD"
@@ -2808,10 +3114,28 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 212530,
       "name": "Todo cuadra",
       "url": "https://open.spotify.com/track/5COh0vK5ecMdGYRoAvLglB"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232430,
+      "name": "Todos escuchen",
+      "url": "https://open.spotify.com/track/07k0rqXlbkyV2uLx957TEW"
     },
     {
       "album": {
@@ -2916,7 +3240,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 372957,
       "name": "Un nuevo d\u00eda",
       "url": "https://open.spotify.com/track/6EQhBP91aoMn1hhAYSx1s3"
@@ -3078,7 +3402,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 208908,
       "name": "Y mi coraz\u00f3n contento",
       "url": "https://open.spotify.com/track/49UBjrABtwDSQ6d7qcBmcS"

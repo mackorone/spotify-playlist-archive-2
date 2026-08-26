@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,116 likes - 255 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,115 likes - 255 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 132 | [Settle The Score \(with DUCKWRTH\)](https://open.spotify.com/track/5K7OgzqlXtwWb01MyrlqVO) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 2:29 |
 | 133 | [Lie to Me](https://open.spotify.com/track/5i0OHpGf0sBnQhxdpxHjwC) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [Flip](https://open.spotify.com/artist/1939X6ROqtaab8VT01Yaty) | [Coke Boys Tour](https://open.spotify.com/album/5OAG6xARCduo9svbhzuF0s) | 4:11 |
 | 134 | [Me vs\. Us](https://open.spotify.com/track/1ZOZEC5MaEWsm6FkEUrYeI) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 3:17 |
-| 135 | [Rick James](https://open.spotify.com/track/1KYLVGcz6tE9vc6APMKkXi) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 4:11 |
-| 136 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
+| 135 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
+| 136 | [Rick James](https://open.spotify.com/track/1KYLVGcz6tE9vc6APMKkXi) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 4:11 |
 | 137 | [Rebound \(feat\. Joey Bada$$\)](https://open.spotify.com/track/32HMtqbJcmTFgkGW3MoyDL) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 4:01 |
 | 138 | [Tennessee](https://open.spotify.com/track/06KKE7mSrJo1zpAxvKJYpk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tennessee](https://open.spotify.com/album/4TUWQbjGTrO3N2jdxWAj46) | 2:36 |
 | 139 | [Tiptoe](https://open.spotify.com/track/7jFqorrnHGQq2Kra5E5DSp) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Tiptoe](https://open.spotify.com/album/2ggfC4PIKJhmqp2ByVcihN) | 2:58 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 254 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 255 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcadpAAAAAC3vnUCacNYxrpr9X0cRetu`
+Snapshot ID: `AcajRAAAAADUK+2b8V3pPPekwEcmug1X`

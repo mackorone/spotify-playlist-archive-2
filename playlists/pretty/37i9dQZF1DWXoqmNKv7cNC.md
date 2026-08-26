@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! ANASOF en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,346 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,361 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 29 | [TU CEL PARA ABAJO](https://open.spotify.com/track/0u2jJ5SkdIXYJkTPMdYIT4) | [TINU](https://open.spotify.com/artist/3yriZWDhMn67qxncQ0bpa8) | [TU CEL PARA ABAJO](https://open.spotify.com/album/6XQUyZEKpqvHWjGkCPplzN) | 3:01 |
 | 30 | [las fotos de la playa](https://open.spotify.com/track/5bJIwEkrsdqigvjbaRW4tu) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [TODO \(y nada\)](https://open.spotify.com/album/4nfz2MzwopYlq0y9scPENn) | 2:56 |
 
-Snapshot ID: `AAAAAFU/1hMZ91FtF/o0BAQAhvhzSGFd`
+Snapshot ID: `AAAAAJBjGp7GWUYBmnC1lfWgMhNFosuT`

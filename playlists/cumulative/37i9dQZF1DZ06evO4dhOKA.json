@@ -754,7 +754,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198976,
-      "name": "El Preso De Nuevo Le\u00f3n (En Vivo)",
+      "name": "El Preso De Nuevo Le\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
     },
     {
@@ -1308,7 +1308,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211890,
-      "name": "La Venganza De Mar\u00eda (En Vivo)",
+      "name": "La Venganza De Mar\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/5aegXVh7saWjhrISeDOcIe"
     },
     {
@@ -2434,7 +2434,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188042,
-      "name": "Playa Sola (En Vivo)",
+      "name": "Playa Sola - En Vivo",
       "url": "https://open.spotify.com/track/13N6PN6q0jGaj28zVgJzNw"
     },
     {
@@ -2504,7 +2504,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190976,
-      "name": "Pu\u00f1o De Tierra (En Vivo)",
+      "name": "Pu\u00f1o De Tierra - En Vivo",
       "url": "https://open.spotify.com/track/6WqfubEFVfbpTDYFdADOTc"
     },
     {
@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241573,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/5POOBIEr2W8AJr0Wg1aX30"
+    },
+    {
+      "album": {
         "name": "El Amo del Imperio",
         "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 242013,
       "name": "Si Llego a Viejo",
       "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"

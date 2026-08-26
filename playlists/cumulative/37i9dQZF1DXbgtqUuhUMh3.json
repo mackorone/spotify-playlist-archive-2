@@ -6871,6 +6871,24 @@
     },
     {
       "album": {
+        "name": "Bent Bladna",
+        "url": "https://open.spotify.com/album/68quw6MUK1xl2ShMjJpK6X"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Majnooneh",
+      "url": "https://open.spotify.com/track/5GsYnurs7G5riCJFeHekQS"
+    },
+    {
+      "album": {
         "name": "Majrooh",
         "url": "https://open.spotify.com/album/24qh3pDomlGZ6WJS5aQSqe"
       },
@@ -9468,7 +9486,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 165474,
       "name": "Shu Ma Sar",
       "url": "https://open.spotify.com/track/3AhojhL75hKdm5lvsx40pp"

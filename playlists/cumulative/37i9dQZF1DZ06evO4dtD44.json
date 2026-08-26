@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 77293,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/45gBYIbizYRUtvVFsRIHAu"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 118040,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 137338,
       "name": "Ho-ba-la-la",
       "url": "https://open.spotify.com/track/2DVv2dQLWMdTEdqAjDpEjX"
@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136880,
+      "name": "O Pato (The Duck) - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/7aQlpXxX6QCCUqXpRbgPXd"
+    },
+    {
+      "album": {
         "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
         "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
       },
@@ -1352,7 +1374,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 118361,
       "name": "O Pato - Ultimate Mix",
       "url": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
@@ -1476,10 +1498,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 124682,
       "name": "Rosa Morena",
       "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
+    },
+    {
+      "album": {
+        "name": "O Mito (Digital Edition)",
+        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141322,
+      "name": "Samba da Minha Terra",
+      "url": "https://open.spotify.com/track/1YbuG1qwTadVXeEqUGdzpk"
     },
     {
       "album": {
@@ -1498,7 +1538,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 188280,
       "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
@@ -1534,7 +1574,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 107493,
       "name": "Saudade F\u00eaz Um Samba",
       "url": "https://open.spotify.com/track/5pDxXDEmEKKa658VxDH29J"
@@ -1771,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "O Mito (Digital Edition)",
+        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Voc\u00ea e Eu",
+      "url": "https://open.spotify.com/track/0LBeJsEwfKyfAFCHe1dmSr"
+    },
+    {
+      "album": {
         "name": "Jo\u00e3o Voz E Viol\u00e3o",
         "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
@@ -1818,7 +1876,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 323657,
       "name": "\u00c1guas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/7Jj66NaXj1Nn6xrkB7vlSf"

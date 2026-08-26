@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410933,
+      "name": "13th Floor/Growing Old",
+      "url": "https://open.spotify.com/track/5oKpqxuTm4kg8BRQwIBFzk"
+    },
+    {
+      "album": {
         "name": "Southernplayalisticadillacmuzik",
         "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 338933,
       "name": "Ain't No Thang",
       "url": "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
@@ -124,14 +142,54 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291573,
+      "name": "Call The Law (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/0S9xsXyJUk0MlUjWdFyKDm"
+    },
+    {
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 132440,
       "name": "Chronomentrophobia",
       "url": "https://open.spotify.com/track/0rZTj6vFpLrQ4z9PKQIqM4"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/31tw8G1CMOf4XNAWiwj41u"
     },
     {
       "album": {
@@ -146,7 +204,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 309866,
       "name": "Crumblin' Erb",
       "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
@@ -186,7 +244,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 152413,
       "name": "Dracula's Wedding (feat. Kelis)",
       "url": "https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO"
@@ -222,7 +280,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 274013,
       "name": "Funkin' Around",
       "url": "https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh"
@@ -262,7 +320,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 236720,
       "name": "GhettoMusick",
       "url": "https://open.spotify.com/track/1zb9cdsTMrEEL2Ut8rmTb6"
@@ -288,6 +346,24 @@
       "duration_ms": 447026,
       "name": "Git Up, Git Out (feat. Goodie Mob)",
       "url": "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323106,
+      "name": "Happy Valentine's Day",
+      "url": "https://open.spotify.com/track/32q1h0jij3ePpp47ShIqVy"
     },
     {
       "album": {
@@ -328,7 +404,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 323000,
       "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
       "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
@@ -368,7 +444,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 290666,
       "name": "Humble Mumble (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
@@ -426,7 +502,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 204160,
       "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
       "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
@@ -455,6 +531,32 @@
     },
     {
       "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "In Your Dreams (feat. Killer Mike & Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/1f8qvpRcmCIDavCcgi2wFI"
+    },
+    {
+      "album": {
         "name": "UGK (Underground Kingz)",
         "url": "https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1"
       },
@@ -470,7 +572,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 259040,
       "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
       "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD"
@@ -524,7 +626,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 256226,
       "name": "Mighty \"O\"",
       "url": "https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab"
@@ -542,7 +644,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 189040,
       "name": "Millennium",
       "url": "https://open.spotify.com/track/50Fp9rUhDZvGJ4UUz4mTwp"
@@ -586,7 +688,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 239066,
       "name": "Movin' Cool (The After Party)",
       "url": "https://open.spotify.com/track/4voVMCnHRiN0EEyRt3Gwni"
@@ -633,6 +735,60 @@
     },
     {
       "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "Ova Da Wudz",
+      "url": "https://open.spotify.com/track/1SrDDrw3ZMElLdnTjvWJOg"
+    },
+    {
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51560,
+      "name": "Peaches (Intro)",
+      "url": "https://open.spotify.com/track/1C4FzrUYsOPlor1ZRxy22A"
+    },
+    {
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "PJ & Rooster",
+      "url": "https://open.spotify.com/track/0lzddKNsDl95mALLIlwoqO"
+    },
+    {
+      "album": {
         "name": "Southernplayalisticadillacmuzik",
         "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
       },
@@ -662,7 +818,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
@@ -716,7 +872,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
@@ -738,7 +894,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 267266,
       "name": "She Lives in My Lap (feat. Rosario Dawson)",
       "url": "https://open.spotify.com/track/6vV1NDCjh2afFgQ9Vb7i86"
@@ -764,6 +920,28 @@
       "duration_ms": 195108,
       "name": "Skew It on the Bar-B (feat. Raekwon)",
       "url": "https://open.spotify.com/track/6EQ4orawx8eo0aXH0pOKLE"
+    },
+    {
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247560,
+      "name": "Slum Beautiful (feat. Cee-Lo)",
+      "url": "https://open.spotify.com/track/4hH99pmXR4tTUtVAdMf0kZ"
     },
     {
       "album": {
@@ -836,7 +1014,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 237160,
       "name": "Spaghetti Junction",
       "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
@@ -854,7 +1032,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 304059,
       "name": "Speedballin'",
       "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
@@ -901,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Take Off Your Cool (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/2faSzprTWJ7L1EkZNko4ww"
+    },
+    {
+      "album": {
         "name": "Gangsta Grillz The Album",
         "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
       },
@@ -924,6 +1124,32 @@
       "duration_ms": 297280,
       "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
       "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
+    },
+    {
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Scar",
+          "url": "https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249853,
+      "name": "The Train (feat. Scar & Sleepy Brown)",
+      "url": "https://open.spotify.com/track/07pR6i9nh9twbSYzNOftnq"
     },
     {
       "album": {
@@ -964,7 +1190,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 295346,
       "name": "The Whole World (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/074v54tSEWLbq3Hu5wf6uh"
@@ -1124,10 +1350,28 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 271600,
       "name": "Watch for the Hook (Dungeon Family Mix)",
       "url": "https://open.spotify.com/track/5CNBjdmp5aZdW2Nu6f0Xav"
+    },
+    {
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57760,
+      "name": "Welcome to Atlanta (Interlude)",
+      "url": "https://open.spotify.com/track/1YAEISjOBC3Lliyqdb9jwR"
     },
     {
       "album": {
@@ -1160,7 +1404,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 243266,
       "name": "Wheelz of Steel",
       "url": "https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk"

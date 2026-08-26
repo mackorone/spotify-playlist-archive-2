@@ -1,12 +1,12 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 182530,
+  "num_followers": 182537,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACac3nl4drEr6TAw+m0bRED",
+  "snapshot_id": "aouJgAAAAABtZmSlfkZAa+k4VV/B2HUq",
   "tracks": [
     {
       "added_at": null,
@@ -59,38 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Dark",
-        "url": "https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 350862,
-      "name": "Touch of Grey - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0mJQlCl9YgxW7kyeltNiVk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go to Heaven",
-        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 412595,
-      "name": "Althea - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakedown Street",
         "url": "https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6"
       },
@@ -103,22 +71,6 @@
       "duration_ms": 229009,
       "name": "Fire on the Mountain - 2013 Remaster",
       "url": "https://open.spotify.com/track/4DpBfWl3q8e0gGB76lAaox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Beauty",
-        "url": "https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU"
     },
     {
       "added_at": null,
@@ -139,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workingman's Dead",
-        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 265067,
-      "name": "Casey Jones - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues for Allah (2013 Remaster)",
         "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
       },
@@ -171,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+        "name": "American Beauty",
+        "url": "https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg"
       },
       "artists": [
         {
@@ -180,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 306973,
-      "name": "Truckin' - 2013 Remaster",
-      "url": "https://open.spotify.com/track/1I6l01BaBgBCVkfQCpIlR6"
+      "duration_ms": 201866,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU"
     },
     {
       "added_at": null,
@@ -212,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 284909,
-      "name": "Uncle John's Band - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0kp728Knw5PYvU3QzMZ0yJ"
+      "duration_ms": 246116,
+      "name": "New Speedway Boogie - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3YPBV5DacTbhgh7vharn6w"
     },
     {
       "added_at": null,
@@ -244,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 199398,
-      "name": "Sugar Magnolia - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2EB1aFLWC4uIfld5Z3Yj1z"
+      "duration_ms": 306973,
+      "name": "Truckin' - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1I6l01BaBgBCVkfQCpIlR6"
     },
     {
       "added_at": null,
@@ -267,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workingman's Dead",
-        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 246116,
-      "name": "New Speedway Boogie - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3YPBV5DacTbhgh7vharn6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Europe '72 (Live; 2001 Remaster)",
         "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
       },
@@ -299,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 318929,
-      "name": "Box of Rain - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7x2xjJV3YAPeLQJ7u3Kjet"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cornell 5/8/77 (Live)",
         "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
@@ -327,6 +231,22 @@
       "duration_ms": 389373,
       "name": "Jack Straw - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
       "url": "https://open.spotify.com/track/0TtuYAtUBFlF3ylF57Qwyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 199398,
+      "name": "Sugar Magnolia - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2EB1aFLWC4uIfld5Z3Yj1z"
     },
     {
       "added_at": null,
@@ -363,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 249064,
-      "name": "Brokedown Palace - 2013 Remaster",
-      "url": "https://open.spotify.com/track/362CS15hE1upuTKoWApzLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cornell 5/8/77 (Live)",
         "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
@@ -391,6 +295,22 @@
       "duration_ms": 370306,
       "name": "Deal - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
       "url": "https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 318929,
+      "name": "Box of Rain - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7x2xjJV3YAPeLQJ7u3Kjet"
     },
     {
       "added_at": null,
@@ -443,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 249064,
+      "name": "Brokedown Palace - 2013 Remaster",
+      "url": "https://open.spotify.com/track/362CS15hE1upuTKoWApzLn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terrapin Station (2014 Remaster)",
         "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
       },
@@ -455,22 +391,6 @@
       "duration_ms": 336578,
       "name": "Estimated Prophet - 2014 Remaster",
       "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grateful Dead (Skull & Roses) [Live]",
-        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 552693,
-      "name": "Not Fade Away / Goin' down the Road Feeling Bad - Live at Manhattan Center, New York, NY, April 5, 1971",
-      "url": "https://open.spotify.com/track/3JZeVTm20lmT0wTui4oWh9"
     },
     {
       "added_at": null,
@@ -491,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grateful Dead (Skull & Roses) [Live]",
+        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 552693,
+      "name": "Not Fade Away / Goin' down the Road Feeling Bad - Live at Manhattan Center, New York, NY, April 5, 1971",
+      "url": "https://open.spotify.com/track/3JZeVTm20lmT0wTui4oWh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shakedown Street",
         "url": "https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6"
       },
@@ -503,22 +439,6 @@
       "duration_ms": 291342,
       "name": "Good Lovin' - 2013 Remaster",
       "url": "https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From the Mars Hotel",
-        "url": "https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 280382,
-      "name": "U.S. Blues - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2NiR9VOfASwOhgTnWs2cLx"
     },
     {
       "added_at": null,
@@ -539,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From the Mars Hotel",
+        "url": "https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 280382,
+      "name": "U.S. Blues - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2NiR9VOfASwOhgTnWs2cLx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cornell 5/8/77 (Live)",
         "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
@@ -551,22 +487,6 @@
       "duration_ms": 334266,
       "name": "New Minglewood Blues - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
       "url": "https://open.spotify.com/track/27nasmd5S8eIvIkAa7wnSo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reckoning (Live)",
-        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "Dark Hollow - Live",
-      "url": "https://open.spotify.com/track/5SWDIe8j5vhBZZkU11Cmjj"
     },
     {
       "added_at": null,
@@ -599,6 +519,22 @@
       "duration_ms": 299089,
       "name": "Easy Wind - 2013 Remaster",
       "url": "https://open.spotify.com/track/4n9pxaY7bTDMnw9biuCkhu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reckoning (Live)",
+        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "Dark Hollow - Live",
+      "url": "https://open.spotify.com/track/5SWDIe8j5vhBZZkU11Cmjj"
     },
     {
       "added_at": null,
@@ -743,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Dark",
-        "url": "https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 337675,
-      "name": "Hell in a Bucket - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2T2bhluy0slS4CZIMiAvYE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From the Mars Hotel",
         "url": "https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ"
       },
@@ -771,22 +691,6 @@
       "duration_ms": 205022,
       "name": "Loose Lucy - 2013 Remaster",
       "url": "https://open.spotify.com/track/2zRiNcLBVh0K6A1VL3zeg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues for Allah (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 276489,
-      "name": "The Music Never Stopped - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5te7uKM0hYcPjf3ScBA9fS"
     },
     {
       "added_at": null,
@@ -835,6 +739,102 @@
       "duration_ms": 344760,
       "name": "Mississippi Half-Step Uptown Toodeloo - 2013 Remaster",
       "url": "https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 441289,
+      "name": "Throwing Stones - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4US41qlynueHuB4czgwqi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 315794,
+      "name": "High Time - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5vmGZ4645Pyx1vHNBgFGDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go to Nassau: May 15 & 16, 1980 (Live)",
+        "url": "https://open.spotify.com/album/0WjqABEwiclklIWJtKfVga"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 502533,
+      "name": "Althea - Live at Nassau Coliseum, May 15-16, 1980",
+      "url": "https://open.spotify.com/track/6tLJfms92i27IibnbaMbsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reckoning (Live)",
+        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "The Race Is On - Live",
+      "url": "https://open.spotify.com/track/4n6cB1WrllLjCkuafcGBLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grateful Dead (Skull & Roses) [50th Anniversary Expanded Edition] [Live]",
+        "url": "https://open.spotify.com/album/3kMxm04sEdG5qzVA3ZOGmH"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 215134,
+      "name": "Big Railroad Blues (Live at The Fillmore East, New York, NY, April 5, 1971) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0vKGvVsPMfUiYm0s1iLarX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fillmore Auditorium, San Francisco, CA (7/3/66) [Live]",
+        "url": "https://open.spotify.com/album/6HsC9UFmgs11lG96aBDISF"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 151160,
+      "name": "The Monster (Cardboard Cowboy) - Live at Fillmore Auditorium, San Francisco, CA 7/3/66",
+      "url": "https://open.spotify.com/track/0n0Tc7BCZCOBtoEiTe8uD2"
     }
   ],
   "unique_name": "This Is Grateful Dead",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Rhea Raj & Aliyah's Interlude
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,912 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 | 24 | [Does Your Mother Know](https://open.spotify.com/track/3FzvP5LqgZKBIoukphuUsQ) | [The Wild Things](https://open.spotify.com/artist/3gyWgrksQ64Exb1SUewhOk) | [Friends With Benefits](https://open.spotify.com/album/6xXVb99KrYEVm5iJ4jPDJa) | 3:07 |
 | 25 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
 | 26 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 |
-| 27 | [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 |
+| 27 | [Zero \- J.I.D Remix](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 |
 | 28 | [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 |
 | 29 | [One Love](https://open.spotify.com/track/54Iq5QBLeu695dsSSspReG) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [One Love](https://open.spotify.com/album/5nh6x4mxqgpoetoVEJq67a) | 3:20 |
 | 30 | [Symphony \- Inner City Youth Orchestra of Los Angeles Version](https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Symphony \(Inner City Youth Orchestra of Los Angeles Version\)](https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4) | 3:08 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 | 38 | [REAL LIFE \- Ofenbach Remix](https://open.spotify.com/track/638rYJzqbJcWuMwY9yYnYB) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [REAL LIFE \(Ofenbach Remix\)](https://open.spotify.com/album/1BSP4dSC87v3uW6BCTXqMi) | 2:40 |
 | 39 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 |
 
-Snapshot ID: `AAAAAFSIgfwds5olYF+Ez0YbPEgwtu0j`
+Snapshot ID: `AAAAAMHbYniGYKJpgdMCMQqwnan7XeVH`

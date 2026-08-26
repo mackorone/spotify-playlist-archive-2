@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 185120,
       "name": "(Take These) Chains",
       "url": "https://open.spotify.com/track/3fV1eQ8KNKGF18SYY6UYIr"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 237266,
       "name": "All Guns Blazing",
       "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 264200,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 289040,
       "name": "Between the Hammer & the Anvil",
       "url": "https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 409800,
       "name": "Beyond the Realms of Death",
       "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 230866,
       "name": "Bloodstone",
       "url": "https://open.spotify.com/track/0njgMX72ZFD9oZnhpFLsn8"
@@ -311,6 +311,42 @@
     },
     {
       "album": {
+        "name": "Sad Wings Of Destiny",
+        "url": "https://open.spotify.com/album/4OO6ToVlSd8HEvA5wFrAzv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164693,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/09gqRj9ojdMafedrMONVoG"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86826,
+      "name": "Defenders of the Faith",
+      "url": "https://open.spotify.com/track/3OLD4pHbtPtGmlU3YdLjaW"
+    },
+    {
+      "album": {
         "name": "Point Of Entry",
         "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
@@ -322,7 +358,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 274866,
       "name": "Desert Plains",
       "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
@@ -358,7 +394,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 286680,
       "name": "Devil's Child",
       "url": "https://open.spotify.com/track/45oZ8f61XQ9W83B7jWxvp9"
@@ -394,7 +430,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 186093,
       "name": "Dissident Aggressor",
       "url": "https://open.spotify.com/track/3x639plCXGLyZoMcyR2IgJ"
@@ -466,10 +502,46 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 263040,
       "name": "Evil Never Dies",
       "url": "https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs"
+    },
+    {
+      "album": {
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332026,
+      "name": "Exciter",
+      "url": "https://open.spotify.com/track/1d8nkRm5t4DN4X0FMw4Zcs"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320253,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/48xD8fTt37etYF52AJBiXF"
     },
     {
       "album": {
@@ -610,10 +682,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 225533,
       "name": "Heading Out to the Highway",
       "url": "https://open.spotify.com/track/7sicPw7V9SYJl3Zjme9i4p"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Heavy Duty",
+      "url": "https://open.spotify.com/track/58uqGW9Lu2MCNsrvCWFG9C"
     },
     {
       "album": {
@@ -646,7 +736,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 160866,
       "name": "Hell Bent for Leather",
       "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
@@ -664,7 +754,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 216533,
       "name": "Hell Patrol",
       "url": "https://open.spotify.com/track/6QKplS12OIhLVzbfCOLesv"
@@ -682,7 +772,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 383573,
       "name": "Hellrider",
       "url": "https://open.spotify.com/track/1lT80058ozaFMiXsvC8qYl"
@@ -754,7 +844,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 206333,
       "name": "Jawbreaker",
       "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
@@ -772,7 +862,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 279400,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
@@ -826,7 +916,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "Leather Rebel",
       "url": "https://open.spotify.com/track/7jKqBoo7SCSQnYd8xRW6AV"
@@ -869,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Turbo 30",
+        "url": "https://open.spotify.com/album/7ipED6pLR8QJpO6PN9CC2U"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259799,
+      "name": "Locked In - Remastered",
+      "url": "https://open.spotify.com/track/5WVaaQBk9yl1NaAyCeeR9W"
+    },
+    {
+      "album": {
         "name": "Nostradamus",
         "url": "https://open.spotify.com/album/2k2m2GaoRsa0aDxo6Z2lEQ"
       },
@@ -898,7 +1006,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 287733,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
@@ -970,7 +1078,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 344360,
       "name": "Night Crawler",
       "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
@@ -992,6 +1100,42 @@
       "duration_ms": 173973,
       "name": "No Surrender",
       "url": "https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi"
+    },
+    {
+      "album": {
+        "name": "Turbo 30",
+        "url": "https://open.spotify.com/album/7ipED6pLR8QJpO6PN9CC2U"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387800,
+      "name": "Out in the Cold - Remastered",
+      "url": "https://open.spotify.com/track/3y4dn0oF15HlSSwJIkZp6a"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Pain and Pleasure",
+      "url": "https://open.spotify.com/track/0SUl33t7SeNX6X2v3SmD5l"
     },
     {
       "album": {
@@ -1114,7 +1258,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 288693,
       "name": "Ram It Down",
       "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
@@ -1154,6 +1298,24 @@
       "duration_ms": 261706,
       "name": "Reckless - Remastered",
       "url": "https://open.spotify.com/track/22vn3kQXydxE7RefULEgf5"
+    },
+    {
+      "album": {
+        "name": "Turbo 30",
+        "url": "https://open.spotify.com/album/7ipED6pLR8QJpO6PN9CC2U"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "Reckless - Remastered",
+      "url": "https://open.spotify.com/track/4B50A78kkAkTUPYt53J4zf"
     },
     {
       "album": {
@@ -1240,10 +1402,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 333533,
       "name": "Rock Hard Ride Free",
       "url": "https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq"
+    },
+    {
+      "album": {
+        "name": "Rocka Rolla",
+        "url": "https://open.spotify.com/album/0FtgzVWmzKfsbsmTYIJAlM"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Rocka Rolla",
+      "url": "https://open.spotify.com/track/7vgrekAHCJyEB5EzrEPTH4"
     },
     {
       "album": {
@@ -1276,7 +1456,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 283120,
       "name": "Screaming for Vengeance",
       "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
@@ -1337,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "Solar Angels",
+      "url": "https://open.spotify.com/track/7sAsIHyPewRVJiR5K2o4H5"
+    },
+    {
+      "album": {
         "name": "Defenders Of The Faith",
         "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
@@ -1348,7 +1546,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 247666,
       "name": "Some Heads Are Gonna Roll",
       "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
@@ -1373,6 +1571,42 @@
     },
     {
       "album": {
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317973,
+      "name": "Stained Class",
+      "url": "https://open.spotify.com/track/1MTwjkx78JmFLjDp1IPYW7"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269106,
+      "name": "Steeler",
+      "url": "https://open.spotify.com/track/62ckogL6wRdFuiPWV8c1U3"
+    },
+    {
+      "album": {
         "name": "Killing Machine",
         "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
       },
@@ -1384,7 +1618,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 202626,
       "name": "The Green Manalishi (With the Two Pronged Crown)",
       "url": "https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq"
@@ -1420,10 +1654,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 260160,
       "name": "The Hellion / Electric Eye",
       "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
+    },
+    {
+      "album": {
+        "name": "Sad Wings Of Destiny",
+        "url": "https://open.spotify.com/album/4OO6ToVlSd8HEvA5wFrAzv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170746,
+      "name": "The Ripper",
+      "url": "https://open.spotify.com/track/7kmkjH36N8yAExSJ6Syt0u"
     },
     {
       "album": {
@@ -1438,7 +1690,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 302066,
       "name": "The Sentinel",
       "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2"
@@ -1456,7 +1708,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 259747,
       "name": "The Serpent and the King",
       "url": "https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr"
@@ -1528,7 +1780,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 333999,
       "name": "Turbo Lover - Remastered",
       "url": "https://open.spotify.com/track/1i5yWGXgtFABa0czv2pbZH"
@@ -1564,10 +1816,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 215266,
       "name": "United",
       "url": "https://open.spotify.com/track/5QJTiFUvKTVEwcDrek3xpU"
+    },
+    {
+      "album": {
+        "name": "Sad Wings Of Destiny",
+        "url": "https://open.spotify.com/album/4OO6ToVlSd8HEvA5wFrAzv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468200,
+      "name": "Victim Of Changes",
+      "url": "https://open.spotify.com/track/4Jy1wkBThR0hmMbSqY2zSo"
     },
     {
       "album": {

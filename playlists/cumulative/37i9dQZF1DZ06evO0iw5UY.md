@@ -4,7 +4,7 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 56 min
+84 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [No Control](https://open.spotify.com/track/5yFhOx23Dnz3h7hplodAgf) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [No Control](https://open.spotify.com/album/4kfYq4PhFlLxL86Qv86jFK) | 2:43 | 2023-05-02 | 2024-03-18 |
 | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D) | 3:04 | 2023-05-02 |  |
 | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/track/6EH33BG9UhIYrezYC7v2Mx) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/album/3dpwY24QK5adMTsTs6mmOI) | 3:57 | 2025-06-16 | 2025-09-24 |
-| [One Minute](https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:13 | 2023-05-02 |  |
+| [One Minute](https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:13 | 2023-05-02 | 2026-08-26 |
+| [One Minute \- DotEXE's Dopest Dope Remix](https://open.spotify.com/track/7otA8szJGViWVnvnPpPdPx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [One Minute \(DotEXE's Dopest Dope Remix\)](https://open.spotify.com/album/7IVhs9pnZw5YeqOqnea3oh) | 4:46 | 2026-08-26 |  |
 | [Overboard](https://open.spotify.com/track/3Vs2wRyT9dHmyiR5jLBcIC) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:02 | 2025-05-07 | 2025-05-13 |
 | [Parachute](https://open.spotify.com/track/4HlFVZznEgeHDMBN3n3GIJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:42 | 2023-08-19 | 2025-06-07 |
 | [Paradise](https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:34 | 2024-06-15 | 2025-08-18 |

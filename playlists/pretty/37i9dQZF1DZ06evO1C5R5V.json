@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 38837,
+  "num_followers": 38843,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAAAikbCzVPeUDwjDtmIJ2vJ",
+  "snapshot_id": "aouJgAAAAABJr08K+KYdGY0z40IeZsPc",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
-        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 197230,
-      "name": "Se Mujer",
-      "url": "https://open.spotify.com/track/3G3q1cJpEp9qu0Csrw0tda"
+      "duration_ms": 244746,
+      "name": "En Alg\u00fan Lugar en el Cielo",
+      "url": "https://open.spotify.com/track/6uRi7gpG1xlAO7BycXs1x3"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "En Alg\u00fan Lugar en el Cielo",
-      "url": "https://open.spotify.com/track/6uRi7gpG1xlAO7BycXs1x3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
         "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
       },
@@ -335,22 +319,6 @@
       "duration_ms": 264150,
       "name": "Y Es por Eso Que Me Voy",
       "url": "https://open.spotify.com/track/4fZEwW4lSFMm6l6PL5bfT4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 145217,
-      "name": "Antes Me Gustabas",
-      "url": "https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs"
     },
     {
       "added_at": null,
@@ -371,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
       "artists": [
         {
@@ -380,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 183576,
-      "name": "Sue\u00f1os de la Ciudad",
-      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
+      "duration_ms": 145217,
+      "name": "Antes Me Gustabas",
+      "url": "https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs"
     },
     {
       "added_at": null,
@@ -399,6 +367,22 @@
       "duration_ms": 228373,
       "name": "La Noche y el Silencio",
       "url": "https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 183576,
+      "name": "Sue\u00f1os de la Ciudad",
+      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
     },
     {
       "added_at": null,
@@ -435,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 306503,
-      "name": "Otro D\u00eda",
-      "url": "https://open.spotify.com/track/2g44zupqx5AajCy6XD5fMT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Sin Visa, Vol. 5",
         "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
       },
@@ -463,6 +431,22 @@
       "duration_ms": 264493,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 306503,
+      "name": "Otro D\u00eda",
+      "url": "https://open.spotify.com/track/2g44zupqx5AajCy6XD5fMT"
     },
     {
       "added_at": null,
@@ -499,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 249568,
-      "name": "Injerto",
-      "url": "https://open.spotify.com/track/073KZTEjnCU8ur8LAjG5r0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
         "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
       },
@@ -531,6 +499,22 @@
       "duration_ms": 155213,
       "name": "Barata y Descont\u00f3n",
       "url": "https://open.spotify.com/track/0jsGTzBhJa3NODssNxOUK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 249568,
+      "name": "Injerto",
+      "url": "https://open.spotify.com/track/073KZTEjnCU8ur8LAjG5r0"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ac\u00fastico en Vivo",
+        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 257413,
+      "name": "S\u00e9 Mujer - En Vivo",
+      "url": "https://open.spotify.com/track/3N7EJ83LRFEoNfPfVpZVGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
         "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 231410,
       "name": "En los A\u00f1os Treintas",
       "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Vivir por Vivir",
-      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Vivir por Vivir",
+      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
         "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Trabajo del Hombre",
-        "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 239243,
-      "name": "El Trabajo del Hombre",
-      "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Que Se Comparte",
         "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212601,
       "name": "Tengo un Acoholico en Mi Casa",
       "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Trabajo del Hombre",
+        "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 239243,
+      "name": "El Trabajo del Hombre",
+      "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 48 min
+94 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Origami Boats](https://open.spotify.com/track/35ukZe17MXIfNOu0ap8vMK) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [3 Body Problem \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6VhG7xEPrBO3YjmQj9OcUn) | 2:17 | 2024-04-04 | 2024-12-27 |
 | [Pacific Rim \(feat\. Tom Morello\)](https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Pacific Rim \(Soundtrack from Warner Bros\. Pictures and Legendary Pictures\)](https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk) | 4:55 | 2024-04-04 |  |
 | [Paint It, Black](https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:44 | 2024-04-04 | 2026-08-13 |
+| [Queen's Landing](https://open.spotify.com/track/11fiDS4yUrCo0dQA4HwuGy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 3 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/6seVyaHqO605uSpXoFpamn) | 2:22 | 2026-08-26 |  |
 | [Realm's Greatest Warrior](https://open.spotify.com/track/1rJTuOlSjqnJqKVLyES5pu) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 3 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/6seVyaHqO605uSpXoFpamn) | 1:52 | 2026-08-17 |  |
 | [Reign of the Targaryens](https://open.spotify.com/track/3XcPY110hQ07HNWqDZIZgU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:31 | 2024-04-04 |  |
 | [Remembering Those Who Came Before](https://open.spotify.com/track/1QDrtD1BVsiNKRKz82Yj2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 3:22 | 2024-08-13 | 2025-01-22 |
@@ -98,7 +99,7 @@
 | [Winter Has Come](https://open.spotify.com/track/4Idmj8R6EpEmAJ3YMP3Lut) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 3:14 | 2024-04-04 |  |
 | [Winter Is Here](https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:54 | 2024-04-04 |  |
 | [Winterfell](https://open.spotify.com/track/0y1Bay4UAdzWvpDJinzGz1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:43 | 2024-04-04 | 2025-04-03 |
-| [You Are No Son of Mine](https://open.spotify.com/track/2YOy1e7sBLXi5DL2klc9Nv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 4:29 | 2024-12-27 |  |
+| [You Are No Son of Mine](https://open.spotify.com/track/2YOy1e7sBLXi5DL2klc9Nv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 4:29 | 2024-12-27 | 2026-08-26 |
 | [You Know Nothing](https://open.spotify.com/track/0KKPRgsM7LkJqhYgofhgkO) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 3:19 | 2024-04-04 |  |
 | [You'll Be Queen One Day](https://open.spotify.com/track/3fjWYZdo6uZJzsuSoCZmx2) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:35 | 2024-04-04 |  |
 

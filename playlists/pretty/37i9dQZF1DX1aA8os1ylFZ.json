@@ -1,12 +1,12 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 292377,
+  "num_followers": 292354,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANVkHBvO716FYOH9lukt34Gim6Xg",
+  "snapshot_id": "AAAAALRa96neG0ql9CE3+4paDXGz/qHl",
   "tracks": [
     {
       "added_at": "2026-06-10 11:59:44",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "TABOO",
-        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "TABOO",
-      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Reclusive",
         "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 186416,
       "name": "Reclusive",
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "TABOO",
+        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "ACT II",
-        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "heal something",
-      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 150048,
       "name": "Damage Control",
       "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 156826,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 146015,
-      "name": "No",
-      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Hold of Me",
         "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 213555,
       "name": "Hold of Me",
       "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 146015,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Useless (Without You)",
-        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 166894,
-      "name": "Useless (Without You)",
-      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "SA NA SAN",
         "url": "https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 155000,
       "name": "SA NA SAN",
       "url": "https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Useless (Without You)",
+        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 166894,
+      "name": "Useless (Without You)",
+      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "back 'n forth",
-        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
-      },
-      "artists": [
-        {
-          "name": "Chuka, The Destroyer",
-          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
-        }
-      ],
-      "duration_ms": 197952,
-      "name": "back 'n forth",
-      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 186293,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "back 'n forth",
+        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 197952,
+      "name": "back 'n forth",
+      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
     },
     {
       "added_at": "2026-06-10 11:59:44",

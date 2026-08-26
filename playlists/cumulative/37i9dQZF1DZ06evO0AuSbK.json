@@ -32,9 +32,27 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "date_added": "2022-09-08",
+      "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 92590,
+      "name": "All That Easy",
+      "url": "https://open.spotify.com/track/0Ef4MRnmyhMsGfjPITdaAZ"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
       "duration_ms": 278000,
       "name": "Almost Over",
       "url": "https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU"
@@ -92,7 +110,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
@@ -164,10 +182,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 236733,
       "name": "Build A Bridge",
       "url": "https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243266,
+      "name": "Clunk",
+      "url": "https://open.spotify.com/track/6gOUBffm0Q6hd3uGPeO3J1"
     },
     {
       "album": {
@@ -290,7 +326,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 236333,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
@@ -326,7 +362,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 146480,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
@@ -348,6 +384,32 @@
       "duration_ms": 247360,
       "name": "Full Nelson",
       "url": "https://open.spotify.com/track/6YU556RBcA4js0poLlP8Cu"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259105,
+      "name": "Getcha Groove On - Dirt Road Mix",
+      "url": "https://open.spotify.com/track/5Wt2UAS92w2ZyDqX2dOEBg"
     },
     {
       "album": {
@@ -387,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Head For The Barricade",
+      "url": "https://open.spotify.com/track/6BzQgxv0Z6iSmv9PgwkGl9"
+    },
+    {
+      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -398,7 +478,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 230240,
       "name": "Hot Dog",
       "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8"
@@ -416,7 +496,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 239160,
       "name": "I'm Broke",
       "url": "https://open.spotify.com/track/12IRA5MdLZL5hiBAPVRJpc"
@@ -470,7 +550,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 244840,
       "name": "Just Drop Dead",
       "url": "https://open.spotify.com/track/7oGFLiay0XopGrUiYbZKHC"
@@ -488,10 +568,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 215040,
       "name": "Just Like This",
       "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hitz",
+        "url": "https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265680,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/1hu49oyq2Kq23ZanUMpH7R"
     },
     {
       "album": {
@@ -506,7 +604,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 131400,
       "name": "Leech - Demo Version",
       "url": "https://open.spotify.com/track/14bsZ0VIilE9EnF4FxoL6p"
@@ -542,7 +640,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 273440,
       "name": "Lonely World",
       "url": "https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu"
@@ -733,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Red Light - Green Light",
+      "url": "https://open.spotify.com/track/4XSgarKBkdfFE3mygV0yY7"
+    },
+    {
+      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -832,6 +948,24 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374866,
+      "name": "Stalemate",
+      "url": "https://open.spotify.com/track/1SkUqQcqglc0XMrLDRbWvl"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -852,10 +986,46 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101864,
+      "name": "Take It Home",
+      "url": "https://open.spotify.com/track/2Q7bTLjfY2HmvAvCznkr31"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343360,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1qjuoKVHOMpGfHMzLpdGL7"
     },
     {
       "album": {
@@ -946,6 +1116,24 @@
       "duration_ms": 140763,
       "name": "Turn It Up, Bitch",
       "url": "https://open.spotify.com/track/2KlKLcZPU4CptMCQ3TY5ls"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341472,
+      "name": "Underneath The Gun",
+      "url": "https://open.spotify.com/track/2rh9JMJbtCvNpHwLEZP86l"
     },
     {
       "album": {

@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 119486,
       "name": "Cielo Azul Cielo Nublado",
       "url": "https://open.spotify.com/track/2TSnh3icR23mUQC3wIOorU"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183373,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/21AL4aL9XfE4djZndVQSHA"
@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Sonora y Sus Ojos Negros",
+        "url": "https://open.spotify.com/album/4H6iCd1ofsdAXz5n85BwUj"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176889,
+      "name": "Sonora y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/3rNTZGOcg4j3589qCJ0k5o"
+    },
+    {
+      "album": {
         "name": "14 Kilates De Oro, Vol. 2",
         "url": "https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl"
       },
@@ -2162,6 +2180,24 @@
       "duration_ms": 183813,
       "name": "Un Noble Enga\u00f1o",
       "url": "https://open.spotify.com/track/5ky7KdhRAVUCH7TKS1cPkx"
+    },
+    {
+      "album": {
+        "name": "Un Noble Enga\u00f1o",
+        "url": "https://open.spotify.com/album/6vPSI7T4CRvX00PpyqLmKO"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "Un Noble Enga\u00f1o",
+      "url": "https://open.spotify.com/track/6xmQN57KeoivWxIah2OLPg"
     },
     {
       "album": {

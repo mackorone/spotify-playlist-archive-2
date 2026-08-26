@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: Stormy
 
-539 songs - 1 day 4 hr 36 min
+540 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Thunes](https://open.spotify.com/track/6aPXfQSEApJPZ6fXzkleF7) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 4:12 | 2026-03-06 | 2026-05-26 |
 | [TILL WE MEET AGAIN](https://open.spotify.com/track/3IcTApVclbIMFnxxeDVxag) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6U2c7rMdwV93aZe7T22rPP) | 4:51 | 2024-12-05 | 2024-12-22 |
 | [Tititi](https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:36 | 2023-06-08 | 2023-06-11 |
+| [TITIZ A KHAY](https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [TITIZ A KHAY](https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb) | 3:09 | 2026-08-25 |  |
 | [TJENENY](https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:52 | 2026-03-30 | 2026-08-02 |
 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 | 2023-12-08 | 2023-12-15 |
 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 | 2024-01-26 | 2024-08-29 |
@@ -513,7 +514,7 @@
 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 | 2023-05-15 | 2024-02-18 |
 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2021-12-25 | 2023-05-23 |
 | [YA LE3DOUWA](https://open.spotify.com/track/66Zvytz9Du8eXZIXXLS8Ea) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [YA LE3DOUWA](https://open.spotify.com/album/5wkvSfHw9t6Vien59gb48s) | 3:27 | 2022-11-07 | 2023-03-18 |
-| [Ya Lmossiba](https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Ya Lmossiba](https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd) | 3:04 | 2025-11-21 |  |
+| [Ya Lmossiba](https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Ya Lmossiba](https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd) | 3:04 | 2025-11-21 | 2026-08-26 |
 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 | 2024-08-28 | 2025-09-25 |
 | [Ya Mimti](https://open.spotify.com/track/2jfL7XAGZLzgmRxtIOcsvk) | [Yasser Yasmeriz](https://open.spotify.com/artist/6GyiX7RSRTB9h30oWbDYci) | [Ya Mimti](https://open.spotify.com/album/2HxEy2VOZmLLkpK00i462N) | 3:14 | 2022-03-04 | 2022-03-15 |
 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 | 2023-05-08 | 2024-06-28 |

@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Jamback",
-  "num_followers": 89040,
+  "num_followers": 89076,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgljaEKkF+FtGnf0wPMqRvTYoAP",
+  "snapshot_id": "AAAAAAq+xQjkhF29G4isVi0Ik3uOXzfz",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:27",
@@ -199,6 +199,22 @@
       "duration_ms": 386132,
       "name": "Big Things Coming",
       "url": "https://open.spotify.com/track/77HCn8EcJjL3j6goI3N39E"
+    },
+    {
+      "added_at": "2026-08-25 19:57:18",
+      "album": {
+        "name": "Bring That Beat Back EP",
+        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
+      },
+      "artists": [
+        {
+          "name": "AMMIL",
+          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Bring That Beat Back",
+      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
     },
     {
       "added_at": "2026-08-07 04:01:14",
@@ -1003,26 +1019,6 @@
       "duration_ms": 189090,
       "name": "Golden Eyes",
       "url": "https://open.spotify.com/track/1d8w8ahMR2HwECpQ5ksjZB"
-    },
-    {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "My Place",
-        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 159615,
-      "name": "My Place",
-      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "added_at": "2026-07-31 04:01:09",

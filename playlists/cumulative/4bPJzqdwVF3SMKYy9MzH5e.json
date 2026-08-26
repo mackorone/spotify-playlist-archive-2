@@ -16639,6 +16639,24 @@
     },
     {
       "album": {
+        "name": "The Internet Gallery",
+        "url": "https://open.spotify.com/album/7H7bDTwFOlUjCkO00XAJTC"
+      },
+      "artists": [
+        {
+          "name": "ikea99",
+          "url": "https://open.spotify.com/artist/2IAycvrgSoZoDReX1egCW8"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88543,
+      "name": "Goretex",
+      "url": "https://open.spotify.com/track/5TOcwfBVOnZX1jPaYmprhY"
+    },
+    {
+      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },

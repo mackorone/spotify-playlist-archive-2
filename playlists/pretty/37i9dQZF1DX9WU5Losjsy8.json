@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 498852,
+  "num_followers": 498834,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM30pTbBPX0mn4IxcFPu5f+gR30B",
+  "snapshot_id": "AAAAACu8PVhhcsctq4MvxJzBFaA4PAgC",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:17",
@@ -667,42 +667,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Tag X (Geiles Leben Edition)",
-        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
-      },
-      "artists": [
-        {
-          "name": "Glasperlenspiel",
-          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
-        },
-        {
-          "name": "Madizin",
-          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Geiles Leben - Madizin Single Mix",
-      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -723,6 +687,42 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "Tag X (Geiles Leben Edition)",
+        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
+      },
+      "artists": [
+        {
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Madizin",
+          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Geiles Leben - Madizin Single Mix",
+      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Sonne, Mond & Playa",
-        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 188833,
-      "name": "Sonne, Mond & Playa",
-      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Party Chaos",
         "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
+        "name": "Sonne, Mond & Playa",
+        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
         }
       ],
-      "duration_ms": 156120,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+      "duration_ms": 188833,
+      "name": "Sonne, Mond & Playa",
+      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -1127,6 +1111,22 @@
       "duration_ms": 204444,
       "name": "Hurra die Gams",
       "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
     },
     {
       "added_at": "2026-08-06 22:01:17",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Bring Me The Horizon",
-  "num_followers": 303954,
+  "num_followers": 304106,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABpz54VAmTKUstzxCCMX+ePBB0ic",
+  "snapshot_id": "AAAAAJ3TrI8zLQG1f8ATH22uqI/3cmbw",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
+      },
+      "artists": [
+        {
+          "name": "LARC\u0246NIA RO\u0246",
+          "url": "https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4"
+        },
+        {
+          "name": "Alex Koehler",
+          "url": "https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI"
+        }
+      ],
+      "duration_ms": 264463,
+      "name": "Calcium Closet",
+      "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
         "url": "https://open.spotify.com/album/2kvMb8wE8J9hnrBzvBecNI"
       },
@@ -1151,22 +1171,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
+        "name": "Infinity Of Horrors",
+        "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
       },
       "artists": [
         {
-          "name": "LARC\u0246NIA RO\u0246",
-          "url": "https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4"
-        },
-        {
-          "name": "Alex Koehler",
-          "url": "https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI"
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
         }
       ],
-      "duration_ms": 264463,
-      "name": "Calcium Closet",
-      "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+      "duration_ms": 254446,
+      "name": "Infinity Of Horrors",
+      "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1183,22 +1199,6 @@
       "duration_ms": 167592,
       "name": "12 Gauge Facial",
       "url": "https://open.spotify.com/track/7wRa3OTqe46Rp1P6o57SLu"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Infinity Of Horrors",
-        "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 254446,
-      "name": "Infinity Of Horrors",
-      "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Kiss The Dice",
-        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
-      },
-      "artists": [
-        {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Kiss The Dice",
-      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "snuff.tape",
         "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 219360,
       "name": "snuff.tape",
       "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Kiss The Dice",
+        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
+      },
+      "artists": [
+        {
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Kiss The Dice",
+      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "selfish",
-        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
-      },
-      "artists": [
-        {
-          "name": "Axty",
-          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
-        }
-      ],
-      "duration_ms": 182704,
-      "name": "selfish",
-      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4uNSpSWHxNuQcJ1ra8On0r"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "BLUEPRINTS FOR IDOL GENOCIDE",
-        "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
+        "name": "selfish",
+        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
       },
       "artists": [
         {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
         }
       ],
-      "duration_ms": 220514,
-      "name": "BLUEPRINTS FOR IDOL GENOCIDE",
-      "url": "https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB"
+      "duration_ms": 182704,
+      "name": "selfish",
+      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1483,6 +1467,46 @@
       "duration_ms": 263400,
       "name": "Forlorn",
       "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "BLUEPRINTS FOR IDOL GENOCIDE",
+        "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 220514,
+      "name": "BLUEPRINTS FOR IDOL GENOCIDE",
+      "url": "https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "DISSOLVING PATTERNS",
+        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
+      },
+      "artists": [
+        {
+          "name": "DeathStroke",
+          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        },
+        {
+          "name": "Dave Simonich",
+          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "DISSOLVING PATTERNS",
+      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1555,30 +1579,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "DISSOLVING PATTERNS",
-        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
-      },
-      "artists": [
-        {
-          "name": "DeathStroke",
-          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        },
-        {
-          "name": "Dave Simonich",
-          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "DISSOLVING PATTERNS",
-      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Carotid",
         "url": "https://open.spotify.com/album/37QYlYpyheVjnHbcp4Vtxy"
       },
@@ -1595,26 +1595,6 @@
       "duration_ms": 132861,
       "name": "Carotid",
       "url": "https://open.spotify.com/track/6b3FDNOiWM9NVsayrj6YZN"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Fractured Will",
-        "url": "https://open.spotify.com/album/7jqlswRbi22fcLJjpUAX5f"
-      },
-      "artists": [
-        {
-          "name": "Unseen Faith",
-          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
-        },
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 230199,
-      "name": "Fractured Will",
-      "url": "https://open.spotify.com/track/72X3m3pbp0Gs9szH0FXa4K"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1647,6 +1627,26 @@
       "duration_ms": 184606,
       "name": "THE FINAL GATE",
       "url": "https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Fractured Will",
+        "url": "https://open.spotify.com/album/7jqlswRbi22fcLJjpUAX5f"
+      },
+      "artists": [
+        {
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
+        },
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Fractured Will",
+      "url": "https://open.spotify.com/track/72X3m3pbp0Gs9szH0FXa4K"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Eradication Protocol",
-        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
-      },
-      "artists": [
-        {
-          "name": "I Am Mook",
-          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
-        }
-      ],
-      "duration_ms": 159191,
-      "name": "Teufel",
-      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Become Death",
         "url": "https://open.spotify.com/album/78mkHcNRrEaEzDKrBnAG8U"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 129022,
       "name": "Become Death",
       "url": "https://open.spotify.com/track/7JztNZfxQ6bIYW85OecBsS"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Eradication Protocol",
+        "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
+      },
+      "artists": [
+        {
+          "name": "I Am Mook",
+          "url": "https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C"
+        }
+      ],
+      "duration_ms": 159191,
+      "name": "Teufel",
+      "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/1f5Vitdv9u9B4ot0ao8615"
+        "name": "Konstrukt",
+        "url": "https://open.spotify.com/album/4X29QVXcrriPfphEJbZulX"
       },
       "artists": [
         {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+          "name": "Consvmer",
+          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
         }
       ],
-      "duration_ms": 185768,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/7nd1HbUlmmqV0Szg9unUnZ"
+      "duration_ms": 136452,
+      "name": "Konstrukt",
+      "url": "https://open.spotify.com/track/1WgeLChNMNqaP8KJCr0i8S"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1803,26 +1803,6 @@
       "duration_ms": 271717,
       "name": "Where No Light Shines",
       "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Sucht",
-        "url": "https://open.spotify.com/album/6pPVs89f6hxMQzqIVeqeYq"
-      },
-      "artists": [
-        {
-          "name": "Consvmer",
-          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
-        },
-        {
-          "name": "Acranius",
-          "url": "https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG"
-        }
-      ],
-      "duration_ms": 254309,
-      "name": "Sucht",
-      "url": "https://open.spotify.com/track/4L4zXezuJOWHeuDWRoff1Z"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1855,18 +1835,54 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Low Slam Low",
-        "url": "https://open.spotify.com/album/43KFAHPXnbNZKqZyb7ah1p"
+        "name": "Left to Bleed",
+        "url": "https://open.spotify.com/album/4W3vXdOuVkWL5mFfHLcEMg"
       },
       "artists": [
         {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+          "name": "Salem Trials",
+          "url": "https://open.spotify.com/artist/2IZXSnmq6YGFwwnDC1LjDg"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Low Slam Low",
-      "url": "https://open.spotify.com/track/3UZhfWn5NCz6afOVtSgNG9"
+      "duration_ms": 166991,
+      "name": "Left to Bleed",
+      "url": "https://open.spotify.com/track/2kKctrPcPQU4zY9roa0WW2"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/1f5Vitdv9u9B4ot0ao8615"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 185768,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/7nd1HbUlmmqV0Szg9unUnZ"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Sucht",
+        "url": "https://open.spotify.com/album/6pPVs89f6hxMQzqIVeqeYq"
+      },
+      "artists": [
+        {
+          "name": "Consvmer",
+          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
+        },
+        {
+          "name": "Acranius",
+          "url": "https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG"
+        }
+      ],
+      "duration_ms": 254309,
+      "name": "Sucht",
+      "url": "https://open.spotify.com/track/4L4zXezuJOWHeuDWRoff1Z"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1887,50 +1903,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Left to Bleed",
-        "url": "https://open.spotify.com/album/4W3vXdOuVkWL5mFfHLcEMg"
+        "name": "Low Slam Low",
+        "url": "https://open.spotify.com/album/43KFAHPXnbNZKqZyb7ah1p"
       },
       "artists": [
         {
-          "name": "Salem Trials",
-          "url": "https://open.spotify.com/artist/2IZXSnmq6YGFwwnDC1LjDg"
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
         }
       ],
-      "duration_ms": 166991,
-      "name": "Left to Bleed",
-      "url": "https://open.spotify.com/track/2kKctrPcPQU4zY9roa0WW2"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Konstrukt",
-        "url": "https://open.spotify.com/album/4X29QVXcrriPfphEJbZulX"
-      },
-      "artists": [
-        {
-          "name": "Consvmer",
-          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
-        }
-      ],
-      "duration_ms": 136452,
-      "name": "Konstrukt",
-      "url": "https://open.spotify.com/track/1WgeLChNMNqaP8KJCr0i8S"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Dawn Of The Iconoclast",
-        "url": "https://open.spotify.com/album/08iPL2nhkuigxxDw6DZtIW"
-      },
-      "artists": [
-        {
-          "name": "Worm Shepherd",
-          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Feast",
-      "url": "https://open.spotify.com/track/4I3w9Jvab9DomBSuHZrGx3"
+      "duration_ms": 171066,
+      "name": "Low Slam Low",
+      "url": "https://open.spotify.com/track/3UZhfWn5NCz6afOVtSgNG9"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1947,6 +1931,22 @@
       "duration_ms": 242644,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Dawn Of The Iconoclast",
+        "url": "https://open.spotify.com/album/08iPL2nhkuigxxDw6DZtIW"
+      },
+      "artists": [
+        {
+          "name": "Worm Shepherd",
+          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Feast",
+      "url": "https://open.spotify.com/track/4I3w9Jvab9DomBSuHZrGx3"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "The Anguished Throne",
-        "url": "https://open.spotify.com/album/066lbqrEiKN7xEf3bSidD8"
-      },
-      "artists": [
-        {
-          "name": "Worm Shepherd",
-          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
-        }
-      ],
-      "duration_ms": 340373,
-      "name": "The Anguished Throne",
-      "url": "https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Misery Eternal",
         "url": "https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 213870,
       "name": "Misery Eternal",
       "url": "https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "The Anguished Throne",
+        "url": "https://open.spotify.com/album/066lbqrEiKN7xEf3bSidD8"
+      },
+      "artists": [
+        {
+          "name": "Worm Shepherd",
+          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
+        }
+      ],
+      "duration_ms": 340373,
+      "name": "The Anguished Throne",
+      "url": "https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2163,26 +2163,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Washington State Charm",
-        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
+        "name": "Disfigured",
+        "url": "https://open.spotify.com/album/1aghj04fhxEzEeTzE3S6gp"
       },
       "artists": [
         {
-          "name": "Monument Of Misanthropy",
-          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
-        },
-        {
-          "name": "Mendel Bij De Leij",
-          "url": "https://open.spotify.com/artist/1ntfbPT1jSD15LA9SweLi2"
-        },
-        {
-          "name": "Johnny Ciardullo",
-          "url": "https://open.spotify.com/artist/7567HDjus3OchzVOdkLnDX"
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
         }
       ],
-      "duration_ms": 231587,
-      "name": "Neath Tacoma Asphalt",
-      "url": "https://open.spotify.com/track/2eSeQNbo1YioiJd65YThYu"
+      "duration_ms": 97295,
+      "name": "Disfigured",
+      "url": "https://open.spotify.com/track/5GV3docVmNAbEk7An8iX3S"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2219,22 +2211,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Disfigured",
-        "url": "https://open.spotify.com/album/1aghj04fhxEzEeTzE3S6gp"
-      },
-      "artists": [
-        {
-          "name": "Gates to Hell",
-          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
-        }
-      ],
-      "duration_ms": 97295,
-      "name": "Disfigured",
-      "url": "https://open.spotify.com/track/5GV3docVmNAbEk7An8iX3S"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Headcase",
         "url": "https://open.spotify.com/album/1AJs61yQ7CoBqYrReDYSLs"
       },
@@ -2267,26 +2243,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Make It to Heaven (feat. Signs of the Swarm)",
-        "url": "https://open.spotify.com/album/0JqqyIGmnrGylT8lSfxys9"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Make It to Heaven (feat. Signs of the Swarm)",
-      "url": "https://open.spotify.com/track/6XsYxUlmR9onLDzgAeUueE"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Darksign",
         "url": "https://open.spotify.com/album/5x9VPJjSwDYIWvWEc2MVu1"
       },
@@ -2307,6 +2263,50 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Washington State Charm",
+        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
+      },
+      "artists": [
+        {
+          "name": "Monument Of Misanthropy",
+          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
+        },
+        {
+          "name": "Mendel Bij De Leij",
+          "url": "https://open.spotify.com/artist/1ntfbPT1jSD15LA9SweLi2"
+        },
+        {
+          "name": "Johnny Ciardullo",
+          "url": "https://open.spotify.com/artist/7567HDjus3OchzVOdkLnDX"
+        }
+      ],
+      "duration_ms": 231587,
+      "name": "Neath Tacoma Asphalt",
+      "url": "https://open.spotify.com/track/2eSeQNbo1YioiJd65YThYu"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Make It to Heaven (feat. Signs of the Swarm)",
+        "url": "https://open.spotify.com/album/0JqqyIGmnrGylT8lSfxys9"
+      },
+      "artists": [
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Make It to Heaven (feat. Signs of the Swarm)",
+      "url": "https://open.spotify.com/track/6XsYxUlmR9onLDzgAeUueE"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Plague Of Flies",
         "url": "https://open.spotify.com/album/1YNHAAvfs1YuHeSJAZaUQE"
       },
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
-      },
-      "artists": [
-        {
-          "name": "Darko US",
-          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
-        }
-      ],
-      "duration_ms": 244088,
-      "name": "Chrome Moon",
-      "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Kneel Before The Death",
         "url": "https://open.spotify.com/album/1Cfc1tRM1GB9TfjQDKBv6m"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 232000,
       "name": "Kneel Before The Death",
       "url": "https://open.spotify.com/track/3zFG5qp6Ro8qTebzNEEuCk"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
+      },
+      "artists": [
+        {
+          "name": "Darko US",
+          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
+        }
+      ],
+      "duration_ms": 244088,
+      "name": "Chrome Moon",
+      "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/23Bt42wtllzSdSYdBBCXLW"
+      },
+      "artists": [
+        {
+          "name": "Traitors",
+          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/4tGeH8kFzww24xr0S1kjEm"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "DEPTHS",
         "url": "https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3"
       },
@@ -2495,22 +2511,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/23Bt42wtllzSdSYdBBCXLW"
-      },
-      "artists": [
-        {
-          "name": "Traitors",
-          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/4tGeH8kFzww24xr0S1kjEm"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Undead Masquerade",
         "url": "https://open.spotify.com/album/1LYlJF6AFsTIBdKVAkBfm7"
       },
@@ -2523,6 +2523,42 @@
       "duration_ms": 257342,
       "name": "Undead Masquerade",
       "url": "https://open.spotify.com/track/4BgjjwqCyNlc05n5rpjsfY"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Apparition",
+        "url": "https://open.spotify.com/album/5McFM0iyPTlRWWAWj6W8rr"
+      },
+      "artists": [
+        {
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+        },
+        {
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/4lbQzF4Kum8RZzaWSlVrPC"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "My Gnawing Pains Will Never Rest",
+        "url": "https://open.spotify.com/album/2Xy3Wahrv0UBPYLICk2bIO"
+      },
+      "artists": [
+        {
+          "name": "Your Spirit Dies",
+          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
+        }
+      ],
+      "duration_ms": 160373,
+      "name": "Born Forsaken",
+      "url": "https://open.spotify.com/track/2hgSvB6VME5ZsvNpPLz8Nq"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2547,42 +2583,6 @@
       "duration_ms": 138428,
       "name": "SILENT DECISIONS",
       "url": "https://open.spotify.com/track/1gNudcyZVoiGN06iK1wd6C"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "My Gnawing Pains Will Never Rest",
-        "url": "https://open.spotify.com/album/2Xy3Wahrv0UBPYLICk2bIO"
-      },
-      "artists": [
-        {
-          "name": "Your Spirit Dies",
-          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
-        }
-      ],
-      "duration_ms": 160373,
-      "name": "Born Forsaken",
-      "url": "https://open.spotify.com/track/2hgSvB6VME5ZsvNpPLz8Nq"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Apparition",
-        "url": "https://open.spotify.com/album/5McFM0iyPTlRWWAWj6W8rr"
-      },
-      "artists": [
-        {
-          "name": "Saltwound",
-          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
-        },
-        {
-          "name": "Great American Ghost",
-          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Apparition",
-      "url": "https://open.spotify.com/track/4lbQzF4Kum8RZzaWSlVrPC"
     },
     {
       "added_at": "2026-07-17 04:04:53",

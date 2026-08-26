@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "Bonsai Terrace",
       "url": "https://open.spotify.com/track/0BeQ1vcXJSSrFUvtVOPqer"
@@ -304,10 +304,28 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 362773,
       "name": "Morning Splendor",
       "url": "https://open.spotify.com/track/5BfnCpWSG8cirVL9FNUDzz"
+    },
+    {
+      "album": {
+        "name": "Late Night Tales: Mgmt",
+        "url": "https://open.spotify.com/album/3hL5hv0P0B0jK8T9XPadVR"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359440,
+      "name": "Morning Splendour",
+      "url": "https://open.spotify.com/track/6wB2jl0FlW9i1vvt3hc5cP"
     },
     {
       "album": {

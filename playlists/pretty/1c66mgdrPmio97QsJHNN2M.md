@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,867 likes - 198 songs - 10 hr 23 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,877 likes - 208 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,5 +206,15 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 196 | [Popsong](https://open.spotify.com/track/7MPihejpxV6BWdPedcU1oz) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Popsong](https://open.spotify.com/album/5Dh2J3aMhhsVz2RaKfoVrQ) | 3:00 |
 | 197 | [Smoke Signal](https://open.spotify.com/track/7Db3yMQrjL6IJvzzrlFoCD) | [Void Chrome](https://open.spotify.com/artist/4NACUo2GNrKsKUcyyL4p6Z), [Aeroglass](https://open.spotify.com/artist/58IwsZZek1RY0sPr3VZ1SM), [Funk Lazarus](https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf), [Hologram Heartthrob](https://open.spotify.com/artist/0kCn95ksQeqzPeockcg5Ij), [Stasis Core](https://open.spotify.com/artist/7jGouNuqGNIPzU3TBguRPj), [Horizon 198XJX](https://open.spotify.com/artist/4fbS2NSYrUdPHo0iZKlL4Q) | [Neon Velocity](https://open.spotify.com/album/0IygatZ9HDyZ57eEtW4wf5) | 2:43 |
 | 198 | [FUCK LOVE, I HATE YOU SO MUCH](https://open.spotify.com/track/0uOZKNBVyKwkSuHqXdMPla) | [E.L.Castro](https://open.spotify.com/artist/1KpTZTzZjUumwURHN652lH) | [FUCK LOVE, I HATE YOU SO MUCH](https://open.spotify.com/album/53HKhvUIZZzfAgtuf9vjbt) | 2:46 |
+| 199 | [Golden Tide](https://open.spotify.com/track/1R4VQ7CDERMF8JLfM0Ch42) | [A!DEN](https://open.spotify.com/artist/2Q2FImUgZWWNwn7YMetE6I) | [Golden Tide](https://open.spotify.com/album/1HkaG41FDzaR2smfNTbMc9) | 2:48 |
+| 200 | [i could be](https://open.spotify.com/track/08zHZVyQukEyCmR0t1izmv) | [Kiana Makay](https://open.spotify.com/artist/0LV72MsR60o4GcE9B3Kk2v) | [i could be](https://open.spotify.com/album/2YaClPKWVpmoKB4kCjgrIJ) | 3:29 |
+| 201 | [Sweet](https://open.spotify.com/track/5OSeYNycuBUzqn5wTZIb0S) | [Icy Seasons](https://open.spotify.com/artist/2rUO9i0SG38kApGfKyHrjc), [Sundownn](https://open.spotify.com/artist/5rmXJ08TTWstGH2xVNUxhQ), [CMT the wheelchair boy](https://open.spotify.com/artist/3umPUNmGXnIQUzhxsyCOAI), [Perseph!](https://open.spotify.com/artist/4FF8PcIlDQdlYL60JhZb8Q) | [Sweet](https://open.spotify.com/album/0qX92SaelQY1E2AZFnXsTs) | 2:20 |
+| 202 | [Mangal Gel](https://open.spotify.com/track/1XqxUFolQNQj8vumBbtqcm) | [OMER AHMET](https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w) | [Mangal Gel](https://open.spotify.com/album/6ljIawd3tTKpmPLIgWyDlT) | 3:25 |
+| 203 | [Ocean Beach](https://open.spotify.com/track/732OoMnt9lHm1T5RcPwtuS) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Jacob Tompkins](https://open.spotify.com/artist/3steuCKTOPNk0zjtR5Hfbg) | [Ocean Beach](https://open.spotify.com/album/2uqnJtzSjq5RHXFblkLPCw) | 2:40 |
+| 204 | [Perfect](https://open.spotify.com/track/3TvOGzd55Gq80IWZcrIGPl) | [Noxaerin](https://open.spotify.com/artist/5kzkJzCLHYzDnWjv2pgmKx) | [Perfect](https://open.spotify.com/album/4poXwCSACqAC4c0I6eYIdX) | 3:29 |
+| 205 | [Feel it](https://open.spotify.com/track/403Hd34XjskxXYOMZD3GHo) | [Tomigotti](https://open.spotify.com/artist/3YFm69NGpg7uQg3nmLYLy9) | [Feel it](https://open.spotify.com/album/6elXwkvgyvwIjnApsO4k8v) | 2:56 |
+| 206 | [Itsy Bitsy Bikini](https://open.spotify.com/track/7bsAQSHlPHUdfK9S65ePtR) | [Ashleigh Harley](https://open.spotify.com/artist/1HmMAtO9sHrifb5F5NdsvG) | [Itsy Bitsy Bikini](https://open.spotify.com/album/7yie9nZsA2wGsL1nx6tc9j) | 3:11 |
+| 207 | [Hotter Than a Heatwave](https://open.spotify.com/track/1mQvgnQfHBwmpCvjU2mzI5) | [John Galea](https://open.spotify.com/artist/4d4a4OLDH4OTtAUc8wF8Jg) | [Hotter Than a Heatwave](https://open.spotify.com/album/1zUQ8AjOkcXgu4yobYUUIv) | 3:13 |
+| 208 | [I Will Follow](https://open.spotify.com/track/185SIkQFkbPxDAeP4jRcSb) | [United States of Emotion](https://open.spotify.com/artist/3LJp1ySEXxZl5BhqUdP413), [Marcin Kuczewski](https://open.spotify.com/artist/5lz7zA0O50rISX9rj4DHL1), [Patree C](https://open.spotify.com/artist/3ukggda0A8oo5aqrmb0AT1) | [Season 1](https://open.spotify.com/album/2TcgAhUISlpNRbUOA64KhC) | 4:12 |
 
-Snapshot ID: `AAA7sJSKGP/mmtyT0QpLDNWs05LN2KbW`
+Snapshot ID: `AAA7ur2cYW5yPLqDBecDF0uG+F2HIinM`

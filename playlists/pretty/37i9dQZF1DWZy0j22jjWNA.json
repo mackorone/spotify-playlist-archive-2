@@ -1,12 +1,12 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 124876,
+  "num_followers": 124894,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPAe/orYmpDcwz0pSi89kFj3GHJM",
+  "snapshot_id": "AAAAAHK+IPiR9fQ/VtdjzqL1Wg/oPZmJ",
   "tracks": [
     {
       "added_at": "2026-07-29 15:45:01",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "YES BE YES",
-        "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "YES BE YES",
-      "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Be Glad (Live)",
         "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 533500,
       "name": "Be Glad - Live",
       "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "YES BE YES",
+        "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "YES BE YES",
+      "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Thank God I'm Free",
+        "url": "https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 171670,
+      "name": "Thank God I'm Free",
+      "url": "https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Brand New (feat. Terrian)",
         "url": "https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 175323,
       "name": "Brand New (feat. Terrian)",
       "url": "https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Thank God I'm Free",
-        "url": "https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 171670,
-      "name": "Thank God I'm Free",
-      "url": "https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "WAKE UP",
         "url": "https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 150198,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Take Heart",
-        "url": "https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "Encompassed",
-      "url": "https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Don't Run Away",
         "url": "https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS"
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH"
       },
       "artists": [
         {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 232887,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu"
+      "duration_ms": 229687,
+      "name": "Encompassed",
+      "url": "https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1523,6 +1507,22 @@
       "duration_ms": 171923,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 232887,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu"
     },
     {
       "added_at": "2026-07-29 15:45:01",

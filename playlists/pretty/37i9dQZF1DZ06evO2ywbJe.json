@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8989,
+  "num_followers": 8995,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABzm5E7csi199myoOKX3CI/",
+  "snapshot_id": "aouJgAAAAADtrtF5vaGHRpV5zfuHQV5s",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 127565,
       "name": "Guide",
       "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 180638,
       "name": "IDK (feat. Zlatan)",
       "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "That Guy",
-      "url": "https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeleton",
+        "url": "https://open.spotify.com/album/4qf70z1GM2v5MGbbXRtehp"
+      },
+      "artists": [
+        {
+          "name": "FEMI VEGA",
+          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Skeleton",
+      "url": "https://open.spotify.com/track/4XLhRj4ISLtlPBpARNsrT1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hallelu",
         "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
       },
@@ -579,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeleton",
-        "url": "https://open.spotify.com/album/4qf70z1GM2v5MGbbXRtehp"
-      },
-      "artists": [
-        {
-          "name": "FEMI VEGA",
-          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Skeleton",
-      "url": "https://open.spotify.com/track/4XLhRj4ISLtlPBpARNsrT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 167657,
       "name": "14DRoad",
       "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
     },
     {
       "added_at": null,
@@ -1003,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "50 Billion (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Am I a Yahoo Boy",
         "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
       },
@@ -1043,6 +1003,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "50 Billion (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
       },
@@ -1059,6 +1039,30 @@
       "duration_ms": 167213,
       "name": "Money",
       "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 178347,
+      "name": "Oganigwe",
+      "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
     }
   ],
   "unique_name": "This Is Zlatan",

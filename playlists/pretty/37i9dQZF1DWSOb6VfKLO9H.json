@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110808,
+  "num_followers": 110836,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKMB0fkOekyuOyykkUuJDpfcC2j2",
+  "snapshot_id": "AAAAAMS9GcZBQiWAKJyu1IDEI40IpDze",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 170497,
+      "name": "Ik Kan Je Niet Laten",
+      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Laten Gaan (feat. Ronnie Flex, Mafe, Abira Benotti, Frenna & Emms)",
         "url": "https://open.spotify.com/album/6ef8JfQkdGWr3KX9U0IS8S"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 217992,
       "name": "Laten Gaan (feat. Ronnie Flex, Mafe, Abira Benotti, Frenna & Emms)",
       "url": "https://open.spotify.com/track/5VPNmkVeQMLDZNWpSmxkUm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 170497,
-      "name": "Ik Kan Je Niet Laten",
-      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "MGSEASON 2",
+        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Hard 2 Get",
+      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 225175,
       "name": "wine slow - remix",
       "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "MGSEASON 2",
-        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "Hard 2 Get",
-      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Lekker He",
-        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
-      },
-      "artists": [
-        {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        }
-      ],
-      "duration_ms": 145681,
-      "name": "Lekker He",
-      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Reloaded",
         "url": "https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 184421,
       "name": "Op De Weg (feat. Adje & CHO)",
       "url": "https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Lekker He",
+        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
+      },
+      "artists": [
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        }
+      ],
+      "duration_ms": 145681,
+      "name": "Lekker He",
+      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1955,30 +1955,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        },
-        {
-          "name": "Zefanio",
-          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Van Mij (feat. Jandro & Zefanio)",
-      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "BON VIBES",
         "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
       },
@@ -2023,26 +1999,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Designers",
-        "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
+        "name": "10",
+        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
       },
       "artists": [
         {
-          "name": "IliassOpDeBeat",
-          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
         },
         {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
         },
         {
-          "name": "LouiVos",
-          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
         }
       ],
-      "duration_ms": 181658,
-      "name": "Designers (feat. Dopebwoy & LouiVos)",
-      "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
+      "duration_ms": 204878,
+      "name": "Van Mij (feat. Jandro & Zefanio)",
+      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2071,6 +2047,30 @@
       "duration_ms": 164884,
       "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
       "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Designers",
+        "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
+      },
+      "artists": [
+        {
+          "name": "IliassOpDeBeat",
+          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "LouiVos",
+          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+        }
+      ],
+      "duration_ms": 181658,
+      "name": "Designers (feat. Dopebwoy & LouiVos)",
+      "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2135,26 +2135,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amiri Jeans",
-        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
-      },
-      "artists": [
-        {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 146822,
-      "name": "Amiri Jeans",
-      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gate 16",
         "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Amiri Jeans",
+        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
+      },
+      "artists": [
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 146822,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

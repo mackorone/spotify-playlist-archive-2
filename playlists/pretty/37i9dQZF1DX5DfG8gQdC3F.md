@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from STELLA LEFTY, Rex Orange County & Daniel Caesar, Sam Smith, Jorja Smith, Weezer, Ruth B., Casper TNG, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,071 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,019 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [BLADE IT](https://open.spotify.com/track/1mVGqHDMtAYb1j2ragmVDU) | [Young Rose](https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C), [Saint Kay](https://open.spotify.com/artist/5qBWcMz68QPfZpPA11SwF4) | [BLADE IT](https://open.spotify.com/album/4u0PAZIFBpWbCI02P44w3T) | 2:03 |
 | 101 | [road trip](https://open.spotify.com/track/7Ddnyh4De7eo7IBm55DyHG) | [Ava Ro](https://open.spotify.com/artist/3dtibWWBFanW0n3GYu8NIU) | [road trip](https://open.spotify.com/album/73Hl2gxqhpIaBFYfOEvW4T) | 2:57 |
 
-Snapshot ID: `AAAAAIETQccW7h5C/uVUEuOVMOJoNcOC`
+Snapshot ID: `AAAAACbrlxH1BiQbLWRlLTN3C8y+DOvG`

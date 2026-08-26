@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 436996,
+  "num_followers": 436992,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFdLsFpA2B729fpCVjTbXCm9T4A",
+  "snapshot_id": "AAAAAHfU78RUKSIoPilN6FfvJtKeiWOl",
   "tracks": [
     {
       "added_at": "2026-02-19 18:04:12",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 248720,
       "name": "Eres",
       "url": "https://open.spotify.com/track/4oa27owMHu69L0eou4gK10"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Guajira",
         "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 210461,
       "name": "Guajira",
       "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Delicate & Jumpy",
-        "url": "https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J"
+        "name": "Refresco, Vol.1: Cheo Goes Latin",
+        "url": "https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 334875,
-      "name": "Picadillo",
-      "url": "https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE"
+      "duration_ms": 224051,
+      "name": "Happy ending",
+      "url": "https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Refresco, Vol.1: Cheo Goes Latin",
-        "url": "https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf"
+        "name": "Delicate & Jumpy",
+        "url": "https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         }
       ],
-      "duration_ms": 224051,
-      "name": "Happy ending",
-      "url": "https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo"
+      "duration_ms": 334875,
+      "name": "Picadillo",
+      "url": "https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Nova Bis - Paulinho da Viola",
+        "url": "https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Calaveras y Diablitos",
         "url": "https://open.spotify.com/album/0ArxTs4EwDUAR6hPIBLOle"
       },
@@ -1739,22 +1759,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        }
-      ],
-      "duration_ms": 138151,
-      "name": "sweet nothings",
-      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
       },
@@ -1775,6 +1779,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "duration_ms": 138151,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Game On",
         "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
       },
@@ -1787,22 +1807,6 @@
       "duration_ms": 301925,
       "name": "Game On",
       "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     }
   ],
   "unique_name": "Latin Dinner",

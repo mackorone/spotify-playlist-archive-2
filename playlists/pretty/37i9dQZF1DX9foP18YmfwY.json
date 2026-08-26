@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 380776,
+  "num_followers": 380836,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeva9RshzaeX0V2sIHdI75+im23",
+  "snapshot_id": "AAAAAJhGFH0640cpZPq4WSnV93vADn2o",
   "tracks": [
     {
       "added_at": "2026-08-07 14:21:56",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Voc\u00ea Vai Chegar",
         "url": "https://open.spotify.com/album/1kG2m6EM1BwfJ0fYvIJ1v0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 300089,
       "name": "Voc\u00ea Vai Chegar",
       "url": "https://open.spotify.com/track/4leQkS7OykGQT6isQoiLCr"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Estou Orando por Voc\u00ea",
-        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        },
-        {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
-        }
-      ],
-      "duration_ms": 337168,
-      "name": "Estou Orando por Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Mostra a Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4EDskVT9iohrgRN3Lvu2CN"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 247792,
       "name": "Mostra a Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/5XlC1vepKohkbVmuCw3heD"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Estou Orando por Voc\u00ea",
+        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        },
+        {
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+        }
+      ],
+      "duration_ms": 337168,
+      "name": "Estou Orando por Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Studio Can\u00e7\u00e3o Nova | Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o Nova",
-          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
-        },
-        {
-          "name": "Thiago Tom\u00e9",
-          "url": "https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP"
-        }
-      ],
-      "duration_ms": 229067,
-      "name": "Teu Amor N\u00e3o Sabe",
-      "url": "https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Restitui",
         "url": "https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 273013,
       "name": "Restitui",
       "url": "https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Studio Can\u00e7\u00e3o Nova | Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o Nova",
+          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
+        },
+        {
+          "name": "Thiago Tom\u00e9",
+          "url": "https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP"
+        }
+      ],
+      "duration_ms": 229067,
+      "name": "Teu Amor N\u00e3o Sabe",
+      "url": "https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
+        "name": "Arvoreando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0HfPOEYcdBEFCZOdfwl88D"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM"
+        }
+      ],
+      "duration_ms": 152350,
+      "name": "Arvoreando - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RmwZYYflofJBAD79uhthh"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 254964,
       "name": "Minha Voca\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
-        "name": "Arvoreando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0HfPOEYcdBEFCZOdfwl88D"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        },
-        {
-          "name": "Maninho",
-          "url": "https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM"
-        }
-      ],
-      "duration_ms": 152350,
-      "name": "Arvoreando - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RmwZYYflofJBAD79uhthh"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Dias Melhores Vir\u00e3o",
-        "url": "https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O"
-      },
-      "artists": [
-        {
-          "name": "Juliana de Paula",
-          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
-        }
-      ],
-      "duration_ms": 261853,
-      "name": "Dias Melhores Vir\u00e3o",
-      "url": "https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Essencial (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 220071,
       "name": "Essencial - Ao Vivo",
       "url": "https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Dias Melhores Vir\u00e3o",
+        "url": "https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O"
+      },
+      "artists": [
+        {
+          "name": "Juliana de Paula",
+          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
+        }
+      ],
+      "duration_ms": 261853,
+      "name": "Dias Melhores Vir\u00e3o",
+      "url": "https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA"
     },
     {
       "added_at": "2026-08-07 14:21:56",

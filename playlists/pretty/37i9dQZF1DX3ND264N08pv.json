@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96387,
+  "num_followers": 96408,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALa+7xdV9gVAn2EL3IONO7Hf6eAC",
+  "snapshot_id": "AAAAAL1GCsJV+WQJZUAK/BynwHFMcNL5",
   "tracks": [
     {
       "added_at": "2026-08-17 11:28:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
+        "name": "Major Bounce",
+        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 155024,
+      "name": "Major Bounce",
+      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
         "name": "Make It Fucking Harder!",
         "url": "https://open.spotify.com/album/2F9VvuvmaxTpYNwTEmK8uv"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 173925,
       "name": "Make It Fucking Harder!",
       "url": "https://open.spotify.com/track/4atDi2L3enDcDZdJ1PxCdl"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
-        "name": "Major Bounce",
-        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 155024,
-      "name": "Major Bounce",
-      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
     },
     {
       "added_at": "2026-08-17 11:28:00",

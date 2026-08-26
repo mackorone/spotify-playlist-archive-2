@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 87106,
+  "num_followers": 87181,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADY6vt1BWa7Ku2V89BvhQsh",
+  "snapshot_id": "aouJgAAAAAAr8WF8E5566oZRuc5LO84D",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set In Stone",
-        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 148547,
-      "name": "Living Large",
-      "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
+      "duration_ms": 124923,
+      "name": "Good Chance (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124923,
-      "name": "Good Chance (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -611,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 178531,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Deluxe)",
         "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
@@ -643,22 +607,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 185000,
-      "name": "I Hope You're Happy (feat. Darius Rucker)",
-      "url": "https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt"
+      "duration_ms": 178531,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 124480,
+      "name": "Life of a Boss",
+      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
     },
     {
       "added_at": null,
@@ -683,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 124480,
-      "name": "Life of a Boss",
-      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
+      "duration_ms": 185000,
+      "name": "I Hope You're Happy (feat. Darius Rucker)",
+      "url": "https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt"
     },
     {
       "added_at": null,
@@ -979,6 +959,26 @@
       "duration_ms": 163715,
       "name": "'02 Lakers (feat. Ro$ama)",
       "url": "https://open.spotify.com/track/04IDH5UZTNO5RdWpPwebnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 163314,
+      "name": "All Gas No Brakes (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

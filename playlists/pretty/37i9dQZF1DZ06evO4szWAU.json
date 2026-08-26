@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 106145,
+  "num_followers": 106164,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAAT6fK1SSWoAdGniualfAEi",
+  "snapshot_id": "aouJgAAAAABwRQHaWm5rN9Op2UE1bOkZ",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 396048,
+      "name": "Mi Sueno",
+      "url": "https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 401880,
       "name": "Pl\u00e1stico",
       "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 396048,
-      "name": "Mi Sueno",
-      "url": "https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS"
     },
     {
       "added_at": null,
@@ -360,29 +360,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Ah-Ah / O-No",
-      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 'Brillante' Best",
-        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": null,
@@ -423,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
@@ -459,6 +419,26 @@
       "duration_ms": 345600,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estar Lejos",
+        "url": "https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 247092,
+      "name": "Estar Lejos",
+      "url": "https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -555,26 +555,6 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 347280,
-      "name": "Buscando Guayaba",
-      "url": "https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy"
     },
     {
       "added_at": null,
@@ -703,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Mas Simple",
-        "url": "https://open.spotify.com/album/4XjOzImqR39IvSHrapxoRv"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "Estar Lejos",
-      "url": "https://open.spotify.com/track/4jSg7gqa54hxILz9urk7R4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -831,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 422640,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/43Ste93jKi3inP498OAXP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -931,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 325080,
-      "name": "Siembra",
-      "url": "https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -987,6 +911,78 @@
       "duration_ms": 172295,
       "name": "Plazos Traicioneros - Remastered 2024",
       "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 337680,
+      "name": "No Me Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gran Fuga (Remastered 2024)",
+        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 336980,
+      "name": "Barrunto - Remastered 2024",
+      "url": "https://open.spotify.com/track/1HaKabYfAwChLvtMqIK7kw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 242386,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Baquin\u00e9 de Angelitos Negros (Remastered 2026)",
+        "url": "https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 212123,
+      "name": "Camino al Barrio - Remastered 2026",
+      "url": "https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

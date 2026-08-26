@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,058 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,216 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 15 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [KIMI](https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
 | 16 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 17 | [Domino \- Space 92 Remix](https://open.spotify.com/track/2sksm6zC7U7fRmAGSQICiF) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Domino \(Space 92 Remix\)](https://open.spotify.com/album/3RVpReOX57xE9g6OdqaXtF) | 3:52 |
-| 18 | [Sonne Geht Auf](https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Sonne Geht Auf](https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR) | 2:06 |
-| 19 | [run](https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [run](https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk) | 4:22 |
+| 18 | [run](https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [run](https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk) | 4:22 |
+| 19 | [Sonne Geht Auf](https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Sonne Geht Auf](https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR) | 2:06 |
 | 20 | [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 |
 | 21 | [Amor \(feat\. CERES\)](https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Amor EP](https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX) | 6:12 |
 | 22 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/34yR53qn56KlYXmhbuwjaa) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 7:03 |
 | 50 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 
-Snapshot ID: `AAAAAN4zekRqySJufV7z4cR6+jTOWsKi`
+Snapshot ID: `AAAAAAYJeIYrNbJG9sGfc4puH4gARL9o`

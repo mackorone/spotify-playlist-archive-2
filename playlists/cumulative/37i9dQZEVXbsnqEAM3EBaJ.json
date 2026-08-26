@@ -11812,7 +11812,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 159120,
       "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
       "url": "https://open.spotify.com/track/3duqFL2qZy2Df9r4Y038oC"
@@ -17390,7 +17390,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 462221,
       "name": "Ducker Mafioso Por Siempre",
       "url": "https://open.spotify.com/track/1eCD5wNhte379hjoWVBMpD"
@@ -31998,7 +31998,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 239424,
       "name": "INTERSTICE (2026)",
       "url": "https://open.spotify.com/track/0dBs50Yg4J7CgfBbNDgCDg"
@@ -47906,7 +47906,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 501866,
       "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
       "url": "https://open.spotify.com/track/721z2C71L30pljlzJLGcFl"
@@ -67602,7 +67602,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 140720,
       "name": "Trauermarsch in C Major, K.453a",
       "url": "https://open.spotify.com/track/3lym8E1Z5x2VrkgX7ym1RQ"
@@ -75362,6 +75362,28 @@
       "duration_ms": 315541,
       "name": "\u3042\u306a\u305f\u3092\u304b\u305e\u3048\u3066\uff0fAnatawo Kazoete",
       "url": "https://open.spotify.com/track/4KVVxSjkkOJRr2bWVCZ5bl"
+    },
+    {
+      "album": {
+        "name": "\u304a\u8a95\u751f\u306b\u304a\u3081\u3067\u3068\u3046 (2026)",
+        "url": "https://open.spotify.com/album/4JRwFcBYGkuacIl4s8o1oM"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        },
+        {
+          "name": "SunoAI",
+          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181888,
+      "name": "\u304a\u8a95\u751f\u306b\u304a\u3081\u3067\u3068\u3046 (2026)",
+      "url": "https://open.spotify.com/track/0kdg6j7R2fCrmUsik4jSuD"
     },
     {
       "album": {

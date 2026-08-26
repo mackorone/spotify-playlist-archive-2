@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-492 songs - 1 day 4 hr 35 min
+493 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [More](https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ) | [Alanna Sterling](https://open.spotify.com/artist/6gfQSJ07CJAEvOwKz4sX2f) | [More](https://open.spotify.com/album/5iAMFLHajNIwWxFJh0iA0E) | 3:42 | 2026-04-17 | 2026-07-01 |
 | [Move On](https://open.spotify.com/track/2z82PofLpBaIKJwbIYo5Cl) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Move On](https://open.spotify.com/album/2leZFJNcO96VaVYzMDYuMI) | 3:15 | 2026-04-19 | 2026-07-01 |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-01-20 | 2026-03-10 |
+| [Mud Butt](https://open.spotify.com/track/3zs9eTZb45KZZjUfx4Cmcg) | [The Acid Stains](https://open.spotify.com/artist/6djbTl6sUDFLV4uQN0vF5B) | [Mud Butt](https://open.spotify.com/album/2NahQibkDMz0qAtzsvos28) | 3:48 | 2026-08-25 |  |
 | [Mulholland Drive](https://open.spotify.com/track/5TvDjzLUJNizl2KIHQ3aqv) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Mulholland Drive](https://open.spotify.com/album/0JYhnrBfLAwi34NVupv5eW) | 3:00 | 2026-02-09 | 2026-03-29 |
 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 | 2025-10-30 | 2026-03-10 |
 | [Mustang Kickback](https://open.spotify.com/track/5tyaldDDAxuXHfmMbGY6nQ) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Mustang Kickback](https://open.spotify.com/album/0MttNZcfK8o5DDo7YOB9wm) | 3:10 | 2025-11-02 | 2026-01-15 |

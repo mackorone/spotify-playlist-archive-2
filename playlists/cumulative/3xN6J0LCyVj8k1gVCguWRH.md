@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,472 songs - 15 day 2 hr 13 min
+6,473 songs - 15 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5054,6 +5054,7 @@
 | [Somebody Else](https://open.spotify.com/track/47mSZtzzciio9vX6hwkQwb) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Somebody Else](https://open.spotify.com/album/0l6s4sVSq9VAPbS8st4nee) | 3:10 | 2025-06-13 | 2025-07-03 |
 | [Somebody Else](https://open.spotify.com/track/5F1BTORlRoCl6zUYknenMA) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [Somebody Else](https://open.spotify.com/album/12lmqC0KgdjpBi86pad8J3) | 3:19 | 2025-10-22 | 2025-11-02 |
 | [Somebody to Love](https://open.spotify.com/track/3o6qjtaCLvfvmbOwBADtQA) | [Natalie Claro](https://open.spotify.com/artist/6A0AOpJ7VsZvimYUSbE1Iw) | [Somebody to Love](https://open.spotify.com/album/0XseSST8lYmMLucFMFPTWN) | 3:11 | 2023-03-31 | 2023-04-23 |
+| [Somebody's Lying](https://open.spotify.com/track/4vi6b3LjGQWvI87TVShGbB) | [BothWorlds](https://open.spotify.com/artist/2zSIBHZ12RGiI2BwBGKw3M) | [Somebody's Lying](https://open.spotify.com/album/4IMdc36rtEnHvtm8Oj99uD) | 4:27 | 2026-08-25 |  |
 | [Someday](https://open.spotify.com/track/00d6kgv4bLvQbMzcvzTssh) | [Brian Larkins](https://open.spotify.com/artist/6vTwBl97KanVScVftV5G5n) | [Someday](https://open.spotify.com/album/74S1Wg9RXQ6A5z7Rxvwq6v) | 2:53 | 2021-01-08 | 2021-01-26 |
 | [Someday All This Pain Will Be Useful](https://open.spotify.com/track/7zcMMzn78hRiW71G4Zx2oD) | [Barli](https://open.spotify.com/artist/6HtZmijXHUG4ugzarCcBpi) | [Someday All This Pain Will Be Useful](https://open.spotify.com/album/03XN2SihYXvw8e2U2oZr16) | 2:56 | 2022-02-25 | 2022-03-14 |
 | [Someday, Maybe](https://open.spotify.com/track/4WzfB5HNHiaGat2pvzzyte) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Someday, Maybe](https://open.spotify.com/album/4VJPUOeXMUZvCtNwJENJO4) | 3:13 | 2022-08-27 | 2022-09-11 |

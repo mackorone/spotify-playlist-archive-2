@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-674 songs - 1 day 21 hr 18 min
+675 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [I Am Healed](https://open.spotify.com/track/7xNavX0iq7HrY01nHXXNH9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Chloe Higgs](https://open.spotify.com/artist/7HJuXEaNmpjsSAYK0pW4wq) | [I Am Healed](https://open.spotify.com/album/09Crr0hMx0Eo0j0yAK7zpr) | 3:12 | 2024-11-08 | 2025-02-28 |
 | [I Belong To You](https://open.spotify.com/track/0HYbFSop3uvZQgXknmUZN8) | [Precious Agwi](https://open.spotify.com/artist/2s5IEEAXFndM37MpDXY9Wh) | [I Belong To You](https://open.spotify.com/album/7JE5drBI1kooLs1BB9meYN) | 5:22 | 2024-11-29 | 2025-03-21 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-11-14 |
+| [I Dey Grateful](https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [I Dey Grateful](https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu) | 2:53 | 2026-08-21 |  |
 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 | 2024-09-27 | 2025-02-28 |
 | [I have seen the Lord](https://open.spotify.com/track/5phuO9FZlluunDrD6EJuCu) | [Femi Ogebule](https://open.spotify.com/artist/0eKCZj4LYXRaOqPyZ6aWDI), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX) | [I have seen the Lord](https://open.spotify.com/album/4IkmbN3xR3MSP0raPbTvRx) | 5:07 | 2025-04-11 | 2025-05-30 |
 | [I have seen the Lord's goodness](https://open.spotify.com/track/7jtaeMPp7sdgXBBmjIbnz3) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [I have seen the Lord's goodness](https://open.spotify.com/album/3C19JJubUUZbtIElmB5RUI) | 3:21 | 2025-10-03 | 2026-03-20 |
@@ -597,7 +598,7 @@
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2024-09-27 |  |
 | [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 | 2025-08-29 | 2025-10-17 |
 | [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 | 2025-12-26 | 2026-05-30 |
-| [Titilailai II](https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Johnson Jkeyz](https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [Titilailai II](https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9) | 3:19 | 2026-06-19 |  |
+| [Titilailai II](https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Johnson Jkeyz](https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [Titilailai II](https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9) | 3:19 | 2026-06-19 | 2026-08-26 |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-09-27 | 2025-11-28 |
 | [Tomorrow](https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay) | [Awesome Madu](https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Tomorrow](https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm) | 3:13 | 2025-11-07 | 2026-03-20 |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain]
 
 > Music From "Puella Magi Madoka Magica"! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,193 likes - 82 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,247 likes - 82 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,17 +78,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain]
 | 68 | [Nux Walpurgis](https://open.spotify.com/track/4sPKrqfM6lBaCX0COmOgzQ) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 2:34 |
 | 69 | [Ave Maria](https://open.spotify.com/track/239yLrYqqC4fJoV2fj18Ca) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 4:48 |
 | 70 | [Infinite Battle](https://open.spotify.com/track/5imKWpPxUAEtPFn3hK4JXH) | [Ryo Furukawa](https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:48 |
-| 71 | [Intermediate](https://open.spotify.com/track/5ZOdV5dWzK3aBRM0YCsBU5) | [Chiba"Naotyu\-"Naoki](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:00 |
-| 72 | [Welcome to Mirrors](https://open.spotify.com/track/1fmeRcr2mozxVil5YkOxx9) | [Chiba"Naotyu\-"Naoki](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:42 |
+| 71 | [Intermediate](https://open.spotify.com/track/5ZOdV5dWzK3aBRM0YCsBU5) | [千葉"naotyu\-"直樹](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:00 |
+| 72 | [Welcome to Mirrors](https://open.spotify.com/track/1fmeRcr2mozxVil5YkOxx9) | [千葉"naotyu\-"直樹](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:42 |
 | 73 | [Battle Fields](https://open.spotify.com/track/6FlUqJ0GiJoNcHUHVupN3X) | [Ryo Furukawa](https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:44 |
 | 74 | [Calculated Future](https://open.spotify.com/track/6DEJMcXUWMFTbrIWKr3S5V) | [Yasuhisa Inoue](https://open.spotify.com/artist/4rzORlMdEzhaP67oEU4m4B) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:58 |
 | 75 | [Last Dungeon](https://open.spotify.com/track/1sNOSm786SW07OKts4myIP) | [Ryo Furukawa](https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:58 |
-| 76 | [Battle Bell](https://open.spotify.com/track/5AfSF93s3jjUOUoKEps70c) | [Chiba"Naotyu\-"Naoki](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 2:02 |
-| 77 | [Depth in the Mirror](https://open.spotify.com/track/0vgzC65Gib5dcRxXeRYMjH) | [Chiba"Naotyu\-"Naoki](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:47 |
+| 76 | [Battle Bell](https://open.spotify.com/track/5AfSF93s3jjUOUoKEps70c) | [千葉"naotyu\-"直樹](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 2:02 |
+| 77 | [Depth in the Mirror](https://open.spotify.com/track/0vgzC65Gib5dcRxXeRYMjH) | [千葉"naotyu\-"直樹](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:47 |
 | 78 | [naturally](https://open.spotify.com/track/7DAhdpK5bYIQzD8zp1dCju) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO), [美樹さやか \(CV:喜多村英梨\)](https://open.spotify.com/artist/36y42taogcR024xS85HIHE) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 4:28 |
 | 79 | [あこがれ咲いた](https://open.spotify.com/track/1KuGK9P4wUIuBjGhnsQ5Ld) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:51 |
 | 80 | [Mebius Ash](https://open.spotify.com/track/2i6BYXATu18CBA4TuIdzMM) | [暁美ほむら \(CV:斎藤千和\)](https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 4:03 |
 | 81 | [ユメおと](https://open.spotify.com/track/6M3dD7YvWOMy4LU0ZCJcHn) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO), [暁美ほむら \(CV:斎藤千和\)](https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:56 |
 | 82 | [Stairs](https://open.spotify.com/track/30qeDkDeFD59x2JCzwegRs) | [巴マミ\(CV:水橋かおり\)](https://open.spotify.com/artist/7bPq8mMssFUlLTPp1dJ3P5), [佐倉杏子 \(CV:野中藍\)](https://open.spotify.com/artist/1VSGTuDTMQZ3aKjlDNVFYH) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:51 |
 
-Snapshot ID: `AAAAADtQMWPY2FlwAFRWBfBRRe1GcjyB`
+Snapshot ID: `AAAAAF9Lkbv/EaYPO3O9Wwyoa4J4Whb+`

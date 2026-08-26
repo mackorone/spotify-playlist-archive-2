@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Still Caravan",
-  "num_followers": 33262,
+  "num_followers": 33270,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKYg/2rI2Bl6zgxERBIe3Psa79P3",
+  "snapshot_id": "AAAAAIndIQtVQzs22GxDFecDhdWZszwg",
   "tracks": [
     {
       "added_at": "2026-08-04 15:00:25",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "marten",
-      "url": "https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/02eKXgRieK4rSCYLlyLY5y"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 281346,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/0xgAMhn7qqKrQcACbIEPoa"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "marten",
+      "url": "https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "\u30a2\u30a4\u30eb",
-        "url": "https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
       },
       "artists": [
         {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
         }
       ],
-      "duration_ms": 245500,
-      "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
-      "url": "https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE"
+      "duration_ms": 404426,
+      "name": "\u767d\u9ce5",
+      "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

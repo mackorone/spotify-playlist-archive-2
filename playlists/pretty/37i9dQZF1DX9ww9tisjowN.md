@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,567 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,574 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Hyper Vip](https://open.spotify.com/track/7agFnJp6OmdgwzSzAFKf7Q) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Travelogue I](https://open.spotify.com/album/4rHApC99EydLlqldhcauVs) | 3:13 |
 | 75 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
 
-Snapshot ID: `AAAAANkR0Us/u9Y1v3MCpqQHkzmrJAb8`
+Snapshot ID: `AAAAAAxgnsO5+jhIfS1XOFBdTeAMdWjG`

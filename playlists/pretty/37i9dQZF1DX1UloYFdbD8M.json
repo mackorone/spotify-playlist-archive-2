@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Ashley Milred",
-  "num_followers": 41681,
+  "num_followers": 41682,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADj6RGnVLMK6YHbc4UkeBdGXi+lU",
+  "snapshot_id": "AAAAAER5XjB+4etvOhvX2dj0b/nfvjK9",
   "tracks": [
     {
       "added_at": "2026-07-03 12:10:50",
@@ -279,6 +279,30 @@
       "duration_ms": 226578,
       "name": "KUMMBA",
       "url": "https://open.spotify.com/track/1Xyl21ZvU2lIz15UxvQzOT"
+    },
+    {
+      "added_at": "2026-08-25 15:09:12",
+      "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/0WCMp97OX1aYE79Bu9D39d"
+      },
+      "artists": [
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Ali Najih",
+          "url": "https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo"
+        },
+        {
+          "name": "Leno Martin",
+          "url": "https://open.spotify.com/artist/5JK0lP2maJcJ6G1z8N9r5K"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/3ccxlJdWBlTCc00bf8CcZy"
     },
     {
       "added_at": "2026-08-03 12:39:32",
@@ -1043,34 +1067,6 @@
       "duration_ms": 262327,
       "name": "Neelaravil",
       "url": "https://open.spotify.com/track/3CnVOw5FmNWCBFKyAjrK78"
-    },
-    {
-      "added_at": "2026-06-12 00:00:29",
-      "album": {
-        "name": "GOODALOJANAYA",
-        "url": "https://open.spotify.com/album/5X4xD67YvHLccfhYplKW2Q"
-      },
-      "artists": [
-        {
-          "name": "Rajat Prakash",
-          "url": "https://open.spotify.com/artist/3Tju0d02eWwa4FDcqR643X"
-        },
-        {
-          "name": "Adharv",
-          "url": "https://open.spotify.com/artist/0gM54Id1yu1sM1G8dUTBDK"
-        },
-        {
-          "name": "abhiraman",
-          "url": "https://open.spotify.com/artist/4Pb98qT9JyD9JoyqOa1P0i"
-        },
-        {
-          "name": "Vishnu Das",
-          "url": "https://open.spotify.com/artist/4VGE3ZXetNWbFoE59hVRrF"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "GOODALOJANAYA",
-      "url": "https://open.spotify.com/track/141sTe0CBJX2mgT6ikbWvH"
     },
     {
       "added_at": "2026-06-17 07:30:34",

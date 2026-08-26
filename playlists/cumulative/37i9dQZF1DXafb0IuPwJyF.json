@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Ado",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u30b9\u30d4\u30c3\u30c4",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -14783,6 +14783,24 @@
     },
     {
       "album": {
+        "name": "Running Wheel",
+        "url": "https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137096,
+      "name": "Running Wheel",
+      "url": "https://open.spotify.com/track/1QNc9HPnw3diR0gIoVZp1S"
+    },
+    {
+      "album": {
         "name": "Russe Onna",
         "url": "https://open.spotify.com/album/4vfO6A0pbU097VKFRfOXJC"
       },
@@ -17830,7 +17848,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 200226,
       "name": "Theater",
       "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
@@ -20922,7 +20940,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 274596,
       "name": "\u304b\u3052\u308d\u3046",
       "url": "https://open.spotify.com/track/5BKwzntuwwe6V5oapO6eJ4"
@@ -23758,7 +23776,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 226386,
       "name": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
       "url": "https://open.spotify.com/track/3xwcoxhjy2vg1O1bb4IQ1m"
@@ -25616,7 +25634,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 207845,
       "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI"
@@ -26046,6 +26064,24 @@
       "duration_ms": 205781,
       "name": "\u30de\u30b8\u30c3\u30af\u30a2\u30ef\u30fc",
       "url": "https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u9593\u7684\u30b7\u30c3\u30af\u30b9\u30bb\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306626,
+      "name": "\u30de\u30ea\u30fc\u30b4\u30fc\u30eb\u30c9",
+      "url": "https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7"
     },
     {
       "album": {
@@ -29687,6 +29723,24 @@
     },
     {
       "album": {
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224804,
+      "name": "\u602a\u7363\u306e\u82b1\u5504",
+      "url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S"
+    },
+    {
+      "album": {
         "name": "\u604b",
         "url": "https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4"
       },
@@ -31408,6 +31462,24 @@
       "duration_ms": 256333,
       "name": "\u6c17\u6301\u3061\u306e\u7cf8",
       "url": "https://open.spotify.com/track/25tMiXWUNsH1IPfrUGQmCM"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30fc\u30e2\u30a2",
+        "url": "https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288013,
+      "name": "\u6c34\u5e73\u7dda",
+      "url": "https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf"
     },
     {
       "album": {
@@ -34416,7 +34488,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 187040,
       "name": "\u9752\u3044\u30bd\u30d5\u30a1\u306e\u4e0a\u3067",
       "url": "https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF"
@@ -34708,6 +34780,24 @@
       "duration_ms": 235543,
       "name": "\u98a8\u795e",
       "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u898b\u9d8f",
+        "url": "https://open.spotify.com/album/0etaPjyHr3E3QDXdXftTdX"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215769,
+      "name": "\u98a8\u898b\u9d8f",
+      "url": "https://open.spotify.com/track/5FwUazYSMotO95IPzjgG1q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-691 songs - 1 day 18 hr 57 min
+693 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Step By Step](https://open.spotify.com/track/4PxUH42cgwnWMVG4Wgri18) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Step By Step](https://open.spotify.com/album/3cec3xCfuMviPNoBTta7Qv) | 3:43 | 2026-05-25 | 2026-06-18 |
 | [Sternschnuppenmoment](https://open.spotify.com/track/5BVOoeObY2AYkSTQlokJxM) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sternschnuppenmoment](https://open.spotify.com/album/43vzqAlHnIQKFRF8aK8hTk) | 3:52 | 2026-03-24 | 2026-04-21 |
 | [Still Wearing the Ring](https://open.spotify.com/track/2XNl2KSoD0tNlTghYp8hK6) | [Hakuten](https://open.spotify.com/artist/38xM2PuRgJ0CKk9vTzHoG7) | [Death Bound Heart](https://open.spotify.com/album/3LfOyNG8IwFZiV6SF1FUVT) | 4:49 | 2026-01-05 | 2026-03-18 |
+| [Stolen Dreams](https://open.spotify.com/track/7d9GUj883SGBb4gw4JGcam) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [Stolen Dreams](https://open.spotify.com/album/4sfXIhGcElZxNl4Fb19dIT) | 4:49 | 2026-08-25 |  |
 | [Stoner](https://open.spotify.com/track/2dOiAm5I3PFizdsj77ywI5) | [Thought Fox](https://open.spotify.com/artist/0oJtH8Mmh8JAoC8nVpro0h) | [Stoner](https://open.spotify.com/album/0oT9O2PT0bHFcHAhcoPRXB) | 3:50 | 2025-12-08 | 2026-07-12 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-23 | 2025-12-17 |
 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 | 2025-11-19 | 2025-12-17 |
@@ -598,6 +599,7 @@
 | [The Bond](https://open.spotify.com/track/5WYkSDKAz2B8NA182Di5Go) | [Evon Rose](https://open.spotify.com/artist/3DyWzJwbk4fijpMYOrc7R5) | [The Bond](https://open.spotify.com/album/7Kp7wrTCNan7B0ZW6DjZSR) | 3:29 | 2025-10-04 | 2025-12-17 |
 | [The Death of Venus](https://open.spotify.com/track/6ahpQjmfYTfTE3YVJnivsN) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Going Blind](https://open.spotify.com/album/6BGcpr68cgLxod7vrRmkeR) | 6:39 | 2026-06-27 |  |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-20 | 2025-12-17 |
+| [The Funeral March](https://open.spotify.com/track/0QL841AJqf1PKLnXsWNCJp) | [Zornheym](https://open.spotify.com/artist/5YUadeP4WiWAwaMwXsczgJ) | [The Funeral March](https://open.spotify.com/album/5XUdvSZQYtQVuNnRfDYvhW) | 4:07 | 2026-08-25 |  |
 | [The Ghost Of You \- Epic Rock Version](https://open.spotify.com/track/1A6zCKYRn7QlIkMh0izWjW) | [Jordi Martijnse](https://open.spotify.com/artist/5Z0G3YfqBlb7LaqJDhKv5p) | [Ascend](https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr) | 2:41 | 2025-11-05 | 2025-12-17 |
 | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/track/22AfA3lC9hksGyG2KEVHHT) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/album/3E9TobEFd1wXM42E0FFZrk) | 2:30 | 2026-01-22 | 2026-03-18 |
 | [The Horizon](https://open.spotify.com/track/435lQao69KWGTGd5hMVqUc) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [The Horizon](https://open.spotify.com/album/4ByWJZBZrY2Y719qmRKPIZ) | 3:31 | 2026-08-04 |  |

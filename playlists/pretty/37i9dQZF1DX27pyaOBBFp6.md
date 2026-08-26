@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,357 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,366 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 7 | [De Glimlach Van Een Kind](https://open.spotify.com/track/0MGZGTjmBQGPuu0zFHQgkM) | [Willy Alberti](https://open.spotify.com/artist/4V3RSGZYyjAoaDrZqPmzUM) | [De Glimlach Van Een Kind](https://open.spotify.com/album/3WrB41PCSnKDQRj95rGpIq) | 2:40 |
 | 8 | [De Troubadour](https://open.spotify.com/track/2KCMlWqxxevzBWAsxRPXjH) | [Lenny Kuhr](https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:58 |
 | 9 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
-| 10 | [Sammy](https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 2:14 |
+| 10 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 |
 | 11 | [Het Land Van Maas En Waal](https://open.spotify.com/track/2nk4SnUS6xe1iB5SeIBbgo) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:58 |
-| 12 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 |
+| 12 | [Sammy](https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 2:14 |
 | 13 | [Op Een Mooie Pinksterdag](https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ) | [Andre Van Den Heuvel](https://open.spotify.com/artist/761xE3Wn7hz2BXKeKxccx2), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:25 |
 | 14 | [Mijn Vlakke Land](https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [De Vertedering \- De 60 Mooiste Luisterliedjes](https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17) | 2:52 |
 | 15 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 34 | [Waarom Heb Jij Me Laten Staan?](https://open.spotify.com/track/5LjIT56CJ7NeH5k3cC5j71) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:12 |
 | 35 | [Paradiso](https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:40 |
 | 36 | [Spiegelbeeld](https://open.spotify.com/track/0dQB5T7YTLhS0jI41u92hP) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 2:27 |
-| 37 | [Als Ik De Golven Aan Het Strand Zie](https://open.spotify.com/track/3ibPCrxXzTLteOba65KtVP) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 2:11 |
-| 38 | [Ik Ben Met Jou Niet Getrouwd](https://open.spotify.com/track/1y44si4CkVBN0CZONzCLIO) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 3:13 |
+| 37 | [Ik Ben Met Jou Niet Getrouwd](https://open.spotify.com/track/1y44si4CkVBN0CZONzCLIO) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 3:13 |
+| 38 | [Als Ik De Golven Aan Het Strand Zie](https://open.spotify.com/track/3ibPCrxXzTLteOba65KtVP) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 2:11 |
 | 39 | [Batje Vier](https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:46 |
 | 40 | [Ik Wil Alleen Maar Van Je Houden](https://open.spotify.com/track/6gCHX6FcXgtP4P9qfcqh41) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:19 |
 | 41 | [Morgen Ben Ik De Bruid](https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:20 |
-| 42 | [Harlekino](https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:21 |
-| 43 | [Gina Lollobrigida](https://open.spotify.com/track/2oTYacs6wS0p79ocNzQkDH) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 2:42 |
+| 42 | [Gina Lollobrigida](https://open.spotify.com/track/2oTYacs6wS0p79ocNzQkDH) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 2:42 |
+| 43 | [Harlekino](https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:21 |
 | 44 | [Hup, hup, hup](https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:35 |
 | 45 | [Mooier Dan Rode Rozen](https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:04 |
 | 46 | [Hou Je Echt Nog Van Mij Rockin Billy !](https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 3:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 89 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
 | 90 | [Vaarwel Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/5B3Ks1FRxvLRFcFEnV79BD) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [60 Hits](https://open.spotify.com/album/18JsD3oxq36xy7uEIzya6B) | 3:32 |
 
-Snapshot ID: `AAAAAFFpDwFJfLywltHIpPPigfc888+t`
+Snapshot ID: `AAAAAPtWZ4F3EStAmh4kifb6gw9CGTvC`

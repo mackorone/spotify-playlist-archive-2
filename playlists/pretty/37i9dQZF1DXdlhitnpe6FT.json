@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 339795,
+  "num_followers": 339890,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAS9a3939b4eeYMmSVNA0smCg3mF",
+  "snapshot_id": "AAAAAPziHkoe9j0HA1MnwKMgguyX10kd",
   "tracks": [
     {
       "added_at": "2025-02-14 17:45:29",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Ultimate John Barry",
-        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
-      },
-      "artists": [
-        {
-          "name": "John Barry",
-          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Midnight Cowboy",
-      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "40 Hits Latinos",
         "url": "https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 172893,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Ultimate John Barry",
+        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Somewhere In Time - Main Theme",
-      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Al Caiola",
         "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 127440,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Somewhere In Time - Main Theme",
+      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Lost Hits Of The 60's",
-        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
-      },
-      "artists": [
-        {
-          "name": "Don Costa And His Orchestra",
-          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Lost Hits Of The 60's",
+        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
+      },
+      "artists": [
+        {
+          "name": "Don Costa And His Orchestra",
+          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
         "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 233333,
       "name": "Recuerdos De La Alhambra (with The Royal Philharmonic Orchestra)",
       "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Grandes Orquestas / Bert Kaempfert",
+        "url": "https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 145186,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Wenn Der Wei\u00dfe Flieder Wieder Bl\u00fcht",
         "url": "https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "!!!Going Places!!!",
-        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Music Box Dancer",
         "url": "https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 192360,
       "name": "Music Box Dancer",
       "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "!!!Going Places!!!",
+        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Before The Rain",
-        "url": "https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg"
+        "name": "16 Grandes \u00c9xitos Instrumentales",
+        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
       },
       "artists": [
         {
-          "name": "Lee Oskar",
-          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+          "name": "John Days",
+          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
         }
       ],
-      "duration_ms": 495466,
-      "name": "Before the Rain",
-      "url": "https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM"
+      "duration_ms": 190773,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "16 Grandes \u00c9xitos Instrumentales",
-        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
+        "name": "Before The Rain",
+        "url": "https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg"
       },
       "artists": [
         {
-          "name": "John Days",
-          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc"
+      "duration_ms": 495466,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Grandes Orquestas / Bert Kaempfert",
-        "url": "https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i"
+        "name": "16 Grandes \u00c9xitos Instrumentales",
+        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "John Days",
+          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
         }
       ],
-      "duration_ms": 145186,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1"
+      "duration_ms": 221013,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/3kZQQ8e85TzwzFLtJTvVz0"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1587,22 +1603,6 @@
       "duration_ms": 221174,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "16 Grandes \u00c9xitos Instrumentales",
-        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
-      },
-      "artists": [
-        {
-          "name": "John Days",
-          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/3kZQQ8e85TzwzFLtJTvVz0"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Tony Mottola y Su Orquesta",
-        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
-      },
-      "artists": [
-        {
-          "name": "Tony Mottola y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
-        }
-      ],
-      "duration_ms": 113880,
-      "name": "Woodpecker Song",
-      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Latin-Esque",
         "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Tony Mottola y Su Orquesta",
+        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
+      },
+      "artists": [
+        {
+          "name": "Tony Mottola y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
+        }
+      ],
+      "duration_ms": 113880,
+      "name": "Woodpecker Song",
+      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
     },
     {
       "added_at": "2025-02-14 17:45:29",

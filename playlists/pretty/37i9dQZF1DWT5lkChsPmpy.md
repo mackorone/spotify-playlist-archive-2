@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,870 likes - 200 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,025 likes - 200 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 199 | [Love You Better](https://open.spotify.com/track/00IIdn5ik2M1Qcjk495QBl) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Love You Better](https://open.spotify.com/album/5DZAwGTMu7X9RdQM1ttWs7) | 2:56 |
 | 200 | [Mojito Breeze](https://open.spotify.com/track/02ISCe89PcXX5gsNOwSiUw) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Mojito Breeze](https://open.spotify.com/album/1sjFuk7qg1R2PyMGfwtqdp) | 2:51 |
 
-Snapshot ID: `AAAAANTTHDPWDoQeu5nai9C1Uc1H6fnI`
+Snapshot ID: `AAAAANKFiQEW3HnVBYtCUzBHy/OnzvXV`

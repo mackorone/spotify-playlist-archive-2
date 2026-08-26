@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 258613,
       "name": "ASAP (As Soon as Possible)",
       "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 271333,
       "name": "At Peace with Woman",
       "url": "https://open.spotify.com/track/1tPi18dFRENazurH44N1AT"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 311560,
       "name": "Children of the Night",
       "url": "https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 155186,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec"
@@ -332,10 +332,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 268506,
       "name": "Dance Turned Into a Romance",
       "url": "https://open.spotify.com/track/0ac0IMOQCG2Xt5H9Ja70pU"
+    },
+    {
+      "album": {
+        "name": "Philadelphia International Records: The Mike Maurro Remixes",
+        "url": "https://open.spotify.com/album/3J1fzr1XtKbgAfxnN6aRrP"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        },
+        {
+          "name": "Mike Maurro",
+          "url": "https://open.spotify.com/artist/3JDX0lRuGeGEGRMSC5NEHF"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524634,
+      "name": "Dance Turned Into a Romance - Mike Maurro Mix",
+      "url": "https://open.spotify.com/track/2abR8aZe9CniSRRxf0pOMx"
     },
     {
       "album": {
@@ -429,6 +451,24 @@
     },
     {
       "album": {
+        "name": "At Peace with Woman",
+        "url": "https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295106,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/0uNvgPAy7TlNjkX47FcXVr"
+    },
+    {
+      "album": {
         "name": "I Didn't Mean It at All",
         "url": "https://open.spotify.com/album/2i5xewJm3dZVGO5TeCmCrW"
       },
@@ -458,7 +498,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 281280,
       "name": "I Just Love the Man",
       "url": "https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt"
@@ -502,10 +542,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 274226,
       "name": "I'll Never Forget (My Favorite Disco)",
       "url": "https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc"
+    },
+    {
+      "album": {
+        "name": "The Women of Philadelphia International Records - The Remixes",
+        "url": "https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu"
+      },
+      "artists": [
+        {
+          "name": "Dexter Wansel",
+          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
+        },
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347307,
+      "name": "I'll Never Forget (My Favorite Disco) - 12\" Disco Version",
+      "url": "https://open.spotify.com/track/5fZUXYQb7vL4lGwgBrarN8"
     },
     {
       "album": {
@@ -556,7 +618,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 157133,
       "name": "If You Don't Start Nothing",
       "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
@@ -710,7 +772,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 259146,
       "name": "Let's Celebrate (Sittin' on Top of the World)",
       "url": "https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY"
@@ -822,7 +884,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 265506,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
@@ -1006,7 +1068,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 218493,
       "name": "Sweet Ecstasy",
       "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
@@ -1106,7 +1168,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 244560,
       "name": "The World Will Sing Our Song",
       "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
@@ -1196,7 +1258,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 288720,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/1iA4JW1NzmcYNG8ZASIjdH"

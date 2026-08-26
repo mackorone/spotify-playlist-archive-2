@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 
 > ONE DREAM with TXT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,449 likes - 141 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,421 likes - 141 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,9 +145,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 | 135 | [MOA Diary \(Dubaddu Wari Wari\) \- Japanese Ver.](https://open.spotify.com/track/5iN6tDlsK95bWBlMfVoVmL) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 3:08 |
 | 136 | [君じゃない誰かの愛し方 \(Ring\) \- Unplugged Ver.](https://open.spotify.com/track/0K1jAnEXaT5BPK6Q6z7WQT) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 3:25 |
 | 137 | [Outro : FALLING](https://open.spotify.com/track/4e6VsQ4MBI6hAFXMrEFSUV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:09 |
-| 138 | [Over The Moon \(English Ver.\)](https://open.spotify.com/track/7y3fQOqhue1AcuMEjGDZJb) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:37 |
-| 139 | [Over The Moon \(Deep House Remix\)](https://open.spotify.com/track/6tV7e40I6O4OWsb8olhvFT) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:26 |
-| 140 | [Over The Moon \(R&B Remix\)](https://open.spotify.com/track/1n21J64RvBiNqg7RGGPE2L) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:34 |
-| 141 | [Over The Moon \(Rock Remix\)](https://open.spotify.com/track/34qMo2qmlx7T1R25HK3ZkY) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:36 |
+| 138 | [Over The Moon \- English Ver.](https://open.spotify.com/track/7y3fQOqhue1AcuMEjGDZJb) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:37 |
+| 139 | [Over The Moon \- Deep House Remix](https://open.spotify.com/track/6tV7e40I6O4OWsb8olhvFT) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:26 |
+| 140 | [Over The Moon \- R&B Remix](https://open.spotify.com/track/1n21J64RvBiNqg7RGGPE2L) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:34 |
+| 141 | [Over The Moon \- Rock Remix](https://open.spotify.com/track/34qMo2qmlx7T1R25HK3ZkY) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:36 |
 
-Snapshot ID: `AAAAAJA9AAdmquMvMxKmJWBtQXlzReWq`
+Snapshot ID: `AAAAADlewa7pUPx03DONLMptNwLKWsbc`

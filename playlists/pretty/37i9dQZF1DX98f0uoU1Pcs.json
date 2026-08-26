@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295370,
+  "num_followers": 295372,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKhD7gSdti44PxsLNQP6hsDUqYEX",
+  "snapshot_id": "AAAAAGwMP5SH1KDJX/ybD/g4sUpwt1bA",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "viagr aboys (Japanese Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "Therapy II",
-      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Skint",
         "url": "https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 222196,
       "name": "Skint",
       "url": "https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "viagr aboys (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "Therapy II",
+      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Real Deal",
+        "url": "https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 234566,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Sleep In It",
         "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Real Deal",
-        "url": "https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 234566,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Prevail",
         "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Who's Gonna Love You Now?",
-        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
-      },
-      "artists": [
-        {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
-        }
-      ],
-      "duration_ms": 175050,
-      "name": "Who's Gonna Love You Now?",
-      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Girth",
         "url": "https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 183600,
       "name": "Girth",
       "url": "https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Who's Gonna Love You Now?",
+        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Cowards",
-        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 231677,
-      "name": "Building 650",
-      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 186792,
       "name": "I Can\u2019t Imagine (Why You Feel This Way)",
       "url": "https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Cowards",
+        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Fundraiser",
-        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Fundraiser",
-      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Fundraiser",
+        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Fundraiser",
+      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Slippers 08",
-        "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf"
-      },
-      "artists": [
-        {
-          "name": "Slippers",
-          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
-        }
-      ],
-      "duration_ms": 108169,
-      "name": "Castaways",
-      "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "The Clip",
         "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Wet Brain",
-        "url": "https://open.spotify.com/album/3Fe59iFbf9HvNsGi3jUnen"
+        "name": "Slippers 08",
+        "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf"
       },
       "artists": [
         {
-          "name": "TVOD",
-          "url": "https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh"
+          "name": "Slippers",
+          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
         }
       ],
-      "duration_ms": 137750,
-      "name": "Wet Brain",
-      "url": "https://open.spotify.com/track/0hGvkifKlk8MbqrhQloipy"
+      "duration_ms": 108169,
+      "name": "Castaways",
+      "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Trickle Down",
-        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+        "name": "Wet Brain",
+        "url": "https://open.spotify.com/album/3Fe59iFbf9HvNsGi3jUnen"
       },
       "artists": [
         {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "TVOD",
+          "url": "https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh"
         }
       ],
-      "duration_ms": 167419,
-      "name": "Trickle Down",
-      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
+      "duration_ms": 137750,
+      "name": "Wet Brain",
+      "url": "https://open.spotify.com/track/0hGvkifKlk8MbqrhQloipy"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1511,6 +1495,22 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Trickle Down",
+        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "Trickle Down",
+      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "EXPO",
-        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
-      },
-      "artists": [
-        {
-          "name": "Ulrika Spacek",
-          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "Weights & Measures",
-      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Up On Gravity Hill",
         "url": "https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 308294,
       "name": "Light Your Way Home",
       "url": "https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "EXPO",
+        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "Weights & Measures",
+      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
     }
   ],
   "unique_name": "Noisy",

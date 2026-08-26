@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: KiiiKiii\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,751 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,752 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 |
 | 50 | [r u ok?](https://open.spotify.com/track/7LwQfsJ7JzgfFr7ErvcTs6) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:44 |
 
-Snapshot ID: `AAAAAGGRfU+ngHlYo/WYFmx+vuGsfS6w`
+Snapshot ID: `AAAAAPPAyVTWyLRSsKbxtaky5BLE/BKF`

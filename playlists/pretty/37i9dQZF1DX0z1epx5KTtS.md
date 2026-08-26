@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Daoudi le Kirikou
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,514 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,579 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [L'ARGENT PROPRE](https://open.spotify.com/track/4VQML2a6HZC4htq4jjnIv4) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [DONI DONI](https://open.spotify.com/album/15Q3TClLlr3rurOsOAOksr) | 3:56 |
 | 40 | [Ketebo](https://open.spotify.com/track/5OsYorTnhNm1Ur8GEBE6EM) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski) | [Ketebo](https://open.spotify.com/album/7jMCPgy8e0guBeCpSI8Rpj) | 2:52 |
 
-Snapshot ID: `AAAAAGW5UWOdQ4AUmIqiw6U6P1mS8Ts2`
+Snapshot ID: `AAAAANXYtXXOCTGPknKSp9wRwc489qZ4`

@@ -4,7 +4,7 @@
 
 > Smøgmænd er unge knive 🎭
 
-455 songs - 23 hr 22 min
+456 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 | 2025-07-13 |
 | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE) | 2:08 | 2024-09-05 | 2025-01-20 |
 | [cool words](https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [tense present](https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT) | 2:07 | 2026-06-04 | 2026-07-01 |
+| [Counterfeit](https://open.spotify.com/track/06AOUShyTSw86vuQPZbjcz) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [KATMORE](https://open.spotify.com/album/3XrVlXdr5JrwAQ0gLQtuBw) | 2:36 | 2026-08-20 |  |
 | [Crush](https://open.spotify.com/track/2bxy5KcIllYS4D0TSlXnNf) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Crush](https://open.spotify.com/album/2OzQaOnxPar53ymM66qm4G) | 2:46 | 2025-09-25 | 2025-10-03 |
 | [Crying In The Bathroom](https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Crying In The Bathroom](https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ) | 2:46 | 2024-11-21 | 2025-01-10 |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 | 2024-11-27 |
@@ -286,7 +287,7 @@
 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 | 2025-02-20 | 2025-04-21 |
 | [New hair, New me](https://open.spotify.com/track/0jlIGGHaXmdagLgGNsYQRk) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [New hair, New me](https://open.spotify.com/album/0dMh0YdW5h2e0uGLFxLAEs) | 2:32 | 2025-09-11 | 2025-09-19 |
 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 | 2026-03-20 |  |
-| [niu bi](https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [niu bi](https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh) | 2:19 | 2026-06-26 |  |
+| [niu bi](https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [niu bi](https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh) | 2:19 | 2026-06-26 | 2026-08-26 |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-09-05 | 2024-10-17 |
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |
 | [North](https://open.spotify.com/track/1NGusiS2w1O7tmJPgBfDTi) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [shortcuts](https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371) | 2:52 | 2026-02-05 | 2026-03-03 |

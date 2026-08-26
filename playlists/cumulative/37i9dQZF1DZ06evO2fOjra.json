@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 153606,
       "name": "A.D.I.D.A.S.",
       "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 288978,
       "name": "All In the Family (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
@@ -78,10 +78,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 256853,
       "name": "Alone I Break",
       "url": "https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62394,
+      "name": "Am I Going Crazy",
+      "url": "https://open.spotify.com/track/2B7Ip5UezkdaW31SWujvI7"
     },
     {
       "album": {
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 427986,
       "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
       "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
@@ -168,7 +186,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 234018,
       "name": "Beg for Me",
       "url": "https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65"
@@ -208,6 +226,24 @@
       "duration_ms": 241146,
       "name": "Black Is the Soul",
       "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
+    },
+    {
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230973,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/1mGIbvbKtTqWSMLAEDA6tj"
     },
     {
       "album": {
@@ -302,7 +338,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 232596,
       "name": "Children of the Korn (feat. Ice Cube)",
       "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
@@ -363,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218159,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/1WAdq62hIVZ59nUIsjAzKW"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged (Live)",
         "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
       },
@@ -392,7 +446,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 285280,
       "name": "Dead Bodies Everywhere",
       "url": "https://open.spotify.com/track/6vsyag9kEPckt19NClSf51"
@@ -410,7 +464,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 244493,
       "name": "Did My Time",
       "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
@@ -446,7 +500,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 170373,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
@@ -464,7 +518,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 214666,
       "name": "Everything I've Known",
       "url": "https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ"
@@ -518,7 +572,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 270920,
       "name": "Falling Away from Me",
       "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
@@ -641,6 +695,24 @@
     },
     {
       "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287363,
+      "name": "H@rd3r",
+      "url": "https://open.spotify.com/track/3CrRFQfOIek5ImjatYqfx0"
+    },
+    {
+      "album": {
         "name": "The Paradigm Shift (World Tour Edition)",
         "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
       },
@@ -713,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224682,
+      "name": "Hey Daddy",
+      "url": "https://open.spotify.com/track/0mso7AHSDbdMadC1wCVhcu"
+    },
+    {
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
       },
@@ -742,7 +832,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 229853,
       "name": "Hypocrites",
       "url": "https://open.spotify.com/track/78HoIdDPqfWWAuRy7oNmq5"
@@ -760,7 +850,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 278925,
       "name": "Idiosyncrasy",
       "url": "https://open.spotify.com/track/324feiafM58soZXlBMVT1u"
@@ -868,7 +958,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 221229,
       "name": "Let's Get This Party Started",
       "url": "https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc"
@@ -886,10 +976,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 254760,
       "name": "Liar",
       "url": "https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq"
+    },
+    {
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/5IXL71UnulglAsz8JvIN0k"
     },
     {
       "album": {
@@ -944,6 +1052,24 @@
       "duration_ms": 243106,
       "name": "Love & Meth",
       "url": "https://open.spotify.com/track/1Y74SC05mNh4jS6XLjxh1X"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Love & Meth",
+      "url": "https://open.spotify.com/track/3jS8S1ApybJ64EvGwfZRqy"
     },
     {
       "album": {
@@ -1028,6 +1154,24 @@
     {
       "album": {
         "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221001,
+      "name": "Never Never",
+      "url": "https://open.spotify.com/track/5O3eogyg5rC0tb9YlaQxVM"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
         "url": "https://open.spotify.com/album/2O7NeYeqcV0nBEVFk1EpuF"
       },
       "artists": [
@@ -1056,10 +1200,28 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 211566,
       "name": "No Place to Hide",
       "url": "https://open.spotify.com/track/5PgNUYXmICNOudPFWLIuw3"
+    },
+    {
+      "album": {
+        "name": "Korn III: Remember Who You Are (Special Edition)",
+        "url": "https://open.spotify.com/album/2WuADVcxasM1VvDfnwiACn"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Oildale (Leave Me Alone)",
+      "url": "https://open.spotify.com/track/40jCPYWzUkcqwSL7EzUfDW"
     },
     {
       "album": {
@@ -1117,6 +1279,42 @@
     },
     {
       "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120878,
+      "name": "Porno Creep",
+      "url": "https://open.spotify.com/track/43nRVbzhqOB3vlyLXLwLcO"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252565,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/27qsQGjOEBiVoZJB1ViI4Y"
+    },
+    {
+      "album": {
         "name": "The Paradigm Shift (Deluxe)",
         "url": "https://open.spotify.com/album/2O7NeYeqcV0nBEVFk1EpuF"
       },
@@ -1164,7 +1362,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 215993,
       "name": "Prey for Me",
       "url": "https://open.spotify.com/track/4J6K4ZMQvJRibLLtlOlndI"
@@ -1254,7 +1452,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 227590,
       "name": "Somebody Someone",
       "url": "https://open.spotify.com/track/4V78u7Pbx6G33eej60wwOK"
@@ -1297,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218702,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/2xLdx3Yex8tNuxObXAvPVl"
+    },
+    {
+      "album": {
         "name": "The Serenity of Suffering",
         "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
@@ -1308,7 +1524,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 180160,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/3cdaqIaPz4QMr8lTu4PYrv"
@@ -1362,7 +1578,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 206870,
       "name": "Trash",
       "url": "https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB"
@@ -1380,7 +1596,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 49223,
       "name": "Twist",
       "url": "https://open.spotify.com/track/07xFWwKPOApMS56ildsV0G"
@@ -1522,7 +1738,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 197906,
       "name": "Y'all Want a Single",
       "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"

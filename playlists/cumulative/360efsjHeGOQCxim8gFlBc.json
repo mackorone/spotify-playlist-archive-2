@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "del mar",
+        "url": "https://open.spotify.com/album/3HKkwlFcu6NHp4fgiNtnbc"
+      },
+      "artists": [
+        {
+          "name": "emerson MC",
+          "url": "https://open.spotify.com/artist/0lj5TPEopsS4dGT1triwf5"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107080,
+      "name": "del mar",
+      "url": "https://open.spotify.com/track/1TmNJdWhmdFf526Nc8pRK6"
+    },
+    {
+      "album": {
         "name": "Del Mar",
         "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
       },
@@ -3704,7 +3722,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 160064,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
@@ -6978,10 +6996,32 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 130000,
       "name": "Hiver (5:14)",
       "url": "https://open.spotify.com/track/56VnAXOYj5OLUZyjJFoOqI"
+    },
+    {
+      "album": {
+        "name": "Hiver (5:14)",
+        "url": "https://open.spotify.com/album/2MNWgkdTN4uV5hcMV9KCyY"
+      },
+      "artists": [
+        {
+          "name": "Paul Drilhon",
+          "url": "https://open.spotify.com/artist/6dNS9L2t0kM6RqjQ9gkblT"
+        },
+        {
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Hiver (5:14)",
+      "url": "https://open.spotify.com/track/0hdPReYgvJNMXcE1jI3A1s"
     },
     {
       "album": {

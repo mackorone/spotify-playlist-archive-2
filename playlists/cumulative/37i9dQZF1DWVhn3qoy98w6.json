@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Sita Rizzi.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Radio Palmer.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -29697,6 +29697,24 @@
     },
     {
       "album": {
+        "name": "comosuena",
+        "url": "https://open.spotify.com/album/1dyNSsoF1yXnvgbz0qpoG8"
+      },
+      "artists": [
+        {
+          "name": "gazza",
+          "url": "https://open.spotify.com/artist/3TkBIHe8ZsDQLtuAOH5Xee"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106046,
+      "name": "comosuena",
+      "url": "https://open.spotify.com/track/2qEeGTBlpm1b86PcXN9m85"
+    },
+    {
+      "album": {
         "name": "Compasi\u00f3n por m\u00ed",
         "url": "https://open.spotify.com/album/3v70KIlnvLhB1SfKVOQQWz"
       },
@@ -30993,6 +31011,24 @@
     },
     {
       "album": {
+        "name": "contracorrent",
+        "url": "https://open.spotify.com/album/07Ztus2cmZyOTAh0WrN7MR"
+      },
+      "artists": [
+        {
+          "name": "Tura Sala",
+          "url": "https://open.spotify.com/artist/6ToRxr9Rri0tJpgKO2a3Kc"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196548,
+      "name": "contracorrent",
+      "url": "https://open.spotify.com/track/55I40bxKqnn6hVdA1nwiQm"
+    },
+    {
+      "album": {
         "name": "El Barroco",
         "url": "https://open.spotify.com/album/3JIuKdqem9vx7UpWLsQf6F"
       },
@@ -31200,6 +31236,24 @@
       "duration_ms": 244546,
       "name": "Copa de Ron",
       "url": "https://open.spotify.com/track/2kbjUG4LgY9QvJKpy6DxDi"
+    },
+    {
+      "album": {
+        "name": "Copa de Vino",
+        "url": "https://open.spotify.com/album/3eKEdQWvkam3ziJYcY6ew6"
+      },
+      "artists": [
+        {
+          "name": "WISTIMBER",
+          "url": "https://open.spotify.com/artist/2PCvP0taREKGddHdNdQuuY"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192987,
+      "name": "Copa de Vino",
+      "url": "https://open.spotify.com/track/2ugI1Acm46zkTfejjgLB3l"
     },
     {
       "album": {
@@ -35474,6 +35528,24 @@
       "duration_ms": 233066,
       "name": "DAME UN BESITO",
       "url": "https://open.spotify.com/track/2MA7sCWNMeQb2ydEahUGfL"
+    },
+    {
+      "album": {
+        "name": "dame un break",
+        "url": "https://open.spotify.com/album/5bM3L4Kr0QhbYt2kftvNTq"
+      },
+      "artists": [
+        {
+          "name": "julianderrosa",
+          "url": "https://open.spotify.com/artist/79MnX75tPBcHeJO3RvxUBb"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156505,
+      "name": "dame un break",
+      "url": "https://open.spotify.com/track/3w8rE2p6A1LO3c2T0i3a3H"
     },
     {
       "album": {
@@ -69486,7 +69558,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 102797,
       "name": "kascov",
       "url": "https://open.spotify.com/track/6u4C0zTLKiqW1ccpqeSTmI"
@@ -84068,7 +84140,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 220653,
       "name": "Madrug\u00e1",
       "url": "https://open.spotify.com/track/40WrWsJMaMfMqrMQpUiqXn"
@@ -91894,7 +91966,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 147008,
       "name": "Mi odio para el bien com\u00fan",
       "url": "https://open.spotify.com/track/55CwDJQl6bbI9CJMPPzRMy"
@@ -92514,7 +92586,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 201490,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/6NvyNlnRhvh6zGXDcooKHH"
@@ -151636,7 +151708,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 222921,
       "name": "un par de meses",
       "url": "https://open.spotify.com/track/1nPw474l9n9xq7TLXSMeg5"
@@ -153478,6 +153550,24 @@
       "duration_ms": 205588,
       "name": "uY",
       "url": "https://open.spotify.com/track/0QD6Gx1wmaF7OIJtp59VcA"
+    },
+    {
+      "album": {
+        "name": "UY!",
+        "url": "https://open.spotify.com/album/48sk7I4E0U1jHg35gWxwEN"
+      },
+      "artists": [
+        {
+          "name": "Liss Da Silva",
+          "url": "https://open.spotify.com/artist/3KgQkoPYmz7e7Gvfj7ikd0"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145125,
+      "name": "UY!",
+      "url": "https://open.spotify.com/track/2hOKSFNcIFeHqHnzXwFmoV"
     },
     {
       "album": {

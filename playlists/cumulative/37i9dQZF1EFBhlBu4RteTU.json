@@ -2023,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "Make A Wrong Thing Right",
+        "url": "https://open.spotify.com/album/4e9LOxXVet8ISPNk12TcYx"
+      },
+      "artists": [
+        {
+          "name": "The Aston Shuffle",
+          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
+        },
+        {
+          "name": "Micah Powell",
+          "url": "https://open.spotify.com/artist/3eDRato4k4YzdQ1hpYen7b"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193220,
+      "name": "Make A Wrong Thing Right",
+      "url": "https://open.spotify.com/track/55OpD0QyDVt3WbjG1yAJY1"
+    },
+    {
+      "album": {
         "name": "Make A Wrong Thing Right (feat. Micah Powell)",
         "url": "https://open.spotify.com/album/0BOKpJA92WO1AsdcxKsjrs"
       },
@@ -2038,7 +2060,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 193220,
       "name": "Make A Wrong Thing Right (feat. Micah Powell)",
       "url": "https://open.spotify.com/track/0LMWZM8GzQGBNWGrsncEYU"

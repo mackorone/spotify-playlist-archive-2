@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 200223,
       "name": "Against All Odds (Take A Look at Me Now) (feat. Westlife)",
       "url": "https://open.spotify.com/track/2IyiRal9MIYZHDTqNKr6os"
@@ -85,6 +85,60 @@
     },
     {
       "album": {
+        "name": "World of Our Own (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265440,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4BQkuQf137KXMFUN825hBG"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0zfK1gyZipv83K4v8phlpH"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Beautiful Tonight",
+      "url": "https://open.spotify.com/track/14tUzpNRr6cgGaBarJyDBr"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241049,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/69WehikArL9eByV3BFgC9A"
+    },
+    {
+      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/51Jg1cyS6FNx1H87waLmXH"
       },
@@ -114,10 +168,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 261893,
       "name": "Bop Bop Baby",
       "url": "https://open.spotify.com/track/7dHldWPBFycgIl14iuItAi"
+    },
+    {
+      "album": {
+        "name": "Smash! Vol. 17",
+        "url": "https://open.spotify.com/album/0KtIoV9Ehc1Y64gVx1RMu1"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268906,
+      "name": "Bop Bop Baby - Single Remix",
+      "url": "https://open.spotify.com/track/4AOMznZhzx3S5vDykk1AVq"
     },
     {
       "album": {
@@ -168,7 +240,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 242973,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5gvUYDgFENYTHoNlLhNCqc"
@@ -290,6 +362,28 @@
         {
           "name": "Westlife",
           "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        },
+        {
+          "name": "WIP Manchester",
+          "url": "https://open.spotify.com/artist/5WdTGCK8Ze2nhgZcmvTRGo"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253706,
+      "name": "I Have a Dream - Remix",
+      "url": "https://open.spotify.com/track/0snXoaOiQv9HR83zUdhv2e"
+    },
+    {
+      "album": {
+        "name": "Coast To Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
         }
       ],
       "date_added": "2025-10-28",
@@ -298,6 +392,24 @@
       "duration_ms": 208600,
       "name": "I Lay My Love on You - Remix",
       "url": "https://open.spotify.com/track/0V82wcNlunw76nvvmPL9tk"
+    },
+    {
+      "album": {
+        "name": "Westlife",
+        "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/12404kHw6YwKa71fpOnkgH"
     },
     {
       "album": {
@@ -312,7 +424,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 247266,
       "name": "I Wanna Grow Old with You",
       "url": "https://open.spotify.com/track/1CNj54KmvgzHzDy7QGzrRt"
@@ -330,7 +442,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 258506,
       "name": "I'm Already There",
       "url": "https://open.spotify.com/track/70DYBBLSo10FpIYjc6Cl7A"
@@ -352,6 +464,42 @@
       "duration_ms": 221266,
       "name": "If I Let You Go - Radio Edit",
       "url": "https://open.spotify.com/track/3St0RlsL0Z0klK1mqWakQm"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3Z0GoMth2yYlhPX6kB6vle"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227577,
+      "name": "Last Mile of the Way",
+      "url": "https://open.spotify.com/track/1e1VP5SnZlJjZgdwZxYkoL"
     },
     {
       "album": {
@@ -418,9 +566,27 @@
           "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
         }
       ],
-      "date_added": "2025-10-28",
+      "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/6K7l63LAsXOdaGVJfZl1Wa"
+    },
+    {
+      "album": {
+        "name": "Westlife",
+        "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
       "duration_ms": 234840,
       "name": "More than Words",
       "url": "https://open.spotify.com/track/4DdXHK3z3vb7kPNIisCp3K"
@@ -442,6 +608,24 @@
       "duration_ms": 231760,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g"
+    },
+    {
+      "album": {
+        "name": "Where We Are",
+        "url": "https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "No More Heroes",
+      "url": "https://open.spotify.com/track/4UmKGVZ35aLiNwiPri3y2P"
     },
     {
       "album": {
@@ -474,10 +658,46 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 210160,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/13S85ASCmpJMdwM9rgaRUa"
+    },
+    {
+      "album": {
+        "name": "Westlife",
+        "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/1KVhwSjfkQLKpfHYbHfZOm"
+    },
+    {
+      "album": {
+        "name": "Coast To Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Puzzle of My Heart",
+      "url": "https://open.spotify.com/track/3rn07BEDuQLxbpKsStMido"
     },
     {
       "album": {
@@ -528,10 +748,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 248040,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6"
+    },
+    {
+      "album": {
+        "name": "Where We Are",
+        "url": "https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/5PRnMwcqQuHzlRU14QRUN6"
     },
     {
       "album": {
@@ -604,7 +842,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 248240,
       "name": "Swear It Again - Radio Edit",
       "url": "https://open.spotify.com/track/4ekWUsmWMaT5EI3VL0epBk"
@@ -788,7 +1026,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 230400,
       "name": "What Makes a Man",
       "url": "https://open.spotify.com/track/3W2QKq6ks7QInnM9j4pOBt"
@@ -810,7 +1048,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 236240,
       "name": "When You Tell Me That You Love Me (with Diana Ross)",
       "url": "https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6"
@@ -828,7 +1066,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 232826,
       "name": "When You're Looking Like That - Single Remix",
       "url": "https://open.spotify.com/track/5t3oszlshIPTzpAwcCMqgw"
@@ -864,10 +1102,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 218146,
       "name": "Why Do I Love You",
       "url": "https://open.spotify.com/track/5VOCNmhLyo0goDbA2DMAGs"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221043,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/403z6YSxc0GydfKdma0Gsg"
     },
     {
       "album": {
@@ -882,7 +1138,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 211413,
       "name": "World of Our Own",
       "url": "https://open.spotify.com/track/4SAHTVRe6EBhgAOWl49yPf"
@@ -900,7 +1156,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 250066,
       "name": "Written in the Stars",
       "url": "https://open.spotify.com/track/6cGfYPEmADL7vquaizoCPQ"

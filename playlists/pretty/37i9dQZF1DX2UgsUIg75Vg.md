@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Lucky Daye
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,370,514 likes - 250 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,370,545 likes - 250 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 249 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
 | 250 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 |
 
-Snapshot ID: `AAAAAIDkZzeujMM5dDdg7KtSMMx6mydz`
+Snapshot ID: `AAAAANi9wAtUabnXs4irSRFxpkxx7MZB`

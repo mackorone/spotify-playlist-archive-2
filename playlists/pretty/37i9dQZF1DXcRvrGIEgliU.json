@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 19263,
+  "num_followers": 19294,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPBFYXgU+VYLx6ySVOKTlVkmHf+n",
+  "snapshot_id": "AAAAAENKoRUR8pOBqPxZN1/Io11C2yed",
   "tracks": [
     {
       "added_at": "2025-05-19 03:00:14",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 129599,
-      "name": "Go Fuck Yourself",
-      "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "deep in it",
         "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Big Day",
+        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
         "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Big Day",
-        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Emily Can't Sing",
-        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 198426,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Emily Can't Sing",
+        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Groundhog Day",
-        "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 173619,
-      "name": "Groundhog Day",
-      "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Box for Buddy, Box for Star",
         "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 273460,
       "name": "I'm All Fucked Up",
       "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 173619,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -1987,18 +2003,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2015,22 +2031,6 @@
       "duration_ms": 207307,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 255711,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "eyes don\u2019t lie",
         "url": "https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y"
       },
@@ -2435,38 +2451,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 255711,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "gimme all ur luv",
-      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "gimme all ur luv",
+      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
     },
     {
       "added_at": "2025-05-19 03:00:14",

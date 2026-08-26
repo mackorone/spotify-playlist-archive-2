@@ -58,6 +58,6 @@
 | [To be together from Danielle](https://open.spotify.com/track/6yujZ98NxEnGXSFCY7wZqv) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liner \(2nd anniversary\)](https://open.spotify.com/album/6eyBYgYD8ctMGYQhWbQYoS) | 0:16 | 2024-07-22 |  |
 | [We love you all from Hyein](https://open.spotify.com/track/4BHz2R0RNd50mjy0RQzApH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liner \(2nd anniversary\)](https://open.spotify.com/album/6eyBYgYD8ctMGYQhWbQYoS) | 0:12 | 2024-07-22 |  |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-07-21 |  |
-| [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2023-07-21 |  |
+| [Zero \- J.I.D Remix](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2023-07-21 |  |
 
 \*This playlist was first scraped on 2023-07-22. Prior content cannot be recovered.

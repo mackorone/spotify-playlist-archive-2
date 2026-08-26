@@ -4,7 +4,7 @@
 
 > Les hits du moment en Algérie\. Cover: Soolking
 
-284 songs - 16 hr 58 min
+285 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Hakka Hakka](https://open.spotify.com/track/5Xo8NlagOmUUBAZ0JJGOSP) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Hakka Hakka](https://open.spotify.com/album/0ooJf7urTBp0BY4HVV9dUH) | 4:41 | 2026-08-01 |  |
 | [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 | 2025-05-22 |  |
 | [Halef](https://open.spotify.com/track/28kzTkgv60LFKbEGwdFgYa) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch), [Albaa](https://open.spotify.com/artist/3c0hnWjJw7lqYApYq7ihdT) | [Halef](https://open.spotify.com/album/5wq51CWjGXTao5FkGZe8Tv) | 3:30 | 2022-11-26 | 2023-03-07 |
-| [Hana](https://open.spotify.com/track/65HxtT2k0HH0iXxDkZcBk9) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Eklektika](https://open.spotify.com/album/2eJlyrJrorOon92OKkIthh) | 3:45 | 2024-08-28 |  |
+| [Hana](https://open.spotify.com/track/65HxtT2k0HH0iXxDkZcBk9) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Eklektika](https://open.spotify.com/album/2eJlyrJrorOon92OKkIthh) | 3:45 | 2024-08-28 | 2026-08-26 |
 | [Harami](https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp) | [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t) | [Harami](https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ) | 2:24 | 2024-06-04 | 2024-12-24 |
 | [Harba II](https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa) | [Abdou hk](https://open.spotify.com/artist/3B344rrWCr0O5ogBKZeO59), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Harba II](https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq) | 3:22 | 2021-12-09 | 2023-05-11 |
 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 | 2023-07-07 | 2024-07-19 |
@@ -283,6 +283,7 @@
 | [اصبر أقلبي صبار \- Guitar Version](https://open.spotify.com/track/7GypUUjgqKRhIyoEWwMVuP) | [Maghreb production](https://open.spotify.com/artist/3Yp7wA52nMHtiFJg9aNjdV) | [اصبر أقلبي صبار \(Guitar Version\)](https://open.spotify.com/album/5zF8zGfl20GPsBYbSrBucQ) | 12:39 | 2023-01-13 | 2023-02-01 |
 | [الدنيا هاذي ما لها \- مسلسل المهاجر](https://open.spotify.com/track/6twYUSdwoerw8xZplXDo97) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [الدنيا هاذي ما لها \(مسلسل المهاجر\)](https://open.spotify.com/album/1o7NTj1kogzPEsfqTXjwn3) | 3:47 | 2026-03-10 | 2026-08-04 |
 | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/track/3jyyG3x2WlkQu2V23gWTjl) | [Cheb Badro](https://open.spotify.com/artist/77ajZbWMJ87JLLMVUPZDy3) | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/album/6ogfT1oeL9zSNqfWWjcgxP) | 5:30 | 2025-07-04 | 2026-08-04 |
+| [جولة عالمية](https://open.spotify.com/track/60fVXaahM5ltZMlqwGfrFf) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS), [Cheb Bilal Babilo](https://open.spotify.com/artist/3MMKmlO9H90sJKKtsCqzOV) | [جولة عالمية](https://open.spotify.com/album/03g113Z4kZ8YwVfHPyOfU7) | 4:37 | 2026-08-25 |  |
 | [خانو الامانة](https://open.spotify.com/track/5dljMPVyN4wzDiIa20IMzd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [خانو الامانة](https://open.spotify.com/album/25Q5U0yO0Rxti9G6SO50l7) | 4:11 | 2023-08-14 | 2023-08-19 |
 | [درجة درجة](https://open.spotify.com/track/4NNRo1LtV9ndhNbCFohprQ) | [Fares LÜNN](https://open.spotify.com/artist/0LsY50DXw2einabxwLuMKe) | [درجة درجة](https://open.spotify.com/album/7igRk3HV35Tnx4HKg6Hkot) | 3:12 | 2024-02-28 | 2024-07-19 |
 | [راني متوحشها](https://open.spotify.com/track/5eKSdvnmJ37bmmx6Fc0roG) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [راني متوحشها](https://open.spotify.com/album/2SOLAAC856WVMRVBI8RGzD) | 4:38 | 2023-02-24 | 2023-03-21 |

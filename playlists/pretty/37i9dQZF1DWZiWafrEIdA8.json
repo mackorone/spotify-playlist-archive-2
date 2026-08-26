@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15309,
+  "num_followers": 15313,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXuh5g4v5z5xKHjECQucxAbswNW",
+  "snapshot_id": "AAAAANN/vFX7gq+3FABKlsDyKPV1Idxh",
   "tracks": [
     {
       "added_at": "2026-07-24 08:44:23",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
         "name": "TO DIE FOR",
         "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 175716,
       "name": "Dare to Love (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2026-07-24 08:44:23",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
-        "name": "[Hwa Sa Show Vol.1] just talking to myself",
-        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "just talking to myself",
-      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
         "name": "The Movie Star",
         "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 220266,
       "name": "Transcend (Feat. C JAMM)",
       "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
+        "name": "[Hwa Sa Show Vol.1] just talking to myself",
+        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "just talking to myself",
+      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
     },
     {
       "added_at": "2026-07-24 08:44:23",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 269000,
       "name": "It's Gone",
       "url": "https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244584,
-      "name": "Black Happiness",
-      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

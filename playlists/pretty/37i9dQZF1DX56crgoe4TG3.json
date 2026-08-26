@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 286069,
+  "num_followers": 286105,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADgnjevcuHRYdHvh0JDOrwTW1KFy",
+  "snapshot_id": "AAAAAHUytj74+rs+Tiq2pzA/DJiYS1Vq",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:18",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
-      },
-      "artists": [
-        {
-          "name": "Southern Raised",
-          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
-        }
-      ],
-      "duration_ms": 219007,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "duration_ms": 219007,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Red On Blonde",
         "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 242760,
       "name": "Senor (Tales Of Yankee Power)",
       "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Aerials",
-        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 228490,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -479,6 +479,22 @@
       "duration_ms": 261413,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Aerials",
+        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 228490,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Colors of the Wind",
-        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Colors of the Wind",
-      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 236401,
       "name": "How Long Gone (with The Earls of Leicester)",
       "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Royals (Bluegrass Cover)",
-        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Grass Players",
-          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
-        }
-      ],
-      "duration_ms": 396714,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Yellow Ledbetter",
         "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 245120,
       "name": "Yellow Ledbetter",
       "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Royals (Bluegrass Cover)",
+        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Grass Players",
+          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
+        }
+      ],
+      "duration_ms": 396714,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "The Set",
-        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 356484,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 230454,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "The Set",
+        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 356484,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "All Will Be Well",
         "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Me and Bobby McGee (2024 Mix)",
-        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
       },
       "artists": [
         {
-          "name": "Tompall & The Glaser Brothers",
-          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 396516,
-      "name": "Me and Bobby McGee (2024 Mix)",
-      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Me and Bobby McGee (2024 Mix)",
+        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
+      },
+      "artists": [
+        {
+          "name": "Tompall & The Glaser Brothers",
+          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
+        }
+      ],
+      "duration_ms": 396516,
+      "name": "Me and Bobby McGee (2024 Mix)",
+      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 167827,
       "name": "Norwegian Wood (This Bird Has Flown)",
       "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Coalmine",
-      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1499,6 +1483,22 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 203416,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1791,22 +1791,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
+        "name": "Guess I'm Doing Fine",
+        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
       "artists": [
         {
-          "name": "Shar Carillo",
-          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         },
         {
-          "name": "Loke",
-          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 243789,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
+      "duration_ms": 280441,
+      "name": "Guess I'm Doing Fine",
+      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
     }
   ],
   "unique_name": "Bluegrass Covers",

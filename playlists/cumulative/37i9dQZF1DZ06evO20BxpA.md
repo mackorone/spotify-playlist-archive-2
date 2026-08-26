@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-175 songs - 8 hr 0 min
+176 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 | 2024-11-27 |  |
 | [Here I Am Nothing](https://open.spotify.com/track/2fsVTeVYxRSqgVirtjupvB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 1:45 | 2025-01-29 | 2025-03-11 |
 | [Hidden Beneath the Waves](https://open.spotify.com/track/3uHLRCa9yJsSebHIev9sxr) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:07 | 2026-05-28 | 2026-06-11 |
-| [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 | 2024-04-20 |  |
+| [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 | 2024-04-20 | 2026-08-26 |
 | [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 | 2023-08-04 | 2026-06-25 |
 | [I Am Already Dead](https://open.spotify.com/track/21r0HnaWOdihO4MZOT5FqY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:16 | 2025-03-15 | 2025-03-17 |
 | [I Can Live In Hope](https://open.spotify.com/track/0DplUTi3q9CTo73WSsQbFX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:13 | 2025-01-22 | 2025-02-18 |
@@ -80,6 +80,7 @@
 | [Is This Mercy?](https://open.spotify.com/track/543gCwDA6Ad6qndc6JdsmQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 3:34 | 2025-01-27 | 2025-09-24 |
 | [ISS](https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 2:53 | 2024-03-15 | 2026-08-10 |
 | [It is My Great Hope](https://open.spotify.com/track/0YuygtIxt3dYhprMPhx4ZS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:03 | 2025-08-14 | 2026-03-04 |
+| [It Is Really Super Easy to Lose](https://open.spotify.com/track/6kyVqqkiGzNjYJ07YZu1uO) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:22 | 2026-08-26 |  |
 | [It Is The Law](https://open.spotify.com/track/7sZsdoPTOOWMyK5huLCTWL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 2:15 | 2025-01-30 | 2025-03-10 |
 | [It's Good to Meet New People](https://open.spotify.com/track/1MIzdetw6fjVZorGWKeROJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:22 | 2023-10-04 | 2025-04-10 |
 | [Italian Marble](https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:28 | 2023-09-25 | 2024-02-29 |

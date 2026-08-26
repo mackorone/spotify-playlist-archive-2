@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,174 likes - 79 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,213 likes - 79 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 7 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
 | 8 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 9 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
-| 10 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 10 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 11 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
 | 12 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
 | 13 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [Knight In Shining Prada](https://open.spotify.com/track/3liYWWSuD0zcytDMrUqsEq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [John Joseph Holt](https://open.spotify.com/artist/3unwE3gwoHwyvsUnSUAGVC) | [Knight In Shining Prada](https://open.spotify.com/album/1nGTvi4XveHqEitXJHfOiQ) | 4:17 |
 | 79 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
 
-Snapshot ID: `AAAAANSLBuR3bN3cpQUfunazvsMBNLiy`
+Snapshot ID: `AAAAAG5KASvuFzH0uHmx17u84GyK2JkN`

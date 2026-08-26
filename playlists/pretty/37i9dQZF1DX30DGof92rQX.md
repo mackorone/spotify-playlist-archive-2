@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Third Fret
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,584 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,610 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 78 | [Holoyor \(feat\. Sherry Khattak\)](https://open.spotify.com/track/5UHwUAoOyE8S0zEuca2EBp) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Naveed Deevon](https://open.spotify.com/artist/4f5bivm9DnhRvOLqMWKtQ9), [Gojal Twins](https://open.spotify.com/artist/0fBSjQHjx2LysrtNnYpwMd), [Sherry Khattak](https://open.spotify.com/artist/2diSCa9Rt1feixkDPgDWux) | [Holoyor \(feat\. Sherry Khattak\)](https://open.spotify.com/album/67agZ8nMtUH2YboHhmuktg) | 7:12 |
 | 79 | [Cassette of Love](https://open.spotify.com/track/62LGm3TsA40z1uC0AuHaOq) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Real Sheikh](https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR) | [Cassette of Love](https://open.spotify.com/album/1WDKvknGpW5EbkOnXKtAlo) | 2:59 |
 | 80 | [Judai](https://open.spotify.com/track/0dIc1TF9GOxbtZtl1lmr5c) | [Saad Hassan](https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T) | [Judai](https://open.spotify.com/album/2ktS1jruDiSf9eBF7snNWz) | 2:53 |
-| 81 | [Tanha](https://open.spotify.com/track/3QCbyOLcS5vVoTMQhhyRT5) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju) | [Tanha](https://open.spotify.com/album/19uOoW5bsgN8TOz1mogsJs) | 3:27 |
+| 81 | [Tanha](https://open.spotify.com/track/3QCbyOLcS5vVoTMQhhyRT5) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Sabaat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju) | [Tanha](https://open.spotify.com/album/19uOoW5bsgN8TOz1mogsJs) | 3:27 |
 | 82 | [Akhri Baar](https://open.spotify.com/track/6K093cKQBo3JWoX5OPP1uY) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6) | [Akhri Baar](https://open.spotify.com/album/6WaYC52DAxJZ0JeoUNQgVg) | 2:18 |
 | 83 | [Alvida](https://open.spotify.com/track/25ftdkpJMoyZXiJcueBzRP) | [Rafae Bokhari](https://open.spotify.com/artist/1zNTZaTb1hfkZCynCw6kUq) | [Alvida](https://open.spotify.com/album/05nEffZiDSlbeQyRUoNzbO) | 3:52 |
 | 84 | [Beparwah](https://open.spotify.com/track/62r0w5121mESNmWnMDvbCy) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq) | [Beparwah](https://open.spotify.com/album/4L0Y6PqyflUseFxypyRuvv) | 3:57 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 94 | [Main Wo Nahi](https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Main Wo Nahi](https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ) | 3:51 |
 | 95 | [Jaise Hoor Aasmaani](https://open.spotify.com/track/3hfnqcRYwyXCHBE0NIcckI) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E) | [Jaise Hoor Aasmaani](https://open.spotify.com/album/4R5Q1p8qNkXEyKtmOmTnvA) | 2:52 |
 
-Snapshot ID: `AAAAAF9WZtqkmCzkrMS5dgzO6Gqvptyo`
+Snapshot ID: `AAAAAJPwXClRHU5WPjCZHuD5BFqjvN4j`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 
 > Ballads from the best shows, from the West End and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,021 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,026 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 | 49 | [I'm Not That Girl \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/6J2ZT1S0t9kMGQQJUIKQJz) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked](https://open.spotify.com/album/46VuziW5kL9Hrt5NlJtLjY) | 2:58 |
 | 50 | [The Letter/Only a Matter of Time \(reprise\)](https://open.spotify.com/track/3GEX4HJcIcUByrEdMDp2hw) | [Olly Dobson](https://open.spotify.com/artist/2MKDnkJRt2edRbWYow65iI), [Courtney\-Mae Briggs](https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr) | [Back to the Future: The Musical](https://open.spotify.com/album/5cfiZFpFlkL6hazHrRV2Bi) | 3:42 |
 
-Snapshot ID: `AAAAAIyO4vdI7lvgSFGneeAZGg8hKu6p`
+Snapshot ID: `AAAAAI7nhtKw0YwVliMxOFLeWWqRaLIG`

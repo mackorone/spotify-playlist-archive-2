@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117269,
+  "num_followers": 117276,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMAHGxIRTZmPvmURxsHcc+spzyjL",
+  "snapshot_id": "AAAAAN4EUF1QKylpTXszuFJe+FK0y1kr",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Recovering The Satellites",
         "url": "https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 295066,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Too Far To Care",
-        "url": "https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "It Had To Happen",
         "url": "https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 439440,
       "name": "No More Buffalo",
       "url": "https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Too Far To Care",
+        "url": "https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 188746,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Satellite Rides",
-        "url": "https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "The Lights from the Chemical Plant",
         "url": "https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 167360,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Satellite Rides",
+        "url": "https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Paging Mr. Proust",
-        "url": "https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Quiet Corners & Empty Spaces",
-      "url": "https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
         "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 225866,
       "name": "You Can't Fail Me Now",
       "url": "https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Paging Mr. Proust",
+        "url": "https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Quiet Corners & Empty Spaces",
+      "url": "https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE"
     },
     {
       "added_at": "2026-06-19 04:01:42",

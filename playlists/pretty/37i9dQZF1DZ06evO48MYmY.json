@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 350003,
+  "num_followers": 350009,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACrbQ9F6iXFbjmgyyn+MwSe",
+  "snapshot_id": "aouJgAAAAADklvV/6IFF6gV4QALT1oIZ",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 145178,
-      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
-      "url": "https://open.spotify.com/track/0R0Ef3xXCpHLzwwhXX39kq"
+      "duration_ms": 137388,
+      "name": "A Hazy Shade of Winter",
+      "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 137388,
-      "name": "A Hazy Shade of Winter",
-      "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
+      "duration_ms": 167893,
+      "name": "Bleecker Street",
+      "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "Bleecker Street",
-      "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Concert in Central Park (Live)",
         "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
@@ -279,38 +263,6 @@
       "duration_ms": 282701,
       "name": "Slip Slidin' Away - Live at Central Park, New York, NY - September 19, 1981",
       "url": "https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 241721,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 135451,
-      "name": "Flowers Never Bend with the Rainfall",
-      "url": "https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO"
     },
     {
       "added_at": null,
@@ -331,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Concert in Central Park (Live)",
-        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
       "artists": [
         {
@@ -340,9 +292,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 275236,
-      "name": "American Tune - Live at Central Park, New York, NY - September 19, 1981",
-      "url": "https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk"
+      "duration_ms": 135451,
+      "name": "Flowers Never Bend with the Rainfall",
+      "url": "https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO"
     },
     {
       "added_at": null,
@@ -359,6 +311,22 @@
       "duration_ms": 197271,
       "name": "Baby Driver",
       "url": "https://open.spotify.com/track/5Bh8l8evdBSIoaK6EP1bWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 275236,
+      "name": "American Tune - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk"
     },
     {
       "added_at": null,
@@ -395,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Concert in Central Park (Live)",
-        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 138380,
-      "name": "Wake up Little Susie - Live at Central Park, New York, NY - September 19, 1981",
-      "url": "https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -423,6 +375,22 @@
       "duration_ms": 83038,
       "name": "Bookends Theme - Reprise",
       "url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 138380,
+      "name": "Wake up Little Susie - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT"
     },
     {
       "added_at": null,
@@ -459,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Concert in Central Park (Live)",
-        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 227687,
-      "name": "Me and Julio Down by the Schoolyard - Live at Central Park, New York, NY - September 19, 1981",
-      "url": "https://open.spotify.com/track/48mETFQ8n1Cq04eR32eyAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -487,6 +439,22 @@
       "duration_ms": 171659,
       "name": "The Sun Is Burning",
       "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 227687,
+      "name": "Me and Julio Down by the Schoolyard - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/48mETFQ8n1Cq04eR32eyAn"
     },
     {
       "added_at": null,
@@ -507,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
       "artists": [
         {
@@ -516,25 +484,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 117218,
-      "name": "A Poem on the Underground Wall",
-      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Concert in Central Park (Live)",
-        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 181233,
-      "name": "A Heart In New York - Live at Central Park, New York, NY - September 19, 1981",
-      "url": "https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO"
+      "duration_ms": 155477,
+      "name": "A Most Peculiar Man",
+      "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
     },
     {
       "added_at": null,
@@ -555,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
       "artists": [
         {
@@ -564,9 +516,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 155477,
-      "name": "A Most Peculiar Man",
-      "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
+      "duration_ms": 181233,
+      "name": "A Heart In New York - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO"
     },
     {
       "added_at": null,
@@ -587,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Concert in Central Park (Live)",
-        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
       },
       "artists": [
         {
@@ -596,9 +548,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 349616,
-      "name": "Kodachrome / Mabellene - Live at Central Park, New York, NY - September 19, 1981",
-      "url": "https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi"
+      "duration_ms": 194346,
+      "name": "Citizen of the Planet",
+      "url": "https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5"
     },
     {
       "added_at": null,
@@ -619,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Friends Live On Stage",
-        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
       },
       "artists": [
         {
@@ -628,9 +580,25 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Citizen of the Planet",
-      "url": "https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5"
+      "duration_ms": 349616,
+      "name": "Kodachrome / Mabellene - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 110522,
+      "name": "Song for the Asking",
+      "url": "https://open.spotify.com/track/5t9rkF7g7zIU1NFyrSJaQl"
     },
     {
       "added_at": null,
@@ -679,6 +647,22 @@
       "duration_ms": 138600,
       "name": "You Don't Know Where Your Interest Lies - Single B-Side - 1968",
       "url": "https://open.spotify.com/track/0umD849rktmP7fcXCSukYk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 130572,
+      "name": "For Emily, Whenever I May Find Her",
+      "url": "https://open.spotify.com/track/76Fcbx3T7fUgA7phUkmsn7"
     },
     {
       "added_at": null,

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272533,
+      "name": "A Sunday",
+      "url": "https://open.spotify.com/track/5a8qNDusdQ9l0VCOwIm0Dc"
+    },
+    {
+      "album": {
         "name": "Invented (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Appreciation",
       "url": "https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615"
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 188400,
       "name": "Believe In What You Want",
       "url": "https://open.spotify.com/track/1MiVBh1JWUmplMqR79UjzF"
@@ -236,7 +254,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 181493,
       "name": "Bleed American",
       "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
@@ -272,7 +290,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 180800,
       "name": "Call It In The Air",
       "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
@@ -326,7 +344,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 242693,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
@@ -434,7 +452,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 464200,
       "name": "Disintegration",
       "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
@@ -456,6 +474,24 @@
       "duration_ms": 285800,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385760,
+      "name": "Drugs Or Me",
+      "url": "https://open.spotify.com/track/7sGP1e7sW2ErNMm8WcZuV2"
     },
     {
       "album": {
@@ -506,7 +542,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 246560,
       "name": "For Me This Is Heaven",
       "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
@@ -578,7 +614,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 284373,
       "name": "Hear You Me",
       "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 273200,
       "name": "If You Don't, Don't",
       "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
@@ -686,7 +722,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 427120,
       "name": "Invented",
       "url": "https://open.spotify.com/track/0a9gDPRPLntNNowrvg4xHs"
@@ -722,7 +758,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 206373,
       "name": "Just Tonight",
       "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
@@ -740,7 +776,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 228853,
       "name": "Kill",
       "url": "https://open.spotify.com/track/6dnHFZrpQDzSAxIsnQaEcJ"
@@ -812,7 +848,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 229706,
       "name": "Lucky Denver Mint",
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
@@ -852,6 +888,24 @@
       "duration_ms": 203253,
       "name": "My Best Theory",
       "url": "https://open.spotify.com/track/62vYBYt9dJgI1Wn31iTdgC"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347866,
+      "name": "My Sundown",
+      "url": "https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0"
     },
     {
       "album": {
@@ -920,7 +974,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 181306,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
@@ -960,6 +1014,24 @@
       "duration_ms": 407026,
       "name": "Pol Roger",
       "url": "https://open.spotify.com/track/1JrSekFi8F901m1DWdx0ut"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291146,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/37xbdtHXO9DMGO4w4hLHFF"
     },
     {
       "album": {
@@ -1089,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262160,
+      "name": "Table For Glasses",
+      "url": "https://open.spotify.com/track/3fDmDqcC9UxFqCkkWGLpj8"
+    },
+    {
+      "album": {
         "name": "Telepath",
         "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
       },
@@ -1154,7 +1244,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
@@ -1176,6 +1266,24 @@
       "duration_ms": 190640,
       "name": "The Middle - Acoustic Version",
       "url": "https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301080,
+      "name": "The World You Love",
+      "url": "https://open.spotify.com/track/0x7QJxbafMDp2LaPOA0Asf"
     },
     {
       "album": {
@@ -1262,7 +1370,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 254841,
       "name": "You Are Free",
       "url": "https://open.spotify.com/track/1V0F9RsyNMbbcBPNEVk0Jm"
@@ -1305,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297866,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/6qPVMA52IHI5TjQrRrcV7t"
+    },
+    {
+      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -1316,7 +1442,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 160560,
       "name": "Your New Aesthetic",
       "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"

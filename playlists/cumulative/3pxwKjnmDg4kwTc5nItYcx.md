@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-912 songs - 2 day 1 hr 4 min
+913 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Jupiter](https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Jupiter](https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10) | 3:11 | 2020-03-21 | 2021-05-12 |
 | [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 | 2023-03-23 | 2025-08-27 |
 | [Just Give Me Your Love](https://open.spotify.com/track/1bPU8jzUkPzlF3TIdu9ElW) | [Monarchy](https://open.spotify.com/artist/4YXRO4slasYnty9nb73LrO) | [Just Give Me Your Love](https://open.spotify.com/album/5x5wWgh6ZKFiZwHi5wMmqh) | 3:25 | 2020-01-31 | 2020-05-19 |
+| [Just One](https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Just One](https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy) | 3:12 | 2026-08-25 |  |
 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 | 2020-09-11 | 2021-05-12 |
 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 | 2021-09-11 | 2025-07-17 |
 | [keep the distance](https://open.spotify.com/track/1bjQ64K1ZtY304Ud2RGqe4) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [keep the distance](https://open.spotify.com/album/061HvG8Oys8QJSf0lQrJIM) | 2:48 | 2020-08-14 | 2021-05-12 |

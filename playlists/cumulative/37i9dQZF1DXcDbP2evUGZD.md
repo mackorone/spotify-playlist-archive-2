@@ -4,11 +4,12 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2026</a>! Meet them first at the MU:CON 2026 official playlist\. \(뮤콘 2026 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-554 songs - 1 day 10 hr 44 min
+556 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#!@](https://open.spotify.com/track/2PFSxulUY52szp21w3WFWa) | [SIMILE LAND](https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82) | [OhWah!](https://open.spotify.com/album/4ETlc42ZA8eJWDM60CblJu) | 0:06 | 2026-08-19 |  |
+| [\(This is\) What love feels like](https://open.spotify.com/track/3XWEaLqkjM28llvR6q04z4) | [올디 벗 구디](https://open.spotify.com/artist/3ZmgYdwoem9RdgZ6qHCkwI) | [Oldie but Goodie](https://open.spotify.com/album/4L0Lu29EmxczduHwbAdlm4) | 4:11 | 2026-08-25 |  |
 | [+82](https://open.spotify.com/track/7amxuIEN4t82u2XTvuJzz4) | [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR), [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [HYPNOSIS THERAPY](https://open.spotify.com/album/7iHbidfgSyFUACwHgzMqoN) | 2:37 | 2024-07-12 | 2025-08-01 |
 | [1 of 9](https://open.spotify.com/track/6DB6p1dVSNWJbmrbF34icS) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [YOUNI\-BIRTH](https://open.spotify.com/album/1shJJvoHJtR28Tfd8Ebh07) | 3:19 | 2026-08-19 |  |
 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 | 2024-07-12 | 2025-08-01 |
@@ -188,6 +189,7 @@
 | [girl \(feat\. BLOO\)](https://open.spotify.com/track/3YRhajr2ECwLcCpONejGJF) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [a\-side: 90s kids never get old](https://open.spotify.com/album/1ZMeRm1XbUlsskmZMn8DKh) | 3:39 | 2022-09-27 | 2023-07-13 |
 | [Go On](https://open.spotify.com/track/3QHd6TC9rRau2lGabTO1pa) | [RYE](https://open.spotify.com/artist/1cxx3blWps3N86tFei5Yji) | [Untitled Youth](https://open.spotify.com/album/6UINEg2FXlzPV4WEDyx4Tp) | 4:20 | 2025-07-31 | 2026-08-20 |
 | [go to gpd and then](https://open.spotify.com/track/2DlTcfLi72nQzq3YtSqvMj) | [HAEPAARY](https://open.spotify.com/artist/3ltYPanqVYTC1qV0OIRaAc) | [go to gpd and then](https://open.spotify.com/album/0plcBLEmDckx6Or4MSx5Ve) | 4:26 | 2022-09-27 | 2023-07-13 |
+| [Good Ol’days](https://open.spotify.com/track/7Li5vgvhasRSW6rZ9aTQuY) | [올디 벗 구디](https://open.spotify.com/artist/3ZmgYdwoem9RdgZ6qHCkwI) | [Oldie but Goodie](https://open.spotify.com/album/4L0Lu29EmxczduHwbAdlm4) | 4:41 | 2026-08-25 |  |
 | [GOOD TIME](https://open.spotify.com/track/1GWBrJArwiD5NwIXt1NhUd) | [BULGOGI DISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [GOOD TIME](https://open.spotify.com/album/4cVZDAY1d2MKNq2rVSGjqp) | 2:15 | 2025-07-31 | 2026-08-20 |
 | [GR8EST \(Prod\. by APRO\)](https://open.spotify.com/track/5JtOF5nBbjHmcvEhFKL79F) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [YF](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [KAMBO](https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Show Me The Money 12 Final](https://open.spotify.com/album/0ggz2ubI65Fw9c9tIi27xP) | 4:42 | 2026-08-19 |  |
 | [Grace](https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 4:05 | 2023-07-12 | 2024-07-13 |

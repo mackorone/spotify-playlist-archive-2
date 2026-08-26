@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 291046,
+  "num_followers": 291063,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFeC4KklVNX6q5fHFliOPnCFcMB+",
+  "snapshot_id": "AAAAAB8rK92kbg7GFV5QTEwov40LiDdX",
   "tracks": [
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Love Me Instead",
-        "url": "https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR"
-      },
-      "artists": [
-        {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Mine All Mine",
-      "url": "https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Lovers and Leavers",
         "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Don't Forget Where You Come From",
-        "url": "https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z"
+        "name": "Love Me Instead",
+        "url": "https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR"
       },
       "artists": [
         {
-          "name": "Kyle Park",
-          "url": "https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Don't Forget Where You Come From",
-      "url": "https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1"
+      "duration_ms": 181560,
+      "name": "Mine All Mine",
+      "url": "https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1503,6 +1487,22 @@
       "duration_ms": 230106,
       "name": "New Strings",
       "url": "https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Don't Forget Where You Come From",
+        "url": "https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z"
+      },
+      "artists": [
+        {
+          "name": "Kyle Park",
+          "url": "https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Don't Forget Where You Come From",
+      "url": "https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1"
     },
     {
       "added_at": "2026-02-11 22:47:27",

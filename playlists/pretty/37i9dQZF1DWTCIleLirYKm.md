@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,090 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,149 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 77 | [I'm Just an Old Chunk of Coal \(But I'm Gonna Be a Diamond Someday\)](https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday](https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq) | 2:01 |
 | 78 | [The Road Goes On Forever](https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Love And Danger](https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A) | 4:33 |
 | 79 | [Why You Been Gone so Long](https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [A Country Star Is Born](https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae) | 3:08 |
-| 80 | [MATTER OF TIME](https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [HANDMADE HORSEPOWER](https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c) | 2:47 |
+| 80 | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq) | 4:05 |
 
-Snapshot ID: `AAAAAHCCw2USr/Ro4UqPh8Ucawm8giXz`
+Snapshot ID: `AAAAAFnlhN5h27rQc3oCZkoo8EhGcYKN`

@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 215058,
+  "num_followers": 215069,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADj6kuigv9qJ4OwYGY4BECC",
+  "snapshot_id": "aouJgAAAAAD+JGKRMCv3KQ1lPwv+LpEI",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/1ibeKVCiXORhvUpMmtsQWq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -71,54 +55,6 @@
       "duration_ms": 209666,
       "name": "War",
       "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/1lASDtTqKAfsnD6hixGKtz"
     },
     {
       "added_at": null,
@@ -139,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
@@ -148,9 +84,25 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 291360,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/1lASDtTqKAfsnD6hixGKtz"
     },
     {
       "added_at": null,
@@ -167,6 +119,22 @@
       "duration_ms": 149306,
       "name": "Over My Head (Better Off Dead)",
       "url": "https://open.spotify.com/track/40sl0jG01g4FZkCrBzQhZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 291360,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"
     },
     {
       "added_at": null,
@@ -203,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Underclass Hero",
-      "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck",
         "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
       },
@@ -231,6 +183,22 @@
       "duration_ms": 218946,
       "name": "We're All To Blame",
       "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Underclass Hero",
+      "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
     },
     {
       "added_at": null,
@@ -267,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -279,22 +263,6 @@
       "duration_ms": 286373,
       "name": "Walking Disaster",
       "url": "https://open.spotify.com/track/7xuhVUJmBpHR276Yc7AsgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Noots",
-      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
     },
     {
       "added_at": null,
@@ -331,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Noots",
+      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -343,22 +327,6 @@
       "duration_ms": 265786,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
     },
     {
       "added_at": null,
@@ -407,22 +375,6 @@
       "duration_ms": 243098,
       "name": "Breaking The Chain",
       "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05"
     },
     {
       "added_at": null,
@@ -491,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+        "name": "Half Hour Of Power",
+        "url": "https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH"
       },
       "artists": [
         {
@@ -500,15 +452,15 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Speak Of The Devil",
-      "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
+      "duration_ms": 160173,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
       "artists": [
         {
@@ -516,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Rhythms",
-      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
     },
     {
       "added_at": null,
@@ -555,38 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Hour Of Power",
-        "url": "https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -599,22 +519,6 @@
       "duration_ms": 181613,
       "name": "So Long Goodbye",
       "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 125514,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
     },
     {
       "added_at": null,
@@ -635,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Nothing On My Back",
-      "url": "https://open.spotify.com/track/4C1BEMFeThTt2pTxu1nZPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -663,6 +551,22 @@
       "duration_ms": 199920,
       "name": "Crash",
       "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 125514,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
     },
     {
       "added_at": null,
@@ -683,22 +587,6 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Killer No Filler (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6kkD5XCCkjk9zkafiOwPrY"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 49880,
-      "name": "Never Wake Up - Remastered 2026",
-      "url": "https://open.spotify.com/track/1eUNQfy2pKNMJeqpyBZRAH"
     },
     {
       "added_at": null,
@@ -787,6 +675,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 135586,
+      "name": "Crazy Amanda Bunkface",
+      "url": "https://open.spotify.com/track/4jLe3N7rJMTBE7MiHiYJeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 46360,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/69sMsecIEI78zAO4lZOH7c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -815,6 +735,86 @@
       "duration_ms": 208120,
       "name": "Reason To Believe",
       "url": "https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 103280,
+      "name": "Pain For Pleasure",
+      "url": "https://open.spotify.com/track/4VtSO2QcHikRASfuNi7JOM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Count Your Last Blessings",
+      "url": "https://open.spotify.com/track/4ZDZOuiAWO0PZktCuKfdGo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "All Messed Up",
+      "url": "https://open.spotify.com/track/1LNr5u0DJXBuD1gn0aCi2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 116733,
+      "name": "Welcome To Hell",
+      "url": "https://open.spotify.com/track/71dtmBxTJWxXIRmcWfr24j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 230184,
+      "name": "The New Sensation",
+      "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
     }
   ],
   "unique_name": "This Is Sum 41",

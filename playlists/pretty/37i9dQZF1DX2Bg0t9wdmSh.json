@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 16987,
+  "num_followers": 16989,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOVUxZUSgrePjuw7cr4MaxUmep95",
+  "snapshot_id": "AAAAAGSS9vBVf9vTlskZf39NIiZbgxa2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -231,6 +231,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 383036,
+      "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 193838,
       "name": "Mr. Right Now (feat. Drake)",
       "url": "https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 383036,
-      "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
     },
     {
       "added_at": "2022-10-01 16:09:56",

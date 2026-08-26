@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 9366638,
+  "num_followers": 9366973,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKrAQWuhTMvmRcJgbpXUhO5SIPjq",
+  "snapshot_id": "AAAAAMYs2k2PwE+UBVhhy22QNfj1DOpe",
   "tracks": [
     {
       "added_at": "2024-06-28 10:14:13",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "artists": [
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "When I B On Tha Mic",
+      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
-      },
-      "artists": [
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "When I B On Tha Mic",
-      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Gz and Hustlas",
-      "url": "https://open.spotify.com/track/3gTPlYouwH2OoVbMQBB4UC"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
       "artists": [
         {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 247400,
-      "name": "Chief Rocka",
-      "url": "https://open.spotify.com/track/34MRi5GRWHFUa731JBxFEl"
+      "duration_ms": 275893,
+      "name": "Gz and Hustlas",
+      "url": "https://open.spotify.com/track/3gTPlYouwH2OoVbMQBB4UC"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "Chief Rocka",
+      "url": "https://open.spotify.com/track/34MRi5GRWHFUa731JBxFEl"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Kollage",
         "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Player's Ball",
+      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1499,22 +1515,6 @@
       "duration_ms": 309946,
       "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
       "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Player's Ball",
-      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Brooklyn Zoo",
-      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Dah Shinin'",
         "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 247933,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Brooklyn Zoo",
+      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
     },
     {
       "added_at": "2024-06-28 10:14:13",

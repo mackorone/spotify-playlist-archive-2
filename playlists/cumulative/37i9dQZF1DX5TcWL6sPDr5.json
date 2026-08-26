@@ -2447,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Lucky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "Lucky - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
+    },
+    {
+      "album": {
         "name": "Lucky Again",
         "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },

@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2gzylqKH4MMjL9FAMkULif">Oliwia Janusz</a>
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6aSYVHiqhAT0C4t63ryOef">Zofia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,324 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,321 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Unikat](https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8) | [Oliwia Janusz](https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif) | [Unikat](https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y) | 3:27 |
-| 2 | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh) | 3:10 |
-| 3 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
-| 4 | [My](https://open.spotify.com/track/1I4O7oDFPYI6ksobPPiZm6) | [Jonasz Gulgowski](https://open.spotify.com/artist/1TW98o6ZBD1sgX79s58DhN) | [My](https://open.spotify.com/album/2BbRooImwqRxcIGqJk5YYP) | 3:24 |
-| 5 | [Salton Sea \(Creeper\)](https://open.spotify.com/track/4CeSnmCamiqimujc4D2Uqc) | [Ola Bird](https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6) | [Salton Sea \(Creeper\)](https://open.spotify.com/album/4jgQG0avuTNC4rv6hN8LE7) | 3:06 |
-| 6 | [Over\-](https://open.spotify.com/track/0mmAXzeTlOlFJgnKCMtRDl) | [Zofia](https://open.spotify.com/artist/6aSYVHiqhAT0C4t63ryOef) | [Over\-](https://open.spotify.com/album/5mWub8fkg1G2LTqzXoxmK3) | 3:29 |
-| 7 | [THAT'S MY SWAG](https://open.spotify.com/track/1SWYFWDK3ewkrV9D2gDgo1) | [Janek Bidiuk](https://open.spotify.com/artist/6N750kTaZdAypOStcgDqDZ) | [THAT'S MY SWAG](https://open.spotify.com/album/5ibPa6XSEOAYyJ7tWtgu5r) | 2:41 |
-| 8 | [Cadillac](https://open.spotify.com/track/3gW6rUooSwRl99nxtOlI6K) | [Juna Ara](https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [Cadillac](https://open.spotify.com/album/5nMpmDAKcJ6zlaDvBy9dFQ) | 4:04 |
-| 9 | [LOFI](https://open.spotify.com/track/5FJ3opeK1ADMqzoqB2lRdC) | [wiktoria](https://open.spotify.com/artist/1ZKIwuIjbG5y7ojhL5uRd3) | [LOFI](https://open.spotify.com/album/2HE1y5sZW6Gy3sX9fa49Lx) | 3:30 |
-| 10 | [Nie ma miłości bez zazdrości](https://open.spotify.com/track/3ondbaj7182hdfJHR8XD7x) | [MISS DIEM](https://open.spotify.com/artist/6wofNzZbOAiBejJXLxk6Dp) | [Nie ma miłości bez zazdrości](https://open.spotify.com/album/4w32ip7orqf5xIO6GvAvNG) | 3:37 |
+| 1 | [Over\-](https://open.spotify.com/track/0mmAXzeTlOlFJgnKCMtRDl) | [Zofia](https://open.spotify.com/artist/6aSYVHiqhAT0C4t63ryOef) | [Over\-](https://open.spotify.com/album/5mWub8fkg1G2LTqzXoxmK3) | 3:29 |
+| 2 | [My](https://open.spotify.com/track/1I4O7oDFPYI6ksobPPiZm6) | [Jonasz Gulgowski](https://open.spotify.com/artist/1TW98o6ZBD1sgX79s58DhN) | [My](https://open.spotify.com/album/2BbRooImwqRxcIGqJk5YYP) | 3:24 |
+| 3 | [THAT'S MY SWAG](https://open.spotify.com/track/1SWYFWDK3ewkrV9D2gDgo1) | [Janek Bidiuk](https://open.spotify.com/artist/6N750kTaZdAypOStcgDqDZ) | [THAT'S MY SWAG](https://open.spotify.com/album/5ibPa6XSEOAYyJ7tWtgu5r) | 2:41 |
+| 4 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
+| 5 | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh) | 3:10 |
+| 6 | [Unikat](https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8) | [Oliwia Janusz](https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif) | [Unikat](https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y) | 3:27 |
+| 7 | [Nie ma miłości bez zazdrości](https://open.spotify.com/track/3ondbaj7182hdfJHR8XD7x) | [MISS DIEM](https://open.spotify.com/artist/6wofNzZbOAiBejJXLxk6Dp) | [Nie ma miłości bez zazdrości](https://open.spotify.com/album/4w32ip7orqf5xIO6GvAvNG) | 3:37 |
+| 8 | [Salton Sea \(Creeper\)](https://open.spotify.com/track/4CeSnmCamiqimujc4D2Uqc) | [Ola Bird](https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6) | [Salton Sea \(Creeper\)](https://open.spotify.com/album/4jgQG0avuTNC4rv6hN8LE7) | 3:06 |
+| 9 | [Cadillac](https://open.spotify.com/track/3gW6rUooSwRl99nxtOlI6K) | [Juna Ara](https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [Cadillac](https://open.spotify.com/album/5nMpmDAKcJ6zlaDvBy9dFQ) | 4:04 |
+| 10 | [LOFI](https://open.spotify.com/track/5FJ3opeK1ADMqzoqB2lRdC) | [wiktoria](https://open.spotify.com/artist/1ZKIwuIjbG5y7ojhL5uRd3) | [LOFI](https://open.spotify.com/album/2HE1y5sZW6Gy3sX9fa49Lx) | 3:30 |
 | 11 | [10 mieczy](https://open.spotify.com/track/7kf7gulETpZkOubCt7D7pA) | [duszno](https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB) | [zostań/wyjdź](https://open.spotify.com/album/54HXHeIDjOU8wbcbHXudBz) | 3:58 |
 | 12 | [dakota johnson](https://open.spotify.com/track/3xuNUUymCi5RW0McWdyHAQ) | [Lollie](https://open.spotify.com/artist/436f7n8DsF6X9sgy4yqY2C) | [dakota johnson](https://open.spotify.com/album/3l2qSCUsqk8RefDQ1y0MgV) | 2:14 |
 | 13 | [nieBo](https://open.spotify.com/track/47TmvwVvmJIs2nH7FTZD2f) | [złośnice](https://open.spotify.com/artist/4v4dTWKvYUH2CQapJEPEgP) | [nieBo](https://open.spotify.com/album/3wMOeN7WyTtDTz28O21etU) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [zaśniesz](https://open.spotify.com/track/1GospoNSbd3lWS6vstx4DC) | [Lynx.](https://open.spotify.com/artist/6MY35otuE9BTVqMm3jAKiy) | [zaśniesz](https://open.spotify.com/album/3pdPejNbmbdwoJ2hIa5r1L) | 2:31 |
 | 50 | [paradise](https://open.spotify.com/track/1dXA2GMivA1I7mtI6pdxeF) | [t.typy](https://open.spotify.com/artist/5oLhj75xB3LKuRyLTFQc8j) | [paradise](https://open.spotify.com/album/6OoCJHXdlyAM01ifMNzwxm) | 3:47 |
 
-Snapshot ID: `AAAAACyjr7PY05kpKY5pb3VOip/larAK`
+Snapshot ID: `AAAAAGs91Q6eE3a7A1vWD4gZPdJVbl+J`

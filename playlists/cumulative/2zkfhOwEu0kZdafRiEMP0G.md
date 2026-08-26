@@ -4,7 +4,7 @@
 
 > 
 
-141 songs - 9 hr 50 min
+142 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 | 2026-03-30 |  |
 | [The Lake Isle](https://open.spotify.com/track/5QhtE8F6sCVmAj9hLsHfK7) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Kristian Kvalvaag](https://open.spotify.com/artist/2gWimrrYeCW2NMr5yE8Xvh), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk), [Ciaran McCabe](https://open.spotify.com/artist/21c1PU3FDMEteSVpYnuOYD), [Jon Thorne](https://open.spotify.com/artist/5zO7OYFWteJtQyg0iBKhyH), [Matthew Sharp](https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7) | [Ola Gjeilo](https://open.spotify.com/album/4IOXEu8EgItKI8J9JDaEr4) | 6:18 | 2026-03-30 |  |
 | [The Let Out](https://open.spotify.com/track/2aNaJLXE4SXbm9L23qpHTG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:14 | 2026-08-08 |  |
+| [The Man Who Can't Be Moved](https://open.spotify.com/track/4Musyaro0NM5Awx8b5c627) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:01 | 2026-08-25 |  |
 | [The Phantom of the Opera \(feat\. Rachel Potter\)](https://open.spotify.com/track/0qX9Lr72N8u5XHF2yaG1VS) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Rachel Potter](https://open.spotify.com/artist/5Kcu1E5qhltjwmxpn440Jr) | [The Phantom of the Opera \(feat\. Rachel Potter\)](https://open.spotify.com/album/6gdR1SzxujWuzIRl7NqfJt) | 3:01 | 2025-07-18 | 2025-11-05 |
 | [the prom](https://open.spotify.com/track/2WFNSeBczMYbMnGkDW7LyR) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:11 | 2026-03-30 |  |
 | [Think of Me / The Phantom of the Opera / The Music of the Night / All I Ask of You / Wishing You Were Somehow Here Again](https://open.spotify.com/track/3v1ye0NrNP23BG1wBndHIP) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG), [Lauren Paley](https://open.spotify.com/artist/4MEbxo5eaEBF0LDKdYNNem) | [Think of Me / The Phantom of the Opera / The Music of the Night / All I Ask of You / Wishing You Were Somehow Here Again](https://open.spotify.com/album/2e9TvU427iSMSHxvZNSb3s) | 8:50 | 2025-06-29 | 2026-02-15 |

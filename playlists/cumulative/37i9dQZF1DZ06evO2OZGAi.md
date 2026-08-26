@@ -4,7 +4,7 @@
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 20 min
+107 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2020](https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA) | 4:43 | 2023-08-25 | 2025-11-20 |
 | [A Nadie Le Importa](https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 3:13 | 2024-12-16 | 2025-11-20 |
 | [A Nadie Le Importa](https://open.spotify.com/track/3LEYugA9C1pV8MCfw2eLFK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [A Nadie Le Importa](https://open.spotify.com/album/3fsAoJjDwnkroW6remnUhS) | 3:13 | 2023-08-25 | 2024-12-08 |
-| [Ahora Volaré](https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 2:59 | 2025-11-27 |  |
+| [Ahora Volaré](https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 2:59 | 2025-11-27 | 2026-08-26 |
 | [Ahora Volaré](https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 2:59 | 2023-08-25 | 2025-11-27 |
 | [Amor](https://open.spotify.com/track/4D4dxm3EDTWgEUFHNhNgCL) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG) | 5:04 | 2026-03-28 | 2026-04-01 |
 | [Angel o Demonio](https://open.spotify.com/track/6451xVlY9Ms8nnZ3267aP6) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 2:45 | 2025-11-27 | 2025-11-28 |
@@ -24,6 +24,7 @@
 | [Caras Maquilladas](https://open.spotify.com/track/4QoVwlrgC6oWfiJFMS0y4I) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 3:32 | 2025-11-27 |  |
 | [Charlemos en las Nubes](https://open.spotify.com/track/4ApKjFm4pqoEWm8wHZomOG) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:56 | 2025-11-27 | 2025-11-28 |
 | [Decir Adiós](https://open.spotify.com/track/1snT64YtuTvZYVzuornRjw) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:52 | 2025-11-13 |  |
+| [Decir adiós](https://open.spotify.com/track/5BlLCQ74fxym3I5qbmA8Nq) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:59 | 2026-08-26 |  |
 | [Decir adiós](https://open.spotify.com/track/7c6Zu7NeLHWy4r3ztZuT0G) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:59 | 2023-08-25 | 2025-11-13 |
 | [Despierten](https://open.spotify.com/track/2N2wRFBbIcjufMpQqIlA8V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 6:14 | 2025-11-21 |  |
 | [Despierten](https://open.spotify.com/track/6P4H2ugc3v2fYV8bds4bkc) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 6:14 | 2025-03-30 | 2025-11-21 |
@@ -47,6 +48,7 @@
 | [Entre Tus LLamas \(El Tunche\)](https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:59 | 2023-08-25 | 2025-11-27 |
 | [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 | 2023-08-25 | 2025-11-19 |
 | [Feliz](https://open.spotify.com/track/0QTSobzqpGqtkKsAjoAh1X) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 3:07 | 2025-11-19 | 2025-11-20 |
+| [Fin del Tiempo](https://open.spotify.com/track/2ScrZdCwUwhIMZopVz05FG) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT) | 2:57 | 2026-08-26 |  |
 | [Fin del Tiempo](https://open.spotify.com/track/4tp7riwvZl0OFbwlamaOBo) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:06 | 2025-11-27 |  |
 | [Fin del Tiempo](https://open.spotify.com/track/5xj5qixWeH2I44SFx0Icdv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:06 | 2023-08-25 | 2025-11-27 |
 | [Fumar el Amor](https://open.spotify.com/track/0PyGXOtp1XlvMeGfQao8ne) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 4:19 | 2023-08-25 | 2025-11-25 |
@@ -82,7 +84,7 @@
 | [Pagando el precio](https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Pagando el precio](https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg) | 3:35 | 2026-03-10 |  |
 | [Pan con mantequilla](https://open.spotify.com/track/4E5rcyR6bgSWB866ra5f2y) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:42 | 2025-11-26 |  |
 | [Pan con mantequilla](https://open.spotify.com/track/4weOiHbItjLGTSB6ZHpXOA) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:42 | 2023-08-25 | 2025-11-26 |
-| [Paz](https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:41 | 2025-11-23 |  |
+| [Paz](https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:41 | 2025-11-23 | 2026-08-26 |
 | [Paz](https://open.spotify.com/track/43pAsE9P0mYGrIxK0ABdXR) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:41 | 2025-11-13 | 2025-11-23 |
 | [Por amor](https://open.spotify.com/track/3OJ8elwnqmeJVMlOoU9HyN) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 4:39 | 2023-08-25 | 2025-11-28 |
 | [Por amor](https://open.spotify.com/track/6o6svVt2GJnSl5u5pXXN1p) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 4:39 | 2025-11-28 |  |

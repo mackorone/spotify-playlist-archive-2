@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 130 songs - 7 hr 39 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 136 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 128 | [Verlorene Freundschaft](https://open.spotify.com/track/720ycQ3qBl0PfRR07nyk2i) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Verlorene Freundschaft](https://open.spotify.com/album/6fDaEQjkaYAqwHKsDAYslm) | 3:35 |
 | 129 | [circles](https://open.spotify.com/track/6AN1RdJk3621MSbxtvGJJG) | [Abby Hayes](https://open.spotify.com/artist/4uq3sajRfWtL1i1mN2SZA7) | [circles](https://open.spotify.com/album/0nKPivAAFf8tkRBYVNlmeN) | 2:57 |
 | 130 | [A Grave for Your Grief](https://open.spotify.com/track/3YMBzXhzprcuffAsqsWJh1) | [MEERKEIME](https://open.spotify.com/artist/1jDLEyYY7Y17UFRFixE0vT) | [A Grave for Your Grief](https://open.spotify.com/album/60gycvAG35h9DKd1oGN4J8) | 4:59 |
+| 131 | [TAXI](https://open.spotify.com/track/2OwQ3G2XqOakVEDZ7wF78U) | [Kristýna Pejcharová](https://open.spotify.com/artist/225szxG4SqVKPU6hfOGiD5) | [TAXI](https://open.spotify.com/album/0Es6W4uPJPAyAj8qlXk1p4) | 2:03 |
+| 132 | [One I Choose](https://open.spotify.com/track/4AviqYGbYeoyrV9fFTMr0j) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [Avaraj](https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC) | [One I Choose](https://open.spotify.com/album/0BcaHDbCaRgVQYmyEYdaJL) | 2:34 |
+| 133 | [Закриті двері](https://open.spotify.com/track/6DjzyPuBITliDIBNEW1Rcb) | [Ваня Рассел](https://open.spotify.com/artist/3mYI64hXQqSKifOhYlFFXx) | [Закриті двері](https://open.spotify.com/album/5mcwpQ0N0cg5Hjyal3jiUS) | 3:18 |
+| 134 | [Long Way Back](https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Long Way Back](https://open.spotify.com/album/69LFgCAV86GGkkVkBABtTG) | 3:52 |
+| 135 | [Don't Grow Sick of Me](https://open.spotify.com/track/0OCiuKDpVghgWWg5r6T5Jt) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD) | 3:12 |
+| 136 | [Believe What You Like](https://open.spotify.com/track/4rxuvpHj7VrTkjB329rnR6) | [Alice Boxall](https://open.spotify.com/artist/29IFhoHDHGm7gfupUdOCkD) | [Believe What You Like](https://open.spotify.com/album/0L29Rt5YtUiTib2IhiP958) | 3:46 |
 
-Snapshot ID: `AAAXPFTQr1zLFTWXgczLjB7GR8SQU9VY`
+Snapshot ID: `AAAXQhmHYbnN9bFEvFeHR7HOs5L7xcAR`

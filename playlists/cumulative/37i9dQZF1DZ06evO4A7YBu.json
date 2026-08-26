@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 240304,
       "name": "Black Star",
       "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 165960,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/4fQIMU0neeR5XlQp0ol1c9"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 162933,
       "name": "I Want to Fucking Break It",
       "url": "https://open.spotify.com/track/3KqRJRn6xaeETk3sI4PIrw"
@@ -567,6 +567,42 @@
     },
     {
       "album": {
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241360,
+      "name": "My Damnation",
+      "url": "https://open.spotify.com/track/4hqlq9M6RKxniRPxbYokZZ"
+    },
+    {
+      "album": {
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Night Terrors",
+      "url": "https://open.spotify.com/track/61XZfpwILhGEPITwqeurDx"
+    },
+    {
+      "album": {
         "name": "Project Regeneration, Vol. 2",
         "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
       },
@@ -675,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/4hoZLwModVnOuc424y8uhd"
+    },
+    {
+      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -776,7 +830,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 164706,
       "name": "Start a War",
       "url": "https://open.spotify.com/track/7GB8ZyFJsOZ6YXD5Qlr5Cx"
@@ -974,7 +1028,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 148560,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius"

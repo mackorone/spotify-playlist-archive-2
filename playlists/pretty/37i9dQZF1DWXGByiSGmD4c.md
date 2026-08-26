@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGByiSGmD4c.md) - [plain]
 
 > Enjoy the LE SSERAFIM WORLD TOUR \[PUREFLOW\] LIVE set including the voices from stage! ! \(르세라핌 맴버들의 무대 멘트가 포함된 \[PUREFLOW\] 투어  LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,222 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,274 likes - 29 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGByiSGmD4c.md) - [plain]
 | 28 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 |
 | 29 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 |
 
-Snapshot ID: `AAAAABj0Qb6zaYcC2G5bcS3xtUIm8S58`
+Snapshot ID: `AAAAAMrj1q2cT++kJrKjozPBdEB66++1`

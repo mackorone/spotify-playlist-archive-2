@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,641 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,656 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 27 | [Teniente Harina \- Cumbia Manifiesto, Pt\. 2](https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Teniente Harina \(Cumbia Manifiesto\)](https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq) | 2:21 |
 | 28 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 |
 | 29 | [Lamento en la Selva](https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 5:02 |
-| 30 | [El Bicho](https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:49 |
-| 31 | [Selva Negra](https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chimborazo](https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB) | 3:28 |
+| 30 | [Selva Negra](https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chimborazo](https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB) | 3:28 |
+| 31 | [El Bicho](https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:49 |
 | 32 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 33 | [El Pescador](https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [Dos Santos](https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg) | 3:33 |
 | 34 | [Me Robaron Mi Runa Mula](https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [El Gran Cacique](https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ) | 3:12 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 55 | [Mar Iguana](https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj) | [É Arenas](https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC) | [Mar Iguana](https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn) | 3:17 |
 | 56 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
 | 57 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 |
-| 58 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 |
-| 59 | [Shake & Bake](https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Shake & Bake](https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu) | 4:40 |
+| 58 | [Shake & Bake](https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Shake & Bake](https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu) | 4:40 |
+| 59 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 |
 | 60 | [Dios](https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Dios](https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w) | 3:13 |
 | 61 | [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 |
 | 62 | [Churro Vs\. Crow](https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Churro Vs\. Crow](https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B) | 3:22 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 70 | [Cumbia OceaÌnica](https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H) | [Amaru Tribe](https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu) | [Amaru Tribe](https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc) | 6:41 |
 | 71 | [Mambo Del Fierro Viejo](https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo \(Deluxe\)](https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2) | 3:09 |
 | 72 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 |
-| 73 | [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 |
-| 74 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
+| 73 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
+| 74 | [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 |
 | 75 | [Santo Domingo](https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU) | [Mario y sus Diamantes](https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo) | [Santo Domingo](https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO) | 2:40 |
 | 76 | [Que Tumba](https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Que Tumba](https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr) | 3:16 |
 | 77 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
-| 78 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
-| 79 | [BADINERIE](https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [STYNDOUDOU](https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt) | 2:53 |
+| 78 | [BADINERIE](https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [STYNDOUDOU](https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt) | 2:53 |
+| 79 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
 | 80 | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU) | 3:54 |
 | 81 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 |
 | 82 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 95 | [We Haven't Been Introduced](https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U) | [Locobeach](https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J) | [We Haven't Been Introduced](https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz) | 4:34 |
 | 96 | [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 |
 | 97 | [Ocelote](https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Ocelote](https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK) | 7:14 |
-| 98 | [Misirlou Psychotropique](https://open.spotify.com/track/2ZhtNDzWk3xFNJ3A3jQTxw) | [Memo Pimiento](https://open.spotify.com/artist/75rGLdO27FtfQhaHxOacV0) | [Misirlou Psychotropique](https://open.spotify.com/album/1C0VPW0LpqWDbX201e34HG) | 5:04 |
+| 98 | [El Método de la Cera Perdida](https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [El Método de la Cera Perdida](https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC) | 4:23 |
 | 99 | [Loco por Tu Amor](https://open.spotify.com/track/6BdXIpQeiubbZhP7ZN944z) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Loco por Tu Amor](https://open.spotify.com/album/55NPFfTI9SG3aSbmUwfPMY) | 3:52 |
-| 100 | [El Método de la Cera Perdida](https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [El Método de la Cera Perdida](https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC) | 4:23 |
+| 100 | [Cumbia Fantasía](https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Cumbia Fantasía](https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN) | 4:49 |
 
-Snapshot ID: `AAAAAGiTpyhgOaubN5Elz7YcasZqasMg`
+Snapshot ID: `AAAAAATzgJAE0HQyTGwP7l59PlFyxrZL`

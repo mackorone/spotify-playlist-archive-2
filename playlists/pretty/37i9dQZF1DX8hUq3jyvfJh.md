@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,419 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,416 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 21 | [Leve](https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Améfrica](https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE) | 3:27 |
 | 22 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
 | 23 | [Pagode de Mulher](https://open.spotify.com/track/6LeFKU9Jl3tdfrhKZzBwqu) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd), [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy), [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Pagode de Mulher](https://open.spotify.com/album/3k3Jo3udbIGxfaneTsUNfB) | 3:42 |
-| 24 | [Belém \- Ao Vivo](https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Joyce Alane Ao Vivo no SALA](https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS) | 3:10 |
-| 25 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
+| 24 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
+| 25 | [Belém \- Ao Vivo](https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Joyce Alane Ao Vivo no SALA](https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS) | 3:10 |
 | 26 | [Ainda é pouco](https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Ainda é pouco](https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol) | 2:54 |
 | 27 | [belo horizonte](https://open.spotify.com/track/5vOX7DaMTkk8jtO4b7Y5jJ) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [escapismo](https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb) | 2:47 |
 | 28 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 43 | [Pior Que Eu Gosto](https://open.spotify.com/track/3LHbu66zyrDoHuvCz9ml1r) | [Isabela Liberato](https://open.spotify.com/artist/0WMsrTFkDc9rDkue68ORWt) | [Pior Que Eu Gosto](https://open.spotify.com/album/04KQu0FDP4zNaVnFHaOEzD) | 3:41 |
 | 44 | [Buquê de Rosas](https://open.spotify.com/track/4eBpX20rWTv6sKozgz4C26) | [Gaby Valentim](https://open.spotify.com/artist/7hIw5Ce8GiFF4MwMnKLsCB) | [Posturada](https://open.spotify.com/album/6l6RRc7iWCKA6qXwinhxl3) | 3:04 |
 | 45 | [Nossa Brincadeira](https://open.spotify.com/track/6H7sEkjKCG95mejUtF2tNi) | [Marina Iris](https://open.spotify.com/artist/5iK58wMvoI0nNXMCHMUN9U), [Marcelle Motta](https://open.spotify.com/artist/7J5aKHQliQ4L12PsUutaF1), [Samba Que Dá](https://open.spotify.com/artist/4DLTl0Mv0q0c87qibEEUeU) | [Nossa Brincadeira](https://open.spotify.com/album/1eRM4XtsESz7aISUssPQBd) | 3:12 |
-| 46 | [Hoje Não](https://open.spotify.com/track/7yCxFpi9yX3hCOfQIc5c52) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Relíquia](https://open.spotify.com/album/76tgZEWG23gdRLRtwBYQSv) | 2:15 |
-| 47 | [E Depois?](https://open.spotify.com/track/786fu99IQ8V9kKZBVcFCyy) | [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy) | [E Depois?](https://open.spotify.com/album/7nela367wRJK6VB42YNA6T) | 3:04 |
+| 46 | [E Depois?](https://open.spotify.com/track/786fu99IQ8V9kKZBVcFCyy) | [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy) | [E Depois?](https://open.spotify.com/album/7nela367wRJK6VB42YNA6T) | 3:04 |
+| 47 | [Hoje Não](https://open.spotify.com/track/7yCxFpi9yX3hCOfQIc5c52) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Relíquia](https://open.spotify.com/album/76tgZEWG23gdRLRtwBYQSv) | 2:15 |
 | 48 | [Será Que É Amor / Castelo de um Quarto Só / Amor Sem Fim \- Ao Vivo](https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Andressa Hayalla In Floripa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh) | 4:56 |
 | 49 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 | 50 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 
-Snapshot ID: `AAAAAEQce/mmiaCFbKijpXUzMuvjW3JP`
+Snapshot ID: `AAAAAFTBigFuQMf+YCUhW44S8kvuF0am`

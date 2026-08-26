@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 286106,
       "name": "Diamonds And Rust",
       "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 192933,
       "name": "Donna Donna",
       "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 204960,
       "name": "El Preso Numero Nueve",
       "url": "https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 181786,
       "name": "I Will Never Marry",
       "url": "https://open.spotify.com/track/37BVqKwNNBIE0HIaGUrgvC"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 201160,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
@@ -1236,10 +1236,28 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 231773,
       "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
       "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
+    },
+    {
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "It Aint Me Babe",
+      "url": "https://open.spotify.com/track/7qvmwxNGxUGsDKjLgYsvAD"
     },
     {
       "album": {
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "North Country Blues",
       "url": "https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "Pack Up Your Sorrows",
       "url": "https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 152066,
       "name": "Silver Dagger",
       "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 212226,
       "name": "We Shall Overcome - Live",
       "url": "https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh"

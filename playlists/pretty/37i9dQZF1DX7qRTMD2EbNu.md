@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,410 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,442 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 69 | [Foreign](https://open.spotify.com/track/058g3whyYpywYdKZ8n8mtP) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [Foreign](https://open.spotify.com/album/5mkhs9I9rGQJ0aCkNZshv9) | 2:34 |
 | 70 | [Burst](https://open.spotify.com/track/7fANcZQbLv2NgSCbNHMWQB) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk) | [Burst](https://open.spotify.com/album/5ZPWjo6HJZDc58ObzDjAaF) | 2:15 |
 
-Snapshot ID: `AAAAAFw77oubKxXZIKLhjH4gvhldM15u`
+Snapshot ID: `AAAAALT+4YvOW+FJf14xEuZEBgLclh3s`

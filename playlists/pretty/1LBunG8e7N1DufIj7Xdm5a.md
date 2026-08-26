@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,749 songs - 10 day 15 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,750 songs - 10 day 15 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4757,5 +4757,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4747 | [Antarctica 2 South Georgia](https://open.spotify.com/track/5u5UMCU1vEDPbEHssiDabE) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 2:56 |
 | 4748 | [Hypocrites](https://open.spotify.com/track/090nOZR3d8AQbCP7kuLQ65) | [Alexi AI](https://open.spotify.com/artist/5XhP1fhZHcpeskzupMb9DZ) | [Hypocrites](https://open.spotify.com/album/27gw8l9i5pmhf6ikjUnnMn) | 5:18 |
 | 4749 | [Figlio del tempo](https://open.spotify.com/track/0cUzOeykFW2SwLp4mJEbSa) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:49 |
+| 4750 | [Try](https://open.spotify.com/track/1wa2z0DVUphZcmfxUVvaeN) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Try](https://open.spotify.com/album/4UlGGdntkH7WIS8UfAy5cR) | 4:24 |
 
-Snapshot ID: `AAAJzABcfTzzFYM/LoOOBMqoyrdHB5rG`
+Snapshot ID: `AAAJzVaUN2uJP5GilpDgJmGpCF/JivH9`

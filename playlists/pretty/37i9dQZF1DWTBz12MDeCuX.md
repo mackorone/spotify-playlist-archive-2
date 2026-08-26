@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,512 likes - 99 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,469 likes - 99 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [Ich hasse](https://open.spotify.com/track/3wxzL6CJkm6MPmGARzXOyI) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Ich hasse](https://open.spotify.com/album/43XXpz53y2g2Yd1x4EPVWl) | 2:14 |
 | 99 | [bloodstream](https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q) | 2:57 |
 
-Snapshot ID: `AAAAAOvIDHVc78gPUk+l69c3BDVCurB4`
+Snapshot ID: `AAAAALolqM6lk8LdqwRVaB9QtpL56TH0`

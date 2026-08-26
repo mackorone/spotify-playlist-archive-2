@@ -144,9 +144,27 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "date_added": "2023-07-28",
+      "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189906,
+      "name": "Come On Over (All I Want Is You)",
+      "url": "https://open.spotify.com/track/3W3MNXiYjuK1r1LIFyQqja"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
       "duration_ms": 203333,
       "name": "Come on over Baby (All I Want Is You) - Radio Version",
       "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
@@ -193,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Keeps Gettin' Better: A Decade of Hits",
+        "url": "https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286013,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/3J2j9PWuRMWzJ9sKlTQTQv"
+    },
+    {
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -208,7 +248,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 298853,
       "name": "Dirrty (feat. Redman)",
       "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
@@ -650,10 +690,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 273706,
       "name": "I Turn to You",
       "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4Kaxx66gshAgVCPyRzLfFo"
     },
     {
       "album": {
@@ -814,6 +872,24 @@
       "duration_ms": 201546,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/5u5wvBQcUTzRzN7dwkrFUB"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "Loving Me 4 Me",
+      "url": "https://open.spotify.com/track/3MyTEl8ZL0qKXFqyvbYsC5"
     },
     {
       "album": {
@@ -1436,7 +1512,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 304013,
       "name": "The Voice Within",
       "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"

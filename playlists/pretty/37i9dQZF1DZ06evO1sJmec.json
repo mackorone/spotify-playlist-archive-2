@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2120917,
+  "num_followers": 2121029,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAClgnRv7mE8gjsxQZfBOnbK",
+  "snapshot_id": "aouJgAAAAAAJzJXMX6KoVKzrRpx26lpi",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 476266,
-      "name": "The Day That Never Comes",
-      "url": "https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Load (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
@@ -263,22 +247,6 @@
       "duration_ms": 269560,
       "name": "Until It Sleeps - Remastered",
       "url": "https://open.spotify.com/track/1L8c08ueO8ag3vBQFXwbjc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 395706,
-      "name": "Creeping Death - Remastered",
-      "url": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
     },
     {
       "added_at": null,
@@ -299,6 +267,22 @@
       "duration_ms": 279173,
       "name": "The Memory Remains",
       "url": "https://open.spotify.com/track/6RbC38oDCIXD8V2AOU1Tjr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 395706,
+      "name": "Creeping Death - Remastered",
+      "url": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
     },
     {
       "added_at": null,
@@ -543,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 432546,
-      "name": "The Four Horsemen - Remastered",
-      "url": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
@@ -591,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 328132,
-      "name": "King Nothing - Remastered",
-      "url": "https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -619,6 +571,22 @@
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 328132,
+      "name": "King Nothing - Remastered",
+      "url": "https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B"
     },
     {
       "added_at": null,
@@ -655,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Mama Said - Remastered",
-      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -687,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+        "name": "Load (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
       "artists": [
         {
@@ -696,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 477026,
-      "name": "All Nightmare Long",
-      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
+      "duration_ms": 319600,
+      "name": "Mama Said - Remastered",
+      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
     },
     {
       "added_at": null,
@@ -811,6 +763,62 @@
       "duration_ms": 339880,
       "name": "Leper Messiah",
       "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Hit The Lights - Remastered",
+      "url": "https://open.spotify.com/track/4hh0IO5OHTigfnPTpDleL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     }
   ],
   "unique_name": "This Is Metallica",

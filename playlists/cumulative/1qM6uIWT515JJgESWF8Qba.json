@@ -1633,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/40vDrrYPKoNHVbqNzjPyvT"
+      },
+      "artists": [
+        {
+          "name": "Amber Elara",
+          "url": "https://open.spotify.com/artist/7bu9U2hCgdooaao3ukguFW"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/084dZY5tSg1EZcMmdQWKeK"
+    },
+    {
+      "album": {
         "name": "En tus ojos",
         "url": "https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL"
       },
@@ -2728,6 +2746,24 @@
       "duration_ms": 245234,
       "name": "King Tide",
       "url": "https://open.spotify.com/track/0oOfLzw44wpabfgz4GcZhU"
+    },
+    {
+      "album": {
+        "name": "knocked -down/-out",
+        "url": "https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256642,
+      "name": "knocked -down/-out",
+      "url": "https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC"
     },
     {
       "album": {

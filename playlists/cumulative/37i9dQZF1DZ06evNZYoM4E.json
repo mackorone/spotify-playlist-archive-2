@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 221626,
       "name": "Als Ik Jou Vergeef",
       "url": "https://open.spotify.com/track/24pNmGnmTN6qm8knOSw4Ey"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 251306,
       "name": "Als Je Alles Weet",
       "url": "https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7"
@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Voor Mij Geen Slingers Aan De Wand",
+      "url": "https://open.spotify.com/track/0lkcEMsgY7bEW9WTstuJzC"
+    },
+    {
+      "album": {
         "name": "N Vriend",
         "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
       },
@@ -904,6 +922,24 @@
       "duration_ms": 227000,
       "name": "Want Ik Hou Van Jou",
       "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
+    },
+    {
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188706,
+      "name": "Wat 'N Ander Ook Zegt",
+      "url": "https://open.spotify.com/track/6fKTN4aND8vkJvYdFoVuyk"
     },
     {
       "album": {

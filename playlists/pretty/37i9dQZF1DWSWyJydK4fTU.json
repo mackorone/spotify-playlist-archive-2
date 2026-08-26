@@ -1,12 +1,12 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 620150,
+  "num_followers": 620093,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjvEfI8lLZMQuRNAS+wAm9PiVQo",
+  "snapshot_id": "AAAAAFtvWwrU4dWMsXIGivepm3CiIJPn",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:41",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "Want It Back",
-        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
+        "name": "If You Wanna Be Adored",
+        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
         }
       ],
-      "duration_ms": 207509,
-      "name": "Want It Back",
-      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
+      "duration_ms": 145573,
+      "name": "If You Wanna Be Adored",
+      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "If You Wanna Be Adored",
-        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
+        "name": "Want It Back",
+        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
       },
       "artists": [
         {
-          "name": "Eva Rose",
-          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 145573,
-      "name": "If You Wanna Be Adored",
-      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
+      "duration_ms": 207509,
+      "name": "Want It Back",
+      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "NOBLE",
-        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "NOBLE",
-      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
         "name": "BEAUTY QUEEN",
         "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "After The Love",
-        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
         }
       ],
-      "duration_ms": 220708,
-      "name": "After The Love",
-      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -871,6 +855,22 @@
       "duration_ms": 187500,
       "name": "Moment",
       "url": "https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -939,18 +939,22 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "Alles nur f\u00fcr mich",
-        "url": "https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP"
+        "name": "Gib mir mehr Du",
+        "url": "https://open.spotify.com/album/03ub248yWebL0kbqooEzpM"
       },
       "artists": [
         {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
         }
       ],
-      "duration_ms": 141188,
-      "name": "Alles nur f\u00fcr mich",
-      "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
+      "duration_ms": 163575,
+      "name": "Gib mir mehr Du",
+      "url": "https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se"
     },
     {
       "added_at": "2026-08-06 22:00:41",

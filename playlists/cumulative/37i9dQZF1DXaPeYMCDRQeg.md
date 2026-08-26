@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-534 songs - 1 day 8 hr 32 min
+535 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [FYM](https://open.spotify.com/track/62Wm2jnqXMSyrrLxEvvuhZ) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:53 | 2023-02-10 | 2024-02-01 |
 | [Gentlewoman](https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:00 | 2026-08-21 |  |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 4:38 | 2026-05-29 | 2026-06-15 |
-| [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2021-12-15 |  |
+| [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2021-12-15 | 2026-08-26 |
 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 | 2026-07-21 |  |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2021-12-15 | 2024-02-01 |
 | [Girls Love Beyoncé \(feat\. James Fauntleroy\)](https://open.spotify.com/track/56NDFbD0tCUawnqeU2wcvv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:45 | 2024-01-31 | 2025-02-15 |
@@ -416,6 +416,7 @@
 | [Slap The City \(feat\. Qendresa\)](https://open.spotify.com/track/3nwcQXP0mBmXmlrirQxCkz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 3:22 | 2026-05-15 | 2026-05-23 |
 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 | 2021-12-15 | 2023-02-11 |
 | [Slide](https://open.spotify.com/track/7sTAYVAStUg1sAojy0Vwq7) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [LOVE UPTEMPO: MAX](https://open.spotify.com/album/5msmjfLW8fnTUppf1MyRGf) | 1:59 | 2025-08-29 | 2025-09-06 |
+| [Slippin Out Reality](https://open.spotify.com/track/5YnO01WB6enAtDgqXIqtFJ) | [Mai Mai](https://open.spotify.com/artist/2qvaFwkgTp3nMCbAYREjTg) | [Slippin Out Reality](https://open.spotify.com/album/422DfvEx7WEXVr9pwQO1Ha) | 2:33 | 2026-08-25 |  |
 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 | 2021-12-15 | 2024-06-04 |
 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 | 2022-03-14 | 2023-02-11 |
 | [Slowly Surely](https://open.spotify.com/track/0HC8gFuUfQklYNM0U53Db6) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:35 | 2023-02-10 | 2024-02-01 |

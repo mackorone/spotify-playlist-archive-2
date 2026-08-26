@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,392 likes - 105 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,422 likes - 105 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 42 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 |
 | 43 | [Your Will](https://open.spotify.com/track/34pLFLezYPMW7axIVsfjfu) | [Gideon MOG](https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6), [Tony Richie](https://open.spotify.com/artist/3rWOkbS2stonIeXCFKZ9wm) | [Your Will](https://open.spotify.com/album/48g53LbM893Ch2U9YPszyj) | 3:06 |
 | 44 | [Alone](https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Alone](https://open.spotify.com/album/3lFBphC8ENBweBOgbrCwwl) | 2:43 |
-| 45 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 |
+| 45 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 |
 | 46 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 |
 | 47 | [FREE](https://open.spotify.com/track/0HIw23DMTw8cTZiX54LW9R) | [Favour Ojo](https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ) | [FREE](https://open.spotify.com/album/0RvPef3u65ch28gR3tEJvL) | 3:16 |
 | 48 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/3zq1rVKwSM61vtf2NxOTAH) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 104 | [Number 1](https://open.spotify.com/track/6H9ykVIRifCHXS7iCMTtqi) | [Hannah Aboh](https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf) | [Number 1](https://open.spotify.com/album/4Mj9EDSZCUtIvZtixs37QQ) | 3:13 |
 | 105 | [Bright and Beautiful](https://open.spotify.com/track/6FIyPLmX3ZjMwlngLXNzcE) | [Oludee](https://open.spotify.com/artist/51GYW8DE2JojeDFUfoDVM1) | [Bright and Beautiful](https://open.spotify.com/album/3WpRPkc7AxhoeZhw6bTU14) | 3:28 |
 
-Snapshot ID: `AAAAAApV1PfS8nxTIvfxP57s+T5G/Fta`
+Snapshot ID: `AAAAAENGaKPISQKm1ZksputW2r62tjFH`

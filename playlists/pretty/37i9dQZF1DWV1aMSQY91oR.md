@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: AR Paisley
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,719 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,733 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 16 | [10 Raccoons](https://open.spotify.com/track/5mY7vr3RaRbH3CJQd1sbJe) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [10 Raccoons](https://open.spotify.com/album/7cnBJ2e7qxKTjbCtOSeoXf) | 3:37 |
 | 17 | [MORNING DEW \(DONK\) REMIX FEAT JAŸ\-Z](https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [MORNING DEW \(DONK\) REMIX PACK](https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl) | 3:37 |
 | 18 | [No Jewelry](https://open.spotify.com/track/6RyEBPz0Xi0Zn6T66gBbSJ) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [No Jewelry](https://open.spotify.com/album/0RGOEqf7QipQMAwwj8EH4R) | 2:27 |
-| 19 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 19 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 20 | [BANKS HOUSE](https://open.spotify.com/track/343vv9P4uUcG62UlpMOvUI) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 3: Banks House](https://open.spotify.com/album/3vZYcW43m917t5kEMY79bZ) | 2:05 |
 | 21 | [Girl's Best Friend \- Radio Edit](https://open.spotify.com/track/0JtyvqODYwBUHtUErkqnjs) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Girl's Best Friend](https://open.spotify.com/album/7H5qM8fiFTwxURNLEDw0HE) | 3:59 |
 | 22 | [DISGUISE](https://open.spotify.com/track/70NwUUeK2J8Y55QRUn8uM3) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [DISGUISE](https://open.spotify.com/album/64bs9S7CRMTn34hHlILPp0) | 2:30 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Grind Time](https://open.spotify.com/track/1kxw6KJIFzbbTllzSiitwy) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Victor Victor Presents](https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Il Caos Parte 1](https://open.spotify.com/album/1tr73fthAQbJqBrUqm6NP3) | 3:06 |
 | 49 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |
 
-Snapshot ID: `AAAAAHhRvsybnqPsups0i2WKl7R7TI2T`
+Snapshot ID: `AAAAAC4zFfnp/1bXAHgjuCKGy4EwX3bz`

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 201264,
+  "num_followers": 201243,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKboPDAd5jao7MSPbeISPuJm3Mys",
+  "snapshot_id": "AAAAAH55Udsj5KG0WCdbdyTs1Zi+3qLr",
   "tracks": [
     {
       "added_at": "2025-09-18 22:01:59",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
-      },
-      "artists": [
-        {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "No Money No Fiesta",
         "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 211426,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+      },
+      "artists": [
+        {
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
-      },
-      "artists": [
-        {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     },
     {
       "added_at": "2025-09-18 22:01:59",

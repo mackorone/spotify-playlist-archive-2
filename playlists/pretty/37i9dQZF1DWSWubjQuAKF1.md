@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Janek Bidiuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,420 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,417 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 11 | [Midnight Echoes](https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx), [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Albert RCB](https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc) | [Midnight Echoes](https://open.spotify.com/album/3I6PSzNiPefKTnEnCaoH8c) | 2:36 |
 | 12 | [rozlałam mleko](https://open.spotify.com/track/6OpN6R8X0L1MMihWmTIM6M) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [rozlałam mleko](https://open.spotify.com/album/5tQIR5LXvAU32BBy8ken46) | 3:10 |
 | 13 | [Terapia dla par](https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Terapia dla par](https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De) | 4:01 |
-| 14 | [TRESURA](https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [TRESURA](https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ) | 3:10 |
-| 15 | [Kim jestem?](https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kim jestem?](https://open.spotify.com/album/0CcsTAGrXXDZPYPCbhDexc) | 2:30 |
+| 14 | [Kim jestem?](https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kim jestem?](https://open.spotify.com/album/0CcsTAGrXXDZPYPCbhDexc) | 2:30 |
+| 15 | [TRESURA](https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [TRESURA](https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ) | 3:10 |
 | 16 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
 | 17 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
 | 18 | [PARANOJA](https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [PARANOJA](https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz) | 1:56 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 23 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
 | 24 | [Z cukru piach](https://open.spotify.com/track/56FJDeFP8nB5pJfMd94VUv) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Sen Multiplayer](https://open.spotify.com/album/5ZkPA2Q81jb384KdAPBhAP) | 2:26 |
 | 25 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
-| 26 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 |
-| 27 | [Halina](https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Halina](https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK) | 3:50 |
+| 26 | [Halina](https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Halina](https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK) | 3:50 |
+| 27 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 |
 | 28 | [GŁUPIA](https://open.spotify.com/track/7L8Y0M4iJHoKqZtW0Z45gg) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [GŁUPIA](https://open.spotify.com/album/51QUkIF35JlCTSccXGt1r4) | 2:35 |
 | 29 | [Tylko My](https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Tylko My](https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl) | 2:10 |
 | 30 | [z tobą nie myślę o ex](https://open.spotify.com/track/2FoIW8dYXSyAIcqEKpJ8qC) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [z tobą nie myślę o ex](https://open.spotify.com/album/6a6JfOMttbeVYsCaKN5Ruo) | 2:52 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 35 | [WSZYSTKO NA NIC](https://open.spotify.com/track/0PuNQogi1Fw7Yh78WcpYWB) | [HELA](https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj) | [WSZYSTKO NA NIC](https://open.spotify.com/album/1eZJg0B52UTxm6KqViMsej) | 3:19 |
 | 36 | [DOMÓWKI](https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU) | [DOMÓWKI](https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd) | 2:33 |
 | 37 | [Esmeralda](https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Esmeralda](https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl) | 2:51 |
-| 38 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
-| 39 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
+| 38 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
+| 39 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
 | 40 | [Tęsknię Za Tobą](https://open.spotify.com/track/03dKatXVO2MlZsHTd9AX56) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu) | [Tęsknię Za Tobą](https://open.spotify.com/album/1YSR5yZCeBfoVgyvbHh0rr) | 2:05 |
 | 41 | [Jak się masz?](https://open.spotify.com/track/2v47bRt43uKCgSz4S0A6eF) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Jak się masz?](https://open.spotify.com/album/7tVBD8s3hArTYpLBr5WLlH) | 2:33 |
 | 42 | [KŁAM](https://open.spotify.com/track/4WK2n2mPPOlqYFNMpgdifZ) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [KŁAM](https://open.spotify.com/album/68IBj6EKlltEWhqnKpVZGT) | 4:06 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 56 | [noktowizja](https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [TRYSK](https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X) | 2:57 |
 | 57 | [bez słów](https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq) | [Manya](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [bez słów](https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB) | 1:57 |
 | 58 | [jeśli pozwolisz](https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ) | [jeśli pozwolisz](https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE) | 2:12 |
-| 59 | [NASA](https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [NASA](https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF) | 2:24 |
-| 60 | [Dreszcze](https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Dreszcze](https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN) | 2:39 |
-| 61 | [GlowUp](https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Glitch](https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa) | 2:36 |
+| 59 | [GlowUp](https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Glitch](https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa) | 2:36 |
+| 60 | [NASA](https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [NASA](https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF) | 2:24 |
+| 61 | [Dreszcze](https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Dreszcze](https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN) | 2:39 |
 | 62 | [Stoję \(na stacji paliw\)](https://open.spotify.com/track/13Piq3mRqhDFClyldq9WiO) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ), [Milena Gubała](https://open.spotify.com/artist/5BuJSfTQDHi3oYJIVKujqW) | [Inny](https://open.spotify.com/album/4NnGDciJnY0amspOhznLX3) | 3:24 |
 | 63 | [tłukę się o asfalt](https://open.spotify.com/track/5FO3zFjF0Cp8QhQF7Bu91i) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [tłukę się o asfalt](https://open.spotify.com/album/7pmBjZp0VrLY95tqdHdZxQ) | 2:58 |
 | 64 | [O miłości, nie ten czas](https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3) | [Oliwia Johnson](https://open.spotify.com/artist/5heu38RNkoNKlzY8Au5wWW) | [O miłości, nie ten czas](https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM) | 2:52 |
 | 65 | [STILL PRETTY WHEN I CRY](https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [STILL PRETTY WHEN I CRY](https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX) | 2:39 |
 
-Snapshot ID: `AAAAAIaMQfrbxiSsxsl+opX+Ha0ptS3f`
+Snapshot ID: `AAAAAKZwr4p4zRG04apisnLjhe0YOUDn`

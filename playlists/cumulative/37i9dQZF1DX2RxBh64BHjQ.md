@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7oHPIc7BYAIUhYFF6hSggI">Belly Gang Kushington</a>
 
-3,008 songs - 5 day 11 hr 52 min
+3,009 songs - 5 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1373,7 +1373,7 @@
 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 | 2022-06-17 | 2022-08-06 |
 | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC) | 4:38 | 2022-08-05 | 2022-10-15 |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 | 2025-03-29 |
-| [justfallinlovewithme.](https://open.spotify.com/track/5dlPZOX7v1gEPET4CLNDLD) | [Lil Kliff](https://open.spotify.com/artist/4TE90ZobF5vpkPYfm8m4fd) | [justfallinlovewithme.](https://open.spotify.com/album/1hzfSCsZG0B4MtB4RhRvJX) | 2:41 | 2026-01-13 |  |
+| [justfallinlovewithme.](https://open.spotify.com/track/5dlPZOX7v1gEPET4CLNDLD) | [Lil Kliff](https://open.spotify.com/artist/4TE90ZobF5vpkPYfm8m4fd) | [justfallinlovewithme.](https://open.spotify.com/album/1hzfSCsZG0B4MtB4RhRvJX) | 2:41 | 2026-01-13 | 2026-08-26 |
 | [Jwett](https://open.spotify.com/track/6kEMoHRKZWc0JZKLijIjVh) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Jwett](https://open.spotify.com/album/4nva8ngqJypVALqkcZSPOG) | 2:44 | 2024-11-08 | 2024-11-23 |
 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 | 2023-07-21 | 2023-09-23 |
 | [Kaboom](https://open.spotify.com/track/05CkiUUE3PZz1s1Hv4gevH) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [The Reaper](https://open.spotify.com/album/5DyuTZUXgZBk40wy03M17o) | 2:31 | 2024-08-23 | 2024-08-31 |
@@ -1579,6 +1579,7 @@
 | [Magic Potion](https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Magic Potion](https://open.spotify.com/album/0SerwPNkQt2DaMs5BOqzn5) | 2:01 | 2023-01-27 | 2023-04-15 |
 | [Maintenance Man \(feat\. Jenn Carter, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 | 2024-10-04 | 2024-10-12 |
 | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/album/4HFKc1vf00ooiAXuPIf5xv) | 2:17 | 2022-06-17 | 2022-08-27 |
+| [Make Em Trick](https://open.spotify.com/track/5k7rSWnFZou6fofVty8U91) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL) | [Make Em Trick](https://open.spotify.com/album/17EqtqSAmHj6JmcG0X2gQa) | 2:08 | 2026-08-25 |  |
 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 | 2025-04-25 |  |
 | [Making Promises](https://open.spotify.com/track/4kVLd059k0S5WGNo8ULoZh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Making Promises](https://open.spotify.com/album/7EFfR2LfIfXxSoIPQZ8b8T) | 2:24 | 2026-06-19 |  |
 | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3) | 2:54 | 2023-08-04 | 2024-02-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 635808,
+  "num_followers": 635813,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANl7vmHaNsS5acz4J133GSTdvhEJ",
+  "snapshot_id": "AAAAAEFUt/vC0JIyjLW0MB9OUgX3zVQV",
   "tracks": [
     {
       "added_at": "2026-04-30 20:25:38",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "\u00bfPara qu\u00e9?",
-        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u00bfPara qu\u00e9?",
-      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "miau",
         "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 204974,
       "name": "barquito - bonus track",
       "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "\u00bfPara qu\u00e9?",
+        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u00bfPara qu\u00e9?",
+      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
         "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 300383,
       "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
       "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Eucalipto",
-        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 202173,
       "name": "Caf\u00e9 Con Chocolate",
       "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Eucalipto",
+        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+        "name": "Calle Cima",
+        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
       },
       "artists": [
         {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+      "duration_ms": 219477,
+      "name": "Calle Cima",
+      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Calle Cima",
-        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
         }
       ],
-      "duration_ms": 219477,
-      "name": "Calle Cima",
-      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Esta Nochecita",
-        "url": "https://open.spotify.com/album/5GGlJdTEg8Btl4pn3LtC7z"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3xima Parada",
-          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
-        }
-      ],
-      "duration_ms": 211096,
-      "name": "Esta Nochecita",
-      "url": "https://open.spotify.com/track/62EWq1EFW8Dnl74uN85SRz"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "TUMBA'",
         "url": "https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 256174,
       "name": "TUMBA'",
       "url": "https://open.spotify.com/track/5VHKnyCyzkCbniSP3m5qLD"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Esta Nochecita",
+        "url": "https://open.spotify.com/album/5GGlJdTEg8Btl4pn3LtC7z"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "duration_ms": 211096,
+      "name": "Esta Nochecita",
+      "url": "https://open.spotify.com/track/62EWq1EFW8Dnl74uN85SRz"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "gaita zuliana",
-        "url": "https://open.spotify.com/album/12Jdu8PKHKS5lq1JKMqBki"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "gaita zuliana",
-      "url": "https://open.spotify.com/track/0BvtrXTAW2Fg9eadf3UVLa"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/5YncRReTggNAZ0wty0jXnI"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 150358,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/1LHOl30YAYVSK7DwdstsWR"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "gaita zuliana",
+        "url": "https://open.spotify.com/album/12Jdu8PKHKS5lq1JKMqBki"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "gaita zuliana",
+      "url": "https://open.spotify.com/track/0BvtrXTAW2Fg9eadf3UVLa"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1947,18 +1947,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
+        "name": "Criollas",
+        "url": "https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Criollas",
+          "url": "https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV"
+        },
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
         }
       ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+      "duration_ms": 226237,
+      "name": "La Vaca Mariposa",
+      "url": "https://open.spotify.com/track/0qxGNoCPsxPFudABEtEmwk"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1979,22 +1983,18 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Criollas",
-        "url": "https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0"
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
       "artists": [
         {
-          "name": "Criollas",
-          "url": "https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV"
-        },
-        {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 226237,
-      "name": "La Vaca Mariposa",
-      "url": "https://open.spotify.com/track/0qxGNoCPsxPFudABEtEmwk"
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Am\u00e1",
-        "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
+        "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
+        "url": "https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
         }
       ],
-      "duration_ms": 176256,
-      "name": "Am\u00e1",
-      "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
+      "duration_ms": 157522,
+      "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
+      "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
-        "url": "https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23"
+        "name": "Am\u00e1",
+        "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
       },
       "artists": [
         {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 157522,
-      "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
-      "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
+      "duration_ms": 176256,
+      "name": "Am\u00e1",
+      "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
     },
     {
       "added_at": "2026-04-30 20:25:38",

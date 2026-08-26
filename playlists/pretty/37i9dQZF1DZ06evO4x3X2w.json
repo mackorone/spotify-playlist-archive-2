@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 724391,
+  "num_followers": 724413,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADqeVCkNQl7AuHzgfR0jo7n",
+  "snapshot_id": "aouJgAAAAADownueOrF77k7W9v3xl5sH",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 265773,
-      "name": "Dude (Looks Like A Lady)",
-      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+      "duration_ms": 308906,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 308906,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
+      "duration_ms": 310533,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 310533,
-      "name": "What It Takes",
-      "url": "https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC"
+      "duration_ms": 215823,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6uhj7EIZZm3OwVr0gWfkQn"
     },
     {
       "added_at": null,
@@ -219,42 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Push Play",
-        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 215823,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6uhj7EIZZm3OwVr0gWfkQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        },
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 310375,
-      "name": "Walk This Way (feat. Aerosmith)",
-      "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Ones",
         "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
@@ -267,38 +231,6 @@
       "duration_ms": 381400,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 265693,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Push Play",
-        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 302151,
-      "name": "Fly Away From Here",
-      "url": "https://open.spotify.com/track/5PxQhGYkbGXzjOLaUfAYMf"
     },
     {
       "added_at": null,
@@ -323,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
       },
       "artists": [
         {
@@ -332,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 330533,
-      "name": "Janie's Got A Gun",
-      "url": "https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF"
+      "duration_ms": 302151,
+      "name": "Fly Away From Here",
+      "url": "https://open.spotify.com/track/5PxQhGYkbGXzjOLaUfAYMf"
     },
     {
       "added_at": null,
@@ -355,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocks",
-        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
       "artists": [
         {
@@ -364,9 +296,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 280431,
-      "name": "Back In the Saddle",
-      "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
+      "duration_ms": 330533,
+      "name": "Janie's Got A Gun",
+      "url": "https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF"
     },
     {
       "added_at": null,
@@ -387,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "Love In An Elevator - Single Version",
-      "url": "https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
       },
@@ -419,22 +335,6 @@
       "duration_ms": 215200,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/4sB1ohmoVVG1e3vq9jPVE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocks",
-        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 206631,
-      "name": "Last Child",
-      "url": "https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r"
     },
     {
       "added_at": null,
@@ -487,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Your Wings",
-        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
       },
       "artists": [
         {
@@ -496,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 333662,
-      "name": "Train Kept a Rollin'",
-      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
+      "duration_ms": 269186,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0"
     },
     {
       "added_at": null,
@@ -515,22 +415,6 @@
       "duration_ms": 205923,
       "name": "Falling In Love (Is Hard On The Knees)",
       "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Mama Kin",
-      "url": "https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0"
     },
     {
       "added_at": null,
@@ -623,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+        "name": "Draw The Line",
+        "url": "https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd"
       },
       "artists": [
         {
@@ -632,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 185109,
-      "name": "Toys In The Attic",
-      "url": "https://open.spotify.com/track/4e4ukCLCov1UYoup2SdRHB"
+      "duration_ms": 295637,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
     },
     {
       "added_at": null,
@@ -655,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Draw The Line",
-        "url": "https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 295637,
-      "name": "Kings And Queens",
-      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little South Of Sanity",
         "url": "https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P"
       },
@@ -687,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "No More No More",
-      "url": "https://open.spotify.com/track/7a9b2uPIeLUynTk6zmqacV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Your Wings",
         "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
@@ -715,22 +567,6 @@
       "duration_ms": 254686,
       "name": "Lord Of The Thighs",
       "url": "https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Draw The Line",
-        "url": "https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 204059,
-      "name": "Draw The Line",
-      "url": "https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC"
     },
     {
       "added_at": null,
@@ -783,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
       },
       "artists": [
         {
@@ -792,9 +628,29 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 333200,
-      "name": "Hangman Jury",
-      "url": "https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ"
+      "duration_ms": 252115,
+      "name": "Sick As A Dog",
+      "url": "https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Back In the Saddle - 2025 Mix",
+      "url": "https://open.spotify.com/track/5zjKxcNJ3v0IkJcOQHWQRZ"
     },
     {
       "added_at": null,
@@ -808,9 +664,41 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 273902,
-      "name": "Adam's Apple",
-      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
+      "duration_ms": 135325,
+      "name": "Big Ten Inch Record",
+      "url": "https://open.spotify.com/track/74jtieTD4GbZSwfCfmaFxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 241294,
+      "name": "Nine Lives",
+      "url": "https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/4HMoqSzvTJoMohjrv1gatP"
     },
     {
       "added_at": null,
@@ -824,9 +712,121 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 252115,
-      "name": "Sick As A Dog",
-      "url": "https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk"
+      "duration_ms": 246023,
+      "name": "Rats In The Cellar",
+      "url": "https://open.spotify.com/track/6xPmS8ol9p0JhOtWoODjZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock In A Hard Place",
+        "url": "https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 266749,
+      "name": "Lightning Strikes",
+      "url": "https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 422613,
+      "name": "One Way Street",
+      "url": "https://open.spotify.com/track/66sHugz0V88hh6zYjI7OfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 221118,
+      "name": "Combination",
+      "url": "https://open.spotify.com/track/0b4nzqHtFuOkRpz82nNST9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honkin' On Bobo",
+        "url": "https://open.spotify.com/album/0cofhAxozb6jvoPDYlibbd"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Baby, Please Don't Go",
+      "url": "https://open.spotify.com/track/0yvfGM5ql6TI4of0EDX1sl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/3qs0WTZOHMq4VYonD7mAJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/3qHYaDTM2q0SCfLxX3Wlxm"
     }
   ],
   "unique_name": "This Is Aerosmith",

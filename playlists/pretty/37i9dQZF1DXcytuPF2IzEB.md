@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcytuPF2IzEB.md) - [plain]
 
 > Disco, acid and synths galore \- all your favourite 80s dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,639 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,669 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcytuPF2IzEB.md) - [plain]
 | 49 | [Someday](https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [CeCe Rogers](https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx) | 3:50 |
 | 50 | [That's the Way Love Is \- Underground Mix; Edit](https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Foundation](https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH) | 4:15 |
 
-Snapshot ID: `AAAAAA+8D396qwvRWj6/3LXyhspZZxSJ`
+Snapshot ID: `AAAAALWimckBZqeqGeYRIPT8r8uujjTB`

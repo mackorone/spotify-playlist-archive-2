@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Mustafa Zahid
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,752 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,816 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 39 | [Main Rahun \(From "Parwarish"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/track/0REdqbK0A99eKrYF66zSDO) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Main Rahun \(From "Parwarish"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/25gVPoJgNIlNPGxOOij21C) | 3:25 |
 | 40 | [Heer](https://open.spotify.com/track/4fp8FVTdpieFTQxBwJHqNg) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC) | [Heer](https://open.spotify.com/album/3aOB56T2gNIsntm20QvF9P) | 4:10 |
 | 41 | [savera](https://open.spotify.com/track/6F2M6zx8uXuPo5XAVsbBiV) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [thikaana](https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe) | 2:57 |
-| 42 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
+| 42 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabaat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
 | 43 | [Tum](https://open.spotify.com/track/6mHTwIXqZtuQUF1fEkrhFB) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Tum](https://open.spotify.com/album/4INFMJi3SwIEWixQjlMNig) | 4:18 |
 | 44 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 |
 | 45 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 69 | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Damsaaz](https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i), [Shahid Hussain](https://open.spotify.com/artist/1wadN23m2ThzgO3bGdRFCL) | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY) | 8:19 |
 | 70 | [Tu Hai Wohi](https://open.spotify.com/track/3hrvVVBKL6jfpqGzR2WSlH) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Tu Hai Wohi](https://open.spotify.com/album/5AAyhb4xNYCV97FTVtV0Xl) | 2:29 |
 
-Snapshot ID: `AAAAAM9NXj8+HXY2FjvO0oUarz1WcALn`
+Snapshot ID: `AAAAAKSdtR/SGDKUsiPEwb3/DX85Q/Jo`

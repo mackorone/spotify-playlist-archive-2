@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,984 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,976 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VANGUARDAH](https://open.spotify.com/track/3WMzulhqTgVNW2LBjVvm8N) | [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [VANGUARDAH](https://open.spotify.com/album/2gh6ojsYh7K7xpw3vhDiiN) | 3:07 |
 | 2 | [O Que Será \(À Flor Da Terra\)](https://open.spotify.com/track/2fwV398Ref8Q3ZDCDsR7nI) | [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Felipe Poeta](https://open.spotify.com/artist/3gZcF1tlgvrjYOaMOUW8Px) | [O Que Será \(À Flor Da Terra\)](https://open.spotify.com/album/7dCJBJ6x6xJqlUMSDkPejs) | 2:42 |
-| 3 | [Velho rei](https://open.spotify.com/track/6P41RCOQ3jC0wKlQmrKczg) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Dj Caique](https://open.spotify.com/artist/07nLgGNQ4ZlwQv4OwDOutM), [Tayob J.](https://open.spotify.com/artist/6oKkWcJx9065Pau8aAMpkj) | [Velho rei](https://open.spotify.com/album/4S5BuYVw4KnVAcY405LF5p) | 3:16 |
+| 3 | [Velho rei](https://open.spotify.com/track/6P41RCOQ3jC0wKlQmrKczg) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Tayob J.](https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX) | [Velho rei](https://open.spotify.com/album/4S5BuYVw4KnVAcY405LF5p) | 3:16 |
 | 4 | [tavindoboombap](https://open.spotify.com/track/1rAAK5Zk7hernLt3fHSKnm) | [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw) | [tavindoboombap](https://open.spotify.com/album/1yqfRO52nDibphOPA6SJR5) | 2:09 |
 | 5 | [Passando as Horas](https://open.spotify.com/track/7JSziiXMmuMwX9yp5HnutR) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [2B](https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Cintilante](https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR) | 2:24 |
 | 6 | [Domingo Sem Deus](https://open.spotify.com/track/7iOaRrdNOuhm6jAXYo848M) | [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Lucky bxd](https://open.spotify.com/artist/6erxYh62N5X89genal8f7r), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Domingo Sem Deus](https://open.spotify.com/album/4UZgiBzCCQDARBpteyOgnE) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Não Estamos Sós](https://open.spotify.com/track/0VsGloiHqVBjJ3ij0skb3q) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I), [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Não Estamos Sós](https://open.spotify.com/album/0FSiBUbDui2nVuy6eyE3wT) | 3:31 |
 | 75 | [Class](https://open.spotify.com/track/38eOxW4ku71pWP6zdPccHn) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [JOGA BONITO](https://open.spotify.com/album/3MxiIcnkAdx7gJg6zvhkId) | 1:56 |
 
-Snapshot ID: `AAAAAHIMOBjh15bW/CaCnU9uNANIWhZu`
+Snapshot ID: `AAAAACwcxJvkBhJMM2iZVjuFpLL/YshU`

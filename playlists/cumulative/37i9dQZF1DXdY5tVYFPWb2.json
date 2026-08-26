@@ -3035,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/6KxSLGtyby7FHQMNFtf7OU"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132203,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/6ZW0oh1nNY5m2fi3Hp5e0I"
+    },
+    {
+      "album": {
         "name": "First Contact",
         "url": "https://open.spotify.com/album/4oulWpNWnKMKAbXRZMtnyi"
       },
@@ -12038,7 +12056,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 203803,
       "name": "White Out feat. Maika Loubt\u00e9 & \u67f4\u7530\u8061\u5b50",
       "url": "https://open.spotify.com/track/5REJe8ajCYcYfs5hZO35wT"
@@ -12700,7 +12718,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 254000,
       "name": "\u3042\u306a\u305f\u306e\u5f62\u306e\u9727\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/45BS4oogIChJr66wJtiYuz"
@@ -13225,6 +13243,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u308c\u306f\u30b8\u30e5\u30fc\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/79LronoW9pIfeNzRrljxWZ"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171100,
+      "name": "\u305d\u308c\u306f\u30b8\u30e5\u30fc\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/2h2piLl2sLgYl7WQtHOlIZ"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30ad\u30b7\u30c1",
         "url": "https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4"
       },
@@ -13694,7 +13730,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 172948,
       "name": "\u30a2\u30a4\u306e\u30de\u30cd",
       "url": "https://open.spotify.com/track/2DLhKm5TZQGrjR1Nn5iNHy"
@@ -17352,6 +17388,24 @@
       "duration_ms": 250880,
       "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
+    },
+    {
+      "album": {
+        "name": "\u6804\u990a",
+        "url": "https://open.spotify.com/album/5zz8XFh79B4JXzlozWeeOB"
+      },
+      "artists": [
+        {
+          "name": "Summer Eye",
+          "url": "https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190025,
+      "name": "\u6804\u990a",
+      "url": "https://open.spotify.com/track/38tZWlrkJuNrjwCeLULR9M"
     },
     {
       "album": {

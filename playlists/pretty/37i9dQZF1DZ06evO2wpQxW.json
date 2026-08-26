@@ -1,12 +1,12 @@
 {
   "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 729668,
+  "num_followers": 729695,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABh6esvcXGTH3i0cYqBM+dD",
+  "snapshot_id": "aouJgAAAAAC37qIAXRWzI3loXhzPdh3o",
   "tracks": [
     {
       "added_at": null,
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Buen Ejemplo",
-        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
+        "name": "Que Sea",
+        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
       "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 189360,
-      "name": "Bohemio Loco",
-      "url": "https://open.spotify.com/track/1Nzd6zmeBmGZ0UkmIdDzRC"
+      "duration_ms": 170506,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
     },
     {
       "added_at": null,
@@ -575,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Sea",
-        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
       "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 170506,
-      "name": "Que Sea",
-      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+      "duration_ms": 189360,
+      "name": "Bohemio Loco",
+      "url": "https://open.spotify.com/track/1Nzd6zmeBmGZ0UkmIdDzRC"
     },
     {
       "added_at": null,

@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 242600,
       "name": "905",
       "url": "https://open.spotify.com/track/1OUhfm8VXT7jvDPjH7P6Sx"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 163979,
       "name": "Anyway Anyhow Anywhere - Stereo Version",
       "url": "https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 295466,
       "name": "Bell Boy",
       "url": "https://open.spotify.com/track/0DkCOLwvtxVPs3ri0XbDLK"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 224346,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/3fTPxECrrq7Zl5IIPDJEEY"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 270426,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/3b8wboATWjPGIpWgFFORxK"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 161258,
       "name": "I'm A Boy - Mono",
       "url": "https://open.spotify.com/track/5Vb8gqBtQz6bwRWj7Ip8j5"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 374280,
       "name": "I've Had Enough",
       "url": "https://open.spotify.com/track/2j5BDdYwHfJVPfgzmnD2DF"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 198706,
       "name": "My Generation - Stereo Version",
       "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 373133,
       "name": "Quadrophenia",
       "url": "https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 301213,
       "name": "Sea And Sand",
       "url": "https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 269733,
       "name": "Slip Kid",
       "url": "https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 268933,
       "name": "The Dirty Jobs",
       "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 310933,
       "name": "The Punk And The Godfather",
       "url": "https://open.spotify.com/track/2O1tCUkthqO7SWpXdDnp2T"
@@ -2498,6 +2498,24 @@
       "duration_ms": 337066,
       "name": "You Better You Bet",
       "url": "https://open.spotify.com/track/58RWYT5MGo8e4Y3WAZHh9g"
+    },
+    {
+      "album": {
+        "name": "Live At Leeds (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351840,
+      "name": "Young Man Blues - Live",
+      "url": "https://open.spotify.com/track/5LPSFlpCHZ4MDox8rMy0lz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BHSzm"

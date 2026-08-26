@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-572 songs - 1 day 18 hr 31 min
+573 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Come \- Di](https://open.spotify.com/track/3J8ZG8iS0AjctaEvplLRCK) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:05 | 2022-08-31 | 2022-10-01 |
 | [Come un ritratto](https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts) | [Maria Pia De Vito](https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ) | [Nauplia](https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR) | 4:08 | 2022-09-30 | 2025-03-27 |
 | [Concept creep](https://open.spotify.com/track/62Fp0TjYrCq5rfSx9wO9F2) | [Giulio Stermieri Yabai](https://open.spotify.com/artist/7Etm1LfVxuxFit5vU2bFU3), [Giulio Stermieri](https://open.spotify.com/artist/3JNA0rWIF3SoVj75lyVVHs) | [Crops and Sports](https://open.spotify.com/album/0uafazXJfz4NA3p3APqC95) | 4:37 | 2024-04-04 | 2024-05-12 |
-| [Contigo Mi Vida](https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Contigo Mi Vida](https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1) | 4:09 | 2026-05-21 |  |
+| [Contigo Mi Vida](https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Contigo Mi Vida](https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1) | 4:09 | 2026-05-21 | 2026-08-26 |
 | [Controvento](https://open.spotify.com/track/0POCITSdyoT7p8xxb4sls0) | [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [Controvento](https://open.spotify.com/album/2SQcKBmV7Iot09xujhc8fh) | 3:36 | 2024-03-28 | 2024-04-19 |
 | [Cornettology](https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Tati](https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh) | 6:32 | 2024-03-28 | 2024-11-13 |
 | [CORRI](https://open.spotify.com/track/4neBNkqlzqkJRsuUpte3Fp) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [CORRI](https://open.spotify.com/album/1N1byTuOKyJu0IHiwaoLLP) | 3:54 | 2022-11-07 | 2022-12-06 |
@@ -550,6 +550,7 @@
 | [Under Weather](https://open.spotify.com/track/44NJn9W5Z4CKl7L2kix6wX) | [Mark Solborg](https://open.spotify.com/artist/6BdujUxIX59LeXFgSkgalm), [Francesco Bigoni](https://open.spotify.com/artist/55K44GqqmuYVZw74qYQ6Lf), [Emanuele Maniscalco](https://open.spotify.com/artist/5CHF5PlrmG7StHgJJQQybc) | [Canto](https://open.spotify.com/album/08jzhteMLkJFCVO249KO5u) | 4:56 | 2023-09-17 | 2023-12-06 |
 | [UNGLUED](https://open.spotify.com/track/2JgWNf5c7x3n3AUjffWwKX) | [72\-HOUR POST FIGHT](https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0) | [NON\-BACKGROUND MUSIC](https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF) | 3:50 | 2024-03-28 |  |
 | [Utopia I](https://open.spotify.com/track/4AfJTaxPS3wca8vn7arI5x) | [Al Doum & The Faryds](https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5) | [Utopia I](https://open.spotify.com/album/6nVJk2IN0Plt0Zptn6ZL9J) | 6:53 | 2026-01-15 | 2026-03-06 |
+| [Vagabondo delle Stelle](https://open.spotify.com/track/2CyjBqw7DpUCaBoSyI4GFD) | [Deaf Kaki Chumpy](https://open.spotify.com/artist/0k0vUXKkuCfkRZQwuceR9A) | [Agàpe](https://open.spotify.com/album/2kz9cGAchH8pMYlZEOjBjo) | 8:09 | 2026-08-04 |  |
 | [Valse pour apollinaire](https://open.spotify.com/track/7pwz9HiyXLMLKi61zgT5CG) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Andrea Dulbecco](https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL), [Simona Severini](https://open.spotify.com/artist/4vroeiilEmGUxJwMGCajB7) | [Time's Passage](https://open.spotify.com/album/31GaBJOZatLu1meZhnAnsr) | 4:17 | 2023-01-30 | 2023-06-05 |
 | [Variations on a Christmas Theme](https://open.spotify.com/track/4FQr73oehcGB48jrzfABN6) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Plastic Dreams](https://open.spotify.com/album/6dtS5Obdb9PuMku80K0Dxw) | 4:26 | 2023-12-05 | 2024-03-29 |
 | [Vetro rosso](https://open.spotify.com/track/6lUdQ7hDSF81C5kkya2xNW) | [Francesco Ponticelli](https://open.spotify.com/artist/4klbybHadQeqyAjyVFm3Gn), [Dan Kinzelman](https://open.spotify.com/artist/626snB0CD6rV2I47Xb41EO), [Enrico Zanisi](https://open.spotify.com/artist/4KDUJ3lepnrI1GSafqwpAK), [Enrico Morello](https://open.spotify.com/artist/3UdoL4iyxmmgzvpY7209Ps) | [Kon\-Tiki](https://open.spotify.com/album/0YKt2LBFMXmW6OkvRquhF2) | 5:15 | 2023-01-30 | 2023-06-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7960,
+  "num_followers": 7961,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD8KKKF0f73cyDvBa5XXNLLKXmZH",
+  "snapshot_id": "AAAAAJtTy7plnYop7flX6i9JwK773qJ8",
   "tracks": [
     {
       "added_at": "2025-05-06 11:46:39",
@@ -227,18 +227,26 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Hate You So Much",
-        "url": "https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U"
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
       "artists": [
         {
-          "name": "Saga Ludvigsson",
-          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 156519,
-      "name": "Hate You So Much",
-      "url": "https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe"
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -263,26 +271,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "A Lovestory",
-        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+        "name": "Hate You So Much",
+        "url": "https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
         }
       ],
-      "duration_ms": 184120,
-      "name": "A Lovestory",
-      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+      "duration_ms": 156519,
+      "name": "Hate You So Much",
+      "url": "https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Digital girl - funk remix",
-      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 174225,
+      "name": "Digital girl - funk remix",
+      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 228065,
-      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
-      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Habits (Stay High) - Spotify Singles",
         "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 211153,
       "name": "Habits (Stay High) - Spotify Singles",
       "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "Lupins In Blue",
+        "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 226672,
+      "name": "Lupins In Blue",
+      "url": "https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "Starvation (ANNA Remix)",
         "url": "https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 213986,
       "name": "Starvation - ANNA Remix",
       "url": "https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Lupins In Blue",
-        "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 226672,
-      "name": "Lupins In Blue",
-      "url": "https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "I Hate San Francisco",
-        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "I Hate San Francisco",
-      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Landmarks",
         "url": "https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 235068,
       "name": "Drive With Our Eyes Closed",
       "url": "https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "I Hate San Francisco",
+        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "I Hate San Francisco",
+      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/2Qyj2igDUVDUsTiteIIrer"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160977,
       "name": "It's Not My Fault",
       "url": "https://open.spotify.com/track/759I7gXSRfrXFpXTqovwMa"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+        "name": "Fragile Like A Bomb",
+        "url": "https://open.spotify.com/album/1qomqCIJ6f6XuloU6AHT1K"
       },
       "artists": [
         {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+          "name": "CISSI",
+          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
         }
       ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
+      "duration_ms": 226387,
+      "name": "Fragile Like A Bomb",
+      "url": "https://open.spotify.com/track/3d7DjSMkqfXoleQbcGQEgk"
     }
   ],
   "unique_name": "GRL PWR",

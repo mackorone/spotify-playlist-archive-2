@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover - Shakthisree Gopalan",
-  "num_followers": 108365,
+  "num_followers": 108399,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOBIFi3XLH34fSBbMwDbjcRvpO1h",
+  "snapshot_id": "AAAAAJj925JXNcgVHGBSKb2qbmbXrWVH",
   "tracks": [
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+    },
+    {
+      "added_at": "2026-08-20 04:55:26",
+      "album": {
         "name": "Chhaila (From \"Bhoomi 2024\")",
         "url": "https://open.spotify.com/album/7jt9ta30emHh5myR2YButg"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 230192,
       "name": "Chhaila (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk"
-    },
-    {
-      "added_at": "2026-08-20 04:55:26",
-      "album": {
-        "name": "Dil Ki Yaari",
-        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
-      },
-      "artists": [
-        {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
-        }
-      ],
-      "duration_ms": 213187,
-      "name": "Dil Ki Yaari",
-      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1335,18 +1335,26 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2"
+        "name": "Behte Jana Hai",
+        "url": "https://open.spotify.com/album/5FbDVzw5Y0OiYj5qocRLyA"
       },
       "artists": [
         {
-          "name": "Twinkle Aggrwal",
-          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+          "name": "Aroob Khan",
+          "url": "https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
         }
       ],
-      "duration_ms": 230904,
-      "name": "Ada",
-      "url": "https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1"
+      "duration_ms": 166000,
+      "name": "Behte Jana Hai",
+      "url": "https://open.spotify.com/track/0TjfzgRac1kPfD0pSAs066"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1399,26 +1407,18 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
-        "name": "Behte Jana Hai",
-        "url": "https://open.spotify.com/album/5FbDVzw5Y0OiYj5qocRLyA"
+        "name": "Ada",
+        "url": "https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2"
       },
       "artists": [
         {
-          "name": "Aroob Khan",
-          "url": "https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a"
-        },
-        {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
-        },
-        {
-          "name": "Rana Sotal",
-          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Behte Jana Hai",
-      "url": "https://open.spotify.com/track/0TjfzgRac1kPfD0pSAs066"
+      "duration_ms": 230904,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1"
     },
     {
       "added_at": "2026-08-20 04:55:26",

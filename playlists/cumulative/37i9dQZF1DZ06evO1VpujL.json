@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183760,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM"
@@ -1356,6 +1356,24 @@
       "duration_ms": 230800,
       "name": "Warning - feat. Jacoby Shaddix",
       "url": "https://open.spotify.com/track/51D2Hs0t0X37GWI0TTMyaW"
+    },
+    {
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "We Want",
+      "url": "https://open.spotify.com/track/4NPTNNv1CaQ1eZVb0r8pse"
     },
     {
       "album": {

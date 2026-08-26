@@ -1,12 +1,12 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21856,
+  "num_followers": 21860,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALrKc7+/oC9+1nTg64J5Hu80qtgn",
+  "snapshot_id": "AAAAAK2es343j5wpqZklfkoaAKAohVdr",
   "tracks": [
     {
       "added_at": "2024-09-30 14:25:52",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
-      "added_at": "2025-10-10 00:01:09",
-      "album": {
-        "name": "Halleluyah",
-        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 416232,
-      "name": "Halleluyah",
-      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
-    },
-    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Reckless Lover",
@@ -479,6 +463,22 @@
       "duration_ms": 537386,
       "name": "Reckless Lover",
       "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
+    },
+    {
+      "added_at": "2025-10-10 00:01:09",
+      "album": {
+        "name": "Halleluyah",
+        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 416232,
+      "name": "Halleluyah",
+      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -585,26 +585,6 @@
       "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
     },
     {
-      "added_at": "2025-03-14 00:01:27",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 233135,
-      "name": "Your love",
-      "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
-    },
-    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Yours Truly",
@@ -623,6 +603,26 @@
       "duration_ms": 173153,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
+    },
+    {
+      "added_at": "2025-03-14 00:01:27",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 233135,
+      "name": "Your love",
+      "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-07-31 00:01:30",
       "album": {
-        "name": "Ina Son Ka",
-        "url": "https://open.spotify.com/album/58lHqK7yn74I9xJ6or5UFV"
-      },
-      "artists": [
-        {
-          "name": "Dr Becky Paul-Enenche",
-          "url": "https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n"
-        }
-      ],
-      "duration_ms": 220318,
-      "name": "Ina Son Ka",
-      "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
-    },
-    {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
         "name": "This Joy",
         "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
       },
@@ -917,6 +901,22 @@
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "Ina Son Ka",
+        "url": "https://open.spotify.com/album/58lHqK7yn74I9xJ6or5UFV"
+      },
+      "artists": [
+        {
+          "name": "Dr Becky Paul-Enenche",
+          "url": "https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n"
+        }
+      ],
+      "duration_ms": 220318,
+      "name": "Ina Son Ka",
+      "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
+    },
+    {
       "added_at": "2026-08-14 00:01:28",
       "album": {
         "name": "God Is Cooking",
@@ -931,6 +931,22 @@
       "duration_ms": 227000,
       "name": "Oruko",
       "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "Eze Mo (Live)",
+        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 530000,
+      "name": "Eze Mo (Live)",
+      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
     },
     {
       "added_at": "2025-02-28 00:01:33",
@@ -951,22 +967,6 @@
       "duration_ms": 836670,
       "name": "Covenant Keeping God",
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "Eze Mo (Live)",
-        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 530000,
-      "name": "Eze Mo (Live)",
-      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 442538,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Breakthrough",
@@ -1039,22 +1055,6 @@
       "duration_ms": 68869,
       "name": "ABBA FATHER - raw",
       "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 442538,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
     },
     {
       "added_at": "2026-05-29 00:01:36",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "The Address",
+        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 223966,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
+    },
+    {
       "added_at": "2026-02-20 00:01:25",
       "album": {
         "name": "Your Love II",
@@ -1201,42 +1217,6 @@
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "He Has Done It",
-        "url": "https://open.spotify.com/album/6Bbqg3g4trUiOLoo5a7uv9"
-      },
-      "artists": [
-        {
-          "name": "Eljoe Onoja",
-          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
-        },
-        {
-          "name": "Ema Onyx",
-          "url": "https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F"
-        }
-      ],
-      "duration_ms": 503688,
-      "name": "He Has Done It",
-      "url": "https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "The Address",
-        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
-      },
-      "artists": [
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 223966,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
-    },
-    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Good News",
@@ -1255,6 +1235,26 @@
       "duration_ms": 196271,
       "name": "Good News",
       "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
+    },
+    {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "He Has Done It",
+        "url": "https://open.spotify.com/album/6Bbqg3g4trUiOLoo5a7uv9"
+      },
+      "artists": [
+        {
+          "name": "Eljoe Onoja",
+          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
+        },
+        {
+          "name": "Ema Onyx",
+          "url": "https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F"
+        }
+      ],
+      "duration_ms": 503688,
+      "name": "He Has Done It",
+      "url": "https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1425,20 +1425,24 @@
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
-      "added_at": "2026-07-24 00:01:56",
+      "added_at": "2026-08-21 00:01:32",
       "album": {
-        "name": "Hallelu",
-        "url": "https://open.spotify.com/album/0ZIZgcU4bji9Dlp8Bkd7Xt"
+        "name": "I Dey Grateful",
+        "url": "https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu"
       },
       "artists": [
         {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
         }
       ],
-      "duration_ms": 155688,
-      "name": "My Soul Sings",
-      "url": "https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW"
+      "duration_ms": 173676,
+      "name": "I Dey Grateful",
+      "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1457,6 +1461,22 @@
       "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     },
     {
+      "added_at": "2026-07-24 00:01:56",
+      "album": {
+        "name": "Hallelu",
+        "url": "https://open.spotify.com/album/0ZIZgcU4bji9Dlp8Bkd7Xt"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "duration_ms": 155688,
+      "name": "My Soul Sings",
+      "url": "https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Miracle Walking (Radio Edit)",
@@ -1471,6 +1491,22 @@
       "duration_ms": 217333,
       "name": "Miracle Walking - Radio Edit",
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
+      "added_at": "2026-03-06 00:01:07",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 248054,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1491,50 +1527,6 @@
       "duration_ms": 193398,
       "name": "Grace - Collab Version",
       "url": "https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa"
-    },
-    {
-      "added_at": "2026-03-06 00:01:07",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 248054,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
-    },
-    {
-      "added_at": "2026-06-19 00:01:33",
-      "album": {
-        "name": "Titilailai II",
-        "url": "https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "CHUKWUMA",
-          "url": "https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani"
-        },
-        {
-          "name": "Johnson Jkeyz",
-          "url": "https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL"
-        },
-        {
-          "name": "Eddiekeyz",
-          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
-        }
-      ],
-      "duration_ms": 199023,
-      "name": "Titilailai II",
-      "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
     }
   ],
   "unique_name": "Blessed",

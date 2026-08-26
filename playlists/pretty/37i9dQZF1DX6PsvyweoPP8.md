@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,433 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,449 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Contando Malote](https://open.spotify.com/track/7shdzRK0IER1VzqQgJTtwN) | [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Contando Malote](https://open.spotify.com/album/6LK8QTYhYZtJurm38occbm) | 3:30 |
 | 75 | [Modo Esportivo](https://open.spotify.com/track/2M1AQJ6ZcUDKHgdLm15NBW) | [John](https://open.spotify.com/artist/4sMckQUlefZn3ZaaPpA6y0), [Glock Beatz](https://open.spotify.com/artist/5UvThT2nhiecYC2r7u2jXm), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [KOT D](https://open.spotify.com/artist/51JJajT1uZC2n1kERbrJgI) | [Modo Esportivo](https://open.spotify.com/album/3ZMd9ASswNRSxjqPHV8ZUi) | 2:08 |
 
-Snapshot ID: `AAAAAGdZyXX6T/HHEcF9rz8m1HmnL6HT`
+Snapshot ID: `AAAAAIuH6duh+VIpJHqC7cAbWjUh2rQN`

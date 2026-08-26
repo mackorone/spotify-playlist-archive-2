@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > New folk & americana driving the current, every week\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,941 likes - 104 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,938 likes - 104 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 103 | [Maniacapella](https://open.spotify.com/track/6MMmDh3aLPj8C3FJ2PGPj8) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [The Other Side](https://open.spotify.com/album/5ih1oUrztdhanRibICrlHa) | 4:01 |
 | 104 | [Mountain Top](https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:27 |
 
-Snapshot ID: `AAAAAOuXT0qpTpox/24gASo0vdS4LWSQ`
+Snapshot ID: `AAAAAC68V6IlTikq4h7r97vkOjgQP1Pz`

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,202 songs - 3 day 5 hr 34 min
+1,203 songs - 3 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [In Heaven](https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:50 | 2023-11-19 | 2025-07-25 |
 | [in My Garden...](https://open.spotify.com/track/40xfJg6ZZXr3jRJkxJJZ0O) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 0:25 | 2024-01-29 |  |
 | [In Search of a Revival Part 1](https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [In Search of a Revival](https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM) | 0:51 | 2026-02-13 | 2026-02-18 |
+| [In Sharky Water](https://open.spotify.com/track/6MStSRrh6pePveL74rjJLI) | [Disco Inferno](https://open.spotify.com/artist/1YCFvBoIeRSc0HMU7fhUZA) | [D.I\. Go Pop](https://open.spotify.com/album/3Lw1772fKHpOpVxdMGNYa3) | 4:40 | 2026-08-26 |  |
 | [In the Darkness](https://open.spotify.com/track/2HO68dkF74HHG99eOmE4cP) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 2:01 | 2022-06-15 |  |
 | [In The End](https://open.spotify.com/track/5lDPr9m2SCnDCrCPX6o0xz) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 2:47 | 2023-03-31 | 2024-01-06 |
 | [In the Flesh?](https://open.spotify.com/track/24YmWQgunJGAU8El3ndkyn) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:18 | 2024-01-15 |  |

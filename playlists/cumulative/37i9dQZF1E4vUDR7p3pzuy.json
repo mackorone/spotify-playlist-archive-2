@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "However You Want It",
+        "url": "https://open.spotify.com/album/37M1zmDgCRIUIRcpeBoTwg"
+      },
+      "artists": [
+        {
+          "name": "Oddysseys",
+          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198168,
+      "name": "Bedlam",
+      "url": "https://open.spotify.com/track/15CszyNyA1josUgiE8WJZ6"
+    },
+    {
+      "album": {
         "name": "Just A Body",
         "url": "https://open.spotify.com/album/0EsRCz2KWPKCTbbjT0nqcP"
       },
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 138000,
       "name": "bitter farewell",
       "url": "https://open.spotify.com/track/5TVfdngL5Ch8LNbCedvQ0E"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "BLACK SUMMER",
       "url": "https://open.spotify.com/track/3cv9qR7Y4ORPBtjxZ6RTVV"
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 182400,
       "name": "Breaking Out",
       "url": "https://open.spotify.com/track/4upw5Hwlgyf9H9n2isNEEA"
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 171428,
       "name": "Change",
       "url": "https://open.spotify.com/track/4pvqJlnqVunyIf9OqIlG4M"
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -4460,6 +4478,24 @@
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
+    },
+    {
+      "album": {
+        "name": "Days of Glory",
+        "url": "https://open.spotify.com/album/4708qrE55t3yZYHwVrjIRr"
+      },
+      "artists": [
+        {
+          "name": "Electric Party",
+          "url": "https://open.spotify.com/artist/4DZ6xSgpDoDPTEmj5h1Imd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256875,
+      "name": "Days of Glory",
+      "url": "https://open.spotify.com/track/4sjvKVIklvq1TMMbixZgOD"
     },
     {
       "album": {
@@ -5662,7 +5698,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 260079,
       "name": "Endless Lovers Story",
       "url": "https://open.spotify.com/track/6haxQP3HmWLc3ccN8d6KGm"
@@ -7589,6 +7625,24 @@
     },
     {
       "album": {
+        "name": "hate me",
+        "url": "https://open.spotify.com/album/5g0N0JTNOc6RLQNi81bAAf"
+      },
+      "artists": [
+        {
+          "name": "ZRVANI",
+          "url": "https://open.spotify.com/artist/1DcEvngp6nkjhrw7rDpaJD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179905,
+      "name": "hate me",
+      "url": "https://open.spotify.com/track/2jDiyU48kc69OjyAhSwPun"
+    },
+    {
+      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/1QfcXJGbIpherlmPGXlYUi"
       },
@@ -7618,7 +7672,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 331520,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3Wx488LVmvoapvwSa8JCZ1"
@@ -8798,7 +8852,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -9548,7 +9602,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 207857,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/651tjNUNVFetut4ghwJHCT"
@@ -10850,7 +10904,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 156000,
       "name": "Lost in you",
       "url": "https://open.spotify.com/track/71qWqk3oJK9bUH2WGDy0At"
@@ -12728,7 +12782,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -14014,7 +14068,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 257678,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2jFA4wH9BKIIvz1B10zixk"
@@ -15190,6 +15244,28 @@
       "duration_ms": 224304,
       "name": "Should Have Known",
       "url": "https://open.spotify.com/track/78etTYu7zW0Cwz5GK33spq"
+    },
+    {
+      "album": {
+        "name": "SHOULDER",
+        "url": "https://open.spotify.com/album/3hXxsQlJcYUJSXIr6YXvue"
+      },
+      "artists": [
+        {
+          "name": "strangersfilth",
+          "url": "https://open.spotify.com/artist/5FeYB8CQ61JwCWKIxGBu8Y"
+        },
+        {
+          "name": "Roy Alfonso",
+          "url": "https://open.spotify.com/artist/75TNcjEuO1w3u2XDcQErrg"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "SHOULDER",
+      "url": "https://open.spotify.com/track/0R50EFhaZ1IkQdkbhvuofA"
     },
     {
       "album": {
@@ -19288,7 +19364,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 374488,
       "name": "Unexpected Love - The Axiom Divide Remix",
       "url": "https://open.spotify.com/track/64gPgNHLRBTmuQbM5Js9Jf"
@@ -20101,6 +20177,32 @@
     },
     {
       "album": {
+        "name": "We Make out to She Past Away",
+        "url": "https://open.spotify.com/album/1CwuBZO3O82wEF2LTqrUPa"
+      },
+      "artists": [
+        {
+          "name": "Waves_On_Waves",
+          "url": "https://open.spotify.com/artist/4l1KlqrM9fywoEDVKKiR9u"
+        },
+        {
+          "name": "Crimewave",
+          "url": "https://open.spotify.com/artist/3Shc59fDGVjTyCRldcR7o1"
+        },
+        {
+          "name": "Waves On Waves After Dark",
+          "url": "https://open.spotify.com/artist/5Ebrelozp2AbkgVvq2xwfm"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163375,
+      "name": "We Make out to She Past Away",
+      "url": "https://open.spotify.com/track/5gANCo9U8l1871XqwU5OuC"
+    },
+    {
+      "album": {
         "name": "We're At War",
         "url": "https://open.spotify.com/album/1zHHT3lznyItRF8Ge8atgr"
       },
@@ -20300,7 +20402,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 196507,
       "name": "Whateverforevermore",
       "url": "https://open.spotify.com/track/7yW9dqf9n5fpP2SD27EfTm"
@@ -20492,7 +20594,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"

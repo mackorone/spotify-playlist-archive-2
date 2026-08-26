@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 198584,
+  "num_followers": 198591,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAAGi3OjeZzFvPtsKzt6Ysnj",
+  "snapshot_id": "aouJgAAAAAAITXODGU4s9qtFRhD9uHRj",
   "tracks": [
     {
       "added_at": null,
@@ -23,42 +23,6 @@
       "duration_ms": 147000,
       "name": "Hello, Dolly!",
       "url": "https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 139226,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella and Louis",
-        "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/5TNpCThzzXHEipXGKgNG8T"
     },
     {
       "added_at": null,
@@ -115,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Ella",
-        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Dream A Little Dream Of Me - Single Version",
-      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -155,6 +99,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love, Ella",
+        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Dream A Little Dream Of Me - Single Version",
+      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -167,26 +131,6 @@
       "duration_ms": 203760,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 356626,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/0f2489MzoisF9pKduawvce"
     },
     {
       "added_at": null,
@@ -220,29 +164,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 342133,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheek To Cheek: The Complete Duet Recordings",
-        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Oops!",
-      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
+      "duration_ms": 214226,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
     },
     {
       "added_at": null,
@@ -263,6 +187,22 @@
       "duration_ms": 163106,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Her Majesty's Secret Service (Original Motion Picture Soundtrack / Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "We Have All The Time In The World - Remastered 2003",
+      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
     },
     {
       "added_at": null,
@@ -296,45 +236,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Let's Call The Whole Thing Off",
-      "url": "https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Her Majesty's Secret Service (Original Motion Picture Soundtrack / Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "We Have All The Time In The World - Remastered 2003",
-      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
+      "duration_ms": 272773,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz"
     },
     {
       "added_at": null,
@@ -359,46 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella and Louis",
-        "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Can't We Be Friends?",
-      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 456493,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/5s9tKuZkMiDxY1b6WIzHtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -412,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 236240,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": null,
@@ -452,49 +316,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 272773,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/63qs0QjDLhV22OMdAxGaMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+      "duration_ms": 376800,
+      "name": "Isn't This A Lovely Day?",
+      "url": "https://open.spotify.com/track/4g6gbI41Qb40hopvq6C2t5"
     },
     {
       "added_at": null,
@@ -527,26 +351,6 @@
       "duration_ms": 190293,
       "name": "I'm In The Mood For Love - Single Version",
       "url": "https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Gee, Baby, Ain't I Good To You?",
-      "url": "https://open.spotify.com/track/0xZlk9LU0mS1ACYOupmpVp"
     },
     {
       "added_at": null,
@@ -711,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Fantastic, That's You",
-      "url": "https://open.spotify.com/track/0SyYvxTKhF3fMxYBz3Zmdm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo Sings",
         "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
@@ -787,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 119026,
-      "name": "Give Me Your Kisses",
-      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -855,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Didn't He Ramble",
-        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sy Oliver's Orchestra",
-          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essential Ella",
         "url": "https://open.spotify.com/album/0hgZSZX8Ri8Sd9JFaPDjSd"
       },
@@ -895,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+        "name": "Oh Didn't He Ramble",
+        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver's Orchestra",
+          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
         }
       ],
-      "duration_ms": 198093,
-      "name": "The Home Fire",
-      "url": "https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh"
+      "duration_ms": 202106,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
     },
     {
       "added_at": null,
@@ -923,6 +679,242 @@
       "duration_ms": 199893,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "I'm Puttin' All My Eggs In One Basket",
+      "url": "https://open.spotify.com/track/6wqACd2uBe7E8QDFNGMYpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Gordon Jenkins Orchestra And Choir",
+          "url": "https://open.spotify.com/artist/4DFtmixDoblcLyzmQK0Y2I"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
+      "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of The Decca Years Volume One: The Singer",
+        "url": "https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver's Orchestra",
+          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
+        }
+      ],
+      "duration_ms": 350493,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/138Kyvy2Zuafe3gt7fyaD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Decca Singles 1935-1946",
+        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 190976,
+      "name": "The Frim Fram Sauce",
+      "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "I Won't Dance",
+      "url": "https://open.spotify.com/track/7lWxzLcQGm5onDKTKN4XGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ken Burns Jazz-The Story Of America's Music",
+        "url": "https://open.spotify.com/album/0tkHAqSxNJI2qCJeAEUSQ6"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/718vbMIU2GSkvb8YpdElCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Five Pennies (Original Motion Picture Soundtrack / Remastered 2004)",
+        "url": "https://open.spotify.com/album/2gJsk4Wci5no1VZBhgWyOW"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Danny Kaye",
+          "url": "https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj"
+        }
+      ],
+      "duration_ms": 118266,
+      "name": "Bill Bailey, Won't You Please Come Home - Remastered 2004",
+      "url": "https://open.spotify.com/track/2gDWI2UjKkhLiC8KsJNO46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Decca Singles 1935-1946",
+        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "Hear Me Talkin' To Ya",
+      "url": "https://open.spotify.com/track/7dS0OaV8ril5iqT6ZdMZBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
+        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Swing That Music",
+      "url": "https://open.spotify.com/track/74BOtaeMBLjzriXETYjX9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disney Songs The Satchmo Way",
+        "url": "https://open.spotify.com/album/1HN3NFviUZHANiLqQRMg7S"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "The Bare Necessities",
+      "url": "https://open.spotify.com/track/4na1RgQLMubs8z6mEFHspK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louis Armstrong Of New Orleans",
+        "url": "https://open.spotify.com/album/6E7Os1yQXJ6suqGSK5GdzL"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "When The Saints Go Marching In",
+      "url": "https://open.spotify.com/track/3GMxobnrcay3xl6jJ7fbVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume 7 You'Re Driving Me Crazy (1930-1931)",
+        "url": "https://open.spotify.com/album/6wG0txOyf72AcHyGRWuwk1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "I'll Be Glad When You're Dead, You Rascal You",
+      "url": "https://open.spotify.com/track/1tUgdll0zp0QGFKd1OCSHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella Fitzgerald - Gold",
+        "url": "https://open.spotify.com/album/51M7ZFI9DhqPaUr02VNFP7"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/3q1qAq4nHUnRhPxoIG8gID"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

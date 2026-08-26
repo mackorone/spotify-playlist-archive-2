@@ -1,12 +1,12 @@
 {
   "description": "nate sib debut album let's goooooooo",
-  "num_followers": 518597,
+  "num_followers": 518678,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM5YJ/68AHkkyJOlsvrDCkiBtzwa",
+  "snapshot_id": "AAAAAF+mVBKILFdvY4wZat/QYrG9GPtz",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:32",
@@ -39,6 +39,26 @@
       "duration_ms": 147600,
       "name": "Dis-Moi",
       "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
+    },
+    {
+      "added_at": "2026-08-21 04:01:32",
+      "album": {
+        "name": ".com",
+        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
     },
     {
       "added_at": "2026-06-19 04:01:32",
@@ -117,26 +137,6 @@
       "url": "https://open.spotify.com/track/0LrXxKKEgB6zVA1MbwQBks"
     },
     {
-      "added_at": "2026-08-21 04:01:32",
-      "album": {
-        "name": ".com",
-        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
-    },
-    {
       "added_at": "2026-08-14 04:02:27",
       "album": {
         "name": "Paradiso Nights",
@@ -171,6 +171,22 @@
       "duration_ms": 147908,
       "name": "POP GIRL (with Yves)",
       "url": "https://open.spotify.com/track/03ttvvZTWJnuVNFxd8Faap"
+    },
+    {
+      "added_at": "2026-08-25 19:58:32",
+      "album": {
+        "name": "DL",
+        "url": "https://open.spotify.com/album/3tlFzJwGbE27JuQrodhi1Y"
+      },
+      "artists": [
+        {
+          "name": "Angel Money",
+          "url": "https://open.spotify.com/artist/2LWLa3SxLX5CQlT9GdVkSp"
+        }
+      ],
+      "duration_ms": 140076,
+      "name": "DL",
+      "url": "https://open.spotify.com/track/07mOfR7PUOzr4cQKDAm7aJ"
     },
     {
       "added_at": "2026-08-21 04:01:32",
@@ -1317,22 +1333,6 @@
       "url": "https://open.spotify.com/track/6rpXZwtkQbcr13yfZMvmot"
     },
     {
-      "added_at": "2026-04-24 04:02:28",
-      "album": {
-        "name": "i still think about the band",
-        "url": "https://open.spotify.com/album/0Usmnnq3L7lLSNUc0dy4LW"
-      },
-      "artists": [
-        {
-          "name": "Coupdekat",
-          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "i still think about the band",
-      "url": "https://open.spotify.com/track/4Mv8QtELCZwHTTdocAELYD"
-    },
-    {
       "added_at": "2026-04-10 04:02:39",
       "album": {
         "name": "Bounce",
@@ -1351,7 +1351,7 @@
     {
       "added_at": "2026-04-24 04:02:28",
       "album": {
-        "name": "wakeup(crazy) [feat. Angst]",
+        "name": "wakeup(crazy)",
         "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
       },
       "artists": [
@@ -1365,7 +1365,7 @@
         }
       ],
       "duration_ms": 195517,
-      "name": "wakeup(crazy) [feat. Angst]",
+      "name": "wakeup(crazy)",
       "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
     },
     {

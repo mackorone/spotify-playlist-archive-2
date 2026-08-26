@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,154 songs - 4 day 20 hr 34 min
+2,156 songs - 4 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [B4T](https://open.spotify.com/track/6DkbZnZVckgOUWQzejDbeO) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Cloud 26](https://open.spotify.com/album/1gGWJfhTrSCPgjrbWTvoDz) | 3:21 | 2021-03-27 | 2021-03-31 |
 | [BABA](https://open.spotify.com/track/5gAggiyTeA4rWlmt4jw7Pj) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 4:02 | 2024-06-25 | 2024-06-27 |
 | [Babour](https://open.spotify.com/track/3NnehgHJ53JjEkDmy4DC65) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Al Najma](https://open.spotify.com/album/5D58RnSd0RaL896uknqjDd) | 2:41 | 2021-05-13 | 2021-09-22 |
-| [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-09 |  |
+| [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-09 | 2026-08-26 |
 | [Baby girl](https://open.spotify.com/track/5P0I7M4h0yzMaEfvrNz5Gy) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [WAKE UP, VALERIE](https://open.spotify.com/album/1FDf2AelZwZtuTq3QaLA8i) | 3:01 | 2025-12-16 | 2025-12-18 |
 | [BABY LOVA](https://open.spotify.com/track/2KKy15xRxoZXC3t7iGhlDe) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:18 | 2025-10-23 | 2025-11-04 |
 | [Baby You \- Outro](https://open.spotify.com/track/1QlFkFlQTEbFhRZfdphFgl) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:44 | 2022-01-29 | 2022-01-31 |
@@ -1206,7 +1206,8 @@
 | [Make Them Pay](https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:01 | 2026-05-16 | 2026-05-19 |
 | [Make Them Remember](https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:23 | 2026-05-16 | 2026-05-18 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-07-02 | 2023-05-31 |
-| [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 | 2026-07-01 |  |
+| [Maladie](https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3) | 3:12 | 2026-08-25 |  |
+| [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 | 2026-07-01 | 2026-08-26 |
 | [Malinwa](https://open.spotify.com/track/5Y1laC2nJS1pRVCQ7vuY19) | [L'kreen](https://open.spotify.com/artist/2CGubSpZlD5qXMo8Zgwyrx), [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [حيوانات](https://open.spotify.com/album/5mLtG8fY7EtRe4w17rafzq) | 2:49 | 2022-10-04 | 2022-10-06 |
 | [Malna haka ?](https://open.spotify.com/track/1oRqzXVdTqofua7MDSmJZn) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Malna haka ?](https://open.spotify.com/album/3kVqflkL3lAXJDjBhuYa7n) | 3:06 | 2021-03-27\* | 2021-09-22 |
 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 | 2024-11-24 | 2024-11-26 |
@@ -1447,7 +1448,7 @@
 | [Ok ok](https://open.spotify.com/track/15jdAAw1i9furVH6GYhX1f) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ok ok](https://open.spotify.com/album/5pgqzTJiqwpjLgQXj05C4e) | 2:20 | 2021-06-16 | 2021-11-14 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [Okey Okey](https://open.spotify.com/track/6jnKoLSlofCacuGTILhNVt) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Okey Okey](https://open.spotify.com/album/2RSACaSTko4LiNzUz56TgG) | 2:21 | 2025-12-14 | 2025-12-18 |
-| [OMAR](https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:03 | 2026-05-23 | 2026-08-25 |
+| [OMAR](https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:03 | 2026-05-23 |  |
 | [OMG](https://open.spotify.com/track/1bCiTfGvySuWQiOVwghr5J) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [OMG](https://open.spotify.com/album/5ZkU2Bpyms27ABdDTnVfqR) | 3:39 | 2024-04-28 | 2024-05-02 |
 | [OMMI](https://open.spotify.com/track/6xFehAsaKJYClqja52y2h5) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [OMMI](https://open.spotify.com/album/08xW3v7YYGL2coOjCDTPER) | 2:48 | 2022-04-04 | 2022-04-15 |
 | [Omri](https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Omri](https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn) | 3:20 | 2022-09-05 | 2022-09-30 |
@@ -1541,9 +1542,10 @@
 | [Pikala \(feat\. 3robi & Inkonnu\)](https://open.spotify.com/track/51V6P9QhItNSNVgu72PF5c) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 2:50 | 2021-07-11 | 2021-08-08 |
 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 | 2026-08-15 |  |
 | [Pilule](https://open.spotify.com/track/6yXYNT6oQZH0MzeAPLXYbJ) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 2:46 | 2022-05-28 | 2022-05-30 |
-| [Pilé](https://open.spotify.com/track/2qfAnCOsLPFs8zOQc2pNKI) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt\. 1](https://open.spotify.com/album/1I88RaknA3oyzxIuHV0qHN) | 2:36 | 2026-07-31 |  |
+| [Pilé](https://open.spotify.com/track/2qfAnCOsLPFs8zOQc2pNKI) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt\. 1](https://open.spotify.com/album/1I88RaknA3oyzxIuHV0qHN) | 2:36 | 2026-07-31 | 2026-08-26 |
 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-05-21 | 2026-06-30 |
 | [Pilé](https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt\. 1](https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR) | 2:36 | 2026-06-29 | 2026-08-01 |
+| [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 | 2026-08-25 |  |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-01 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-21 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-07 |

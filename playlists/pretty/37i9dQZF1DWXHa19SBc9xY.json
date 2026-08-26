@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 129001,
+  "num_followers": 129034,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3xiP5EvRZHBMAyR6MmGcJr8fce",
+  "snapshot_id": "AAAAAKeAua6BRehEW1G7GdNFncUgqHrp",
   "tracks": [
     {
       "added_at": "2026-06-17 15:55:41",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "amores v\u00eam e v\u00e3o",
         "url": "https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 236640,
       "name": "amores v\u00eam e v\u00e3o",
       "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Erva e Calor",
         "url": "https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 197968,
       "name": "Erva e Calor",
       "url": "https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
+        "name": "Te Levar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Te Levar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
         "name": "Alucina",
         "url": "https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 180110,
       "name": "Alucina",
       "url": "https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
-        "name": "Te Levar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Te Levar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
+        "name": "Pode Acreditar",
+        "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        }
+      ],
+      "duration_ms": 219103,
+      "name": "Pode Acreditar",
+      "url": "https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 212750,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
-        "name": "Pode Acreditar",
-        "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        }
-      ],
-      "duration_ms": 219103,
-      "name": "Pode Acreditar",
-      "url": "https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah"
     },
     {
       "added_at": "2026-06-17 15:55:41",

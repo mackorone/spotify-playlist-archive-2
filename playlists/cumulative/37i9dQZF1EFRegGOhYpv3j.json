@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "R.I.P. (SELLOUT EDIT)",
+        "url": "https://open.spotify.com/album/4DNV4q8gb33oXLVaeA8IJ1"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110320,
+      "name": "R.I.P. - SELLOUT EDIT",
+      "url": "https://open.spotify.com/track/2QvQZcAx7IDJ1N6vzrqHaS"
+    },
+    {
+      "album": {
         "name": "Reasons Why We Broke Up",
         "url": "https://open.spotify.com/album/6l0WShcnTrdTWl8CFF4tXb"
       },

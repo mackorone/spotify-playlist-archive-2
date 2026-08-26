@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Sara Wakui
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,244 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,245 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Over](https://open.spotify.com/track/2zVE4nLu9V3Zn2uzIWeIif) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/42MJgfwbJUVVL7Ae30VJKE) | 2:48 |
 | 50 | [深海](https://open.spotify.com/track/4UuPn4bcfi9Bg9E2diY26L) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:54 |
 
-Snapshot ID: `AAAAACSF81aFI4QhKprivv62x6sS5aJy`
+Snapshot ID: `AAAAAB6S8lLe3pBT8bLTXhc5/qZinHEJ`

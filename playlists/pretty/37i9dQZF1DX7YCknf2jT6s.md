@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,665 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,687 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Right Now](https://open.spotify.com/track/0T9wiilTLGNYM93dpA7jfU) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [We Dream](https://open.spotify.com/album/6ULTWL9XExl7eMKzoWatE7) | 5:07 |
 | 100 | [Code 4 Kryptos](https://open.spotify.com/track/6w1hwaeAntChTW6qwpPRXW) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs), [Phillip Whack](https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86) | [Protocol 6](https://open.spotify.com/album/4PhTGmr0tfgaIOaNp3jobH) | 6:11 |
 
-Snapshot ID: `AAAAACJk99n09tbi3wOHw5ASeq8coFW7`
+Snapshot ID: `AAAAANA9qqbSrIIEH8cGqceb/tbpwZd+`

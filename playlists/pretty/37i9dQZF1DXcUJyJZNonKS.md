@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,891 likes - 84 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,895 likes - 84 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 24 | [泡沫](https://open.spotify.com/track/4xnbahQwlbpRZ8tBtbDBxY) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [泡沫](https://open.spotify.com/album/4aevFdmO3Hpumaa8F1thBU) | 3:51 |
 | 25 | [魔法使いの日記](https://open.spotify.com/track/1RSHPegE4ExSwDfsSpxRQF) | [ロス](https://open.spotify.com/artist/1ZJ9RKrUKQB5wEl5Liv4kL) | [魔法使いの日記](https://open.spotify.com/album/2xiMHdbQS22IkGZ2lABabM) | 3:33 |
 | 26 | [君は](https://open.spotify.com/track/5gs7OG3UE70LlPTUqXw4Px) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [君は](https://open.spotify.com/album/77TsYuspgMMvhV4ZaaJEGn) | 3:35 |
-| 27 | [One In A Billion \(Japanese Ver.\)](https://open.spotify.com/track/7MvYfssQOnBxMd0T5T8WgG) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON: THE BLOOD ALTAR \(Soundtrack Compilation\)](https://open.spotify.com/album/1C2zN09iNWFEAkSi91PuYr) | 3:16 |
+| 27 | [One In A Billion \- Japanese Ver.](https://open.spotify.com/track/7MvYfssQOnBxMd0T5T8WgG) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON: THE BLOOD ALTAR \(Soundtrack Compilation\)](https://open.spotify.com/album/1C2zN09iNWFEAkSi91PuYr) | 3:16 |
 | 28 | [Fatal Trouble](https://open.spotify.com/track/53sDnvNZNq2vvQmD9SxvWL) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON: THE BLOOD ALTAR \(Soundtrack Compilation\)](https://open.spotify.com/album/1C2zN09iNWFEAkSi91PuYr) | 2:50 |
 | 29 | [来世はどうせ](https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v) | [金子みゆ](https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1) | [来世はどうせ](https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz) | 3:12 |
 | 30 | [Dead end](https://open.spotify.com/track/0IiaikP3mbL9CTx7K6gGJ9) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [Dead end](https://open.spotify.com/album/3LwHfiTaHSjINwcDxsVrF2) | 3:06 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 83 | [あいらびゅ♡](https://open.spotify.com/track/0sSch6NPpSkMFmw4XiFg8W) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [水萌汐（CV：久住琳）](https://open.spotify.com/artist/5XkizBdJfuqMVYCMEm4LLY), [火威灯（CV：芹澤優）](https://open.spotify.com/artist/5wvykoVQcY09gwfcWNwY3s), [月見るな（CV：平塚紗依）](https://open.spotify.com/artist/3Wm5HRjuFJLTiqOg6WxpOJ), [日向春（CV：山本悠有希）](https://open.spotify.com/artist/2rhaSluQPuyiM4cQSGGhv5) | [あいらびゅ♡](https://open.spotify.com/album/2j8U2kCee4QlcIaoNuE2lw) | 3:25 |
 | 84 | [あまのじゃく](https://open.spotify.com/track/6gaGfVzxJ9abc0hAAK4ieH) | [小玉ひかり](https://open.spotify.com/artist/6jRbqM1pnTraoN4Z122jza) | [あまのじゃく](https://open.spotify.com/album/1Jc7X9NHeIl7p7Ac5htW8p) | 4:11 |
 
-Snapshot ID: `AAAAALORU6u5dLWdglV1Pt9VHufklgIo`
+Snapshot ID: `AAAAAJtVc4oTWYB/cGmlzCq55KGK8xSa`

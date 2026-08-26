@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 62280,
       "name": "5 Easy Pieces for Piano Duet: 1. Andante",
       "url": "https://open.spotify.com/track/4qA6Z0XySIBz5EBmzdG1aL"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 132373,
       "name": "6 \u00c9pigraphes antiques, L.131: 1. Pour invoquer Pan, dieu du vent d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/2gvq7EbtNaDRtHqYyMLxCn"
@@ -192,7 +192,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 130542,
       "name": "Avril 14",
       "url": "https://open.spotify.com/track/2NLkCjVcQsxEGKS3aNJHfN"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 483453,
       "name": "Divertissement sur des motifs originaux fran\u00e7ais, in E minor, D.823: 2. Andantino vari\u00e9",
       "url": "https://open.spotify.com/track/5z5udAD5kx3WYTm0tojooC"
@@ -552,6 +552,24 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98440,
+      "name": "Gnossienne n\u00b0 6",
+      "url": "https://open.spotify.com/track/0OdA7VEnKhxRKlNGXS0D2r"
+    },
+    {
+      "album": {
+        "name": "Erik Satie",
+        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -618,12 +636,52 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34960,
+      "name": "La Balan\u00e7oire",
+      "url": "https://open.spotify.com/track/0sMVmDkRN74UeMU7xzjmOr"
+    },
+    {
+      "album": {
+        "name": "Erik Satie",
+        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
       "date_removed": "2026-08-07",
       "duration_ms": 35933,
       "name": "La Com\u00e9die italienne",
       "url": "https://open.spotify.com/track/5z6Z52G3gLyVEjjX6fKasd"
+    },
+    {
+      "album": {
+        "name": "Invocations",
+        "url": "https://open.spotify.com/album/2lRs3saLuquDDg9ng8xjQp"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175520,
+      "name": "Le Sacre du Printemps - Version For Two Pianos / Pt. 1: L'Adoration de la terre: Augures printaniers \u2014 Danses des adolescentes",
+      "url": "https://open.spotify.com/track/2W7mwPamho2Aey1LgNlWIK"
     },
     {
       "album": {
@@ -642,6 +700,28 @@
       "duration_ms": 73240,
       "name": "Le Tango perp\u00e9tuel",
       "url": "https://open.spotify.com/track/2IqqLeEMUJdN9qhuRFrYAo"
+    },
+    {
+      "album": {
+        "name": "Dale al play!: Relax",
+        "url": "https://open.spotify.com/album/0ZoxO4VCaHJGzIc07uIej6"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Les enfants terribles - Arr. for Piano duet by Michael Riesman: III. The Somnambulist",
+      "url": "https://open.spotify.com/track/2X1O68qEihcMzbqHGlXE6C"
     },
     {
       "album": {
@@ -866,7 +946,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 352066,
       "name": "Nazareno: VI. Procesi\u00f3n (Arr. Gonzalo Grau)",
       "url": "https://open.spotify.com/track/2hReCGfkv9vw0zlUlOQ9jd"
@@ -944,7 +1024,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 263320,
       "name": "Prelude, Fugue and Riffs: III. Riffs for Everyone",
       "url": "https://open.spotify.com/track/2SQs3ciOpLomWNwWLb9SHt"
@@ -966,7 +1046,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 900280,
       "name": "Rhapsody in Blue - Arr. for 2 Pianos: Rhapsody in Blue",
       "url": "https://open.spotify.com/track/2rMwQWnuDdZZ3Oxff7qUif"
@@ -1044,10 +1124,36 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 105226,
       "name": "Star-Cross'd Lovers: Act I: Street Fight",
       "url": "https://open.spotify.com/track/2xdnMl3BwAPrmTZGjGYOFE"
+    },
+    {
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/6ATtDU7yIgqeYBmOpMl2bb"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Rapha\u00ebl Seguinier",
+          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
+        },
+        {
+          "name": "David Chalmin",
+          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14306,
+      "name": "Star-Cross'd Lovers: Act III: Prologue",
+      "url": "https://open.spotify.com/track/5r8Nj8R0JDg4x6gBDFLdEK"
     },
     {
       "album": {
@@ -1184,7 +1290,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 73866,
       "name": "Trois morceaux en forme de poire: No.1 - Lentement",
       "url": "https://open.spotify.com/track/1xetkj1yTIoeHhca20uAyu"
@@ -1206,7 +1312,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 136573,
       "name": "Trois morceaux en forme de poire: No.2 - Enlev\u00e9",
       "url": "https://open.spotify.com/track/3LnVLotiBRBe4Qgx1DLD8J"
@@ -1228,7 +1334,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 172200,
       "name": "Trois morceaux en forme de poire: No.3 - Brutal",
       "url": "https://open.spotify.com/track/6c7udTupLNql3nYjOOfn0m"
@@ -1250,7 +1356,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 47226,
       "name": "Trois morceaux en forme de poire: Prolongation du m\u00eame. Au pas",
       "url": "https://open.spotify.com/track/2DV9BWfp1uIBCF1Oow1i5v"
@@ -1294,7 +1400,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 73346,
       "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 1. De l'enfance de Pantagruel (R\u00eaverie)",
       "url": "https://open.spotify.com/track/4bxS8Ozv6gUt9usO1Sf3Ww"
@@ -1316,7 +1422,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 58120,
       "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 2. Marche de Cocagne (D\u00e9marche)",
       "url": "https://open.spotify.com/track/3eKpbH90xbtxTbGDV6irze"
@@ -1338,7 +1444,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 105120,
       "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 3. Jeux de Gargantua (Coin de Polka)",
       "url": "https://open.spotify.com/track/4cp4Gab0ZN70uc0DbsPa1r"
@@ -1400,10 +1506,40 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 283489,
       "name": "Water Dances, Arr. for two pianos: IV. Gliding",
       "url": "https://open.spotify.com/track/3TKciQVui6nteCM6Tr4qgj"
+    },
+    {
+      "album": {
+        "name": "I Feel Pretty: West Side Story Music",
+        "url": "https://open.spotify.com/album/3zAVbTOK1wpJfG4JGpL7Sp"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Gonzalo Grau",
+          "url": "https://open.spotify.com/artist/0kHkqT79Moy6COGdjZdiLI"
+        },
+        {
+          "name": "Rapha\u00ebl Seguinier",
+          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120653,
+      "name": "West Side Story - Arr. for two pianos and percussions by Irwin Kostal: One Hand, One Heart",
+      "url": "https://open.spotify.com/track/5Xu0EsE1sIuzBIm06pQt7K"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rT2XV"

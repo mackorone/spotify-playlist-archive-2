@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of soul & jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,926 likes - 94 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,964 likes - 94 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 47 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 |
 | 48 | [Terra De Luz](https://open.spotify.com/track/1NlgVPxML1adA7DIKxUKEF) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Andrea Lombardini](https://open.spotify.com/artist/73YGgmVlzKtpkMAe4P0MKP), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2) | [Dreamweavers II](https://open.spotify.com/album/59ziCZNShV9tAfI2FG9lKh) | 3:40 |
 | 49 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 |
-| 50 | [Tangled \(Stripped\)](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 |
+| 50 | [Tangled \- Stripped](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 |
 | 51 | [You Got to Feel It](https://open.spotify.com/track/5soaQgOH24Vu24Okl5WM18) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [You Got to Feel It](https://open.spotify.com/album/6Z3ClVmovq0NLwwRgPW4ge) | 3:33 |
 | 52 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 |
 | 53 | [Wither](https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Wither](https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM) | 3:00 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 93 | [Invitation Unknown](https://open.spotify.com/track/3lkTij6xN5ojKYDmDtzi39) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Nick Marks](https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL) | [Third Island Suite](https://open.spotify.com/album/2oGfo84fTjj5gskLBtUGB4) | 3:47 |
 | 94 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |
 
-Snapshot ID: `AAAAANE4FM3CZKdWfGy4LY9DkaG/SFJd`
+Snapshot ID: `AAAAALn6wqnBp8X1uWd8cOT8PMruLDYR`

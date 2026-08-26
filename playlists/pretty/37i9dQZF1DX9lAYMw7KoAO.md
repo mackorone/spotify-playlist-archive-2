@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,637 likes - 50 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,790 likes - 50 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
 | 50 | [Methodist Medley](https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG) | [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [A NEW DAWN](https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6) | 8:55 |
 
-Snapshot ID: `AAAAAH+fKQXWFtE8nxfbnAd3x7IvKZzO`
+Snapshot ID: `AAAAAKpGxCMmdWQ5sdmhDocmi4xZ9Z7l`

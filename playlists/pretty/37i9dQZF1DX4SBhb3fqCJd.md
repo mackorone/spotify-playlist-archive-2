@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Cover: Cleo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,029,158 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,028,587 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 50 | [Won't Force You](https://open.spotify.com/track/4c7awiaRsAal1uZXPDbpBr) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:26 |
 | 51 | [Safety](https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Safety](https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY) | 3:18 |
 
-Snapshot ID: `AAAAAHw+noJmOvuXoyGsyRkY7ZI2IPW4`
+Snapshot ID: `AAAAAP7DddsVLEhnWGV1Bm4ncnwg67Oa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,451 likes - 71 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,448 likes - 71 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 5 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 |
 | 6 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 7 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
-| 8 | [Running Wild \(Holiday Remix\)](https://open.spotify.com/track/6X6b1RQFCkzhUCpHQlbOiW) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:33 |
+| 8 | [Running Wild \- Holiday Remix](https://open.spotify.com/track/6X6b1RQFCkzhUCpHQlbOiW) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:33 |
 | 9 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
 | 10 | [Moonlit Floor \(Kiss Me\) \- Santa Baby Remix](https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\) \(Santa Baby Remix\)](https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl) | 2:35 |
 | 11 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 28 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
 | 29 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 |
 | 30 | [Holidays \(feat\. Earth, Wind & Fire\)](https://open.spotify.com/track/0Yeh2VJCsxSgbftSGTiUbN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
-| 31 | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 |
+| 31 | [Perfect Night \- Holiday Remix](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 |
 | 32 | [Last Christmas](https://open.spotify.com/track/7pOyyrT0cHDWn9qzijzLVO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Play Christmas Music](https://open.spotify.com/album/3qPh58Q0uzQEzwrKsAMCVM) | 3:23 |
 | 33 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 |
-| 34 | [Standing Next to You \(Holiday Remix\)](https://open.spotify.com/track/3zx83DU3JpDZCCBokLX5WB) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Standing Next to You \(The Remixes\)](https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq) | 3:18 |
+| 34 | [Standing Next to You \- Holiday Remix](https://open.spotify.com/track/3zx83DU3JpDZCCBokLX5WB) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Standing Next to You \(The Remixes\)](https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq) | 3:18 |
 | 35 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
 | 36 | [Secret Santa](https://open.spotify.com/track/4RLFhuzugi2DOjxXLJTHek) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Secret Santa](https://open.spotify.com/album/05HHEwVss4IDhyBlz0Ijt6) | 2:24 |
 | 37 | [Christmas Isn't Christmas](https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Christmas Isn't Christmas](https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h) | 3:12 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 70 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 |
 | 71 | [Jingle Bell Rock](https://open.spotify.com/track/7wpk1O3efw6HMDQeyD45eY) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Pop Para Navidad](https://open.spotify.com/album/0sJKd292wKgIkn9cYD8Qje) | 2:15 |
 
-Snapshot ID: `AAAAAPNJUMvaI3afV05ajW+uOPdAtEI0`
+Snapshot ID: `AAAAAJkk614FE6kiCZ5TiUKs3iTaBusB`

@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 1 min
+79 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [And so It Goes](https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:36 | 2025-02-25 | 2025-10-21 |
 | [Angelitos Negros](https://open.spotify.com/track/3LZyurIWMyzsZgsaM8kuco) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 6:56 | 2025-02-26 | 2025-04-18 |
 | [Back Together Again \(feat\. Donny Hathaway\)](https://open.spotify.com/track/065o5Vhiq7Dx6JXF0e33S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:50 | 2025-02-25 |  |
+| [Back Together Again \(feat\. Donny Hathaway\)](https://open.spotify.com/track/4JDKXsnHOb8Cmff5jBCTSQ) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 9:48 | 2026-08-26 |  |
 | [Ballad of the Sad Young Men](https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 7:00 | 2025-02-25 |  |
 | [Be Real Black for Me](https://open.spotify.com/track/7JTSRQ7WBhrX5MXYVYbNrB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:34 | 2026-01-05 | 2026-06-08 |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 7:16 | 2025-02-25 |  |
@@ -54,7 +55,7 @@
 | [More Than You'll Ever Know \- Live at Montreux, 1990](https://open.spotify.com/track/0VJpSDHNUgjA2XZQvbFa4x) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Montreux Years \(Live\)](https://open.spotify.com/album/73vbaUJKvJacWy8BMBxIaB) | 4:57 | 2026-07-05 | 2026-08-20 |
 | [Mr\. Magic](https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 3:58 | 2025-02-25 |  |
 | [No Tears \- In the End](https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:56 | 2025-02-25 |  |
-| [Now and Again \(feat\. Roberta Flack\)](https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Peculiar Situation](https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s) | 4:34 | 2025-02-25 |  |
+| [Now and Again \(feat\. Roberta Flack\)](https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Peculiar Situation](https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s) | 4:34 | 2025-02-25 | 2026-08-26 |
 | [Oasis \- 2006 Remaster](https://open.spotify.com/track/3pgbd3xNbVNV3wExHVCIy7) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 6:09 | 2025-02-28 | 2025-06-04 |
 | [Only Heaven Can Wait \(For Love\) \(feat\. Donny Hathaway\)](https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 4:06 | 2025-02-25 |  |
 | [Only Heaven Can Wait \(For Love\) / You Are My Heaven \- Live Version](https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 9:30 | 2026-06-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78523,
+  "num_followers": 78530,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEV7U729x4Axzlw7lPMhB5OS6f6u",
+  "snapshot_id": "AAAAAMC5A50p9pgaaA2NOWrkbkx0Ou4R",
   "tracks": [
     {
       "added_at": "2025-12-03 12:15:55",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "GIRL I WANT YOU",
-        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "GIRL I WANT YOU",
-      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Under Tangled Silence",
         "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 310814,
       "name": "Waxcap",
       "url": "https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "GIRL I WANT YOU",
+        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "GIRL I WANT YOU",
+      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2025-12-03 12:15:55",

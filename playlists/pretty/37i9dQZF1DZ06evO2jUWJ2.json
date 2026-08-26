@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 331858,
+  "num_followers": 331909,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADgx2PxAmEv+yv+RaTr7kRA",
+  "snapshot_id": "aouJgAAAAAA7h5B15R4ZozyWTa3iGzwa",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Be The Name",
-        "url": "https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 539000,
-      "name": "Jesus Be The Name (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 442264,
       "name": "Trust In God (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4f7HKpJheSmV2WeoMjNH2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Be The Name",
+        "url": "https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 539000,
+      "name": "Jesus Be The Name (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
     },
     {
       "added_at": null,
@@ -971,26 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "So So Good (Live)",
-        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
       "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 288766,
-      "name": "So So Good - Live",
-      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
+      "duration_ms": 432052,
+      "name": "RATTLE! (Live)",
+      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
     },
     {
       "added_at": null,
@@ -1015,18 +1007,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+        "name": "So So Good (Live)",
+        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
       },
       "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 432052,
-      "name": "RATTLE! (Live)",
-      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
+      "duration_ms": 288766,
+      "name": "So So Good - Live",
+      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
     }
   ],
   "unique_name": "This Is Elevation Worship",

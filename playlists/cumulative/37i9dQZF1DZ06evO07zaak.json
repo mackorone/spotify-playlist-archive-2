@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "Any Colour You Like",
+      "url": "https://open.spotify.com/track/6FBPOJLxUZEair6x4kLDhf"
+    },
+    {
+      "album": {
         "name": "The Piper at the Gates of Dawn",
         "url": "https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC"
       },
@@ -160,10 +178,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 169560,
       "name": "Breathe (In the Air)",
       "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
+    {
+      "album": {
+        "name": "Pulse (Live)",
+        "url": "https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153826,
+      "name": "Breathe (In the Air) - Live",
+      "url": "https://open.spotify.com/track/3imr3YB9LhT3W2BHsQ8hpK"
     },
     {
       "album": {
@@ -232,10 +268,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 382280,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
+    },
+    {
+      "album": {
+        "name": "Pulse (Live)",
+        "url": "https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570560,
+      "name": "Comfortably Numb - Live",
+      "url": "https://open.spotify.com/track/7ajPDMxJkj2UCCGE2tnC9u"
     },
     {
       "album": {
@@ -250,10 +304,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 379280,
       "name": "Coming Back to Life",
       "url": "https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji"
+    },
+    {
+      "album": {
+        "name": "Pulse (Live)",
+        "url": "https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417413,
+      "name": "Coming Back to Life - Live",
+      "url": "https://open.spotify.com/track/6JTYg0H6jvDMtpnP11NpE0"
     },
     {
       "album": {
@@ -286,8 +358,8 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
-      "duration_ms": 1412451,
+      "date_removed": null,
+      "duration_ms": 1413306,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb"
     },
@@ -311,6 +383,24 @@
     },
     {
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127786,
+      "name": "Empty Spaces",
+      "url": "https://open.spotify.com/track/5yMyLZu4wPvWcbLFiRhYVM"
+    },
+    {
+      "album": {
         "name": "Meddle",
         "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
       },
@@ -322,10 +412,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 367880,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
+    {
+      "album": {
+        "name": "The Final Cut",
+        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76773,
+      "name": "Get Your Filthy Hands Off My Desert",
+      "url": "https://open.spotify.com/track/4HNZRr43gqpPjMuB6m1Ydf"
     },
     {
       "album": {
@@ -347,6 +455,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/6AccmjV8Q5cEUZ2tvS8s6c"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Green Is the Colour",
+      "url": "https://open.spotify.com/track/7DDvRmOSP2Yx28CfL6W7aw"
+    },
+    {
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
       },
@@ -358,7 +484,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 307400,
       "name": "Have a Cigar",
       "url": "https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6"
@@ -405,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Atom Heart Mother",
+        "url": "https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270733,
+      "name": "If",
+      "url": "https://open.spotify.com/track/63brgJhrcNFW8ncUhM1mhG"
+    },
+    {
+      "album": {
         "name": "The Piper at the Gates of Dawn",
         "url": "https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC"
       },
@@ -423,6 +567,42 @@
     },
     {
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161786,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5HAjss9faCAowGY8dM24r6"
+    },
+    {
+      "album": {
+        "name": "Pulse (Live)",
+        "url": "https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413240,
+      "name": "Keep Talking - Live",
+      "url": "https://open.spotify.com/track/62caZ40BTHoe4gnRjEVaEz"
+    },
+    {
+      "album": {
         "name": "A Momentary Lapse of Reason",
         "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
       },
@@ -434,10 +614,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 292080,
       "name": "Learning to Fly",
       "url": "https://open.spotify.com/track/3ieDOGcOqVxScs2VZBzidt"
+    },
+    {
+      "album": {
+        "name": "Pulse (Live)",
+        "url": "https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316186,
+      "name": "Learning to Fly - Live",
+      "url": "https://open.spotify.com/track/62a4P1ZKVOzOjrtBnIMVh8"
     },
     {
       "album": {
@@ -542,7 +740,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 334880,
       "name": "Mother",
       "url": "https://open.spotify.com/track/1GEOSS415bZVHNuXWlCT6b"
@@ -596,7 +794,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 74773,
       "name": "One of the Few",
       "url": "https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU"
@@ -650,7 +848,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 308666,
       "name": "One Slip",
       "url": "https://open.spotify.com/track/3h31xJfV4OpCYKlzSpazLy"
@@ -758,7 +956,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 73305,
       "name": "Round and Around",
       "url": "https://open.spotify.com/track/4GIq6ZUGqM8qRTJF1BOery"
@@ -776,7 +974,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 222853,
       "name": "San Tropez",
       "url": "https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd"
@@ -874,6 +1072,24 @@
     {
       "album": {
         "name": "The Endless River",
+        "url": "https://open.spotify.com/album/0yU7VItpGPmPcvKmwLg0JT"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381426,
+      "name": "Side 1, Pt. 2: It's What We Do",
+      "url": "https://open.spotify.com/track/6jEbXVZywyaJnEiBI3GsrH"
+    },
+    {
+      "album": {
+        "name": "The Endless River",
         "url": "https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc"
       },
       "artists": [
@@ -902,7 +1118,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 524753,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/0u90NnJ2p3Q2MIP9IaAsg5"
@@ -920,10 +1136,28 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
-      "duration_ms": 133465,
+      "date_removed": null,
+      "duration_ms": 129039,
       "name": "Southampton Dock",
       "url": "https://open.spotify.com/track/1e6P6S42qX7vFT0u14S5jm"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64333,
+      "name": "Speak to Me",
+      "url": "https://open.spotify.com/track/574y1r7o2tRA009FW0LE7v"
     },
     {
       "album": {
@@ -974,7 +1208,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 372400,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/325toqbCzE1g1pYIED7U4C"
@@ -996,6 +1230,24 @@
       "duration_ms": 375440,
       "name": "Terminal Frost",
       "url": "https://open.spotify.com/track/4hO2y5DRbeMppklIroS1O8"
+    },
+    {
+      "album": {
+        "name": "A Momentary Lapse of Reason",
+        "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363720,
+      "name": "The Dogs of War",
+      "url": "https://open.spotify.com/track/4ggDbvTME5EAso1xfGX2M0"
     },
     {
       "album": {
@@ -1028,7 +1280,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 249493,
       "name": "The Fletcher Memorial Home",
       "url": "https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI"
@@ -1050,6 +1302,24 @@
       "duration_ms": 284413,
       "name": "The Great Gig in the Sky",
       "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
+    },
+    {
+      "album": {
+        "name": "The Final Cut",
+        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318200,
+      "name": "The Gunner's Dream",
+      "url": "https://open.spotify.com/track/1057KuzIH4fWCyI5Gb5kX2"
     },
     {
       "album": {
@@ -1118,8 +1388,8 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
-      "duration_ms": 315444,
+      "date_removed": null,
+      "duration_ms": 318120,
       "name": "Two Suns in the Sunset",
       "url": "https://open.spotify.com/track/3KvKMHMlRj30a7IjHXQVzu"
     },
@@ -1136,10 +1406,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 472626,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408866,
+      "name": "Wearing the Inside Out",
+      "url": "https://open.spotify.com/track/2GoeLsETNdx8lRoWW2aeNj"
     },
     {
       "album": {
@@ -1172,10 +1460,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 261480,
       "name": "What Do You Want from Me",
       "url": "https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz"
+    },
+    {
+      "album": {
+        "name": "Pulse (Live)",
+        "url": "https://open.spotify.com/album/1uSpngQgBBgwRFYS5sOdqI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250546,
+      "name": "What Do You Want from Me - Live",
+      "url": "https://open.spotify.com/track/1eqMju4FY20AWLw8qOY7Er"
     },
     {
       "album": {
@@ -1248,6 +1554,24 @@
       "duration_ms": 309200,
       "name": "Wot's...Uh the Deal",
       "url": "https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY"
+    },
+    {
+      "album": {
+        "name": "A Momentary Lapse of Reason",
+        "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372907,
+      "name": "Yet Another Movie",
+      "url": "https://open.spotify.com/track/7ymn3tJva1XgJOhB9Kj5q0"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 
 > Agarren su pareja que es momento de mover ese botecito\. Bronco en portada 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,835 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,852 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Contigo Lo Supe](https://open.spotify.com/track/1YogjdYI2r6XDwNWs6Ena3) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Contigo Lo Supe](https://open.spotify.com/album/6GULKJSpNlh49GjABUbJz1) | 2:54 |
-| 2 | [A Escondidas \- \(EN VIVO\)](https://open.spotify.com/track/21i81ayfKHsSI8G0HjW7rJ) | [VOLVER A LA CUMBIA](https://open.spotify.com/artist/01U4MuAcixFeDX4voCEiix), [José Luis Dávila](https://open.spotify.com/artist/6oSjqOL3tpn4cNGiDaO7Gu) | [VOLVER A LA CUMBIA PARTE III LADO B \(EN VIVO\)](https://open.spotify.com/album/0DphpBA0Z4gIfyMoMqSJ7A) | 3:06 |
-| 3 | [Etapas De Mi Vida \- \(EN VIVO\)](https://open.spotify.com/track/5ACTvfDEX2qSqEpOkbs6zl) | [VOLVER A LA CUMBIA](https://open.spotify.com/artist/01U4MuAcixFeDX4voCEiix) | [VOLVER A LA CUMBIA PARTE III LADO B \(EN VIVO\)](https://open.spotify.com/album/0DphpBA0Z4gIfyMoMqSJ7A) | 3:42 |
+| 2 | [A Escondidas \- EN VIVO](https://open.spotify.com/track/21i81ayfKHsSI8G0HjW7rJ) | [VOLVER A LA CUMBIA](https://open.spotify.com/artist/01U4MuAcixFeDX4voCEiix), [José Luis Dávila](https://open.spotify.com/artist/6oSjqOL3tpn4cNGiDaO7Gu) | [VOLVER A LA CUMBIA PARTE III LADO B \(EN VIVO\)](https://open.spotify.com/album/0DphpBA0Z4gIfyMoMqSJ7A) | 3:06 |
+| 3 | [Etapas De Mi Vida \- EN VIVO](https://open.spotify.com/track/5ACTvfDEX2qSqEpOkbs6zl) | [VOLVER A LA CUMBIA](https://open.spotify.com/artist/01U4MuAcixFeDX4voCEiix) | [VOLVER A LA CUMBIA PARTE III LADO B \(EN VIVO\)](https://open.spotify.com/album/0DphpBA0Z4gIfyMoMqSJ7A) | 3:42 |
 | 4 | [Desde Que La Vi](https://open.spotify.com/track/7Kp2oe5OI7chP2N5ZEmwdU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 2:48 |
 | 5 | [Bandidas](https://open.spotify.com/track/3SroxZM38FVMw2G1Ggia2P) | [Grupo Efecto TJ](https://open.spotify.com/artist/6nrrBRDAQY73LoX0kB6tJS) | [Bandidas](https://open.spotify.com/album/2kx9UT2ztkxTbswUi9O3yM) | 2:10 |
 | 6 | [La Ética \- En Vivo](https://open.spotify.com/track/046n3w6lM0WLHK3OagloEU) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [En Vivo Desde Monterrey, Nuevo León](https://open.spotify.com/album/70o61l2EHww6tbkcTnjaoI) | 2:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 | 84 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 85 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
 
-Snapshot ID: `AAAAALVZTHfmHLn2PuRD/Hvby6euf3EL`
+Snapshot ID: `AAAAAFUHuAo0xwN6+S7uq1A+N2WqLoxK`

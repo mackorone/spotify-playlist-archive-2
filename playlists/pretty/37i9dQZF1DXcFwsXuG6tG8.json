@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 24261,
+  "num_followers": 24278,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFUgK+CI/ZDYovk/s0y0IihJziod",
+  "snapshot_id": "AAAAAM3pq4iIrjEiyO7NjxgXHbJoq7yr",
   "tracks": [
     {
       "added_at": "2026-04-10 04:03:03",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
+        "name": "Soulost",
+        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 240498,
+      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
+      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "Soulost",
-        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
+        "name": "BRRREAK!",
+        "url": "https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9"
       },
       "artists": [
         {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 240498,
-      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
-      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
+      "duration_ms": 167782,
+      "name": "BRRREAK!",
+      "url": "https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -835,38 +851,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "BRRREAK!",
-        "url": "https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 167782,
-      "name": "BRRREAK!",
-      "url": "https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
-        "name": "escrita",
-        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "m\u00e1s y menos",
-      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Por Si las Dudas",
         "url": "https://open.spotify.com/album/2G72gtZRp1TXdIhpgbCJ1u"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 176163,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/58i55N4Ji6BPyvqI4g1HTS"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Te Lo Voy a Decir",
         "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "GOLPE",
-        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
       "artists": [
         {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 216875,
-      "name": "GOLPE",
-      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -983,6 +967,22 @@
       "duration_ms": 110963,
       "name": "AUSENCIA",
       "url": "https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "GOLPE",
+        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 216875,
+      "name": "GOLPE",
+      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
+        "name": "en voz alta",
+        "url": "https://open.spotify.com/album/6CANqUuTmkD7LFwwwpcazR"
+      },
+      "artists": [
+        {
+          "name": "ABRL",
+          "url": "https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "en el aire",
+      "url": "https://open.spotify.com/track/5OVkjvPONlIkkwbhOXhJ8l"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
         "name": "Vida Nueva",
         "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 192933,
       "name": "a los 20",
       "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
-        "name": "en voz alta",
-        "url": "https://open.spotify.com/album/6CANqUuTmkD7LFwwwpcazR"
-      },
-      "artists": [
-        {
-          "name": "ABRL",
-          "url": "https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "en el aire",
-      "url": "https://open.spotify.com/track/5OVkjvPONlIkkwbhOXhJ8l"
     },
     {
       "added_at": "2026-04-10 04:03:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Joshua Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,382 likes - 98 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,408 likes - 98 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 97 | [The Monthes: September](https://open.spotify.com/track/6Bm4o5wQtKS0AUWumgwEAS) | [Christopher Simpson](https://open.spotify.com/artist/1vHvyfw9LvFAbhMCIGEiJm), [Les Lucioles](https://open.spotify.com/artist/2FrSSdAoExgTHDFS1H6Ddm) | [Simpson: The Monthes: September](https://open.spotify.com/album/0Kb3jt0YLd2iXQcYrdf4v8) | 4:38 |
 | 98 | [Pieces in Tone 1 in D Minor: I\. Prélude \- Autre Livre \- Grand Livre d'Orgue](https://open.spotify.com/track/696uCx3tA98aXMeWdT8T3O) | [Louis Couperin](https://open.spotify.com/artist/4Q9qWf7K4T1GcO4YRxVBy0), [David Ponsford](https://open.spotify.com/artist/2iEZX5JNSPYNaDWP7d1cY9) | [Couperin: Pieces in Tone 1 in D Minor: I\. Prélude \- Autre Livre \- Grand Livre d'Orgue](https://open.spotify.com/album/4cF8jjJIMQp0Ki7jmWXzrG) | 3:05 |
 
-Snapshot ID: `AAAAAFs+zlYDNQzS4IRfIzQgm4x3YQdK`
+Snapshot ID: `AAAAAMIkmJMJK+lP72e95ayx0y5P8GAo`

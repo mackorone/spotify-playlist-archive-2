@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,255 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,222 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Bad Lovers](https://open.spotify.com/track/2T5hu08najfwIGRnPTHkMs) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Everybody's Home, Nobody's Happy](https://open.spotify.com/album/3guJDcaVRdu7If38yHRAOr) | 3:39 |
 | 40 | [Jealous](https://open.spotify.com/track/0QBghBie9QpjQMm6F5EMbS) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Peace To Make](https://open.spotify.com/album/3RBRCj9pFM1Ercrwqv47uj) | 3:09 |
 
-Snapshot ID: `AAAAABcy5DgGakTCrnu+2H/Oz7Y8MzuM`
+Snapshot ID: `AAAAAK9K+4dZoucQeTKq4uT53YfRJRiA`

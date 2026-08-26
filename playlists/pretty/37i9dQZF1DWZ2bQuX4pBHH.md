@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,098 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,165 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 32 | [Suraj Hua Maddham](https://open.spotify.com/track/0mWtcNIAL9jITVHl3F2SQF) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 7:07 |
 | 33 | [Do Pal](https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 4:25 |
 | 34 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:53 |
-| 35 | [Dance Pe Chance](https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Rab Ne Bana Di Jodi](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:21 |
-| 36 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
+| 35 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
+| 36 | [Dance Pe Chance](https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Rab Ne Bana Di Jodi](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:21 |
 | 37 | [Tu Mere Samne](https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr](https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS) | 6:06 |
 | 38 | [Ek Din Aap](https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:26 |
 | 39 | [It's the Time to Disco](https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 49 | [Ae Mere Humsafar](https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:33 |
 | 50 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
 
-Snapshot ID: `AAAAAA8kl5ixLYulhcwOj9tw3H6sz3st`
+Snapshot ID: `AAAAAPwCOq34wGwXbQqFIdnCotqMPv7w`

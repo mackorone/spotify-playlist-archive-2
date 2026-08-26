@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Niska au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442,453 likes - 40 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,442,323 likes - 40 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [RAP d’arabe](https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [RAP d’arabe](https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ) | 3:01 |
 | 40 | [Charbon & Diamant](https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Charbon & Diamant](https://open.spotify.com/album/2Ihpl1sHO4bsbeOhqGPqTy) | 2:39 |
 
-Snapshot ID: `AAAAAGNmj0b3a1QuHRruUGxQJUzxz0uT`
+Snapshot ID: `AAAAAJGv0yfRF0uKTt0BgBnw2yF83gSO`

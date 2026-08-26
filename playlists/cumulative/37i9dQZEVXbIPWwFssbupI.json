@@ -6718,7 +6718,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -31034,6 +31034,24 @@
     {
       "album": {
         "name": "Maladie",
+        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
+    },
+    {
+      "album": {
+        "name": "Maladie",
         "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
       },
       "artists": [
@@ -31044,7 +31062,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
@@ -39472,7 +39490,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/2qfAnCOsLPFs8zOQc2pNKI"
@@ -39512,6 +39530,24 @@
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
+    },
+    {
+      "album": {
+        "name": "L'undertaker, Pt.1",
+        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
     },
     {
       "album": {
@@ -44684,7 +44720,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/74bFjTmlTbZVH9lG3EH7C2"
@@ -53390,10 +53426,28 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 117691,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX"
+    },
+    {
+      "album": {
+        "name": "Wagyu",
+        "url": "https://open.spotify.com/album/4Fo2W6EjxT9OzSRyLftqNV"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117691,
+      "name": "Wagyu",
+      "url": "https://open.spotify.com/track/7DVtpzEq51TFOYufMlMcD8"
     },
     {
       "album": {
@@ -53964,7 +54018,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
@@ -55276,6 +55330,24 @@
       "duration_ms": 199346,
       "name": "\u0394. Dieu ne ment jamais",
       "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"
+    },
+    {
+      "album": {
+        "name": "Ips\u00e9it\u00e9",
+        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201893,
+      "name": "\u0395. Signaler",
+      "url": "https://open.spotify.com/track/0z0izoGFPCoPJKFi41azyb"
     },
     {
       "album": {

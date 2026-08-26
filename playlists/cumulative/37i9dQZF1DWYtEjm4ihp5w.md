@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-544 songs - 1 day 4 hr 11 min
+545 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [caramel](https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [caramel](https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H) | 2:43 | 2026-05-08 |  |
 | [Casablanca](https://open.spotify.com/track/5rXsQFfmIDaUtRpyoPpxLM) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Casablanca](https://open.spotify.com/album/39TxiVIpZwVtntKtxdenwr) | 3:13 | 2022-11-14 | 2023-02-07 |
 | [Casadream](https://open.spotify.com/track/1o7QXcVqkza8Ssml6vbme0) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casadream](https://open.spotify.com/album/1ImQKybUH6thgYXNxKkxWV) | 4:15 | 2025-09-24 | 2025-11-22 |
+| [Casanightmare](https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casanightmare](https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8) | 3:09 | 2026-08-25 |  |
 | [Chabiba](https://open.spotify.com/track/1BYBQKiPt5Nn2Qr9voSabo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [Chabiba](https://open.spotify.com/album/6qQNLM5mRSFkjucuy8ghvn) | 2:28 | 2023-10-26 | 2023-11-16 |
 | [CHAINSOMNIA](https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [CHAINSOMNIA](https://open.spotify.com/album/04PJqCbNrq3miYRMclUjA9) | 2:48 | 2023-12-16 | 2024-05-26 |
 | [Chanel](https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Chanel](https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2) | 2:02 | 2024-02-23 | 2024-04-08 |
@@ -343,7 +344,7 @@
 | [Murray](https://open.spotify.com/track/5ec36tT5RBowyUPB0AZLUl) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Murray](https://open.spotify.com/album/6GysYHx4p5DkTXcp54uK5m) | 3:18 | 2025-01-27 | 2025-06-06 |
 | [Mystère](https://open.spotify.com/track/7zFanGy616pVNrElqZFezE) | [B4D](https://open.spotify.com/artist/7JozyqjvLoyOv39mxg71zQ) | [Mystère](https://open.spotify.com/album/0HGpiaauvzzvDaqrmXC4zb) | 3:19 | 2026-03-25 | 2026-05-08 |
 | [Médaille d'or](https://open.spotify.com/track/1ga9yCBW8v3dgsRaRl1LVo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 2:37 | 2022-11-14 | 2022-12-13 |
-| [MÊME PAS](https://open.spotify.com/track/3oQhKs5BpsjykMOtccBERO) | [Shr](https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp) | [MÊME PAS](https://open.spotify.com/album/0mY4RdgygLFNbhj9SlTcOU) | 2:24 | 2026-07-24 |  |
+| [MÊME PAS](https://open.spotify.com/track/3oQhKs5BpsjykMOtccBERO) | [Shr](https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp) | [MÊME PAS](https://open.spotify.com/album/0mY4RdgygLFNbhj9SlTcOU) | 2:24 | 2026-07-24 | 2026-08-26 |
 | [N13](https://open.spotify.com/track/0fekY543uGW1pGoSLuyvTr) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [N13](https://open.spotify.com/album/0plsfXFZk3RNyHMWBimiWS) | 2:39 | 2023-03-15 | 2023-05-26 |
 | [Nabra](https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 | 2026-01-09 | 2026-06-14 |
 | [Nadi Canadi](https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Nadi Canadi](https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE) | 3:41 | 2023-05-08 | 2023-06-23 |

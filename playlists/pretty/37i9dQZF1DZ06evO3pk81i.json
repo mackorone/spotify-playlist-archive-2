@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10092,
+  "num_followers": 10096,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABlrpQVoFDKChAOXRBjO0Ai",
+  "snapshot_id": "aouJgAAAAACoXvqPAXWUf90+Bg6Pu4X5",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Una Mirada",
-        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 201898,
-      "name": "Con Una Mirada",
-      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 141811,
       "name": "Esta Noche (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Una Mirada",
+        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 201898,
+      "name": "Con Una Mirada",
+      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Arrancarte",
-      "url": "https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 174210,
       "name": "Que Vas a Hacer (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Arrancarte",
+      "url": "https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "NOCHE NEGRA",
-      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 250240,
       "name": "Labios Rojos (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "NOCHE NEGRA",
+      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vicio Mi Adicci\u00f3n",
-        "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 139685,
-      "name": "Mi Vicio Mi Adicci\u00f3n",
-      "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 209554,
       "name": "Quiero Darte (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vicio Mi Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 139685,
+      "name": "Mi Vicio Mi Adicci\u00f3n",
+      "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
     },
     {
       "added_at": null,
@@ -779,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ama Sin Temor",
-        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 203416,
-      "name": "Esto Avanza",
-      "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
+      "duration_ms": 209583,
+      "name": "Quiero Ser",
+      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
     },
     {
       "added_at": null,
@@ -811,6 +807,26 @@
       "duration_ms": 152617,
       "name": "TE MUEVES MUY BIEN",
       "url": "https://open.spotify.com/track/3qGkq4PS76m3i2BdxtNMgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Ama Sin Temor",
+        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        }
+      ],
+      "duration_ms": 203416,
+      "name": "Esto Avanza",
+      "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
     },
     {
       "added_at": null,

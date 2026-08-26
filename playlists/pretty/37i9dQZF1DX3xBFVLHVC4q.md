@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,940 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,942 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 16 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 |
 | 17 | [トリコリコPLEASE!!](https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 3:47 |
 | 18 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
-| 19 | [HAPPY PARTY TRAIN](https://open.spotify.com/track/4juoJEZlwHSbIcD1W5Bdem) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [HAPPY PARTY TRAIN](https://open.spotify.com/album/6zH0oHuUABxdehCjSfNEVF) | 4:37 |
+| 19 | [WATER BLUE NEW WORLD](https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [WATER BLUE NEW WORLD/WONDERFUL STORIES](https://open.spotify.com/album/6piMsWNiFJ3z6VNVUiRtUG) | 5:43 |
 | 20 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
 | 21 | [New Romantic Sailors](https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [New Romantic Sailors](https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF) | 4:42 |
 | 22 | [夢で夜空を照らしたい](https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [夢で夜空を照らしたい/未熟DREAMER](https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM) | 5:34 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 35 | [もっとね!](https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album ～さかなかなんだか?～](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 3:49 |
 | 36 | [PURE PHRASE](https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O) | [LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album ～Pianoforte Monologue～](https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb) | 5:10 |
 | 37 | [INNOCENT BIRD](https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 3:44 |
-| 38 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
-| 39 | [地元愛▽満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [デュオトリオコレクション VOL.1 ～SUMMER VACATION～](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
+| 38 | [地元愛▽満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [デュオトリオコレクション VOL.1 ～SUMMER VACATION～](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
+| 39 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
 | 40 | [涙が雪になる前に](https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [デュオトリオコレクション VOL.2 ～WINTER VACATION～](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:23 |
 | 41 | [夏への扉 Never end ver.](https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O) | [デュオトリオコレクション VOL.1 ～SUMMER VACATION～](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:15 |
 | 42 | [空中恋愛論](https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [Main theme of Lovelive! Sunshine!!](https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
 | 50 | [Paradise Chime](https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Watanabe You](https://open.spotify.com/album/4QbH80ewjdtHpNoDhTivdq) | 3:49 |
 
-Snapshot ID: `AAAAAH9gnVpcooRLgDZQMz7T80DmJRMF`
+Snapshot ID: `AAAAADa4ZQEiJdHqxXOmyeLSRLaY2lf7`

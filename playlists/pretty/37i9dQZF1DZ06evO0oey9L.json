@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101213,
+  "num_followers": 101232,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAD0Gp1DPvxZunQUTWTI8MCN",
+  "snapshot_id": "aouJgAAAAAD1fRymBuRpXQ6UeidJ1YD8",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 180197,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
         "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 171743,
       "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
       "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
     },
     {
       "added_at": null,

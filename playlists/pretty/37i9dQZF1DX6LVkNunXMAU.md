@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Galean & Planeta No
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,331 likes - 105 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,332 likes - 105 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 104 | [Matilda](https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV) | [Vipisita](https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32) | [Matilda](https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY) | 2:40 |
 | 105 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 |
 
-Snapshot ID: `AAAAAN1YqAYq0CrGbnWg6lgJaeroTS7q`
+Snapshot ID: `AAAAAG/Ljbd5ZlngDxz6MlgHzSeWnxnX`

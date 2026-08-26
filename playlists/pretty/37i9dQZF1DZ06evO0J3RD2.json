@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10387,
+  "num_followers": 10393,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAD7F67ZMxBq0sYwIKyPf4tB",
+  "snapshot_id": "aouJgAAAAAC1AUZlqip/w74kMd1QALzl",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+      "duration_ms": 189560,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 189560,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": null,

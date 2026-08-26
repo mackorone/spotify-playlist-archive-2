@@ -1,12 +1,12 @@
 {
   "description": "100% indie floorfillers.",
-  "num_followers": 457849,
+  "num_followers": 457866,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGAy7ZydrX+UPrVAYhHfT3MQ7/Tv",
+  "snapshot_id": "AAAAADr/Fakh4u3Mp/NYMa8Gh3N3PjxR",
   "tracks": [
     {
       "added_at": "2024-12-20 01:31:11",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Let's Dance",
-        "url": "https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Let's Dance - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 242266,
       "name": "D.A.N.C.E.",
       "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Let's Dance - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered 2009",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 176483,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered 2009",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "His N Hers",
         "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Women In Music Pt III (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
+      "duration_ms": 256400,
+      "name": "Standing in the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+        "name": "Women In Music Pt III (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
       },
       "artists": [
         {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 256400,
-      "name": "Standing in the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -2045,22 +2045,6 @@
       "url": "https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "FIVE V2",
-        "url": "https://open.spotify.com/album/2O7YDHrrrnef6wU4efch5v"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 292372,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/57PuRFQ41OhhWAFxLh7zXz"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Seventeen Going Under",
@@ -2075,6 +2059,22 @@
       "duration_ms": 237280,
       "name": "Seventeen Going Under - Edit",
       "url": "https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "FIVE V2",
+        "url": "https://open.spotify.com/album/2O7YDHrrrnef6wU4efch5v"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 292372,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/57PuRFQ41OhhWAFxLh7zXz"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2177,22 +2177,6 @@
       "url": "https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Given To The Wild",
-        "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
-      },
-      "artists": [
-        {
-          "name": "The Maccabees",
-          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Pelican",
-      "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "V",
@@ -2207,6 +2191,22 @@
       "duration_ms": 400041,
       "name": "Something To Remember Me By",
       "url": "https://open.spotify.com/track/3iyfg1RwpatVcqfMshEplN"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Given To The Wild",
+        "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2453,20 +2453,20 @@
       "url": "https://open.spotify.com/track/13LsKYpr3ZNMTRu0Lo8Z7R"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
+      "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "LOSTWITHOUTMARIA",
-        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+        "name": "Where\u2019s My Utopia?",
+        "url": "https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg"
       },
       "artists": [
         {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
         }
       ],
-      "duration_ms": 154104,
-      "name": "LOSTWITHOUTMARIA",
-      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/7mYTcajvGEU4LZeHQ8V5w2"
     }
   ],
   "unique_name": "Indie Party",

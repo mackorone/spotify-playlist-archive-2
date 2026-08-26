@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62326,
+  "num_followers": 62336,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYBqFDzz4xScuYA5bjqDWsU1ZmW",
+  "snapshot_id": "AAAAAJuXIAyR4adyAWZfAGkRL+uCD1Ii",
   "tracks": [
     {
       "added_at": "2026-05-26 09:17:44",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/2A3Ivplogx6qpjFdHmg6fR"
     },
     {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Parjanya",
+        "url": "https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "duration_ms": 1222413,
+      "name": "Ragam Tanam Pallavi",
+      "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
+    },
+    {
       "added_at": "2025-09-05 03:40:50",
       "album": {
         "name": "Only Love is Real",
@@ -235,22 +251,6 @@
       "duration_ms": 448000,
       "name": "White",
       "url": "https://open.spotify.com/track/5SpQIOjCgqakMjIWprztHR"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Parjanya",
-        "url": "https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM"
-      },
-      "artists": [
-        {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
-        }
-      ],
-      "duration_ms": 1222413,
-      "name": "Ragam Tanam Pallavi",
-      "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -355,8 +355,8 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mood Music - Cool Carnatic Instrumentals",
-        "url": "https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD"
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
         }
       ],
-      "duration_ms": 409426,
-      "name": "Vathapi Ganapathim Bhajeham",
-      "url": "https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw"
+      "duration_ms": 362346,
+      "name": "Bho Shambho - Instrumental",
+      "url": "https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -451,8 +451,8 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+        "name": "Mood Music - Cool Carnatic Instrumentals",
+        "url": "https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
         }
       ],
-      "duration_ms": 362346,
-      "name": "Bho Shambho - Instrumental",
-      "url": "https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC"
+      "duration_ms": 409426,
+      "name": "Vathapi Ganapathim Bhajeham",
+      "url": "https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Sheik Chinna Moulana",
+          "url": "https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ"
+        }
+      ],
+      "duration_ms": 817240,
+      "name": "Swara Raga Sankarabharanam Adi Thyagaraja",
+      "url": "https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Classical Icons - U. Srinivas",
         "url": "https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 1609960,
       "name": "Srikanthimati - Raga Hemavati - Adi",
       "url": "https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "South Indian Classical Music",
-        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
-      },
-      "artists": [
-        {
-          "name": "Sheik Chinna Moulana",
-          "url": "https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ"
-        }
-      ],
-      "duration_ms": 817240,
-      "name": "Swara Raga Sankarabharanam Adi Thyagaraja",
-      "url": "https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Compositions Of Papanasam Sivam",
-        "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
-      },
-      "artists": [
-        {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
-        }
-      ],
-      "duration_ms": 457360,
-      "name": "Thatwamaria - Reeti Gowla - Adi",
-      "url": "https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
         "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 468745,
       "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
       "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Compositions Of Papanasam Sivam",
+        "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "duration_ms": 457360,
+      "name": "Thatwamaria - Reeti Gowla - Adi",
+      "url": "https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl"
     },
     {
       "added_at": "2025-07-09 11:29:57",

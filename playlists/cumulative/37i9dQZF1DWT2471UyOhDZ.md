@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Westside Cowboy
 
-506 songs - 1 day 8 hr 34 min
+507 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 | 2025-01-31 | 2025-04-02 |
 | [Little Black Dress](https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Little Black Dress](https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b) | 3:11 | 2025-10-23 | 2026-07-11 |
 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 | 2024-08-14 | 2025-02-08 |
+| [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 | 2026-08-20 |  |
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2025-01-31 |
 | [Loose Talk](https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Soft Control](https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC) | 3:25 | 2026-08-20 |  |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-06-14 | 2025-03-22 |
@@ -330,7 +331,7 @@
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-28 | 2026-06-19 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2024-06-14 | 2025-03-22 |
 | [Ode To The Glory Days](https://open.spotify.com/track/1woppfKnFQrxgLkr36Zu5I) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Ode To The Glory Days](https://open.spotify.com/album/40p1xMqGSRpXl11bSaO9C3) | 4:34 | 2026-06-18 | 2026-07-13 |
-| [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 | 2026-07-31 |  |
+| [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 | 2026-07-31 | 2026-08-26 |
 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-05-30 | 2026-07-29 |
 | [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 | 2026-08-06 |  |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-21 | 2026-06-19 |

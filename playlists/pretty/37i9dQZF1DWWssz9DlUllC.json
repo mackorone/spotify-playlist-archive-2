@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  FOLA",
-  "num_followers": 96012,
+  "num_followers": 96096,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJlKqgJN2YaIDQCCzGapHQtKmEw",
+  "snapshot_id": "AAAAADeuoHd/dLkes1kZYehL7ANPGNCe",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:50",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 172160,
       "name": "Aura Salad",
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
+        "name": "I Can't Look Away",
+        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
+      },
+      "artists": [
+        {
+          "name": "Mr. P",
+          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "I Can't Look Away",
+      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
-        "name": "I Can't Look Away",
-        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
-      },
-      "artists": [
-        {
-          "name": "Mr. P",
-          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "I Can't Look Away",
-      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 146086,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "LAPOPIANO",
-        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "LAPOPIANO",
-      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 135549,
       "name": "Fast and Furious",
       "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
         "name": "Fi Kan We Kan",
         "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "Follow My Lead",
-        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "Follow My Lead",
-      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "Wahala Pikin",
         "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 118801,
       "name": "Opium Amapiano",
       "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 140343,
+      "name": "Follow My Lead",
+      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
     },
     {
       "added_at": "2026-08-21 00:01:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain]
 
 > Relive the glory days of the 90s and 00s when Girl Power ruled the music world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,160 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,182 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain]
 | 54 | [Damn I Wish I Was Your Lover](https://open.spotify.com/track/7kmfQ2QHwGqRCxVHDv5mzo) | [Sophie B\. Hawkins](https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC) | [Tongues And Tails](https://open.spotify.com/album/0uv0eA8q8HCfCytsAtZSch) | 5:23 |
 | 55 | [Everyday Is A Winding Road](https://open.spotify.com/track/1LlIqoHhTYC7Pd8dFMLzzx) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/49fcfLcicBYSqitKzXDJpN) | 4:16 |
 
-Snapshot ID: `AAAAAEGKzP3nH6ew9JA0AUKLqQnA2xuh`
+Snapshot ID: `AAAAAAXpcMDQYL/A60SNkkaqquv6djcp`

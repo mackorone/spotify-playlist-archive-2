@@ -4,7 +4,7 @@
 
 > Hottest tracks from Coke Studio Bharat.
 
-65 songs - 14 hr 58 min
+66 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Holo Lolo \| Coke Studio Bharat](https://open.spotify.com/track/3hJqcK8PvzbhIAyrgcKbCQ) | [Shankuraj Konwar](https://open.spotify.com/artist/2sTO4BkutHILz6xXwbbar9), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Holo Lolo \| Coke Studio Bharat](https://open.spotify.com/album/01U2i2MpX4XFJuty26VYty) | 4:41 | 2025-03-26 |  |
 | [Hoor \| Coke Studio Bharat](https://open.spotify.com/track/0XiZEqOr2ZF4EzQaBzUGIg) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Qaiser Nizami](https://open.spotify.com/artist/2TFelufhNan03C8eODRkbY) | [Hoor \| Coke Studio Bharat](https://open.spotify.com/album/7CWIrGsju5yTIo3jvXn8BV) | 6:25 | 2026-06-25 |  |
 | [Ishq Bawla \| Coke Studio Bharat](https://open.spotify.com/track/7ipocikxlJX318tXE4S5nE) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6) | [Ishq Bawla \| Coke Studio Bharat](https://open.spotify.com/album/19tJJMKefMTADntQ6RBrAx) | 4:32 | 2025-06-18 |  |
+| [Kachaudi Gali \| Coke Studio Bharat](https://open.spotify.com/track/5eaM2BtVi2SsjA8Q31QGF3) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Utpal Udit](https://open.spotify.com/artist/6CofdUvEkvHE8r0vPAtg0h), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kachaudi Gali \| Coke Studio Bharat](https://open.spotify.com/album/3kqqrHGNYm8vgexntOEYd6) | 3:25 | 2026-08-25 |  |
 | [Kaushi Kanada](https://open.spotify.com/track/2XOyluz7IWgOvvsRMtrYhw) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Madras 1964](https://open.spotify.com/album/6cDIt3S7CdWT8WrjzuDtJz) | 43:39 | 2022-03-03 | 2025-03-04 |
 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 | 2025-03-03 |  |
 | [Kya Karie Korimol](https://open.spotify.com/track/38DpYnVKdCy8f9OoUPBTSF) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Aashima Mahajan](https://open.spotify.com/artist/5joxaUVi9EcJ011oXF0Dvg) | [Kya Karie Korimol](https://open.spotify.com/album/2Ai7Wo8PtHic9rJK1Cjdpo) | 5:14 | 2025-03-03 |  |

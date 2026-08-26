@@ -1,12 +1,12 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 532654,
+  "num_followers": 532651,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgdGueT1PEhrE7HK7vXNozxUtRO",
+  "snapshot_id": "AAAAAHweNUP3T0B4OyhSgGyDtlEtS+vH",
   "tracks": [
     {
       "added_at": "2024-07-25 13:22:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Comment te dire adieu ?",
-        "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Comment te dire adieu - It Hurts to Say Goodbye",
-      "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 245533,
       "name": "La boh\u00e8me",
       "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Comment te dire adieu ?",
+        "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Comment te dire adieu - It Hurts to Say Goodbye",
+      "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 140826,
       "name": "Hier encore",
       "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "La poup\u00e9e qui fait non",
-      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 212200,
       "name": "Emmenez Moi",
       "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "La poup\u00e9e qui fait non",
+      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
     },
     {
       "added_at": "2024-07-25 13:22:22",

@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 47356,
+  "num_followers": 47358,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADudvJL9UykqmNnuaKP5cfylYDVf",
+  "snapshot_id": "AAAAAB+AOlE1kqcTJtMv6dbRo9vk3Efr",
   "tracks": [
     {
       "added_at": "2026-08-19 08:57:38",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-08-19 08:57:38",
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "Amazing (feat. kwn)",
+      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
+    },
+    {
+      "added_at": "2026-08-19 08:57:38",
+      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
       },
@@ -423,6 +443,26 @@
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
+    },
+    {
+      "added_at": "2026-08-19 08:57:38",
+      "album": {
+        "name": "Ready (feat. \u00d8bed)",
+        "url": "https://open.spotify.com/album/6KJJfVl62AaliPRqQ0sSpI"
+      },
+      "artists": [
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        },
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Ready (feat. \u00d8bed)",
+      "url": "https://open.spotify.com/track/5ZGyfcX8rmvy1MWWonAjpt"
     },
     {
       "added_at": "2026-08-19 08:57:38",
@@ -451,22 +491,18 @@
     {
       "added_at": "2026-08-19 08:57:38",
       "album": {
-        "name": "Ready (feat. \u00d8bed)",
-        "url": "https://open.spotify.com/album/6KJJfVl62AaliPRqQ0sSpI"
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
       },
       "artists": [
         {
-          "name": "Sante SVM",
-          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
-        },
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Ready (feat. \u00d8bed)",
-      "url": "https://open.spotify.com/track/5ZGyfcX8rmvy1MWWonAjpt"
+      "duration_ms": 206835,
+      "name": "For The Moment",
+      "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
     },
     {
       "added_at": "2026-08-19 08:57:38",
@@ -480,29 +516,13 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 164718,
-      "name": "Amazing (feat. kwn)",
-      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
-    },
-    {
-      "added_at": "2026-08-19 08:57:38",
-      "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206835,
-      "name": "For The Moment",
-      "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
+      "duration_ms": 225500,
+      "name": "Gimme Dat (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
     },
     {
       "added_at": "2026-08-19 08:57:38",
@@ -559,26 +579,6 @@
       "duration_ms": 223509,
       "name": "Might Just",
       "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
-    },
-    {
-      "added_at": "2026-08-19 08:57:38",
-      "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Gimme Dat (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
     },
     {
       "added_at": "2026-08-19 08:57:38",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-08-19 08:57:38",
       "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "duration_ms": 150201,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
+    },
+    {
+      "added_at": "2026-08-19 08:57:38",
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
-    },
-    {
-      "added_at": "2026-08-19 08:57:38",
-      "album": {
-        "name": "U, Me & My Ego",
-        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
-      },
-      "artists": [
-        {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        }
-      ],
-      "duration_ms": 150201,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
     },
     {
       "added_at": "2026-08-19 08:57:38",
@@ -1455,30 +1455,22 @@
     {
       "added_at": "2026-08-19 08:57:38",
       "album": {
-        "name": "STINGY",
-        "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
+        "name": "PersWaysion",
+        "url": "https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
         },
         {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         }
       ],
-      "duration_ms": 220206,
-      "name": "STINGY",
-      "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
+      "duration_ms": 135861,
+      "name": "You're Mine",
+      "url": "https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb"
     }
   ],
   "unique_name": "Cocoa Butter ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,645 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,625 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [IRL](https://open.spotify.com/track/5VxnBDUSCweTkyUxP32k3S) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [IRL](https://open.spotify.com/album/46BB0CcFuzp0oWFK4MYyT2) | 2:22 |
 | 100 | [Cry me a river](https://open.spotify.com/track/5gx9amnxJZ8150SunVLkTz) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Cry me a river](https://open.spotify.com/album/1z3lVThTF2aRuyNGb502FS) | 2:24 |
 
-Snapshot ID: `AAAAAGO5mP7Pn0DfUVeNu3MbLQV+mARw`
+Snapshot ID: `AAAAAMyi0CCjg+xi/NoNxZqG3uYQITZ1`

@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218232,
+      "name": "El Rey De Corazones - En Vivo",
+      "url": "https://open.spotify.com/track/6EGfGzAIFoWTI6BbCIwEVN"
+    },
+    {
+      "album": {
         "name": "El Ruidoso",
         "url": "https://open.spotify.com/album/5AxENRlLhZTShTyKtw2dOj"
       },

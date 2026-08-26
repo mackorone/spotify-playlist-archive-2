@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-169 songs - 11 hr 54 min
+170 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Binary Vampire](https://open.spotify.com/track/0hRjjmx3sLhmZsNVtyBRhc) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Binary Vampire](https://open.spotify.com/album/3P1sruyVLDOt5h8bO4vaIc) | 3:31 | 2024-04-16 |  |
 | [Binary Vampire](https://open.spotify.com/track/1kweGaOuEAeP4Jpby7sREy) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Binary Vampire](https://open.spotify.com/album/7Cc5sSu8MYibND5g4jK33J) | 3:31 | 2024-04-16 | 2024-04-19 |
 | [BLACK TIGER](https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Źenit \- EP](https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS) | 3:48 | 2022-12-13 | 2026-06-01 |
+| [Black Toccata](https://open.spotify.com/track/5xKTQScQGkjAPC0jUcY4Bs) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [New Sensation](https://open.spotify.com/album/49Xg6R02jIeVvY6zi5Ud6m) | 2:46 | 2026-08-25 |  |
 | [Boys & Girls](https://open.spotify.com/track/17cQxYJ2mcanjoPMwDYAxz) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Opus](https://open.spotify.com/album/6Z3MIv6zLb1bk2aOMGbGsi) | 4:06 | 2022-06-14 | 2022-07-23 |
 | [Chameleon](https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5), [千 \(CV.立花慎之介\)](https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Chameleon](https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4) | 3:30 | 2024-04-01 |  |
 | [Crescent rise](https://open.spotify.com/track/4eFTSvQq9wmNZ1lW1YLZJd) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Crescent rise](https://open.spotify.com/album/3YZZ5tD78xFEa1C9YbOgmC) | 5:36 | 2022-06-09 | 2022-07-29 |
@@ -150,7 +151,7 @@
 | [カレイドスコープ](https://open.spotify.com/track/4lDreS79cWyHzL9U6NMoh6) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [カレイドスコープ](https://open.spotify.com/album/19Er19UBgDjHxofmw8KnRR) | 3:53 | 2022-06-09 |  |
 | [キズナ](https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 4:06 | 2023-03-07 | 2025-11-09 |
 | [ココロ、ハレ晴レ](https://open.spotify.com/track/1OVW6S9aU03kk9JMaAHqln) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ココロ、ハレ晴レ](https://open.spotify.com/album/1m2PwqWbu5EjHRxKTgz5mE) | 4:31 | 2022-06-14 | 2023-05-24 |
-| [ササゲロ \-You Are Mine\-](https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 4:26 | 2022-06-09 |  |
+| [ササゲロ \-You Are Mine\-](https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 4:26 | 2022-06-09 | 2026-08-26 |
 | [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 | 2022-06-09 | 2023-05-24 |
 | [ハツコイリズム](https://open.spotify.com/track/0F5YkPihmTQ4XZGkGQzlFA) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Mr.AFFECTiON](https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm) | 4:53 | 2022-06-14 | 2022-07-28 |
 | [ハルノヨノユメ](https://open.spotify.com/track/2ddtypjhCu2YFfgRLVSeWg) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [ハルノヨノユメ](https://open.spotify.com/album/51KH1bvI23HtXxA40XVAR3) | 3:12 | 2024-04-16 |  |

@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Clear Mind",
+        "url": "https://open.spotify.com/album/74EviIjKG5lqNU7Q90ndhr"
+      },
+      "artists": [
+        {
+          "name": "Eden",
+          "url": "https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Clear Mind",
+      "url": "https://open.spotify.com/track/7Fni42H810g5qEcWkZqd4A"
+    },
+    {
+      "album": {
         "name": "Clear Skies",
         "url": "https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m"
       },
@@ -4442,6 +4460,24 @@
       "duration_ms": 134540,
       "name": "Darker",
       "url": "https://open.spotify.com/track/092DLaLs5wYSKgbvdcsa13"
+    },
+    {
+      "album": {
+        "name": "Dawn Breaker",
+        "url": "https://open.spotify.com/album/21l1ue6bWzE21nFHpqnEcn"
+      },
+      "artists": [
+        {
+          "name": "Sonic Waves",
+          "url": "https://open.spotify.com/artist/6lK8FIq08Z4J62sC5dHDqk"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134908,
+      "name": "Dawn Breaker",
+      "url": "https://open.spotify.com/track/2KoTG8ZY36VBWrLtpUHQIt"
     },
     {
       "album": {
@@ -6768,6 +6804,24 @@
       "duration_ms": 198077,
       "name": "Feels Like Flying",
       "url": "https://open.spotify.com/track/3mMd2MGvEIDAfMfvcb9wsC"
+    },
+    {
+      "album": {
+        "name": "Field Of Action",
+        "url": "https://open.spotify.com/album/54ppuM1iFcfLmiLEDGUk5a"
+      },
+      "artists": [
+        {
+          "name": "Fluvis",
+          "url": "https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135374,
+      "name": "Field Of Action",
+      "url": "https://open.spotify.com/track/5cQqIpNDJIZ3TR1IouvSFd"
     },
     {
       "album": {

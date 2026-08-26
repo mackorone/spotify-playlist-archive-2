@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,886,918 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,402 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Memories](https://open.spotify.com/track/4WbI5sUN8pcl1Pn5k6USXL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ESKE](https://open.spotify.com/artist/1q9b1DlMkoD49YmakRWdST) | [Memories](https://open.spotify.com/album/7vwd0YHaGTBirYssevQbTr) | 2:10 |
 | 50 | [Seratonin](https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Seratonin](https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj) | 1:55 |
 
-Snapshot ID: `AAAAAHV4kgT1yBIN6QfaYv7Tc3RQ4UGQ`
+Snapshot ID: `AAAAAApHvNAMYt3qYzBv/qLpu1Gx0B/k`

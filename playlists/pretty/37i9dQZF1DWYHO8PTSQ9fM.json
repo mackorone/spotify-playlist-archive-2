@@ -1,12 +1,12 @@
 {
   "description": "The hottest hits right now. Cover: ElGrandeToto",
-  "num_followers": 679734,
+  "num_followers": 679751,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAALlOkHDBdWc75rzXHDVYdQ/ioO3",
+  "snapshot_id": "AAAAAPpxrHftw1EgzOsVtSiPYw0pIePe",
   "tracks": [
     {
       "added_at": "2026-08-18 23:00:32",
@@ -135,6 +135,26 @@
       "duration_ms": 179993,
       "name": "LAMARA",
       "url": "https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj"
+    },
+    {
+      "added_at": "2026-08-25 21:02:23",
+      "album": {
+        "name": "TITIZ A KHAY",
+        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        },
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "TITIZ A KHAY",
+      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
     },
     {
       "added_at": "2026-08-18 23:00:32",
@@ -619,22 +639,6 @@
     {
       "added_at": "2026-08-18 23:00:32",
       "album": {
-        "name": "Tach",
-        "url": "https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "Tach",
-      "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
-    },
-    {
-      "added_at": "2026-08-18 23:00:32",
-      "album": {
         "name": "G\u00e9n\u00e9ration impolie",
         "url": "https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk"
       },
@@ -809,6 +813,22 @@
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
     },
     {
+      "added_at": "2026-08-25 20:34:07",
+      "album": {
+        "name": "\u0627\u0644\u062d\u0628 \u0627\u064a\u0647\u061f",
+        "url": "https://open.spotify.com/album/41hx3ANA5kgT974fZRcpww"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
+        }
+      ],
+      "duration_ms": 143777,
+      "name": "\u0645\u0634 \u0645\u063a\u0631\u0648\u0631\u0629",
+      "url": "https://open.spotify.com/track/0ypyxXgnE2V2QKO4qHv9Th"
+    },
+    {
       "added_at": "2026-08-18 23:00:32",
       "album": {
         "name": "SPLIT",
@@ -895,26 +915,6 @@
       "duration_ms": 165057,
       "name": "Badadi",
       "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
-    },
-    {
-      "added_at": "2026-08-18 23:00:32",
-      "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
-        },
-        {
-          "name": "Salma Rachid",
-          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh"
     },
     {
       "added_at": "2026-08-18 23:00:32",

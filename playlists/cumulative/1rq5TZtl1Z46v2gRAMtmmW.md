@@ -4,7 +4,7 @@
 
 > 
 
-569 songs - 1 day 12 hr 38 min
+570 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Telescope](https://open.spotify.com/track/69Jq9eecbxEk5J6NsnuC0l) | [Tres Leches](https://open.spotify.com/artist/2xjYjo0XaziIp1rq3MewJd), [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Telescope](https://open.spotify.com/album/6AezZU7MtrlRjxSZd0xIOz) | 3:27 | 2025-06-25 | 2025-09-18 |
 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-05-15 | 2023-08-18 |
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2022-12-08 | 2023-01-10 |
+| [THAT KID](https://open.spotify.com/track/3LD0amRQFt55wXQ7n3vbeL) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [THAT KID](https://open.spotify.com/album/3D71e0tS6t9Z9DFU59rmBY) | 3:27 | 2026-08-25 |  |
 | [The 6](https://open.spotify.com/track/2xZGHDB2CudDDIWjEQpdtB) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [SAMSON](https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 2:45 | 2025-03-24 | 2025-04-01 |
 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-10 | 2024-08-13 |
 | [the evidence \- Exaktly remix](https://open.spotify.com/track/6V0wLGlc9WkPrKGOsBBhMd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [the evidence \(Exaktly remix\)](https://open.spotify.com/album/2aM56kUoNhWsDhg5sDZlwG) | 2:59 | 2024-10-03 | 2025-03-14 |

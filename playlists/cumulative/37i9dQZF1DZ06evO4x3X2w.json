@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 273902,
       "name": "Adam's Apple",
       "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Honkin' On Bobo",
+        "url": "https://open.spotify.com/album/0cofhAxozb6jvoPDYlibbd"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Baby, Please Don't Go",
+      "url": "https://open.spotify.com/track/0yvfGM5ql6TI4of0EDX1sl"
+    },
+    {
+      "album": {
         "name": "Rocks",
         "url": "https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
       },
@@ -186,10 +204,32 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 280431,
       "name": "Back In the Saddle",
       "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Back In the Saddle - 2025 Mix",
+      "url": "https://open.spotify.com/track/5zjKxcNJ3v0IkJcOQHWQRZ"
     },
     {
       "album": {
@@ -244,7 +284,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "Big Ten Inch Record",
       "url": "https://open.spotify.com/track/74jtieTD4GbZSwfCfmaFxz"
@@ -364,6 +404,24 @@
       "duration_ms": 242256,
       "name": "Chip Away The Stone",
       "url": "https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221118,
+      "name": "Combination",
+      "url": "https://open.spotify.com/track/0b4nzqHtFuOkRpz82nNST9"
     },
     {
       "album": {
@@ -576,7 +634,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 204059,
       "name": "Draw The Line",
       "url": "https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC"
@@ -648,7 +706,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 265773,
       "name": "Dude (Looks Like A Lady)",
       "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
@@ -864,7 +922,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 333200,
       "name": "Hangman Jury",
       "url": "https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ"
@@ -1152,7 +1210,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 206631,
       "name": "Last Child",
       "url": "https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r"
@@ -1188,7 +1246,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 266749,
       "name": "Lightning Strikes",
       "url": "https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q"
@@ -1260,7 +1318,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 321826,
       "name": "Love In An Elevator - Single Version",
       "url": "https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe"
@@ -1282,6 +1340,24 @@
       "duration_ms": 218960,
       "name": "Make It",
       "url": "https://open.spotify.com/track/1IkCG9jkzCrl3TadPTh4dU"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/3qHYaDTM2q0SCfLxX3Wlxm"
     },
     {
       "album": {
@@ -1492,7 +1568,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 241294,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd"
@@ -1510,7 +1586,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 274088,
       "name": "No More No More",
       "url": "https://open.spotify.com/track/7a9b2uPIeLUynTk6zmqacV"
@@ -1568,6 +1644,24 @@
       "duration_ms": 422607,
       "name": "One Way Street",
       "url": "https://open.spotify.com/track/06ql7n0Wz0QLSFb9hWF3v1"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422613,
+      "name": "One Way Street",
+      "url": "https://open.spotify.com/track/66sHugz0V88hh6zYjI7OfG"
     },
     {
       "album": {
@@ -1662,7 +1756,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 265693,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
@@ -1680,7 +1774,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 246023,
       "name": "Rats In The Cellar",
       "url": "https://open.spotify.com/track/6xPmS8ol9p0JhOtWoODjZM"
@@ -1932,7 +2026,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 217902,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
@@ -2004,7 +2098,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 185109,
       "name": "Toys In The Attic",
       "url": "https://open.spotify.com/track/4e4ukCLCov1UYoup2SdRHB"
@@ -2058,7 +2152,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 333662,
       "name": "Train Kept a Rollin'",
       "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
@@ -2098,6 +2192,24 @@
       "duration_ms": 249826,
       "name": "Uncle Salty",
       "url": "https://open.spotify.com/track/3XW2c507flCMzqd7Woc2mr"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295333,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/3qs0WTZOHMq4VYonD7mAJ0"
     },
     {
       "album": {
@@ -2152,7 +2264,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 310375,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
@@ -2192,6 +2304,24 @@
       "duration_ms": 193514,
       "name": "Walkin' The Dog",
       "url": "https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/4HMoqSzvTJoMohjrv1gatP"
     },
     {
       "album": {

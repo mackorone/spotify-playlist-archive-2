@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 321243,
       "name": "'Tis Autumn - Mono",
       "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 424493,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 423573,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 227240,
       "name": "Blue Bossa",
       "url": "https://open.spotify.com/track/2xIJC8c665FT6FWmmFETQm"
@@ -220,6 +220,72 @@
       "duration_ms": 246160,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9"
+    },
+    {
+      "album": {
+        "name": "Dreams, Drugs and Django",
+        "url": "https://open.spotify.com/album/6IsB76K27mTWFmIjIMevHn"
+      },
+      "artists": [
+        {
+          "name": "Jon Larsen",
+          "url": "https://open.spotify.com/artist/78932qb8ldFSsXgDq2cltO"
+        },
+        {
+          "name": "Jimmy Rosenberg",
+          "url": "https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn"
+        },
+        {
+          "name": "Angelo DeBarre",
+          "url": "https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt"
+        },
+        {
+          "name": "Biel Ballester",
+          "url": "https://open.spotify.com/artist/1OuWJDxfpuEdlNvLLnN2st"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Florin Niculescu",
+          "url": "https://open.spotify.com/artist/2HdcSFjH7Q29VYf89WIHLs"
+        },
+        {
+          "name": "Stochelo Rosenberg",
+          "url": "https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5"
+        },
+        {
+          "name": "Pascal de Loutcheck",
+          "url": "https://open.spotify.com/artist/3mxIEiUDDuWq4xj73RYHy8"
+        },
+        {
+          "name": "Ola Kvernberg",
+          "url": "https://open.spotify.com/artist/6OaEACxpxzP2sDxX2nTUYJ"
+        },
+        {
+          "name": "Philip Catherine",
+          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
+        },
+        {
+          "name": "Stian Carstensen",
+          "url": "https://open.spotify.com/artist/1TMAAu88K5ofxlAkBrVRvp"
+        },
+        {
+          "name": "Babik Reinhardt",
+          "url": "https://open.spotify.com/artist/770iqFnZSU8y1Nqp6PcfbM"
+        },
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Bossa Dorado",
+      "url": "https://open.spotify.com/track/4btAgFUeuU8nRwf0c6QrsR"
     },
     {
       "album": {
@@ -292,7 +358,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183346,
       "name": "Do It the Hard Way",
       "url": "https://open.spotify.com/track/5dFBJ1rqakFBp7QkjYC4VZ"
@@ -420,7 +486,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 255466,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa"
@@ -514,6 +580,24 @@
       "duration_ms": 195173,
       "name": "I Remember You - Remastered 2004",
       "url": "https://open.spotify.com/track/6FYeRy9LuMYTEMXOVCRCJ5"
+    },
+    {
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488026,
+      "name": "I waited for you",
+      "url": "https://open.spotify.com/track/7EF6ls57hx7h2fThxjkXB5"
     },
     {
       "album": {
@@ -708,7 +792,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 306893,
       "name": "I\u2019m Old Fashioned",
       "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
@@ -748,6 +832,28 @@
       "duration_ms": 223706,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Live at The Rising Sun Celebrity Jazz Club)",
+        "url": "https://open.spotify.com/album/061XhNlyeoFZSFWu3Yweec"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Butter",
+          "url": "https://open.spotify.com/artist/3jDucahoG0E37NHsaEQvlx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Love for Sale - Live Butter Remix",
+      "url": "https://open.spotify.com/track/5AHmplZb4Glh6xSToo3AkD"
     },
     {
       "album": {
@@ -984,7 +1090,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 185706,
       "name": "September Song",
       "url": "https://open.spotify.com/track/40m3isgvDXdkSP2zh3p4uE"
@@ -1042,7 +1148,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 255640,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
@@ -1344,7 +1450,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 243346,
       "name": "Whatever Possess'd Me",
       "url": "https://open.spotify.com/track/3gpRA8ENMOuqxWyzlUZiVJ"

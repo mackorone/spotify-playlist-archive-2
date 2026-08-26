@@ -145,6 +145,28 @@
     },
     {
       "album": {
+        "name": "Filament",
+        "url": "https://open.spotify.com/album/7dF6lWNssoGEMoWEaJexor"
+      },
+      "artists": [
+        {
+          "name": "Shankar Tucker",
+          "url": "https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR"
+        },
+        {
+          "name": "Devenderpal Singh",
+          "url": "https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219365,
+      "name": "Ae Re Chanda, Pt. 4 (Tillana)",
+      "url": "https://open.spotify.com/track/4lcm5mQMmq6EypLVSnn3aq"
+    },
+    {
+      "album": {
         "name": "Carmonies - Thumri",
         "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
       },
@@ -308,7 +330,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 333809,
       "name": "Aye Na Baalam",
       "url": "https://open.spotify.com/track/33G967Z68M8rwvQGZe6WRk"
@@ -679,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Panchrang",
+        "url": "https://open.spotify.com/album/4qsUOnusaOfaWLEVye5ekB"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392566,
+      "name": "Chadariya Jhini",
+      "url": "https://open.spotify.com/track/5eEycxHOvLIoFWfrg3fpFz"
+    },
+    {
+      "album": {
         "name": "Chal Chaliye",
         "url": "https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB"
       },
@@ -1034,7 +1074,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 228260,
       "name": "Echoes from the Margins",
       "url": "https://open.spotify.com/track/7duWqlQB1gOpM5AupXPfWc"
@@ -1595,6 +1635,32 @@
     },
     {
       "album": {
+        "name": "Jao Piya",
+        "url": "https://open.spotify.com/album/4lnJe07XPhuRp4IV3zyCDm"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Ambi Subramaniam",
+          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
+        },
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370222,
+      "name": "Jao Piya",
+      "url": "https://open.spotify.com/track/4UfxiCLAbE25k5cIRsr36r"
+    },
+    {
+      "album": {
         "name": "Jhoomelo (feat. Hansa Devi) [Maati S1]",
         "url": "https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn"
       },
@@ -1779,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Karam (Equals Sessions) - Single",
+        "url": "https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ"
+      },
+      "artists": [
+        {
+          "name": "Rangle Sardar",
+          "url": "https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8"
+        },
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Karam (Equals Sessions)",
+      "url": "https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG"
+    },
+    {
+      "album": {
         "name": "Karpur Gauram",
         "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
       },
@@ -1842,7 +1930,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 245500,
       "name": "Khaare Khaare",
       "url": "https://open.spotify.com/track/36x6lepWionjFYfvUdbnsx"
@@ -2257,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Unison (Live at the Oddbird Theatre)",
+        "url": "https://open.spotify.com/album/1erFgdErlAtz13XDglgzbh"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457006,
+      "name": "Milan - Live",
+      "url": "https://open.spotify.com/track/4WLwUAMqUPm59jvu7hQauG"
+    },
+    {
+      "album": {
         "name": "Natural Elements (with John McLaughlin)",
         "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
       },
@@ -2440,7 +2546,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 278160,
       "name": "Mystical Yearning",
       "url": "https://open.spotify.com/track/20rlTK4OGzb4mAYWfmjTCW"
@@ -2554,6 +2660,32 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "album": {
+        "name": "Natkhat Nadiya (From \"Song of the Rive Ganga\")",
+        "url": "https://open.spotify.com/album/22jn06qdCRudAJi5lciG6G"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339000,
+      "name": "Natkhat Nadiya - From \"Song of the Rive Ganga\"",
+      "url": "https://open.spotify.com/track/4la89hn6yNlbm2jcBXliY1"
     },
     {
       "album": {
@@ -2918,7 +3050,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 201230,
       "name": "Piya Padh Lena",
       "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
@@ -2966,7 +3098,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
@@ -3124,7 +3256,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 400957,
       "name": "Rangi Saari Gulabi Chunariya",
       "url": "https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db"
@@ -3274,7 +3406,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 228062,
       "name": "Rhydhun - Nothing But Voice (25th Anniversary Edition)",
       "url": "https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3"
@@ -3448,6 +3580,54 @@
       "duration_ms": 436000,
       "name": "Saanjh Bhayi - Live",
       "url": "https://open.spotify.com/track/0P5O1DyJNQn4N1bSItGDGz"
+    },
+    {
+      "album": {
+        "name": "Bhoomi 2020",
+        "url": "https://open.spotify.com/album/73G9NzlCUCFr88RHxJuQPQ"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218329,
+      "name": "Saanwal",
+      "url": "https://open.spotify.com/track/6GNmuMjPwx922NvJzfOTwp"
+    },
+    {
+      "album": {
+        "name": "Saawariyo",
+        "url": "https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB"
+      },
+      "artists": [
+        {
+          "name": "Atmanam",
+          "url": "https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz"
+        },
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265124,
+      "name": "Saawariyo",
+      "url": "https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV"
     },
     {
       "album": {
@@ -3684,7 +3864,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 355266,
       "name": "Seekho Na",
       "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
@@ -4024,7 +4204,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 328334,
       "name": "Tere Bin Jiya",
       "url": "https://open.spotify.com/track/0LPYAOj31l7iV8gz5tfeQZ"
@@ -4137,6 +4317,24 @@
     },
     {
       "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Tu Hai, Pt. 01",
+      "url": "https://open.spotify.com/track/4rlx1DGszzyKdwm5Kps9Ot"
+    },
+    {
+      "album": {
         "name": "Tu Jhoom",
         "url": "https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M"
       },
@@ -4174,7 +4372,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 264000,
       "name": "Tum Chatur Sughar",
       "url": "https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1"

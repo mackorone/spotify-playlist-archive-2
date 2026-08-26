@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1579011,
+  "num_followers": 1579090,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAD8k1687BvK3yYIARxe12HB",
+  "snapshot_id": "aouJgAAAAAA7beqZYEZOOiNTLj+OJn2S",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
       "added_at": null,
@@ -75,86 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "You Could Be Mine",
-      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 283733,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Since I Don't Have You",
-      "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Use Your Illusion II",
         "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
@@ -167,6 +71,22 @@
       "duration_ms": 462093,
       "name": "Civil War",
       "url": "https://open.spotify.com/track/6i4Qi1mJxXjqNIL9HfJhRs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": null,
@@ -203,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Nightrain",
-      "url": "https://open.spotify.com/track/7CBFRsUz1pz1cS12soVhih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Use Your Illusion II",
         "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
@@ -235,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
@@ -244,9 +148,25 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 192666,
-      "name": "Used To Love Her",
-      "url": "https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia"
+      "duration_ms": 268213,
+      "name": "Nightrain",
+      "url": "https://open.spotify.com/track/7CBFRsUz1pz1cS12soVhih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Use Your Illusion I (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/33HYdYXXadqsdZ1NsYmS6o"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 535733,
+      "name": "November Rain - 2022 Version",
+      "url": "https://open.spotify.com/track/3q9npStSssk7sZWotiNQLK"
     },
     {
       "added_at": null,
@@ -267,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/2lU2VI066HaPGyKTh6ANvI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -279,22 +215,6 @@
       "duration_ms": 228586,
       "name": "Mr. Brownstone",
       "url": "https://open.spotify.com/track/65G4Ib3w7tgLjUkO5GseN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY"
     },
     {
       "added_at": null,
@@ -331,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chinese Democracy",
+        "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 283213,
+      "name": "Chinese Democracy",
+      "url": "https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -347,38 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 261372,
-      "name": "14 Years",
-      "url": "https://open.spotify.com/track/7xki0BmuOllyquWqjhETyr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -391,22 +295,6 @@
       "duration_ms": 257573,
       "name": "Dead Horse",
       "url": "https://open.spotify.com/track/7tdJuL2ZgmKDwIIFDdNanK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chinese Democracy",
-        "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 283213,
-      "name": "Chinese Democracy",
-      "url": "https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B"
     },
     {
       "added_at": null,
@@ -443,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 373266,
+      "name": "Rocket Queen",
+      "url": "https://open.spotify.com/track/0xaNdYwK8ZF3cHSjraQGC0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -475,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Pretty Tied Up (The Perils Of Rock N' Roll Decadence)",
+      "url": "https://open.spotify.com/track/2hAt6y582UsTcwvCKTcTMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Spaghetti Incident?",
         "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
@@ -491,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Bad Obsession",
+      "url": "https://open.spotify.com/track/4PSnQLK4uSmFfuZYEcXNUp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -503,6 +439,22 @@
       "duration_ms": 286346,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/2iFkNf2prxUIIGEOEK7yd1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 341306,
+      "name": "Get In The Ring",
+      "url": "https://open.spotify.com/track/4BIMNBkz3OgRgARIMYh7QW"
     },
     {
       "added_at": null,
@@ -539,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "Hair Of The Dog",
-      "url": "https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -571,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Era '87-'93",
-        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
       "artists": [
         {
@@ -580,25 +516,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 187333,
-      "name": "It's Alright - Live In Houston / 1992",
-      "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Nice Boys - Live",
-      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
+      "duration_ms": 424493,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/77bCgbwirSDVeBGHxg00A7"
     },
     {
       "added_at": null,
@@ -619,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "It's Alright - Live In Houston / 1992",
+      "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -631,6 +567,22 @@
       "duration_ms": 374186,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4g9TfQAiEN6lDNRJJsiU9T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Nice Boys - Live",
+      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
     },
     {
       "added_at": null,
@@ -651,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Move To The City - Live",
-      "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "Down On The Farm",
-      "url": "https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
       },
@@ -699,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Your Illusion (Super Deluxe)",
-        "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
       },
       "artists": [
         {
@@ -708,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 698200,
-      "name": "Hotel California / Only Women Bleed / Knockin' On Heaven's Door - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
-      "url": "https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2"
+      "duration_ms": 447160,
+      "name": "Knockin' On Heaven's Door - Live In London / 1992",
+      "url": "https://open.spotify.com/track/2da7wnI5OoV89TsdKMM81k"
     },
     {
       "added_at": null,
@@ -727,6 +647,22 @@
       "duration_ms": 201613,
       "name": "Reckless Life - Live",
       "url": "https://open.spotify.com/track/0iLV9SuiXvAf7QI1LIHybg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Use Your Illusion (Super Deluxe)",
+        "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 698200,
+      "name": "Hotel California / Only Women Bleed / Knockin' On Heaven's Door - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
+      "url": "https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2"
     },
     {
       "added_at": null,
@@ -763,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 362266,
+      "name": "You Could Be Mine - Live In Japan / 1992",
+      "url": "https://open.spotify.com/track/4BrYH5uQYdK5aRubDEP3cO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Use Your Illusion (Super Deluxe)",
         "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
       },
@@ -779,6 +731,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 408333,
+      "name": "Human Being",
+      "url": "https://open.spotify.com/track/1lOuIyCsLqFwQFLFahWCC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move To The City (1988 Acoustic Version)",
+        "url": "https://open.spotify.com/album/3DBIk4M0qaT0QR5DMIXnJq"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Move To The City - 1988 Acoustic Version",
+      "url": "https://open.spotify.com/track/2sVWzrtoEzBJW7eXAcUzrc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Used To Love Her - Live In Tokyo / 1988",
+      "url": "https://open.spotify.com/track/3PNstDXu8XpaHyc6kLVBhL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Use Your Illusion (Super Deluxe)",
         "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 529506,
       "name": "Voodoo Child (Slight Return) / Civil War - Live In New York, Ritz Theatre - May 16, 1991",
       "url": "https://open.spotify.com/track/5pxwBcIYQRr01zL7Ya4SX7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Raw Power",
+      "url": "https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ"
     }
   ],
   "unique_name": "This Is Guns N' Roses",

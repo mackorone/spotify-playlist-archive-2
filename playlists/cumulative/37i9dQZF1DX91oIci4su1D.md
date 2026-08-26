@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,350 songs - 3 day 8 hr 24 min
+1,351 songs - 3 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,7 +1179,7 @@
 | [The Noise](https://open.spotify.com/track/4QnuA5FLmiMBcEYywQBurT) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [The Noise](https://open.spotify.com/album/6ockzR5NjwmHRUtdMzLVsY) | 2:59 | 2024-02-16 | 2025-03-22 |
 | [The One](https://open.spotify.com/track/2BsRHQPotgpiV00haQ6gXx) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [The One](https://open.spotify.com/album/5VquxCAeY8D1Qp1NSdprso) | 3:00 | 2025-04-04 | 2025-05-03 |
 | [The Only Way](https://open.spotify.com/track/3LiU1IMIbzPR5MpOmo8HDt) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW), [Numa](https://open.spotify.com/artist/7jCganF9yBJtcZRZjqQInS) | [The Only Way](https://open.spotify.com/album/3kZFD66EdrT0d68PRzLjNM) | 4:46 | 2022-09-23 | 2023-08-19 |
-| [The Orange Theme](https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [The Orange Theme](https://open.spotify.com/album/3qfoTfu82HfZQjY6xijaiw) | 3:06 | 2025-07-04 |  |
+| [The Orange Theme](https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [The Orange Theme](https://open.spotify.com/album/3qfoTfu82HfZQjY6xijaiw) | 3:06 | 2025-07-04 | 2026-08-26 |
 | [The Other Side](https://open.spotify.com/track/4sgY77B5U5XtiTuSYLGqVi) | [Chris Schweizer](https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc) | [The Other Side](https://open.spotify.com/album/5yaFmn36b51PCPYhxzWH26) | 3:53 | 2022-02-04 | 2023-02-25 |
 | [The Party](https://open.spotify.com/track/3KyY9JXWhuNBTCZFwcFlqN) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Shelby Merry](https://open.spotify.com/artist/4DJi6jgWrFlxw7HnRqznmd) | [The Party](https://open.spotify.com/album/54zZsR3JGhPE6fyGEiy7hB) | 3:39 | 2025-01-24 | 2025-09-20 |
 | [The Perfect Storm](https://open.spotify.com/track/6G3brJYNiN6OwHteVwsY1n) | [NoMosk](https://open.spotify.com/artist/4vxZWI0BIvfEPY4wLpWIzi) | [The Perfect Storm](https://open.spotify.com/album/4kSNwJDgOwdHuTPLdlFVW4) | 3:59 | 2022-02-18 | 2022-09-27 |
@@ -1294,6 +1294,7 @@
 | [Wasted On Your Love](https://open.spotify.com/track/3xbpj9eJNkvtw6abm806ci) | [EGGSTA](https://open.spotify.com/artist/6DtlUeAwcib4uc0CfcgYBz) | [Wasted On Your Love](https://open.spotify.com/album/1YsYkrNIbqtCcFdSByVfdU) | 2:56 | 2025-06-06 | 2025-09-27 |
 | [Way Back](https://open.spotify.com/track/4tDBRO3QgtJ1bYbNBCsaoM) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Way Back](https://open.spotify.com/album/43F3e13lXhuggBb03fuf5c) | 3:19 | 2024-12-06 | 2025-09-27 |
 | [Way Home](https://open.spotify.com/track/0qL2CQdLzOUwoE6wm5oTBm) | [Eximinds](https://open.spotify.com/artist/2rDzllD1jSxxJCcRX2l55K), [Alexander Komarov](https://open.spotify.com/artist/2Fe09LGf8KZs1mBkFwxaEo) | [Way Home](https://open.spotify.com/album/2jE7pGssy2hOcqpC8cpCnL) | 3:19 | 2022-06-10 | 2022-06-29 |
+| [Way That You Look at Me](https://open.spotify.com/track/2SIs6QlFZQ3aBckuM66LWV) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Way That You Look at Me](https://open.spotify.com/album/6n6yVe3mMOY71A7PT7u5b1) | 3:03 | 2026-08-21 |  |
 | [Way To You](https://open.spotify.com/track/6oOWzHuMNBZSopa3zvvuoQ) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Karel & XoJani](https://open.spotify.com/artist/50BfKVazLcHIKR0qVSZtem) | [Way To You](https://open.spotify.com/album/4tI7GvhkJxdQhEwFtznDPp) | 3:44 | 2022-03-18 | 2022-07-20 |
 | [Ways of the World](https://open.spotify.com/track/6uXtgqRcTVOryvA0sz38SN) | [Jordan Suckley](https://open.spotify.com/artist/25jGdT0Q5ld9D9Lajg8JpD), [Irlanya](https://open.spotify.com/artist/1gkl1WfPtbvFQ1v5QD54Nl) | [Ways of the World](https://open.spotify.com/album/5LnGkrCJKGN1X4ibAARsIT) | 2:37 | 2024-07-12 | 2025-05-17 |
 | [We Are Free](https://open.spotify.com/track/02GdprjJUcAoThfi1ZyZPC) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31) | [We Are Free](https://open.spotify.com/album/0KpjJpo4qsYB2qEshAEFM6) | 3:41 | 2025-02-07 | 2025-05-03 |

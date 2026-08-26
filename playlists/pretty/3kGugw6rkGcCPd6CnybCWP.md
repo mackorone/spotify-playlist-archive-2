@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,162 likes - 50 songs - 2 hr 55 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 48 | [Harlequin](https://open.spotify.com/track/7A7y6uCfd3mPSsya8YOcms) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Harlequin](https://open.spotify.com/album/7FXa7VysnuvTxgsKQkccZP) | 3:19 |
 | 49 | [Stuck 4 Ever](https://open.spotify.com/track/6IbUHoJ5Kxp86xWB6yuIjx) | [Sophie Valerie](https://open.spotify.com/artist/7APioRa2ZqrBCG0O9Z6N8b) | [Stuck 4 Ever](https://open.spotify.com/album/0Ab4SlL146rVeC0Dn0QGbl) | 2:19 |
 | 50 | [Drumfire Of The Hurricane](https://open.spotify.com/track/1mPmKidyJz0UpKpMkLfLyO) | [Kate Schutt](https://open.spotify.com/artist/0BP5VbdPYLMvEmQplKEBYY) | [Drumfire Of The Hurricane](https://open.spotify.com/album/6ya8EZKRzTpa6lGqAAKs9E) | 4:00 |
+| 51 | [Mud Butt](https://open.spotify.com/track/3zs9eTZb45KZZjUfx4Cmcg) | [The Acid Stains](https://open.spotify.com/artist/6djbTl6sUDFLV4uQN0vF5B) | [Mud Butt](https://open.spotify.com/album/2NahQibkDMz0qAtzsvos28) | 3:48 |
 
-Snapshot ID: `AAAQEJD4jbCzWuv7XbZdm4vic60GwdJy`
+Snapshot ID: `AAAQEWW7WG1VOTHa8dmDAuY4Z+tqOOni`

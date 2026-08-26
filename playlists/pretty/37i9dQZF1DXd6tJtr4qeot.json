@@ -1,12 +1,12 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 914461,
+  "num_followers": 914450,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0lknDRut1Sx0TnfopPFlEbcvSc",
+  "snapshot_id": "AAAAADDQSuRzwCh9rKO2V8Qe0+hzlmlz",
   "tracks": [
     {
       "added_at": "2024-02-06 19:36:52",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "A Hangover You Don't Deserve",
-        "url": "https://open.spotify.com/album/7JST4gPYSXFegyuk9nKFb0"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/4UuHWIkAWnN176A2rx7YFB"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Here Are the Sonics",
         "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 160400,
       "name": "Have Love Will Travel",
       "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/7JST4gPYSXFegyuk9nKFb0"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/4UuHWIkAWnN176A2rx7YFB"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 226640,
       "name": "Holiday in Cambodia - Single Version",
       "url": "https://open.spotify.com/track/6ZR7gzHIvcj4qvo5q4kqXN"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
     },
     {
       "added_at": "2024-02-06 19:36:52",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "New Music for Electronic and Recorded Media: Women In Electronic Music - 1977",
+        "url": "https://open.spotify.com/album/45IBJV76uqLXXsm9SMAFzO"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332013,
+      "name": "Appalachian Grove I",
+      "url": "https://open.spotify.com/track/1Dshxu10pNZFpTXAp1yOSe"
+    },
+    {
+      "album": {
         "name": "The Expanding Universe",
         "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
       },

@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-426 songs - 1 day 1 hr 30 min
+427 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 | 2026-03-07 | 2026-04-15 |
 | [Uncrumpled](https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 2:24 | 2026-04-07 | 2026-05-26 |
 | [under my skin](https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [under my skin](https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD) | 2:42 | 2026-03-23 | 2026-06-11 |
+| [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 | 2026-08-26 |  |
 | [United](https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [United](https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s) | 4:02 | 2026-07-14 | 2026-08-08 |
 | [Universes](https://open.spotify.com/track/3z2uLmFrsRwnlX3CArPOuE) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:55 | 2026-01-19 | 2026-02-19 |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-11 | 2026-02-02 |

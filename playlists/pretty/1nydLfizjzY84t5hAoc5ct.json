@@ -1,12 +1,12 @@
 {
   "description": "OffAxisGigs.com | Indie | Folk | Electro | Rock | Pop ",
-  "num_followers": 1419,
+  "num_followers": 1424,
   "original_name": "Off Axis Gigs . com",
   "owner": {
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AACCSeXz8CpRRYcMEd3K9/JX+eZrdlgT",
+  "snapshot_id": "AACCTcQAfWRzclN5lty8AAtj4TNWfNdj",
   "tracks": [
     {
       "added_at": "2026-08-23 10:30:05",
@@ -2783,6 +2783,74 @@
       "duration_ms": 168464,
       "name": "Notti senza sonnu",
       "url": "https://open.spotify.com/track/7f3DjU2N41dMAVhurBr6c2"
+    },
+    {
+      "added_at": "2026-08-25 19:05:22",
+      "album": {
+        "name": "Tus Latidos",
+        "url": "https://open.spotify.com/album/1RMFwT5xZyo9d57uM1NHl8"
+      },
+      "artists": [
+        {
+          "name": "Taiki",
+          "url": "https://open.spotify.com/artist/5reg1fgjPsjD6lp553hI9v"
+        }
+      ],
+      "duration_ms": 141140,
+      "name": "Tus Latidos",
+      "url": "https://open.spotify.com/track/7yKVHxYCRMIDDGBQ7zQTTT"
+    },
+    {
+      "added_at": "2026-08-25 19:07:58",
+      "album": {
+        "name": "Lost Leaves",
+        "url": "https://open.spotify.com/album/4iKwobQq1Sm48jl25B265P"
+      },
+      "artists": [
+        {
+          "name": "Time Spent Driving",
+          "url": "https://open.spotify.com/artist/3FRK7L4QCaaSAY8bPD6EUA"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "The Red Dress",
+      "url": "https://open.spotify.com/track/2ZpO90oiJOPh6uNhmDarw2"
+    },
+    {
+      "added_at": "2026-08-25 19:08:27",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/4GNPA7AIuRfIHNuGwiS7Ew"
+      },
+      "artists": [
+        {
+          "name": "In-Motion",
+          "url": "https://open.spotify.com/artist/7M966gAnsOIc9z0FFQwBea"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5lPtbctnX3adI7zg4ysTEW"
+    },
+    {
+      "added_at": "2026-08-25 19:10:05",
+      "album": {
+        "name": "Ocean Beach",
+        "url": "https://open.spotify.com/album/2uqnJtzSjq5RHXFblkLPCw"
+      },
+      "artists": [
+        {
+          "name": "Yenn",
+          "url": "https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp"
+        },
+        {
+          "name": "Jacob Tompkins",
+          "url": "https://open.spotify.com/artist/3steuCKTOPNk0zjtR5Hfbg"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/732OoMnt9lHm1T5RcPwtuS"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

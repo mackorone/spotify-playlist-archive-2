@@ -5327,6 +5327,24 @@
     },
     {
       "album": {
+        "name": "Mud Butt",
+        "url": "https://open.spotify.com/album/2NahQibkDMz0qAtzsvos28"
+      },
+      "artists": [
+        {
+          "name": "The Acid Stains",
+          "url": "https://open.spotify.com/artist/6djbTl6sUDFLV4uQN0vF5B"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Mud Butt",
+      "url": "https://open.spotify.com/track/3zs9eTZb45KZZjUfx4Cmcg"
+    },
+    {
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0JYhnrBfLAwi34NVupv5eW"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 227048,
+  "num_followers": 227059,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKQhH2aQmp7YrxDxqaODJHZTj8r",
+  "snapshot_id": "AAAAAGZrq+KsZWgU7lUmbXmKY4Mn/I6Q",
   "tracks": [
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+      "duration_ms": 204819,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 204819,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz"
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Quarter Past Midnight",
+        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 201799,
+      "name": "Quarter Past Midnight",
+      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "We Won't Be Shaken",
         "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 180880,
       "name": "Red Hands",
       "url": "https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Quarter Past Midnight",
-        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 201799,
-      "name": "Quarter Past Midnight",
-      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Lethargy",
+      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 222973,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/0oyo8O2SWdfHqx5LBONZbf"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Lethargy",
-      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Godsent & All Eyes On You",
-        "url": "https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "All Eyes On You",
-      "url": "https://open.spotify.com/track/0NWTC6EoKYbTdnl2rSXYDE"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 185466,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Godsent & All Eyes On You",
+        "url": "https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "All Eyes On You",
+      "url": "https://open.spotify.com/track/0NWTC6EoKYbTdnl2rSXYDE"
     },
     {
       "added_at": "2024-07-05 23:46:34",

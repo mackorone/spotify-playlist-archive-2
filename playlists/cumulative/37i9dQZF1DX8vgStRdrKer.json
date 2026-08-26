@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 269690,
       "name": "Follow",
       "url": "https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg"
@@ -7556,7 +7556,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 429536,
       "name": "Ifeoma - Live",
       "url": "https://open.spotify.com/track/1lbns9ey1gbEXowvTmJCeq"
@@ -9026,7 +9026,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 468945,
       "name": "La puissance de l\u2019amour",
       "url": "https://open.spotify.com/track/1z6VlP3bxWuplJtj03QhYO"
@@ -9726,6 +9726,24 @@
       "duration_ms": 264760,
       "name": "Man Wey God Show Mercy",
       "url": "https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg"
+    },
+    {
+      "album": {
+        "name": "Mantles",
+        "url": "https://open.spotify.com/album/4CyA8LD8ZRUYrpqI0ce2LS"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521931,
+      "name": "Mantles",
+      "url": "https://open.spotify.com/track/2IKGoMUNCb0rZgwA793HIy"
     },
     {
       "album": {

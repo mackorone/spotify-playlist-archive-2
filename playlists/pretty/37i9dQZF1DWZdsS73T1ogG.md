@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Brytiago
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,123 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,400 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Ricky Bobby](https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 2:55 |
 | 100 | [El Juguete](https://open.spotify.com/track/6dC7eo82vwjcJakyuroZs3) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [El Juguete](https://open.spotify.com/album/7hR4zr90IwCXj4c8T56uQ1) | 3:05 |
 
-Snapshot ID: `AAAAACXesgT7osM+SYORJvyW0Gr2ZbKS`
+Snapshot ID: `AAAAAPaZYJWvSBojmJ5ZfAg4qu3VxdAZ`

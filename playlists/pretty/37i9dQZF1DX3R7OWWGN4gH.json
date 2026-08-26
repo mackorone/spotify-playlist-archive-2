@@ -1,12 +1,12 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1435608,
+  "num_followers": 1435753,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABaMRAywUUkn/JLoFpVnmeVoqrVd",
+  "snapshot_id": "AAAAAE+Ri+Nd1yDTMimGQhYGsnsOEYiT",
   "tracks": [
     {
       "added_at": "2024-02-22 03:52:54",
@@ -855,22 +855,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Love. Angel. Music. Baby.",
-        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Johnny Vulture",
-          "url": "https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 222360,
-      "name": "Bubble Pop Electric",
-      "url": "https://open.spotify.com/track/4A2vjMnkAWgPVqwl3Xc7pu"
+      "duration_ms": 186426,
+      "name": "Money, Money, Money",
+      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -891,18 +887,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Johnny Vulture",
+          "url": "https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy"
         }
       ],
-      "duration_ms": 186426,
-      "name": "Money, Money, Money",
-      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
+      "duration_ms": 222360,
+      "name": "Bubble Pop Electric",
+      "url": "https://open.spotify.com/track/4A2vjMnkAWgPVqwl3Xc7pu"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "abcdefu (angrier)",
-        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "abcdefu (angrier)",
-      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Gladiator",
         "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
     },
     {
       "added_at": "2024-04-26 04:00:00",

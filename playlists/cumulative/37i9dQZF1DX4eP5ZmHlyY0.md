@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ENHYPEN
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: NCT 127
 
-1,090 songs - 2 day 10 hr 58 min
+1,091 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 | 2024-01-04 | 2024-03-13 |
 | [Fly to you](https://open.spotify.com/track/4jr5dgzdPw2nuttnYcQf4N) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Fly to you](https://open.spotify.com/album/6QDDHXF7BcJYC0Lzvxeeje) | 3:40 | 2025-10-21 | 2026-01-15 |
 | [Fly Up](https://open.spotify.com/track/0S24FhekyRbihACHFwgPjs) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw) | 2:58 | 2025-05-19 | 2025-11-25 |
-| [FLY!](https://open.spotify.com/track/55DiPLEo61Kr6gba1XuKlj) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/38EwYgNHM13ADWojsMBwjW) | 2:36 | 2026-05-26 |  |
+| [FLY!](https://open.spotify.com/track/55DiPLEo61Kr6gba1XuKlj) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/38EwYgNHM13ADWojsMBwjW) | 2:36 | 2026-05-26 | 2026-08-26 |
 | [For Real?](https://open.spotify.com/track/11yJ2iAqlWsk9CngMujJou) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [For Real?](https://open.spotify.com/album/2ZlTmzWp67lhdApzMdmwWV) | 3:10 | 2025-03-25 | 2025-07-02 |
 | [For us](https://open.spotify.com/track/3aKahr7FEeFBee81DixjhV) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [For us](https://open.spotify.com/album/5HbBxDomPqDFrJSz4vD3Hq) | 3:36 | 2026-08-01 |  |
 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 | 2024-02-20 | 2024-03-06 |
@@ -398,7 +398,7 @@
 | [HUNTER](https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER \- The 3rd Album](https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i) | 2:43 | 2025-08-10 | 2026-01-15 |
 | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/track/3B01GFSfE7zomBwOOLzuO9) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/album/0WBuetifaEDUBcIPqpdrkx) | 3:33 | 2024-05-28 | 2024-06-13 |
 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-09 | 2025-03-07 |
-| [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 | 2026-03-09 |  |
+| [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 | 2026-03-09 | 2026-08-26 |
 | [I don't care](https://open.spotify.com/track/6X0i1lqSjA3GYqaBGhZHNx) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [I don't care](https://open.spotify.com/album/3N8AiWK07df0p8gwIuCy9Z) | 2:53 | 2023-12-14 | 2023-12-20 |
 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-13 | 2025-09-09 |
 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 | 2023-12-07 | 2024-05-27 |
@@ -700,6 +700,7 @@
 | [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 | 2026-06-22 |  |
 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-21 | 2024-09-11 |
 | [Rise](https://open.spotify.com/track/1j3H5bMaTPwFFuXoUydeFG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Rise](https://open.spotify.com/album/4ichGXKR5PCxKXZBy5Hypk) | 3:25 | 2025-04-07 | 2025-05-02 |
+| [Rise Over](https://open.spotify.com/track/6nUBP5czYLJIBTDfMkPhwd) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/0Yj7RAYDsGCcb06sm7sb3m) | 3:30 | 2026-08-25 |  |
 | [Rizz](https://open.spotify.com/track/1Wr3KJN8y31KSsfi3WjVgv) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [UXLXVE](https://open.spotify.com/album/06fkAvfJw3XKoHoUxdRwQ4) | 2:21 | 2025-11-05 | 2025-11-18 |
 | [Roar](https://open.spotify.com/track/7AaR3KHGWP4JKe5EgOyPkk) | [KAT\-TUN](https://open.spotify.com/artist/5HQAzIHOdemXR2DoevwhjT) | [Honey（Selected Edition）](https://open.spotify.com/album/7igGKMIcjTirpS0JSkxN5L) | 3:55 | 2024-01-02 | 2024-04-24 |
 | [Rock Out](https://open.spotify.com/track/29vF4jweyTmEUfrGkAML3E) | [ZIPANG OPERA](https://open.spotify.com/artist/4MDWbWU2bmU59KAcRTC72d) | [Rock Out](https://open.spotify.com/album/0HvY3diaylDJJeaNgNeS9h) | 3:32 | 2024-04-09 | 2024-04-17 |
@@ -808,7 +809,7 @@
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [Summer Light](https://open.spotify.com/track/0nvv7QmRopuA4rylN4EOly) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Summer Light](https://open.spotify.com/album/0JLwjAXyinA9w0v4JjSGAg) | 3:01 | 2025-08-04 | 2025-10-01 |
 | [Summer Vacation](https://open.spotify.com/track/36qCIpJxXBTi6JZqWufoqb) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Summer Vacation](https://open.spotify.com/album/7kW5feki3ZoaWMgzDnU0HT) | 3:24 | 2025-07-07 | 2025-07-09 |
-| [Sunburst](https://open.spotify.com/track/0mGPFPXNLmZQpgwMT5JFOC) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/1ARcEEOaH2hkISGXNQ9iai) | 3:16 | 2026-07-28 |  |
+| [Sunburst](https://open.spotify.com/track/0mGPFPXNLmZQpgwMT5JFOC) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/1ARcEEOaH2hkISGXNQ9iai) | 3:16 | 2026-07-28 | 2026-08-26 |
 | [Sunkissed](https://open.spotify.com/track/3j0g0ii7DyBSNRA4B1stjc) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Sunkissed](https://open.spotify.com/album/5Uy3tbYFggTXtTi2XOgHuB) | 3:33 | 2026-02-24 | 2026-04-06 |
 | [Sunset \- OCTAVE ver.](https://open.spotify.com/track/0rKnES758zRMB1Ijc4tf1z) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm) | [Sunset \(OCTAVE ver.\)](https://open.spotify.com/album/39Srjl6OdUJjtg55gCCtuZ) | 2:58 | 2024-06-12 | 2024-06-19 |
 | [Sunsets and Cigarettes](https://open.spotify.com/track/4xk3VG8GMiS65iBtUyZ209) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Silhouette](https://open.spotify.com/album/412kW5chzKk3ucqPurnRMF) | 3:10 | 2025-11-07 | 2026-01-17 |

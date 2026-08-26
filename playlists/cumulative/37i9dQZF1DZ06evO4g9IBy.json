@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 230106,
       "name": "Blue Lamp - 2016 Remaster",
       "url": "https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 235026,
       "name": "How Still My Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/2Qgs5ycYkVe4nPI0f2k5yC"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 275840,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172426,
+      "name": "Imperial Hotel",
+      "url": "https://open.spotify.com/track/2q03Oba2ElRwwQyrVrjFuf"
+    },
+    {
+      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -716,7 +734,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 192560,
       "name": "Kind of Woman - 2016 Remaster",
       "url": "https://open.spotify.com/track/0ehVk4Py6iyLpfruxVYq4S"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 334853,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 285666,
       "name": "Planets of the Universe",
       "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
@@ -1008,10 +1026,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 421800,
       "name": "Rhiannon - Live 2005",
       "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
+    },
+    {
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Rock a Little (Go Ahead Lily)",
+      "url": "https://open.spotify.com/track/1NPGcqWpBc9cRtvatD6bax"
     },
     {
       "album": {
@@ -1066,6 +1102,24 @@
       "duration_ms": 416941,
       "name": "Sara - 2019 Remaster",
       "url": "https://open.spotify.com/track/2lJw5sZnzuYw6SFtXv1l5P"
+    },
+    {
+      "album": {
+        "name": "The Soundstage Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6OYYHeLOJz1P3YLIZna1pu"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416533,
+      "name": "Sara - Live from Soundstage",
+      "url": "https://open.spotify.com/track/3rcMGbGjrPDKoMAHZoucah"
     },
     {
       "album": {
@@ -1134,7 +1188,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 278373,
       "name": "Sometimes It's a Bitch",
       "url": "https://open.spotify.com/track/0BMD6HPm0gS1pSTi5ZpHrR"
@@ -1236,7 +1290,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 250026,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/0lqNtjLgTJYScspOhJXxtx"
@@ -1330,7 +1384,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 271840,
       "name": "Whole Lotta Trouble",
       "url": "https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S"
@@ -1348,7 +1402,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 369520,
       "name": "Wild Heart - 2016 Remaster",
       "url": "https://open.spotify.com/track/0gzI0zfUaoXFVNTUNQE9ad"

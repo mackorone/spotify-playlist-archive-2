@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,134 likes - 95 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,137 likes - 95 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 12 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 |
 | 13 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 14 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
-| 15 | [Serotonin Moonbeams](https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:47 |
-| 16 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
+| 15 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
+| 16 | [Serotonin Moonbeams](https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:47 |
 | 17 | [Fake ID](https://open.spotify.com/track/1UgZXifaKYZCHtcXp9653a) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 4:06 |
 | 18 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 | 19 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 37 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 | 38 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
 | 39 | [Prayer \- Edit](https://open.spotify.com/track/4Gd5Cxw7V4JCM9Uj6VpiwL) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Prayer \(Edit\)](https://open.spotify.com/album/4fW8eARlhtdJkC2b3IeolF) | 3:46 |
-| 40 | [Brighter Days \- Dajae\- Underground Mix '93](https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [It's Time](https://open.spotify.com/album/4C0vF98YQZ2DJF3nG36vGl) | 5:27 |
-| 41 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
+| 40 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
+| 41 | [Brighter Days \- Dajae\- Underground Mix '93](https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [It's Time](https://open.spotify.com/album/4C0vF98YQZ2DJF3nG36vGl) | 5:27 |
 | 42 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/6RcByPoFlaUVAn2PnTxSVr) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In For The Kill](https://open.spotify.com/album/6LB0G71s0AubJUgXzCsKJt) | 5:05 |
 | 43 | [Careless](https://open.spotify.com/track/7iHIbOhn3N0AZF5Tky6DhM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Careless](https://open.spotify.com/album/3UvoNUY5z5XnLmYavKyDLN) | 6:31 |
 | 44 | [Disco Tetris \- Edit](https://open.spotify.com/track/2G5jdY4fPzbpCKh9f1QRRk) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/7cSa3dyGTOfU5mgd5fmGM9) | 3:18 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 54 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 55 | [Hungry for the Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/0FHycpsDC6uJCFkGXq4kPw) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc) | [Hungry for the Power](https://open.spotify.com/album/2Mx9JygkHhf6juiAPLiODy) | 6:46 |
 | 56 | [Sleepless \- Stephan Bodzin Remix](https://open.spotify.com/track/124AEdOhexxJZ517ESVlzy) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [The Other Remixes](https://open.spotify.com/album/3rC6OKru4QhBTOcSvS0G2a) | 9:00 |
-| 57 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 |
-| 58 | [We Dance Again](https://open.spotify.com/track/2q1qOoQjYbqcr2WG8X9qQe) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Pieces Of Me](https://open.spotify.com/album/52vGsPczTADGUWxavc9S9q) | 7:26 |
+| 57 | [We Dance Again](https://open.spotify.com/track/2q1qOoQjYbqcr2WG8X9qQe) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Pieces Of Me](https://open.spotify.com/album/52vGsPczTADGUWxavc9S9q) | 7:26 |
+| 58 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 |
 | 59 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 |
 | 60 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
 | 61 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 94 | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 |
 | 95 | [Beg \- Hot Since 82 Future Mix](https://open.spotify.com/track/4RjnbnZ6xGHDYFbywiiQ3I) | [Yousef](https://open.spotify.com/artist/6qIx4vKCCV9aW1CvTR3GES), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Beg](https://open.spotify.com/album/00Pe7GWhQLFpqv6Ir1zW86) | 6:50 |
 
-Snapshot ID: `AAAAAPS5OQ9nj/yOC9ABVIIArZoEASNb`
+Snapshot ID: `AAAAAMtDuoidafoMFv1L798RKDzGjk69`

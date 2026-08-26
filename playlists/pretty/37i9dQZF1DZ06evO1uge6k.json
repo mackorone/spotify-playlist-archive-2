@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 263809,
+  "num_followers": 263831,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAD2mW3D7U0V0Rmum2xExMtO",
+  "snapshot_id": "aouJgAAAAADTYWSqJfj0viscLroQtwu0",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 261026,
-      "name": "My Head's in Mississippi",
-      "url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC"
+      "duration_ms": 254093,
+      "name": "A Fool for Your Stockings",
+      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
     },
     {
       "added_at": null,
@@ -235,38 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "A Fool for Your Stockings",
-      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Can't Stop Rockin'",
-      "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -283,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
       "artists": [
         {
@@ -292,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 174240,
-      "name": "I Got the Six (2008 Remaster)",
-      "url": "https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs"
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
     },
     {
       "added_at": null,
@@ -308,15 +276,15 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 286573,
-      "name": "I'm Bad, I'm Nationwide",
-      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
+      "duration_ms": 204133,
+      "name": "I Thank You",
+      "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
       },
       "artists": [
         {
@@ -324,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
+      "duration_ms": 174240,
+      "name": "I Got the Six (2008 Remaster)",
+      "url": "https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs"
     },
     {
       "added_at": null,
@@ -372,25 +340,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 204133,
-      "name": "I Thank You",
-      "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 378626,
-      "name": "I Need You Tonight (2008 Remaster)",
-      "url": "https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh"
+      "duration_ms": 288400,
+      "name": "Cheap Sunglasses",
+      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
     },
     {
       "added_at": null,
@@ -423,22 +375,6 @@
       "duration_ms": 281586,
       "name": "La Grange",
       "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "Cheap Sunglasses",
-      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
     },
     {
       "added_at": null,
@@ -539,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "TV Dinners (2008 Remaster)",
+      "url": "https://open.spotify.com/track/7e0vyYARDEuguPhjdX63wJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -551,22 +503,6 @@
       "duration_ms": 189666,
       "name": "Precious and Grace (2005 Remaster)",
       "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
     },
     {
       "added_at": null,
@@ -676,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 440946,
-      "name": "Sure Got Cold After the Rain Fell",
-      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
+      "duration_ms": 213600,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,
@@ -731,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
       "artists": [
         {
@@ -740,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Francine",
-      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
+      "duration_ms": 209133,
+      "name": "Velcro Fly",
+      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
     },
     {
       "added_at": null,
@@ -811,6 +747,70 @@
       "duration_ms": 197734,
       "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
       "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "(Somebody Else Been) Shaking Your Tree",
+      "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 143106,
+      "name": "She Loves My Automobile",
+      "url": "https://open.spotify.com/track/6KSOiVNjYx0DTq4WqcsLqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Baddest of ZZ Top",
+        "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 211773,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0eSfOEuazxnW8q52siYHPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 263626,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/1bN94WLByKJggk1cgDjhse"
     }
   ],
   "unique_name": "This Is ZZ Top",

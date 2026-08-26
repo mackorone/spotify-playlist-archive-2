@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Fragile Like A Bomb",
+        "url": "https://open.spotify.com/album/1qomqCIJ6f6XuloU6AHT1K"
+      },
+      "artists": [
+        {
+          "name": "CISSI",
+          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226387,
+      "name": "Fragile Like A Bomb",
+      "url": "https://open.spotify.com/track/3d7DjSMkqfXoleQbcGQEgk"
+    },
+    {
+      "album": {
         "name": "Fuck Off",
         "url": "https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 204222,
       "name": "SMOKE",
       "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"

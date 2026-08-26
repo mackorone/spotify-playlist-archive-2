@@ -1,12 +1,12 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1101600,
+  "num_followers": 1101594,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEK/RUawGjzsPZr01KzaigECQrrC",
+  "snapshot_id": "AAAAAATT4X7woWdZk3r2VjZn6GD4Gln8",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:47",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Made You Look",
         "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 225628,
       "name": "Math of Us",
       "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Karaoke Bar",
-        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 204467,
-      "name": "Karaoke Bar",
-      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Tall Pines",
         "url": "https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 194210,
       "name": "Tall Pines",
       "url": "https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "eat some pasta",
-        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "eat some pasta",
-      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 285240,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     },
     {
       "added_at": "2026-08-06 22:00:47",

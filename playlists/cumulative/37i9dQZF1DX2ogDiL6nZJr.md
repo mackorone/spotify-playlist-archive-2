@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-347 songs - 21 hr 34 min
+348 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2021-12-09 | 2022-04-20 |
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2022-07-21 | 2024-04-19 |
 | [Partner Look](https://open.spotify.com/track/4HjpvsMriSxh8uGb4HQhab) | [Partner Look](https://open.spotify.com/artist/6pgS21Vwch7MeKtpcQCDpJ) | [By the Book](https://open.spotify.com/album/7mwzvVnuhnFaQk0cLbi3A6) | 2:46 | 2022-03-10 | 2024-10-26 |
+| [passenger seat](https://open.spotify.com/track/3dtGmAbmjm3VsILtYkFf10) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [HOMESICK](https://open.spotify.com/album/03BfcKu7N2Hy7yZHLStwlV) | 1:45 | 2026-07-29 |  |
 | [PDLIF](https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J) | 2:57 | 2022-07-21 | 2023-01-13 |
 | [PDLIF](https://open.spotify.com/track/6Md0VfGaWXZgJc53IMqPkO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/3jCYZ7RhgLinLls6o0hBQN) | 2:57 | 2021-12-09 | 2022-04-19 |
 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 | 2021-12-09 | 2022-07-29 |
@@ -325,7 +326,7 @@
 | [There's Nothing In The Water We Can't Fight](https://open.spotify.com/track/3A0rcWDZX9YCYwQmIvhwDl) | [Cloud Control](https://open.spotify.com/artist/5DCtsJfyBEzvZ9qN7jSA6j) | [Bliss Release](https://open.spotify.com/album/0qly5POWuw9cGEi2gJtu3O) | 3:59 | 2023-01-18 | 2023-02-18 |
 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 | 2021-12-09 | 2026-05-08 |
 | [Time Won't Go Slowly](https://open.spotify.com/track/494RirQRobkj9gh2RwkDqi) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Time Won't Go Slowly](https://open.spotify.com/album/597BT7KsEpWxEd2FaPl1Pd) | 3:41 | 2022-04-14 | 2022-04-19 |
-| [tongue\-tied & starry\-eyed](https://open.spotify.com/track/55zZv3cr8mySL0lqzg2Ic0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU), [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [tongue\-tied & starry\-eyed](https://open.spotify.com/album/0zAFbHU4JRS86B8lbFbjBA) | 3:13 | 2024-10-25 |  |
+| [tongue\-tied & starry\-eyed](https://open.spotify.com/track/55zZv3cr8mySL0lqzg2Ic0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU), [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [tongue\-tied & starry\-eyed](https://open.spotify.com/album/0zAFbHU4JRS86B8lbFbjBA) | 3:13 | 2024-10-25 | 2026-08-26 |
 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 | 2022-03-10 |  |
 | [Too Late](https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Too Late](https://open.spotify.com/album/4VhSINv5l9dJN1t781T6sX) | 4:12 | 2022-04-14 | 2022-04-21 |
 | [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 | 2024-08-08 |  |

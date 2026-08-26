@@ -1,12 +1,12 @@
 {
   "description": "In this house we celebrate Australian music. Cover: daine",
-  "num_followers": 138417,
+  "num_followers": 138419,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAZbaDlV+EMRXAzVP98L3kvgUDUv",
+  "snapshot_id": "AAAAAG721k33dZ2MD5RasowJe9BiO8F+",
   "tracks": [
     {
       "added_at": "2026-08-20 14:01:19",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 112353,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 208640,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 112353,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
+        "name": "Celestial Bodies",
+        "url": "https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 227397,
+      "name": "Celestial Bodies",
+      "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
         "name": "LEZ GO!",
         "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Celestial Bodies",
-        "url": "https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt"
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 227397,
-      "name": "Celestial Bodies",
-      "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -891,22 +907,6 @@
       "duration_ms": 160000,
       "name": "Blue Shadows (feat. Karen O)",
       "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 221818,
       "name": "FACEDOWN",
       "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Campdraft Queen",
-        "url": "https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D"
-      },
-      "artists": [
-        {
-          "name": "Mack Geiger",
-          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Campdraft Queen",
-      "url": "https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
         "name": "Evian",
         "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 302322,
       "name": "Evian",
       "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
+        "name": "Campdraft Queen",
+        "url": "https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Campdraft Queen",
+      "url": "https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5sjPQMyBzNpCesF7mBR4Jk"
+      },
+      "artists": [
+        {
+          "name": "Midnight Til Morning",
+          "url": "https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd"
+        }
+      ],
+      "duration_ms": 187984,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1hvxnJ2rwvFBCAiZMKCX87"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
         "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
         "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5sjPQMyBzNpCesF7mBR4Jk"
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
       },
       "artists": [
         {
-          "name": "Midnight Til Morning",
-          "url": "https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd"
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
         }
       ],
-      "duration_ms": 187984,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1hvxnJ2rwvFBCAiZMKCX87"
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Giving Up Air",
-        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 287411,
-      "name": "Giving Up Air",
-      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
         "name": "A PERFECT WORLD",
         "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 187826,
       "name": "A PERFECT WORLD",
       "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
         "name": "I Love You Out Loud",
         "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 213023,
       "name": "I Love You Out Loud",
       "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1467,22 +1483,6 @@
       "duration_ms": 211233,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/2i4pcui4vyTDqfZrEJt9Aw"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 181185,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-08-20 14:01:19",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-08-20 14:01:19",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4nOsWyFYDoLDRiiw2osaKL"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 194202,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/61ekTX6pGkKKvcvPRqzHre"
+    },
+    {
+      "added_at": "2026-08-20 14:01:19",
+      "album": {
         "name": "AHHCade",
         "url": "https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 126004,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa"
-    },
-    {
-      "added_at": "2026-08-20 14:01:19",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4nOsWyFYDoLDRiiw2osaKL"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 194202,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/61ekTX6pGkKKvcvPRqzHre"
     }
   ],
   "unique_name": "Turn Up Aus",

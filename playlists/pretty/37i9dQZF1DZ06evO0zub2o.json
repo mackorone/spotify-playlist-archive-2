@@ -1,29 +1,13 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 327526,
+  "num_followers": 327547,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAC5et8/tdXTkDjjnSmfdFCQ",
+  "snapshot_id": "aouJgAAAAADuLjkz+CUWYRYCw++RKuhc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,38 +23,6 @@
       "duration_ms": 243533,
       "name": "Cowboys from Hell",
       "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "I'm Broken",
-      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 419893,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
     },
     {
       "added_at": null,
@@ -91,38 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 422933,
-      "name": "Cemetery Gates",
-      "url": "https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 347440,
-      "name": "5 Minutes Alone",
-      "url": "https://open.spotify.com/track/5SAEMjVQbmin3g7b0RG6me"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Southern Trendkill",
         "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
       },
@@ -132,41 +52,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 289893,
-      "name": "10's",
-      "url": "https://open.spotify.com/track/5qG4mrKUlmGce1FA4wGrr7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "A New Level",
-      "url": "https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 305293,
-      "name": "Domination",
-      "url": "https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu"
+      "duration_ms": 419893,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
     },
     {
       "added_at": null,
@@ -212,41 +100,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Mouth for War",
-      "url": "https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 133120,
-      "name": "Primal Concrete Sledge",
-      "url": "https://open.spotify.com/track/6lJJcUjhsp0TJRuzUIPOYO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
+      "duration_ms": 237466,
+      "name": "A New Level",
+      "url": "https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt"
     },
     {
       "added_at": null,
@@ -267,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
@@ -276,9 +132,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 345733,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
+      "duration_ms": 237026,
+      "name": "Slaughtered",
+      "url": "https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09"
     },
     {
       "added_at": null,
@@ -299,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
       "artists": [
         {
@@ -308,9 +164,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Slaughtered",
-      "url": "https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09"
+      "duration_ms": 345733,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
     },
     {
       "added_at": null,
@@ -331,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
@@ -340,9 +196,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Fucking Hostile",
-      "url": "https://open.spotify.com/track/5RU50TPTgtxJLFNunUS2p5"
+      "duration_ms": 218640,
+      "name": "Strength Beyond Strength",
+      "url": "https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP"
     },
     {
       "added_at": null,
@@ -363,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
       "artists": [
         {
@@ -372,9 +228,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 218640,
-      "name": "Strength Beyond Strength",
-      "url": "https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP"
+      "duration_ms": 168600,
+      "name": "Fucking Hostile",
+      "url": "https://open.spotify.com/track/5RU50TPTgtxJLFNunUS2p5"
     },
     {
       "added_at": null,
@@ -395,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 336800,
+      "name": "Shedding Skin",
+      "url": "https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Southern Trendkill",
         "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
       },
@@ -411,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "Heresy",
+      "url": "https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piss",
         "url": "https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3"
       },
@@ -423,22 +311,6 @@
       "duration_ms": 262328,
       "name": "Piss",
       "url": "https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinventing the Steel (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 311083,
-      "name": "Immortally Insane",
-      "url": "https://open.spotify.com/track/7icuG5KBzs7UEBd8WuDler"
     },
     {
       "added_at": null,
@@ -475,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Official Live: 101 Proof",
-        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
       "artists": [
         {
@@ -484,9 +356,73 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Dom / Hollow - Live",
-      "url": "https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS"
+      "duration_ms": 201760,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/5APqyicPSWwJgFH8D9a8i3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 311083,
+      "name": "Immortally Insane",
+      "url": "https://open.spotify.com/track/7icuG5KBzs7UEBd8WuDler"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Uplift",
+      "url": "https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 284626,
+      "name": "Suicide Note, Pt. 1",
+      "url": "https://open.spotify.com/track/0CcmoDwo2KAACTPoy87F8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 309533,
+      "name": "Message in Blood",
+      "url": "https://open.spotify.com/track/2EsJKiFvrdO0x3Mx9oZeH4"
     },
     {
       "added_at": null,
@@ -507,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
@@ -516,9 +452,25 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Hellbound",
-      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
+      "duration_ms": 421466,
+      "name": "Hard Lines Sunken Cheeks",
+      "url": "https://open.spotify.com/track/4sfR0Yk2BsOBnyvZrmcAEy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Dom / Hollow - Live",
+      "url": "https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS"
     },
     {
       "added_at": null,
@@ -539,54 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Official Live: 101 Proof",
-        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 136493,
-      "name": "I Can't Hide",
-      "url": "https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinventing the Steel (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 386755,
-      "name": "Avoid the Light",
-      "url": "https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Death Rattle",
-      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
         "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
       },
@@ -603,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Use My Third Arm",
+      "url": "https://open.spotify.com/track/09f12NM8XXy8oy5L1a2uKO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 136493,
+      "name": "I Can't Hide",
+      "url": "https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -612,9 +548,201 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Uplift",
-      "url": "https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd"
+      "duration_ms": 381933,
+      "name": "It Makes Them Disappear",
+      "url": "https://open.spotify.com/track/2rNljPJ1YPRIuP1fyhvn2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/0YP1dIF5fDrJphkOfYeI2h"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 421546,
+      "name": "Domination - Live from Monsters in Moscow Festival, 1991",
+      "url": "https://open.spotify.com/track/17vAO1xUsyqp5Mz4lfJdCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 253385,
+      "name": "Hole in the Sky",
+      "url": "https://open.spotify.com/track/5hngogP9B2xtmQEnfyX5le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 336333,
+      "name": "5 Minutes Alone - Live",
+      "url": "https://open.spotify.com/track/4tIUZFXJ7FWZqn2AxhbkyI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 319173,
+      "name": "I'll Cast a Shadow",
+      "url": "https://open.spotify.com/track/4zwzfzX5nXgD5Ro2tXIxhf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/0YP1dIF5fDrJphkOfYeI2h"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "The Will to Survive - Demo",
+      "url": "https://open.spotify.com/track/1z0DNz1DmqVcL2Rnyt8Xu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 353099,
+      "name": "Electric Funeral",
+      "url": "https://open.spotify.com/track/1CkTBKxFfVb0foi1jL8D8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "I'm Broken - Live",
+      "url": "https://open.spotify.com/track/6cTDDOWnzDj2ZlPZvfOGj4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/0YP1dIF5fDrJphkOfYeI2h"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Primal Concrete Sledge - Live from Monsters in Moscow Festival, 1991",
+      "url": "https://open.spotify.com/track/5gvbCcYSqUOAqIHMH1rlNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 160597,
+      "name": "Hellbound - 2020 Terry Date Mix",
+      "url": "https://open.spotify.com/track/7m53gIFSHy0GmB3GCn8D60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Suicide Note, Pt. 2 - Live",
+      "url": "https://open.spotify.com/track/1GtlzdvN1ONlOrXjH7pNj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 197390,
+      "name": "Death Rattle - 2020 Terry Date Mix",
+      "url": "https://open.spotify.com/track/71cCJsI7bUL9r8Ayuavnd7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "Sandblasted Skin - Live",
+      "url": "https://open.spotify.com/track/7A3ZvT0Pb1ib9w4yVnORNp"
     }
   ],
   "unique_name": "This Is Pantera",

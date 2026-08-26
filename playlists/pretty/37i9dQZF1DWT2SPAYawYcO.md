@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from DMA's, Balu Brigada, Gang Of Youths, Lizzy McAlpine, Fontaines DC + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,957 likes - 94 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,925 likes - 94 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 53 | [OMG](https://open.spotify.com/track/0zBgdiw5BlfgwERstURi7Y) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [OMG](https://open.spotify.com/album/3UPuvmaxUJi3myUAc3h84Z) | 2:58 |
 | 54 | [Does It Ever Cross Your Mind?](https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [THRASHER](https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo) | 3:11 |
 | 55 | [Reasons](https://open.spotify.com/track/3zgXUYGsLsj52bOwlmiA0n) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Reasons](https://open.spotify.com/album/7Ar4pv0aUikewucYDfgvvs) | 2:46 |
-| 56 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 56 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 57 | [There She Goes](https://open.spotify.com/track/4BmwGNp2SKDiVLbzmkZTk0) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [There She Goes](https://open.spotify.com/album/7p8b2CqEXLdqcI37YKX9Fm) | 3:37 |
 | 58 | [I Don’t Wanna Think About It](https://open.spotify.com/track/4TSsFNugAxoB8Q6otsqdaE) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [I Don’t Wanna Think About It](https://open.spotify.com/album/1hj97yhXmYNpg5HfL0e1xr) | 3:07 |
 | 59 | [EDGE OF VEGAS](https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [EDGE OF VEGAS](https://open.spotify.com/album/3KpH2DBCKo1lF8wNZxo4NU) | 3:40 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 93 | [Ain't No Game](https://open.spotify.com/track/1hRazzupiYrnYYUdpNhncL) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ain't No Game](https://open.spotify.com/album/3wQeApJ63jTGhdyvzYMvLX) | 2:41 |
 | 94 | [Pool](https://open.spotify.com/track/5ePNE8nUacIbX2Ruvw1mgE) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [Pool](https://open.spotify.com/album/1Qs8KNu9eHAy923LZSn8bi) | 3:07 |
 
-Snapshot ID: `AAAAAGHjXvov4bWtGTYtE8gBfhXPaDNy`
+Snapshot ID: `AAAAAHgiL/rHR4TC4sMtEkn/pqeqs2eY`

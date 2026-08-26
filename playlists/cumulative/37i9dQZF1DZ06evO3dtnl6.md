@@ -4,7 +4,7 @@
 
 > This is Gregory Alan Isakov\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 39 min
+42 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [I Am California \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 | 2026-05-16 | 2026-08-21 |
 | [If I Go, I'm Goin](https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:27 | 2026-05-16 |  |
 | [Liars](https://open.spotify.com/track/6rnkuqqkFBFTABuUQLvW8y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 5:16 | 2026-05-16 |  |
-| [Master & A Hound](https://open.spotify.com/track/7KxlQrTePk82UyI1Daz2Cr) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:02 | 2026-05-16 |  |
+| [Master & A Hound](https://open.spotify.com/track/7KxlQrTePk82UyI1Daz2Cr) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:02 | 2026-05-16 | 2026-08-26 |
 | [Miles to Go](https://open.spotify.com/track/3S3EJYLXPjao3vviYt3QVC) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 3:03 | 2026-05-16 |  |
 | [Mistakes](https://open.spotify.com/track/5bKb0ofYLZ0snMQDGrbWor) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 3:22 | 2026-05-16 |  |
 | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc) | 4:17 | 2026-05-16 | 2026-08-23 |
@@ -47,6 +47,7 @@
 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 | 2026-05-16 |  |
 | [Time Will Tell](https://open.spotify.com/track/76PS07wzG7zYMy8rHPjL2t) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 2:47 | 2026-05-16 |  |
 | [Unwritable Girl](https://open.spotify.com/track/3noTQVfSAGjbC2cS5efZoe) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 2:59 | 2026-05-16 |  |
+| [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 | 2026-08-26 |  |
 | [Wings In All Black](https://open.spotify.com/track/6dW2GBClQt23WtOctmEp4S) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 3:43 | 2026-05-16 |  |
 | [Words](https://open.spotify.com/track/01Dc5vTMc9axpkvDUy0yiD) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:01 | 2026-05-16 |  |
 

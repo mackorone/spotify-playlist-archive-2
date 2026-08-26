@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 下中洋介
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 佐瀬悠輔
 
-615 songs - 1 day 20 hr 3 min
+616 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [dawn highway](https://open.spotify.com/track/54s18WiYM4XlfFDfUOvIa3) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [dawn highway](https://open.spotify.com/album/5anIBZvF2hBoS8rnRgAYsL) | 3:29 | 2024-06-27 | 2024-07-19 |
 | [Dawn Street](https://open.spotify.com/track/3Jmh5z26Jw8wXMu72GIsB7) | [関 真哉](https://open.spotify.com/artist/3BgyOevYnyXTghV56FShvn) | [MY TESTIMONY](https://open.spotify.com/album/1lLWD57qcJt4U3wu0Z16f4) | 4:32 | 2025-11-27 | 2026-04-10 |
 | [Dawning Dusk](https://open.spotify.com/track/56BHtvEwxMoyqm1FVzm5kE) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Terra Incognita](https://open.spotify.com/album/0uNaDvqUwpRcuE0kEyUrAx) | 6:32 | 2026-07-02 |  |
+| [Daybreak](https://open.spotify.com/track/1tOghAIXFvGHobnjgqvwtS) | [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Daybreak / Dawn](https://open.spotify.com/album/7qpiqmTdZ0P3paIrzQ0qXN) | 3:18 | 2026-08-25 |  |
 | [Daylight Dreaming](https://open.spotify.com/track/3zQrllUTQeNu5pxdeH9OjB) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Daylight Dreaming](https://open.spotify.com/album/2sOM708UFfXAT1NYeo29vW) | 2:51 | 2025-09-25 | 2026-03-13 |
 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 | 2026-03-12 |  |
 | [DB Song](https://open.spotify.com/track/4JhpaRVJY50w2Apd7iYDFu) | [Paul Cornish](https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON) | [You’re Exaggerating!](https://open.spotify.com/album/17poWlH7a2OcIv1bTwq0xU) | 5:33 | 2025-08-29 | 2025-10-03 |

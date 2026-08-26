@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 78 songs - 5 hr 36 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 79 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 76 | [Bombs in the Ville/Hit the Gas](https://open.spotify.com/track/0Awr3NZMkRHQFabkMxW1VT) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:06 |
 | 77 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
 | 78 | [Wait for Me](https://open.spotify.com/track/6UpYEpNUC5WcqBkONs33eM) | [Melanie La Barrie](https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1), [Dónal Finn](https://open.spotify.com/artist/0l07GPpx3SgsDWdJ2kueVQ), [Bella Brown](https://open.spotify.com/artist/0FBt0ZjUovRqcnQbQWs5Dc), [Madeline Charlemagne](https://open.spotify.com/artist/0EfknWC39zJQh8okf4YJIJ), [Allie Daniel](https://open.spotify.com/artist/4Y4qcx8XscyZ3TFeMwfh6l), [Hadestown Original West End Cast](https://open.spotify.com/artist/53L1U5MOITzbFM1H6O8Y3C) | [Hadestown: Live From London](https://open.spotify.com/album/2CggytMzFmVTrJavX5Nbus) | 3:51 |
+| 79 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4Musyaro0NM5Awx8b5c627) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:01 |
 
-Snapshot ID: `AAAHCO/+KuGLauftq0jAD0cRUH48jSIQ`
+Snapshot ID: `AAAHCc3xrg+HncbXxn7wwO2dwOYywV2K`

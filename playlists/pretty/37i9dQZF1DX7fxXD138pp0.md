@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > Lo siento, pero mis bias si se topan\. 📸 Fuerza Regia
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,003 likes - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,012 likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 | 29 | [GIVENCHY](https://open.spotify.com/track/3L7Iq8PFq33qWS6a84Riwt) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [STAR](https://open.spotify.com/album/5YH266XRF5JlrgqzvwIiGX) | 2:27 |
 | 30 | [Clave 7](https://open.spotify.com/track/29m95um0i0NThLbWA765Lg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:39 |
 
-Snapshot ID: `AAAAAGAU3uZjcWGGV7UVxLfVFT1WMSV/`
+Snapshot ID: `AAAAAPHQow4H2ZFxanpqb89MDqP7B8X+`

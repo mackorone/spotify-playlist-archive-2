@@ -4,11 +4,12 @@
 
 > From India to MENA, these hits will make you dance.
 
-63 songs - 4 hr 0 min
+64 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 0:00 | 2023-01-24 | 2023-11-28 |
+| [](https://open.spotify.com/track/5QyOjKJhR1iyF0DHQM2IvW) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/76g096RoXj4F5keLju1CHH) | 0:00 | 2024-03-13 |  |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2023-01-24 | 2024-05-03 |
 | [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 | 2026-07-18 |
 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 | 2023-01-24 |  |
@@ -61,7 +62,7 @@
 | [Wallah Habibi \- From "Bade Miyan Chote Miyan"](https://open.spotify.com/track/5eVfz3h4sMjjZyBYW4CWQy) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Dipakshi Kalita](https://open.spotify.com/artist/5H2VH9Htkxxn4hKxzt0juD), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Wallah Habibi \(From "Bade Miyan Chote Miyan"\)](https://open.spotify.com/album/6kJ9kSP6wi1Hc0XN6Yah0W) | 2:41 | 2024-03-13 |  |
 | [Wallah Wallah](https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Proof](https://open.spotify.com/artist/5pk8AXDLwwybWfGXpqWkZ5) | [Wallah Wallah](https://open.spotify.com/album/0YvN3saYGkzZzvRcCdyYNr) | 3:51 | 2023-01-24 |  |
 | [Wenta Ma'aia](https://open.spotify.com/track/51oq7cDZyW2sR6Q0GGv5DD) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Ma'aia](https://open.spotify.com/album/2SGapJ4rJA5H4ztHs5qZIC) | 3:22 | 2023-11-27 | 2024-04-19 |
-| [Wenta Ma'aia \- Remix](https://open.spotify.com/track/3S7wcZjYOEoPD3EmquMUgF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Galal El Hemdawy](https://open.spotify.com/artist/2jNMyBb5mcLnhjVPPYwc1T) | [Wenta Ma'aia \(Remix\)](https://open.spotify.com/album/3qH30wTYeULfYYUeJ5gLEV) | 3:22 | 2023-01-24 |  |
+| [Wenta Ma'aia \- Remix](https://open.spotify.com/track/3S7wcZjYOEoPD3EmquMUgF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Galal El Hemdawy](https://open.spotify.com/artist/2jNMyBb5mcLnhjVPPYwc1T) | [Wenta Ma'aia \(Remix\)](https://open.spotify.com/album/3qH30wTYeULfYYUeJ5gLEV) | 3:22 | 2023-01-24 | 2026-08-26 |
 | [Ya Ali](https://open.spotify.com/track/1LJRNbwOZ9TopITPaWDbsr) | [Zubeen Garg](https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u) | [Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh) | 4:55 | 2023-01-24 | 2026-08-14 |
 | [YA HABIBI](https://open.spotify.com/track/2Tp6ANSbloxbty2DR0uws7) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Abhishek Talented](https://open.spotify.com/artist/5D10pAEJDqDAseh6iZj5Mj) | [YA HABIBI](https://open.spotify.com/album/1xpPQ3iwkBuBGQNbRalt5Q) | 3:47 | 2023-01-24 |  |
 | [Yalla Yalla](https://open.spotify.com/track/6IKDI3h0vjvOdwllJtp4lX) | [Miraya Varma](https://open.spotify.com/artist/4FhmGc9lD5PO3ZrPPDGiRV), [Zeus](https://open.spotify.com/artist/46vVY0199R2mAXHkayL5mG) | [Yalla Yalla](https://open.spotify.com/album/2m6iGaVxOvvS1UcdNfNakp) | 3:49 | 2023-01-24 |  |

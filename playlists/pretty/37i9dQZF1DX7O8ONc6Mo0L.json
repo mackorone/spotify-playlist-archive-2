@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 385059,
+  "num_followers": 385114,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAabMl23AQVH9qfjrAu0yKSqIZjd",
+  "snapshot_id": "AAAAAOwVIeWI5RAJyIc+uYFsB8HH1JR4",
   "tracks": [
     {
       "added_at": "2026-08-10 15:32:09",
@@ -763,22 +763,18 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
         }
       ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -867,18 +863,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2026-08-10 15:32:09",

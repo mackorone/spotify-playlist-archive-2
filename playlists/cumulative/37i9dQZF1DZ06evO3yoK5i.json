@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348080,
+      "name": "A Medio Camino",
+      "url": "https://open.spotify.com/track/5IxI20mp17BXvRzhzuJ2du"
+    },
+    {
+      "album": {
         "name": "Todo Historias (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 283760,
       "name": "Dove c'\u00e8 musica",
       "url": "https://open.spotify.com/track/3SFBv34cLvMPNXHyihGRkj"
@@ -312,7 +330,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 234493,
       "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
       "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
@@ -438,10 +456,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 240893,
       "name": "Fuego en el Fuego",
       "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
+    },
+    {
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245489,
+      "name": "Fuego en el fuego (feat. Lali)",
+      "url": "https://open.spotify.com/track/607vlcl4G505P4PunoADXB"
     },
     {
       "album": {
@@ -612,7 +652,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 335213,
       "name": "L'aurora",
       "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
@@ -652,7 +692,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 335533,
       "name": "La Aurora",
       "url": "https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ"
@@ -975,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246560,
+      "name": "Non ti prometto niente",
+      "url": "https://open.spotify.com/track/6O9D21VmoqY0l0AVha2Ret"
+    },
+    {
+      "album": {
         "name": "Eros - Best Of",
         "url": "https://open.spotify.com/album/4ZbNG8537boyzvfvdnQqY3"
       },
@@ -1004,7 +1062,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
@@ -1102,7 +1160,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 245626,
       "name": "Piccola pietra",
       "url": "https://open.spotify.com/track/2zYGM8Vn4HkZrMxno6MGxz"
@@ -1366,7 +1424,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 228080,
       "name": "Sei Un Pensiero Speciale",
       "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
@@ -1478,7 +1536,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 250760,
       "name": "Solo ieri",
       "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
@@ -1666,7 +1724,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 270080,
       "name": "Ti vorrei rivivere",
       "url": "https://open.spotify.com/track/37C68LgK0KGays4MYetqOT"
@@ -1702,7 +1760,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 233066,
       "name": "Toma la Luna",
       "url": "https://open.spotify.com/track/2mhUvNEvxUJKmZxJhTvcht"
@@ -1738,7 +1796,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 278693,
       "name": "Un Angel No Es",
       "url": "https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0"
@@ -1774,7 +1832,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 203306,
       "name": "Un Angelo Disteso Al Sole",
       "url": "https://open.spotify.com/track/7F4laaMW44ARgK3MioHv4n"
@@ -1846,7 +1904,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 276920,
       "name": "Un Segundo de Paz",
       "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
@@ -1994,7 +2052,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"

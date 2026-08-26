@@ -1,12 +1,12 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 226090,
+  "num_followers": 226149,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCCw2USr/Ro4UqPh8Ucawm8giXz",
+  "snapshot_id": "AAAAAFnlhN5h27rQc3oCZkoo8EhGcYKN",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "HANDMADE HORSEPOWER",
-        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
+        "name": "Outlaw Shit (feat. Shooter Jennings)",
+        "url": "https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq"
       },
       "artists": [
         {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        },
+        {
+          "name": "Shooter Jennings",
+          "url": "https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr"
         }
       ],
-      "duration_ms": 167002,
-      "name": "MATTER OF TIME",
-      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
+      "duration_ms": 245046,
+      "name": "Outlaw Shit (feat. Shooter Jennings)",
+      "url": "https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72"
     }
   ],
   "unique_name": "Outlaw ",

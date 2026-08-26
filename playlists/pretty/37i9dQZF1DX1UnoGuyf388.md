@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,638 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,640 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 48 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 49 | [if i'm lucky](https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [better late than not at all](https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu) | 2:57 |
 
-Snapshot ID: `AAAAAOEUOd0KV2itACivLQTgrV/cQJW1`
+Snapshot ID: `AAAAAJoy+e/CAJLS3QEhn/NtcyScYo54`

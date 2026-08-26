@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Ofenbach x Starsailor
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,328 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,353 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
 | 50 | [Attraction](https://open.spotify.com/track/1Eu7sKRxbJJPu7YLePnrwQ) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Attraction](https://open.spotify.com/album/5N7gbHEwfYuL3CxpDVOVJK) | 2:52 |
 
-Snapshot ID: `AAAAAECBYp03I04P6yekE1966RSCcDQA`
+Snapshot ID: `AAAAAGu7NY82avtiBTstb45U1sLK8Sf+`

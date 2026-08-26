@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 156 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 156 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 94 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
 | 95 | [Like It Is](https://open.spotify.com/track/6yHZ09mUcQRZtWBYW73OoQ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 4:36 |
 | 96 | [Tree of Life](https://open.spotify.com/track/0XCneIf2nzxEPnWHWwszKn) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 5:37 |
-| 97 | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 |
-| 98 | [Faster](https://open.spotify.com/track/7pPrI9EZNokodBQIgvo0BI) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Full Speed](https://open.spotify.com/album/0d8ZiQuUcHDzUkqz9PEn7j) | 2:27 |
-| 99 | [Handle](https://open.spotify.com/track/4MEYu03CxywIaxNuL3wRnt) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:06 |
+| 97 | [Handle](https://open.spotify.com/track/4MEYu03CxywIaxNuL3wRnt) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:06 |
+| 98 | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 |
+| 99 | [Faster](https://open.spotify.com/track/7pPrI9EZNokodBQIgvo0BI) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Full Speed](https://open.spotify.com/album/0d8ZiQuUcHDzUkqz9PEn7j) | 2:27 |
 | 100 | [Memories On 47th St.](https://open.spotify.com/track/6oVz6Htjk970xInBdmOvak) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [The Autobiography](https://open.spotify.com/album/6NySuONTKK6mtLG0nF80Jr) | 4:02 |
 | 101 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
 | 102 | [Soul Glitch](https://open.spotify.com/track/4EabiixKs1IXXRyFha7ODG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nightride](https://open.spotify.com/album/4oUQWJAcEtTuhYFR9AGfaC) | 4:11 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 155 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 156 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcadpAAAAABlJMBjUBSTbYrQH068sgFE`
+Snapshot ID: `AcajRAAAAABWAKbUegzUVr3fgk9HlPeZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,478 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,480 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 20 | [i don't miss u](https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:58 |
 | 21 | [Soufflé](https://open.spotify.com/track/4hP4t2ArzB5QA7nzJGjruX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Soufflé](https://open.spotify.com/album/66fpUIHYlOz0NlgG6TX7RI) | 2:09 |
 | 22 | [Diamond Tears](https://open.spotify.com/track/3PPk8VonR0Ov8EKkmCkyvS) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Love u – to Death](https://open.spotify.com/album/3buQH4TCBwPOcMFliqJUHT) | 3:30 |
-| 23 | [Do Better](https://open.spotify.com/track/3wsFn90RsumyPhbsehCFrT) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/18grs7Mla9Oztp4PrYP5f7) | 3:33 |
+| 23 | [Do Better](https://open.spotify.com/track/3wsFn90RsumyPhbsehCFrT) | [halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/18grs7Mla9Oztp4PrYP5f7) | 3:33 |
 | 24 | [Harvard](https://open.spotify.com/track/5slRibWxb9m8wS8keXG4yY) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/6SHGA5HOlV0pgQNE4EP96t) | 3:26 |
 | 25 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 |
 | 26 | [Make You Wait](https://open.spotify.com/track/0s58Xx9kQFoujKAuWM5k04) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `AAAAALDd62Isdsw7oYhJP4rUT/8QOWWh`
+Snapshot ID: `AAAAAK9fb3jJXOcwNvkSLY49SRG89mvs`

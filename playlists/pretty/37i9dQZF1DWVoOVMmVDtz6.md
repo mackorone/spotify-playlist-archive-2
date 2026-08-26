@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain]
 
 > greenery & humid air 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,429 likes - 101 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,453 likes - 101 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain]
 | 100 | [Peace of Mind](https://open.spotify.com/track/5R5W17mKIjtLw5ubZwjFuA) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:04 |
 | 101 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:48 |
 
-Snapshot ID: `AAAAANoUKiocK4m03XUqGoy8Rr3XqCvF`
+Snapshot ID: `AAAAAL7umHKBY7xoF9oeeLNg789jb2pP`

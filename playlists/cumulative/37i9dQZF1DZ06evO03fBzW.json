@@ -14,9 +14,27 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "date_added": "2025-03-08",
+      "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 78733,
+      "name": "A Little Something Refreshing",
+      "url": "https://open.spotify.com/track/6CAwmtliTx9tUynU45okrR"
+    },
+    {
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2025-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
       "duration_ms": 228840,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0xbpdQleYwsTPjc6JimN3b"
@@ -88,10 +106,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 45640,
       "name": "BND",
       "url": "https://open.spotify.com/track/67zScJlCZAhJsIMCYyDSbj"
+    },
+    {
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/1OQWd0nl8k5x1HCbrQuhoN"
     },
     {
       "album": {
@@ -178,7 +214,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 145866,
       "name": "Doormat",
       "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
@@ -254,6 +290,24 @@
       "duration_ms": 185626,
       "name": "Excuse Me Mr.",
       "url": "https://open.spotify.com/track/7E7UH5jsEw1vhiM01EQ5gL"
+    },
+    {
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Get On The Ball",
+      "url": "https://open.spotify.com/track/4zh6BFC0phB2kUdq7SdSJx"
     },
     {
       "album": {
@@ -452,7 +506,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 251960,
       "name": "Let's Get Back",
       "url": "https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x"
@@ -528,7 +582,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 219160,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/58ulODLlgkcE9I4z5B5vrG"
@@ -554,6 +608,24 @@
       "duration_ms": 161911,
       "name": "Mouth Shut (feat. Adrian Young of No Doubt)",
       "url": "https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH"
+    },
+    {
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235733,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/4TczzqgorzzX4t0mzaBXrK"
     },
     {
       "album": {
@@ -684,7 +756,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 215080,
       "name": "Sailin' On",
       "url": "https://open.spotify.com/track/3J3gmwEpUnCcTEBjxmMLeO"
@@ -738,7 +810,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 277333,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/0Dmi9ykcCODLhBnB3OvWOv"
@@ -810,7 +882,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 246106,
       "name": "Stricken",
       "url": "https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx"

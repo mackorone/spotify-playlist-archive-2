@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 282066,
       "name": "Aguas de Marco",
       "url": "https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 285333,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/22DysDIxio06fLuxT0f6g8"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 147266,
       "name": "Fools Rush In (Where Angels Fear to Tread)",
       "url": "https://open.spotify.com/track/75UUJlBF9DCOfctq8VetnG"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 252363,
       "name": "Menina Flor",
       "url": "https://open.spotify.com/track/7BTgeer16Llakc5vxKxx5J"
@@ -1024,10 +1024,32 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+    },
+    {
+      "album": {
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136880,
+      "name": "O Pato (The Duck) - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/7aQlpXxX6QCCUqXpRbgPXd"
     },
     {
       "album": {
@@ -1094,7 +1116,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 188280,
       "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
@@ -1336,7 +1358,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 429026,
       "name": "Sweet Rain",
       "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"

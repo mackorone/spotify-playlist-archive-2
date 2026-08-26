@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. La Tremenda Korte en portada.",
-  "num_followers": 490841,
+  "num_followers": 490900,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfr7bzVY+lXezZ31df6nPelCJlm",
+  "snapshot_id": "AAAAAK538Zt0rQqKvUMGy74W8d1HdndI",
   "tracks": [
     {
       "added_at": "2026-08-21 04:39:10",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Serie Verde - El Gran Silencio",
+        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Serie Verde - El Gran Silencio",
-        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Que me quemen tus ojos",
-        "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
         },
         {
-          "name": "Macha Y El Bloque Depresivo",
-          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+          "name": "Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf"
         }
       ],
-      "duration_ms": 159453,
-      "name": "Que me quemen tus ojos",
-      "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+      "duration_ms": 328680,
+      "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
+      "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1083,22 +1083,42 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Que me quemen tus ojos",
+        "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         },
         {
-          "name": "Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf"
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
         }
       ],
-      "duration_ms": 328680,
-      "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
-      "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+      "duration_ms": 159453,
+      "name": "Que me quemen tus ojos",
+      "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Qui\u00e9n Devuelve El Tiempo?",
+        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 210164,
+      "name": "Qui\u00e9n devuelve el tiempo?",
+      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Qui\u00e9n Devuelve El Tiempo?",
-        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 210164,
-      "name": "Qui\u00e9n devuelve el tiempo?",
-      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
         "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 203695,
       "name": "Golpes En El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/09uXwwlVhiRpSpmcRoLJFP"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+        "name": "Supersonico",
+        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
       },
       "artists": [
         {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 187385,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
+      "duration_ms": 206933,
+      "name": "Qu\u00e9 Vas a Hacer Conmigo",
+      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Supersonico",
-        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
+        "name": "VOY DE NUEVO",
+        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Qu\u00e9 Vas a Hacer Conmigo",
-      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+      "duration_ms": 158122,
+      "name": "VOY DE NUEVO",
+      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1291,22 +1307,6 @@
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "VOY DE NUEVO",
-        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 158122,
-      "name": "VOY DE NUEVO",
-      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Mandar Obedeciendo",
+        "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
+      },
+      "artists": [
+        {
+          "name": "Rude Boys",
+          "url": "https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Mandar Obedeciendo",
+      "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/0n7xEqwDiExRMpa0fcDNZY"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 190580,
       "name": "Caras y Caretas",
       "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Mandar Obedeciendo",
-        "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
-      },
-      "artists": [
-        {
-          "name": "Rude Boys",
-          "url": "https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Mandar Obedeciendo",
-      "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Todo Crazy",
         "url": "https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 175434,
       "name": "Todo Crazy",
       "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     }
   ],
   "unique_name": "Ska Latino ",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: milet",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u5bb6\u5165\u30ec\u30aa",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -5284,6 +5284,24 @@
       "duration_ms": 258146,
       "name": "blur and flower",
       "url": "https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ"
+    },
+    {
+      "album": {
+        "name": "boat",
+        "url": "https://open.spotify.com/album/2YRzP1iD3UDiKAMhW8v677"
+      },
+      "artists": [
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254302,
+      "name": "boat",
+      "url": "https://open.spotify.com/track/4i4aLvZUMcfFXsb7X8wfrp"
     },
     {
       "album": {
@@ -11230,7 +11248,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 198357,
       "name": "FAR",
       "url": "https://open.spotify.com/track/0t23kUK11ldnqgBPVrD19z"
@@ -26200,7 +26218,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 212146,
       "name": "Oi AG!",
       "url": "https://open.spotify.com/track/2rBT5nSYEVhVKEhWsIzzWt"
@@ -29184,6 +29202,24 @@
       "duration_ms": 187757,
       "name": "Rain Or Shine",
       "url": "https://open.spotify.com/track/2s69VvXfqCJ1WqOQC4eBxG"
+    },
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/4lbDFA1xxTXWSAExmb9dOy"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2RDHDpLMNnd6jtMJujLWb9"
     },
     {
       "album": {
@@ -56655,6 +56691,24 @@
     },
     {
       "album": {
+        "name": "\u4ee4\u548cLady\u604b\u611b\u8cdb\u6b4c",
+        "url": "https://open.spotify.com/album/4vb0ONbzwvZBg4RedryIkn"
+      },
+      "artists": [
+        {
+          "name": "Mitsuki Takahata",
+          "url": "https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "\u4ee4\u548cLady\u604b\u611b\u8cdb\u6b4c",
+      "url": "https://open.spotify.com/track/3O6MkX4eUxdNcxGZRZ2y4H"
+    },
+    {
+      "album": {
         "name": "\u4ef2\u76f4\u308a\u306e\u3042\u3068\u306f",
         "url": "https://open.spotify.com/album/0Wu8vPsDymj28G4C718zL5"
       },
@@ -66122,7 +66176,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183934,
       "name": "\u6d99\u306e\u30ab\u30e9\u30c3\u30c8 -Rumor Girl- (feat. \u8ca1\u6d25\u30de\u30a4)",
       "url": "https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR"

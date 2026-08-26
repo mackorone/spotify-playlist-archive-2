@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37611,
+  "num_followers": 37610,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALPBuZjEcXT8qM0V8N2uH5+mopCp",
+  "snapshot_id": "AAAAAKr67iXZ2NccHGucDjRfv5Vkcopw",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:40",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Different Life",
-        "url": "https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 163318,
-      "name": "Different Life",
-      "url": "https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Hot Girl Summer",
         "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 162781,
       "name": "Hot Girl Summer",
       "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Different Life",
+        "url": "https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 163318,
+      "name": "Different Life",
+      "url": "https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Softly Speaking",
         "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
@@ -479,34 +463,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Je ne reviendrai pas",
-        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
       },
       "artists": [
         {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Je ne reviendrai pas",
-      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -523,6 +491,22 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -555,6 +539,22 @@
       "duration_ms": 135866,
       "name": "fire",
       "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Je ne reviendrai pas",
+        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Je ne reviendrai pas",
+      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+        "name": "Don't Let Him Go",
+        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
       },
       "artists": [
         {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
         }
       ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
+      "duration_ms": 177250,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -727,18 +743,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Don't Let Him Go",
-        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 177250,
-      "name": "Don't Let Him Go",
-      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -759,22 +775,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 136767,
       "name": "You Hurt Me",
       "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/3EJkFFctLoXCOKrS2O6hKY"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 169930,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1zzrdSKdqTman4sjMyZYpu"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Blue Light",
-        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 206755,
-      "name": "Blue Light",
-      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 173302,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 206755,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 161946,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Valse \u00e0 Demi",
         "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 162835,
       "name": "Valse \u00e0 Demi",
       "url": "https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1455,38 +1455,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Coastline",
-        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
-      },
-      "artists": [
-        {
-          "name": "Shem Thomas",
-          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
-        }
-      ],
-      "duration_ms": 164089,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
       },
@@ -1515,6 +1483,38 @@
       "duration_ms": 199261,
       "name": "Hell",
       "url": "https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
+      },
+      "artists": [
+        {
+          "name": "Shem Thomas",
+          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
+        }
+      ],
+      "duration_ms": 164089,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "MAGAZINE",
-        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 192157,
-      "name": "MAGAZINE",
-      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Devil On My Back",
         "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "MAGAZINE",
+        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 192157,
+      "name": "MAGAZINE",
+      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
     },
     {
       "added_at": "2026-08-06 22:00:40",

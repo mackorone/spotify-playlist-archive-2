@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183092,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh"
@@ -9630,7 +9630,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 205013,
       "name": "Tach",
       "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
@@ -10042,6 +10042,28 @@
       "duration_ms": 156552,
       "name": "Tititi",
       "url": "https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX"
+    },
+    {
+      "album": {
+        "name": "TITIZ A KHAY",
+        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        },
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "TITIZ A KHAY",
+      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
     },
     {
       "album": {
@@ -11490,6 +11512,24 @@
       "duration_ms": 199760,
       "name": "\u0644\u0648\u0644\u064a \u0644\u0648\u0644\u064a",
       "url": "https://open.spotify.com/track/7GpRfqWrmhflvcIFPcvdS7"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062d\u0628 \u0627\u064a\u0647\u061f",
+        "url": "https://open.spotify.com/album/41hx3ANA5kgT974fZRcpww"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143777,
+      "name": "\u0645\u0634 \u0645\u063a\u0631\u0648\u0631\u0629",
+      "url": "https://open.spotify.com/track/0ypyxXgnE2V2QKO4qHv9Th"
     },
     {
       "album": {

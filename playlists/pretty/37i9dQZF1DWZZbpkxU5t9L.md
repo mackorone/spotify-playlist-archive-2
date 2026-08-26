@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,160 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,163 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [楽園ベイベー](https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [グッジョブ!](https://open.spotify.com/album/6cs7Vijg2dNWEJcMxaMivR) | 4:44 |
 | 60 | [そばかす](https://open.spotify.com/track/5zydI0vRlMI6mrEKgZR8zq) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [THE POWER SOURCE](https://open.spotify.com/album/3EmVZE8tSVKN0tblpt8Mzo) | 4:15 |
 
-Snapshot ID: `AAAAAI3v9HTal0f6AY5VILwubyv5SNhz`
+Snapshot ID: `AAAAAOQSUY9SNNZBZMJJdrlqmlR5cKY4`

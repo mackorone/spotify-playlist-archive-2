@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 49219,
+  "num_followers": 49247,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALrkyRmb//ArFwVoCcgKccDJMKDX",
+  "snapshot_id": "AAAAAEWNac5bX4evzP5jHEWa4h77mt0M",
   "tracks": [
     {
       "added_at": "2026-08-14 00:01:40",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 202547,
       "name": "HIM (feat. Gunna)",
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 181304,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -1355,26 +1375,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 181304,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
       },
@@ -1415,18 +1415,22 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Popstar - Side A",
-        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
       "artists": [
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 128053,
-      "name": "Simone",
-      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -1455,22 +1459,18 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "US III",
-        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+        "name": "Popstar - Side A",
+        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
       },
       "artists": [
         {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 156190,
-      "name": "US III",
-      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+      "duration_ms": 128053,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
     },
     {
       "added_at": "2026-08-14 00:01:40",

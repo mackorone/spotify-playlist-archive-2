@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 279152,
+  "num_followers": 279175,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAAFZ0abUqaHrbnmnBnqKIJ/",
+  "snapshot_id": "aouJgAAAAAApSNETQqHtz+S2u/ssmVIQ",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Come on over Baby (All I Want Is You) - Radio Version",
-      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do What U Want",
         "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm"
       },
@@ -339,58 +323,6 @@
       "duration_ms": 216573,
       "name": "Do What U Want",
       "url": "https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 194213,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 298853,
-      "name": "Dirrty (feat. Redman)",
-      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 273706,
-      "name": "I Turn to You",
-      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
     },
     {
       "added_at": null,
@@ -420,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 228906,
-      "name": "Ain't No Other Man",
-      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+      "duration_ms": 194213,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
     },
     {
       "added_at": null,
@@ -479,6 +411,22 @@
       "duration_ms": 179373,
       "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "Ain't No Other Man",
+      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
     },
     {
       "added_at": null,
@@ -555,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
       "artists": [
         {
@@ -564,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 304013,
-      "name": "The Voice Within",
-      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
+      "duration_ms": 189906,
+      "name": "Come On Over (All I Want Is You)",
+      "url": "https://open.spotify.com/track/3W3MNXiYjuK1r1LIFyQqja"
     },
     {
       "added_at": null,
@@ -887,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AGUILERA",
-        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+        "name": "Keeps Gettin' Better: A Decade of Hits",
+        "url": "https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS"
       },
       "artists": [
         {
@@ -896,13 +844,13 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 206542,
-      "name": "Cuando Me D\u00e9 la Gana",
-      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
+      "duration_ms": 286013,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/3J2j9PWuRMWzJ9sKlTQTQv"
     },
     {
       "added_at": null,
@@ -923,6 +871,42 @@
       "duration_ms": 245295,
       "name": "Pipe (feat. XNDA)",
       "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 206542,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4Kaxx66gshAgVCPyRzLfFo"
     },
     {
       "added_at": null,
@@ -971,6 +955,22 @@
       "duration_ms": 181946,
       "name": "Keeps Gettin' Better",
       "url": "https://open.spotify.com/track/0j0n5CUS1g3QSwDWg8r5qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "Loving Me 4 Me",
+      "url": "https://open.spotify.com/track/3MyTEl8ZL0qKXFqyvbYsC5"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

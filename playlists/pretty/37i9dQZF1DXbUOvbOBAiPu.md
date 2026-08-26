@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 90 | [Trap 4 a Year II](https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Trap 4 a Year II](https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB) | 2:35 |
 | 91 | [.com](https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [.com](https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt) | 3:07 |
 | 92 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
-| 93 | [BAD GYAL](https://open.spotify.com/track/66D403DAwk6vRgHIv3WXCJ) | [SIKEM](https://open.spotify.com/artist/1E2l9VxEscguzMQiDG81gt), [DJ Vtrine](https://open.spotify.com/artist/3DS0FU7a6mYJyIANSDiJfw) | [BAD GYAL](https://open.spotify.com/album/00n17HwZcBPZuOnLgsCRcL) | 2:39 |
+| 93 | [BAD GYAL](https://open.spotify.com/track/66D403DAwk6vRgHIv3WXCJ) | [SIKEM](https://open.spotify.com/artist/1E2l9VxEscguzMQiDG81gt), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [BAD GYAL](https://open.spotify.com/album/00n17HwZcBPZuOnLgsCRcL) | 2:39 |
 | 94 | [Love Beats Hate](https://open.spotify.com/track/7Favb8g2OPJq3U3LtCehLG) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Love Beats Hate](https://open.spotify.com/album/4fp5FIZI0pbwTvxFEanVYg) | 5:21 |
 | 95 | [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 |
 
-Snapshot ID: `AAAAADWtvE2EWNHsPKeGhxzm4ZD89ETk`
+Snapshot ID: `AAAAAMMTbd0knMmnoHKJQI8b0meZxjah`

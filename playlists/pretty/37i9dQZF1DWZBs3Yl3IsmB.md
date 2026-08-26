@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 
 > \(no lyrics\) ✨ soft and chill instrumentals to relax, focus, or anything in between
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,400 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,439 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 | 49 | [Oregon](https://open.spotify.com/track/4mUy6zIjxgGNgQlb30OSu9) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Oregon](https://open.spotify.com/album/2HEky0wIcjbSnYvo0kbyMh) | 2:06 |
 | 50 | [Temple Of Your Own](https://open.spotify.com/track/00n3VMM7mVeH1XdxztgomX) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Temple Of Your Own](https://open.spotify.com/album/4AHfpX5N3TWOUAbFZQadrL) | 2:19 |
 
-Snapshot ID: `AAAAAJld8gUtOjDB3MnydjPdhPv3NNVf`
+Snapshot ID: `AAAAAKuoCt6Vf5aWAG1ZkDp1ophRGX2J`

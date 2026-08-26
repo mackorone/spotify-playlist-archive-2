@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIepcG8p7qZjrW9ifOe60s5SPHTS",
+  "snapshot_id": "AAAAAFwKnbK8jD2vdQSNVQQamztaqPz5",
   "tracks": [
     {
       "added_at": "2026-08-21 00:00:19",
@@ -239,6 +239,38 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
+        "name": "Sama Hva\u00f0",
+        "url": "https://open.spotify.com/album/7ByNVBHncpY3rGwVEayOH1"
+      },
+      "artists": [
+        {
+          "name": "MattYo",
+          "url": "https://open.spotify.com/artist/71197sJaNV6suxmbcsjvkK"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Sama Hva\u00f0",
+      "url": "https://open.spotify.com/track/0dTUaQaCHaCZATUrDK7SR9"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/0HcALYkoekvTsjRo56mzMz"
       },
@@ -263,38 +295,6 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "Sama Hva\u00f0",
-        "url": "https://open.spotify.com/album/7ByNVBHncpY3rGwVEayOH1"
-      },
-      "artists": [
-        {
-          "name": "MattYo",
-          "url": "https://open.spotify.com/artist/71197sJaNV6suxmbcsjvkK"
-        }
-      ],
-      "duration_ms": 118285,
-      "name": "Sama Hva\u00f0",
-      "url": "https://open.spotify.com/track/0dTUaQaCHaCZATUrDK7SR9"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
-        "name": "Bottle",
-        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 258353,
-      "name": "Bottle",
-      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
         "name": "I Will Find You",
         "url": "https://open.spotify.com/album/00zVD6CI5uL5co5xzUjTS1"
       },
@@ -311,18 +311,22 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC"
+        "name": "Rider",
+        "url": "https://open.spotify.com/album/6wITwuAzpf7HW0s3SwLvKu"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 184600,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/1bopIBCYnfkvWuMXVaaugp"
+      "duration_ms": 173465,
+      "name": "Rider",
+      "url": "https://open.spotify.com/track/16TrvZHMpyPAMmja6O2PrX"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -347,6 +351,22 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/1bopIBCYnfkvWuMXVaaugp"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
         "name": "Bad Girls Never Die",
         "url": "https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 166463,
       "name": "Bad Girls Never Die",
       "url": "https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
-        "name": "Rider",
-        "url": "https://open.spotify.com/album/6wITwuAzpf7HW0s3SwLvKu"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Rider",
-      "url": "https://open.spotify.com/track/16TrvZHMpyPAMmja6O2PrX"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "Two Roads",
-        "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Two Roads",
-      "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -631,38 +631,34 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 185787,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
+      "duration_ms": 240000,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
     },
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": ".com",
-        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+        "name": "Fur Elise",
+        "url": "https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF"
       },
       "artists": [
         {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 187384,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
+      "duration_ms": 256413,
+      "name": "Fur Elise",
+      "url": "https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -683,18 +679,22 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "Fur Elise",
-        "url": "https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF"
+        "name": ".com",
+        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
         }
       ],
-      "duration_ms": 256413,
-      "name": "Fur Elise",
-      "url": "https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC"
+      "duration_ms": 187384,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "NEED YOU",
+      "url": "https://open.spotify.com/track/6lBHTQVgXXxGCm8q2UvAhu"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
         "name": "In the Margins, In Shades of Pale Blue",
         "url": "https://open.spotify.com/album/3SqvwWh7vGWCIttQCJKIgU"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 228937,
       "name": "Laymelli - Edit",
       "url": "https://open.spotify.com/track/0jKRNJkTm7ysB70KpZaXUR"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "NEED YOU",
-      "url": "https://open.spotify.com/track/6lBHTQVgXXxGCm8q2UvAhu"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -823,22 +823,6 @@
       "duration_ms": 340000,
       "name": "U Found Love",
       "url": "https://open.spotify.com/track/1YOEKT35pfkIjXbS5MvCRZ"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
-        "name": "such is life",
-        "url": "https://open.spotify.com/album/5OsGDMlr3xM2QazyJwf28g"
-      },
-      "artists": [
-        {
-          "name": "threetwenty",
-          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "such is life",
-      "url": "https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -887,6 +871,22 @@
       "duration_ms": 275750,
       "name": "Ur Bedroom",
       "url": "https://open.spotify.com/track/4ZYqfis4isgeIZ7qiM6904"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
+        "name": "such is life",
+        "url": "https://open.spotify.com/album/5OsGDMlr3xM2QazyJwf28g"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "such is life",
+      "url": "https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "sw33t",
-        "url": "https://open.spotify.com/album/2UzNJAA7nQOkb5SkCoPtp6"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 151100,
-      "name": "sw33t",
-      "url": "https://open.spotify.com/track/0agc1TM6dDVPEBLCWAjWfa"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
         "name": "Kevin Bacon",
         "url": "https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 150279,
       "name": "Kevin Bacon",
       "url": "https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
+        "name": "sw33t",
+        "url": "https://open.spotify.com/album/2UzNJAA7nQOkb5SkCoPtp6"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 151100,
+      "name": "sw33t",
+      "url": "https://open.spotify.com/track/0agc1TM6dDVPEBLCWAjWfa"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
+        "name": "So Real",
+        "url": "https://open.spotify.com/album/6GNmSU5NUxFejNZFOGS8Ee"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "So Real",
+      "url": "https://open.spotify.com/track/66pADnPsJJ8HsbKXI0BsUc"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
         "name": "KeenKeenKeen",
         "url": "https://open.spotify.com/album/66HEuNYGzl0G9v0tXPrmyx"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 147326,
       "name": "KeenKeenKeen",
       "url": "https://open.spotify.com/track/6LMCwGXVVlEtkuJ7PEQ8TR"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
-        "name": "So Real",
-        "url": "https://open.spotify.com/album/6GNmSU5NUxFejNZFOGS8Ee"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "So Real",
-      "url": "https://open.spotify.com/track/66pADnPsJJ8HsbKXI0BsUc"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
+        "name": "Mothers Bells",
+        "url": "https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 152748,
+      "name": "Mothers Bells",
+      "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/0Xt30AWKQG2VirORfC81tT"
       },
@@ -1111,6 +1127,22 @@
       "duration_ms": 136786,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6sxPkot6EBYh5KRKzOfwBC"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
+        "name": "Bonnie",
+        "url": "https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "Mothers Bells",
-        "url": "https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 152748,
-      "name": "Mothers Bells",
-      "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
         "name": "Totally",
         "url": "https://open.spotify.com/album/68bAvtCNnayCdY7cQbz1Mh"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 162224,
       "name": "Totally",
       "url": "https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
-        "name": "Bonnie",
-        "url": "https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -1207,6 +1207,22 @@
       "duration_ms": 278924,
       "name": "Le",
       "url": "https://open.spotify.com/track/5NxbLBoZzuZkavPJ7zumbK"
+    },
+    {
+      "added_at": "2026-08-21 00:00:19",
+      "album": {
+        "name": "Open Cards",
+        "url": "https://open.spotify.com/album/3DtPiZOb2I1PkvvssmvATr"
+      },
+      "artists": [
+        {
+          "name": "Naliyah",
+          "url": "https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Open Cards",
+      "url": "https://open.spotify.com/track/6chrX8lc4DXuIc7BRbrVQY"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2026-08-21 00:00:19",
       "album": {
-        "name": "Open Cards",
-        "url": "https://open.spotify.com/album/3DtPiZOb2I1PkvvssmvATr"
+        "name": "Sweeter Than This",
+        "url": "https://open.spotify.com/album/5QovgOfSJAZzeae3krAYUz"
       },
       "artists": [
         {
-          "name": "Naliyah",
-          "url": "https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo"
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
         }
       ],
-      "duration_ms": 191320,
-      "name": "Open Cards",
-      "url": "https://open.spotify.com/track/6chrX8lc4DXuIc7BRbrVQY"
+      "duration_ms": 179560,
+      "name": "Sweeter Than This",
+      "url": "https://open.spotify.com/track/7CRuydlDS3Jm8g4OVQJ7Z1"
     },
     {
       "added_at": "2026-08-21 00:00:19",
@@ -1295,22 +1311,6 @@
       "duration_ms": 161379,
       "name": "Big Soft",
       "url": "https://open.spotify.com/track/2rLgwbknBEDbSV2AVhIZzo"
-    },
-    {
-      "added_at": "2026-08-21 00:00:19",
-      "album": {
-        "name": "Sweeter Than This",
-        "url": "https://open.spotify.com/album/5QovgOfSJAZzeae3krAYUz"
-      },
-      "artists": [
-        {
-          "name": "Headaches",
-          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Sweeter Than This",
-      "url": "https://open.spotify.com/track/7CRuydlDS3Jm8g4OVQJ7Z1"
     },
     {
       "added_at": "2026-08-21 00:00:19",

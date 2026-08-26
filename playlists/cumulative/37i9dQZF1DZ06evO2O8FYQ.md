@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 11 min
+77 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Anxiety Trip](https://open.spotify.com/track/10S4dYhylLT9ant8pjwJ0y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:40 | 2022-09-19 | 2022-10-08 |
 | [Arizona Waiting](https://open.spotify.com/track/2fAILrDcZY2MGkduWxXuok) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:04 | 2022-11-16 |  |
 | [Arizona Waiting](https://open.spotify.com/track/4HYEQtuuZTsj0RIIi3Yneh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:04 | 2022-09-25 | 2022-11-17 |
-| [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2022-09-16 |  |
+| [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2022-09-16 | 2026-08-26 |
 | [Bad Penny](https://open.spotify.com/track/0QdXCN2gjKlzCjrilt6iLG) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 2:48 | 2022-09-16 | 2022-10-31 |
 | [Bad Penny](https://open.spotify.com/track/3C8Y4JVurbZLfSTqeVvgyZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:48 | 2023-07-31 |  |
 | [Barce\-Loner](https://open.spotify.com/track/5JsxX5mxbXvgX8e8R0uH5x) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:15 | 2022-09-16 |  |
@@ -67,6 +67,7 @@
 | [Peninsula](https://open.spotify.com/track/42zB7btVjEWABXDsL6TDb6) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:31 | 2022-11-08 | 2022-11-17 |
 | [Peninsula](https://open.spotify.com/track/5AiWmb2mXJbdZDP7XGomCh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/64aCDmxb3wjPmvmlLjiUhH) | 3:31 | 2022-09-16 | 2022-11-09 |
 | [Pouring Gasoline](https://open.spotify.com/track/6eF46qhfOX5iyz3MlRUEZD) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 | 2024-12-21 |  |
+| [Professional Freak](https://open.spotify.com/track/7bjJgt1FEAZ1vWceuzDgmT) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:53 | 2026-08-26 |  |
 | [Punk Kiss](https://open.spotify.com/track/7l57ND5J8nrYpz86GRweYU) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 2:56 | 2025-08-24 | 2025-09-21 |
 | [Quasimodo Melonheart](https://open.spotify.com/track/2fuw5mzOjJ8z7tVUMEhBDA) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:53 | 2025-08-24 | 2025-11-05 |
 | [Red and Purple](https://open.spotify.com/track/6SRJtgmyjyQ5ro0LpHaPw1) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:36 | 2022-11-16 |  |

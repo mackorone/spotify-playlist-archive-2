@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,194 likes - 175 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,228 likes - 175 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 174 | [Solara](https://open.spotify.com/track/0YXwdfm0KZf4PPyltKMeBy) | [Sun Fighters](https://open.spotify.com/artist/3MI5lIsreyUVcmNEFMd32S) | [Solara](https://open.spotify.com/album/3eJXuPxpyMTiGhSZEINOmi) | 2:20 |
 | 175 | [Hold the Moment](https://open.spotify.com/track/0JwMohVlSXmykh7s6bA2rt) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [Hold the Moment](https://open.spotify.com/album/1R0CCWV4dZrOY9lUz9Zc3K) | 2:35 |
 
-Snapshot ID: `AAAAAHAFwI7j9r0RZL+IC5iqS6T60TqH`
+Snapshot ID: `AAAAAIaXOMrPSI+0Axlqb8uzSxeXOToR`

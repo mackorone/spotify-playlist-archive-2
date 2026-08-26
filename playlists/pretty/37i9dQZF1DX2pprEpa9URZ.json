@@ -1,12 +1,12 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 917310,
+  "num_followers": 917382,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHZHWJnP3U7//P/E64rmkT3RKQuP",
+  "snapshot_id": "AAAAAB6GfLvccjlbGaaXmz8kt2eILICI",
   "tracks": [
     {
       "added_at": "2026-08-17 10:14:47",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 180021,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Objetos enterrados",
+        "url": "https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 290969,
+      "name": "Objetos enterrados",
+      "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Feather (The Remixes)",
         "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 175637,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Objetos enterrados",
-        "url": "https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        }
-      ],
-      "duration_ms": 290969,
-      "name": "Objetos enterrados",
-      "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Thierry",
         "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 375652,
       "name": "Thierry",
       "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
+      },
+      "artists": [
+        {
+          "name": "Solkatt",
+          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Amado",
         "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 210500,
       "name": "Amado",
       "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
-      },
-      "artists": [
-        {
-          "name": "Solkatt",
-          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 400695,
       "name": "Tribal Rhythms",
       "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2026-08-17 10:14:47",

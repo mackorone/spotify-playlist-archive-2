@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,621 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,673 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 124 | [Two Faced Lover](https://open.spotify.com/track/2N4PVnfJDqbySVwE3IhMH1) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [In Between Dreams](https://open.spotify.com/album/1ivBLFxX6NSjVksccS4EyF) | 3:18 |
 | 125 | [Weightless](https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Bloom](https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH) | 4:06 |
 
-Snapshot ID: `AAAAAOSJZlyG13kluK2l+WlbZ7jVPVmB`
+Snapshot ID: `AAAAAJdXCHPJKS3skAo0p9ixMLyjqhQQ`

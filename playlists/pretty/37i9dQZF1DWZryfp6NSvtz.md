@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Dexter and The Moonrocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,749 likes - 190 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,826 likes - 190 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 189 | [Missing Piece](https://open.spotify.com/track/0NS8O8fXMEsRqFgARR9FUM) | [Lifespark.](https://open.spotify.com/artist/5Hb2LAz1HTH6x92aONq729) | [Missing Piece](https://open.spotify.com/album/2W81oJa6o2uN82v46EBTnf) | 3:13 |
 | 190 | [Terminal Crew of Dudes](https://open.spotify.com/track/7aFeJdlceYberxvyr274xh) | [Whitmer Thomas](https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1) | [Terminal Crew of Dudes](https://open.spotify.com/album/4OLtYU26pJPdFJhdKqnCTg) | 3:52 |
 
-Snapshot ID: `AAAAAMmjIq4ybDNU33tk4gaLB8en8VVF`
+Snapshot ID: `AAAAAJliZSVb5cS+v0twjhHpughle9wT`

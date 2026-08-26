@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 19 | [Warm Ways](https://open.spotify.com/track/4SysnIGNcHQlaz9jJVnIxX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:54 |
 | 20 | [Skies the Limit](https://open.spotify.com/track/0Cq7FAM0nK4xRXL5dSbGIS) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Behind the Mask](https://open.spotify.com/album/3aXrkfZW8FzUDOU0RwQ401) | 3:45 |
 | 21 | [Got a Hold on Me](https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 3:52 |
-| 22 | [I Do](https://open.spotify.com/track/3lKoKxbgDUmpRWyUQUjDvi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:28 |
-| 23 | [Temporary One \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/2TeczJua7d0fQenCUUeyMI) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 4:00 |
+| 22 | [Temporary One \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/2TeczJua7d0fQenCUUeyMI) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 4:00 |
+| 23 | [I Do](https://open.spotify.com/track/3lKoKxbgDUmpRWyUQUjDvi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:28 |
 | 24 | [Love in Store \- 2016 Remaster](https://open.spotify.com/track/41tJM6A0L02Rw6JSS5iThp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:15 |
 | 25 | [You and I, Pt\. II](https://open.spotify.com/track/4rByJ2VpPZf91PNViVudls) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night](https://open.spotify.com/album/2kRyLrP2uR7fuQRmofhxlF) | 2:41 |
 | 26 | [Sugar Daddy](https://open.spotify.com/track/29IWmqmyYyA1LylPAd2fxh) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:10 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 86 | [Sweet Revenge \- 2023 Remaster](https://open.spotify.com/track/3HhVRsWsn9DOwzKG97vDq8) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [In the Meantime \(2023 Remaster\)](https://open.spotify.com/album/1QJknteX6W6nxnpKRsfSSo) | 3:49 |
 | 87 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `AcadpAAAAACWfjmpmBll6NjkvvV713Ni`
+Snapshot ID: `AcajRAAAAADT2TvInnbf0F+g77P8AjSL`

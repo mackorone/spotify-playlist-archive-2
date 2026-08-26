@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: ItaloBrothers & Da Tweekaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,164 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,227 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 20 | [My Misery](https://open.spotify.com/track/3rUgF46btzKXZpaDQiFgYJ) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [My Misery](https://open.spotify.com/album/79slbc76SeedVBQSX1OLCc) | 2:57 |
 | 21 | [LOVE](https://open.spotify.com/track/3d7KC5jopAvfw71ixv79Oj) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [LOVE](https://open.spotify.com/album/4LNvFWVOFdlOuLYrsxYoUY) | 3:34 |
 | 22 | [Promises](https://open.spotify.com/track/4AheaojLivwFaI00d4dAVb) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Promises](https://open.spotify.com/album/1qmYbQQl4KVIO3omsJZWUf) | 3:01 |
-| 23 | [Step Into The Madness \- Into The Madness 2026 Anthem](https://open.spotify.com/track/0IteHALo6bvrcqibNMCvjO) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Step Into The Madness \(Into The Madness 2026 Anthem\)](https://open.spotify.com/album/1gEUGLLv9TZicXVny5zdRR) | 4:14 |
+| 23 | [Step Into The Madness \- Into The Madness 2026 Anthem](https://open.spotify.com/track/0IteHALo6bvrcqibNMCvjO) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Step Into The Madness \(Into The Madness 2026 Anthem\)](https://open.spotify.com/album/1gEUGLLv9TZicXVny5zdRR) | 4:04 |
 | 24 | [Dream On](https://open.spotify.com/track/4OD6nkCMmThfZpFKEVCVnp) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6), [ARK8](https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT) | [Dream On](https://open.spotify.com/album/78oEZ5l5cg2lEhvaNtuzrb) | 3:11 |
 | 25 | [Discorecord \- Galactixx Remix](https://open.spotify.com/track/3GTv9eSn7MKs9dKxtFpXYk) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Discorecord \(Galactixx Remix\)](https://open.spotify.com/album/6zMvYeBxaGnry4GQAaI7fd) | 2:36 |
 | 26 | [Like Me \- Radio Edit](https://open.spotify.com/track/5Wu0VkKJ5h8VJ1462CBnKX) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [99PRBLMZ](https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF) | [Like Me](https://open.spotify.com/album/6XGFmdEQ6Gkem2mGc4uMMe) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Conduct The Beat](https://open.spotify.com/track/2bGXVQocKA5YB3zFKtuPSH) | [Beat Conductors](https://open.spotify.com/artist/3gz47nHDk4wenoX6uVwSYe) | [Conduct The Beat](https://open.spotify.com/album/480xlWiLSYJbADd1cZopt4) | 4:06 |
 | 100 | [Freestyler](https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [Freestyler](https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow) | 3:18 |
 
-Snapshot ID: `AAAAACECzdVuQ0GDH/uiL1Kmwtsg8kYl`
+Snapshot ID: `AAAAAMdgQvdoLJnhf7OOjmipWhEgXoQQ`

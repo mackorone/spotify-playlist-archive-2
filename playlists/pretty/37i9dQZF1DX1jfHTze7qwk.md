@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,332 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,334 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 20 | [เข้ากันดี](https://open.spotify.com/track/1zbuNx8aZ9xesAjy4ZDvH4) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 3:51 |
 | 21 | [ตาสว่าง \(Found\)](https://open.spotify.com/track/2xnAn7xxR2Ohxt1UuQudpC) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 5:24 |
 | 22 | [ดินแดนแห่งความรัก](https://open.spotify.com/track/3WrSuURIdtaffgHBANSyWC) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [Second Chance](https://open.spotify.com/album/0AZurgshWlyyrnBvRqQ3zY) | 3:43 |
-| 23 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
-| 24 | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/track/0b9JDLbAgCazIwPSWj6DNL) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/album/4h7UhLWDZk2vOafrnijTta) | 3:55 |
+| 23 | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/track/0b9JDLbAgCazIwPSWj6DNL) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/album/4h7UhLWDZk2vOafrnijTta) | 3:55 |
+| 24 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
 | 25 | [ทุกอย่าง](https://open.spotify.com/track/4BoGFJUkeQ67PvkIfHhT65) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [SSSSS..!](https://open.spotify.com/album/5e5fZ4jZiIhh5rfsuFhfCN) | 4:16 |
 | 26 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 27 | [คุณเก็บความลับได้ไหม](https://open.spotify.com/track/1HfQcqDwV3UASZUOpMp9A9) | [Armchair](https://open.spotify.com/artist/12WQ39HU6t5eDvwjK0GFzT) | [คุณเก็บความลับได้ไหม](https://open.spotify.com/album/0vyHVuW90UueeOcOhiAaEl) | 4:39 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 46 | [สัมพันธ์](https://open.spotify.com/track/0LGL4db0abssZ4RicaoiJh) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 5:17 |
 | 47 | [จักรวาล \- Radio Edit](https://open.spotify.com/track/3DM2s6zdNdauNJU4GYSuhr) | [60Miles](https://open.spotify.com/artist/30QomnySAioA1rWq4ul2bO) | [The First Mile](https://open.spotify.com/album/2pzyOcKvdFFRwPgV7QP7AJ) | 5:07 |
 | 48 | [How To Love \(feat\. GRAY\)](https://open.spotify.com/track/1miAQyBEMvHJ62JFuERLyr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [How To Love \(feat\. GRAY\)](https://open.spotify.com/album/2UrGn1oGOn91IGG2TdNbvn) | 3:21 |
-| 49 | [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 |
-| 50 | [ปล่อยไปตามหัวใจ \(Let It Flow\)](https://open.spotify.com/track/1uR2ubwRuhaYyy7P98tlma) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:18 |
+| 49 | [ปล่อยไปตามหัวใจ \(Let It Flow\)](https://open.spotify.com/track/1uR2ubwRuhaYyy7P98tlma) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:18 |
+| 50 | [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 |
 
-Snapshot ID: `AAAAADymkFqnMfXo1RW189oaczE/StU4`
+Snapshot ID: `AAAAAF2UBfulna/+b04uPkViZOezYAC2`

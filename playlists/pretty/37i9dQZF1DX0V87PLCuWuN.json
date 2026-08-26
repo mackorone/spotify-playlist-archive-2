@@ -1,13 +1,57 @@
 {
-  "description": "Opulent Classical Music for your Boss Era \ud83d\udc85",
-  "num_followers": 5098,
-  "original_name": "Classical Decadence ",
+  "description": "Powerful Classical \ud83d\udc85",
+  "num_followers": 5169,
+  "original_name": "Villain Era Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASlr4RLl9qBod3i7HcV0LGRFMrD",
+  "snapshot_id": "AAAAAOvjnACPTxYyXpK5OEGtmbuj/5CD",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:00:42",
+      "album": {
+        "name": "Presto (From 'Summer' from The Four Seasons) [Arr. Kristine & Margarita Balanas]",
+        "url": "https://open.spotify.com/album/27ItkLf1oqRAd5UOYJBsoD"
+      },
+      "artists": [
+        {
+          "name": "Krist\u012bne Balanas",
+          "url": "https://open.spotify.com/artist/0lDBHW4HNd46bGdVEl6Sjt"
+        },
+        {
+          "name": "Margarita Balanas",
+          "url": "https://open.spotify.com/artist/5ZEgy7PqXSEYz9yz7YZDQ7"
+        }
+      ],
+      "duration_ms": 143494,
+      "name": "Presto (From 'Summer' from The Four Seasons) [Arr. Kristine & Margarita Balanas]",
+      "url": "https://open.spotify.com/track/363iMmsPRvfiPm8drKjqjG"
+    },
+    {
+      "added_at": "2026-08-21 04:00:42",
+      "album": {
+        "name": "Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot",
+        "url": "https://open.spotify.com/album/7K4HfPLJ2JwvXBF02SAiXx"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Russian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Jazz Suite No. 2: VI. Waltz 2",
+      "url": "https://open.spotify.com/track/0pjCsB0XNSyqM9UazlTODC"
+    },
     {
       "added_at": "2026-08-21 04:00:42",
       "album": {
@@ -59,26 +103,6 @@
       "duration_ms": 119000,
       "name": "The Gadfly, Op. 97: Spanish Dance - Arr. String Orchestra by L. Gozman",
       "url": "https://open.spotify.com/track/7FQLBlylqZU30K3kQpbrTk"
-    },
-    {
-      "added_at": "2026-08-21 04:00:42",
-      "album": {
-        "name": "Presto (From 'Summer' from The Four Seasons) [Arr. Kristine & Margarita Balanas]",
-        "url": "https://open.spotify.com/album/27ItkLf1oqRAd5UOYJBsoD"
-      },
-      "artists": [
-        {
-          "name": "Krist\u012bne Balanas",
-          "url": "https://open.spotify.com/artist/0lDBHW4HNd46bGdVEl6Sjt"
-        },
-        {
-          "name": "Margarita Balanas",
-          "url": "https://open.spotify.com/artist/5ZEgy7PqXSEYz9yz7YZDQ7"
-        }
-      ],
-      "duration_ms": 143494,
-      "name": "Presto (From 'Summer' from The Four Seasons) [Arr. Kristine & Margarita Balanas]",
-      "url": "https://open.spotify.com/track/363iMmsPRvfiPm8drKjqjG"
     },
     {
       "added_at": "2026-08-21 04:00:42",
@@ -151,30 +175,6 @@
       "duration_ms": 318200,
       "name": "Romeo and Juliet, Op. 64 / Act I: No. 13, Dance of the Knights",
       "url": "https://open.spotify.com/track/1vHfxtvTuIKUCgbJoCILJd"
-    },
-    {
-      "added_at": "2026-08-21 04:00:42",
-      "album": {
-        "name": "Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot",
-        "url": "https://open.spotify.com/album/7K4HfPLJ2JwvXBF02SAiXx"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Russian State Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi"
-        },
-        {
-          "name": "Dmitry Yablonsky",
-          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Jazz Suite No. 2: VI. Waltz 2",
-      "url": "https://open.spotify.com/track/0pjCsB0XNSyqM9UazlTODC"
     },
     {
       "added_at": "2026-08-21 04:00:42",
@@ -2245,6 +2245,6 @@
       "url": "https://open.spotify.com/track/2fEbuFSksIThthle3Kj6uj"
     }
   ],
-  "unique_name": "Classical Decadence ",
+  "unique_name": "Villain Era Classical",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0V87PLCuWuN"
 }

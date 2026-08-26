@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: ONEWE\)
 
-1,800 songs - 4 day 0 hr 1 min
+1,801 songs - 4 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1480,6 +1480,7 @@
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-27 | 2025-08-01 |
 | [Summertime \(Feat\. Keem Hyoeun\)](https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Summertime](https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B) | 3:44 | 2021-07-16 | 2021-08-25 |
 | [SUMMERTIME STORY](https://open.spotify.com/track/4gEayLXcxbZFoIVLoUUPpu) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [SUMMERTIME STORY](https://open.spotify.com/album/69KF67n03oFlMuDj6olUzP) | 3:11 | 2026-07-01 |  |
+| [SUN KISS](https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 3:01 | 2026-08-25 |  |
 | [Sunflower \(P.E.L\)](https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Sunflower](https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6) | 3:01 | 2022-09-16 | 2022-11-11 |
 | [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 | 2026-07-04 |  |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-02-03 | 2022-04-09 |

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,045 songs - 2 day 2 hr 17 min
+1,046 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 | 2024-05-31 | 2025-03-08 |
 | [Lala](https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lala](https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU) | 3:21 | 2026-03-06 | 2026-05-25 |
 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 | 2026-01-14 | 2026-04-30 |
-| [LAMBA](https://open.spotify.com/track/2OK5qFsZr83APSlRbmMwrt) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [KOKO SZN](https://open.spotify.com/artist/53XjvW1apJc8O4L28yrnTz), [LOGDRM](https://open.spotify.com/artist/1rdVk0Sj2xpk5dp1hT0FAw) | [LAMBA](https://open.spotify.com/album/2qiF3RoUGIs2prPwz7rM8x) | 2:11 | 2026-07-31 |  |
+| [LAMBA](https://open.spotify.com/track/2OK5qFsZr83APSlRbmMwrt) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [KOKO SZN](https://open.spotify.com/artist/53XjvW1apJc8O4L28yrnTz), [LOGDRM](https://open.spotify.com/artist/1rdVk0Sj2xpk5dp1hT0FAw) | [LAMBA](https://open.spotify.com/album/2qiF3RoUGIs2prPwz7rM8x) | 2:11 | 2026-07-31 | 2026-08-26 |
 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 | 2025-03-14 | 2026-06-12 |
 | [Last Forever](https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Last Forever](https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP) | 3:54 | 2026-02-20 | 2026-06-07 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 | 2023-03-23 |
@@ -901,6 +901,7 @@
 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-27 | 2023-04-23 |
 | [Start Me Up](https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Start Me Up](https://open.spotify.com/album/5GZeyHEYLp13qFIJOyHVVJ) | 3:03 | 2023-06-22 | 2023-07-21 |
 | [Stay](https://open.spotify.com/track/154cX8cwMSwUAdb4igPQh0) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:46 | 2024-03-01 | 2024-03-22 |
+| [Stay a Little Longer](https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Stay a Little Longer](https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34) | 2:54 | 2026-08-21 |  |
 | [Stay Wise](https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Stay Wise](https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb) | 2:24 | 2024-06-14 | 2024-08-13 |
 | [Stick to the Plan](https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Stick to the Plan](https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL) | 1:57 | 2026-02-27 |  |
 | [Still the one](https://open.spotify.com/track/15ChgJwMrGNN2ZSrLJGXqY) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 4:25 | 2024-02-13 | 2024-02-16 |

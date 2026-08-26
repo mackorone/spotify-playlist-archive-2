@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 160608,
+  "num_followers": 160618,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADUh8B/37iYcgXoxJ6D5VTb",
+  "snapshot_id": "aouJgAAAAADmngTmlSQXe58EvaT7t4YD",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "Te Esperar\u00e9",
-      "url": "https://open.spotify.com/track/3PFFlBz7EWEuT6VeckIoyI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 171409,
       "name": "Mi Amor Y Mi Agon\u00eda",
       "url": "https://open.spotify.com/track/2LpDaTcq9mHmhIr43phoDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/3PFFlBz7EWEuT6VeckIoyI"
     },
     {
       "added_at": null,
@@ -701,7 +701,7 @@
         }
       ],
       "duration_ms": 194875,
-      "name": "Andamos Borrachos Todos (En Vivo)",
+      "name": "Andamos Borrachos Todos - En Vivo",
       "url": "https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH"
     },
     {

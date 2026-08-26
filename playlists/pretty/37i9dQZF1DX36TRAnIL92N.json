@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 503058,
+  "num_followers": 503216,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN4zekRqySJufV7z4cR6+jTOWsKi",
+  "snapshot_id": "AAAAAAYJeIYrNbJG9sGfc4puH4gARL9o",
   "tracks": [
     {
       "added_at": "2026-08-07 04:11:56",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Sonne Geht Auf",
-        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "Sonne Geht Auf",
-      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "run",
         "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 262297,
       "name": "run",
       "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "Sonne Geht Auf",
+        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 126538,
+      "name": "Sonne Geht Auf",
+      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
     },
     {
       "added_at": "2026-08-07 04:11:56",

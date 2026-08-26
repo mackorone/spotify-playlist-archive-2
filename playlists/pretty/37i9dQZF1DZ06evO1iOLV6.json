@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12809,
+  "num_followers": 12810,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAABB0yOVcGsAcGI7SAD+ecZW",
+  "snapshot_id": "aouJgAAAAAC6D7odpvCOlS6SoY3eEyHF",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/2mZLaQDdLplafm3Y5HMr51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
       "added_at": null,
@@ -559,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
       "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 191945,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
+      "duration_ms": 186782,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
     },
     {
       "added_at": null,
@@ -591,26 +575,6 @@
       "duration_ms": 208042,
       "name": "MA GIRL",
       "url": "https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 186782,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
     },
     {
       "added_at": null,
@@ -999,6 +963,50 @@
       "duration_ms": 157391,
       "name": "No Jonze",
       "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seyi or Shay",
+        "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
+      },
+      "artists": [
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Shaydee",
+          "url": "https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa"
+        }
+      ],
+      "duration_ms": 228884,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
     }
   ],
   "unique_name": "This Is Patoranking",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOhrGdKrYkGd8bbVP1AeGUsUr4Pu",
+  "snapshot_id": "AAAAAE/nZkgXeqLIMA/cUcAk9L48mwxv",
   "tracks": [
     {
       "added_at": "2025-12-05 19:00:22",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Acalanto",
+        "url": "https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        }
+      ],
+      "duration_ms": 268685,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Acalanto",
-        "url": "https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        }
-      ],
-      "duration_ms": 268685,
-      "name": "Acalanto",
-      "url": "https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n"
     },
     {
       "added_at": "2025-12-05 19:00:22",

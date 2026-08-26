@@ -4,7 +4,7 @@
 
 > This is RÜFÜS DU SOL\. The essential tracks, all in one playlist.
 
-42 songs - 3 hr 20 min
+43 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,10 +37,11 @@
 | [Paris Collides](https://open.spotify.com/track/1mS1EHAvaLGUmn45dVj8Oo) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [RÜFÜS \- EP](https://open.spotify.com/album/1LSLppK6YfZHKKjGUhIxeP) | 3:37 | 2026-06-15 |  |
 | [Pressure](https://open.spotify.com/track/2nrJYak41L06ktuU9hTJ7J) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:39 | 2026-06-15 | 2026-06-28 |
 | [Rendezvous](https://open.spotify.com/track/5LT4Fu3zeihIMVxKbDCN8I) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 4:20 | 2026-06-15 |  |
+| [Sarah](https://open.spotify.com/track/4mmnPh0hGLrpwv7sRaVPrE) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 4:07 | 2026-08-26 |  |
 | [Standing at the Gates \- Weval Remix](https://open.spotify.com/track/1opUUDEWEvvYmNa3FzzlFA) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Inhale / Exhale Remixed, Vol\. 2](https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6) | 3:44 | 2026-06-15 |  |
 | [Sundream](https://open.spotify.com/track/7vLdHqkzAl5BDVxphZ7vaO) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 4:35 | 2026-06-15 |  |
 | [Surrender \(feat\. Curtis Harding\)](https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:36 | 2026-06-15 |  |
-| [Take Me](https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 4:02 | 2026-06-15 |  |
+| [Take Me](https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 4:02 | 2026-06-15 | 2026-08-26 |
 | [Tell Me](https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:49 | 2026-06-15 |  |
 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 | 2026-06-15 |  |
 | [Two Clocks](https://open.spotify.com/track/4ynDU2MqVAUmh9nWxoPYVj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 3:48 | 2026-06-15 |  |

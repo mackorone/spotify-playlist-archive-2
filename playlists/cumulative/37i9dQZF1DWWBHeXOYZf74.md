@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Denzel Curry
 
-3,572 songs - 8 day 7 hr 45 min
+3,573 songs - 8 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [BANKROLL \(feat\. A$AP Rocky & A$AP Ferg\)](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 3:22 | 2021-04-10 | 2021-06-12 |
 | [Baon](https://open.spotify.com/track/1Tg4Ca86g0DsAdJ1O80cFp) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Baon](https://open.spotify.com/album/7oTtOpDHgYFtd0K4Gq4dpK) | 2:55 | 2024-03-22 | 2024-04-13 |
 | [Baptize \(with JID & EARTHGANG feat\. Ant Clemons\)](https://open.spotify.com/track/5zWOqc9si4XnemdxZH4WGG) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:53 | 2020-10-03 | 2021-01-23 |
-| [Barii](https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 4:12 | 2026-07-24 |  |
+| [Barii](https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 4:12 | 2026-07-24 | 2026-08-26 |
 | [Barrons Hotel \(I, To, Thee.\)](https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ), [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Barrons Hotel/Yellow Bones](https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y) | 5:54 | 2026-05-01 | 2026-07-25 |
 | [BASQUIAT](https://open.spotify.com/track/3B11HLD8nKerFzXwMuszi1) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [LEGACY! LEGACY!](https://open.spotify.com/album/5NzK7S7oQQnO8eLRf7kDJx) | 6:45 | 2020-07-25 | 2020-10-03 |
 | [Battling Dust](https://open.spotify.com/track/3oYleXsSv0X9GqN1oKyPYu) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc) | [Sent From My Telephone](https://open.spotify.com/album/4h9EUsDMvwsUdmXEvK449j) | 3:45 | 2023-05-12 | 2023-07-29 |
@@ -1406,6 +1406,7 @@
 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 | 2022-11-04 | 2023-02-18 |
 | [HERE WE GO](https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD) | [HERE WE GO](https://open.spotify.com/album/4I98MShyUAObVPwcHeEEYd) | 3:00 | 2024-08-09 | 2024-11-16 |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-14 | 2022-02-26 |
+| [hey fever](https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [hey fever](https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG) | 2:02 | 2026-08-26 |  |
 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 | 2024-08-02 | 2024-09-14 |
 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 | 2025-02-07 | 2025-04-19 |
 | [Hey Lou](https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Hey Lou](https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2) | 3:40 | 2023-11-17 | 2024-02-17 |

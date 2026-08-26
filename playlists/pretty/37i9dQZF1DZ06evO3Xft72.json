@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 292700,
+  "num_followers": 292728,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACaVJL8FK9q/7eoFqfzXQSE",
+  "snapshot_id": "aouJgAAAAACa1waPG5N8eDtlOXadkOLe",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 396823,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -160,25 +176,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 273733,
-      "name": "Bringin' On The Heartbreak",
-      "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 295957,
-      "name": "Let's Get Rocked",
-      "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": null,
@@ -215,38 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 396823,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 283186,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retro Active",
         "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
       },
@@ -259,54 +227,6 @@
       "duration_ms": 256486,
       "name": "Two Steps Behind - String / Acoustic Version",
       "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Have You Ever Needed Someone So Bad",
-      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Rock! Rock! (Till You Drop)",
-      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 342510,
-      "name": "Women - Remastered 2017",
-      "url": "https://open.spotify.com/track/2q1njJdxOMEClSnuBWGMJa"
     },
     {
       "added_at": null,
@@ -327,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
       "artists": [
         {
@@ -336,9 +256,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 239727,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/4GbVDG1NFH1kzqCHRCFj5D"
+      "duration_ms": 342510,
+      "name": "Women - Remastered 2017",
+      "url": "https://open.spotify.com/track/2q1njJdxOMEClSnuBWGMJa"
     },
     {
       "added_at": null,
@@ -352,15 +272,15 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 254501,
-      "name": "Comin' Under Fire",
-      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
+      "duration_ms": 234753,
+      "name": "Rock! Rock! (Till You Drop)",
+      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
       },
       "artists": [
         {
@@ -368,9 +288,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 272871,
-      "name": "Stand Up (Kick Love Into Motion)",
-      "url": "https://open.spotify.com/track/0dr71rw5oIcPtUHRJES6gP"
+      "duration_ms": 239727,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4GbVDG1NFH1kzqCHRCFj5D"
     },
     {
       "added_at": null,
@@ -407,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 254501,
+      "name": "Comin' Under Fire",
+      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -419,22 +355,6 @@
       "duration_ms": 247739,
       "name": "Mirror Mirror (Look Into My Eyes)",
       "url": "https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retro Active",
-        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 244611,
-      "name": "Miss You In A Heartbeat - Revised Version",
-      "url": "https://open.spotify.com/track/47jRWT09YkhZXJMuGBYkpb"
     },
     {
       "added_at": null,
@@ -455,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
       },
       "artists": [
         {
@@ -464,25 +384,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 213848,
-      "name": "Heaven Is",
-      "url": "https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 206550,
-      "name": "High 'N' Dry (Saturday Night)",
-      "url": "https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi"
+      "duration_ms": 423016,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
     },
     {
       "added_at": null,
@@ -503,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 206550,
+      "name": "High 'N' Dry (Saturday Night)",
+      "url": "https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -515,38 +435,6 @@
       "duration_ms": 266790,
       "name": "Don't Shoot Shot Gun",
       "url": "https://open.spotify.com/track/4IB9c8FQ2VNutSWdgkw0Ys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 423016,
-      "name": "White Lightning",
-      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 298663,
-      "name": "Another Hit And Run",
-      "url": "https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb"
     },
     {
       "added_at": null,
@@ -583,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 298663,
+      "name": "Another Hit And Run",
+      "url": "https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamond Star Halos",
         "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
       },
@@ -595,22 +499,6 @@
       "duration_ms": 254906,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Switch 625",
-      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
     },
     {
       "added_at": null,
@@ -647,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Switch 625",
+      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
       },
@@ -679,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slang (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 157841,
-      "name": "Slang",
-      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Through The Night",
         "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
@@ -711,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi"
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
       "artists": [
         {
@@ -720,25 +608,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 260500,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 217648,
-      "name": "I Wanna Touch U",
-      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
+      "duration_ms": 278917,
+      "name": "Lady Strange",
+      "url": "https://open.spotify.com/track/7dDwYtWBlsCCUMcsU6fe3n"
     },
     {
       "added_at": null,
@@ -759,6 +631,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 217648,
+      "name": "I Wanna Touch U",
+      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamond Star Halos",
         "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
       },
@@ -771,22 +675,6 @@
       "duration_ms": 222506,
       "name": "Kick",
       "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 217799,
-      "name": "Tear It Down",
-      "url": "https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF"
     },
     {
       "added_at": null,
@@ -819,6 +707,122 @@
       "duration_ms": 206680,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 190749,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slang (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267084,
+      "name": "Blood Runs Cold",
+      "url": "https://open.spotify.com/track/4CobZvJtESkkrHcC0QUVlx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirror Ball \u2013 Live & More",
+        "url": "https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 275635,
+      "name": "I Wanna Be Your Hero - Revised Version",
+      "url": "https://open.spotify.com/track/1DBt0u00pL1UIxTCizq9gN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retro Active",
+        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 220460,
+      "name": "Action - Revised Version",
+      "url": "https://open.spotify.com/track/1PUCeAtLlyLCSeoBkfb9my"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Like 73 (Tom Morello Version)",
+        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Just Like 73",
+      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
     }
   ],
   "unique_name": "This Is Def Leppard",

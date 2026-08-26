@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-888 songs - 1 day 20 hr 7 min
+889 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Red Lights](https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Red Lights](https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5) | 3:18 | 2024-05-31 | 2024-12-09 |
 | [Redemption](https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Redemption](https://open.spotify.com/album/6M8MlEiGhdNwCrcqAUS23H) | 2:37 | 2023-08-08 | 2024-04-06 |
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 | 2023-04-28 |
+| [Redesigned](https://open.spotify.com/track/1b0gi99XK7YVLE17keg2C1) | [Matzan](https://open.spotify.com/artist/705wpA2q8KZMhSvhpmLiWC) | [Redesigned](https://open.spotify.com/album/3s1M0TCtwqnt1dZhYFeb2N) | 2:30 | 2026-08-25 |  |
 | [Reflect](https://open.spotify.com/track/351BRPYm4aXYMPEvuOUYGm) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Reflect](https://open.spotify.com/album/3sDGWzEYgNvleBc5tM3p5G) | 3:04 | 2023-04-07 | 2023-08-10 |
 | [Retake](https://open.spotify.com/track/0pAFNHMlgPU3B8hxwVKvPd) | [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH) | [Retake](https://open.spotify.com/album/3INdweTvSeNuhBY3ALjRo3) | 2:22 | 2026-04-10 |  |
 | [Retro Love](https://open.spotify.com/track/4UvYiq1HSksWgAjTvl7eiA) | [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Retro Love](https://open.spotify.com/album/07etk4i2uQzIyk6YI9Zsei) | 2:53 | 2023-08-18 | 2023-12-14 |

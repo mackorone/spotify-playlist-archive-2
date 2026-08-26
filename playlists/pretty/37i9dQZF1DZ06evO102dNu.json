@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1228920,
+  "num_followers": 1228960,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAAA6mGamFwIqrf+tc0WXvdOg",
+  "snapshot_id": "aouJgAAAAAAfHUBgtw1johMQngOz1U4X",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -183,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "When You're Smiling (The Whole World Smiles With You) - 1999 Remastered",
-      "url": "https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -211,6 +179,22 @@
       "duration_ms": 177400,
       "name": "You Make Me Feel So Young - Remastered 1998",
       "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "When You're Smiling (The Whole World Smiles With You) - 1999 Remastered",
+      "url": "https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45"
     },
     {
       "added_at": null,
@@ -291,38 +275,6 @@
       "duration_ms": 194306,
       "name": "The Lady Is A Tramp - Remastered 1998",
       "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Nice 'n' Easy - Remastered 1999",
-      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": null,
@@ -767,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
       },
       "artists": [
         {
@@ -776,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Come Dance With Me - 1998 Remastered",
-      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
+      "duration_ms": 136400,
+      "name": "I've Got A Crush On You - Remastered",
+      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
     },
     {
       "added_at": null,
@@ -799,22 +751,6 @@
       "duration_ms": 211800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/441B5anVFUoLytPQ7BHtAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "I've Got A Crush On You - Remastered",
-      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
     },
     {
       "added_at": null,
@@ -867,6 +803,74 @@
       "duration_ms": 140986,
       "name": "One Note Samba (Samba de Uma Nota So)",
       "url": "https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 273653,
+      "name": "My Kind Of Girl",
+      "url": "https://open.spotify.com/track/3djDk28r5rjh5roNowB0ZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Drinking Again",
+      "url": "https://open.spotify.com/track/6aLmYwLuSOA9WowYrwgfcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Cheek To Cheek - 1998 Remastered",
+      "url": "https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7"
     }
   ],
   "unique_name": "This Is Frank Sinatra",

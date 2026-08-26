@@ -4,7 +4,7 @@
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 40 min
+92 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,10 +77,11 @@
 | [Purgante de Amor](https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:37 | 2023-01-14 |  |
 | [Rebel Blues](https://open.spotify.com/track/3fWnWeIoR1WDqh1ZjxTnbf) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:16 | 2023-01-14 | 2023-05-31 |
 | [Saber Amar](https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:14 | 2023-01-14 |  |
-| [Se Mujer](https://open.spotify.com/track/3G3q1cJpEp9qu0Csrw0tda) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:17 | 2023-01-14 |  |
+| [Se Mujer](https://open.spotify.com/track/3G3q1cJpEp9qu0Csrw0tda) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:17 | 2023-01-14 | 2026-08-26 |
 | [Sobrevivi](https://open.spotify.com/track/2Sn5IUotjtSlx8G0I9Q1Gy) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:02 | 2023-05-30 |  |
 | [Sopas](https://open.spotify.com/track/23iJwdGYkk8p2fuS9s8kkC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 0:41 | 2025-11-13 | 2025-11-21 |
 | [Sueños de la Ciudad](https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 3:03 | 2023-12-24 |  |
+| [Sé Mujer \- En Vivo](https://open.spotify.com/track/3N7EJ83LRFEoNfPfVpZVGz) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 4:17 | 2026-08-26 |  |
 | [Tengo un Acoholico en Mi Casa](https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:32 | 2023-09-05 |  |
 | [Tiempo de Lluvia](https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:52 | 2023-01-14 |  |
 | [Trenes Y Gatos](https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes Y Gatos](https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF) | 3:05 | 2023-06-03 | 2024-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Bella Shmurda
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,091 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,237 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 34 | [LAPOPIANO](https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [LAPOPIANO](https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim) | 2:19 |
 | 35 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 | 36 | [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 |
-| 37 | [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 |
-| 38 | [Rock Me Gentle](https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock Me Gentle](https://open.spotify.com/album/45NPP48bR0MLByihoQBOia) | 3:06 |
+| 37 | [Rock Me Gentle](https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock Me Gentle](https://open.spotify.com/album/45NPP48bR0MLByihoQBOia) | 3:06 |
+| 38 | [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 |
 | 39 | [Do Better](https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Do Better](https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u) | 2:42 |
 | 40 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
 | 41 | [Orindowo](https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Orindowo](https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE) | 2:47 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 49 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 |
 | 50 | [GO GO!](https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [B4R&W TAPE](https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY) | 2:04 |
 | 51 | [Jembe](https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:18 |
-| 52 | [Richard Mille](https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Richard Mille](https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0) | 2:51 |
+| 52 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
 | 53 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
-| 54 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
+| 54 | [Richard Mille](https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Richard Mille](https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0) | 2:51 |
 | 55 | [No Wam](https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [No Wam](https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR) | 2:29 |
 | 56 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 57 | [Root Of All Evil](https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Root Of All Evil](https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd) | 3:05 |
 | 58 | [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 |
-| 59 | [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 |
-| 60 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
+| 59 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
+| 60 | [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 |
 
-Snapshot ID: `AAAAANgxCqCb0Stp/oyzavcTnLg0IM0o`
+Snapshot ID: `AAAAADahBeW8/0FggsGP450kzyXYEtH2`

@@ -2441,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Believe What You Like",
+        "url": "https://open.spotify.com/album/0L29Rt5YtUiTib2IhiP958"
+      },
+      "artists": [
+        {
+          "name": "Alice Boxall",
+          "url": "https://open.spotify.com/artist/29IFhoHDHGm7gfupUdOCkD"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226321,
+      "name": "Believe What You Like",
+      "url": "https://open.spotify.com/track/4rxuvpHj7VrTkjB329rnR6"
+    },
+    {
+      "album": {
         "name": "Bells of Silver",
         "url": "https://open.spotify.com/album/3kjhYsro9GvEOGGKIlLoVe"
       },
@@ -5864,6 +5882,24 @@
       "duration_ms": 260033,
       "name": "Don't Go into Decline",
       "url": "https://open.spotify.com/track/26jxUzCuaOEh3FIV94ENXQ"
+    },
+    {
+      "album": {
+        "name": "The Cost of Loving",
+        "url": "https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192801,
+      "name": "Don't Grow Sick of Me",
+      "url": "https://open.spotify.com/track/0OCiuKDpVghgWWg5r6T5Jt"
     },
     {
       "album": {
@@ -12877,6 +12913,24 @@
     },
     {
       "album": {
+        "name": "Long Way Back",
+        "url": "https://open.spotify.com/album/69LFgCAV86GGkkVkBABtTG"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232920,
+      "name": "Long Way Back",
+      "url": "https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr"
+    },
+    {
+      "album": {
         "name": "Look to the Left, Look to the Right",
         "url": "https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB"
       },
@@ -16694,6 +16748,28 @@
       "duration_ms": 205040,
       "name": "One Day I Turned Green",
       "url": "https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy"
+    },
+    {
+      "album": {
+        "name": "One I Choose",
+        "url": "https://open.spotify.com/album/0BcaHDbCaRgVQYmyEYdaJL"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ"
+        },
+        {
+          "name": "Avaraj",
+          "url": "https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154902,
+      "name": "One I Choose",
+      "url": "https://open.spotify.com/track/4AviqYGbYeoyrV9fFTMr0j"
     },
     {
       "album": {
@@ -21879,6 +21955,24 @@
     },
     {
       "album": {
+        "name": "TAXI",
+        "url": "https://open.spotify.com/album/0Es6W4uPJPAyAj8qlXk1p4"
+      },
+      "artists": [
+        {
+          "name": "Krist\u00fdna Pejcharov\u00e1",
+          "url": "https://open.spotify.com/artist/225szxG4SqVKPU6hfOGiD5"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123172,
+      "name": "TAXI",
+      "url": "https://open.spotify.com/track/2OwQ3G2XqOakVEDZ7wF78U"
+    },
+    {
+      "album": {
         "name": "Buenos Aires Lounge Deluxe Vol. 1",
         "url": "https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G"
       },
@@ -26982,6 +27076,24 @@
       "duration_ms": 294245,
       "name": "\u0398\u03b1 \u03c7\u03b1\u03b8\u03b5\u03af\u03c2 \u03bc\u03b5 \u03c4\u03b7 \u03b2\u03c1\u03bf\u03c7\u03ae",
       "url": "https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456",
+        "url": "https://open.spotify.com/album/5mcwpQ0N0cg5Hjyal3jiUS"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u0430\u043d\u044f \u0420\u0430\u0441\u0441\u0435\u043b",
+          "url": "https://open.spotify.com/artist/3mYI64hXQqSKifOhYlFFXx"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "\u0417\u0430\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456",
+      "url": "https://open.spotify.com/track/6DjzyPuBITliDIBNEW1Rcb"
     },
     {
       "album": {

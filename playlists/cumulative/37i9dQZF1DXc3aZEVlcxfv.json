@@ -5923,6 +5923,28 @@
     },
     {
       "album": {
+        "name": "I Dey Grateful",
+        "url": "https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu"
+      },
+      "artists": [
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173676,
+      "name": "I Dey Grateful",
+      "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
+    },
+    {
+      "album": {
         "name": "I Have Decided To Follow Jesus - Single",
         "url": "https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK"
       },
@@ -12326,7 +12348,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"

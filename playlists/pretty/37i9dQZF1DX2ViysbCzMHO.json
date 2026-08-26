@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176862,
+  "num_followers": 176864,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADz6oPTGDHuC8iyhJGXCiXx0TJKL",
+  "snapshot_id": "AAAAAPiM1NXpWp0W1tp5m+T5gr+qGnz+",
   "tracks": [
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
         "name": "Friends Like That (feat. Jason Aldean - Stripped)",
         "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 180800,
       "name": "Friends Like That - feat. Jason Aldean - Stripped",
       "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "While You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 219385,
       "name": "While You're Gone - Acoustic",
       "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "This Town's Been Too Good To Us (Stripped)",
-        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "This Town's Been Too Good To Us (Stripped)",
-      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Gonna Love You (Alternate Versions)",
         "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 174863,
       "name": "Gonna Love You - Acoustic",
       "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "This Town's Been Too Good To Us (Stripped)",
+        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "This Town's Been Too Good To Us (Stripped)",
+      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "My Left Hand (Wedding Version)",
         "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 186133,
       "name": "My Left Hand (Wedding Version)",
       "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Breakin' in Boots (Stripped)",
         "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 154173,
       "name": "Breakin' in Boots - Stripped",
       "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Weekends Look A Little Acoustic These Days",
+        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 254989,
+      "name": "You Didn\u2019t - Acoustic",
+      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
     },
     {
       "added_at": "2026-06-12 04:02:08",

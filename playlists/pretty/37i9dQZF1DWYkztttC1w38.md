@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,955 likes - 92 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,009 likes - 92 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 91 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 | 92 | [Nocturne No\. 1 in B\-Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:46 |
 
-Snapshot ID: `AAAAAOIvW36wMeJZiRpY/V/Azlh5Ioqv`
+Snapshot ID: `AAAAAD8AS+Hl/Por86l88ykZ/VZssnrU`

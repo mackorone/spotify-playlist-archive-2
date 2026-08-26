@@ -4,7 +4,7 @@
 
 > nate sib debut album let's goooooooo
 
-2,750 songs - 5 day 6 hr 0 min
+2,751 songs - 5 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [Disc Jockey](https://open.spotify.com/track/3g1IKJik6MC1Npr7zXsHza) | [Wxmell](https://open.spotify.com/artist/79qLwU4awG9JDsIOfL6IBz), [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Disc Jockey](https://open.spotify.com/album/6fvd1ycuV1HIarwJ1zDMxn) | 2:35 | 2022-11-18 | 2022-11-26 |
 | [Discotek](https://open.spotify.com/track/3IlZ0mCuvYfYErPpnHwfuc) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Discotek](https://open.spotify.com/album/6Xam821id0yjnlZhzCsvgr) | 3:04 | 2026-04-03 | 2026-07-04 |
 | [distraction](https://open.spotify.com/track/2vXKEk0RtMsLSv1NVBe7r8) | [miind](https://open.spotify.com/artist/0Nualz2sqNcC0f823MFLto) | [distraction](https://open.spotify.com/album/6l91vBauvtenuX8dQ615rn) | 2:01 | 2021-11-19 | 2022-03-11 |
+| [DL](https://open.spotify.com/track/07mOfR7PUOzr4cQKDAm7aJ) | [Angel Money](https://open.spotify.com/artist/2LWLa3SxLX5CQlT9GdVkSp) | [DL](https://open.spotify.com/album/3tlFzJwGbE27JuQrodhi1Y) | 2:20 | 2026-08-25 |  |
 | [DLYOF](https://open.spotify.com/track/0cSMAzptElaqXvJRNE3dKE) | [o0o](https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR) | [DLYOF](https://open.spotify.com/album/2ba6aZ7RvrzoN1CkTfpFKQ) | 3:06 | 2022-07-08 | 2022-08-03 |
 | [DNA](https://open.spotify.com/track/4iIy53l7dwRhBtuIl5sAEm) | [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [DNA](https://open.spotify.com/album/3oA0YzCL4opOVx1qD10B75) | 2:46 | 2021-02-26 | 2021-09-24 |
 | [Do I keep you up](https://open.spotify.com/track/3C7jSxMau67CczdWHvSsTT) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Do I keep you up](https://open.spotify.com/album/6mcWgzuI49zzDJOl6wb6Hv) | 2:19 | 2025-04-04 | 2026-01-15 |
@@ -1217,7 +1218,7 @@
 | [I SAW U](https://open.spotify.com/track/061Rty2ANqwA0aJxxeu3r0) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [I SAW U](https://open.spotify.com/album/6rrRS8MRKw8R5EE0XCb1ul) | 2:51 | 2025-03-14 | 2025-08-09 |
 | [I Shake That Ath](https://open.spotify.com/track/6vzYVGtbfLuKbDjeZo9Euh) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BOOGY WOOGY](https://open.spotify.com/album/2wPKxdAGmxRDbgwF8d6YuY) | 2:48 | 2020-10-23 | 2021-01-08 |
 | [I Still Love](https://open.spotify.com/track/73reN1VHP9amtx2ZZgVz04) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Bass Generation \(UK Remix Bonus Version\)](https://open.spotify.com/album/4VfnvH6ujgzbRPHHaOTSIl) | 3:31 | 2020-12-11 | 2021-01-08 |
-| [i still think about the band](https://open.spotify.com/track/4Mv8QtELCZwHTTdocAELYD) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [i still think about the band](https://open.spotify.com/album/0Usmnnq3L7lLSNUc0dy4LW) | 2:59 | 2026-04-24 |  |
+| [i still think about the band](https://open.spotify.com/track/4Mv8QtELCZwHTTdocAELYD) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [i still think about the band](https://open.spotify.com/album/0Usmnnq3L7lLSNUc0dy4LW) | 2:59 | 2026-04-24 | 2026-08-26 |
 | [i think my whip is s\*icidal](https://open.spotify.com/track/0sd1Ql6DMwb9wuyVj41akm) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [i think my whip is s\*icidal](https://open.spotify.com/album/3IDdkJH1n9bveQLNhwlEDt) | 3:01 | 2021-05-15 | 2021-07-14 |
 | [I Think...](https://open.spotify.com/track/4LMQDGYCDmCdOMVhIG2S8D) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [The Fool](https://open.spotify.com/album/2WEWkTfh6gj1oi63K5cFQS) | 3:11 | 2021-05-29 | 2021-07-01 |
 | [I Took A Pill In Ibiza](https://open.spotify.com/track/5E12S5He8S89IdbNli2YiV) | [FREE JIMI](https://open.spotify.com/artist/0S3uHVwh6XhFE69pO20yJf) | [I Took A Pill In Ibiza](https://open.spotify.com/album/3BoY30AhgyTrduarCSErOZ) | 3:09 | 2024-03-22 | 2024-03-30 |
@@ -2621,7 +2622,7 @@
 | [wait 4 it](https://open.spotify.com/track/4yW98jsU14f9JWls8uhWAC) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Capoxxo](https://open.spotify.com/artist/4lDzMjsz7xLw4CFmfWJmWJ) | [wait 4 it](https://open.spotify.com/album/68pMdgI3ttrACwRDOrKFfF) | 2:45 | 2020-11-20 | 2021-02-10 |
 | [WAIT4U](https://open.spotify.com/track/5SNxE1iXQUPNraPqVHVbcB) | [4kmirage](https://open.spotify.com/artist/1FQzmo7dOVfYK1pnKtD1VT), [j5mes](https://open.spotify.com/artist/4KExowjusScaAmwZrmbmqA), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [WAIT4U](https://open.spotify.com/album/5SewqSsYQlbvzkVIBXWBBJ) | 2:55 | 2021-10-16 | 2021-10-30 |
 | [wake up](https://open.spotify.com/track/6Ob06Vsx0e7aVgXnabDWJ5) | [b2nny](https://open.spotify.com/artist/2tbEf5RXMJ4XXwssBVlJ2B) | [seeker](https://open.spotify.com/album/5u1j8Jx5p8PXcOyb7yIcoi) | 2:26 | 2022-07-24 | 2022-10-08 |
-| [wakeup\(crazy\) \[feat\. Angst\]](https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [wakeup\(crazy\) \[feat\. Angst\]](https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak) | 3:15 | 2026-04-24 |  |
+| [wakeup\(crazy\)](https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [wakeup\(crazy\)](https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak) | 3:15 | 2026-04-24 |  |
 | [walk you home](https://open.spotify.com/track/1MjBG4QNBd6L1MRhivTNw2) | [b2nny](https://open.spotify.com/artist/2tbEf5RXMJ4XXwssBVlJ2B) | [walk you home](https://open.spotify.com/album/1HKSzkVfhjbw9YeX581RKJ) | 2:27 | 2026-04-10 | 2026-07-11 |
 | [WANNABE](https://open.spotify.com/track/3Wdf1ZrqRDZDXf81KsRpXY) | [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [WANNABE](https://open.spotify.com/album/5rzdBBLMcjHSr0W5LRISLS) | 2:22 | 2022-05-06 | 2022-08-03 |
 | [Want me like!](https://open.spotify.com/track/38p5nmDKCoo8ckfMKbe0Y7) | [blood pup](https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR) | [Want me like!](https://open.spotify.com/album/0WYZh7zXO2VJdTuKlJZjy7) | 1:51 | 2024-01-22 | 2025-05-17 |

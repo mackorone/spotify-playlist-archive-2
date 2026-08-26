@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 259773,
       "name": "A Woman In Love (It's Not Me)",
       "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 245733,
       "name": "All Or Nothin'",
       "url": "https://open.spotify.com/track/1yVRnCEy5qXzwwaWaq4NB9"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 225293,
       "name": "All The Wrong Reasons",
       "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 144026,
       "name": "Anything That's Rock 'N' Roll",
       "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/1HfB7BLeW5XXIJ9sjCaL5U"
@@ -362,6 +362,42 @@
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
+    },
+    {
+      "album": {
+        "name": "American Girl (2026 Mix - Extended Version)",
+        "url": "https://open.spotify.com/album/7hvqMZQAp7H4x2WXXEZle0"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "Breakdown - [Extended Version] 2026 Mix",
+      "url": "https://open.spotify.com/track/3A3UjOxtbpUtIT5ddtImdo"
+    },
+    {
+      "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Built To Last",
+      "url": "https://open.spotify.com/track/0736w0GUZoRcKXXx3oyirg"
     },
     {
       "album": {
@@ -772,7 +808,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 210400,
       "name": "Free Girl Now",
       "url": "https://open.spotify.com/track/1ayC8ThLb56mKdLsF3ognO"
@@ -826,7 +862,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 350733,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
@@ -960,7 +996,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 264453,
       "name": "Here Comes My Girl",
       "url": "https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT"
@@ -1252,10 +1288,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 242106,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
+    },
+    {
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284746,
+      "name": "Learning to Fly - Live",
+      "url": "https://open.spotify.com/track/504p9uFAXn2dDW73kvtg8M"
     },
     {
       "album": {
@@ -1324,7 +1378,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 184960,
       "name": "Listen To Her Heart",
       "url": "https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG"
@@ -1396,7 +1450,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 273600,
       "name": "Mary Jane's Last Dance",
       "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
@@ -1414,7 +1468,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 183426,
       "name": "Mystery Man",
       "url": "https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5"
@@ -1562,7 +1616,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Out In The Cold",
       "url": "https://open.spotify.com/track/3m8w70z3xjmSjpc30Bn2T2"
@@ -1616,7 +1670,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 201693,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
@@ -1760,7 +1814,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 196960,
       "name": "Something In The Air",
       "url": "https://open.spotify.com/track/61ydRWnQ31DWFDqEj325nf"
@@ -1778,7 +1832,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 284773,
       "name": "Southern Accents",
       "url": "https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV"
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 229000,
       "name": "Straight Into Darkness",
       "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
@@ -1915,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243933,
+      "name": "The Best Of Everything",
+      "url": "https://open.spotify.com/track/684sVqM8FA9ZUYGm4ik7QP"
+    },
+    {
+      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -1944,7 +2016,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 202973,
       "name": "The Dark Of The Sun",
       "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
@@ -1998,7 +2070,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 299133,
       "name": "The Trip to Pirate's Cove",
       "url": "https://open.spotify.com/track/39Y6FhE6CKDxHAJlU2jhUv"
@@ -2070,7 +2142,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 215802,
       "name": "Thirteen Days",
       "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
@@ -2196,7 +2268,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 209813,
       "name": "Waiting for Tonight - 2015 Remaster",
       "url": "https://open.spotify.com/track/0lBy4mnED2JLmdSxMyG37f"
@@ -2304,7 +2376,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 273573,
       "name": "You Tell Me",
       "url": "https://open.spotify.com/track/0g4AY5N5nCLqchHpnYu26u"

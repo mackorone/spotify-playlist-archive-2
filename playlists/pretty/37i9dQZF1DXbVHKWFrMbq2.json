@@ -1,12 +1,12 @@
 {
   "description": "Canciones para chillear, con esperanzah en portada.",
-  "num_followers": 29045,
+  "num_followers": 29051,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPwAuN21J30saT0YD4UBkkJQ2Es9",
+  "snapshot_id": "AAAAAGengJw4EQ3+yl/QVj7mnYNk+N4C",
   "tracks": [
     {
       "added_at": "2026-08-20 22:49:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Una Noche Contigo",
-        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "Una Noche Contigo",
-      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Ninja",
-        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
-      },
-      "artists": [
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 176193,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "mimos",
         "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 176193,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 208000,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "no llames lo m\u00edo nuestro",
-        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "no llames lo m\u00edo nuestro",
-      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "El Momento Perfecto",
         "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 201661,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "El Verdadero",
-        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "Antiguo y moderno",
-      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
         "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
       },
@@ -1179,6 +1159,26 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "De M\u00ed",
         "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
       },
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "EL MENSAJERO",
         "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 148421,
       "name": "EL MENSAJERO",
       "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "escapar de m\u00ed",
-        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "escapar de m\u00ed",
-      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "shut up",
-        "url": "https://open.spotify.com/album/3cu7eK8Qo7fV32SGE5fJtq"
-      },
-      "artists": [
-        {
-          "name": "Esteza",
-          "url": "https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ"
-        },
-        {
-          "name": "Eezzy Hendrix",
-          "url": "https://open.spotify.com/artist/1Jg44RjTbh6vtAEtqPzxt6"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "shut up",
-      "url": "https://open.spotify.com/track/0Im7QsuIw1G7ZU8u8wKBYZ"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4"
       },
@@ -1683,26 +1663,6 @@
       "duration_ms": 125396,
       "name": "Valiente",
       "url": "https://open.spotify.com/track/25itt5YemGNnKNh4zOFDoJ"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "No te apartes de m\u00ed",
-        "url": "https://open.spotify.com/album/7mxDP92GMMgat8DyUSHND4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Rigoberta Bandini",
-          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
-        }
-      ],
-      "duration_ms": 198243,
-      "name": "No te apartes de m\u00ed",
-      "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1727,6 +1687,26 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "No te apartes de m\u00ed",
+        "url": "https://open.spotify.com/album/7mxDP92GMMgat8DyUSHND4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "duration_ms": 198243,
+      "name": "No te apartes de m\u00ed",
+      "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "a todo el mundo le pasa",
         "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 211000,
       "name": "a todo el mundo le pasa",
       "url": "https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "shut up",
+        "url": "https://open.spotify.com/album/3cu7eK8Qo7fV32SGE5fJtq"
+      },
+      "artists": [
+        {
+          "name": "Esteza",
+          "url": "https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ"
+        },
+        {
+          "name": "Eezzy Hendrix",
+          "url": "https://open.spotify.com/artist/1Jg44RjTbh6vtAEtqPzxt6"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "shut up",
+      "url": "https://open.spotify.com/track/0Im7QsuIw1G7ZU8u8wKBYZ"
     },
     {
       "added_at": "2026-08-20 22:49:00",

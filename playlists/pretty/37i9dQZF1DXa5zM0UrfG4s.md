@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,189 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,195 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 25 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 | 26 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 |
 | 27 | [Hjem med dej](https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Hjem med dej](https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN) | 3:07 |
-| 28 | [Bygdegut \(her er eg\)](https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bygdegut \(her er eg\)](https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP) | 3:47 |
+| 28 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
 | 29 | [Naboen](https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Naboen](https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den) | 2:22 |
-| 30 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
+| 30 | [Bygdegut \(her er eg\)](https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bygdegut \(her er eg\)](https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP) | 3:47 |
 | 31 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
 | 32 | [Promiskiøs \(PM\)](https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Promiskiøs \(PM\)](https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp) | 2:33 |
 | 33 | [Drekke dæ fin](https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Drekke dæ fin](https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc) | 1:59 |
 | 34 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
-| 35 | [Sommernatta](https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sommernatta](https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ) | 2:37 |
-| 36 | [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 |
+| 35 | [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 |
+| 36 | [Sommernatta](https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sommernatta](https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ) | 2:37 |
 | 37 | [Cowboyhatten](https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Cowboyhatten](https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS) | 2:51 |
 | 38 | [Slåss för dig](https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Slåss för dig](https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5) | 2:11 |
 | 39 | [En dårlig idé](https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [En dårlig idé](https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy) | 2:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [GUT OG KAR](https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF) | [Skei & PT](https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV), [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [GUT OG KAR](https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e) | 3:07 |
 | 70 | [Falla](https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Falla](https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX) | 2:44 |
 
-Snapshot ID: `AAAAAIpfiFnxrGXt+IqrEF5OBnnDUr6s`
+Snapshot ID: `AAAAAE7hpKTo3fioMQJWylAMwXnhTYED`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,989 likes - 84 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,991 likes - 84 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 83 | [The End's Not Near](https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb) | [The New Year](https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy) | [The End Is Near](https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS) | 3:43 |
 | 84 | [Able Bodies](https://open.spotify.com/track/7ARle8Du0mMGM7zHddkBlJ) | [Spokane](https://open.spotify.com/artist/3cr4dt9xFGBcEPMulGzSAY) | [Able Bodies](https://open.spotify.com/album/31L3WqXAFPZWOK3CWineay) | 2:09 |
 
-Snapshot ID: `AAAAALTvaL6NgkME1h+442wEjlErxANL`
+Snapshot ID: `AAAAAMojFynx145hbJn+TLYcIJLfYuUr`

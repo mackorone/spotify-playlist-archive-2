@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,367 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,372 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 75 | [Black Rum](https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Black Rum](https://open.spotify.com/album/13sl174XbnxhrLdCIwPPdg) | 2:26 |
 | 76 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 |
 | 77 | [Every Night](https://open.spotify.com/track/0pIlQ3zmWCCiv0KUwbsW3b) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:32 |
-| 78 | [Deadstream \- Rostam Version](https://open.spotify.com/track/7ntAb3KnQscHU3beKUI012) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Deadstream \(Rostam Version\)](https://open.spotify.com/album/1uRWSPrJvL0tS1BBuuFnvK) | 3:16 |
-| 79 | [Superstar](https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Superstar](https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS) | 4:50 |
+| 78 | [Superstar](https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Superstar](https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS) | 4:50 |
+| 79 | [Deadstream \- Rostam Version](https://open.spotify.com/track/7ntAb3KnQscHU3beKUI012) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Deadstream \(Rostam Version\)](https://open.spotify.com/album/1uRWSPrJvL0tS1BBuuFnvK) | 3:16 |
 | 80 | [FARAWAY199X/TAPE 2](https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [RUBBER](https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC) | 3:04 |
 | 81 | [Here](https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [BFOTY](https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM) | [Here](https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25) | 3:16 |
 | 82 | [USA](https://open.spotify.com/track/5hffVao6FPPK7xqk8yJwZQ) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 99 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 |
 | 100 | [istillmissu](https://open.spotify.com/track/1CaNhBI6BSvuit0Wv2GI3c) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [istillmissu](https://open.spotify.com/album/7azXfougJlzX392ac1Mxha) | 2:57 |
 
-Snapshot ID: `AAAAAOTVV3TSz6FoPoV5L32vol3PdltZ`
+Snapshot ID: `AAAAANj+LZjepoQ8PY2obdrjfssaUcof`

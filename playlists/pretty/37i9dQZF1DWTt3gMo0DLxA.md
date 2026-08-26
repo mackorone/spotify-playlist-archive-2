@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Irumudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,064 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,683 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Gaajuvaka Pilla](https://open.spotify.com/track/0xkyFd47SDoL6GyNzsrJRN) | [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy) | [Nuvvu Nenu](https://open.spotify.com/album/3QxCsbQm4lj7PEZF3AxOTd) | 3:46 |
 | 50 | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/album/0dPSyFZAgD9WtDVIHujBc5) | 3:13 |
 
-Snapshot ID: `AAAAAMk7aXboS4lupoieG5pMuRiHmhr4`
+Snapshot ID: `AAAAAEDZ0U6nz+nVlyQtRC4PMX2kls2J`

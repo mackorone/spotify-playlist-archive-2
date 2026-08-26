@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-564 songs - 1 day 7 hr 57 min
+569 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Black Butterfly](https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Black Butterfly](https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln) | 2:22 | 2025-12-04 | 2026-01-05 |
 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 | 2026-02-08 |  |
 | [Black Lashes](https://open.spotify.com/track/6GzppPjh6RuuoF9gkkRefR) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:02 | 2026-05-05 | 2026-06-14 |
+| [BLAME](https://open.spotify.com/track/7Hly2elHJYMeinWlhHrDSp) | [NatStar](https://open.spotify.com/artist/4CoERlRqP61DsVAksrSXLb) | [BLK MIRROR \- EP1](https://open.spotify.com/album/5NqoJ7iV2vz0r4knhqxbX6) | 3:10 | 2026-08-25 |  |
 | [Blue Pill](https://open.spotify.com/track/0ipO5eSuRjb8jWRuKHk2La) | [PAOLA](https://open.spotify.com/artist/2sk7Ti4LsPXdgjRWJ5k6Ny) | [Blue Pill](https://open.spotify.com/album/3mIVDAuuN0hAZOSDLWnbHx) | 2:50 | 2025-12-04 | 2026-01-05 |
 | [Body](https://open.spotify.com/track/6Yocmq2Vsz84eZmgEDEXqj) | [Shay Lowe](https://open.spotify.com/artist/2B2RLN0tbgsZVvMvMgKPhg) | [Body](https://open.spotify.com/album/2aYPD5IdZPTvlzLDcpt486) | 2:40 | 2025-12-22 | 2026-01-15 |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-20 | 2026-01-15 |
@@ -244,6 +245,7 @@
 | [I Loved Her](https://open.spotify.com/track/1fEMJGdUuxd4UzKoH9RbBS) | [Corey Drumz of I.K.E.](https://open.spotify.com/artist/5abVgGaUWz6b9H7VDkdQDp), [Lee Boogz](https://open.spotify.com/artist/2guhQF0tAP6qNI8qDw6HkI) | [What Made Me](https://open.spotify.com/album/2Az9FZds2Cgj0e2m1ARzxq) | 3:29 | 2026-05-26 |  |
 | [I Recall](https://open.spotify.com/track/2nPipeTw0use1VhyMieplA) | [Point Pleasant](https://open.spotify.com/artist/3hgIVMcwENmMH8A0dl6Njt) | [I Recall](https://open.spotify.com/album/6MSiWr5RrWjchLnyLDBcKv) | 4:19 | 2026-06-16 | 2026-08-08 |
 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 | 2026-03-23 | 2026-05-26 |
+| [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 | 2026-08-25 |  |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 | 2026-05-26 |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
@@ -370,6 +372,7 @@
 | [One Way Out](https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [One Way Out](https://open.spotify.com/album/34LOAm5Emkw1jlx8OTOiGW) | 3:07 | 2026-07-17 |  |
 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 | 2025-11-22 | 2026-01-05 |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2025-12-22 | 2026-01-15 |
+| [Orbit](https://open.spotify.com/track/73Bv1zWG07mVOuRMY9Hyhx) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [Orbit](https://open.spotify.com/album/7I6IVz3d9uV2G54Hu0hQLh) | 3:58 | 2026-08-25 |  |
 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-12-09 | 2026-01-05 |
 | [Paranoia](https://open.spotify.com/track/6CM6qw4O87GLSeB3QN5qNK) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Paranoia](https://open.spotify.com/album/2LMkARZTUDgGgbaiexYWsH) | 3:24 | 2025-12-28 | 2026-01-25 |
 | [Perdu dans ma toile](https://open.spotify.com/track/7MrFMCAUuaOe2qDvzAJJMH) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:43 | 2025-12-23 | 2026-01-15 |
@@ -403,6 +406,7 @@
 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 | 2026-03-10 |
 | [RIEN AU FINAL](https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe) | [Dracy Drace](https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr), [wiz beatz](https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo) | [A DEUX](https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh) | 2:38 | 2026-03-08 | 2026-04-14 |
 | [Rise Above](https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:22 | 2026-06-08 | 2026-08-08 |
+| [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2026-08-25 |  |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
 | [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 | 2026-01-18 | 2026-02-21 |
 | [Rollercoaster](https://open.spotify.com/track/34sMc8ETsF8MszlYl4TtpW) | [Arctic Lights](https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6) | [Rollercoaster](https://open.spotify.com/album/7nb8lrg9F5kZLLFrPEjIQ1) | 3:08 | 2025-11-17 | 2026-01-05 |
@@ -431,6 +435,7 @@
 | [Slam Dunk](https://open.spotify.com/track/0asprWWnSSVaYhWvmRKDgb) | [Aishe](https://open.spotify.com/artist/6lXZYPpYrkt4jbBawRJ6qA) | [Slam Dunk](https://open.spotify.com/album/6IMcApH01rfqNtTdvWEoN6) | 2:03 | 2025-11-17 | 2026-01-05 |
 | [Sniffing Markers](https://open.spotify.com/track/3iZm8CiTo8oWCpTpacDYG3) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:52 | 2025-11-30 | 2026-01-05 |
 | [So Long](https://open.spotify.com/track/5dhqVccwycomqYhcQWNZKq) | [The Stream](https://open.spotify.com/artist/2cN7g606wcqVTsx0zbOAOH) | [So Long](https://open.spotify.com/album/0sZ1XohRLhjo7JjeWpCpzk) | 5:21 | 2025-11-07 | 2025-12-01 |
+| [sobreviviendo \- rock cover](https://open.spotify.com/track/67t7nf3Ckc04zijo1Wc5Nl) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [sobreviviendo \(rock cover\)](https://open.spotify.com/album/375bUy8EBPaL3Fa7mfzttx) | 6:22 | 2026-08-25 |  |
 | [Solos tú y yo](https://open.spotify.com/track/2oXDydAuDS6F88LMwnqELE) | [Chaplin](https://open.spotify.com/artist/0NRtBBSool3NhHpi6WPHkI), [Drumglass](https://open.spotify.com/artist/5TV3jKC1INn5xO2MLgdDSw) | [Solos tú y yo](https://open.spotify.com/album/4d8ImOKjPHKYKLEaOX439d) | 3:20 | 2025-11-22 | 2026-01-05 |
 | [Something You Know](https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [Something You Know](https://open.spotify.com/album/3eUa3PiDZCRCZGgwDzvpHC) | 3:17 | 2026-02-19 | 2026-04-25 |
 | [Song of the Week \- \(Album Version\)](https://open.spotify.com/track/4Hh3cYCCSHebeaHB49YGsB) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 2:39 | 2025-11-01 | 2025-12-01 |

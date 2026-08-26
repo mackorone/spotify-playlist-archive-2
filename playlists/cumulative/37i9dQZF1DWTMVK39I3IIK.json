@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "KATMORE",
+        "url": "https://open.spotify.com/album/3XrVlXdr5JrwAQ0gLQtuBw"
+      },
+      "artists": [
+        {
+          "name": "KATMORE",
+          "url": "https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156073,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/06AOUShyTSw86vuQPZbjcz"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/2OzQaOnxPar53ymM66qm4G"
       },
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 139303,
       "name": "niu bi",
       "url": "https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm"

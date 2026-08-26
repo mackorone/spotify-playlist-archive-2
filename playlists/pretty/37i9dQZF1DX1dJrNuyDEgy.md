@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Eduin Caz nos comparte su selección personal para celebrar el título de Cruz Azul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,651 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,642 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/230KSxk14541umr44W2vCM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669) | 3:09 |
+| 1 | [Ya Supérame \- En Vivo](https://open.spotify.com/track/230KSxk14541umr44W2vCM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669) | 3:09 |
 | 2 | [El Beneficio De La Duda](https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 4:05 |
 | 3 | [Matcha Latte](https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Matcha Latte](https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV) | 2:47 |
 | 4 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/78qgcRHfy0y0e39nz34m64) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/album/4mdoJ7m4r9bd6nzr28ooCG) | 2:47 |
 | 5 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 6 | [Hoja En Blanco \(En Vivo\)](https://open.spotify.com/track/7JerwsrWweWdJBYW0a8asF) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [Puras Caras, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3wXPKOMgQhdyLobz6xtD0W) | 4:16 |
 | 7 | [Ebrio De Amor \(En Vivo\)](https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k) | [Arath Arceo](https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ) | [Que Empiece La Borrachera \(En Vivo\)](https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm) | 2:55 |
-| 8 | [Sin Tu Amor \(En Vivo\)](https://open.spotify.com/track/4uIpdMqh8x8FchYQtTHiS1) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Visitando A La Preciosa \(En Vivo\)](https://open.spotify.com/album/0GAqTRsLr9as36qMhb3Wm4) | 3:20 |
+| 8 | [Sin Tu Amor \- En Vivo](https://open.spotify.com/track/4uIpdMqh8x8FchYQtTHiS1) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Visitando A La Preciosa \(En Vivo\)](https://open.spotify.com/album/0GAqTRsLr9as36qMhb3Wm4) | 3:20 |
 | 9 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
 | 10 | [Hubiéramos](https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:49 |
 | 11 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/4ZAtv3gp4ZsOu8HGRZfDLF) | [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [Sin Pensar Yo Te Engañé](https://open.spotify.com/album/0iqkcchDWADy8fpC9zDFMr) | 3:40 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 34 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 35 | [Linda Mujer](https://open.spotify.com/track/0oBvBNAKKfoHa4vFacrqa2) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/5PUXVT5ncouGmM87f0Db3m) | 2:49 |
 
-Snapshot ID: `AAAAAIKDK7JLs38hCD2cvDkvlcQzgyxL`
+Snapshot ID: `AAAAAIKgXwvsgZoFYRCXfyGK/FO5cYKo`

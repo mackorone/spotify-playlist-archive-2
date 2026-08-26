@@ -1,12 +1,12 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Silica Gel",
-  "num_followers": 260590,
+  "num_followers": 260579,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAlfVjXlTDs67S0Iu6TxYSWqC+eT",
+  "snapshot_id": "AAAAACU4ywf+PhwS1MUbgBFEBfZbDudG",
   "tracks": [
     {
       "added_at": "2026-08-21 08:03:17",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Foreign Tongues",
-        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 274061,
-      "name": "Mr Charm",
-      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
         "name": "Easy Street",
         "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 231266,
       "name": "Easy Street",
       "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
+        "name": "Ten Over Ten",
+        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Ten Over Ten",
+      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
         "name": "The Plot In You",
         "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 201266,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/2pCM15dfMDkbOup7jTHZxB"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "Ten Over Ten",
-        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Ten Over Ten",
-      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "C.E.O.",
-        "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "C.E.O.",
-      "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Crawl",
-        "url": "https://open.spotify.com/album/3uQg2GyVbEcegEaGdt4KJa"
+        "name": "C.E.O.",
+        "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 231351,
-      "name": "Crawl",
-      "url": "https://open.spotify.com/track/3UgwgUdUwaye5nMThMbPyA"
+      "duration_ms": 174253,
+      "name": "C.E.O.",
+      "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
+        "name": "Crawl",
+        "url": "https://open.spotify.com/album/3uQg2GyVbEcegEaGdt4KJa"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 231351,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/3UgwgUdUwaye5nMThMbPyA"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/2Uvy40XpQFFxfgC9uT4yy7"
       },
@@ -1167,66 +1167,18 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "EI8HT",
-        "url": "https://open.spotify.com/album/2YfHoHOnfIc2ilp8YLEDyB"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 216670,
-      "name": "Young Again",
-      "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "This Mirror Weighs a Ton/See Out Loud",
-        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 296746,
-      "name": "See Out Loud",
-      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "Falling out of Love",
-        "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 381293,
-      "name": "Falling out of Love",
-      "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1251,6 +1203,54 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
+        "name": "EI8HT",
+        "url": "https://open.spotify.com/album/2YfHoHOnfIc2ilp8YLEDyB"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 216670,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "This Mirror Weighs a Ton/See Out Loud",
+        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 296746,
+      "name": "See Out Loud",
+      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
         "name": "Play Your Games",
         "url": "https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh"
       },
@@ -1267,18 +1267,34 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+        "name": "Falling out of Love",
+        "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 187460,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Zero Day",
+        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 145129,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Zero Day",
-        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
       },
       "artists": [
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 145129,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
+      "duration_ms": 299042,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1363,34 +1379,26 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
+        "name": "FRIENDLYFIRE",
+        "url": "https://open.spotify.com/album/6twqhN8vwkHGAqFNm0LtWo"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 299042,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "heaven and hell",
-        "url": "https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3"
-      },
-      "artists": [
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        },
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "RedGhost",
+          "url": "https://open.spotify.com/artist/2EhWa1Qx6iLvuql6JafBCe"
         }
       ],
-      "duration_ms": 268388,
-      "name": "heaven and hell",
-      "url": "https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP"
+      "duration_ms": 213782,
+      "name": "FRIENDLYFIRE",
+      "url": "https://open.spotify.com/track/49nXdXy16FyWkOyKOgmLro"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1407,6 +1415,70 @@
       "duration_ms": 220350,
       "name": "Chin Up, Beautiful",
       "url": "https://open.spotify.com/track/4F62L8Scos6mt6yoYulGuQ"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "4.3 Forty",
+        "url": "https://open.spotify.com/album/3jCjie1fVzE5wiT4Fp98L5"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 182437,
+      "name": "4.3 Forty",
+      "url": "https://open.spotify.com/track/2GHgEpLaKknTXvggBvrxL3"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "heaven and hell",
+        "url": "https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 268388,
+      "name": "heaven and hell",
+      "url": "https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1447,138 +1519,18 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Oh No Now My",
-        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
       },
       "artists": [
         {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 188453,
-      "name": "Oh No Now My",
-      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "4.3 Forty",
-        "url": "https://open.spotify.com/album/3jCjie1fVzE5wiT4Fp98L5"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 182437,
-      "name": "4.3 Forty",
-      "url": "https://open.spotify.com/track/2GHgEpLaKknTXvggBvrxL3"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "FRIENDLYFIRE",
-        "url": "https://open.spotify.com/album/6twqhN8vwkHGAqFNm0LtWo"
-      },
-      "artists": [
-        {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
-        },
-        {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
-        },
-        {
-          "name": "RedGhost",
-          "url": "https://open.spotify.com/artist/2EhWa1Qx6iLvuql6JafBCe"
-        }
-      ],
-      "duration_ms": 213782,
-      "name": "FRIENDLYFIRE",
-      "url": "https://open.spotify.com/track/49nXdXy16FyWkOyKOgmLro"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "rehearsed",
-        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 110346,
-      "name": "rehearsed",
-      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "Dissolve Me",
-        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+      "duration_ms": 205202,
+      "name": "Katy Bar the Door",
+      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1599,34 +1551,18 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Katy Bar the Door / Living Undercover",
-        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+        "name": "rehearsed",
+        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 205202,
-      "name": "Katy Bar the Door",
-      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
-    },
-    {
-      "added_at": "2026-08-21 08:03:17",
-      "album": {
-        "name": "Always You & I",
-        "url": "https://open.spotify.com/album/6GvIxPFsXOVOG9hU3N8ZKi"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 218730,
-      "name": "Always You & I",
-      "url": "https://open.spotify.com/track/5xAmOiBeIrAWN80grlnvOz"
+      "duration_ms": 110346,
+      "name": "rehearsed",
+      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1647,18 +1583,50 @@
     {
       "added_at": "2026-08-21 08:03:17",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/5btn7iVwFCbcelZ6kT4JU3"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl"
       },
       "artists": [
         {
-          "name": "Ax and the Hatchetmen",
-          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 211473,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3gUwYPtBtdFr5T0zGFVwJj"
+      "duration_ms": 173800,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-08-21 08:03:17",
@@ -1675,6 +1643,38 @@
       "duration_ms": 168693,
       "name": "Bug In The Cake",
       "url": "https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Always You & I",
+        "url": "https://open.spotify.com/album/6GvIxPFsXOVOG9hU3N8ZKi"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 218730,
+      "name": "Always You & I",
+      "url": "https://open.spotify.com/track/5xAmOiBeIrAWN80grlnvOz"
+    },
+    {
+      "added_at": "2026-08-21 08:03:17",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/5btn7iVwFCbcelZ6kT4JU3"
+      },
+      "artists": [
+        {
+          "name": "Ax and the Hatchetmen",
+          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+        }
+      ],
+      "duration_ms": 211473,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3gUwYPtBtdFr5T0zGFVwJj"
     }
   ],
   "unique_name": "Rock The World",

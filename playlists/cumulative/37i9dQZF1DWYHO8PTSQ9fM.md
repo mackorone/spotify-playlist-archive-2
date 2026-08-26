@@ -4,7 +4,7 @@
 
 > The hottest hits right now\. Cover: ElGrandeToto
 
-574 songs - 1 day 6 hr 20 min
+576 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 | 2025-11-10 |  |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2022-11-21 | 2023-02-19 |
 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 | 2025-06-19 | 2026-01-15 |
-| [Habibi](https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Habibi](https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6) | 3:03 | 2025-11-14 |  |
+| [Habibi](https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Habibi](https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6) | 3:03 | 2025-11-14 | 2026-08-26 |
 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 | 2022-05-12 | 2023-06-20 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-13 | 2024-07-19 |
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-05-12 | 2022-06-03 |
@@ -489,7 +489,7 @@
 | [Ta3bouni](https://open.spotify.com/track/65aEPfjjGbYvuCamNhfaa0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Ta3bouni](https://open.spotify.com/album/6hGPmmWjolKkO584x6wcIa) | 4:52 | 2023-01-19 | 2023-02-02 |
 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 | 2022-11-14 | 2023-03-18 |
 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-27 | 2025-06-20 |
-| [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 | 2025-08-28 |  |
+| [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 | 2025-08-28 | 2026-08-26 |
 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 | 2025-06-02 | 2026-05-08 |
 | [TAL3ARBAT N TALB](https://open.spotify.com/track/0nTORjzx5agq8wajOBgXDt) | [Habib Salam](https://open.spotify.com/artist/4UKqNDEdrviBMVbHzgr9ya) | [TAL3ARBAT N TALB](https://open.spotify.com/album/3V7UHRev2CiJT7m4CU9ddP) | 3:53 | 2025-01-26 | 2025-02-20 |
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-12-01 | 2024-02-20 |
@@ -510,6 +510,7 @@
 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-06-19 | 2025-10-06 |
 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2025-01-27 | 2025-03-28 |
 | [Tititi](https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:36 | 2023-06-09 | 2023-06-11 |
+| [TITIZ A KHAY](https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [TITIZ A KHAY](https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb) | 3:09 | 2026-08-25 |  |
 | [TJENENY](https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:52 | 2026-04-04 |  |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-05-12 | 2022-12-20 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-05-12 | 2022-08-10 |
@@ -580,6 +581,7 @@
 | [غبرتي عليا \- Cover libianca people \- 2023 \- nouveauté](https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [غبرتي عليا \(Cover libianca people \- 2023 \- nouveauté\)](https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w) | 3:21 | 2023-03-25 | 2024-06-19 |
 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 | 2022-05-12 | 2022-07-05 |
 | [لولي لولي](https://open.spotify.com/track/7GpRfqWrmhflvcIFPcvdS7) | [JamShow](https://open.spotify.com/artist/0nCMA6dYea3Y08bsnB0xrx), [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | ['برايم 6 'النهائي](https://open.spotify.com/album/47kEZ7v8J6d9sU9rMYg8fB) | 3:19 | 2025-05-27 | 2025-10-06 |
+| [مش مغرورة](https://open.spotify.com/track/0ypyxXgnE2V2QKO4qHv9Th) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [الحب ايه؟](https://open.spotify.com/album/41hx3ANA5kgT974fZRcpww) | 2:23 | 2026-08-25 |  |
 | [هذا حالي من بعدك](https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [هذا حالي من بعدك](https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo) | 3:10 | 2023-06-19 | 2023-06-25 |
 | [يا قلبي بركاك](https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm) | [farid kalamity](https://open.spotify.com/artist/7FoC6zhlfGBo8wMzq7nn2h), [Moosive](https://open.spotify.com/artist/3zYW8PlZpAN6dqtigmvymx) | [يا قلبي بركاك](https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm) | 3:39 | 2024-07-18 | 2025-01-03 |
 

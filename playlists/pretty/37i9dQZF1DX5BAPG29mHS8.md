@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Neton Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,960,547 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,959,962 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 17 | [DEMENCIA](https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:41 |
 | 18 | [Ayúdame](https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Expansión](https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf) | 2:41 |
 | 19 | [Matcha Latte](https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Matcha Latte](https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV) | 2:47 |
-| 20 | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
+| 20 | [El Peor De Mis Fracasos \- En Vivo](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
 | 21 | [La Cheyenne](https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j) | [Estilo R'S](https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J) | 2:33 |
 | 22 | [Empareje Remix](https://open.spotify.com/track/2AJ8ltGJsScmIlc0aiM3pK) | [Russo](https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Empareje Remix](https://open.spotify.com/album/6BsJF6zbBIRYSh2qisBMEm) | 3:18 |
 | 23 | [/90 60 90](https://open.spotify.com/track/0JqpFd68DAc8gLNubwTrkq) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 49 | [YA ESTUVO BUENO](https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [YA ESTUVO BUENO](https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg) | 2:53 |
 | 50 | [King of Watches](https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:27 |
 
-Snapshot ID: `AAAAAOaUEiePoFF8VMc3PBkQmBgpg9B1`
+Snapshot ID: `AAAAABT7/3Cw+VgFwM+HLGlKHlTw27wc`

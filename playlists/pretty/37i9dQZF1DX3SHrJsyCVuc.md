@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,764 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,772 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Special Unit](https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Special Unit](https://open.spotify.com/album/3gYLrXlIRzJb3xnxqCdBto) | 2:39 |
 | 75 | [Tender Blades](https://open.spotify.com/track/3yl61cFag5kZhb9tCX6lU6) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 4:03 |
 
-Snapshot ID: `AAAAABK0qeoS5PMNdAyS+R7ELj6IIrVh`
+Snapshot ID: `AAAAAKKvK5nzycgIXNiD2TS0l4d8ttUE`

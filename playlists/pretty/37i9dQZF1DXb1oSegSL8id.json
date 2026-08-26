@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863808,
+  "num_followers": 863801,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJEmuGRpfjwY33qggA9qYWxaK918",
+  "snapshot_id": "AAAAAHqw4+rNnfmsZiPca1EP79BkVcYF",
   "tracks": [
     {
       "added_at": "2026-06-22 17:28:18",
@@ -707,30 +707,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Jogadora Cara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
-      },
-      "artists": [
-        {
-          "name": "Filtr Music Brasil",
-          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
-        },
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 154997,
-      "name": "Jogadora Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Jogadora Cara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
+      },
+      "artists": [
+        {
+          "name": "Filtr Music Brasil",
+          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 154997,
+      "name": "Jogadora Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1619,30 +1619,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2nUov8cvXReM3gpk3Os8PR"
-      },
-      "artists": [
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 480463,
-      "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2SaRCZqpayygyXxKb5sAfH"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2nUov8cvXReM3gpk3Os8PR"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 480463,
+      "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2SaRCZqpayygyXxKb5sAfH"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "Conquistas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Show Fechou",
         "url": "https://open.spotify.com/album/14CSj0bmnQt4HjFHoRZBB4"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 165102,
       "name": "Show Fechou",
       "url": "https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "Conquistas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
     },
     {
       "added_at": "2026-06-22 17:28:18",

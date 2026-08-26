@@ -25202,7 +25202,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 186838,
       "name": "The Orange Theme",
       "url": "https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT"
@@ -27614,6 +27614,24 @@
       "duration_ms": 199519,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/0qL2CQdLzOUwoE6wm5oTBm"
+    },
+    {
+      "album": {
+        "name": "Way That You Look at Me",
+        "url": "https://open.spotify.com/album/6n6yVe3mMOY71A7PT7u5b1"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Way That You Look at Me",
+      "url": "https://open.spotify.com/track/2SIs6QlFZQ3aBckuM66LWV"
     },
     {
       "album": {

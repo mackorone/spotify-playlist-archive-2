@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Ramón, Jorja Smith, sval og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,942 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,944 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 36 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
 | 37 | [Drive Me Away From You](https://open.spotify.com/track/1bzd9T97OgXnq3i2AKg2Jk) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Acrobats](https://open.spotify.com/album/6SzH8ayi3fyuXx7ZrJdwQB) | 3:46 |
 | 38 | [Gislefoss](https://open.spotify.com/track/5i0Flu24TADeXGZMKKlsa2) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [Gislefoss](https://open.spotify.com/album/2tkIV4Ag5zJnWjKDSGEcvo) | 2:18 |
-| 39 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
+| 39 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 40 | [Bad Bitch](https://open.spotify.com/track/0KYLNnpsPe1cn2HJtPpvAT) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Gatano](https://open.spotify.com/artist/41EQZ8KPd5Wb9eSOavfLRd) | [Bad Bitch](https://open.spotify.com/album/0HcALYkoekvTsjRo56mzMz) | 1:40 |
 | 41 | [.com](https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [.com](https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt) | 3:07 |
 | 42 | [I Will Find You](https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [I Will Find You](https://open.spotify.com/album/00zVD6CI5uL5co5xzUjTS1) | 3:19 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 101 | [you’re my nature](https://open.spotify.com/track/1UPI8IZpnPpEYZVMf6NgNR) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
 | 102 | [Løvefjes](https://open.spotify.com/track/0ClDIoOmrA2StTQJUsEyGL) | [Bertine Zetlitz](https://open.spotify.com/artist/5Ecypk9dy3PpNdikTIf6UL) | [Løvefjes](https://open.spotify.com/album/0ajNsCACUQxckdfsqUzCDw) | 3:09 |
 
-Snapshot ID: `AAAAAN91CWJrhGkhA1B5pgy9rJyZwIhB`
+Snapshot ID: `AAAAAFkBLoP1ta2+7JzeCARcJm6pgFCH`

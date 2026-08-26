@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: Artsalghul
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,578 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,587 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 43 | [Dide](https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [Dide](https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6) | 2:01 |
 | 44 | [Ô'sassin](https://open.spotify.com/track/0g06jpN64q2uNXwRT03qtz) | [Yôrkk](https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv) | [Ô'sassin](https://open.spotify.com/album/140Eql7bC0A0l8kDret5Tw) | 2:34 |
 | 45 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:43 |
-| 46 | [Feedback](https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Little Us](https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4) | 3:04 |
-| 47 | [Awilo](https://open.spotify.com/track/0gQ2zMMal8jm7XyVtbtqEh) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [Awilo](https://open.spotify.com/album/6ULG4B8cSKQ4pLV2LYTEr0) | 2:27 |
-| 48 | [impossible](https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe) | [Tochi Bedford](https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn) | [impossible](https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M) | 2:26 |
-| 49 | [Jó](https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 2:58 |
-| 50 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 |
-| 51 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
+| 46 | [Awilo](https://open.spotify.com/track/0gQ2zMMal8jm7XyVtbtqEh) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [Awilo](https://open.spotify.com/album/6ULG4B8cSKQ4pLV2LYTEr0) | 2:27 |
+| 47 | [Feedback](https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Little Us](https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4) | 3:04 |
+| 48 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
+| 49 | [impossible](https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe) | [Tochi Bedford](https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn) | [impossible](https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M) | 2:26 |
+| 50 | [Jó](https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 2:58 |
+| 51 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 |
 | 52 | [Obokhian](https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00) | [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV) | [EGER](https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S) | 2:18 |
 | 53 | [Do Not Disturb \(DND\)](https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Do Not Disturb \(DND\)](https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy) | 2:52 |
 | 54 | [How I Want It Too](https://open.spotify.com/track/2gyPhDhYREAUa1sXUA2A7q) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [How Do The Flowers Bloom?](https://open.spotify.com/album/0zAYL4Km3huGSPB77FUobM) | 3:05 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 76 | [After](https://open.spotify.com/track/10t22Qwyd0fbxfENS6ssbI) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [After](https://open.spotify.com/album/5TsaHCdkZC6xhapMnZgKh2) | 3:14 |
 | 77 | [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 |
 | 78 | [Bad Decision](https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Bad Decision](https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A) | 3:31 |
-| 79 | [Serial Kisser](https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [HIH & Serial Kisser](https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA) | 3:01 |
+| 79 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 |
 | 80 | [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 |
 
-Snapshot ID: `AAAAAKCiRv173v1Q7PzF7IBcKh3al34N`
+Snapshot ID: `AAAAAPF4nc0kAC9czruSGuTioCYLlo3H`

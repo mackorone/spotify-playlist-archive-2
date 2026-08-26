@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 111755,
+  "num_followers": 111753,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvVbQufbqqXLY9jOpzqZnoaeZC2",
+  "snapshot_id": "AAAAAEvAJgHZUDac0INCufryMdXseqO2",
   "tracks": [
     {
       "added_at": "2025-12-15 09:00:30",
@@ -339,18 +339,22 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+        "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
+        "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
       },
       "artists": [
         {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
         }
       ],
-      "duration_ms": 167973,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+      "duration_ms": 242506,
+      "name": "Jolis sapins",
+      "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -371,22 +375,18 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
-        "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
         }
       ],
-      "duration_ms": 242506,
-      "name": "Jolis sapins",
-      "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
+      "duration_ms": 167973,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
     },
     {
       "added_at": "2025-12-15 09:00:30",

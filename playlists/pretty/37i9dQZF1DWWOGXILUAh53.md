@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Jigitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,642 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,824 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
 | 100 | [Remember Us \(feat\. Dustin Lynch\)](https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:50 |
 
-Snapshot ID: `AAAAANxJujo3m+eB/JjO9zkJ1fpZGdsd`
+Snapshot ID: `AAAAAM+zX6xjjLi19YcK6/fsgMp4U06b`

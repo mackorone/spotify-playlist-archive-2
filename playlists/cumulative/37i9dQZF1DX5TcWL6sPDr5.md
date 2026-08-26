@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Namasenda 💚
 
-271 songs - 14 hr 30 min
+272 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Lover, Where Do You Live?](https://open.spotify.com/track/3s0Kk3ELsTplu0JIrvRRta) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Silent Treatment](https://open.spotify.com/album/6yFHWLDgf8EbDrbsiJnjZ5) | 5:03 | 2026-03-19 |  |
 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 | 2026-03-05 | 2026-03-20 |
 | [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 | 2026-06-02 |  |
+| [Lucky \- Spotify Singles](https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Lucky \(Spotify Singles\)](https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN) | 2:53 | 2026-08-25 |  |
 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-04-07 |  |
 | [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 | 2026-03-19 | 2026-04-08 |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2026-03-19 | 2026-06-03 |

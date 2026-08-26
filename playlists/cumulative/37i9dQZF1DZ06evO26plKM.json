@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 366961,
       "name": "Don't Settle (Funkhaus Version)",
       "url": "https://open.spotify.com/track/4bRMhJtSuS55q7M0mkuhxu"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
@@ -174,6 +174,32 @@
       "duration_ms": 275946,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/2GsPNtDbbTLnQ0nISq9MmC"
+    },
+    {
+      "album": {
+        "name": "The Swell Season",
+        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292813,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/0bUhthTjJuGN8c5D9WRRD3"
     },
     {
       "album": {
@@ -236,6 +262,24 @@
       "duration_ms": 249773,
       "name": "Flag Day",
       "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
+    },
+    {
+      "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211746,
+      "name": "Grace Beneath the Pines",
+      "url": "https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm"
     },
     {
       "album": {
@@ -312,7 +356,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 228786,
       "name": "If You Want Me",
       "url": "https://open.spotify.com/track/5cLCeJ0RHfLrP1pcRWoiFz"
@@ -378,7 +422,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 191520,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/2grwAOEFS0Z6eLAysVimSn"
@@ -400,7 +444,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 246693,
       "name": "Lay Me Down | Ring of Fire",
       "url": "https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW"
@@ -724,7 +768,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 155320,
       "name": "Say It To Me Now",
       "url": "https://open.spotify.com/track/1DqVnXqaTYRgifxIMzIKBY"
@@ -772,10 +816,32 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 218960,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
+    },
+    {
+      "album": {
+        "name": "Ukulele Songs",
+        "url": "https://open.spotify.com/album/1tcn5JXZJC0xVAFIE3iZat"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/5tyz7e3vR8wsIEoRUdU3jy"
     },
     {
       "album": {
@@ -926,7 +992,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 284626,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/6nuMBIXdGs2wL3mp49Ndf6"
@@ -1132,10 +1198,36 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 221733,
       "name": "When Your Mind's Made Up",
       "url": "https://open.spotify.com/track/1aAfiBF8ftfkONfzc0GTWz"
+    },
+    {
+      "album": {
+        "name": "The Swell Season",
+        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "When Your Mind's Made Up",
+      "url": "https://open.spotify.com/track/1OZubYtAEsWfUwaffG0NVh"
     },
     {
       "album": {
@@ -1190,7 +1282,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 185053,
       "name": "You Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR"

@@ -1,12 +1,12 @@
 {
   "description": "For your lounge room DF!",
-  "num_followers": 788096,
+  "num_followers": 788075,
   "original_name": "House Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI6mgzHVeWTeOIO0dEPPegFeKz2a",
+  "snapshot_id": "AAAAAAJQDdUVqtMbXdI8MjqYuMVFoGS4",
   "tracks": [
     {
       "added_at": "2026-02-23 02:32:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-01-26 13:01:30",
       "album": {
+        "name": "The Kickback",
+        "url": "https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww"
+      },
+      "artists": [
+        {
+          "name": "Cali Swag District",
+          "url": "https://open.spotify.com/artist/1EeArivTpzLNCqubV95255"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Teach Me How to Dougie",
+      "url": "https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf"
+    },
+    {
+      "added_at": "2025-01-26 13:01:30",
+      "album": {
         "name": "Man On The Moon: The End Of Day (Int'l Version)",
         "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa"
-    },
-    {
-      "added_at": "2025-01-26 13:01:30",
-      "album": {
-        "name": "The Kickback",
-        "url": "https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww"
-      },
-      "artists": [
-        {
-          "name": "Cali Swag District",
-          "url": "https://open.spotify.com/artist/1EeArivTpzLNCqubV95255"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Teach Me How to Dougie",
-      "url": "https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf"
     },
     {
       "added_at": "2025-01-26 13:01:30",

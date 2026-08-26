@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 432598,
+  "num_followers": 432564,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH6LDdtQtnDXG8NSjsADf3Ha1QHs",
+  "snapshot_id": "AAAAAO3gQIRXPuWF+Fm3UrqKpLA5/qa+",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:56",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Hasta Que T\u00fa Me Quieras",
         "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 235013,
       "name": "Hasta Que T\u00fa Me Quieras",
       "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
+      },
+      "artists": [
+        {
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
+        }
+      ],
+      "duration_ms": 204166,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
         "name": "Coraz\u00f3n Extra\u00f1o",
         "url": "https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 176009,
       "name": "Coraz\u00f3n Extra\u00f1o",
       "url": "https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
-      },
-      "artists": [
-        {
-          "name": "Planeta Tres",
-          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
-        }
-      ],
-      "duration_ms": 204166,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "donjulio",
-        "url": "https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6"
-      },
-      "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "donjulio",
-      "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 208240,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "donjulio",
+        "url": "https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "donjulio",
+      "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Y SI SE ABREN LOS CIELOS",
-        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Y SI SE ABREN LOS CIELOS",
-      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Desastre Comunal",
         "url": "https://open.spotify.com/album/4EwZis4GJBiNs1ziHwtvhg"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 184421,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "added_at": "2026-08-21 04:01:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: P'tit Beliveau x kinji00
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,659 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,663 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,28 +60,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 50 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
 | 51 | [L'amour enterré vivant](https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [L'amour enterré vivant](https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb) | 2:14 |
 | 52 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 |
-| 53 | [Cimetière](https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 3:33 |
-| 54 | [Comme un bébé](https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:09 |
+| 53 | [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 |
+| 54 | [Cimetière](https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 3:33 |
 | 55 | [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 |
-| 56 | [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 |
-| 57 | [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 |
-| 58 | [omg](https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 2:28 |
-| 59 | [Ma Chance](https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW) | [A Girl Named Sue](https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ) | [Ma Chance](https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u) | 2:47 |
+| 56 | [Comme un bébé](https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:09 |
+| 57 | [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 |
+| 58 | [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 |
+| 59 | [omg](https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 2:28 |
 | 60 | [Qu'est\-ce que je viens faire ici ?](https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [xx](https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4) | 2:14 |
-| 61 | [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 |
+| 61 | [Ma Chance](https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW) | [A Girl Named Sue](https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ) | [Ma Chance](https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u) | 2:47 |
 | 62 | [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 |
 | 63 | [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 |
 | 64 | [Todas mis amigas](https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Todas mis amigas](https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s) | 3:48 |
 | 65 | [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 |
-| 66 | [Feel '26](https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Feel '26](https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw) | 5:43 |
-| 67 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
+| 66 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
+| 67 | [Feel '26](https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Feel '26](https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw) | 5:43 |
 | 68 | [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 |
 | 69 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 |
-| 70 | [Excuse\-moi](https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA) | [Lilou Morin](https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM) | [Excuse\-moi](https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG) | 3:17 |
+| 70 | [FACELIFT!](https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp) | [Pilot](https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz) | 2:54 |
 | 71 | [If You Love Her](https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Sad Songs for Grieving](https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8) | 3:37 |
-| 72 | [Courtside](https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Courtside](https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq) | 3:02 |
-| 73 | [Tout c’qui faut](https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Westfalia](https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl) | 1:57 |
-| 74 | [FACELIFT!](https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp) | [Pilot](https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz) | 2:54 |
+| 72 | [Excuse\-moi](https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA) | [Lilou Morin](https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM) | [Excuse\-moi](https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG) | 3:17 |
+| 73 | [Courtside](https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Courtside](https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq) | 3:02 |
+| 74 | [Tout c’qui faut](https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Westfalia](https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl) | 1:57 |
 | 75 | [Paranormal](https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L) | [Kamilou](https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5) | [Paranormal](https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO) | 2:57 |
 
-Snapshot ID: `AAAAAPNbuRbnfPqxS9Z3goNsXfcJuGi1`
+Snapshot ID: `AAAAAA6awF1aLUEkBIEbZiPyR8yZjePV`

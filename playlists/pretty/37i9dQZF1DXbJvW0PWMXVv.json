@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADtBbS9UtekwnDmvZ+oQrO42R4FW",
+  "snapshot_id": "AAAAAEixkl7j2HzbVA2oMdrInxS5PgQL",
   "tracks": [
     {
       "added_at": "2025-09-17 15:00:09",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Zeca Pagodinho - 40 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Minta Meu Sonho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Rea\u00e7\u00f5es Adversas / Ao Persistirem os Sintomas",
         "url": "https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 189374,
       "name": "Salto",
       "url": "https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Zeca Pagodinho - 40 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Minta Meu Sonho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Cenas Infantis",
-        "url": "https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu"
-      },
-      "artists": [
-        {
-          "name": "Palavra Cantada",
-          "url": "https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT"
-        }
-      ],
-      "duration_ms": 192231,
-      "name": "Liberem os Brigadeiros Antes dos Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Hamilton de Holanda Trio - Live in NYC",
         "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 315110,
       "name": "Todo Dia \u00c9 Um Recome\u00e7o",
       "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Cenas Infantis",
+        "url": "https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu"
+      },
+      "artists": [
+        {
+          "name": "Palavra Cantada",
+          "url": "https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT"
+        }
+      ],
+      "duration_ms": 192231,
+      "name": "Liberem os Brigadeiros Antes dos Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
+        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
+      },
+      "artists": [
+        {
+          "name": "Caman\u00e9",
+          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "Queixa das almas jovens censuradas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Fantasia Brasil 2",
         "url": "https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 207738,
       "name": "Sapato Velho",
       "url": "https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
-        "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
-      },
-      "artists": [
-        {
-          "name": "Caman\u00e9",
-          "url": "https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "Queixa das almas jovens censuradas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 169546,
       "name": "S\u00f3 Quero Ver",
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "O Mundo D\u00e1 Voltas",
-        "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Antonio Carlos & Jocafi",
-          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
-        }
-      ],
-      "duration_ms": 321115,
-      "name": "Praia do Futuro",
-      "url": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 431494,
       "name": "AO TEU LADO",
       "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas",
+        "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "duration_ms": 321115,
+      "name": "Praia do Futuro",
+      "url": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy"
     },
     {
       "added_at": "2025-09-17 15:00:09",

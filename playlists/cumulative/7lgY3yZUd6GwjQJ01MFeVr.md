@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-320 songs - 17 hr 7 min
+321 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Comin' In Cold](https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Comin' In Cold](https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK) | 3:00 | 2025-06-09 |  |
 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 | 2024-01-12 | 2024-07-23 |
 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 | 2024-07-22 | 2024-11-02 |
+| [COUNTRY SONG](https://open.spotify.com/track/53pLyiHTQWvUrguXfx9soV) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [TAKES ME BACK](https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw) | 2:37 | 2026-08-25 |  |
 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 | 2024-02-16 | 2024-11-02 |
 | [Cowboy Don’t](https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cowboy Don’t](https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q) | 2:42 | 2023-12-08 | 2025-03-20 |
 | [Cowboy Kind of Love](https://open.spotify.com/track/0ZWDipzWCRrSqaZZ9aUlEF) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [A Little Goes A Long Way](https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve) | 3:03 | 2024-02-09 | 2024-11-02 |

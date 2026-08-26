@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313533,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/6aoDP6J8OfYlCPasrZqjeS"
+    },
+    {
+      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -140,7 +158,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 233933,
       "name": "Break Ups 2 Make Ups",
       "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
@@ -162,6 +180,28 @@
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "album": {
+        "name": "Distractions",
+        "url": "https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L"
+      },
+      "artists": [
+        {
+          "name": "The RH Factor",
+          "url": "https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297426,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/65ZIuX95DAOLcLRGNU4y89"
     },
     {
       "album": {
@@ -212,28 +252,32 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 384666,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+        "name": "Brown Sugar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ui78vxDFSa0NcE1Zj2tVW"
       },
       "artists": [
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        },
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
         }
       ],
-      "date_added": "2025-10-15",
+      "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 321642,
-      "name": "Devil's Pie",
-      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s"
+      "duration_ms": 469933,
+      "name": "Cruisin' - WET Remix",
+      "url": "https://open.spotify.com/track/0UdHFPhuycl1WxHsU2ISpi"
     },
     {
       "album": {
@@ -248,10 +292,122 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
+      "duration_ms": 321642,
+      "name": "Devil's Pie",
+      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s"
+    },
+    {
+      "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 362306,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/3lZ77kSuRzQUR8t3mPds5T"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
       "duration_ms": 382333,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
+    },
+    {
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319451,
+      "name": "Feel Like Making Love",
+      "url": "https://open.spotify.com/track/0q6OWkf8S6CGkQHytRjOfe"
+    },
+    {
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108693,
+      "name": "Fencewalk - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/2A54Sdtvf8rjvyU4Jxr7XQ"
+    },
+    {
+      "album": {
+        "name": "Like Water For Chocolate",
+        "url": "https://open.spotify.com/album/72GMOkq47rXzdAMJrjf4RV"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318266,
+      "name": "Geto Heaven Part Two",
+      "url": "https://open.spotify.com/track/5sXRH51cAhFn2pOQs9Pa2Q"
+    },
+    {
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59559,
+      "name": "Gettin' Ready",
+      "url": "https://open.spotify.com/track/0LsqizvPMdfpJ4Tj87glLy"
     },
     {
       "album": {
@@ -273,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327733,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1AeqdOUul6h2wVmqCL9thP"
+    },
+    {
+      "album": {
         "name": "I Found My Smile Again",
         "url": "https://open.spotify.com/album/2DuxNAsjra84Q3zYu1LG6I"
       },
@@ -288,6 +462,32 @@
       "duration_ms": 240453,
       "name": "I Found My Smile Again (Radio Edit)",
       "url": "https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH"
+    },
+    {
+      "album": {
+        "name": "THE BOOK OF CLARENCE (The Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5LTfMQMnfrNd2Zj1HLZUmN"
+      },
+      "artists": [
+        {
+          "name": "Jeymes Samuel",
+          "url": "https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573024,
+      "name": "I Want You Forever",
+      "url": "https://open.spotify.com/track/7sEE8sHWJpGwaOIGC7R5GI"
     },
     {
       "album": {
@@ -313,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374813,
+      "name": "I'm Glad You're Mine - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/1DyJRI8mQcIQ6veATvHY3S"
+    },
+    {
+      "album": {
         "name": "Eve",
         "url": "https://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S"
       },
@@ -332,7 +550,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 280386,
       "name": "Ibtihaj",
       "url": "https://open.spotify.com/track/3E0e6xSwnavQzRK1iLKvuw"
@@ -365,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69302,
+      "name": "Interlude For Real",
+      "url": "https://open.spotify.com/track/48frkgGcl9KZgfESy0midb"
+    },
+    {
+      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -392,12 +628,12 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "date_added": "2025-10-15",
+      "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+      "duration_ms": 356000,
+      "name": "Jonz In My Bonz",
+      "url": "https://open.spotify.com/track/7114JMdpaHhNEOlIY0Ljze"
     },
     {
       "album": {
@@ -413,9 +649,71 @@
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286466,
+      "name": "Left And Right",
+      "url": "https://open.spotify.com/track/4EQ0dK6Sg7v685NGrQvuki"
+    },
+    {
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-26",
       "duration_ms": 286800,
       "name": "Me And Those Dreamin' Eyes Of Mine",
       "url": "https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe"
+    },
+    {
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288706,
+      "name": "Me And Those Dreamin' Eyes Of Mine - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/6bhNnXiNguEn0oUoCOReEp"
     },
     {
       "album": {
@@ -434,7 +732,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 350533,
       "name": "Nothing Even Matters (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
@@ -470,10 +768,46 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246800,
+      "name": "She's Always In My Hair - Radio Edit",
+      "url": "https://open.spotify.com/track/5UgC5vtPl0PBXCX5JDw1sV"
+    },
+    {
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314165,
+      "name": "Shit, Damn, Motherfucker",
+      "url": "https://open.spotify.com/track/0s39srtdNSrRz6bRMkOrp3"
     },
     {
       "album": {
@@ -488,10 +822,36 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 259366,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4"
+    },
+    {
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/41GKq0Bz81Qmz11VSfY0ga"
+      },
+      "artists": [
+        {
+          "name": "Don-E",
+          "url": "https://open.spotify.com/artist/5oO8FWVbfY83dqWrVrbM6J"
+        },
+        {
+          "name": "Azure",
+          "url": "https://open.spotify.com/artist/5M4QB8v30YGh1JjbWqNLSd"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358906,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/2PM2MSkvTdzc3tl7D4Wh2K"
     },
     {
       "album": {
@@ -543,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Soultronic",
+      "url": "https://open.spotify.com/track/1DLudjQKiXftWiYN4zgnF1"
+    },
+    {
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -554,7 +932,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 344493,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
@@ -579,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94613,
+      "name": "Sweet Sticky Thing - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3Zaj3MaDQOBnfCUa85ppm5"
+    },
+    {
+      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -594,7 +990,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 277639,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I"
@@ -652,7 +1048,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 316306,
       "name": "The Line",
       "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
@@ -706,10 +1102,28 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 430800,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+    },
+    {
+      "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259840,
+      "name": "Untitled (How Does It Feel) - Edit",
+      "url": "https://open.spotify.com/track/6Ms01Gqi8gVBs14YrNUlVZ"
     },
     {
       "album": {
@@ -766,10 +1180,32 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 344893,
       "name": "When We Get By",
       "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
+    },
+    {
+      "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271893,
+      "name": "Your Precious Love",
+      "url": "https://open.spotify.com/track/3wDPJD0Ay9MLaHHRTWdGXJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ljg6k"

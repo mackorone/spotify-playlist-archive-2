@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Cherry Chola en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,306 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,310 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 47 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
 | 48 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 49 | [Hagamos Que](https://open.spotify.com/track/6dERO18avM16kki5aCjTkb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Hagamos Que](https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC) | 2:58 |
-| 50 | [Perfecto Final](https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Perfecto Final](https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx) | 3:26 |
+| 50 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 51 | [Rayo de Luz](https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Campeones del Mundo / Rayo de Luz](https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF) | 5:41 |
-| 52 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 52 | [Perfecto Final](https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Perfecto Final](https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx) | 3:26 |
 | 53 | [El Reloj Me Miente](https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Reloj Me Miente](https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk) | 3:43 |
 | 54 | [No Volveré </3](https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [No Volveré </3](https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL) | 2:51 |
 | 55 | [Sombra](https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [MAPAS II](https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0) | 3:43 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 57 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
 | 58 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 59 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
-| 60 | [Mentiras Arriesgadas](https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Mentiras Arriesgadas](https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80) | 3:32 |
-| 61 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
+| 60 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
+| 61 | [Mentiras Arriesgadas](https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Mentiras Arriesgadas](https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80) | 3:32 |
 | 62 | [Todo está pasando ahora](https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo está pasando ahora](https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2) | 3:48 |
 | 63 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
 | 64 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 74 | [MARIPOSA TECKNICOLOR](https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [MARIPOSA TECKNICOLOR](https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6) | 3:00 |
 | 75 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
 
-Snapshot ID: `AAAAAGHpW1PipwGPyEZeeizkPj4Weltt`
+Snapshot ID: `AAAAALOWWWinoFaeBWr9BQu1kNM9aVQk`

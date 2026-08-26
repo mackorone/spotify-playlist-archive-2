@@ -1,12 +1,12 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 9103,
+  "num_followers": 9108,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADT+qpZbHa9Ok6aUoDH/vBT",
+  "snapshot_id": "aouJgAAAAABdpBxbt/QhBq3PVdNMY5nU",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Beat (Remastered)",
-        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
+        "name": "All Hands on the Bad One (Remastered)",
+        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 188386,
-      "name": "One Beat",
-      "url": "https://open.spotify.com/track/5AsqwkDeT5lnbVDioY6Ool"
+      "duration_ms": 150213,
+      "name": "Youth Decay",
+      "url": "https://open.spotify.com/track/4gxHi3vWjc7IWye0kzLYJH"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
       "duration_ms": 167960,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/53274hl7rQOfVdNbgHfr2T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Hands on the Bad One (Remastered)",
-        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 150213,
-      "name": "Youth Decay",
-      "url": "https://open.spotify.com/track/4gxHi3vWjc7IWye0kzLYJH"
     },
     {
       "added_at": null,
@@ -203,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 141386,
-      "name": "Words and Guitar",
-      "url": "https://open.spotify.com/track/7b6wCOUbe9nugBfiTrekTH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -231,6 +199,22 @@
       "duration_ms": 157720,
       "name": "You're No Rock n' Roll Fun",
       "url": "https://open.spotify.com/track/7lTFxSZLqVLhjavLUU9vba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 141386,
+      "name": "Words and Guitar",
+      "url": "https://open.spotify.com/track/7b6wCOUbe9nugBfiTrekTH"
     },
     {
       "added_at": null,
@@ -267,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 143026,
-      "name": "Little Babies",
-      "url": "https://open.spotify.com/track/4U9Va0fTTbMdN80z2NZFDL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -299,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 143026,
+      "name": "Little Babies",
+      "url": "https://open.spotify.com/track/4U9Va0fTTbMdN80z2NZFDL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 150346,
       "name": "Call the Doctor",
       "url": "https://open.spotify.com/track/2rhHotHUkQTBUfpMVne5rZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
       "duration_ms": 128120,
       "name": "The Drama You've Been Craving",
       "url": "https://open.spotify.com/track/06Nbj4rQP2vhvThjTMdhmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Rope",
-        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+        "name": "Call the Doctor (Remastered)",
+        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 64160,
-      "name": "A Real Man",
-      "url": "https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl"
+      "duration_ms": 144080,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/3ZL06j6DJy3rsfeFEokm42"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 64160,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 154146,
       "name": "Ironclad",
       "url": "https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call the Doctor (Remastered)",
-        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/3ZL06j6DJy3rsfeFEokm42"
     },
     {
       "added_at": null,
@@ -587,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call the Doctor (Remastered)",
-        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 104666,
-      "name": "Little Mouth",
-      "url": "https://open.spotify.com/track/2B7K4LGtXxZdc4BRg6rWhV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Beat (Remastered)",
         "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
       },
@@ -619,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hot Rock (Remastered)",
-        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "Burn, Don't Freeze!",
-      "url": "https://open.spotify.com/track/2mleFoqDXcD3uCP3bDTAkK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Rope",
         "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
@@ -647,6 +599,22 @@
       "duration_ms": 208906,
       "name": "Untidy Creature",
       "url": "https://open.spotify.com/track/2RNw5tEPBdJ2oT6Gp8Ws7M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hot Rock (Remastered)",
+        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "Burn, Don't Freeze!",
+      "url": "https://open.spotify.com/track/2mleFoqDXcD3uCP3bDTAkK"
     },
     {
       "added_at": null,
@@ -679,22 +647,6 @@
       "duration_ms": 120173,
       "name": "Slow Song",
       "url": "https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call the Doctor (Remastered)",
-        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Anonymous",
-      "url": "https://open.spotify.com/track/1UCFR0huAtHLoDbyO81ysJ"
     },
     {
       "added_at": null,
@@ -807,6 +759,54 @@
       "duration_ms": 167480,
       "name": "Funeral Song",
       "url": "https://open.spotify.com/track/4599gPXYzgwfSXwBjoGb6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Small Finds",
+      "url": "https://open.spotify.com/track/1wf91DouhIDzyweoJpkB3F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Cities to Love",
+        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "Price Tag",
+      "url": "https://open.spotify.com/track/6EMWlmbIgSzXHSBjV3lfm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call the Doctor (Remastered)",
+        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 134346,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/5siIFcemeif0pwmHtxGkbN"
     }
   ],
   "unique_name": "This Is Sleater-Kinney",

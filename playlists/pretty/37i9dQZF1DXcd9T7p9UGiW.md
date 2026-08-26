@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,308 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,337 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [PRESSURE](https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [PRESSURE](https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4) | 2:16 |
 | 80 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:30 |
 
-Snapshot ID: `AAAAACkfo+vusOosu81DK2du++pDOdEg`
+Snapshot ID: `AAAAALRKDxh6AKtdG1bKm6k1sggAdkwW`

@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-730 songs - 1 day 14 hr 24 min
+731 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [Pink Atoms](https://open.spotify.com/track/5y5L0fBVfqi0PClERKJMep) | [Sleeping Voyage](https://open.spotify.com/artist/7v3zY7R3YebusTme8ScaaX) | [Pink Atoms](https://open.spotify.com/album/64KvfDrtdvtL7K6PLBoFap) | 3:05 | 2022-11-18 | 2025-10-07 |
 | [Pink Aura of Calm](https://open.spotify.com/track/3OzoK27KV6oj7SE7ABx8fo) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Pink Aura of Calm](https://open.spotify.com/album/44qAzPkIBxOIeCnZA0B2oP) | 2:47 | 2025-12-19 |  |
 | [Pink Bliss](https://open.spotify.com/track/0IVyP3CBVhCeaMMXZR0nWB) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Pink Bliss](https://open.spotify.com/album/5quthggxoMZ0urUbyo7wSM) | 5:09 | 2024-02-09 |  |
-| [Pink Bliss](https://open.spotify.com/track/64RiV3NxNP0PmQmWab43gj) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Pink Bliss](https://open.spotify.com/album/25UT1S5bbBeVvBDbYbsEkT) | 2:51 | 2022-12-20 |  |
+| [Pink Bliss](https://open.spotify.com/track/64RiV3NxNP0PmQmWab43gj) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Pink Bliss](https://open.spotify.com/album/25UT1S5bbBeVvBDbYbsEkT) | 2:51 | 2022-12-20 | 2026-08-26 |
 | [Pink Breeze](https://open.spotify.com/track/6XvtGZYrzCMJ4ZwlASvBpQ) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Pink Breeze](https://open.spotify.com/album/3bKDQfD782G1LNedDjVkS0) | 3:03 | 2022-11-18 | 2026-04-03 |
 | [Pink Chill Noise](https://open.spotify.com/track/5QtEqYDOApu8py0nfM823G) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Pink Noise Stream](https://open.spotify.com/album/2P7zj0aI0cgObq7Q7cForM) | 2:03 | 2022-11-18 | 2026-04-02 |
 | [Pink Cloud Blanket](https://open.spotify.com/track/20knkAVUQP4QQHTlUgGnXa) | [Seismic Dolphin](https://open.spotify.com/artist/31kwIRtITwKwn4NoRdbukb) | [Pink Cloud Blanket](https://open.spotify.com/album/6qUFPfwXE4q6NDAjhZzGY5) | 3:31 | 2026-03-31 |  |
@@ -472,7 +472,7 @@
 | [Pink Noise 9](https://open.spotify.com/track/3Z2kra513cPg8pcIxEtwF2) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Pink Noise Stimulus](https://open.spotify.com/album/2cjw0tyRT0ZVhzkNJtwTp4) | 2:25 | 2022-11-18 | 2023-01-28 |
 | [Pink Noise = Sleepy Kids](https://open.spotify.com/track/78eJpDKEYodKgqrC79S88L) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Better Focus with Pink Noise](https://open.spotify.com/album/3pwOFSVA0ofBwhtyXzxywi) | 3:40 | 2023-01-27 |  |
 | [Pink Noise Above The Clouds](https://open.spotify.com/track/1OeHqSlsKRRwkLx6nLdf4l) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Pink Noise Above The Clouds](https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2) | 3:48 | 2022-11-18 | 2023-03-25 |
-| [Pink Noise Aflush](https://open.spotify.com/track/49y8xF1XZjnSYN2qPlcIBB) | [Light Red Hue](https://open.spotify.com/artist/1oT7Oy6WCXT6tgzJQvIkZr) | [Pink Noise Aflush](https://open.spotify.com/album/7ILPp3qHkTbuO5D0YOszyl) | 2:51 | 2022-12-20 | 2026-02-13 |
+| [Pink Noise Aflush](https://open.spotify.com/track/49y8xF1XZjnSYN2qPlcIBB) | [Light Red Hue](https://open.spotify.com/artist/1oT7Oy6WCXT6tgzJQvIkZr) | [Pink Noise Aflush](https://open.spotify.com/album/7ILPp3qHkTbuO5D0YOszyl) | 2:51 | 2022-12-20 |  |
 | [Pink Noise Airplane](https://open.spotify.com/track/2s4jzqVAU60LXFpkalovq4) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise \- Find your inner peace](https://open.spotify.com/album/3kc8lPIS29Kk95PyjXIZTh) | 2:52 | 2022-11-18 | 2023-01-28 |
 | [Pink Noise Baby](https://open.spotify.com/track/3MI108wJFsEDisc5niohYO) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Ambient Pink Noise](https://open.spotify.com/album/44ENOthyvj5V5GGLIdGsWx) | 2:08 | 2022-11-18 | 2023-02-17 |
 | [Pink Noise Beauty](https://open.spotify.com/track/0zBtJ2GILEjIdhnfsGBOIr) | [Pink Noise Traveler](https://open.spotify.com/artist/1NC629rjoeMtPM5WGgk1nD) | [Pink Noise Beauty](https://open.spotify.com/album/2RADMCLv0wqNp0vChBcSP6) | 3:36 | 2021-12-01 | 2023-02-17 |
@@ -658,6 +658,7 @@
 | [Soft Pink Noise](https://open.spotify.com/track/5KHwBQEvflrnRBCLe1hrhO) | [Indika](https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU) | [Soft Pink Noise](https://open.spotify.com/album/6VekMONmw1s4OJoIqbMTBu) | 1:59 | 2026-03-31 |  |
 | [Soft Pink Noise](https://open.spotify.com/track/0ZH1Wte8twkKaiFEyEakAr) | [Puffs Of Bliss](https://open.spotify.com/artist/3M9JjbG3CA2hZviKCseBVq) | [Pink Focus](https://open.spotify.com/album/0SxZCyWAICj56nAUpi1jN4) | 3:14 | 2022-07-01 | 2025-12-20 |
 | [Soft Pink Noise Slumber](https://open.spotify.com/track/4lewUMpOoz4ZkjWouST7Iz) | [Omnispherical](https://open.spotify.com/artist/4JVk8gc5inFzJpDG8kyyYm) | [Soft Pink Noise Slumber](https://open.spotify.com/album/5WRU9rX9ITic7e6VGnQmXP) | 4:34 | 2024-02-09 |  |
+| [Soft Rolling Brown Noise](https://open.spotify.com/track/3063OcQAW6LvUzQDwOmE4T) | [Willow Resonance](https://open.spotify.com/artist/2s91c4cm8DwLi14qpNki0d) | [Deep Sleep Brown Noise](https://open.spotify.com/album/69RTvmZmTeiOQjJWAP0w7B) | 2:43 | 2026-08-14 |  |
 | [Soft Rose](https://open.spotify.com/track/5s16FUbRazQzf19q4msm5V) | [Sleep Miracle](https://open.spotify.com/artist/146XkoyeqRg7s8jbFzsXsU) | [Pink Tranquillity](https://open.spotify.com/album/4yys1hOHsgvyqodxmOwrlm) | 4:14 | 2022-11-18 | 2025-12-16 |
 | [Sonitus IV](https://open.spotify.com/track/5zI6HBKceSwf4PfRGR8R1f) | [Byonde](https://open.spotify.com/artist/33ceGoMDGHMOenQtt0Ls8q) | [Serenity Noise](https://open.spotify.com/album/45msYzpaKzhNNCLpwRzzBX) | 3:05 | 2021-12-01 | 2022-12-21 |
 | [Soothing Brown Noise](https://open.spotify.com/track/571cKOrpEtTcQnv5uOUqYr) | [Biolume](https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl) | [Soothing Brown Noise](https://open.spotify.com/album/39vv1nbumnQZaBwJ6vSFOa) | 2:46 | 2026-03-31 |  |
@@ -689,7 +690,7 @@
 | [Street Noise \- Brown Noise](https://open.spotify.com/track/7iS8aC9Qmet8TyVUqyR4jY) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Street Noise](https://open.spotify.com/album/2YHzdONjtX9H2J0svfX1yp) | 3:00 | 2021-12-01 | 2025-11-14 |
 | [Street Pink Noise](https://open.spotify.com/track/1fjlPT8zvgnnZan9H6rlTh) | [Sutsi Lii](https://open.spotify.com/artist/6UXBb6zZWhSwU0WXtwVI2O) | [Street Pink Noise](https://open.spotify.com/album/6DTcHT1VXmI6vfXQV2NHQr) | 2:50 | 2021-12-01 | 2023-02-17 |
 | [Study Pink Noise](https://open.spotify.com/track/7yyfCfjoXS8s9bBrYCE9MM) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Pink Noise Focus](https://open.spotify.com/album/5VGwO2kekC7hk3QjocdzCj) | 4:03 | 2022-06-03 | 2023-01-28 |
-| [Surrounded by Pink Noise](https://open.spotify.com/track/2sj5wfw7LJWebgQpIDzrRF) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:26 | 2022-08-02 |  |
+| [Surrounded by Pink Noise](https://open.spotify.com/track/2sj5wfw7LJWebgQpIDzrRF) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:26 | 2022-08-02 | 2026-08-26 |
 | [Sweet Dreams Brown Noise](https://open.spotify.com/track/1chgbFFefT55Kktd1nFAnn) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Dozy Sleepy Brown Noise](https://open.spotify.com/album/3yG3Q1PkA0htvE9eUergkh) | 3:18 | 2022-11-18 | 2023-12-06 |
 | [Sweet Sleep Brown Noise](https://open.spotify.com/track/48IAfxqW01o5oTwP3YCbgZ) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Brown Noise Sleep Sensations](https://open.spotify.com/album/2Ff86mAXvUw2iMfTx6E5nJ) | 3:20 | 2022-12-20 |  |
 | [Swell Brown Tone](https://open.spotify.com/track/5vfolDqi83bunkDaYVBOob) | [Nebularity](https://open.spotify.com/artist/41SRniyeD8nJ7HDfSRm92m) | [Hidden Highway Noise](https://open.spotify.com/album/4HtmYbhdWYkp5tn562W2Gi) | 2:31 | 2026-03-31 |  |

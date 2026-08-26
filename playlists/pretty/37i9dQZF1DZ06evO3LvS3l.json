@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28956,
+  "num_followers": 28961,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAACGjFAFZu+hC0036gRWHih4",
+  "snapshot_id": "aouJgAAAAABQJ+SzJuQEsh9Ihy9F3e/s",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 209520,
       "name": "If This Is Just a Game",
       "url": "https://open.spotify.com/track/6BLmdSia7fx2jr5INsuPFu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castles in the Sand",
-        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
     },
     {
       "added_at": null,
@@ -107,38 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Life and Death",
-        "url": "https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Need a Little Time off for Bad Behavior",
-      "url": "https://open.spotify.com/track/2XuG6qXo9WZHn9O2QUxeTM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Jack Daniel's, If You Please",
-      "url": "https://open.spotify.com/track/5IWb5kwXz1UgsXVyrMvpKi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Divorced",
         "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
       },
@@ -151,22 +103,6 @@
       "duration_ms": 166960,
       "name": "Cocaine Carolina",
       "url": "https://open.spotify.com/track/35kvOewUqIxHMf8Djyk4IC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Longhaired Redneck",
-        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "Living on the Run",
-      "url": "https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO"
     },
     {
       "added_at": null,
@@ -203,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Longhaired Redneck",
+        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "Living on the Run",
+      "url": "https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Biggest Hits",
         "url": "https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1"
       },
@@ -215,22 +167,6 @@
       "duration_ms": 178960,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/6x6xWn1AQYWekIDREExqgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Longhaired Redneck",
-        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/5D9GKjpvU4xbw4Y2sreLXB"
     },
     {
       "added_at": null,
@@ -267,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Longhaired Redneck",
+        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/5D9GKjpvU4xbw4Y2sreLXB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unchained",
         "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
       },
@@ -295,26 +247,6 @@
       "duration_ms": 154360,
       "name": "Whiskey & Women",
       "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darlin', Darlin'",
-        "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        },
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Don't Cry Darlin' (Recitation by George Jones)",
-      "url": "https://open.spotify.com/track/5sTNElZHQWHWkz3WuIX3XA"
     },
     {
       "added_at": null,
@@ -383,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mysterious Rhinestone Cowboy",
-        "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Please Come to Boston",
-      "url": "https://open.spotify.com/track/47ctsEbmgRRHXcFOfeeUVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Emotions",
         "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
@@ -415,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Divorced",
-        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "It's Great to Be Single Again",
-      "url": "https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon a Rhyme",
         "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
       },
@@ -443,6 +343,22 @@
       "duration_ms": 199226,
       "name": "Another Pretty Country Song",
       "url": "https://open.spotify.com/track/3ftt7udG1maQvpSTzzb0Ra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Divorced",
+        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "It's Great to Be Single Again",
+      "url": "https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S"
     },
     {
       "added_at": null,
@@ -511,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Got Something to Say",
-        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
+        "name": "Darlin', Darlin'",
+        "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
       "artists": [
         {
           "name": "David Allan Coe",
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        },
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 170200,
-      "name": "This Bottle (In My Hand)",
-      "url": "https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0"
+      "duration_ms": 258160,
+      "name": "Why You Been Gone So Long",
+      "url": "https://open.spotify.com/track/38gJbvK9xkufMJmYelSyMz"
     },
     {
       "added_at": null,
@@ -543,22 +455,6 @@
       "duration_ms": 239493,
       "name": "Family Reunion",
       "url": "https://open.spotify.com/track/48E44vt6TAntuSRps4TJZa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darlin', Darlin'",
-        "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Why You Been Gone So Long",
-      "url": "https://open.spotify.com/track/38gJbvK9xkufMJmYelSyMz"
     },
     {
       "added_at": null,
@@ -691,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hey Gypsy",
-      "url": "https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Daddy",
         "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
@@ -723,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mysterious Rhinestone Cowboy",
-        "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
       },
       "artists": [
         {
@@ -732,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 135226,
-      "name": "(If I Could Climb) The Walls of the Bottle",
-      "url": "https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT"
+      "duration_ms": 141000,
+      "name": "Hey Gypsy",
+      "url": "https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO"
     },
     {
       "added_at": null,
@@ -751,22 +631,6 @@
       "duration_ms": 150173,
       "name": "Whiskey, Whiskey (Take My Mind)",
       "url": "https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castles in the Sand",
-        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
     },
     {
       "added_at": null,
@@ -815,6 +679,134 @@
       "duration_ms": 163573,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/7dKaRbNb32MdumLtkuXGhp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biggest Hits",
+        "url": "https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Hank Williams Junior-Junior",
+      "url": "https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas Moon (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Satisfied Mind",
+      "url": "https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0VYmJzCaXoph0JfVXGNNos"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Lately I've Been Thinking Too Much Lately",
+      "url": "https://open.spotify.com/track/6xk8FfROnnuvnLU9goi9Ir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Jody Like a Melody",
+      "url": "https://open.spotify.com/track/6gvKVz8Jo1wqfSOncUppzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 247573,
+      "name": "(She Finally Crossed Over) Love's Cheatin' Line",
+      "url": "https://open.spotify.com/track/6cElDHmiZe35NUwCw1ALou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas Moon (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/49hbRaTI3j9gXhkQXxFhSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rough Rider",
+        "url": "https://open.spotify.com/album/7jnYqANbi5sSSCnBeUSfZg"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "Now I Lay Me Down to Cheat",
+      "url": "https://open.spotify.com/track/1gqUTY7qAR1tJhbL5BpG9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Got Something to Say",
+        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 122160,
+      "name": "I've Got Something to Say",
+      "url": "https://open.spotify.com/track/35R4WnuCkWEVIxa9fpR4TD"
     }
   ],
   "unique_name": "This Is David Allan Coe",

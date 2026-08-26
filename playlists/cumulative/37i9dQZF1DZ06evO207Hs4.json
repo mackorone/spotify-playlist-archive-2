@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Struggling Man",
+        "url": "https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "Better Days Are Coming",
+      "url": "https://open.spotify.com/track/6QQ0g7WvIUyXygp5kcPWrJ"
+    },
+    {
+      "album": {
         "name": "Goodbye Yesterday",
         "url": "https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 219466,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB"
@@ -208,7 +226,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 181773,
       "name": "Fundamental Reggay",
       "url": "https://open.spotify.com/track/2v3EzjkdxRom9XXd9Ew2d2"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 264933,
       "name": "Hot Shot",
       "url": "https://open.spotify.com/track/6Spf2fk9iQpuVLH94FVB60"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 185840,
       "name": "Let Your Yeah Be Yeah",
       "url": "https://open.spotify.com/track/0eOWjvKQunKXGy3eKmqwFn"
@@ -578,6 +596,24 @@
       "duration_ms": 216546,
       "name": "Love I Need",
       "url": "https://open.spotify.com/track/6lQc5Wmhr9DR1E37gzTSOU"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "Love Is All",
+      "url": "https://open.spotify.com/track/1jjpF8PJF9nkLVguKoW4Rb"
     },
     {
       "album": {
@@ -769,6 +805,24 @@
     },
     {
       "album": {
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311333,
+      "name": "Power and the Glory",
+      "url": "https://open.spotify.com/track/007reLkuOQhAJypiC5sVyX"
+    },
+    {
+      "album": {
         "name": "Hanging Fire",
         "url": "https://open.spotify.com/album/3f2XkrjIF5F5c1JPfcOl5n"
       },
@@ -805,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Reggae Night",
+      "url": "https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT"
+    },
+    {
+      "album": {
         "name": "The Power And The Glory",
         "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
       },
@@ -816,7 +888,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 320226,
       "name": "Reggae Night",
       "url": "https://open.spotify.com/track/42haGkGqdkjRMW4j0TC5Km"
@@ -834,7 +906,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 209400,
       "name": "Reggae Street",
       "url": "https://open.spotify.com/track/2lOw79S7zOpdo3aOJltFnR"
@@ -1014,7 +1086,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 212173,
       "name": "Shelter Of Your Love - Single Version",
       "url": "https://open.spotify.com/track/5I0uW8EgQSxLT8F596lwfB"
@@ -1104,7 +1176,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 230933,
       "name": "Special",
       "url": "https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g"
@@ -1140,7 +1212,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 207773,
       "name": "Struggling Man",
       "url": "https://open.spotify.com/track/4c6qeQX0bIejYckXYaz4gO"
@@ -1198,6 +1270,24 @@
       "duration_ms": 219906,
       "name": "The Harder They Come",
       "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
+    },
+    {
+      "album": {
+        "name": "We All Are One: The Best Of Jimmy Cliff",
+        "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260226,
+      "name": "Third World People",
+      "url": "https://open.spotify.com/track/18YWOKaDbNfw4BdJHnuASs"
     },
     {
       "album": {
@@ -1374,10 +1464,28 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
+    },
+    {
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "You Can Get It If You Really Want - Alternate Version",
+      "url": "https://open.spotify.com/track/0V7vqg4EA2rjxK55pdm1bS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO207Hs4"

@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capim Lim\u00e3o",
-  "num_followers": 156639,
+  "num_followers": 156649,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN94ouSwkgbvs8Bg/bXYa4BrwojE",
+  "snapshot_id": "AAAAAJu3J6IHbpjdOLRYomy8qoBLJW5v",
   "tracks": [
     {
       "added_at": "2026-08-21 03:03:09",
@@ -223,22 +223,18 @@
     {
       "added_at": "2026-08-21 03:03:09",
       "album": {
-        "name": "Feito rio (fora do leito)",
-        "url": "https://open.spotify.com/album/6CDyMipiu6aplxU5AqrtCw"
+        "name": "Anjo de Papel",
+        "url": "https://open.spotify.com/album/0gbWq0EYkoBXZZL1bvGGL3"
       },
       "artists": [
         {
-          "name": "O Teatro M\u00e1gico",
-          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
-        },
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+          "name": "Varanda",
+          "url": "https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk"
         }
       ],
-      "duration_ms": 280610,
-      "name": "Feito rio (fora do leito)",
-      "url": "https://open.spotify.com/track/2f3jJUaJG7Tli33vQluIhd"
+      "duration_ms": 197285,
+      "name": "Anjo de Papel",
+      "url": "https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X"
     },
     {
       "added_at": "2026-08-21 03:03:09",
@@ -259,18 +255,22 @@
     {
       "added_at": "2026-08-21 03:03:09",
       "album": {
-        "name": "Anjo de Papel",
-        "url": "https://open.spotify.com/album/0gbWq0EYkoBXZZL1bvGGL3"
+        "name": "Feito rio (fora do leito)",
+        "url": "https://open.spotify.com/album/6CDyMipiu6aplxU5AqrtCw"
       },
       "artists": [
         {
-          "name": "Varanda",
-          "url": "https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk"
+          "name": "O Teatro M\u00e1gico",
+          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+        },
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
         }
       ],
-      "duration_ms": 197285,
-      "name": "Anjo de Papel",
-      "url": "https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X"
+      "duration_ms": 280610,
+      "name": "Feito rio (fora do leito)",
+      "url": "https://open.spotify.com/track/2f3jJUaJG7Tli33vQluIhd"
     },
     {
       "added_at": "2026-08-21 03:03:09",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-21 03:03:09",
       "album": {
-        "name": "Quatro Cantos de Um Mundo Redondo",
-        "url": "https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB"
-      },
-      "artists": [
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
-        }
-      ],
-      "duration_ms": 208636,
-      "name": "Come\u00e7a Tudo Outra Vez",
-      "url": "https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN"
-    },
-    {
-      "added_at": "2026-08-21 03:03:09",
-      "album": {
         "name": "Pra Voc\u00ea Guardei o Amor",
         "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 299778,
       "name": "Pra Voc\u00ea Guardei o Amor",
       "url": "https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv"
+    },
+    {
+      "added_at": "2026-08-21 03:03:09",
+      "album": {
+        "name": "Quatro Cantos de Um Mundo Redondo",
+        "url": "https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 208636,
+      "name": "Come\u00e7a Tudo Outra Vez",
+      "url": "https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN"
     },
     {
       "added_at": "2026-08-21 03:03:09",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-08-21 03:03:09",
       "album": {
-        "name": "Power Trio",
-        "url": "https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR"
-      },
-      "artists": [
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "No Delta dos Rios",
-      "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
-    },
-    {
-      "added_at": "2026-08-21 03:03:09",
-      "album": {
         "name": "Quanto Tempo Demora Um M\u00eas",
         "url": "https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 210169,
       "name": "Quanto Tempo Demora Um M\u00eas",
       "url": "https://open.spotify.com/track/64kByFEamIW6sVECquQlRm"
+    },
+    {
+      "added_at": "2026-08-21 03:03:09",
+      "album": {
+        "name": "Power Trio",
+        "url": "https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "No Delta dos Rios",
+      "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
     },
     {
       "added_at": "2026-08-21 03:03:09",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-08-21 03:03:09",
       "album": {
+        "name": "Numas de Tapete Vermelho",
+        "url": "https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gabriel",
+          "url": "https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "duration_ms": 229564,
+      "name": "Numas de Tapete Vermelho",
+      "url": "https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04"
+    },
+    {
+      "added_at": "2026-08-21 03:03:09",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2BisEk7N65mjARu5LGS35W"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 243400,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/13kBXnr6HGyXQMA4pb7Q7T"
-    },
-    {
-      "added_at": "2026-08-21 03:03:09",
-      "album": {
-        "name": "Numas de Tapete Vermelho",
-        "url": "https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gabriel",
-          "url": "https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN"
-        },
-        {
-          "name": "Sonast\u00e9rio",
-          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
-        }
-      ],
-      "duration_ms": 229564,
-      "name": "Numas de Tapete Vermelho",
-      "url": "https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04"
     },
     {
       "added_at": "2026-08-21 03:03:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,102 likes - 100 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,133 likes - 100 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 35 | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/track/2sthMcGvt0sLw7sImcEPVL) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/album/7draBVSdExn7m8osrjm1q9) | 4:41 |
 | 36 | [New Used Car](https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [New Used Car](https://open.spotify.com/album/6UA7yjMQHFu7yw3RmEOkI8) | 3:47 |
 | 37 | [West L.a\. Fadeaway \- Live](https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [West L.A\. Fadeaway \(Live\)](https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy) | 12:51 |
-| 38 | [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
+| 38 | [Dyin' To Know \- Live](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
 | 39 | [Stoop Down Baby \- Live](https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad & Beautiful \- Live](https://open.spotify.com/album/6ndzdS57WqfMOkglqGMDDp) | 5:50 |
 | 40 | [Everyday I Have The Blues \- Live At San Quentin Prison, 1990](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 |
 | 41 | [Woman Like You \- Live](https://open.spotify.com/track/0T6JNuBGbmRWizQ6Vdcchz) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Woman Like You \(Live\)](https://open.spotify.com/album/1msthZSXHGScgsBHkPQV1p) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 99 | [Keep On Growing \- Live](https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Keep On Growing \(Live\)](https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84) | 10:50 |
 | 100 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `AAAAAPlpwWNy6W/84zmhtV9Ex841PPCr`
+Snapshot ID: `AAAAAN7qQF3sdg77PfDoRoiv6sNY7+an`

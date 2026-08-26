@@ -14113,6 +14113,24 @@
     },
     {
       "album": {
+        "name": "Fragile Fantasy",
+        "url": "https://open.spotify.com/album/4hQ4Q10iWMfRCXhHI9gUNw"
+      },
+      "artists": [
+        {
+          "name": "Ekpra",
+          "url": "https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246414,
+      "name": "Fragile Fantasy",
+      "url": "https://open.spotify.com/track/03ZqzUxLxUcDu6mfGz3FCu"
+    },
+    {
+      "album": {
         "name": "Echoes of Tomorrow",
         "url": "https://open.spotify.com/album/00NEKdR6p91zs5Q5VHUTT9"
       },

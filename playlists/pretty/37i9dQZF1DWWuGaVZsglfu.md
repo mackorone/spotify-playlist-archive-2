@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: eńau, Ari Lesmana
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,280 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,242 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 49 | [G.O.A.T](https://open.spotify.com/track/6z0toyvHVeEXP9VI64Hmwm) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ) | [G.O.A.T](https://open.spotify.com/album/43OZ9Jt6YvcdU0yHJOHrDg) | 2:26 |
 | 50 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
 
-Snapshot ID: `AAAAAGGjDGer1M4n+PjqgZZMNQafcUgz`
+Snapshot ID: `AAAAACuEE7nYXOdmvbR1OXkoBJxHxSUp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,977 likes - 49 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,061 likes - 49 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 5 | [Sentença Pronta \- Ao Vivo](https://open.spotify.com/track/5gqAVYwZfCYQVa0wPKPwu4) | [Larissa Pires](https://open.spotify.com/artist/5kubUHpl6KW4BvklLZa3nP), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sentença Pronta \(Ao Vivo\)](https://open.spotify.com/album/4o6ugEdKQ2wnJh2rZ5fFFd) | 7:47 |
 | 6 | [Eu Creio em Deus \(Ao Vivo\)](https://open.spotify.com/track/04YIUKP8wjuLPFAkClJizL) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Eu Creio em Deus \(Ao Vivo\)](https://open.spotify.com/album/4BlUEO0f1ZbDOkipT6gT2I) | 3:30 |
 | 7 | [Mais do que Cantar \- Ao Vivo](https://open.spotify.com/track/36tCsZ3d4eRksmOEhWzQlJ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [O Céu É o Meu Lar \(Ao Vivo\)](https://open.spotify.com/album/3NRVpQ0qlPEoMGj5I3fOfB) | 7:17 |
-| 8 | [Canção de Moisés](https://open.spotify.com/track/1e9K626LI5UKPGqAeIsogq) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g) | [Sim e Amém](https://open.spotify.com/album/3jXHbvOx6K7TMyIxnpDmbG) | 5:27 |
+| 8 | [Canção de Moisés](https://open.spotify.com/track/1e9K626LI5UKPGqAeIsogq) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb) | [Sim e Amém](https://open.spotify.com/album/3jXHbvOx6K7TMyIxnpDmbG) | 5:27 |
 | 9 | [Onde Estás](https://open.spotify.com/track/70WBzLZoBdGCPToRclB51T) | [Douglas Borges](https://open.spotify.com/artist/6GaVicTE93qggdykao6puC), [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Onde Estás](https://open.spotify.com/album/4Rc8EsnkqTTMSamQmrrRvr) | 10:14 |
 | 10 | [Salmos 126](https://open.spotify.com/track/54KatL2KNQbsrCqnG6FHRk) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Paixão & Devoção Vol\. 3](https://open.spotify.com/album/6d0rTbb20X0GF1XnqYLVEj) | 3:05 |
 | 11 | [Magnificado](https://open.spotify.com/track/5ynsIIPwoyBJcJVWMdcIMP) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs), [A COMUNHÃO](https://open.spotify.com/artist/5tlU9rKQJPXyfGGnDrtizI), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Magnificado \(A Comunhão \- Um Projeto Louvor Eterno\)](https://open.spotify.com/album/14qZdMWFuPIrYB1JDuE0H8) | 5:44 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Espelho](https://open.spotify.com/track/5XmeZzlMKtOd9dOfLpqDY1) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Espelho](https://open.spotify.com/album/3BzesyNkmHObHIIOKuBMAN) | 3:57 |
 | 49 | [Estou Te Esperando \(Ao Vivo\)](https://open.spotify.com/track/0ZJAbUoRb2yCL9nWuA9G7U) | [Jonata Cabral](https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp) | [Estou Te Esperando \(Ao Vivo\)](https://open.spotify.com/album/3aXICAnXXEGrUi1evWbiwz) | 5:24 |
 
-Snapshot ID: `AAAAAOZPbIL9x/4IHIwd/aT1laC2zcQp`
+Snapshot ID: `AAAAAITNFabNhwnfql6SEsv7pb8bQT+Q`

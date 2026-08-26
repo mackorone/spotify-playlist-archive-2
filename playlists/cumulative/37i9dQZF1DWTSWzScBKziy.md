@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Anne Wilson
 
-1,520 songs - 3 day 21 hr 12 min
+1,521 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Daylight \- feat\. Britt Nicole](https://open.spotify.com/track/0JP70dJTRPx1RPI7EG1Jsf) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Daylight \(feat\. Britt Nicole\)](https://open.spotify.com/album/1CFciW1V4wy7VmHwwwIbsx) | 3:00 | 2024-11-29 | 2025-02-08 |
 | [Days God Gave](https://open.spotify.com/track/3rjJSnrmEtZTEr9AdRoMfZ) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Days God Gave](https://open.spotify.com/album/72PudhF4u5ROBYEekDjjHt) | 3:09 | 2025-09-14 | 2025-11-16 |
 | [Dead and Gone](https://open.spotify.com/track/0ANfiqlF0EdKUB0LSgwD6v) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Dead and Gone](https://open.spotify.com/album/7mQl1PWg8Ok5aQagggiUWn) | 3:27 | 2026-06-19 | 2026-07-18 |
+| [DEAD IN THE WATER](https://open.spotify.com/track/7EVdKmLwyM7EaoztxoZzOU) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [DEAD IN THE WATER](https://open.spotify.com/album/6MbOzUTYBPzcKFym4mStnG) | 3:49 | 2026-08-21 |  |
 | [Deal With the Devil](https://open.spotify.com/track/1vLiRGMXr3ogfUK9PNaBYv) | [Noah Baker](https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx) | [The Art of Losing It All](https://open.spotify.com/album/5DCQNWSvTIqn64zCpCGqw6) | 2:34 | 2025-06-06 | 2025-07-20 |
 | [Dear Jesus](https://open.spotify.com/track/669PG7je3XBT9PP7POGGiW) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/32xd5BR4HpHJhlyJ4OfENw) | 3:26 | 2025-12-06 | 2026-02-21 |
 | [DEEP](https://open.spotify.com/track/0THcqMeQa1NSviF64C5NG5) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [THROWING PAINT](https://open.spotify.com/album/4LIjsirtkdowvJezJBwCOy) | 3:51 | 2025-09-14 | 2025-11-16 |
@@ -656,7 +657,7 @@
 | [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 | 2022-10-29 | 2024-04-19 |
 | [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-10-29 | 2022-11-07 |
 | [ily anyway](https://open.spotify.com/track/2XCUTNsevyCzQEHjH0t6f9) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [ily anyway](https://open.spotify.com/album/48urOeRPiRS1VLch1aFyGD) | 3:05 | 2026-02-07 | 2026-03-22 |
-| [In A Little Bit](https://open.spotify.com/track/1F3Fdvm2JuazlTUe24wVPj) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [In A Little Bit](https://open.spotify.com/album/3EqyfB3y4QclkVZpoLZNFp) | 3:42 | 2026-08-21 |  |
+| [In A Little Bit](https://open.spotify.com/track/1F3Fdvm2JuazlTUe24wVPj) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [In A Little Bit](https://open.spotify.com/album/3EqyfB3y4QclkVZpoLZNFp) | 3:42 | 2026-08-21 | 2026-08-26 |
 | [In All, Sustain All](https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK), [The Salvation Choir](https://open.spotify.com/artist/7o3Mxe4noHEYVdsT0qhf1K) | [In All, Sustain All](https://open.spotify.com/album/1djdIpT6t3oHuZrzQ4gMUN) | 4:14 | 2026-05-01 | 2026-07-04 |
 | [In Good Hands](https://open.spotify.com/track/2nzJmPNJj4Wki8xmdAOWhK) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [In Good Hands](https://open.spotify.com/album/78YcAcIlPislZ3egxPnPOt) | 4:10 | 2022-10-29 | 2024-01-31 |
 | [In My Reach](https://open.spotify.com/track/0OXTo7I3IlbYDJxwaUj635) | [Island Tribe Collective](https://open.spotify.com/artist/4OWWKBlYzeviqQ5HmDkJzY), [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [In My Reach](https://open.spotify.com/album/1xirdcC5LNmm06VFqsjTR7) | 7:34 | 2026-07-17 | 2026-08-08 |

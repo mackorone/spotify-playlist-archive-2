@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,176 likes - 280 songs - 15 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,171 likes - 280 songs - 15 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 | 138 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 | 139 | [O.K., Meet Me Underwater](https://open.spotify.com/track/57GHcWW3gBNP4ZYeu7UJaM) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Pirouette](https://open.spotify.com/album/7zzHe18bd1ilvmhdcSMd20) | 3:00 |
 | 140 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
-| 141 | [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 |
+| 141 | [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 |
 | 142 | [Tiebreaker](https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:59 |
 | 143 | [It's Christmas](https://open.spotify.com/track/7iOAYAGme9356sxada3enx) | [Carl Coccomo](https://open.spotify.com/artist/17dngxVHyVylrXGg4aJYuk) | [The Singing Sicilian Is Back, Baby!](https://open.spotify.com/album/12On4Jys2h0jMfYcgEuX5S) | 2:53 |
 | 144 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 | 279 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 |
 | 280 | [Laurel and Susannah Hug](https://open.spotify.com/track/7I8LpR7hOSY1i7ximwIKS5) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [The Summer I Turned Pretty: Season 1 \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5uAzefaTa85YBHL6N5u2O1) | 1:13 |
 
-Snapshot ID: `AAAAALmY4YwwG7ZEUGCOmjU6tUMYUcpW`
+Snapshot ID: `AAAAAF2fyUnn8PDDrqzt5mglvyMeS0kN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,041 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,105 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 60 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 |
 | 61 | [Tengo la Primicia](https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 2:58 |
 | 62 | [Conmigo Te Gustó](https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:13 |
-| 63 | [Cuando Sea Conmigo](https://open.spotify.com/track/4FeIKd4S3ihhzlYorunZfs) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Quintana Musik](https://open.spotify.com/artist/5SGinZXSIoY7elh3aNVqKu) | [Cuando Sea Conmigo](https://open.spotify.com/album/7dZ5MenVbYqobkijuz0uFf) | 3:20 |
-| 64 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
+| 63 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
+| 64 | [Cuando Sea Conmigo](https://open.spotify.com/track/4FeIKd4S3ihhzlYorunZfs) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Quintana Musik](https://open.spotify.com/artist/5SGinZXSIoY7elh3aNVqKu) | [Cuando Sea Conmigo](https://open.spotify.com/album/7dZ5MenVbYqobkijuz0uFf) | 3:20 |
 | 65 | [No Te Vayas](https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Te Vayas](https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu) | 2:19 |
 | 66 | [Lo Mismo Que A Mí](https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Lo Mismo Que A Mí](https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6) | 3:06 |
 | 67 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 81 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 |
 | 82 | [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 |
 | 83 | [A PRUEBA DE BALAS](https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [A PRUEBA DE BALAS](https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L) | 2:42 |
-| 84 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 |
-| 85 | [Berretines de Verduga](https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Con Síndrome de Abstinencia](https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ) | 2:56 |
-| 86 | [Comadre Compadre](https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr) | [Los Fatales](https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu) | [Revolución Fatal](https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd) | 4:30 |
+| 84 | [Comadre Compadre](https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr) | [Los Fatales](https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu) | [Revolución Fatal](https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd) | 4:30 |
+| 85 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 |
+| 86 | [Berretines de Verduga](https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Con Síndrome de Abstinencia](https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ) | 2:56 |
 | 87 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 |
 | 88 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
 | 89 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 99 | [Coincidir](https://open.spotify.com/track/6lUAXi3L4SzK1bTym888wq) | [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu) | [Coincidir](https://open.spotify.com/album/58A9uzDueUBguOapq4kmtN) | 2:01 |
 | 100 | [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 |
 
-Snapshot ID: `AAAAAFiSclC6EfeWYUtjCL5EWi0V8GGM`
+Snapshot ID: `AAAAAC8bNtCTCgaoEaahqsAwajNVsAkq`

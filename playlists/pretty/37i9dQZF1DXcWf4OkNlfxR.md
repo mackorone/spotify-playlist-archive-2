@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWf4OkNlfxR.md) - [plain]
 
 > The Official Setlist for the Harry Styles \| Together, Together Tour
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,112 likes - 21 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,438 likes - 21 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWf4OkNlfxR.md) - [plain]
 | 20 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 21 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
 
-Snapshot ID: `AAAAANVTMYZR0CNrbLCygWmliFWALeEq`
+Snapshot ID: `AAAAAHrAKIsRZXpEs73AmbRH6698y27m`

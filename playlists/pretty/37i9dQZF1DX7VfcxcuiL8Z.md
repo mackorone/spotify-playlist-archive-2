@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Gang of Youths
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,286 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,291 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Sound Of The Stereo](https://open.spotify.com/track/0Pb3JN5OE1PR2UUVOYTqh7) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [Sound Of The Stereo](https://open.spotify.com/album/31hGVyeUhTbuf32K0oxZ3Y) | 3:23 |
 | 80 | [Rattle The Cage](https://open.spotify.com/track/3btjsK6AnfPZjAYnqy54gB) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Rattle The Cage](https://open.spotify.com/album/5hbtrsOIA000ijlL7vzGdU) | 3:54 |
 
-Snapshot ID: `AAAAANQcN9I/bv1ybeAGp7jTc1lLl63A`
+Snapshot ID: `AAAAAFnTSV0gLEWbVnC0qdcxzmn2bw6k`

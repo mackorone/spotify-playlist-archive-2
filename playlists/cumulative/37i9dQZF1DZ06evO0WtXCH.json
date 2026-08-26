@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Can Opener",
+      "url": "https://open.spotify.com/track/2xU47DIlAwcd3XV2Naw5Xs"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 169333,
       "name": "Clean Slate",
       "url": "https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 104840,
       "name": "Divorce",
       "url": "https://open.spotify.com/track/6sOB7Q3V0k6mJBv6wPe4NN"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 193333,
       "name": "Fazer",
       "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 152933,
       "name": "Lie And Wait",
       "url": "https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp"
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146226,
+      "name": "Omission",
+      "url": "https://open.spotify.com/track/272gzjFWqRDs9kZLzKZa21"
+    },
+    {
+      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
       },
@@ -824,7 +860,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 153226,
       "name": "Omission",
       "url": "https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0"
@@ -896,7 +932,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 155066,
       "name": "Simpleton",
       "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
@@ -914,7 +950,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Skinny (It's Overflowing)",
       "url": "https://open.spotify.com/track/5rXtZxzaKjc518TIMF2x0y"
@@ -932,7 +968,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 141666,
       "name": "Slip",
       "url": "https://open.spotify.com/track/4Z3zmjixkCoawWXC4IbBan"
@@ -1076,7 +1112,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 156693,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
@@ -1112,7 +1148,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 203306,
       "name": "Unfulfilled",
       "url": "https://open.spotify.com/track/7lfcap6innWNBNfdDS3WYb"

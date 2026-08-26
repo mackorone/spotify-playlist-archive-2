@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 73902,
+  "num_followers": 73923,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVxv4F3cSyewmZQs48GdGwJYZx0",
+  "snapshot_id": "AAAAAMpptYm0I+gU6vYzrj3G+TwWlslM",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:45",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-08-07 04:00:45",
       "album": {
-        "name": "Bach: French Suites, BWV 812-817",
-        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 126602,
-      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
-      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
-    },
-    {
-      "added_at": "2026-08-07 04:00:45",
-      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 236120,
       "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
       "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
+    },
+    {
+      "added_at": "2026-08-07 04:00:45",
+      "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
     },
     {
       "added_at": "2026-08-07 04:00:45",
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
         }
       ],
-      "duration_ms": 144280,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
-      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
+      "duration_ms": 227346,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: IV. Gavotte",
+      "url": "https://open.spotify.com/track/2DRI7n3nCVuerUVIJFKUCw"
     },
     {
       "added_at": "2026-08-07 04:00:45",
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
         }
       ],
-      "duration_ms": 227346,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: IV. Gavotte",
-      "url": "https://open.spotify.com/track/2DRI7n3nCVuerUVIJFKUCw"
+      "duration_ms": 144280,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
+      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
     },
     {
       "added_at": "2026-08-07 04:00:45",
@@ -683,30 +683,6 @@
       "duration_ms": 430893,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
       "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
-    },
-    {
-      "added_at": "2026-08-07 04:00:45",
-      "album": {
-        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
-        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "David Fray",
-          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
-        },
-        {
-          "name": "The Deutsche Kammerphilharmonie Bremen",
-          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
-        }
-      ],
-      "duration_ms": 483600,
-      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
-      "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
     },
     {
       "added_at": "2026-08-07 04:00:45",
@@ -775,6 +751,30 @@
       "duration_ms": 233600,
       "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
       "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
+    },
+    {
+      "added_at": "2026-08-07 04:00:45",
+      "album": {
+        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
+        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
+        },
+        {
+          "name": "The Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        }
+      ],
+      "duration_ms": 483600,
+      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
+      "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
     },
     {
       "added_at": "2026-08-07 04:00:45",

@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 79701,
+  "num_followers": 79716,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyqau7NG7L+OjBKro5dGZDxpx+I",
+  "snapshot_id": "AAAAAP7kDsEN0Z9jj8Gyoo9j4BAH+0bW",
   "tracks": [
     {
       "added_at": "2026-01-15 21:43:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Just Like Leaving",
-        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Just Like Leaving",
-      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 256146,
       "name": "Love Is A Wild Thing",
       "url": "https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Just Like Leaving",
+        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Just Like Leaving",
+      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
     },
     {
       "added_at": "2026-05-28 17:49:50",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Orchestra for the Moon",
-        "url": "https://open.spotify.com/album/5gNUWbKtTbrPzE860LaTly"
-      },
-      "artists": [
-        {
-          "name": "Jenn Grant",
-          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/7FHrMR2i0qZg2C8RJXf8ax"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Only Pieces of the Truth",
         "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 261788,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Orchestra for the Moon",
+        "url": "https://open.spotify.com/album/5gNUWbKtTbrPzE860LaTly"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/7FHrMR2i0qZg2C8RJXf8ax"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189722,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 183626,
       "name": "We Can't Be Tamed",
       "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k"
     },
     {
       "added_at": "2025-08-07 17:51:17",

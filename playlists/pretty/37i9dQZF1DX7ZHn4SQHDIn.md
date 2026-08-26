@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,519 likes - 145 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,502 likes - 145 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 27 | [Locked N Loaded](https://open.spotify.com/track/6rNdRe4CtWqhz9ZYRnNJIC) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:25 |
 | 28 | [Promise](https://open.spotify.com/track/2EXtDGBkytLHRzAGYQp8uc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 3:44 |
 | 29 | [Walk](https://open.spotify.com/track/5VQAX1A0GPpk686XwQmg5H) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:55 |
-| 30 | [Girls Will Be Girls \(English Ver.\)](https://open.spotify.com/track/1tg9NRakBBe7mMsNPwjIZK) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:47 |
-| 31 | [Girls Will Be Girls \(Tech House Remix\)](https://open.spotify.com/track/3moMYdAwr3Kd7gm9RUHf3R) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:46 |
-| 32 | [Girls Will Be Girls \(EDM Remix\)](https://open.spotify.com/track/65Rzd5A0RrJuB9YfLtftLL) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:35 |
-| 33 | [Girls Will Be Girls \(Rock Remix\)](https://open.spotify.com/track/4iKAWtEPSuXiVTPCzlemW2) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:27 |
+| 30 | [Girls Will Be Girls \- English Ver.](https://open.spotify.com/track/1tg9NRakBBe7mMsNPwjIZK) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:47 |
+| 31 | [Girls Will Be Girls \- Tech House Remix](https://open.spotify.com/track/3moMYdAwr3Kd7gm9RUHf3R) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:46 |
+| 32 | [Girls Will Be Girls \- EDM Remix](https://open.spotify.com/track/65Rzd5A0RrJuB9YfLtftLL) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:35 |
+| 33 | [Girls Will Be Girls \- Rock Remix](https://open.spotify.com/track/4iKAWtEPSuXiVTPCzlemW2) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:27 |
 | 34 | [One Day](https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Ms\. Incognito, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/60T71YohZmrn0ibsHHFc8W) | 3:29 |
 | 35 | [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 |
 | 36 | [Why Not](https://open.spotify.com/track/3UglLo3ovkcEgGgOqIL6xb) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\)](https://open.spotify.com/album/1uIS3JdcmAvXplOIQGSFKK) | 2:58 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 144 | [WANT IT? \- Imad Royal Remix](https://open.spotify.com/track/56g54pCBLSGyjhAviQ6WWY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:27 |
 | 145 | [WANT IT?](https://open.spotify.com/track/2DvBbpZ9MjOQZs2HtN5Ake) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) | 3:20 |
 
-Snapshot ID: `AAAAANY1pYINlHG8DvlW2Ua5NcovFDUn`
+Snapshot ID: `AAAAAEQQ0T1KTQ3QQCcekAMwIKVAbSBj`

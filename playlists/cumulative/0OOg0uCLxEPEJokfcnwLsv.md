@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-629 songs - 1 day 14 hr 53 min
+633 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 | 2026-03-14 | 2026-04-20 |
 | [BAD GAME](https://open.spotify.com/track/7KwBjKoOlcjY1gl2rEVfpA) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BENNINGTON STREET](https://open.spotify.com/album/5Ggf3woWQiwf74Ls5vjnw6) | 4:14 | 2026-06-02 | 2026-08-08 |
 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 | 2026-03-27 | 2026-04-20 |
+| [BAIT](https://open.spotify.com/track/2uVSAVSODR0UyYzIZG9AY7) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [BAIT](https://open.spotify.com/album/0HkWj6I4OOaAfAHuIciqBS) | 3:49 | 2026-08-26 |  |
 | [Balla da solo](https://open.spotify.com/track/5i2OJvqlBWWuBNC3FTqOPM) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Balla da solo](https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA) | 3:20 | 2026-07-23 | 2026-08-25 |
 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 | 2026-01-28 | 2026-02-18 |
 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-06-03 | 2026-08-08 |
@@ -79,6 +80,7 @@
 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 | 2026-03-24 | 2026-04-20 |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 | 2025-11-22 |
 | [Bittersweet Coming Of Age](https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Bittersweet Coming Of Age](https://open.spotify.com/album/2ExvwN1euXuTvZaUH2I7gB) | 3:14 | 2026-08-18 |  |
+| [Black Dress](https://open.spotify.com/track/4TYbC3ZCjA5tXAhClm0yUT) | [Jillian Ann](https://open.spotify.com/artist/4fUrsaEHtekVVwgtwHC7YA) | [When All is Said and Done](https://open.spotify.com/album/2cYhf6h2XPwRbUhiyeb4du) | 5:59 | 2026-08-26 |  |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 | 2026-01-05 |
 | [Black Fruit No\. 2](https://open.spotify.com/track/3XZWRUFdjhhVIQviLZvPe7) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Black Fruit No\. 2](https://open.spotify.com/album/0lLLS72NE9M0msnI5PcfUS) | 3:57 | 2026-07-20 | 2026-08-25 |
 | [Black River](https://open.spotify.com/track/1hLyYuATe5bQT3ewKkx8U7) | [The Striders](https://open.spotify.com/artist/4uKcXXOfxVESSegXxJA6YA) | [Black River](https://open.spotify.com/album/4g5xvsC4cPWFqzBgJqu1ZF) | 5:06 | 2026-01-29 | 2026-02-23 |
@@ -557,6 +559,7 @@
 | [This Machine](https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 5:10 | 2026-01-27 | 2026-02-23 |
 | [This Must Be the Place](https://open.spotify.com/track/4eqKratMzpnemwh6pcjfbW) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:54 | 2025-11-21 | 2026-02-04 |
 | [thought ya do](https://open.spotify.com/track/7gvfCu73H2PTccxVNK6Xtn) | [Dylan Sherry](https://open.spotify.com/artist/47SpsruvmDVLTAuRZqAEMH) | [Infrequencies](https://open.spotify.com/album/4UocYoi60pviXOv5jwzuOX) | 3:20 | 2025-11-04 | 2025-11-22 |
+| [Three Monkey Song](https://open.spotify.com/track/2noQ7yK0sfWuIJC8gbf2PQ) | [Sivan Langer](https://open.spotify.com/artist/7ckVHLOYWQRV09kEoLOiqD) | [Rough Mix](https://open.spotify.com/album/1Ze45BUNg2nH2rjysEeirm) | 2:25 | 2026-08-26 |  |
 | [Tic toc](https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Tic toc](https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko) | 2:34 | 2026-02-09 | 2026-03-04 |
 | [Tiempo](https://open.spotify.com/track/5Zn0k9u2eiNpmXsB3ifoqn) | [SATVRNO](https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn) | [Tiempo](https://open.spotify.com/album/1boe137xgCDHPos7RCNFXy) | 3:41 | 2026-01-11 | 2026-02-04 |
 | [Time](https://open.spotify.com/track/2hBxN7mxucA30ccsF4N4kU) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Time](https://open.spotify.com/album/6c9xrA8wqpxuHRr9Q6nL3W) | 4:24 | 2026-02-04 | 2026-02-23 |
@@ -579,6 +582,7 @@
 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-11-11 | 2025-12-12 |
 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 | 2026-03-31 | 2026-04-20 |
 | [Uncrumpled](https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 2:24 | 2026-05-07 | 2026-05-26 |
+| [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 | 2026-08-26 |  |
 | [Unforgiven Ghosts](https://open.spotify.com/track/0k76GGJSrK4Mvf21WJnTzQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Serendipitous Ruse \(Deluxe\)](https://open.spotify.com/album/4RHX1QDINQsvXt2NAoqaOS) | 3:24 | 2025-10-31 | 2025-11-22 |
 | [UNITED](https://open.spotify.com/track/4qpFehbPX0sdg7UgxB2na7) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:47 | 2025-11-26 | 2026-01-05 |
 | [United](https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [United](https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s) | 4:02 | 2026-07-23 | 2026-08-25 |

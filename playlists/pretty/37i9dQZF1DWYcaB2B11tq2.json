@@ -1,49 +1,13 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 520080,
+  "num_followers": 520190,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACsSdKlP/D9WH68Pa9C8rT38OmnF",
+  "snapshot_id": "AAAAAN1y9RoSuU1qCy9D8OCDTmyTSOsG",
   "tracks": [
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Mas Que Un Anhelo",
-        "url": "https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        },
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Dame Tus Ojos",
-      "url": "https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Mas Que Un Anhelo",
-        "url": "https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 291466,
-      "name": "Supe Que Me Amabas",
-      "url": "https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON"
-    },
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
@@ -63,18 +27,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Colecci\u00f3n Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/2kAZv7zHLq2y0YyCylgnoo"
+        "name": "Mas Que Un Anhelo",
+        "url": "https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
         }
       ],
-      "duration_ms": 327653,
-      "name": "Sum\u00e9rgeme",
-      "url": "https://open.spotify.com/track/6Z31l856yEwyJqSBe3qLZ4"
+      "duration_ms": 291466,
+      "name": "Supe Que Me Amabas",
+      "url": "https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -99,18 +63,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+        "name": "Colecci\u00f3n Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/2kAZv7zHLq2y0YyCylgnoo"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+      "duration_ms": 327653,
+      "name": "Sum\u00e9rgeme",
+      "url": "https://open.spotify.com/track/6Z31l856yEwyJqSBe3qLZ4"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -127,6 +91,42 @@
       "duration_ms": 261213,
       "name": "Suelto",
       "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Mas Que Un Anhelo",
+        "url": "https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Dame Tus Ojos",
+      "url": "https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Laberinto",
+        "url": "https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE"
+      },
+      "artists": [
+        {
+          "name": "Veinte Veinte",
+          "url": "https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf"
+        }
+      ],
+      "duration_ms": 271178,
+      "name": "Cara a Cara",
+      "url": "https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Laberinto",
-        "url": "https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE"
-      },
-      "artists": [
-        {
-          "name": "Veinte Veinte",
-          "url": "https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf"
-        }
-      ],
-      "duration_ms": 271178,
-      "name": "Cara a Cara",
-      "url": "https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Agnus Dei",
-        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
-      },
-      "artists": [
-        {
-          "name": "Salida 7",
-          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
-        }
-      ],
-      "duration_ms": 229176,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "SEU Worship HOLA",
         "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 369420,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Agnus Dei",
+        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
+      },
+      "artists": [
+        {
+          "name": "Salida 7",
+          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
+        }
+      ],
+      "duration_ms": 229176,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
       },
       "artists": [
         {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
+      "duration_ms": 310961,
+      "name": "Alaba A Dios",
+      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
       },
       "artists": [
         {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 310961,
-      "name": "Alaba A Dios",
-      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "La Sunamita",
-        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
       },
       "artists": [
         {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        },
-        {
-          "name": "Alex Marquez Oficial",
-          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 773909,
-      "name": "La Sunamita",
-      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
+      "duration_ms": 240483,
+      "name": "Himno De Victoria",
+      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+        "name": "La Sunamita",
+        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
       },
       "artists": [
         {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
         }
       ],
-      "duration_ms": 240483,
-      "name": "Himno De Victoria",
-      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
+      "duration_ms": 773909,
+      "name": "La Sunamita",
+      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Voy A Profetizar",
+        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 284238,
+      "name": "El Rey Te Mand\u00f3 Llamar",
+      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Voy A Profetizar",
-        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "El Rey Te Mand\u00f3 Llamar",
-      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Ganas de Vivir",
         "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 237146,
       "name": "Ganas de Vivir",
       "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Bella Shmurda ",
-  "num_followers": 154091,
+  "num_followers": 154237,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANgxCqCb0Stp/oyzavcTnLg0IM0o",
+  "snapshot_id": "AAAAADahBeW8/0FggsGP450kzyXYEtH2",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:46",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-08-21 00:01:46",
       "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+    },
+    {
+      "added_at": "2026-08-21 00:01:46",
+      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 139285,
       "name": "Ijoba",
       "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
-    },
-    {
-      "added_at": "2026-08-21 00:01:46",
-      "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-08-21 00:01:46",
@@ -939,22 +939,22 @@
     {
       "added_at": "2026-08-21 00:01:46",
       "album": {
-        "name": "Richard Mille",
-        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
         {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 171707,
-      "name": "Richard Mille",
-      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
+      "duration_ms": 140240,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
     },
     {
       "added_at": "2026-08-21 00:01:46",
@@ -975,22 +975,22 @@
     {
       "added_at": "2026-08-21 00:01:46",
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "Richard Mille",
+        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 140240,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
+      "duration_ms": 171707,
+      "name": "Richard Mille",
+      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
     },
     {
       "added_at": "2026-08-21 00:01:46",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-08-21 00:01:46",
       "album": {
-        "name": "Kilometer II",
-        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 123185,
-      "name": "Kilogram",
-      "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
-    },
-    {
-      "added_at": "2026-08-21 00:01:46",
-      "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 211525,
       "name": "Kowope",
       "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
+    },
+    {
+      "added_at": "2026-08-21 00:01:46",
+      "album": {
+        "name": "Kilometer II",
+        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 123185,
+      "name": "Kilogram",
+      "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
     }
   ],
   "unique_name": "Street Energy ",

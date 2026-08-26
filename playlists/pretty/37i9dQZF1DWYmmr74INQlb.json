@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: D'Angelo",
-  "num_followers": 4811373,
+  "num_followers": 4811316,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAJp5ehMOyuu6ENOQ5vxV62s4ya3",
+  "snapshot_id": "AAAAAMfMk7kEOx8wQyx9/W4MRS2N7Q+a",
   "tracks": [
     {
       "added_at": "2025-10-15 03:50:15",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Intuition",
@@ -979,6 +963,22 @@
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Evolution of Robin Thicke",
-        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
-      },
-      "artists": [
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Lost Without U",
-      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Your Woman",
@@ -1139,6 +1123,22 @@
       "duration_ms": 295826,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "The Evolution of Robin Thicke",
+        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 254146,
+      "name": "Lost Without U",
+      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1220,13 +1220,13 @@
           "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         },
         {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Say Aah (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
+      "duration_ms": 247933,
+      "name": "I Invented Sex (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1308,13 +1308,13 @@
           "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         }
       ],
-      "duration_ms": 247933,
-      "name": "I Invented Sex (feat. Drake)",
-      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
+      "duration_ms": 207546,
+      "name": "Say Aah (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
     },
     {
       "added_at": "2024-11-15 03:47:13",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "The Evolution",
-        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Because Of You",
@@ -1411,6 +1395,22 @@
       "duration_ms": 228266,
       "name": "Do You",
       "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "The Evolution",
+        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1485,38 +1485,6 @@
       "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 327693,
-      "name": "I Should Have Cheated",
-      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
-    },
-    {
-      "added_at": "2024-11-15 03:47:13",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Cater 2 U",
-      "url": "https://open.spotify.com/track/6uYAPqxP69zfpCbsTHXgiz"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Southside",
@@ -1537,6 +1505,38 @@
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
     },
     {
+      "added_at": "2024-11-15 03:47:13",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cater 2 U",
+      "url": "https://open.spotify.com/track/6uYAPqxP69zfpCbsTHXgiz"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 327693,
+      "name": "I Should Have Cheated",
+      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "After The Storm",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Ghetto Love",
         "url": "https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 263866,
       "name": "Just in Case",
       "url": "https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2023-09-14 14:32:45",

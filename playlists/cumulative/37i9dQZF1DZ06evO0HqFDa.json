@@ -994,6 +994,24 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142464,
+      "name": "Queen's Landing",
+      "url": "https://open.spotify.com/track/11fiDS4yUrCo0dQA4HwuGy"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 3 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/6seVyaHqO605uSpXoFpamn"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 269200,
       "name": "You Are No Son of Mine",
       "url": "https://open.spotify.com/track/2YOy1e7sBLXi5DL2klc9Nv"

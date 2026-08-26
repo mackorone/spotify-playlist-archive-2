@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 551,
+  "num_followers": 554,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACGbYZPoY6Bk5EN172ZQFhdnXQ+iWJ",
+  "snapshot_id": "AAACG4PkX36l7QGk0MaZkmAtVxKqQNSK",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -939,6 +939,38 @@
       "duration_ms": 221000,
       "name": "Revoluci\u00f3n Silenciosa",
       "url": "https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD"
+    },
+    {
+      "added_at": "2026-08-26 00:11:07",
+      "album": {
+        "name": "knocked -down/-out",
+        "url": "https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 256642,
+      "name": "knocked -down/-out",
+      "url": "https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC"
+    },
+    {
+      "added_at": "2026-08-26 00:14:58",
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/40vDrrYPKoNHVbqNzjPyvT"
+      },
+      "artists": [
+        {
+          "name": "Amber Elara",
+          "url": "https://open.spotify.com/artist/7bu9U2hCgdooaao3ukguFW"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/084dZY5tSg1EZcMmdQWKeK"
     }
   ],
   "unique_name": "Local Rock Bands",

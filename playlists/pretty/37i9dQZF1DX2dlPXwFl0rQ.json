@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Las Mar\u00edas en portada \ud83d\udd25",
-  "num_followers": 10516,
+  "num_followers": 10546,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1z3ZKTWcQETowInnHWg7LR15gr",
+  "snapshot_id": "AAAAAGSTl3ySJGD7BbRqdvgCDDJ6hWPO",
   "tracks": [
     {
       "added_at": "2026-05-01 06:01:01",
@@ -21,7 +21,7 @@
         }
       ],
       "duration_ms": 224464,
-      "name": "Una Palomita (En Vivo)",
+      "name": "Una Palomita - En Vivo",
       "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
     },
     {
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/2pHBf1JT1yv1shEwADmryw"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 153253,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/2EJtZFG7Wge8koHgxGvJPk"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
-        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
-      },
-      "artists": [
-        {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
-        }
-      ],
-      "duration_ms": 529000,
-      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Promesas No",
-        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
       },
       "artists": [
         {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 206213,
-      "name": "Es Cosa De El",
-      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Todo Todo",
-        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
+        "name": "Promesas No",
+        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Todo Todo",
-      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
+      "duration_ms": 206213,
+      "name": "Es Cosa De El",
+      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
         "name": "LA PENSI\u00d3N",
         "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 182586,
       "name": "Pago Por Ver",
       "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Que Siga Pasando",
-        "url": "https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Que Siga Pasando",
-      "url": "https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "Pudimos Ser",
         "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 189920,
       "name": "Pudimos Ser",
       "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
+        "name": "Que Siga Pasando",
+        "url": "https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Que Siga Pasando",
+      "url": "https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "Retumbando En El Cora",
         "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 130833,
       "name": "Retumbando En El Cora",
       "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/3XWYL4mP1CtFAiX5EwXxJL"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 155352,
-      "name": "Coleccionando Corazones",
-      "url": "https://open.spotify.com/track/1VscAOiu0sBu2pr1Sw5i5Y"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "Me Cuesta Tanto Olvidarte",
         "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 173546,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/3XWYL4mP1CtFAiX5EwXxJL"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 155352,
+      "name": "Coleccionando Corazones",
+      "url": "https://open.spotify.com/track/1VscAOiu0sBu2pr1Sw5i5Y"
     },
     {
       "added_at": "2026-05-01 06:01:01",

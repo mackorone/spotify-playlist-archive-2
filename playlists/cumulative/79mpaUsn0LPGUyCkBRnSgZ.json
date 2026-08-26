@@ -9245,6 +9245,24 @@
     },
     {
       "album": {
+        "name": "D.I. Go Pop",
+        "url": "https://open.spotify.com/album/3Lw1772fKHpOpVxdMGNYa3"
+      },
+      "artists": [
+        {
+          "name": "Disco Inferno",
+          "url": "https://open.spotify.com/artist/1YCFvBoIeRSc0HMU7fhUZA"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280240,
+      "name": "In Sharky Water",
+      "url": "https://open.spotify.com/track/6MStSRrh6pePveL74rjJLI"
+    },
+    {
+      "album": {
         "name": "We Are the 21st Century Ambassadors of Peace & Magic",
         "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
       },

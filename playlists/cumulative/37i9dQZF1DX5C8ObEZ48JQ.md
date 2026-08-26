@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ?si=227439fe93a24e1e">Tessi Nandi</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp?si=63870859e7c942be">Ila Nia</a>\. Artwork: Isu Kim.
 
 1,514 songs - 3 day 3 hr 52 min
 

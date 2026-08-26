@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Fontaines D.C.,  Sam Smith, PARTYNEXTDOOR, Jorja Smith, Rex Orange County,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,350 likes - 96 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,372 likes - 96 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 95 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
 | 96 | [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 |
 
-Snapshot ID: `AAAAAIZBOOd2AXxVDLn/z5eapDlFsTY1`
+Snapshot ID: `AAAAAGUukyySmIQBkyS/jsoXgDzWF+g4`

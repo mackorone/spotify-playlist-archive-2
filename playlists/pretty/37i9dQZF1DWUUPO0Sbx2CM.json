@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 238224,
+  "num_followers": 238261,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEMiJL6/7F5dXuLcLJkPhXtz3K3Q",
+  "snapshot_id": "AAAAACIXH2rlcrfnAe6UkhpKaTZ8vGGb",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "crown",
+        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "crown",
+      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Back to the Street (L-Side Remix)",
         "url": "https://open.spotify.com/album/3a9iYbjoFnIphHFNXkEP73"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 227789,
       "name": "Back to the Street - L-Side Remix",
       "url": "https://open.spotify.com/track/2L4qwSWLUjkBiCsoWUYuU1"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "crown",
-        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "crown",
-      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "My Prayer (Micky More & Andy Tee Mixes)",
-        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
-      },
-      "artists": [
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        },
-        {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
-      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Praise (Reyer Remix)",
         "url": "https://open.spotify.com/album/7zXw7h3RkosuphJ9pKO3ov"
       },
@@ -1207,22 +1187,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
+        "name": "My Prayer (Micky More & Andy Tee Mixes)",
+        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
       "artists": [
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
         },
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
+      "duration_ms": 228694,
+      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
+      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1243,6 +1223,26 @@
       "duration_ms": 193000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
-        }
-      ],
-      "duration_ms": 232802,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Lifting Me Up",
         "url": "https://open.spotify.com/album/2nCMXBMDLq2fnfU023ebxM"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 174193,
       "name": "Lifting Me Up",
       "url": "https://open.spotify.com/track/2fMmN8oXhD0IVRXPhOdId2"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        }
+      ],
+      "duration_ms": 232802,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1483,50 +1483,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
-      },
-      "artists": [
-        {
-          "name": "Kislaw",
-          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Beacon of Hope",
-        "url": "https://open.spotify.com/album/4vkjpKb2VJsAmHwboaCP6K"
-      },
-      "artists": [
-        {
-          "name": "Summer Martin",
-          "url": "https://open.spotify.com/artist/3ofHJOpy368pHMZB5QeCS9"
-        },
-        {
-          "name": "Bassanova",
-          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
-        },
-        {
-          "name": "Andr\u00e9 SaxMan Brown",
-          "url": "https://open.spotify.com/artist/24YOcUTGZOeMoBLcYrtBMA"
-        },
-        {
-          "name": "Aisling Fuller",
-          "url": "https://open.spotify.com/artist/0aYbG5hGPjYrwSpOHe7zgO"
-        }
-      ],
-      "duration_ms": 194227,
-      "name": "Beacon of Hope",
-      "url": "https://open.spotify.com/track/2LXcDsWalfGUoAkcKSbmxA"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Looking For Happiness",
         "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
       },
@@ -1559,6 +1515,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
+      },
+      "artists": [
+        {
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
       },
@@ -1575,6 +1547,34 @@
       "duration_ms": 178764,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Beacon of Hope",
+        "url": "https://open.spotify.com/album/4vkjpKb2VJsAmHwboaCP6K"
+      },
+      "artists": [
+        {
+          "name": "Summer Martin",
+          "url": "https://open.spotify.com/artist/3ofHJOpy368pHMZB5QeCS9"
+        },
+        {
+          "name": "Bassanova",
+          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
+        },
+        {
+          "name": "Andr\u00e9 SaxMan Brown",
+          "url": "https://open.spotify.com/artist/24YOcUTGZOeMoBLcYrtBMA"
+        },
+        {
+          "name": "Aisling Fuller",
+          "url": "https://open.spotify.com/artist/0aYbG5hGPjYrwSpOHe7zgO"
+        }
+      ],
+      "duration_ms": 194227,
+      "name": "Beacon of Hope",
+      "url": "https://open.spotify.com/track/2LXcDsWalfGUoAkcKSbmxA"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1635,6 +1635,46 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Save Me (Illingworth Remix)",
+        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        },
+        {
+          "name": "Illingworth",
+          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Save Me (Illingworth Remix)",
+      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Who I was",
+        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
+      },
+      "artists": [
+        {
+          "name": "Sintapia",
+          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
+        },
+        {
+          "name": "ZooFunktion",
+          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Who I Was",
+      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj"
       },
@@ -1679,42 +1719,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Who I was",
-        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
+        "name": "Lie To You",
+        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
       },
       "artists": [
         {
-          "name": "Sintapia",
-          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
-        },
-        {
-          "name": "ZooFunktion",
-          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
+          "name": "Alphein",
+          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Who I Was",
-      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Save Me (Illingworth Remix)",
-        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        },
-        {
-          "name": "Illingworth",
-          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Save Me (Illingworth Remix)",
-      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
+      "duration_ms": 200689,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1735,94 +1751,6 @@
       "duration_ms": 394371,
       "name": "Fall on Me - House Remix",
       "url": "https://open.spotify.com/track/1YIqGBIku5uVh8SsnpuaAW"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "He's Alright (David Penn Edit)",
-        "url": "https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq"
-      },
-      "artists": [
-        {
-          "name": "Jame Starck",
-          "url": "https://open.spotify.com/artist/7vlDs9hVx8VrrFFn60SX8Y"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        },
-        {
-          "name": "Zetaphunk",
-          "url": "https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        },
-        {
-          "name": "Alfreda Gerald",
-          "url": "https://open.spotify.com/artist/5eyXnF9kHVXWX8wsheHHz7"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "He's Alright - David Penn Edit",
-      "url": "https://open.spotify.com/track/4kzM5M3jsMCKBZ6IqYsEMM"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
-      },
-      "artists": [
-        {
-          "name": "Dj Penny",
-          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
-        },
-        {
-          "name": "Chuks Paschal",
-          "url": "https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE"
-        },
-        {
-          "name": "Stanley Ifenna",
-          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
-        }
-      ],
-      "duration_ms": 171467,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Lie To You",
-        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
-      },
-      "artists": [
-        {
-          "name": "Alphein",
-          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Lie To You",
-      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
-      },
-      "artists": [
-        {
-          "name": "Petrina DeLacey",
-          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1863,6 +1791,130 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "He's Alright (David Penn Edit)",
+        "url": "https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq"
+      },
+      "artists": [
+        {
+          "name": "Jame Starck",
+          "url": "https://open.spotify.com/artist/7vlDs9hVx8VrrFFn60SX8Y"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Zetaphunk",
+          "url": "https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "Alfreda Gerald",
+          "url": "https://open.spotify.com/artist/5eyXnF9kHVXWX8wsheHHz7"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "He's Alright - David Penn Edit",
+      "url": "https://open.spotify.com/track/4kzM5M3jsMCKBZ6IqYsEMM"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Deliver (Higher)",
+        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
+      },
+      "artists": [
+        {
+          "name": "ZARG",
+          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
+        }
+      ],
+      "duration_ms": 200433,
+      "name": "Deliver (Higher)",
+      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
+      },
+      "artists": [
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Chuks Paschal",
+          "url": "https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        }
+      ],
+      "duration_ms": 171467,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Better Off (Ok Evan Remix)",
+        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
+      },
+      "artists": [
+        {
+          "name": "Rachel Jane",
+          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
+        },
+        {
+          "name": "Ok Evan",
+          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Better Off (Ok Evan Remix)",
+      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
+      },
+      "artists": [
+        {
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "GRACE OF GOD",
         "url": "https://open.spotify.com/album/49ckozfEQnoxWzqcYvZMKc"
       },
@@ -1887,38 +1939,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Deliver (Higher)",
-        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
-      },
-      "artists": [
-        {
-          "name": "ZARG",
-          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
-        }
-      ],
-      "duration_ms": 200433,
-      "name": "Deliver (Higher)",
-      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
-      },
-      "artists": [
-        {
-          "name": "Grace George",
-          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Fire Fall (Paris Jones Remix)",
         "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 250378,
       "name": "Fire Fall - Paris Jones Remix",
       "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Better Off (Ok Evan Remix)",
-        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
-      },
-      "artists": [
-        {
-          "name": "Rachel Jane",
-          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
-        },
-        {
-          "name": "Ok Evan",
-          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Better Off (Ok Evan Remix)",
-      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
     },
     {
       "added_at": "2026-08-18 23:12:48",

@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Lost In Bliss",
+        "url": "https://open.spotify.com/album/0F17CLPTmc1rqhqrmipryG"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328258,
+      "name": "Lost In Bliss",
+      "url": "https://open.spotify.com/track/4ebKHrtRfaY71EKJuplo4V"
+    },
+    {
+      "album": {
         "name": "LOVE 4 RAVE",
         "url": "https://open.spotify.com/album/65CYSd8fqzKYUyYtQdKDhK"
       },

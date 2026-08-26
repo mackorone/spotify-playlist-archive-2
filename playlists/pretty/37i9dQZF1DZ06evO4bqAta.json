@@ -1,29 +1,13 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 592897,
+  "num_followers": 592907,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADJEowQMPh2afWcWibYTNiC",
+  "snapshot_id": "aouJgAAAAADpzaaDkM00tfDmBS9Th3uC",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 371713,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
-    },
     {
       "added_at": null,
       "album": {
@@ -123,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "Bob Dylan's Greatest Hits",
+        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
       },
       "artists": [
         {
@@ -132,15 +116,15 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 220888,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+      "duration_ms": 233533,
+      "name": "Positively 4th Street",
+      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+        "name": "Another Side Of Bob Dylan",
+        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
       },
       "artists": [
         {
@@ -148,9 +132,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 191683,
-      "name": "The Man in Me",
-      "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
+      "duration_ms": 212963,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
     },
     {
       "added_at": null,
@@ -175,38 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 340775,
-      "name": "Tangled up in Blue",
-      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 188602,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -219,102 +171,6 @@
       "duration_ms": 139536,
       "name": "Subterranean Homesick Blues",
       "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Dylan's Greatest Hits",
-        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Positively 4th Street",
-      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 300862,
-      "name": "Shelter from the Storm",
-      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 226338,
-      "name": "One More Cup of Coffee",
-      "url": "https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 253331,
-      "name": "It's All Over Now, Baby Blue",
-      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another Side Of Bob Dylan",
-        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 257713,
-      "name": "Simple Twist of Fate",
-      "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
     },
     {
       "added_at": null,
@@ -403,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 202805,
-      "name": "Buckets of Rain",
-      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Dylan",
         "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
       },
@@ -435,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Wesley Harding",
-        "url": "https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 154892,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Out Of Mind",
         "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
       },
@@ -463,38 +287,6 @@
       "duration_ms": 212961,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 261138,
-      "name": "Meet Me in the Morning",
-      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infidels",
-        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 378398,
-      "name": "Jokerman",
-      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
     },
     {
       "added_at": null,
@@ -531,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 175062,
-      "name": "You're Gonna Make Me Lonesome When You Go",
-      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 280305,
-      "name": "Boots of Spanish Leather",
-      "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -575,22 +335,6 @@
       "duration_ms": 210188,
       "name": "Highway 61 Revisited",
       "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 278100,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
     },
     {
       "added_at": null,
@@ -668,9 +412,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 305089,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+      "duration_ms": 272685,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     },
     {
       "added_at": null,
@@ -700,9 +444,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 170980,
-      "name": "Love Minus Zero",
-      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+      "duration_ms": 169122,
+      "name": "She Belongs to Me",
+      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
     },
     {
       "added_at": null,
@@ -723,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
       "artists": [
         {
@@ -732,89 +476,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 272685,
-      "name": "Man in the Long Black Coat",
-      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 331168,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 169122,
-      "name": "She Belongs to Me",
-      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 146521,
-      "name": "I Threw It All Away",
-      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 162436,
-      "name": "One Too Many Mornings",
-      "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 419189,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
+      "duration_ms": 274657,
+      "name": "You're a Big Girl Now",
+      "url": "https://open.spotify.com/track/4ukHl5HFRNARRnIWc4Oj83"
     },
     {
       "added_at": null,
@@ -831,6 +495,350 @@
       "duration_ms": 426505,
       "name": "Stuck Inside of Mobile with the Memphis Blues Again",
       "url": "https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 170980,
+      "name": "Love Minus Zero",
+      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 325513,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 287803,
+      "name": "If You See Her, Say Hello",
+      "url": "https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 389033,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 243128,
+      "name": "Oh, Sister",
+      "url": "https://open.spotify.com/track/4JtK4KieKw8mlPAIX4ODht"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Dylan's Greatest Hits Volume II",
+        "url": "https://open.spotify.com/album/0gpxfGPaJ45BCUeLVRwnKV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tomorrow Is a Long Time - Live at Town Hall, New York, NY - April 1963",
+      "url": "https://open.spotify.com/track/33sjOTo0KW2w7D9jaUA2pg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 467037,
+      "name": "Idiot Wind",
+      "url": "https://open.spotify.com/track/1nbGN4N63uCQq0pCIs3kIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 277383,
+      "name": "Rainy Day Women #12 & 35",
+      "url": "https://open.spotify.com/track/7BkAlVpGwXXl3sYNn5OoJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 451908,
+      "name": "It's Alright, Ma (I'm Only Bleeding)",
+      "url": "https://open.spotify.com/track/5Oer8yskMaCGXwGSfM7xr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991",
+        "url": "https://open.spotify.com/album/0ELQw29ii1k2eHnAYgt5kw"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "Blind Willie McTell - Studio Outtake - 1983",
+      "url": "https://open.spotify.com/track/1pJdqFpw52UQpItDRMoca3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boots of Spanish Leather (The Times They Are A-Changin' Alternate Take, NYC, 1963)",
+        "url": "https://open.spotify.com/album/0axVTinrU5728DsrbN8qhH"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 309364,
+      "name": "Boots of Spanish Leather - The Times They Are A-Changin' Alternate Take, NYC, 1963",
+      "url": "https://open.spotify.com/track/71aYPdsgHtu0tgZrJMPqsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "One of Us Must Know (Sooner or Later)",
+      "url": "https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 351040,
+      "name": "Forever Young (feat. Bob Dylan) - Concert Version",
+      "url": "https://open.spotify.com/track/5S6wwhjhS8jt68st9x7D3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infidels",
+        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 215328,
+      "name": "License to Kill",
+      "url": "https://open.spotify.com/track/6GjmlZzBt2FHgLL1x3VMc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Basement Tapes",
+        "url": "https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 163014,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 195476,
+      "name": "Everything Is Broken",
+      "url": "https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 343801,
+      "name": "Romance in Durango",
+      "url": "https://open.spotify.com/track/1OT1G66Lt9EpKFWkwK8i9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 321456,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/3O1hpSOaJDW4SelgUG2XT3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 148873,
+      "name": "Bob Dylan's Blues",
+      "url": "https://open.spotify.com/track/1xa66kvw6zwboiW7c8W9t8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "John Wesley Harding",
+        "url": "https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 158361,
+      "name": "I'll Be Your Baby Tonight",
+      "url": "https://open.spotify.com/track/032kwZ9kg4yIaIPBOOIwlm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 99412,
+      "name": "Country Pie",
+      "url": "https://open.spotify.com/track/2YehU3jLpb9bM5V6k8HmyA"
     }
   ],
   "unique_name": "This Is Bob Dylan",

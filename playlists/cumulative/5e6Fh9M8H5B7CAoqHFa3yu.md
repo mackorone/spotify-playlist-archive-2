@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,490 songs - 6 day 2 hr 28 min
+2,491 songs - 6 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,6 +746,7 @@
 | [Fotografía](https://open.spotify.com/track/54lhtiP5xava5go63Q2FBX) | [Chicoxico](https://open.spotify.com/artist/4sOjdTixz0QQCfyecNDtiD) | [Fotografía](https://open.spotify.com/album/167vnsP2xFgSfU86uo9Vgr) | 4:05 | 2025-11-08 |  |
 | [Found your sweater](https://open.spotify.com/track/30HOGtAhNFUqfjx8qHhaZl) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:58 | 2026-05-22 |  |
 | [Four Dollar Hot Dogs \(no intro\)](https://open.spotify.com/track/7I27m9bObLSGam8ca0E79g) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 1:53 | 2025-09-24 |  |
+| [Fragile Fantasy](https://open.spotify.com/track/03ZqzUxLxUcDu6mfGz3FCu) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Fragile Fantasy](https://open.spotify.com/album/4hQ4Q10iWMfRCXhHI9gUNw) | 4:06 | 2026-08-25 |  |
 | [Fragmentos De Fe](https://open.spotify.com/track/55J4dHo4hYJQs73vUYvVB6) | [Javier](https://open.spotify.com/artist/3fEkFHLCGHSQ2YNM3dyz0P) | [Echoes of Tomorrow](https://open.spotify.com/album/00NEKdR6p91zs5Q5VHUTT9) | 5:59 | 2025-05-12 |  |
 | [Fragments](https://open.spotify.com/track/1fcoSuDdAEtppQqyxSJHWi) | [Edwin Watson](https://open.spotify.com/artist/68laXP2B5cpq7uJmP1jBS2), [Kheaton](https://open.spotify.com/artist/7qgG23WcGZ91n4WcT2v6fL) | [The Future Sound of a Thievery Runner](https://open.spotify.com/album/3DbsfblHNRjOUSzmCswLiE) | 4:36 | 2025-11-15 |  |
 | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/track/6XNF8RS4XH1o4ljx1A1r8m) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/album/4xapkZNwiVtC9SGOQJfHCW) | 4:27 | 2026-04-12 |  |

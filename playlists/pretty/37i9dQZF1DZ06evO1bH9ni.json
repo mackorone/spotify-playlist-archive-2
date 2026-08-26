@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 354321,
+  "num_followers": 354335,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoo4AAAAAADBuddyuJv4/+X0H/L4To96",
+  "snapshot_id": "aouJgAAAAACpzs78vtnk4Vbm8D2Kqha5",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defendiendo la Vieja Escuela",
-        "url": "https://open.spotify.com/album/2ARkzmZMpi6KQUfeE0k5EZ"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "NORTE\u00d1AZO",
-          "url": "https://open.spotify.com/artist/24Spi0bZV1slKqwAOlTf4f"
-        }
-      ],
-      "duration_ms": 261197,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/3zit24OlxsW8Z3pYl55WF6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defendiendo la Vieja Escuela",
+        "url": "https://open.spotify.com/album/2ARkzmZMpi6KQUfeE0k5EZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "NORTE\u00d1AZO",
+          "url": "https://open.spotify.com/artist/24Spi0bZV1slKqwAOlTf4f"
+        }
+      ],
+      "duration_ms": 261197,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/3zit24OlxsW8Z3pYl55WF6"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 157107,
-      "name": "El Mismo - En Vivo",
-      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 216583,
       "name": "Lo Logr\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/1fd44meocAPByn3w0Qp3LY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 157107,
+      "name": "El Mismo - En Vivo",
+      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
     },
     {
       "added_at": null,

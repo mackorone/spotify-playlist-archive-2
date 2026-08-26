@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Oldie but Goodie",
+        "url": "https://open.spotify.com/album/4L0Lu29EmxczduHwbAdlm4"
+      },
+      "artists": [
+        {
+          "name": "\uc62c\ub514 \ubc97 \uad6c\ub514",
+          "url": "https://open.spotify.com/artist/3ZmgYdwoem9RdgZ6qHCkwI"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "(This is) What love feels like",
+      "url": "https://open.spotify.com/track/3XWEaLqkjM28llvR6q04z4"
+    },
+    {
+      "album": {
         "name": "HYPNOSIS THERAPY",
         "url": "https://open.spotify.com/album/7iHbidfgSyFUACwHgzMqoN"
       },
@@ -3358,6 +3376,24 @@
       "duration_ms": 266458,
       "name": "go to gpd and then",
       "url": "https://open.spotify.com/track/2DlTcfLi72nQzq3YtSqvMj"
+    },
+    {
+      "album": {
+        "name": "Oldie but Goodie",
+        "url": "https://open.spotify.com/album/4L0Lu29EmxczduHwbAdlm4"
+      },
+      "artists": [
+        {
+          "name": "\uc62c\ub514 \ubc97 \uad6c\ub514",
+          "url": "https://open.spotify.com/artist/3ZmgYdwoem9RdgZ6qHCkwI"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281280,
+      "name": "Good Ol\u2019days",
+      "url": "https://open.spotify.com/track/7Li5vgvhasRSW6rZ9aTQuY"
     },
     {
       "album": {

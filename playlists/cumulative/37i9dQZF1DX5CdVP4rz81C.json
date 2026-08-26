@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 146603,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/63aEUl2Mq4KAuuEkai3LgJ"
@@ -5028,6 +5028,24 @@
       "duration_ms": 190800,
       "name": "charlie",
       "url": "https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO"
+    },
+    {
+      "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275110,
+      "name": "Chasing Midnight",
+      "url": "https://open.spotify.com/track/4ROx8ILeFj6GPxbZZueZ7D"
     },
     {
       "album": {
@@ -17981,6 +17999,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/4Yf6QS1hjFWT1qMqvpzNcK"
+    },
+    {
+      "album": {
         "name": "Look At Us Now (Honeycomb)",
         "url": "https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30"
       },
@@ -23372,7 +23408,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 172869,
       "name": "Real Good Love",
       "url": "https://open.spotify.com/track/13NS1isrYiasCdCt775RL3"

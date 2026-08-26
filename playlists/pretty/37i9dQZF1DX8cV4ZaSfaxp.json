@@ -1,12 +1,12 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 64968,
+  "num_followers": 64972,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKj7Tu3bGJXT3Mc/mDyArRnvX8tK",
+  "snapshot_id": "AAAAAFrmuCFxTpSg1lU5ok2rRKz6RP7i",
   "tracks": [
     {
       "added_at": "2026-06-17 09:24:56",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Episode 25",
-        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
+        "name": "tellusboutyourself",
+        "url": "https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 195000,
-      "name": "HICCUP",
-      "url": "https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym"
+      "duration_ms": 213466,
+      "name": "Lovegame",
+      "url": "https://open.spotify.com/track/6XGIDzMGmKCPKujmEoHYEx"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "tellusboutyourself",
-        "url": "https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj"
+        "name": "Episode 25",
+        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Lovegame",
-      "url": "https://open.spotify.com/track/6XGIDzMGmKCPKujmEoHYEx"
+      "duration_ms": 195000,
+      "name": "HICCUP",
+      "url": "https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "nokdu ep vol.1",
         "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
       },
@@ -543,6 +527,38 @@
       "duration_ms": 232298,
       "name": "A Night Like This",
       "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Our love is great",
+        "url": "https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 224726,
+      "name": "\uc9c0\ucf1c\uc904\uac8c",
+      "url": "https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -563,22 +579,6 @@
       "duration_ms": 229173,
       "name": "City Lights (Feat. Hash Swan)",
       "url": "https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
-        "name": "Our love is great",
-        "url": "https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 224726,
-      "name": "\uc9c0\ucf1c\uc904\uac8c",
-      "url": "https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 215940,
       "name": "\uc5b4\ub5a4 \uc624\ud6c4 One Afternoon",
       "url": "https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
-      },
-      "artists": [
-        {
-          "name": "CHAERYEONG (ITZY)",
-          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
-      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Stargazers",
         "url": "https://open.spotify.com/album/3UENaS6UmhRQ5blgKC8JQ5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 218293,
       "name": "Stargazers",
       "url": "https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
+      },
+      "artists": [
+        {
+          "name": "CHAERYEONG (ITZY)",
+          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/43toiDnPej9XfkfNB821JD"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 274582,
-      "name": "TENNIS",
-      "url": "https://open.spotify.com/track/4RG7gGJjxonz2xN63JjKrH"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Far From the Madding City",
+        "url": "https://open.spotify.com/album/43toiDnPej9XfkfNB821JD"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 274582,
+      "name": "TENNIS",
+      "url": "https://open.spotify.com/track/4RG7gGJjxonz2xN63JjKrH"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Marry My Husband OST Special Track",
-        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
-      },
-      "artists": [
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 230617,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
         "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 253948,
       "name": "The Story Of The Year (feat. Wonwoo)",
       "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Marry My Husband OST Special Track",
+        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 230617,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Do Worry Be Happy",
         "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 268847,
       "name": "The open boat",
       "url": "https://open.spotify.com/track/4RGt40uIy9faZvgLFb9XDa"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
     },
     {
       "added_at": "2026-06-17 09:24:56",

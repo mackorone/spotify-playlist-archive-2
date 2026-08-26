@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 560880,
+  "num_followers": 560945,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkQc+c525MyLjW86+8c7qgLVPTj",
+  "snapshot_id": "AAAAAL5wb6YW7+XQ3QxYWnHdom0wRX71",
   "tracks": [
     {
       "added_at": "2025-09-23 14:16:54",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1"
+      },
+      "artists": [
+        {
+          "name": "Zach Webb",
+          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
+        }
+      ],
+      "duration_ms": 311170,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1"
-      },
-      "artists": [
-        {
-          "name": "Zach Webb",
-          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
-        }
-      ],
-      "duration_ms": 311170,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "God Save The Animals",
-        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 174972,
-      "name": "Ain't It Easy",
-      "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Deeper Well: Deeper into the Well",
         "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 139413,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "God Save The Animals",
+        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 174972,
+      "name": "Ain't It Easy",
+      "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Tomorrow is Perfect",
-      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Palomino Deluxe (Child of Summer Edition)",
         "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 170315,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
     },
     {
       "added_at": "2025-09-23 14:16:54",

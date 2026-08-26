@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,788 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,791 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 27 | [En el Tren a Paisandú](https://open.spotify.com/track/08EO6H3uRCjmHkLlPPjP4o) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 4:30 |
 | 28 | [Donde Estabas Tú](https://open.spotify.com/track/7z6OlxRe1NjLe2lOG6cgxv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:46 |
 | 29 | [Debajo de las Higueras](https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:29 |
-| 30 | [Mamalluca](https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2) | 15:44 |
-| 31 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:14 |
+| 30 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:14 |
+| 31 | [Mamalluca](https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2) | 15:44 |
 | 32 | [En la Cumbre de un Cerro](https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 5:09 |
 | 33 | [En Tus Horas](https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 3:43 |
 | 34 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/2qvdu1d8aO0TvT3jRoxSZ6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 6:01 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 42 | [La Centinela \- Versión 1997](https://open.spotify.com/track/0nYOSO5oocI5qHJn8JupIa) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:04 |
 | 43 | [Arrebol](https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0) | 6:48 |
 | 44 | [Cerro de la Virgen](https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2) | 6:55 |
-| 45 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/7uSlhTeYaT1sIful5Y3JXj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 4:40 |
+| 45 | [Ayer Cache \- 2020 Remasterizado](https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:21 |
 | 46 | [Cholito Pantalón Blanco](https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:02 |
-| 47 | [Ayer Cache \- 2020 Remasterizado](https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:21 |
+| 47 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/7uSlhTeYaT1sIful5Y3JXj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 4:40 |
 | 48 | [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 |
-| 49 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 |
-| 50 | [Tan Lejos del Sol](https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 6:28 |
+| 49 | [Tan Lejos del Sol](https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 6:28 |
+| 50 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 |
 
-Snapshot ID: `aoo4AAAAAAB6HmMdqQqSSkMIou4MGHnu`
+Snapshot ID: `aouJgAAAAAAiqALSdvH6Fren5zfe2MnP`

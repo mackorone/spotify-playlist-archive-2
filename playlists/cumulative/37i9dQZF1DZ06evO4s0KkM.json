@@ -160,7 +160,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 191415,
       "name": "Always By My Side",
       "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 158600,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 183306,
       "name": "Black Velvet Band",
       "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 153600,
       "name": "Boys on the Docks",
       "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 109134,
       "name": "Cadence To Arms",
       "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 156618,
       "name": "Cold Like This",
       "url": "https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 139152,
       "name": "Finnegan's Wake",
       "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 175306,
       "name": "First Class Loser",
       "url": "https://open.spotify.com/track/7cDmUb2xkkwze1gYzZV9il"
@@ -870,6 +870,24 @@
       "duration_ms": 93373,
       "name": "For Boston",
       "url": "https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp"
+    },
+    {
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188920,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2d2eXeeCmrYRJ7z9JXGyrJ"
     },
     {
       "album": {
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 283680,
       "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
       "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 179066,
       "name": "Jimmy Collins Wake",
       "url": "https://open.spotify.com/track/5ZdXqpvgDKP6LshnmgNRiE"
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 334226,
       "name": "Kiss Me I'm #!@'faced",
       "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 205937,
       "name": "Never Git Drunk No More (feat. Nikki Lane)",
       "url": "https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 234133,
       "name": "Paying My Way",
       "url": "https://open.spotify.com/track/4pMCoGppWrT0gL8oHvBfrV"
@@ -2105,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/6DHOXmUJ8GcxmT6QQhnR7e"
+    },
+    {
+      "album": {
         "name": "For The People (Expanded Edition)",
         "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
@@ -2408,7 +2444,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 167866,
       "name": "The Gauntlet",
       "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 206373,
       "name": "The Hardest Mile",
       "url": "https://open.spotify.com/track/3tJLadifOqL3teq4NHZ7JJ"
@@ -2466,6 +2502,24 @@
       "duration_ms": 206373,
       "name": "The Hardest Mile",
       "url": "https://open.spotify.com/track/4XkOAgeqwumhecjDcwP1Qv"
+    },
+    {
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "The Irish Rover",
+      "url": "https://open.spotify.com/track/7CNQYqadGWT3SqwXx7icIZ"
     },
     {
       "album": {
@@ -2568,7 +2622,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 162853,
       "name": "The Lonesome Boatman",
       "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"
@@ -2716,7 +2770,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 151840,
       "name": "The Warrior's Code",
       "url": "https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He"
@@ -2878,7 +2932,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 171026,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
@@ -3058,7 +3112,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-26",
       "duration_ms": 212373,
       "name": "Worker's Song",
       "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
@@ -3112,7 +3166,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 140781,
       "name": "Your Spirit's Alive",
       "url": "https://open.spotify.com/track/56IfZE4yzzv9GcqPoooI4k"

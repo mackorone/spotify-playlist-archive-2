@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2gzylqKH4MMjL9FAMkULif">Oliwia Janusz</a>
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6aSYVHiqhAT0C4t63ryOef">Zofia</a>
 
 4,298 songs - 9 day 20 hr 29 min
 

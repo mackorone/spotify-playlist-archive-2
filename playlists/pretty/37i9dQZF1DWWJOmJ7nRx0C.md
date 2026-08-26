@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,835 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,802 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [I Kinda Like That](https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [I Kinda Like That](https://open.spotify.com/album/1JAdAgj3z46aOZl5KHk56x) | 2:39 |
 | 100 | [World Alone](https://open.spotify.com/track/3nYmetKNJe8zTHdT9NkfOP) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV), [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [World Alone](https://open.spotify.com/album/5ezkvWhhKgvWy7QMp8e3jd) | 3:49 |
 
-Snapshot ID: `AAAAAOoUvUsVOXhYJPXl38qkO3TiTKbo`
+Snapshot ID: `AAAAAGrH4afEZUs0NwxOO/kL1JcY9P1U`

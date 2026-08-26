@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 La Fiera de Ojinaga en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,018 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,044 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 84 | [Te Amo](https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n) | [Te Amo](https://open.spotify.com/album/3GVsiC0rnhSEFID1RUBzPw) | 3:21 |
 | 85 | [Sedúceme](https://open.spotify.com/track/3JPPq8FtQsQojTi1gCcgeY) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Sedúceme](https://open.spotify.com/album/5MsmolKgYmtyC6ZhwOFFEZ) | 3:41 |
 
-Snapshot ID: `AAAAAA5fPXoujZ9LQhPBFXSxzhrO9rm8`
+Snapshot ID: `AAAAANjxH2B58VsPsD6NJU8Bc8YR/BvC`

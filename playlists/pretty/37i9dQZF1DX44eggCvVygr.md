@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,988 likes - 164 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,983 likes - 164 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 163 | [La banda estuvo ahí](https://open.spotify.com/track/6f7bF4BZ64OtwDeDJuykIP) | [Manel Santisteban](https://open.spotify.com/artist/1oMHqBHYtghHDjRzSmy4BR), [Iván M\. Lacámara](https://open.spotify.com/artist/0aewCDYNWq4vdp8RPWg47h) | [La Casa de Papel \(Soundtrack de la serie de Netflix\)](https://open.spotify.com/album/5mYheUBalLjf9h29OEWlk5) | 3:37 |
 | 164 | [Es el fin \(End Credits\)](https://open.spotify.com/track/0Xmmv8HdMb51xAhSPR8GGx) | [Manel Santisteban](https://open.spotify.com/artist/1oMHqBHYtghHDjRzSmy4BR), [Iván M\. Lacámara](https://open.spotify.com/artist/0aewCDYNWq4vdp8RPWg47h) | [La Casa de Papel \(Soundtrack de la serie de Netflix\)](https://open.spotify.com/album/5mYheUBalLjf9h29OEWlk5) | 5:00 |
 
-Snapshot ID: `AAAAAPsU4lwTca+pjvW+QiM1TfDJmQNG`
+Snapshot ID: `AAAAADMS8eSVCpk0ocrlnLRNoJiVCvPY`

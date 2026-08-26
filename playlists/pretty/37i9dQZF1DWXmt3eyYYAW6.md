@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmt3eyYYAW6.md) - [plain]
 
 > Conversations on health and fitness, plus tips to jumpstart a new and improved lifestyle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,876 likes - 12 songs - 23 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,875 likes - 12 songs - 23 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmt3eyYYAW6.md) - [plain]
 | 11 | [\#935 \- Robb Wolf](https://open.spotify.com/episode/079p2CiYtIaqiV8aohR4fP) | [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) | [The Joe Rogan Experience](https://open.spotify.com/album/4rOoJ6Egrf8K2IrywzwOMk) | 2:54:55 |
 | 12 | [\#904 \- Gary Taubes](https://open.spotify.com/episode/53pKJqVdwqjyouPtoK2ozV) | [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) | [The Joe Rogan Experience](https://open.spotify.com/album/4rOoJ6Egrf8K2IrywzwOMk) | 2:21:53 |
 
-Snapshot ID: `AAAAADIZf16LYxq8nva074IguOsgotSN`
+Snapshot ID: `AAAAAFKgOZN+mgzE/V+X3zZnIf9FV5IC`

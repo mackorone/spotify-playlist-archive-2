@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 146339,
+  "num_followers": 146332,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFovSyvt/6+memTplWBwGIkMFC9X",
+  "snapshot_id": "AAAAAIp75WKoKo3Gtzut/IiwRP0t1GAy",
   "tracks": [
     {
       "added_at": "2026-07-24 08:46:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-24 08:46:42",
       "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
-    },
-    {
-      "added_at": "2026-07-24 08:46:42",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2026-07-24 08:46:42",
       "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
       },
       "artists": [
         {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
         }
       ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2026-07-24 08:46:42",
@@ -703,6 +687,22 @@
       "duration_ms": 201160,
       "name": "On my mind",
       "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
+    },
+    {
+      "added_at": "2026-07-24 08:46:42",
+      "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     },
     {
       "added_at": "2026-07-24 08:46:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,659 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,683 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 62 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
 | 63 | [Gyal Owner](https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Tight Squeeze Riddim](https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3) | 3:23 |
 | 64 | [ESKIMO \- Remix](https://open.spotify.com/track/5g3FsL8VeeCMt3rlFhEqw6) | [Trinidad Killa](https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [ESKIMO \(Remix\)](https://open.spotify.com/album/6nyKtPtSwlci3g0BeQDvqt) | 3:01 |
-| 65 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
-| 66 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
+| 65 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
+| 66 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 67 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
 | 68 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
 | 69 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 90 | [Carnival Jumbie](https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [The Carnival Jumbies Experiment](https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga) | 2:38 |
 | 91 | [Long Time](https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Savage](https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x) | 3:53 |
 | 92 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
-| 93 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
+| 93 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |
 | 94 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
-| 95 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |
+| 95 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
 | 96 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
 | 97 | [Lose Weight](https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46) | [Sackie](https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh), [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20) | [Lose Weight](https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF) | 2:47 |
 | 98 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
 | 99 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
 | 100 | [Energy](https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Energy](https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk) | 3:32 |
 
-Snapshot ID: `AAAAAI+f1awf1bxyqvuVMrFa+/KKQNJD`
+Snapshot ID: `AAAAAHPveKGE2RPeOpDe8FzubzeiI4pi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > all eyes on james ivy\. <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,963 likes - 140 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,985 likes - 140 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 139 | [Imitation \(how to become you\)](https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Imitation \(how to become you\)](https://open.spotify.com/album/76Gp2fuUkbbWT2UWTnyaYz) | 4:16 |
 | 140 | [Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Year of the Dragon](https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3) | 3:29 |
 
-Snapshot ID: `AAAAAEnNupaSv52uSf7RrhF9wG3GXQNb`
+Snapshot ID: `AAAAAFxsBJgrkg/ONoX5BGt77z5IuJXJ`

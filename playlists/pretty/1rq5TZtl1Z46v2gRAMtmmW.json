@@ -6,7 +6,7 @@
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAR8u2EZn1+zTnXbZEkQwtTcs3kwwVz",
+  "snapshot_id": "AAAR80Hv8QHQNj5n1jxiqQa07e4iqx5q",
   "tracks": [
     {
       "added_at": "2026-07-29 14:05:56",
@@ -1527,6 +1527,26 @@
       "duration_ms": 167537,
       "name": "D.O.T.W - Demo",
       "url": "https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP"
+    },
+    {
+      "added_at": "2026-08-25 18:13:33",
+      "album": {
+        "name": "THAT KID",
+        "url": "https://open.spotify.com/album/3D71e0tS6t9Z9DFU59rmBY"
+      },
+      "artists": [
+        {
+          "name": "Elliott Skinner",
+          "url": "https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 207457,
+      "name": "THAT KID",
+      "url": "https://open.spotify.com/track/3LD0amRQFt55wXQ7n3vbeL"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",
