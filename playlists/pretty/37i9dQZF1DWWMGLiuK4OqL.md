@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,758 likes - 200 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,850 likes - 200 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 157 | [Old Love and New](https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x) | [Ulita Knaus](https://open.spotify.com/artist/7kvydoOIVHwhieI8oLrRmT) | [Old Love and New](https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6) | 4:13 |
 | 158 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 |
 | 159 | [Summertime](https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [Impressions of Evans](https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6) | 4:28 |
-| 160 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 |
-| 161 | [Prisoner of Love](https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Prisoner of Love](https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF) | 2:23 |
+| 160 | [Prisoner of Love](https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Prisoner of Love](https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF) | 2:23 |
+| 161 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 |
 | 162 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 |
 | 163 | [I Fall In Love Too Easily](https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:24 |
 | 164 | [Everybody Knows](https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Everybody Knows](https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT) | 2:48 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Prisoner of Love](https://open.spotify.com/track/1z0mMUQ42n0iqwhkoe1VYi) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Prisoner of Love](https://open.spotify.com/album/7zfYly2CEtkKne6EukRXjw) | 4:16 |
 | 200 | [I Get Along Without You Very Well](https://open.spotify.com/track/5aP8QI1DPbQxrkBpvgszLd) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You should have told me](https://open.spotify.com/album/7r95H4DvXQI3N8Pa0jwPEp) | 3:32 |
 
-Snapshot ID: `AAAAAEsDEVshP3nGG0RhEHsVQDptbXRk`
+Snapshot ID: `AAAAACsG6MCkAhf2ygdeqjUBuqNoYPsu`

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di Nabi,  Villabanks, lildombaby, CARO WOW, Jasmin407 e molti altri.
 
-7,669 songs - 14 day 1 hr 46 min
+7,670 songs - 14 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,6 +1152,7 @@
 | [Bugie](https://open.spotify.com/track/534ZkgEsBGSdUi3uc9P8bd) | [Doll Kill](https://open.spotify.com/artist/0JOadOTQ5hTC6EYCmKDAsX) | [Bugie](https://open.spotify.com/album/5WGbHhuS2817QyWcb8142y) | 2:26 | 2026-06-11 | 2026-07-03 |
 | [Bugie](https://open.spotify.com/track/7GRZM3oQ7IBABAvVBDazlY) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju) | [Bugie](https://open.spotify.com/album/1Hs4e2pd8TZMguJMuKxrKB) | 2:08 | 2025-03-28 | 2025-04-11 |
 | [BUGIE](https://open.spotify.com/track/5u5mKG4Cpg8H57Rf2ApEVo) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [BUGIE](https://open.spotify.com/album/0og11vK6AW2XIFnr0maeAh) | 2:28 | 2022-06-23 | 2022-07-15 |
+| [Bugie](https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bugie](https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG) | 3:13 | 2026-08-26 |  |
 | [BUGIE \(prod\. 2nd Roof\)](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 | 2024-05-09 | 2024-06-01 |
 | [Buia Melodia](https://open.spotify.com/track/0tGDxDW4XYjxOOAk1yfQB4) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos) | [Buia Melodia](https://open.spotify.com/album/7IqDWiuqOmtjXiTflSUKWF) | 2:19 | 2026-01-23 | 2026-02-13 |
 | [BUIO DAVANTI \(Jam\)](https://open.spotify.com/track/6CESQRmuDlnqk4zgWagRe2) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA \(Jam\)](https://open.spotify.com/album/1xcWRxlgPGOEhzSeDUB0pS) | 3:09 | 2025-06-06 | 2025-06-27 |

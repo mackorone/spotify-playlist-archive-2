@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Topic, carteblanche
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,911 likes - 76 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,916 likes - 76 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 75 | [EXES IN TEXAS](https://open.spotify.com/track/1tl8N5xqVezqcA6xtITbfi) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Rhyder](https://open.spotify.com/artist/3eoOvS1AeEVfYwSF1HVr0S) | [EXES IN TEXAS](https://open.spotify.com/album/7m9tqzACi2vGXz6Oir9E3n) | 2:35 |
 | 76 | [Low](https://open.spotify.com/track/3RS9G9t00I4ljZzylMXH9O) | [DJ Spade](https://open.spotify.com/artist/2dhmmWskkjPNDFnDQKiyH8), [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Low](https://open.spotify.com/album/0W94RDU5UFKmOHCFVQ7hXf) | 3:34 |
 
-Snapshot ID: `AAAAAOzMw4tkCUSplyb6XVhyUSnA/vCm`
+Snapshot ID: `AAAAAELjHc5DttP9fbZX9aGe7kMrkhbv`

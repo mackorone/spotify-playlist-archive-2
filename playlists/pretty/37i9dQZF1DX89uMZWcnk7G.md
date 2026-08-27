@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 
 > no sé porque no fuiste sincero..\. esta es para ti 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,446 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,418 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 | 24 | [Venganza Divina](https://open.spotify.com/track/65bERp97GR2DfCRsTrMWKU) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Corridos Pesadísimos](https://open.spotify.com/album/44YiDqXDLFF0ipL8U6tQXa) | 2:41 |
 | 25 | [La Venganza de Maria](https://open.spotify.com/track/2ADwZLQpDHJSLVJz7jRaGx) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:08 |
 
-Snapshot ID: `AAAAAK1GX45lN+TJJtjS77UOR+NpwGwm`
+Snapshot ID: `AAAAAJuZ0lPxn5lDbIiLRjsML9R+Tdvq`

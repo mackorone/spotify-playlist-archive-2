@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,744 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,674 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 99 | [My Baby](https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L) | 2:26 |
 | 100 | [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/track/6X5jBkAFu7HE3jigdoVW3r) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/album/708cNliAxiocHBCsFZCbIy) | 2:56 |
 
-Snapshot ID: `AAAAAH5SB7sB1mprg0Idg4BBvMBZ9mY+`
+Snapshot ID: `AAAAAHvFBHUo408n336QDLVJyLtLT8sn`

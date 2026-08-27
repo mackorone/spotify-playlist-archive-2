@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,948 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,955 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Seasons Change](https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu) | [Chadwick Johnson](https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV) | [Seasons Change](https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok) | 3:27 |
 | 100 | [Revelations](https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F) | [Chris Tapp](https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN), [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Revelations](https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9) | 3:41 |
 
-Snapshot ID: `AAAAANjCRRS/ANYL/VvR70bPFRt7dB8e`
+Snapshot ID: `AAAAABKXpVcDjusU7zxl7Xq7FPRizHmZ`

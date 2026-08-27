@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von makko, The Chainsmokers, Jorja Smith, Sido, Jazeek, Carly Rae Jepsen & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,742 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,676 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 74 | [Aus meinem Kopf](https://open.spotify.com/track/7hwpmjKIMDzADvirA6yQ0I) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Aus meinem Kopf](https://open.spotify.com/album/2OT9kCogQLGvK7TATOcq2q) | 3:24 |
 | 75 | [Crazy Frog \- Axel F](https://open.spotify.com/track/31O0OYNBVsw58u3AgQqYPO) | [The Butcher Sisters](https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM) | [Crazy Frog \- Axel F](https://open.spotify.com/album/6w83dmZPBFyWlCbWhp83EI) | 2:38 |
 
-Snapshot ID: `AAAAAOu5oE31l/GedQXLAXuldTVA2r4q`
+Snapshot ID: `AAAAAG0hdvHQh76EeBFBr9e4/3tKDYZG`

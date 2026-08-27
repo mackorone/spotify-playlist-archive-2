@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Drews Famous Everybody Dance Now: Dance & Pop Hits Of The 90s & 2000s",
+        "url": "https://open.spotify.com/album/4HtFDSxRnUapkCOjewqfQt"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew",
+          "url": "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5r6XKxztz7CUozVoxzssTW"
+    },
+    {
+      "album": {
         "name": "James Arthur (Deluxe)",
         "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
       },

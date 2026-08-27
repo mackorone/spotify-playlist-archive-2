@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Diego & Victor Hugo, PARTYNEXTDOOR,  Lagum,  Cynthia Luz com Sotam, Panda e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,305,861 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,616 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 78 | [A Última Canção De Amor](https://open.spotify.com/track/3awnK0B1KMlpxLkhW2CewR) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Do Outro Lado da Avenida](https://open.spotify.com/album/4vmcqR8xKACMPvBX1R79qe) | 3:51 |
 | 79 | [Fera Domesticada](https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG) | [Inofensiva Flor](https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR) | 2:38 |
 
-Snapshot ID: `AAAAAD9lt69WRtZkoMQNj1rpHzSq+4zQ`
+Snapshot ID: `AAAAAJPDgow7RKKRiFO0Styix0BC2gbh`

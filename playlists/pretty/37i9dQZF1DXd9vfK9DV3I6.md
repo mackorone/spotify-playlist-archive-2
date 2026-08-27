@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,365 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,436 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Oh Lor My Love](https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Oh Lor My Love](https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h) | 3:00 |
 | 100 | [Moroccan Sahara](https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL) | [Palmtherapy by DrNR](https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho) | [Moroccan Sahara](https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD) | 3:05 |
 
-Snapshot ID: `AAAAAKPiLNp6f6mBdfNwvMCzbZxPAzQ9`
+Snapshot ID: `AAAAAAfyPZW7n6RevxROsPEJz3vrMyQL`

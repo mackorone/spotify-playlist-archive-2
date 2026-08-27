@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796 likes - 86 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 797 likes - 87 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,6 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
 | 84 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 85 | [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 |
-| 86 | [Dark Side \(Instrumental Version\) \[Originally performed by Kelly Clarkson\]](https://open.spotify.com/track/0UIz6OBemLHhD8XW8t2acZ) | [Back Track Karaoke](https://open.spotify.com/artist/0CG46RticezLidYhQ66gUW) | [Top Song's Karaoke \-Vol 3](https://open.spotify.com/album/1c7kIevmDnQPdvmeERdQj4) | 3:21 |
+| 86 | [Limousine](https://open.spotify.com/track/2Mgu6vkgUJiYwJ3CUN5tZZ) | [Lolene](https://open.spotify.com/artist/3w5T0xOrd8z4gEponn8YAR) | [The Electrick Hotel](https://open.spotify.com/album/7aMi0ejX2MwLPzSQagv234) | 3:09 |
+| 87 | [Dark Side \(Instrumental Version\) \[Originally performed by Kelly Clarkson\]](https://open.spotify.com/track/0UIz6OBemLHhD8XW8t2acZ) | [Back Track Karaoke](https://open.spotify.com/artist/0CG46RticezLidYhQ66gUW) | [Top Song's Karaoke \-Vol 3](https://open.spotify.com/album/1c7kIevmDnQPdvmeERdQj4) | 3:21 |
 
-Snapshot ID: `AcajRAAAAAA3cs6G2DbbdgY6IFs+i9yJ`
+Snapshot ID: `AcaqBgAAAADwmQFIelkYY4PAezIUVDuz`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 116,554 likes - 102 songs - 6 hr 27 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 116,586 likes - 102 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moonlight Sonata \(First Movement from Piano Sonata No\. 14, Op\. 27 No\. 2\)](https://open.spotify.com/track/7xfSCgVOkQJhVxnqzepATH) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Luke Woodapple](https://open.spotify.com/artist/2KNwx5UTputMUl54ggtPpK) | [Peaceful Moments \(One Hour of Relaxing Instrumentals\)](https://open.spotify.com/album/1G2P1EAM8bZLm4ZrI7qY6E) | 4:54 |
+| 1 | [I\. Adagio Sostenuto \- Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight" \[Remastered\]](https://open.spotify.com/track/7xfSCgVOkQJhVxnqzepATH) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Luke Woodapple](https://open.spotify.com/artist/2KNwx5UTputMUl54ggtPpK) | [Peaceful Moments \(One Hour of Relaxing Instrumentals\)](https://open.spotify.com/album/1G2P1EAM8bZLm4ZrI7qY6E) | 4:55 |
 | 2 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |
 | 3 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
 | 4 | [Solas](https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Solas](https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF) | 2:26 |

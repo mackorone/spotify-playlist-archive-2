@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Antariksh, KhoslaRaghu, Akashdeep Sengupta and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,633 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,630 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Mulaqaat](https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Mulaqaat](https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe) | 3:31 |
 | 75 | [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Aarvan](https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 |
 
-Snapshot ID: `AAAAANDfjnpTWjny1bQYhqfdo/nWv09m`
+Snapshot ID: `AAAAAKNo+mH3l41XLAqTkQ4FjFWjW2Rl`

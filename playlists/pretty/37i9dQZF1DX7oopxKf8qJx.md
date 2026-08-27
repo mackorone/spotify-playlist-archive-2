@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,481 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,531 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 79 | [Moonlight Serenade \- Digitally Remastered](https://open.spotify.com/track/5GLP9ZqgQOHBLNuLSWA5rV) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Touch of Henry Mancini, Vol\. 3](https://open.spotify.com/album/64psneLvhQVZvrPL7zEpiU) | 3:41 |
 | 80 | [The Days Of Wine And Roses](https://open.spotify.com/track/40WZ6K3o6X3wsAbh3b41wG) | [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/75C2nKf5frcYnRI8tSqXOM) | 2:36 |
 
-Snapshot ID: `AAAAAE/Kzh2qSb+WU3AB6VMbTCDk7ZMP`
+Snapshot ID: `AAAAAHAwLJeKCL6ZdRAYFOd1gWxSIKTe`

@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/1wQAW0rnbLCLXT9prUf5zX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Shaye",
+          "url": "https://open.spotify.com/artist/2QBCZee5isY0iQEJMlredF"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/7nEuQWH4JH1fQ4S9u7hRSG"
+    },
+    {
+      "album": {
         "name": "Crazy For U",
         "url": "https://open.spotify.com/album/1hotKksSV4kEgIo9wyvt3M"
       },
@@ -3581,6 +3599,28 @@
     },
     {
       "album": {
+        "name": "Fox Boy (Loprov Remix)",
+        "url": "https://open.spotify.com/album/02uVBMMSTo9jYTZPIXVcXG"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        },
+        {
+          "name": "Loprov",
+          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352941,
+      "name": "Fox Boy - Loprov Remix",
+      "url": "https://open.spotify.com/track/3YCbIUiZ5QMrxTTzyLlS7O"
+    },
+    {
+      "album": {
         "name": "Fratricide",
         "url": "https://open.spotify.com/album/6yzq6H3QI7ylehs1yZ4z3G"
       },
@@ -4020,6 +4060,24 @@
       "duration_ms": 145549,
       "name": "HAVAGO",
       "url": "https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc"
+    },
+    {
+      "album": {
+        "name": "Have you heard the one about alfred?",
+        "url": "https://open.spotify.com/album/2WzqJTCyliIsXYs9hhmOW4"
+      },
+      "artists": [
+        {
+          "name": "Muffin Fox",
+          "url": "https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287374,
+      "name": "Have you heard the one about alfred?",
+      "url": "https://open.spotify.com/track/5jiqzU02rJ4F3gvO6jONUS"
     },
     {
       "album": {
@@ -5331,6 +5389,24 @@
     },
     {
       "album": {
+        "name": "kiss u on the lips :3c",
+        "url": "https://open.spotify.com/album/0PittEt72JGuC0kGZ5kCYW"
+      },
+      "artists": [
+        {
+          "name": "Kookie",
+          "url": "https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221145,
+      "name": "kiss u on the lips :3c",
+      "url": "https://open.spotify.com/track/5KBgzYcGy7cKvkLwiKRdEt"
+    },
+    {
+      "album": {
         "name": "kittycat heartthrob",
         "url": "https://open.spotify.com/album/3jePWfQ33qxjwB9MDAYfOR"
       },
@@ -5560,6 +5636,24 @@
       "duration_ms": 143839,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf"
+    },
+    {
+      "album": {
+        "name": "Pink Girl",
+        "url": "https://open.spotify.com/album/4o1A532b9cZXas6wgjYnHS"
+      },
+      "artists": [
+        {
+          "name": "lucypawz",
+          "url": "https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/7DyStmOv5VbnGK7JGOVtlY"
     },
     {
       "album": {
@@ -5824,10 +5918,28 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 123312,
       "name": "Lose",
       "url": "https://open.spotify.com/track/33FGkFEXUvWRuuJFlDpsw9"
+    },
+    {
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/0DMsdhugkJCxwlasQOX47y"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123312,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/66NelSvkfZl35Hy06kPdP4"
     },
     {
       "album": {
@@ -6038,6 +6150,24 @@
       "duration_ms": 294000,
       "name": "MAKE BELIEVE",
       "url": "https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice"
+    },
+    {
+      "album": {
+        "name": "Make It Last",
+        "url": "https://open.spotify.com/album/0hlw0btDHxurzzHQvPnm5V"
+      },
+      "artists": [
+        {
+          "name": "Rowan Bailey",
+          "url": "https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193189,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/4akjWFeO6vOQ8pjan1yJk6"
     },
     {
       "album": {
@@ -7871,6 +8001,24 @@
     },
     {
       "album": {
+        "name": "DVMVGX // CVNTRXL",
+        "url": "https://open.spotify.com/album/4YaTlXVTaSsFgEJaKZDX9S"
+      },
+      "artists": [
+        {
+          "name": "Mek-9",
+          "url": "https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210383,
+      "name": "Puppygirl Soju",
+      "url": "https://open.spotify.com/track/1E2aPP5kbg3ZMNLY5qB95D"
+    },
+    {
+      "album": {
         "name": "PUT A LANDLORD iN A LANDFiLL",
         "url": "https://open.spotify.com/album/39z67rkvPBCmVmNrKqNWI4"
       },
@@ -9385,6 +9533,28 @@
     },
     {
       "album": {
+        "name": "stay away",
+        "url": "https://open.spotify.com/album/2jvb7ofZBr4HmbTZ8LNfYn"
+      },
+      "artists": [
+        {
+          "name": "Flxffy_",
+          "url": "https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD"
+        },
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135003,
+      "name": "stay away",
+      "url": "https://open.spotify.com/track/2qb2ojSVUTvD74xnrbZuw2"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/5ghEdRGCMpU5zBMjDsG2k9"
       },
@@ -10611,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "unnatural",
+        "url": "https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "unnatural",
+      "url": "https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U"
+    },
+    {
+      "album": {
         "name": "venison",
         "url": "https://open.spotify.com/album/7M1VWXKFDAt3bM8R0kcmEG"
       },
@@ -10782,6 +10970,28 @@
       "duration_ms": 238437,
       "name": "Webpunk",
       "url": "https://open.spotify.com/track/3Hx9z2y10IRs1bdE18PVsh"
+    },
+    {
+      "album": {
+        "name": "maybe in august",
+        "url": "https://open.spotify.com/album/0nUUhSQKKIadzZp3Tvn1wP"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        },
+        {
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 639805,
+      "name": "weight (or ghosts of the trans-canada skyway)",
+      "url": "https://open.spotify.com/track/1UHY8WXcJ58Dcp3mxjH4DW"
     },
     {
       "album": {
@@ -11054,6 +11264,28 @@
       "duration_ms": 301844,
       "name": "WORKITOUT",
       "url": "https://open.spotify.com/track/4pMe5h7KvKdf5aVPiGcYwz"
+    },
+    {
+      "album": {
+        "name": "WORKITOUT (RUSSY STYLE)",
+        "url": "https://open.spotify.com/album/5b7hK8Std1vcpKCT0aOoYx"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        },
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "WORKITOUT (RUSSY STYLE)",
+      "url": "https://open.spotify.com/track/4nRrpSTSONaZUevPwMARsE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-431 songs - 1 day 2 hr 34 min
+432 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 | 2024-10-10 |  |
 | [Shaken and Taken \- Bonus Track](https://open.spotify.com/track/6eZ9WOfmtuRzkkYLHyi8u3) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [They're Coming For Me](https://open.spotify.com/album/1Wj12yrL3wdoRltxGOrtk4) | 3:13 | 2026-08-20 |  |
 | [Sheep Go To Heaven](https://open.spotify.com/track/4G8Eu3EDQZYhHPfJMFCv8V) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Prolonging the Magic](https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j) | 3:48 | 2024-10-10 |  |
+| [Shoebox](https://open.spotify.com/track/78BgBmJDMHK84oqvXic6Q7) | [Lilah Pate](https://open.spotify.com/artist/6nRNtZgO1Gw7sEYkduIN3I) | [Shoebox](https://open.spotify.com/album/0fYDNP3D1vgpwIm4NPFvf0) | 3:22 | 2026-08-26 |  |
 | [Silver Timothy](https://open.spotify.com/track/0dRM84FDv9MN2HGnuJsSCi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Brothers and Sisters of the Eternal Son \(Deluxe Edition\)](https://open.spotify.com/album/1RRHi23DOwVOwimc3BjnBv) | 3:16 | 2023-02-23 |  |
 | [Simé Love](https://open.spotify.com/track/66C8WrKjSSolC9gaL9M7sr) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Lanmou Lanmou](https://open.spotify.com/album/5I7tMruynWvRRRMgmUnZN0) | 3:30 | 2023-02-23 |  |
 | [Sing a Simple Song](https://open.spotify.com/track/0mfQH4OgwV8aQ7JUgVjkhd) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 | 2026-08-20 |  |

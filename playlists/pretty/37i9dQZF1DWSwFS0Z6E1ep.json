@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 310945,
+  "num_followers": 310975,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL0sZ7fxfRsAgIBxWD9eYntBQ95C",
+  "snapshot_id": "AAAAALKbIvURXE8x03gkhdKY3ukOrxEB",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Grammy's Songs (Original Songs Remastered)",
-        "url": "https://open.spotify.com/album/3jzUG1VgHjxOQ2eP2tlXY3"
+        "name": "Frankie Lymon & The Teenagers Greatest Hits",
+        "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
         }
       ],
-      "duration_ms": 161958,
-      "name": "Papa Loves Mambo",
-      "url": "https://open.spotify.com/track/4wWsQBbp4C6wVxp5zsc55C"
+      "duration_ms": 140826,
+      "name": "Why Do Fools Fall In Love",
+      "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1755,6 +1755,22 @@
       "duration_ms": 140984,
       "name": "Rockin' with My Baby",
       "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Grammy's Songs (Original Songs Remastered)",
+        "url": "https://open.spotify.com/album/3jzUG1VgHjxOQ2eP2tlXY3"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 161958,
+      "name": "Papa Loves Mambo",
+      "url": "https://open.spotify.com/track/4wWsQBbp4C6wVxp5zsc55C"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1887,22 +1903,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Frankie Lymon & The Teenagers Greatest Hits",
-        "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Why Do Fools Fall In Love",
-      "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Essential Little Richard (Remastered)",
         "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 119368,
-      "name": "Rockin Daddy",
-      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records- Boogie BBQ",
         "url": "https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 157446,
       "name": "Ugly Woman",
       "url": "https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 119368,
+      "name": "Rockin Daddy",
+      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
     },
     {
       "added_at": "2022-06-07 05:25:13",

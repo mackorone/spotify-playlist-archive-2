@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Nico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,686 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,664 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Sé Que Te Vas A Ir](https://open.spotify.com/track/25riTX5vEOraVZcYqPkBrw) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Sé Que Te Vas A Ir](https://open.spotify.com/album/2qW2gVKVFU8aKQMTgLDvC1) | 2:49 |
 | 120 | [SEÑAL](https://open.spotify.com/track/1DE1jMSSQcIzDQgFcJnKAI) | [CRISTALINO](https://open.spotify.com/artist/3MNLGEDFGdv7WYDy2YbCtZ), [Jaime Beltrán](https://open.spotify.com/artist/65N5bB3AeOdqACl8wHepaA) | [Destello, señal, hilo y alba](https://open.spotify.com/album/5TvLGH3WC2txxLpx4UqsZm) | 4:07 |
 
-Snapshot ID: `AAAAAMRxBk9rNmR2ecGCfbNPX9NSndUZ`
+Snapshot ID: `AAAAAKdnlWQ2z0vffl9qRR1hgSngT2bT`

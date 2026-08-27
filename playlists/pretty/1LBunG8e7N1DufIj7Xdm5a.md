@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,750 songs - 10 day 15 hr 54 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,755 songs - 10 day 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4758,5 +4758,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4748 | [Hypocrites](https://open.spotify.com/track/090nOZR3d8AQbCP7kuLQ65) | [Alexi AI](https://open.spotify.com/artist/5XhP1fhZHcpeskzupMb9DZ) | [Hypocrites](https://open.spotify.com/album/27gw8l9i5pmhf6ikjUnnMn) | 5:18 |
 | 4749 | [Figlio del tempo](https://open.spotify.com/track/0cUzOeykFW2SwLp4mJEbSa) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:49 |
 | 4750 | [Try](https://open.spotify.com/track/1wa2z0DVUphZcmfxUVvaeN) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Try](https://open.spotify.com/album/4UlGGdntkH7WIS8UfAy5cR) | 4:24 |
+| 4751 | [darling](https://open.spotify.com/track/2hRO1mBmCenbKuZFRjaHRw) | [Allis $tone](https://open.spotify.com/artist/78VKtRLs8u3xajtazmw5LJ) | [IF YOU LET ME BE YOUR LOVER](https://open.spotify.com/album/1shZ0KRIdevXMP3xhaNW0S) | 1:17 |
+| 4752 | [It Don't Make Sense](https://open.spotify.com/track/7kf07N1yvbybrobrU0BQ4w) | [Serrano](https://open.spotify.com/artist/5guL1rmn0b3SyK38p4H89E) | [It Don't Make Sense](https://open.spotify.com/album/2Jo8ciQPf90dGM7uNNDWjv) | 3:03 |
+| 4753 | [on my way to christmas](https://open.spotify.com/track/7dDAodVygqSfAydDB3BupY) | [Lanssonnn](https://open.spotify.com/artist/0EqxnmuxSUf5ZRcHAKAohR) | [on my way to christmas](https://open.spotify.com/album/5X1ngDbH2wWQcLAkZbr95F) | 3:14 |
+| 4754 | [אלגוריתם](https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [אלגוריתם](https://open.spotify.com/album/3z86HVtVhwZRLEU2VGjGtO) | 3:27 |
+| 4755 | [Fading Trace](https://open.spotify.com/track/6VRtRhIuagAfxY6tXIjWMe) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Fading Trace](https://open.spotify.com/album/0L1E65Cgz1nwbjD3XOe47v) | 2:45 |
 
-Snapshot ID: `AAAJzVaUN2uJP5GilpDgJmGpCF/JivH9`
+Snapshot ID: `AAAJ0re6QgFRV+8Nm6fAXxBMY1+NOAm8`

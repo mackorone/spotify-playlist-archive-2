@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,204 likes - 145 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,123 likes - 145 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 144 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
 | 145 | [Where You Are](https://open.spotify.com/track/0inGMCDxu6EX9Ga6xzBlu6) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Closer](https://open.spotify.com/album/27C4TnvDfltBYqM4AxWRM7) | 3:14 |
 
-Snapshot ID: `AAAAAKRohxPUwIG1Y8rBMjwv/5WCN1ZR`
+Snapshot ID: `AAAAAL1gYTFvR7ZEroV44AuE7CjYquC9`

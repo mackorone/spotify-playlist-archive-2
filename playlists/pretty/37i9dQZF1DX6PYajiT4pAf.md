@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Farruko, Antonio José, Sam Smith y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,042 likes - 63 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,040 likes - 63 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 62 | [MIL BATALLAS](https://open.spotify.com/track/7lAtNxdNlukJBA8aHhfrdZ) | [Los Yares](https://open.spotify.com/artist/6cd9iq03guQqV08geVXZyR), [Dani de Los Yakis](https://open.spotify.com/artist/0yd9rA0C9tDurDBGcEMKfQ) | [MIL BATALLAS](https://open.spotify.com/album/6EigJq3JhDdq20IT9wJuM0) | 3:04 |
 | 63 | [TO TO TO](https://open.spotify.com/track/2VnNn3ZYKnydirho1euFDe) | [Aron Jiménez](https://open.spotify.com/artist/6KSBBs9wYJqlUqI6CwKuwn), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [JDC Beat](https://open.spotify.com/artist/7sLnkO0Eaa4VfeU0vA3Usg) | [TO TO TO](https://open.spotify.com/album/50YWp4Lp0G4rMPgSXEo4W1) | 2:19 |
 
-Snapshot ID: `AAAAAG5aasQ100kHOu6+OF3rRfvtCyyQ`
+Snapshot ID: `AAAAAMouJq3XQ/6KzAUyp09n+hOyTmN+`

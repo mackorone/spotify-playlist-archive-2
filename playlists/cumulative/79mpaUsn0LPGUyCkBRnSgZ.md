@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,203 songs - 3 day 5 hr 38 min
+1,207 songs - 3 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
 | [Born To Die](https://open.spotify.com/track/5kMAugdkH2coRHRnW5FuDb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 4:46 | 2024-07-05 |  |
 | [Boys](https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:39 | 2023-06-08 | 2023-07-11 |
+| [Brain](https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 | 2026-08-26 |  |
 | [Breadcrumb Trail](https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:55 | 2023-11-30 |  |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2024-01-08 |  |
 | [Bridge Burning](https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:45 | 2023-06-07 |  |
@@ -318,6 +319,7 @@
 | [Erica Western Teleport](https://open.spotify.com/track/5zliHc6Y8g8fy23ecBaods) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Western Teleport](https://open.spotify.com/album/0zN3afLG7nPnIC8qSGVpp9) | 3:33 | 2025-02-14 | 2025-09-26 |
 | [Erotica](https://open.spotify.com/track/1dBS4iejXWbLZyGpMejc1A) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Erotica Veronica](https://open.spotify.com/album/4qhA5QaHjGtDptQf2DMXTQ) | 3:13 | 2026-06-22 |  |
 | [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2024-01-06 |  |
+| [Etiquette I.D.](https://open.spotify.com/track/5n7VnQbx6A4C01afTZln8D) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 0:05 | 2026-08-26 |  |
 | [Eureka 378\-B](https://open.spotify.com/track/04G8S4DhyfpsmwWbFmc4fY) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV), [Nina Guo](https://open.spotify.com/artist/1dS1OQtTGCVmkaJanOpRA0), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Madison Greenstone](https://open.spotify.com/artist/5PkPi1lRFf74AC9dpr8fNI), [Weston Olencki](https://open.spotify.com/artist/5VltHPo6anXZzrWcquJrMR) | [Demand to Be Taken to Heaven Alive!](https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk) | 0:56 | 2026-06-23 |  |
 | [Every Girl](https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:45 | 2024-01-05 |  |
 | [Every Now and Then](https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Descendants of Cain](https://open.spotify.com/album/0yhyMBfxKhjy1f7TsXXssl) | 3:34 | 2024-06-05 | 2024-08-02 |
@@ -401,6 +403,7 @@
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-04-21 |  |
 | [Golden Arrow](https://open.spotify.com/track/2uo4ZOD82ldcydWj5cPqAa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 11:20 | 2025-12-06 |  |
 | [Gone](https://open.spotify.com/track/7GB9nHKwwLs9mdbjErqK4H) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 4:19 | 2025-07-23 | 2025-07-25 |
+| [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 | 2026-08-26 |  |
 | [Gone Hollywood](https://open.spotify.com/track/254AmmsIPAWg1nxwrnEpHj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ) | 5:17 | 2024-01-08 |  |
 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 | 2025-11-21 |  |
 | [Good Times Roll](https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 | 2024-01-08 | 2024-09-10 |
@@ -1065,6 +1068,7 @@
 | [The Universe in a Nutshell](https://open.spotify.com/track/5h19UPuV2Zbe0ERx4nQ0Bx) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 7:53 | 2026-01-01 |  |
 | [The View From The Afternoon](https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 3:42 | 2023-05-19 |  |
 | [The Wake](https://open.spotify.com/track/4FHhXk0JniueARdhSOInDZ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 2:15 | 2024-02-17 |  |
+| [The White Tent the Raft](https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [The Walking](https://open.spotify.com/album/7cv1OYN3ovq1sXi1Qwj2KW) | 9:12 | 2026-08-26 |  |
 | [The World Is My Oyster \(2023 Ver.\)](https://open.spotify.com/track/2JGsTyLC4gLCWXVmvUn5Wi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 1:46 | 2024-02-23 |  |
 | [The Wrong Way](https://open.spotify.com/track/36K1BobTaHN7g2pyrGqZKO) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Desperate Youth, Blood Thirsty Babes](https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx) | 4:38 | 2025-07-23 | 2025-08-02 |
 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 | 2024-01-01 |  |

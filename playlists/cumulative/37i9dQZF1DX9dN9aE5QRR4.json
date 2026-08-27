@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "La playlist officielle de Nouvelle \u00c9cole. Saison 5, bient\u00f4t dispo sur Netflix !",
+  "description": "La playlist officielle de Nouvelle \u00c9cole. Saison 5 dispo sur Netflix !",
   "name": "Nouvelle \u00c9cole",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 197200,
       "name": "02:00",
       "url": "https://open.spotify.com/track/3p0Y3ewrClI2TtrRoVkbBB"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 140000,
       "name": "100K - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2IaPdQUB6rMrz9ZppiSVKG"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 149845,
       "name": "180 Degres - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2vfvpVFYb7ia2RjAeOe6sJ"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 149995,
       "name": "Air Max TN - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1lhniJwch3tN8Vg5CHR2y6"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 179769,
       "name": "AMF - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0su56748WvAwZDecsY8ZNZ"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 113385,
       "name": "Animal - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/6xcKQIsZGEevehOdUe4AyH"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 111000,
       "name": "Avant-go\u00fbt - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/5MXsJhqpma8RvMr98zMD7Q"
@@ -366,6 +366,28 @@
       "duration_ms": 194344,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/5XD8dAkKVX2RwjYEjgGY9j"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "OZZY",
+          "url": "https://open.spotify.com/artist/2zbCtMABpCQBjjpARTaOuH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116013,
+      "name": "BACKWOOD - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1ItxUN5cIJPaeOol3GOig3"
     },
     {
       "album": {
@@ -400,7 +422,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 285000,
       "name": "BAGARRE - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/4rgY6aiDHgEiRG6pZvfBPf"
@@ -510,7 +532,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 117459,
       "name": "Bete ou Quoi - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1b2RsXLmYljtY20AmAYPyT"
@@ -528,10 +550,32 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 144626,
       "name": "Big mama",
       "url": "https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Choco Brauwn",
+          "url": "https://open.spotify.com/artist/3YoBfAOZI1qJPFWspsQ5e5"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Biographie - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/4r0hdhdQYtQ5Lqd5w3wE62"
     },
     {
       "album": {
@@ -550,7 +594,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 148965,
       "name": "Birthday - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1esmF7IeAbGUdq71b6UvVp"
@@ -590,7 +634,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 161613,
       "name": "C'est fort - Booska Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/5Xr7vMld7YpMwCKkqTugJv"
@@ -612,7 +656,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 92261,
       "name": "C'est La Vie - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/17oJbHIk0oXXYGIwjY8B6M"
@@ -634,7 +678,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 193736,
       "name": "C'EST MORT (feat. WarEnd)",
       "url": "https://open.spotify.com/track/5GakZtoiDbsK0TBYhJTxk2"
@@ -656,7 +700,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 113095,
       "name": "Ca tue l'temps - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/11ezbmguurG9L3LKijWyj5"
@@ -736,7 +780,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 211206,
       "name": "Chalnot Centrum - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1AMpPiZVsKRT3R5ugMTBke"
@@ -816,7 +860,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 119538,
       "name": "Cohiba - Nouvelle \u00c9cole - Bonus Track",
       "url": "https://open.spotify.com/track/1JKbf55em8QbWLudWDNfUJ"
@@ -936,7 +980,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 167132,
       "name": "Cullinan - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/3dcY4tF10ZuKNmiSiD5Vgl"
@@ -982,7 +1026,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 211874,
       "name": "Cypher Team SCH - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/4FAXbSg5WigLkpSnwD2nOw"
@@ -1020,7 +1064,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 181941,
       "name": "Cypher Team SDM - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/77Vp3A4q9BBdaTspeT01MX"
@@ -1086,7 +1130,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 151578,
       "name": "Dehors c'est Noir - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/64uFlY4sZu7YOhotoAjTQz"
@@ -1108,7 +1152,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 207988,
       "name": "Demain tout ira mieux",
       "url": "https://open.spotify.com/track/5EGvGFCqJIWBMxSyCysbAi"
@@ -1130,6 +1174,46 @@
       "duration_ms": 111459,
       "name": "DES BARZ !",
       "url": "https://open.spotify.com/track/5EG3vHQxQAAF1MKIF4sq9w"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "YANAMKO",
+          "url": "https://open.spotify.com/artist/3lGxtbddlGCF4KXwzRaPpi"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159013,
+      "name": "Des crocs - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/5KezDA5bTYvM3oLTpvXZh6"
+    },
+    {
+      "album": {
+        "name": "DIEU EST GRANDE",
+        "url": "https://open.spotify.com/album/75akm23oaHhtzextLCN2zz"
+      },
+      "artists": [
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "DIEU EST GRANDE",
+      "url": "https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl"
     },
     {
       "album": {
@@ -1162,7 +1246,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 135523,
       "name": "DO U WANNA ?",
       "url": "https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF"
@@ -1228,7 +1312,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 126080,
       "name": "Doucement - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0j0pOCUmnBHvxjD2EDc3dk"
@@ -1246,7 +1330,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 158263,
       "name": "D\u00e9sarmer",
       "url": "https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC"
@@ -1326,7 +1410,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 131332,
       "name": "En Petard - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/4oKpuuOqRcGRqntcX2mQAM"
@@ -1359,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154013,
+      "name": "Faire + que les autres - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/78DcuO9DGkKkH8sZ1HhPJA"
+    },
+    {
+      "album": {
         "name": "Nouvelle \u00c9cole | Saison 4 | Booska P (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/7thWbCp8lGuXjANOm9ors4"
       },
@@ -1374,7 +1480,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 139176,
       "name": "Falbala - Booska Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0bF1vfrWTspAz0okwGxNmB"
@@ -1403,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0Zu1973ka6igA5uYGiJ81S"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246222,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/0IhTXHtG1XRlM2kFWBiYxu"
+    },
+    {
+      "album": {
         "name": "Nouvelle \u00c9cole | Saison 4 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1dd7BfWq5G4mEJo3P5aEpt"
       },
@@ -1418,7 +1542,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 182917,
       "name": "Freestyle Kennedy Bridge - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1klkBolV6wKABaOfClT96m"
@@ -1444,7 +1568,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 202813,
       "name": "Freestyle Londonienne aime Le Rap - Nouvelle \u00c9cole - Bonus Track",
       "url": "https://open.spotify.com/track/34jxcANIyE04PEUNFmergG"
@@ -1466,7 +1590,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 152049,
       "name": "French Riviera",
       "url": "https://open.spotify.com/track/3geOCQaZHm3GRUolmeZpqv"
@@ -1488,7 +1612,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 146928,
       "name": "Frozen Static - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0Cwy8Zp4DKJ1kVzny9vpx2"
@@ -1522,7 +1646,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 242416,
       "name": "Galactiques Cypher - Nouvelle \u00c9cole - Bonus Track",
       "url": "https://open.spotify.com/track/2rqfJBZpiM8XtmPmKqZa4X"
@@ -1540,7 +1664,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 205080,
       "name": "GAUCHE DROITE",
       "url": "https://open.spotify.com/track/7LsYnC8kNpGZSDDDulmXph"
@@ -1656,7 +1780,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 143824,
       "name": "Harlem Squad - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/6L60iI4rseDSSlvDDlRTGO"
@@ -1736,7 +1860,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 168979,
       "name": "Impala - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0wSoCp7wxgDepwmZrgVCOf"
@@ -1754,7 +1878,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 217554,
       "name": "Insolent 5",
       "url": "https://open.spotify.com/track/0jzGDllueKRPQwUj6zgJyJ"
@@ -1776,7 +1900,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 219114,
       "name": "Je sais pas faire de Refrains - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2nqz8fkqxbWx373LdoxlvR"
@@ -1837,6 +1961,28 @@
     },
     {
       "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jeez Suave",
+          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
+    },
+    {
+      "album": {
         "name": "KYLL",
         "url": "https://open.spotify.com/album/0iaSXjvJQx0AAVoOeaBt44"
       },
@@ -1874,10 +2020,28 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 126331,
       "name": "La banqui\u00e8re et l'\u00e9toile - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/3Ct6WYD9VUwgZL4gILzjMu"
+    },
+    {
+      "album": {
+        "name": "HLM2",
+        "url": "https://open.spotify.com/album/4X8XCXidVPuKpTZmsLHaTz"
+      },
+      "artists": [
+        {
+          "name": "Mister You",
+          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140739,
+      "name": "La Costa",
+      "url": "https://open.spotify.com/track/4reODQeIoWhBgXe3nZmehp"
     },
     {
       "album": {
@@ -1896,6 +2060,50 @@
       "duration_ms": 179426,
       "name": "La kiffance",
       "url": "https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Base 221",
+          "url": "https://open.spotify.com/artist/1HfBe0SGyd0cXWXYhKmMxm"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197187,
+      "name": "Laisse moi te dire - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/2p4k2cy51Gh7cBuvTlGx13"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Ezek",
+          "url": "https://open.spotify.com/artist/4dOyRJ3XxjqGYAbq3tTHQ7"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123013,
+      "name": "Le beurre - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/21DQ739qOzCp21y193jRiU"
     },
     {
       "album": {
@@ -1932,7 +2140,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 165000,
       "name": "le nord",
       "url": "https://open.spotify.com/track/16toumA1T6rm3E568YM0Jx"
@@ -1954,7 +2162,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 136102,
       "name": "Le rap a niqu\u00e9 ma vie - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1hGhV4yo5SXmp4QZ91T2jV"
@@ -1997,6 +2205,28 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Nayte",
+          "url": "https://open.spotify.com/artist/50m4JeiAg5aCt3kKRsKw7T"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154013,
+      "name": "LEVEL UP - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/2YJGf001sT2KLXs4HuYJn5"
+    },
+    {
+      "album": {
         "name": "Nouvelle \u00c9cole | Saison 4 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/30XbWO5hH3mY4JhP6QZMTx"
       },
@@ -2030,7 +2260,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 146780,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/3hsQMxiNT2XFGywHkcgCrD"
@@ -2048,10 +2278,32 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 171188,
       "name": "Ma s\u0153ur - Au Pays Des Merveilles",
       "url": "https://open.spotify.com/track/0djBr9opRVIVJ5jviM4GkS"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "ANS",
+          "url": "https://open.spotify.com/artist/08X9pFugWioR3ffyWORMsd"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "Machakil - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1T3ZjaCjD3X12kPhClK1sX"
     },
     {
       "album": {
@@ -2070,7 +2322,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 174935,
       "name": "Madoff - Booska Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/3w49bcvyUTZ7tthkfY20JK"
@@ -2092,7 +2344,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 167946,
       "name": "Magique",
       "url": "https://open.spotify.com/track/3YnO1ES9RFhlziqFTwQbKB"
@@ -2110,10 +2362,32 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 177417,
       "name": "MAILLOT DE FOOT \u00c0 MARRAKECH",
       "url": "https://open.spotify.com/track/6BDQYbB9p7KCox0UXx5jHi"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "ANS",
+          "url": "https://open.spotify.com/artist/08X9pFugWioR3ffyWORMsd"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Mal aim\u00e9 - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/29MCr7JzCCO5DUnq70QUZu"
     },
     {
       "album": {
@@ -2128,7 +2402,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 192182,
       "name": "Malya",
       "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
@@ -2168,7 +2442,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 149070,
       "name": "Me colle pas - Booska Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/16Mny5cvm3FRsBRcIL5JuT"
@@ -2208,7 +2482,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 156676,
       "name": "Melrose Place",
       "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
@@ -2252,10 +2526,32 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 184072,
       "name": "Misaotra - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1E1sFUwobQopymfKEQpC66"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Kynn",
+          "url": "https://open.spotify.com/artist/5OZiwRkXsFm4IMlCLf5h9G"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149013,
+      "name": "Mission Humanitaire - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/35dDVhp4d6cMKTzKZ7BvNo"
     },
     {
       "album": {
@@ -2274,7 +2570,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 219000,
       "name": "Mourir Demain (Nouvelle \u00c9cole)",
       "url": "https://open.spotify.com/track/2QPGE7wCDh2VMTcvGl2rzE"
@@ -2379,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "OZZY",
+          "url": "https://open.spotify.com/artist/2zbCtMABpCQBjjpARTaOuH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168013,
+      "name": "OLALA - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1XnP0mDRlR2tjJVIOPiqvN"
+    },
+    {
+      "album": {
         "name": "2CB",
         "url": "https://open.spotify.com/album/6u7W7S62u7cvSe9H3jgwut"
       },
@@ -2466,7 +2784,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 178920,
       "name": "Parabellum (Nouvelle \u00c9cole)",
       "url": "https://open.spotify.com/track/3hcFPs4c7D3impUjYq2l7W"
@@ -2484,7 +2802,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 207106,
       "name": "Para\u00eet que les miracles n'existent pas",
       "url": "https://open.spotify.com/track/4sLFiAxqRm0DYjUfdWznXI"
@@ -2546,7 +2864,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 132192,
       "name": "PEE",
       "url": "https://open.spotify.com/track/06QQ4ha6SaSWCKCBXx5sVd"
@@ -2590,7 +2908,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 130037,
       "name": "Personne - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/5RIXW3MtY5vw5Hrd1aRPK8"
@@ -2634,7 +2952,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 183077,
       "name": "Peur - Nouvelle \u00c9cole (Remix) - Bonus Track",
       "url": "https://open.spotify.com/track/3ioHLL39qHrtloeZz9PcIV"
@@ -2656,7 +2974,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 155709,
       "name": "Picard - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/5Qjw4I3EtfAvnAYDhazsvf"
@@ -2678,7 +2996,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 159423,
       "name": "Pi\u00e8ge - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1CTjB3gkFtAHNQqtI0w3vL"
@@ -2700,7 +3018,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 190190,
       "name": "Plus Rien - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/7dEV9FizaLdNkcMLpzY5gm"
@@ -2776,7 +3094,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 211536,
       "name": "Putain de mood",
       "url": "https://open.spotify.com/track/46s5caVUnvSEAfE39FMxo2"
@@ -2798,7 +3116,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 149508,
       "name": "Racks - Booska Nouvelle \u00c9cole - Bonus Track",
       "url": "https://open.spotify.com/track/7xaFBxkqKXaoUy9oethBpp"
@@ -2816,7 +3134,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 245309,
       "name": "RAINBOW - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4REkeLXPhLOs2vTO83VHh2"
@@ -2838,10 +3156,32 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 156508,
       "name": "Respire - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/6m9BpDA7scgty0A8sP4Gu4"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Nayte",
+          "url": "https://open.spotify.com/artist/50m4JeiAg5aCt3kKRsKw7T"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "RIDE - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/6gNgjwBZc8AJG6EhdMqLyt"
     },
     {
       "album": {
@@ -2864,6 +3204,28 @@
       "duration_ms": 192000,
       "name": "S.A.D (feat. Josman)",
       "url": "https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "YANAMKO",
+          "url": "https://open.spotify.com/artist/3lGxtbddlGCF4KXwzRaPpi"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203626,
+      "name": "Sage - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1RtlGf0CIqQImlPlZ5Kpf6"
     },
     {
       "album": {
@@ -2900,10 +3262,54 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 117355,
       "name": "Salut - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1D3k6o2PMPXFmTdJ1MYDTl"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160773,
+      "name": "Samedi soir - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/5lie7Ic5VbMDhPvIPiLfRl"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "Base 221",
+          "url": "https://open.spotify.com/artist/1HfBe0SGyd0cXWXYhKmMxm"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Sans risque - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/4ROVRlO5XUqFNEbVz5LMLG"
     },
     {
       "album": {
@@ -2922,7 +3328,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 116589,
       "name": "Sarouel - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0eDP9XFJn7ghObMOpJcPH9"
@@ -2962,7 +3368,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 84923,
       "name": "Shifu - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/4yPrfU3LhXRETMdX7DjN86"
@@ -3024,7 +3430,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 153618,
       "name": "Stallion - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/41pxXd0T5p7J3HL77ZkquK"
@@ -3042,7 +3448,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 154897,
       "name": "Swipe",
       "url": "https://open.spotify.com/track/0ASXXXCxdvzPAdpH6pKFNk"
@@ -3064,7 +3470,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 133736,
       "name": "Tekkit - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/7uenhqAfL4SMnFfwgxHNIh"
@@ -3141,6 +3547,28 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
+      },
+      "artists": [
+        {
+          "name": "MISCHA",
+          "url": "https://open.spotify.com/artist/4jQJP7r2EqusqHqWaJ7KnA"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125013,
+      "name": "Trap Biff Vrai Principes - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/2h92vWVwxM12CSOJXtpL0h"
+    },
+    {
+      "album": {
         "name": "Trop tard",
         "url": "https://open.spotify.com/album/2p9A9Skhl3ATeY2S71SSk0"
       },
@@ -3192,7 +3620,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 152105,
       "name": "Vandal - Booska Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2DUCJGd4jzNVXFoXCg6uAc"
@@ -3232,7 +3660,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 134400,
       "name": "Wine - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0VOngwxQuO2rOJQ8DtodYm"
@@ -3254,7 +3682,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 140619,
       "name": "Y'a Plus d'Pardon - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1MD5FbaGD4UhdSrOdzgCFX"
@@ -3280,7 +3708,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 214901,
       "name": "Yafama - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2rd3kchMtUoVCP7S7a0Lxa"
@@ -3302,7 +3730,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 106703,
       "name": "Yakuza - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0H3aRDlZ6DR0QEycChPbel"
@@ -3324,7 +3752,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 162041,
       "name": "ZOU BISOU",
       "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
@@ -3342,7 +3770,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 245806,
       "name": "\u00c9TATS D'\u00c2MES",
       "url": "https://open.spotify.com/track/3P8r1wO1iIvUPjyWeziue4"

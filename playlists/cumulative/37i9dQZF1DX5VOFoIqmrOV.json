@@ -635,6 +635,36 @@
     },
     {
       "album": {
+        "name": "Gopala Gopala",
+        "url": "https://open.spotify.com/album/23G0hMNV05MLWVnDQIJkIx"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240404,
+      "name": "Bhaje Bhaaje",
+      "url": "https://open.spotify.com/track/6HrOl8dhXsE6RCR4I7Q91K"
+    },
+    {
+      "album": {
         "name": "Acharya",
         "url": "https://open.spotify.com/album/1WqUN4uqBNeoMBgeyCblTv"
       },
@@ -964,7 +994,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 267571,
       "name": "Chali Gaali Chuudduu",
       "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
@@ -6307,6 +6337,36 @@
     },
     {
       "album": {
+        "name": "Yaalalo Yaalalo (From \"Irumudi\")",
+        "url": "https://open.spotify.com/album/4mfH51Wz82x07QupDT7fMc"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Sadhika K R",
+          "url": "https://open.spotify.com/artist/2ES35LM2c97AhayaTYvZ6P"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253061,
+      "name": "Yaalalo Yaalalo (From \"Irumudi\")",
+      "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"
+    },
+    {
+      "album": {
         "name": "Ye Chota Nuvvunna (From \"Saaho\")",
         "url": "https://open.spotify.com/album/3ZrZpzTnY2dG9j6deMtuRq"
       },
@@ -6362,7 +6422,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 215074,
       "name": "Yellipoke Shyamala",
       "url": "https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa"

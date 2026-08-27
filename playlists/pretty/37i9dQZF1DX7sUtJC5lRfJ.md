@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,224 likes - 32 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,231 likes - 32 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 31 | [mới hôm qua](https://open.spotify.com/track/1ZjICQJECU0rO8Vf6AOVbv) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ÁNH SÁNG • MÀN ĐÊM](https://open.spotify.com/album/6k7nuWjzJRXCxolrOr56C0) | 3:16 |
 | 32 | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/track/6ELX356o21U28T73ZxruUj) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/album/4qCaDixeJX4LXWMZs6rVyl) | 4:34 |
 
-Snapshot ID: `AAAAADqO1pwf3duRYD/sGk6e9ZdUaDm5`
+Snapshot ID: `AAAAAD5RS8/xi1Uq7CT6Je+qfwrNKIJe`

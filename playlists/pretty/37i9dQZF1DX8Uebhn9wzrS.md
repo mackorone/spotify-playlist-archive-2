@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,163,768 likes - 194 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,163,843 likes - 194 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 193 | [learn to rest](https://open.spotify.com/track/2e2aYnqKEuQXPd7L15WGAF) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [learn to rest](https://open.spotify.com/album/1GQFzssEGwP4hykTH1fCXC) | 2:19 |
 | 194 | [Familiar Places](https://open.spotify.com/track/3osBV0wkWjEDRWKxo4UjDK) | [DowtownRain](https://open.spotify.com/artist/2ifE3zo60zdSYOptvRhHYa) | [Familiar Places](https://open.spotify.com/album/0LC0OTEH5Lf8rXvXw9rPVK) | 2:17 |
 
-Snapshot ID: `AAAAAEbkapr6ZqvwFLYNIXRQln2LfXFV`
+Snapshot ID: `AAAAAJKNwxnNrzE5SSxS8I4k/1oMX6qz`

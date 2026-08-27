@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,056 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,067 likes - 100 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 65 | [Lessons](https://open.spotify.com/track/1rT1QBkBlfmhwbggWMAP5Z) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Lessons](https://open.spotify.com/album/0fn00wTH1vbkr4dWpozmOS) | 4:10 |
 | 66 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 |
 | 67 | [Staircase](https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Staircase](https://open.spotify.com/album/1kTFnkAx4RVkjuh1rNtWFD) | 4:30 |
-| 68 | [Breakfast of Champs \(Live\)](https://open.spotify.com/track/35S87Fc7BaLnwtKQZQ3633) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Jaunts of Our Lives, Vol\. 2 \(Live\)](https://open.spotify.com/album/5b4LQV3XlMqhfevuZeEW3a) | 14:15 |
+| 68 | [Breakfast of Champs \- Live](https://open.spotify.com/track/35S87Fc7BaLnwtKQZQ3633) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Jaunts of Our Lives, Vol\. 2 \(Live\)](https://open.spotify.com/album/5b4LQV3XlMqhfevuZeEW3a) | 14:15 |
 | 69 | [Dreaming Out Loud \[Feat\. Ivan Neville, Ruthie Foster\]](https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Dreaming Out Loud](https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35) | 4:38 |
 | 70 | [Despierta](https://open.spotify.com/track/3oVXcvauOF5fUgQXtfcyVy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2ispQP4b20p3IoW4bWfHrQ) | 3:38 |
 | 71 | [So Hi](https://open.spotify.com/track/61pEdaki064tmSbbmaS276) | [Florida Man](https://open.spotify.com/artist/0HLjLkTibYsCmYZAKOvycy) | [So Hi // So Lo](https://open.spotify.com/album/4H0JNm9NuL5vdpsVEk6mdu) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `AAAAAAZqA/O33wFW5XgA3byEYASEnJYP`
+Snapshot ID: `AAAAAI1WiDMG9ARNFtOoQmZJ43KXcTGD`

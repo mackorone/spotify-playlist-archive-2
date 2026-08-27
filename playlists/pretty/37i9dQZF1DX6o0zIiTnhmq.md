@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,466 likes - 75 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,531 likes - 75 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Durga Mantra \- Extended](https://open.spotify.com/track/47b3mwI3c1rD048JyqkKFL) | [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Durga Mantra \- Extended](https://open.spotify.com/album/5LceflBlofcir3TyJu88yC) | 3:03 |
 | 75 | [Ramashtakam](https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Ramashtakam](https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp) | 6:02 |
 
-Snapshot ID: `AAAAAA4IY/UknRMIvbPFsjgZOYw81kBs`
+Snapshot ID: `AAAAAD9NHa66M/s1FXz677mpJnKdDR+k`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,807 likes - 150 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,062 likes - 150 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 149 | [Opening Trees](https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E) | [Morouj](https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK) | [Opening Trees](https://open.spotify.com/album/1ve1MD9koLWiujPSXZxOXO) | 3:05 |
 | 150 | [Like A Dream](https://open.spotify.com/track/14kB7WvRwqQZxvYK0SfTqw) | [Sous la vague](https://open.spotify.com/artist/0OozwIRMLcU0nCpyANNLBG) | [Like A Dream](https://open.spotify.com/album/2b0l0UA3ZUcBVrrvGOwizl) | 2:31 |
 
-Snapshot ID: `AAAAAF8zwQzwZRQgziy4js4J5UvKJC97`
+Snapshot ID: `AAAAAIEoZky43VaGXqRl/XFwDKmdVZuT`

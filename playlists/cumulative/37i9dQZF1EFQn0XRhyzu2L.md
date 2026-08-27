@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-697 songs - 1 day 14 hr 13 min
+698 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [Only](https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:00 | 2024-02-27 |  |
 | [Only Love](https://open.spotify.com/track/3s7uJNPy4CwM3van8iTQOf) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:21 | 2025-05-25 |  |
 | [Only Time of Year](https://open.spotify.com/track/2SI7uQa7rugjxIrDM2czso) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:58 | 2024-02-27 |  |
-| [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU) | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM) | 3:25 | 2024-02-27 |  |
+| [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU) | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM) | 3:25 | 2024-02-27 | 2026-08-27 |
 | [Otro Level](https://open.spotify.com/track/0QTNqESiTNtNZpakyN1sek) | [clonakz](https://open.spotify.com/artist/0ou7NMwZ7JMtAUoV0uSF8k) | [Otro Level](https://open.spotify.com/album/5L3AEt8GfYwdQ6DYF4mYau) | 1:59 | 2024-07-13 | 2024-07-18 |
 | [Otro Level](https://open.spotify.com/track/6TcSDna60Q1Xonp2IvFmPd) | [Miguel Cross](https://open.spotify.com/artist/0xrSHgMkQzTDAKRVlrctpI) | [Otro Level](https://open.spotify.com/album/18m9Xjnf2M6JzK272547Tu) | 2:01 | 2024-11-09 | 2025-06-13 |
 | [Otro Level](https://open.spotify.com/track/3da999B9jdR1aXbr3MkA5d) | [stuck in 98](https://open.spotify.com/artist/1AONy6lGpBqVE5dALEhBID), [Y si Ah](https://open.spotify.com/artist/1tBnZZW7w92XbA4rVYbblF) | [Otro Level](https://open.spotify.com/album/4RxTRvsmseN1LEUzvjaYSd) | 2:01 | 2024-11-01 | 2024-11-10 |
@@ -655,6 +655,7 @@
 | [Valentine](https://open.spotify.com/track/19hh7DkfRBrpRGYfKlw7jb) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:16 | 2024-02-27 |  |
 | [Vegas](https://open.spotify.com/track/2Fxx2DILYteh39yff8X5zq) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 2:55 | 2024-02-27 |  |
 | [Voodoo](https://open.spotify.com/track/4ii87tl5oO9CvUuKBn2N5h) | [Rory Grace](https://open.spotify.com/artist/4OvaKHUPMdt57gOzcACn1O) | [Voodoo](https://open.spotify.com/album/7sn8HpX7YJGUf7Q2esmfrP) | 3:11 | 2025-05-31 | 2026-08-07 |
+| [Voodoo](https://open.spotify.com/track/3MjaQoGDgxpx7Q1eisGXS9) | [Wavy Jones](https://open.spotify.com/artist/1DHEFNCfBH1kUlq02D7eqG) | [Late Nights, Early Mornings](https://open.spotify.com/album/6XMKgYy3d5mCgWRup5YHCo) | 3:11 | 2026-08-26 |  |
 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 | 2024-02-27 |  |
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-02 |  |
 | [Walking The Wire](https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:52 | 2024-02-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: BIGBANG
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,814 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,809 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [A Parallel World \(from Forgotten Island\)](https://open.spotify.com/track/5B7Aeln3v0fMgJh8MhxTw0) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [A Parallel World \(from Forgotten Island\)](https://open.spotify.com/album/1fpU3p9VuH941YMEVXaiqE) | 3:37 |
 | 100 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
 
-Snapshot ID: `AAAAAFZ48tK8/GjSzRxPdp2n/Lov6EBf`
+Snapshot ID: `AAAAAE7SunlyAEjg4Owca7/eGCjCFM6z`

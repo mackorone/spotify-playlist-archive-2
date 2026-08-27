@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Ásgeir og mörgum fleirum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,707 likes - 81 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,707 likes - 82 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 79 | [Light That Never Goes Out](https://open.spotify.com/track/5CqrjbsznxZNJ914mTqAsH) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Light That Never Goes Out](https://open.spotify.com/album/5F6ViTRGVxJD8yNiVZy9Ui) | 2:50 |
 | 80 | [Double Denim](https://open.spotify.com/track/4ckURFhIveVy1G1QnsHUs0) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Double Denim](https://open.spotify.com/album/1r6p79R0eJU25bAchNgeIV) | 2:30 |
 | 81 | [Bet \(Queen Of Clubs\)](https://open.spotify.com/track/703Yi22thsOmhBmy4QKh3j) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Bet \(Queen Of Clubs\)](https://open.spotify.com/album/7FrhAHnjrANVtd4GYgRfXs) | 2:16 |
+| 82 | [If Not Now, When](https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [If Not Now, When](https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6) | 3:57 |
 
-Snapshot ID: `AAAAAFwKnbK8jD2vdQSNVQQamztaqPz5`
+Snapshot ID: `AAAAANOh1Iu3mE9vs3zjUTwKNXma+Agi`

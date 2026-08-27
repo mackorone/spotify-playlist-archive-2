@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG44nLoRSiohaSDy7pPMLkvBRAcd",
+  "snapshot_id": "AAAAACO3U+enF1FbJhMHgxTzOwMRhDPa",
   "tracks": [
     {
       "added_at": "2021-01-07 15:38:59",
@@ -23,22 +23,6 @@
       "duration_ms": 1242070,
       "name": "Two Americas collide",
       "url": "https://open.spotify.com/episode/1idsbT8zcNTi1HdKzjJ4Y2"
-    },
-    {
-      "added_at": "2021-01-05 09:06:00",
-      "album": {
-        "name": "Sidebar",
-        "url": "https://open.spotify.com/album/7d3VDv4ekyUrfTaIB4hbqW"
-      },
-      "artists": [
-        {
-          "name": "Sidebar",
-          "url": "https://open.spotify.com/show/7d3VDv4ekyUrfTaIB4hbqW"
-        }
-      ],
-      "duration_ms": 1650547,
-      "name": "Trump and the economy: The administration\u2019s biggest victories also exacerbated our divides",
-      "url": "https://open.spotify.com/episode/27cbthZCG4dLzdj0aKydMo"
     }
   ],
   "unique_name": "Stay in the Know",

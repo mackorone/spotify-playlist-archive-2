@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,180,859 likes - 147 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,180,874 likes - 147 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 119 | [Solitude](https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8) | [Ari Bragi Kárason](https://open.spotify.com/artist/14dnPD91TVkTNQ09DDXkDW), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Solitude](https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3) | 3:18 |
 | 120 | [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 |
 | 121 | [All the Things You Are](https://open.spotify.com/track/2BgxwHGlY8aPhiGurdkuON) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [All the Things You Are](https://open.spotify.com/album/1vgiVIGoquD7w4ttvRM7L5) | 5:24 |
-| 122 | [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 |
-| 123 | [In A Sentimental Mood](https://open.spotify.com/track/0L5jTWqmqW0X5FFnMjYLpQ) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [In A Sentimental Mood](https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s) | 5:06 |
+| 122 | [In A Sentimental Mood](https://open.spotify.com/track/0L5jTWqmqW0X5FFnMjYLpQ) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [In A Sentimental Mood](https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s) | 5:06 |
+| 123 | [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 |
 | 124 | [Wall](https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [Hilmar Jensson](https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy), [Matthias Hemstock](https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU) | [Wall](https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9) | 4:59 |
 | 125 | [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 |
 | 126 | [From The Mountains](https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From The Mountains](https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB) | 8:20 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 146 | [Another Land](https://open.spotify.com/track/0zCkOKYeToZAvm5rnUxcA3) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/1OVtWo9d7gohmH7LhLlIdq) | 9:18 |
 | 147 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 |
 
-Snapshot ID: `AAAAAGKlaX6Mq5AgJOxT9a8AKfWTreD5`
+Snapshot ID: `AAAAAPnaychgFzjsuje4r3j/dX1wXBpq`

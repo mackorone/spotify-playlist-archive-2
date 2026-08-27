@@ -162,7 +162,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220404,
-      "name": "BOOMPALA (HONG EUNCHAE ver.)",
+      "name": "BOOMPALA - HONG EUNCHAE ver.",
       "url": "https://open.spotify.com/track/0TKHPjXbQoDZXM5tqUGbuj"
     },
     {
@@ -180,62 +180,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 118907,
-      "name": "BOOMPALA (HUH YUNJIN ver.)",
+      "name": "BOOMPALA - HUH YUNJIN ver.",
       "url": "https://open.spotify.com/track/6Rh57nydhtGY7iBQTj3kGF"
-    },
-    {
-      "album": {
-        "name": "BOOMPALA (LE SSERAFIM Packages)",
-        "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "date_added": "2026-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140909,
-      "name": "BOOMPALA (KAZUHA ver.)",
-      "url": "https://open.spotify.com/track/5XQC4Q0BPvSrA25ynYgMmt"
-    },
-    {
-      "album": {
-        "name": "BOOMPALA (LE SSERAFIM Packages)",
-        "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "date_added": "2026-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164782,
-      "name": "BOOMPALA (KIM CHAEWON ver.)",
-      "url": "https://open.spotify.com/track/1nzVapIAHsambwMsbzRjKx"
-    },
-    {
-      "album": {
-        "name": "BOOMPALA (LE SSERAFIM Packages)",
-        "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "date_added": "2026-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153103,
-      "name": "BOOMPALA (SAKURA ver.)",
-      "url": "https://open.spotify.com/track/3tzP8T87PQr1k1XIVyRMFT"
     },
     {
       "album": {
@@ -275,6 +221,42 @@
     },
     {
       "album": {
+        "name": "BOOMPALA (LE SSERAFIM Packages)",
+        "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140909,
+      "name": "BOOMPALA - KAZUHA ver.",
+      "url": "https://open.spotify.com/track/5XQC4Q0BPvSrA25ynYgMmt"
+    },
+    {
+      "album": {
+        "name": "BOOMPALA (LE SSERAFIM Packages)",
+        "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "BOOMPALA - KIM CHAEWON ver.",
+      "url": "https://open.spotify.com/track/1nzVapIAHsambwMsbzRjKx"
+    },
+    {
+      "album": {
         "name": "BOOMPALA (Remixes)",
         "url": "https://open.spotify.com/album/742CzMg7nWRm2ClrwEgUGu"
       },
@@ -290,6 +272,24 @@
       "duration_ms": 223188,
       "name": "BOOMPALA - Piano ver.",
       "url": "https://open.spotify.com/track/3HYu8vcTY274bEcDGhuPlo"
+    },
+    {
+      "album": {
+        "name": "BOOMPALA (LE SSERAFIM Packages)",
+        "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "BOOMPALA - SAKURA ver.",
+      "url": "https://open.spotify.com/track/3tzP8T87PQr1k1XIVyRMFT"
     },
     {
       "album": {
@@ -489,28 +489,6 @@
     },
     {
       "album": {
-        "name": "CELEBRATION (Sara Landry Remix)",
-        "url": "https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "date_added": "2026-05-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 261538,
-      "name": "CELEBRATION (Sara Landry Remix)",
-      "url": "https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty"
-    },
-    {
-      "album": {
         "name": "CELEBRATION (Remixes)",
         "url": "https://open.spotify.com/album/2jujmpcT8jcjKiyQzLfh2l"
       },
@@ -544,6 +522,28 @@
       "duration_ms": 152400,
       "name": "CELEBRATION - Karaoke ver.",
       "url": "https://open.spotify.com/track/6HrW8aEIJdc1wdkHUmsQV8"
+    },
+    {
+      "album": {
+        "name": "CELEBRATION (Sara Landry Remix)",
+        "url": "https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261538,
+      "name": "CELEBRATION - Sara Landry Remix",
+      "url": "https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty"
     },
     {
       "album": {
@@ -1048,7 +1048,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164727,
-      "name": "EASY (Drum & Bass Remix)",
+      "name": "EASY - Drum & Bass Remix",
       "url": "https://open.spotify.com/track/16TyjAiSkhVm5pmSccJcsW"
     },
     {
@@ -1066,7 +1066,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164546,
-      "name": "EASY (English ver.)",
+      "name": "EASY - English ver.",
       "url": "https://open.spotify.com/track/3y5nzCgwQPoaYWTdoKxWTo"
     },
     {
@@ -1084,7 +1084,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193769,
-      "name": "EASY (English ver.) (Slowed + Reverb ver.)",
+      "name": "EASY - English ver. (Slowed + Reverb ver.)",
       "url": "https://open.spotify.com/track/6lliRg7AiW61pc2nrxjPNX"
     },
     {
@@ -1102,7 +1102,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132330,
-      "name": "EASY (English ver.) (Sped Up ver.)",
+      "name": "EASY - English ver. (Sped Up ver.)",
       "url": "https://open.spotify.com/track/0cyyRzvCp22yPwHB7zmg41"
     },
     {
@@ -1120,7 +1120,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164545,
-      "name": "EASY (Instrumental)",
+      "name": "EASY - Instrumental",
       "url": "https://open.spotify.com/track/3MAX1blv9P12wBOPgHMfra"
     },
     {
@@ -1138,7 +1138,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151279,
-      "name": "EASY (Pluggnb Remix)",
+      "name": "EASY - Pluggnb Remix",
       "url": "https://open.spotify.com/track/4tVBXvmQDYaBMuVnazDU7P"
     },
     {
@@ -1156,7 +1156,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193766,
-      "name": "EASY (Slowed + Reverb ver.)",
+      "name": "EASY - Slowed + Reverb ver.",
       "url": "https://open.spotify.com/track/4sLK0o0Vxk4HNVW3A7pKvw"
     },
     {
@@ -1174,7 +1174,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132439,
-      "name": "EASY (Sped Up ver.)",
+      "name": "EASY - Sped Up ver.",
       "url": "https://open.spotify.com/track/2ebR6glZRqhlpWXpSeMmEB"
     },
     {
@@ -1194,24 +1194,6 @@
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
-    },
-    {
-      "album": {
-        "name": "Eve, Psyche & the Bluebeard\u2019s wife (English Ver.)",
-        "url": "https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "date_added": "2023-07-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186119,
-      "name": "Eve, Psyche & the Bluebeard\u2019s wife (English Ver.)",
-      "url": "https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76"
     },
     {
       "album": {
@@ -1259,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (English Ver.)",
+        "url": "https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife - English Ver.",
+      "url": "https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76"
+    },
+    {
+      "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
         "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
       },
@@ -1276,7 +1276,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174173,
-      "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife - Rina Sawayama Remix",
       "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
     },
     {
@@ -1891,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Perfect Night (Holiday Remix)",
+        "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162336,
+      "name": "Perfect Night - Holiday Remix",
+      "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
+    },
+    {
+      "album": {
         "name": "Perfect Night (Remix)",
         "url": "https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1"
       },
@@ -1904,7 +1922,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175893,
-      "name": "Perfect Night (Slowed + Reverb ver.)",
+      "name": "Perfect Night - Slowed + Reverb ver.",
       "url": "https://open.spotify.com/track/5sVWwPuoQlZpvAFcF0MMjf"
     },
     {
@@ -1922,26 +1940,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 128779,
-      "name": "Perfect Night (Sped Up ver.)",
+      "name": "Perfect Night - Sped Up ver.",
       "url": "https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK"
-    },
-    {
-      "album": {
-        "name": "Perfect Night (Holiday Remix)",
-        "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "date_added": "2023-11-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162336,
-      "name": "Perfect Night - Holiday Remix",
-      "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
     },
     {
       "album": {

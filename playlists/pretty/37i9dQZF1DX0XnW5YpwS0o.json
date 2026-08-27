@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 128653,
+  "num_followers": 128701,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAt4Xd0z+uBGC2LytxbddOMeBc6g",
+  "snapshot_id": "AAAAALNWFPqvI5PqBjSova3mjzQQwtjN",
   "tracks": [
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Teens of Denial",
-        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 233076,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Teens of Denial",
+        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 374653,
+      "name": "Drunk Drivers/Killer Whales",
+      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
     },
     {
       "added_at": "2026-01-20 18:32:57",

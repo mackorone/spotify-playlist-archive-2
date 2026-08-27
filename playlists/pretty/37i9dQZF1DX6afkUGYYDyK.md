@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,565 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,630 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 96 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
 | 97 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
 | 98 | [Praise God For That](https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise God For That](https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww) | 3:12 |
-| 99 | [Thank You So Much Jesus](https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Paul Klein](https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb) | [Thank You So Much Jesus](https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH) | 4:09 |
-| 100 | [Thankful \(7.6.19\)](https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Thankful \(7.6.19\)](https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX) | 2:32 |
+| 99 | [Thankful \(7.6.19\)](https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Thankful \(7.6.19\)](https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX) | 2:32 |
+| 100 | [Thank You So Much Jesus](https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Paul Klein](https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb) | [Thank You So Much Jesus](https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH) | 4:09 |
 
-Snapshot ID: `AAAAACxn6SFaVf350p5z2nGwbB31AT9O`
+Snapshot ID: `AAAAALyYI6Co6jipVC2MgnP49bjyfmIJ`

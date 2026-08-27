@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 
 > y no llore, nomás acuérdese 🍺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,862 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,983 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 | 4 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
 | 5 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
 | 6 | [Si Quieres](https://open.spotify.com/track/3V6sF8m5slRPd4yVZRQHOr) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 2\)](https://open.spotify.com/album/2NBsJvjMiExhcDxZPRZfms) | 3:40 |
-| 7 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
+| 7 | [Libro Abierto / Qué Se Te Olvidó \- En Vivo](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
 | 8 | [Golpes En El Corazón](https://open.spotify.com/track/5PayR9Omvn5uaXQfwLlRKR) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [20 Boleros Románticos](https://open.spotify.com/album/06cJaNYw5J2vIKQ3xxlZ39) | 3:49 |
 | 9 | [Costumbres](https://open.spotify.com/track/6CvX48ayZBhvziLBmxZ31Y) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 1\)](https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54) | 3:30 |
 | 10 | [En Eso No Quedamos](https://open.spotify.com/track/36FKDNin24quvuo5Un7GFB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Preso De Nuevo Leon](https://open.spotify.com/album/2jstsfAeOALnqa1A1feFEN) | 2:57 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 | 84 | [Con Un Beso](https://open.spotify.com/track/7ikpCS4DKHBtPytW3hqTKz) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Grandes Boleros Arrolladores](https://open.spotify.com/album/5OXBG13qAQGkPLr6xzx2Nt) | 2:55 |
 | 85 | [Sentimiento de Dolor](https://open.spotify.com/track/2tLcEO81CKYa87Jf9NR6fx) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Ranchero y Mucho Más](https://open.spotify.com/album/22V4Ns9jAEuymbDB6hGrFD) | 2:11 |
 
-Snapshot ID: `AAAAAAfzz2zKVmPohy4UpQen93HlUSB+`
+Snapshot ID: `AAAAANi6ye7ln/EEEgNc2GhFwtbOn42s`

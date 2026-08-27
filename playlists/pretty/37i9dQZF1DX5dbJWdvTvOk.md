@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,595 likes - 300 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,594 likes - 300 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 299 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 |
 | 300 | [Sancy](https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz) | [Oli Bloom](https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl) | [Sancy](https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z) | 2:23 |
 
-Snapshot ID: `AAAAAH/C/Ekmqw5Osyvyja6clBOAIEtU`
+Snapshot ID: `AAAAAJtdu7pTsGtYSShACqwpsovDeYkM`

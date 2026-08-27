@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Roxy Dekker,  Tino Martin & Billy Dansen, Jorja Smith, Fontaines D.C\. en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,883 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,882 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Vanavond Ben Ik Vrij](https://open.spotify.com/track/4VICuM9mi2zfDUlmm0oJRl) | [Martijn Fischer](https://open.spotify.com/artist/3XcxxF0DcHXaSKutfg7vng) | [Vanavond Ben Ik Vrij](https://open.spotify.com/album/0GHA1eHbaMBav2Kep5HZZP) | 3:00 |
 | 100 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
 
-Snapshot ID: `AAAAAMl4LRiD37xHMib5rXW/tjqLTbr3`
+Snapshot ID: `AAAAANAo0Mno+Cl/rvsd4F1bjVoV8Lxm`

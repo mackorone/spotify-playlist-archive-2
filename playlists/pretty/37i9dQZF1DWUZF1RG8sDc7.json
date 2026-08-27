@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 167008,
+  "num_followers": 167046,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFfweXYU7yqNNrNTI9FyFb2VoabY",
+  "snapshot_id": "AAAAADvcyrjoT70sTP+I0njyV2+KsmnH",
   "tracks": [
     {
       "added_at": "2024-03-28 01:45:52",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Marca Registrada del Binomio de Oro",
-        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Me Sobran las Palabras",
-      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Pisando Fuerte",
         "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 268042,
       "name": "Acu\u00e9rdate",
       "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 286640,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Uniendo Corazones",
-        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 259920,
-      "name": "Novios Cruzados",
-      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "La Combinaci\u00f3n Vallenata, Vol. 2",
         "url": "https://open.spotify.com/album/5z2MpAXOEjwYJBKhpUc55k"
       },
@@ -1063,6 +1031,38 @@
       "duration_ms": 306733,
       "name": "Que Me Perdone",
       "url": "https://open.spotify.com/track/5KyNTRKevJLoF2qy0QyLzE"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Uniendo Corazones",
+        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Novios Cruzados",
+      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 286640,
+      "name": "Mi Diosa Humana",
+      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
     },
     {
       "added_at": "2024-03-28 01:45:52",

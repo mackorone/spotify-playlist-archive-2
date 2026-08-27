@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Nerve
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,647 likes - 85 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,620 likes - 85 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 84 | [STRANGE WAYYZ](https://open.spotify.com/track/1tl7Bo7EnZ343ipJkqngqj) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [STRANGE WAYYZ](https://open.spotify.com/album/6YSUR94oXa5Ak7oF7ycf6g) | 2:20 |
 | 85 | [Levitate](https://open.spotify.com/track/5F7T1d2OIvTrNiO06HZ0pv) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [Levitate](https://open.spotify.com/album/6VqPCTH7MBdofKCSzuHU8A) | 3:31 |
 
-Snapshot ID: `AAAAAHErhbxOIlcAUy33VJdQI0xqoqUl`
+Snapshot ID: `AAAAAKkfok+N7h2Bh94OMSbQzXi+bVG+`

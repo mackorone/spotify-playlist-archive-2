@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: 安部勇磨 Yuma Abe
 
-1,678 songs - 4 day 9 hr 2 min
+1,678 songs - 4 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [LALALA \(Baby it takes two\)](https://open.spotify.com/track/3xUMHTsZA4iU1azQcz6RJO) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [LALALA \(Baby it takes two\)](https://open.spotify.com/album/74Zy5Q7uB8BjuLaHJFBQlK) | 3:02 | 2025-11-25 | 2026-02-12 |
 | [Lan la](https://open.spotify.com/track/25DwQL8Lb235GHwpWPRkwt) | [Kaori Kusuhashi](https://open.spotify.com/artist/40NGX8Hj6US8dXfBsaJKIP) | [Lan la](https://open.spotify.com/album/1mCzEVPVN8nu88kYbPIp7I) | 3:20 | 2025-06-11 | 2025-06-18 |
 | [Land](https://open.spotify.com/track/4NIruJVVykCcTKIa7y9kkW) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:53 | 2025-10-14 | 2025-10-22 |
+| [LAST GIRL DUST](https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [BABY! PINK! MUSIC!](https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene) | 4:43 | 2026-08-25 |  |
 | [LAST LOVE LETTER](https://open.spotify.com/track/14HAoLdDKYn6WfI9VZB4Sm) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [LAST LOVE LETTER](https://open.spotify.com/album/5jMeVRXPkfx6JPXs92tPdB) | 4:34 | 2024-07-16 | 2024-08-07 |
 | [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 | 2026-02-17 | 2026-05-06 |
 | [Last Summer Bye\-bye](https://open.spotify.com/track/1IkVj8frr0z1b9lYjfxSqg) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Last Summer Bye\-bye](https://open.spotify.com/album/3SKAgMwyJ5id9vwylWcgwm) | 5:22 | 2025-09-30 | 2025-10-09 |
@@ -723,7 +724,6 @@
 | [Tonari no Machi](https://open.spotify.com/track/0PmMx3te9Ab1qs9LVespmk) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Tonari no Machi](https://open.spotify.com/album/5qB08Nl2RJeRCcEhqM1lbd) | 4:24 | 2026-07-28 | 2026-08-05 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 12](https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [BABY! PINK! MUSIC!](https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene) | 0:00 | 2026-08-25 |  |
 | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/track/1HG5ywdkdqGlW7IwQdXLbs) | [magora](https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2) | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/album/7ilStTWLuncqmFfsumOXLs) | 3:41 | 2026-05-26 | 2026-06-03 |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |

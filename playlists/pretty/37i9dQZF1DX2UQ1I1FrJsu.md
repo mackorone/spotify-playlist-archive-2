@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,204 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,265 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 99 | [I Want Your Love](https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [I Want Your Love](https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6) | 2:33 |
 | 100 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
 
-Snapshot ID: `AAAAAPBhFlLqJPv+SR16ksmiFYXbcfMc`
+Snapshot ID: `AAAAADM2fp+FdOupdkgzbcLat4Hlcav/`

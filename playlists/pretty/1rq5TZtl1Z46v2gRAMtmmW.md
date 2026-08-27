@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,984 likes - 85 songs - 4 hr 49 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,981 likes - 86 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 83 | [Azadi](https://open.spotify.com/track/1ilS3EJjhVRNOJ0vPAlrJ0) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Canal View](https://open.spotify.com/album/15DN2DZn9TqWYHfP18qIT4) | 3:04 |
 | 84 | [D.O.T.W \- Demo](https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Hallucinating Love \(Deluxe\)](https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1) | 2:47 |
 | 85 | [THAT KID](https://open.spotify.com/track/3LD0amRQFt55wXQ7n3vbeL) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [THAT KID](https://open.spotify.com/album/3D71e0tS6t9Z9DFU59rmBY) | 3:27 |
+| 86 | [After Dark](https://open.spotify.com/track/1odZc6QF2iVlTRhoYm6BoW) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [After Dark](https://open.spotify.com/album/4KhVjMxDfGEwDh4D8w4QzF) | 3:28 |
 
-Snapshot ID: `AAAR80Hv8QHQNj5n1jxiqQa07e4iqx5q`
+Snapshot ID: `AAAR9B1+w5PrlvxdPQEN8lbqgnSOiBFd`

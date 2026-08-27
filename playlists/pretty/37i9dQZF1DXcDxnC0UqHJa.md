@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,434 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,375 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 |
 | 115 | [everything i wanted](https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [everything i wanted](https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB) | 4:35 |
 
-Snapshot ID: `AAAAAEMeth8X2ExtEpbfxZY8eubH1RhM`
+Snapshot ID: `AAAAAOzjkODB6fMW9iQd/o7H2yAVDa6s`

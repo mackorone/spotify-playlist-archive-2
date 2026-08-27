@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,587 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,650 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Marra de Durão / Não Quero Despedida / Mande Um Sinal \- Ao Vivo](https://open.spotify.com/track/1UNvh6Y8RQMv6vCpYPcfxq) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp), [Thiago Soares](https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D) | [Encontrin 3 \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5n56XBIA3ugmCxEkxDZkc9) | 4:41 |
 | 75 | [Sentimento de Posse / Perfume de Champanhe \- Ao Vivo](https://open.spotify.com/track/79CcS2TbSW4Cbk4mcEF2u3) | [PDJ \- Pagode do Jorgin](https://open.spotify.com/artist/26HJknX5ijhtFMFniLSmvM), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm), [Indomável Records](https://open.spotify.com/artist/4tDitU6x0VypxAcm1ykq2Y) | [PDJ & Renan Oliveira \(Ao Vivo\)](https://open.spotify.com/album/26UzGtKIKYIrlNXJUzfKzC) | 3:45 |
 
-Snapshot ID: `AAAAAOVRb51HxjGoWlTeivv5+yjt9HBM`
+Snapshot ID: `AAAAALNu/m0JTwt1kavuYYAKw8zJPKOn`

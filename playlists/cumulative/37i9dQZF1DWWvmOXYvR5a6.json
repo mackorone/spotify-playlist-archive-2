@@ -6585,6 +6585,28 @@
     },
     {
       "album": {
+        "name": "Hongdae Rapper",
+        "url": "https://open.spotify.com/album/2y2PrD6PJlefeQNkLQMI3j"
+      },
+      "artists": [
+        {
+          "name": "Hukky Shibaseki",
+          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185888,
+      "name": "Hongdae Rapper",
+      "url": "https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS"
+    },
+    {
+      "album": {
         "name": "podo",
         "url": "https://open.spotify.com/album/3b26Thw21bgz0tyCAJ9IN2"
       },
@@ -17338,7 +17360,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 217373,
       "name": "withoutyou",
       "url": "https://open.spotify.com/track/6aMr19dWts8J6jrWCczm8m"

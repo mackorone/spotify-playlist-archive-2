@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xfg8JLDVt8.md) - [plain]
 
 > Cada barrio tiene un sonido\. Este es el de Barboza: una mezcla de Caribe, comunidad y música\. Foto: Barboza
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,360 likes - 31 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,312 likes - 31 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xfg8JLDVt8.md) - [plain]
 | 30 | [Linda](https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:23 |
 | 31 | [Tus Labios](https://open.spotify.com/track/2TH1PC40oO9mXbLTOUBnJ8) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Tus Labios](https://open.spotify.com/album/4WDgotfIeCmw83TOWFDwBa) | 2:44 |
 
-Snapshot ID: `AAAAAOM9Uak4L24aT2OhjEn/XR7kVJSf`
+Snapshot ID: `AAAAAPpNAeq5CVTqhbtGOBRyT2dICh7G`

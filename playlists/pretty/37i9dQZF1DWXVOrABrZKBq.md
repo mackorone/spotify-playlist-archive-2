@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Bello&Dallas
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,386 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,395 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 74 | [TENTATION](https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [The cat](https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7) | 2:36 |
 | 75 | [CLAP 3X](https://open.spotify.com/track/6dKZNUSGlhRcm2vUJ5HA3G) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CLAP 3X](https://open.spotify.com/album/5A19yqEACRiB0AXM1lkgQX) | 2:44 |
 
-Snapshot ID: `AAAAANLKMUkiDO5wpacoHYTKKVyiD66i`
+Snapshot ID: `AAAAAPIr9dnxItR1jU/rf91nVzI5D+C4`

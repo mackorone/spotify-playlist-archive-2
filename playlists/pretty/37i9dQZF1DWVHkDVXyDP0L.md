@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Tullamarines
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,121 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,116 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [On a Leash](https://open.spotify.com/track/0HWS6QborXQQIREj0KuaqF) | [The Good Kids](https://open.spotify.com/artist/3f6jdkYDK91W89EdGFwQzy) | [On a Leash](https://open.spotify.com/album/5YBpkbUhU9vNP53SyhUOAK) | 2:45 |
 | 100 | [Slow Burn](https://open.spotify.com/track/5ebpFvMuxCpqkMb3KqWSWX) | [sunbleached](https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP) | [Slow Burn](https://open.spotify.com/album/5iM0v0QMmaXo0CgNOiTx7J) | 3:35 |
 
-Snapshot ID: `AAAAAF6t0n+W0uveaevXNGIMHvE7QOiL`
+Snapshot ID: `AAAAAL1u3dxNv+msV5twnfL1zbIYLjm3`

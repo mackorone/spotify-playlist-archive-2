@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,027 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,957 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 58 | [∞劣等星](https://open.spotify.com/track/3M69EtAKB8T0MBWyKHvxK4) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [∞劣等星](https://open.spotify.com/album/58nziDn890SKqaJdgs6DVr) | 3:04 |
 | 59 | [Eternel](https://open.spotify.com/track/6q5BJUKEjG7qZ5DDU0bikd) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [Eternel](https://open.spotify.com/album/2g70gx5jkYqvFpVufZlpfA) | 3:27 |
 | 60 | [＋ENCOUNT](https://open.spotify.com/track/4SLhyRuQbNqde0qs32POBf) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [＋ENCOUNT](https://open.spotify.com/album/6WpYFMoCbOsYoQexlVpsTx) | 3:47 |
-| 61 | [BLACK SHOUT \- \(10th anniv\. ver.\)](https://open.spotify.com/track/1HfPagEyxGNlU0W1iwUTpr) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Lehre der Rose](https://open.spotify.com/album/1HPun9tYXr9jHr2nk297S8) | 4:05 |
+| 61 | [BLACK SHOUT \- 10th anniv\. ver.](https://open.spotify.com/track/1HfPagEyxGNlU0W1iwUTpr) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Lehre der Rose](https://open.spotify.com/album/1HPun9tYXr9jHr2nk297S8) | 4:05 |
 | 62 | [ロマンティックがほしいなら](https://open.spotify.com/track/6BbOzSt3qI9vVoDJpCcpI9) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j), [小坂菜緒](https://open.spotify.com/artist/7q0G6BZ4O58nMFrnZkT36M), [正源司陽子](https://open.spotify.com/artist/5On9iFvCTTmTtOFdctUwxn), [藤嶌果歩](https://open.spotify.com/artist/6wiJ0UKOd5WnCT4Ssrz3S1) | [ロマンティックがほしいなら](https://open.spotify.com/album/4WKrvO8X6gvjQN3ng8U2NX) | 3:12 |
 | 63 | [クレナイノハ](https://open.spotify.com/track/3B5yBw0WgX18757FmjUrvZ) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [クレナイノハ](https://open.spotify.com/album/0s1K71P6KP4LJUaPJ4vMDZ) | 4:48 |
 | 64 | [ハイメンテナンスガール](https://open.spotify.com/track/08wiYF42f2wVoEW0xZfzAl) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ハイメンテナンスガール](https://open.spotify.com/album/3T0JjpxWBEzCQ2Qv8KzzcQ) | 3:29 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 83 | [終わらない夜の守り方](https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [終わらない夜の守り方](https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs) | 4:04 |
 | 84 | [名もない花](https://open.spotify.com/track/5MJ5jKJzPNY6IGy6n3gOxn) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [名もない花](https://open.spotify.com/album/6Py3TyeCO6hmdwHMHjnCFP) | 3:02 |
 | 85 | [サインはB \- Cover](https://open.spotify.com/track/4jrXzcs9VqH9XMCxdNl9tV) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [仮歌Ⅲ](https://open.spotify.com/album/1qcBemu6rDrpBHEDrLoCD7) | 3:36 |
-| 86 | [天井の街](https://open.spotify.com/track/5dAaTzAuPiXL3i8kCt904j) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [天井の街 \- CEILING YOU](https://open.spotify.com/album/1yMhNW7a5PeVxpk1vAeoFD) | 1:51 |
+| 86 | [天井の街](https://open.spotify.com/track/5dAaTzAuPiXL3i8kCt904j) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [天井の街 \- CEILING CITY](https://open.spotify.com/album/1yMhNW7a5PeVxpk1vAeoFD) | 1:51 |
 | 87 | [Joubutsu Come True](https://open.spotify.com/track/46n9LW7QTwr3e6EmtHEgKr) | [ORCALAND](https://open.spotify.com/artist/2tUNHY1YtygK9HsSboP3w8) | [MAGIC x MAGIC](https://open.spotify.com/album/5dvTKwwHBdKYI1V7AdULXn) | 3:23 |
 | 88 | [Every Summer](https://open.spotify.com/track/5nM0o5Jnr8k2Kfcm0Qjrb7) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Every Summer](https://open.spotify.com/album/75Yl2xYt8db9J4H4jF82yS) | 3:11 |
 | 89 | [ココニイル](https://open.spotify.com/track/6UPSzADDU3wztV9Jf3gCZr) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ココニイル](https://open.spotify.com/album/3IqFv5B0H9UlD1ZNZj7M1k) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [アイコトバ](https://open.spotify.com/track/0nwoWtibzKDCyfvQODlpHk) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [アイコトバ](https://open.spotify.com/album/0MC4ASdQePlwlAJHP9Bcq2) | 3:13 |
 | 100 | [消えない花火](https://open.spotify.com/track/5z5igGbFD4MOgAWwvcIhJ5) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [消えない花火](https://open.spotify.com/album/0WaEQ93ujik1fE7wV9AQEU) | 3:50 |
 
-Snapshot ID: `AAAAAGsb1o6ZBMJ6F9++p5KlrAcVXxrc`
+Snapshot ID: `AAAAAIqGBnsUzE7+uEAS+v59I6g33h/6`

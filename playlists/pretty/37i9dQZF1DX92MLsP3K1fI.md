@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Ruzzi en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,103 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,125 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 69 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 70 | [Angustia Existencial](https://open.spotify.com/track/6yFWnK67fl1pRxB9ne24lu) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [Angustia Existencial](https://open.spotify.com/album/2V8AN2FpYqueiuvPHC6Buw) | 3:13 |
 
-Snapshot ID: `AAAAAGqO44Zw8zyjyI3/i/A+zMoTmemz`
+Snapshot ID: `AAAAAL++3aojf3SSU1+wg9qo4nc2dS+/`

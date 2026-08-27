@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: fred again.\. & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,963 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,826 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Xclusiva](https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU) | 2:21 |
 | 50 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
 
-Snapshot ID: `AAAAAIA0mRCKq3NYRcRtcahm9GhwIePV`
+Snapshot ID: `AAAAAL+E8eVHVAVcrakRDuF/hPx9uGIO`

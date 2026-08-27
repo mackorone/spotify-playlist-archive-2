@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Eduin Caz nos comparte su selección personal para celebrar el título de Cruz Azul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,642 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,633 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 34 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 35 | [Linda Mujer](https://open.spotify.com/track/0oBvBNAKKfoHa4vFacrqa2) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/5PUXVT5ncouGmM87f0Db3m) | 2:49 |
 
-Snapshot ID: `AAAAAIKgXwvsgZoFYRCXfyGK/FO5cYKo`
+Snapshot ID: `AAAAAOT6Qfv43MiBlhSekWxh7jtckD/q`

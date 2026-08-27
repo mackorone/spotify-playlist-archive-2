@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,527 likes - 170 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,646 likes - 170 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 169 | [Contigo](https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 3:02 |
 | 170 | [Concha Nacar\-Limosna](https://open.spotify.com/track/36ISJPgCfoZp2MKheJhPx9) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/3S3nywfRBfej0nFuzmNEik) | 2:59 |
 
-Snapshot ID: `AAAAAPuzuDdZlNtv8Yz8BIuPZv+oFXqr`
+Snapshot ID: `AAAAAFpFD9ZZDF09511IDbs++3vejZlG`

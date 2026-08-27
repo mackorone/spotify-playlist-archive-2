@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1546611,
+  "num_followers": 1546888,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7akg+oGeu7qd6eocr31OUj0izi",
+  "snapshot_id": "AAAAAAC91POQdY1GSwORTnIsKWYqU2KF",
   "tracks": [
     {
       "added_at": "2025-03-07 05:00:25",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "Sabor a Salsa",
         "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 312640,
       "name": "Catalina La O",
       "url": "https://open.spotify.com/track/56yZ4jakLYUykhYaP9FtXi"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "Rey Del Bajo",
-        "url": "https://open.spotify.com/album/5rzT0uHrXsopbuWqYMeK1p"
-      },
-      "artists": [
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 346306,
-      "name": "Mi Ritmo Es Bueno",
-      "url": "https://open.spotify.com/track/461r8m7wxs4hpc5aVKYRd3"
     }
   ],
   "unique_name": "Salsa Classics",

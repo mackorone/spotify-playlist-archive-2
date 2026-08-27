@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kThPpg1lIF.md) - [plain]
 
 > baby lock the door and turn the lights down low
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,998 likes - 53 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,023 likes - 53 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kThPpg1lIF.md) - [plain]
 | 52 | [Raining On Sunday](https://open.spotify.com/track/0capI6Wr0SYGiZ4fxvz5Gq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:54 |
 | 53 | [I Wanna Make You Close Your Eyes](https://open.spotify.com/track/0V6Na986SNXm1CpreVF56E) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Feel That Fire](https://open.spotify.com/album/0uZtZvLB7YtZnkJ6e1wXa2) | 3:59 |
 
-Snapshot ID: `AAAAAEYNw552DSxVCC5K8QXJUfvTP4Cd`
+Snapshot ID: `AAAAAKpeGOLWotN0I1Z2duVXsIstWKzz`

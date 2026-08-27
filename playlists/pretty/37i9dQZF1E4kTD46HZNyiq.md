@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With Rhineland, The Wild Wind, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,379 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [I Got It](https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Cutting Edge Stuff](https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D) | 3:48 |
 | 50 | [Runaround](https://open.spotify.com/track/4EyroIb0uLZLqhnLn8ymCH) | [The Catalina](https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj) | [Runaround](https://open.spotify.com/album/5MtOrMQwm9050zvX8DjaYo) | 3:17 |
 
-Snapshot ID: `AAAAAFjsvh83GqOHhZKDDTV0pvbhv18Y`
+Snapshot ID: `AAAAAKXg/Wue7BwzCP5e1+Iz+OyuZOrV`

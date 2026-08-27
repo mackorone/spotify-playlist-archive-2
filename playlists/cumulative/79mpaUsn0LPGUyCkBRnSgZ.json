@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "In Search Of...",
+        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR"
+    },
+    {
+      "album": {
         "name": "Spiderland",
         "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
       },
@@ -5789,6 +5807,24 @@
     },
     {
       "album": {
+        "name": "Etiquette",
+        "url": "https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi"
+      },
+      "artists": [
+        {
+          "name": "Casiotone For The Painfully Alone",
+          "url": "https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5266,
+      "name": "Etiquette I.D.",
+      "url": "https://open.spotify.com/track/5n7VnQbx6A4C01afTZln8D"
+    },
+    {
+      "album": {
         "name": "Demand to Be Taken to Heaven Alive!",
         "url": "https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk"
       },
@@ -7336,6 +7372,28 @@
       "duration_ms": 259053,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7GB9nHKwwLs9mdbjErqK4H"
+    },
+    {
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124551,
+      "name": "GONE FISHING",
+      "url": "https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz"
     },
     {
       "album": {
@@ -19792,6 +19850,24 @@
       "duration_ms": 135248,
       "name": "The Wake",
       "url": "https://open.spotify.com/track/4FHhXk0JniueARdhSOInDZ"
+    },
+    {
+      "album": {
+        "name": "The Walking",
+        "url": "https://open.spotify.com/album/7cv1OYN3ovq1sXi1Qwj2KW"
+      },
+      "artists": [
+        {
+          "name": "Jane Siberry",
+          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552800,
+      "name": "The White Tent the Raft",
+      "url": "https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS"
     },
     {
       "album": {

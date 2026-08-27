@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,034 likes - 200 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,143 likes - 200 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 199 | [Saguaros](https://open.spotify.com/track/1TcR7JsHs7pJ2kDheidh21) | [Lynn Valley Forest Club](https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V) | [Saguaros](https://open.spotify.com/album/6MEAKU93hTnIrnpGFW8omO) | 2:30 |
 | 200 | [Tempel](https://open.spotify.com/track/5PRK2YEF3iSufclolLWqaQ) | [Morning life](https://open.spotify.com/artist/594JjvUBbtG5rOcSd75EYj) | [Tempel](https://open.spotify.com/album/4PCInCTH1XixEpsNS31Csm) | 2:26 |
 
-Snapshot ID: `AAAAAK+H1v5Z5p6zb7CJcDzGN6oKGZMJ`
+Snapshot ID: `AAAAAEnZr08P7o+vRszM9+LfSBUmlAqo`

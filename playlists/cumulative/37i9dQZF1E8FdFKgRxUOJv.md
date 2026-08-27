@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Wild Rivers, Stephen Day and more
+> With John Mayer, Ray LaMontagne, Wild Rivers and more
 
 1,605 songs - 4 day 3 hr 43 min
 

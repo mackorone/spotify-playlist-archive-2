@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,412 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,424 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 99 | [I'm not a hero](https://open.spotify.com/track/6SI9wSxkc9mBoTUWileqsq) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:58 |
 | 100 | [\(Because we\) Fall in Love](https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Polar](https://open.spotify.com/album/7ksHT5o2iwBZr0kDYL4LSa) | 3:06 |
 
-Snapshot ID: `AAAAALrfdxtFaOpWrcB4wxPu0FidOIQL`
+Snapshot ID: `AAAAAJ/zsAVqm2t5AM9zIzk0U9dZnzJo`

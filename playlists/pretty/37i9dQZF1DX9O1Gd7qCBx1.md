@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,103 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,118 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 70 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 | 71 | [Tren de la Muerte](https://open.spotify.com/track/6vop4c1mF4et6sDjbQNKo5) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Forajido](https://open.spotify.com/album/09OxXsUfEYl5Ztn7aMeVgg) | 3:31 |
 | 72 | [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 |
-| 73 | [Danza de la Muerte \- Música fúnebre Yokot'anob o Chontal, Tucta, Tabasco](https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W) | [Fredi Román Arias](https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp), [Martín Hernández](https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN), [Maximino Esteban Magaña](https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x) | [La flauta indígena Mexicana\. Grabaciones de Campo de René Villanueva](https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV) | 2:13 |
+| 73 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 74 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
-| 75 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
+| 75 | [Danza de la Muerte \- Música fúnebre Yokot'anob o Chontal, Tucta, Tabasco](https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W) | [Fredi Román Arias](https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp), [Martín Hernández](https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN), [Maximino Esteban Magaña](https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x) | [La flauta indígena Mexicana\. Grabaciones de Campo de René Villanueva](https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV) | 2:13 |
 | 76 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
 | 77 | [Soledad](https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Desarrollo de Personaje](https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl) | 3:05 |
 | 78 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 |
 | 100 | [Calaveritas](https://open.spotify.com/track/3kvZCUYzkTDGsxeH0bc1nE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveritas](https://open.spotify.com/album/0rX8OoxkHuZDff1UmIhMco) | 4:20 |
 
-Snapshot ID: `AAAAAD6dV80VroQh5d4iWeuaAPKTHbZZ`
+Snapshot ID: `AAAAAIYXr2TCi0cbu9scJ4PnXSls22Q3`

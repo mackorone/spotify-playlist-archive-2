@@ -2427,6 +2427,32 @@
     },
     {
       "album": {
+        "name": "Chik Papu",
+        "url": "https://open.spotify.com/album/6hmWnPYL0Qdb0QHxR9CNam"
+      },
+      "artists": [
+        {
+          "name": "Nan Sachin",
+          "url": "https://open.spotify.com/artist/4IQyA9noiCTuptGN9RxLP1"
+        },
+        {
+          "name": "Vishruth",
+          "url": "https://open.spotify.com/artist/5KJg2mTWo62N59wRo4c26k"
+        },
+        {
+          "name": "Filin",
+          "url": "https://open.spotify.com/artist/5g1QfSKIbXn3o2TKvcuYb2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155437,
+      "name": "Chik Papu",
+      "url": "https://open.spotify.com/track/7EykJbMQZWlQgJQHEKhGj1"
+    },
+    {
+      "album": {
         "name": "Chikkavanu",
         "url": "https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh"
       },
@@ -3434,7 +3460,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 195500,
       "name": "En\u00e9no Aase",
       "url": "https://open.spotify.com/track/13EPhdmnXGNtxtdorPMGkU"

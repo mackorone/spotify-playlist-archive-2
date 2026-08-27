@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,670 likes - 147 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,667 likes - 147 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 146 | [Altar](https://open.spotify.com/track/7zEB4Og0QWj3YmAyYka65B) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Altar](https://open.spotify.com/album/6kYiFSdLBw1i73pk8KC6Lu) | 2:59 |
 | 147 | [Cowboy On Aisle Three](https://open.spotify.com/track/5VhK7vfJt9wR8wnpiWfIJU) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Cowboy On Aisle Three](https://open.spotify.com/album/3lqgJnEMpQMwFfAFikUQt4) | 3:52 |
 
-Snapshot ID: `AAAAACznCHxMjPa15e12Kc/2RjzobeO4`
+Snapshot ID: `AAAAAEVIBQx4amStBcYNIL6gLgn3VAZq`

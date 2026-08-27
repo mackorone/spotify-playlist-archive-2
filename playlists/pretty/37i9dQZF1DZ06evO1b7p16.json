@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 41416,
+  "num_followers": 41420,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAADQU79Ulwjk/6yahiiI/MNI",
+  "snapshot_id": "aozbAAAAAAAY6ZkxNjkfh2NHcyVnEudz",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/1h2bp48lbYy5SBQe4u0ZOa"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/3rfTFA4AGu8r2BXqpjKbcf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "Number Five With A Bullet",
-      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
     },
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "This Photograph Is Proof (I Know You Know)",
+      "url": "https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 152360,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1LX0mHhWjzv03627Qi80Qd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Bonus Mosh Pt. II",
-      "url": "https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb"
     },
     {
       "added_at": null,
@@ -188,25 +188,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 228609,
-      "name": "There's No 'I' In Team - Remastered",
-      "url": "https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 273519,
-      "name": "Flicker, Fade",
-      "url": "https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e"
+      "duration_ms": 205125,
+      "name": "Timberwolves At New Jersey - Remastered",
+      "url": "https://open.spotify.com/track/1JFPraHovseDzutd6BOIry"
     },
     {
       "added_at": null,
@@ -220,9 +204,25 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Little Devotional",
-      "url": "https://open.spotify.com/track/7Ctv5HSiZ1ZXan8ODnpbgD"
+      "duration_ms": 183333,
+      "name": "Set Phasers To Stun",
+      "url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Sink Into Me",
+      "url": "https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA"
     },
     {
       "added_at": null,
@@ -252,15 +252,15 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 215423,
-      "name": "Great Romances Of The 20th Century - Remastered",
-      "url": "https://open.spotify.com/track/3c8n08bk0XGdL3HKro1kpD"
+      "duration_ms": 228609,
+      "name": "There's No 'I' In Team - Remastered",
+      "url": "https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },
       "artists": [
         {
@@ -268,15 +268,15 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 267813,
-      "name": "You Can't Look Back",
-      "url": "https://open.spotify.com/track/5qHSOO5fanhbdjPaiAIeVY"
+      "duration_ms": 233866,
+      "name": "One-Eighty By Summer",
+      "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Call Me In The Morning",
-      "url": "https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux"
+      "duration_ms": 273519,
+      "name": "Flicker, Fade",
+      "url": "https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e"
     },
     {
       "added_at": null,
@@ -316,15 +316,15 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 239203,
-      "name": "Ghost Man On Third - Remastered",
-      "url": "https://open.spotify.com/track/5GuoHgdQ37tnKPyHTpIqs5"
+      "duration_ms": 201358,
+      "name": "You Know How I Do - Remastered",
+      "url": "https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },
       "artists": [
         {
@@ -332,15 +332,15 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 197786,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je"
+      "duration_ms": 229533,
+      "name": "Number Five With A Bullet",
+      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 201000,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe"
+      "duration_ms": 267813,
+      "name": "You Can't Look Back",
+      "url": "https://open.spotify.com/track/5qHSOO5fanhbdjPaiAIeVY"
     },
     {
       "added_at": null,
@@ -380,9 +380,57 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 150711,
-      "name": "The Blue Channel - Remastered",
-      "url": "https://open.spotify.com/track/34ThpGNAGG34ONgx1dLzUs"
+      "duration_ms": 215423,
+      "name": "Great Romances Of The 20th Century - Remastered",
+      "url": "https://open.spotify.com/track/3c8n08bk0XGdL3HKro1kpD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Bonus Mosh Pt. II",
+      "url": "https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Call Me In The Morning",
+      "url": "https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je"
     },
     {
       "added_at": null,
@@ -399,6 +447,38 @@
       "duration_ms": 206106,
       "name": "Swing",
       "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 234142,
+      "name": "Better Homes And Gardens",
+      "url": "https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe"
     },
     {
       "added_at": null,
@@ -444,9 +524,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 234142,
-      "name": "Better Homes And Gardens",
-      "url": "https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D"
+      "duration_ms": 219963,
+      "name": "Stood A Chance",
+      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
     },
     {
       "added_at": null,
@@ -508,9 +588,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 219963,
-      "name": "Stood A Chance",
-      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
+      "duration_ms": 191583,
+      "name": "Beat Up Car",
+      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
     },
     {
       "added_at": null,
@@ -547,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Summer, Man",
+      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bullet With Butterfly Wings",
         "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
       },
@@ -559,22 +655,6 @@
       "duration_ms": 272093,
       "name": "Bullet With Butterfly Wings",
       "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 191583,
-      "name": "Beat Up Car",
-      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
     },
     {
       "added_at": null,
@@ -620,9 +700,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 232026,
-      "name": "Cut Me Up Jenny",
-      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
+      "duration_ms": 284360,
+      "name": "Everything Must Go",
+      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
     },
     {
       "added_at": null,
@@ -671,6 +751,22 @@
       "duration_ms": 195600,
       "name": "New Music Friday",
       "url": "https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Cut Me Up Jenny",
+      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
     },
     {
       "added_at": null,
@@ -727,106 +823,6 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Call Come Running",
-      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Where My Mouth Is",
-      "url": "https://open.spotify.com/track/3ZHmXp5h6Ez92GT4ezaqeh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Us Two",
-        "url": "https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 228638,
-      "name": "Just Us Two",
-      "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "El Paso",
-      "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "All Excess",
-      "url": "https://open.spotify.com/track/1qTc9um70mIWaX9mt9vyPL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Carpathia",
-      "url": "https://open.spotify.com/track/37UigTCUOzs0ZCH7wmAp2I"
     }
   ],
   "unique_name": "This Is Taking Back Sunday",

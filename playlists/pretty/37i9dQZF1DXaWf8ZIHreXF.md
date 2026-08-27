@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,335 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,349 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [Sorry](https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Sorry](https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N) | 3:08 |
 | 100 | [Heroes \(we could be\)](https://open.spotify.com/track/05XtssRLI22p8wLFIr7Vrl) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever \(Deluxe\)](https://open.spotify.com/album/0rKecMSGWfKqhls4Rp3PJn) | 3:30 |
 
-Snapshot ID: `AAAAAJAaaSB2VMyA90uu0BPNx33JRHHg`
+Snapshot ID: `AAAAAMtqqqY9UKmCvhF05eRy4HGMYlKa`

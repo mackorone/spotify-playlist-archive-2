@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Xavi y Lenin Ramírez en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,266 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,544 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [SI SE ACABA EL MUNDO](https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [SI SE ACABA EL MUNDO](https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve) | 2:50 |
 | 75 | [La Misión](https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o) | [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14), [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr) | [La Misión](https://open.spotify.com/album/3XfkiU4vr6q5kbBgI5ibPL) | 3:33 |
 
-Snapshot ID: `AAAAAJ4wvm2NNXyzyDH1uYjyNkE/7r+Q`
+Snapshot ID: `AAAAAJWRzGWM7NwALsIwewLGpQjMenXi`

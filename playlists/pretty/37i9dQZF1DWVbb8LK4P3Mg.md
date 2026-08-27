@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: DAY6\(데이식스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,922 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,898 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Merry Merry Christmas](https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd), [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [C9 Single Album '2022 C9 Christmas'](https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr) | 3:27 |
 | 100 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 |
 
-Snapshot ID: `AAAAAP83LUdOo5AMO2L1aozBpsZAMnj6`
+Snapshot ID: `AAAAAJyKp4TIZA6GEGQy/+77U4g7OW1W`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,736 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,848 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 |
 | 60 | [No Rules](https://open.spotify.com/track/55CHDLmvvmU1WPKuHDYsFf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [No Rules EP](https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl) | 3:50 |
 
-Snapshot ID: `AAAAAAWIQj4RJuX+c/gQ7wFsPnUA29AJ`
+Snapshot ID: `AAAAAEucKl6w0NSXooxAbSRB2Ys5TyeU`

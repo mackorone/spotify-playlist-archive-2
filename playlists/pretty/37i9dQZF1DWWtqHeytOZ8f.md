@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,025 likes - 104 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,048 likes - 104 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 103 | [Memory Arc](https://open.spotify.com/track/74EnBZX68SMjd6rTylcpPe) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 2:13 |
 | 104 | [Chukhung](https://open.spotify.com/track/6bsaqjuk7KIxAU8CNXc26t) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 7:34 |
 
-Snapshot ID: `AAAAAMgY8XhwvoTgRAd6GQwP1WUvplJB`
+Snapshot ID: `AAAAAKISUznPi+79c4v79YPc+7UxhyRb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,490 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,504 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [the Painter](https://open.spotify.com/track/3OOXfFZPUgCHAbxW0gNKKK) | [Brook Abella](https://open.spotify.com/artist/6KKMqashNdRSICeztUJkAJ) | [the Painter](https://open.spotify.com/album/5ysPjhoQS2EQdmj1nLzipf) | 3:47 |
 | 100 | [love always wins](https://open.spotify.com/track/4RXXurvRHOBuyBzWEbxLjV) | [Joshua Fraser](https://open.spotify.com/artist/7KO07Ql1wQPxRzdz8pTzJU) | [love always wins](https://open.spotify.com/album/2TbhoU4ULbQDTCRhRk4Sy5) | 3:58 |
 
-Snapshot ID: `AAAAAP0K2trnNNe/I72Cqzpznklb4L9N`
+Snapshot ID: `AAAAAM4qvwxrQDy3/QIfza91cWaIFtiJ`

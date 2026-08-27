@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 宋冬野
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,906 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,904 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 49 | [BYE](https://open.spotify.com/track/6KGSFagurhoiAxHSwyhIeL) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [BYE](https://open.spotify.com/album/05KyDJuP9VpWNTuFStvAWa) | 3:28 |
 | 50 | [我獨自求救](https://open.spotify.com/track/3T6G1yI3gyQWBhQaxFEpwt) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我獨自求救](https://open.spotify.com/album/5vxba0YEJcbCWvnkPaH2jI) | 2:48 |
 
-Snapshot ID: `AAAAAFDgYN2hAkmUIrl8s5BsSEq9fsde`
+Snapshot ID: `AAAAAJbPscayKy2vulZI3bctvJemZwDZ`

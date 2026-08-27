@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,809 likes - 65 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,920 likes - 65 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 64 | [Crystals](https://open.spotify.com/track/1oHsdvHWOYUz06YLNDWyzp) | [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Crystals: New Music for Relaxation 2](https://open.spotify.com/album/2r8goCcnxJ2CcaeYqd2omy) | 21:18 |
 | 65 | [Sadeness \- Part I \(Radio Edit\)](https://open.spotify.com/track/5sqzj31KwdEtu4482wtDb2) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [Sadeness \- Part i](https://open.spotify.com/album/3b3pChsEPGdn0wHp7O9duQ) | 3:01 |
 
-Snapshot ID: `AAAAAKnV1KFq7WqssXA+v8fvt880UP56`
+Snapshot ID: `AAAAAFYEvV9VOGAoW30eSBqoN1RETyVq`

@@ -3571,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "Doo Wop Christmas Vol 2",
+        "url": "https://open.spotify.com/album/3Ez9FPO4qD79Fxyj92CRQJ"
+      },
+      "artists": [
+        {
+          "name": "Little Eva & Big Dee Irwin",
+          "url": "https://open.spotify.com/artist/0oWiWyJ0G5o1EzR8gEeFWq"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150079,
+      "name": "I Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/2E1w1r8JZXgDq3l6l819j4"
+    },
+    {
+      "album": {
         "name": "Love Songs For the Retarded",
         "url": "https://open.spotify.com/album/73ywZjlpzgcozKgBP0hlcs"
       },

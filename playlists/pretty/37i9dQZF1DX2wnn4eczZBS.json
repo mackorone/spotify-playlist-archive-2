@@ -1,12 +1,12 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11502,
+  "num_followers": 11506,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD1lSxZb/Gs8DvlPdT7FJRztC7vM",
+  "snapshot_id": "AAAAAMxK/7rmu9QoXEKq7WAI8te7o6k8",
   "tracks": [
     {
       "added_at": "2026-05-28 11:50:51",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Maskers",
+        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
+      },
+      "artists": [
+        {
+          "name": "Elias Mazian",
+          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "Maskers",
+      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "7 Dagen Maandag",
         "url": "https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 166753,
       "name": "7 Dagen Maandag",
       "url": "https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Maskers",
-        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
-      },
-      "artists": [
-        {
-          "name": "Elias Mazian",
-          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Maskers",
-      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
     },
     {
       "added_at": "2026-05-28 11:50:51",

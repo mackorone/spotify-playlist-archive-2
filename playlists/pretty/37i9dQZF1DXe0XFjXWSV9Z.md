@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,656 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,664 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 87 | [Metamorfosis](https://open.spotify.com/track/1FDduS4e9CDhZ3UFmoGAWq) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Metamorfosis](https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO) | 4:55 |
 | 88 | [Cumbia del Paletero](https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Shift and Shadow](https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT) | 4:03 |
 | 89 | [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 |
-| 90 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 |
-| 91 | [Puerta del sol](https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Puerta del sol](https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc) | 4:30 |
+| 90 | [Puerta del sol](https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Puerta del sol](https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc) | 4:30 |
+| 91 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 |
 | 92 | [Para Poderte Olvidar](https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx) | [Qiensave](https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc) | [Para Poderte Olvidar](https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC) | 4:00 |
 | 93 | [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 |
 | 94 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 |
-| 95 | [We Haven't Been Introduced](https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U) | [Locobeach](https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J) | [We Haven't Been Introduced](https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz) | 4:34 |
-| 96 | [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 |
+| 95 | [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 |
+| 96 | [We Haven't Been Introduced](https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U) | [Locobeach](https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J) | [We Haven't Been Introduced](https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz) | 4:34 |
 | 97 | [Ocelote](https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Ocelote](https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK) | 7:14 |
 | 98 | [El Método de la Cera Perdida](https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [El Método de la Cera Perdida](https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC) | 4:23 |
 | 99 | [Loco por Tu Amor](https://open.spotify.com/track/6BdXIpQeiubbZhP7ZN944z) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Loco por Tu Amor](https://open.spotify.com/album/55NPFfTI9SG3aSbmUwfPMY) | 3:52 |
 | 100 | [Cumbia Fantasía](https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Cumbia Fantasía](https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN) | 4:49 |
 
-Snapshot ID: `AAAAAATzgJAE0HQyTGwP7l59PlFyxrZL`
+Snapshot ID: `AAAAAIOlVo5dVvcaYKeArrD3PMmnjZvD`

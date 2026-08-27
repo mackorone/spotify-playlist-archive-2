@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Grace Power Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lauren Juzang Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 257386,
       "name": "Baby Again",
       "url": "https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b"
@@ -6410,7 +6410,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 167933,
       "name": "baseball bat",
       "url": "https://open.spotify.com/track/0rrkD4WGzDMIb3YFSUVgQj"
@@ -10066,7 +10066,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 195808,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/5xSg5uP2Yk5hy0oBnVfgBl"
@@ -36578,7 +36578,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 196000,
       "name": "I Wish I Didn't Care",
       "url": "https://open.spotify.com/track/3m6ISq59EGnp4fHwxQsR5k"
@@ -40687,6 +40687,24 @@
     },
     {
       "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/0e5lkoSXWADTH6rxvq3NTN"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179548,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/1IzJUosMnntxD6S9grgc7c"
+    },
+    {
+      "album": {
         "name": "Super Single",
         "url": "https://open.spotify.com/album/6q5PpzD3Ljm7beMhYCmCMv"
       },
@@ -42288,6 +42306,24 @@
       "duration_ms": 131820,
       "name": "Leaving You (is Harder Than Being Apart)",
       "url": "https://open.spotify.com/track/48v6bdvcL2JqHPiIlG2S4N"
+    },
+    {
+      "album": {
+        "name": "Left My Lover",
+        "url": "https://open.spotify.com/album/76ycC6aJQwyeimn1fX8ulL"
+      },
+      "artists": [
+        {
+          "name": "Mariam Kubursi",
+          "url": "https://open.spotify.com/artist/619doDBQCaDpnvpRc14gMJ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63543,
+      "name": "Left My Lover",
+      "url": "https://open.spotify.com/track/4CiUCRZjWRqFvZkz7xnbk0"
     },
     {
       "album": {
@@ -45748,6 +45784,24 @@
       "duration_ms": 199723,
       "name": "Love!",
       "url": "https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416"
+    },
+    {
+      "album": {
+        "name": "Love, At The End Of The World",
+        "url": "https://open.spotify.com/album/4N1jjlEFahaPfBEGBKkIEQ"
+      },
+      "artists": [
+        {
+          "name": "SEREN",
+          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180768,
+      "name": "Love, At The End Of The World",
+      "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
     },
     {
       "album": {
@@ -50918,7 +50972,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 243332,
       "name": "Need You Too Much",
       "url": "https://open.spotify.com/track/1k7z7SBsNvFKouTVmhG1hf"
@@ -54841,6 +54895,24 @@
     },
     {
       "album": {
+        "name": "AHH! (Act II)",
+        "url": "https://open.spotify.com/album/0jLDBgG02zr4IxcZuXa2mF"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181071,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/0BeBdenyB3ivA0kk5LS0Mp"
+    },
+    {
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/7Im56HLW1i84DkU4Zu2EZq"
       },
@@ -57264,7 +57336,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 184854,
       "name": "pixel heart",
       "url": "https://open.spotify.com/track/5tuBcdw0wZTVBFEumaX7zq"
@@ -57938,6 +58010,24 @@
       "duration_ms": 157013,
       "name": "POP",
       "url": "https://open.spotify.com/track/6NBbY5HUuowO9cS4lcFHNn"
+    },
+    {
+      "album": {
+        "name": "Pop Is My Religion",
+        "url": "https://open.spotify.com/album/0IQtY2bY9Qurc7Va3vpkq0"
+      },
+      "artists": [
+        {
+          "name": "Maisi and the Disco",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Pop Is My Religion",
+      "url": "https://open.spotify.com/track/3szS1JE9PN3p0CHQfwwyDi"
     },
     {
       "album": {
@@ -61528,7 +61618,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 208920,
       "name": "rom com",
       "url": "https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV"
@@ -62014,7 +62104,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
@@ -62884,6 +62974,24 @@
       "duration_ms": 204000,
       "name": "Same for Me",
       "url": "https://open.spotify.com/track/7dE9sFfSRbuTehCTziAuXl"
+    },
+    {
+      "album": {
+        "name": "same me",
+        "url": "https://open.spotify.com/album/3wjo43vZ9jQcGh6O0hsjTH"
+      },
+      "artists": [
+        {
+          "name": "Monnie",
+          "url": "https://open.spotify.com/artist/15zF5LyP92uIG0bUk8rzOA"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226235,
+      "name": "same me",
+      "url": "https://open.spotify.com/track/7p7ug2fgjS13Muq7dHBUWP"
     },
     {
       "album": {
@@ -64951,6 +65059,24 @@
     },
     {
       "album": {
+        "name": "sickofmyself",
+        "url": "https://open.spotify.com/album/4ZYBoNjGD3MnfpJgFX2HW2"
+      },
+      "artists": [
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211753,
+      "name": "sickofmyself",
+      "url": "https://open.spotify.com/track/6raJqhmnpOyHr5n7QJI1cC"
+    },
+    {
+      "album": {
         "name": "Sid and Nancy",
         "url": "https://open.spotify.com/album/2osYBxPPGwhUB6KI9WyAHc"
       },
@@ -66098,6 +66224,24 @@
       "duration_ms": 228488,
       "name": "Smile More",
       "url": "https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y"
+    },
+    {
+      "album": {
+        "name": "Smooth talker",
+        "url": "https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Smooth talker",
+      "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
     },
     {
       "album": {
@@ -67306,7 +67450,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 240690,
       "name": "Sorry You're Not Sorry",
       "url": "https://open.spotify.com/track/5ZugCbT4LxmvgzgusvzvBU"
@@ -68636,7 +68780,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 201456,
       "name": "Still The Kid",
       "url": "https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd"
@@ -69614,6 +69758,24 @@
       "duration_ms": 170261,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/3aAbkim9WFDw7YW2CFibas"
+    },
+    {
+      "album": {
+        "name": "Sugar, Butter, Elbow Grease",
+        "url": "https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z"
+      },
+      "artists": [
+        {
+          "name": "Leah Jane",
+          "url": "https://open.spotify.com/artist/5zuUXJ73ndEnViAOKpQuIN"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Sugar, Butter, Elbow Grease",
+      "url": "https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r"
     },
     {
       "album": {
@@ -82520,6 +82682,24 @@
       "duration_ms": 177265,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/39X8VTjeExrodhSQZL7A5I"
+    },
+    {
+      "album": {
+        "name": "Worst behavior",
+        "url": "https://open.spotify.com/album/3FOvQmvu8pPCOTPhfgrGBO"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175640,
+      "name": "Worst behavior",
+      "url": "https://open.spotify.com/track/2pbspg7cCzZwPfIG4Ci4K0"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666325,
+  "num_followers": 666315,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD2JH+KumeMoKJR/CT1tqLmyjHs2",
+  "snapshot_id": "AAAAAG+NhLrnznkXS/0ZEMXB3CZb6PWr",
   "tracks": [
     {
       "added_at": "2024-09-01 15:34:53",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Attack of the Grey Lantern",
-        "url": "https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ"
+        "name": "Life Of Riley - The Lightning Seeds Collection",
+        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
       },
       "artists": [
         {
-          "name": "Mansun",
-          "url": "https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U"
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
         }
       ],
-      "duration_ms": 271106,
-      "name": "Wide Open Space",
-      "url": "https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik"
+      "duration_ms": 244693,
+      "name": "The Life Of Riley",
+      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -967,6 +967,22 @@
       "duration_ms": 244866,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Attack of the Grey Lantern",
+        "url": "https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ"
+      },
+      "artists": [
+        {
+          "name": "Mansun",
+          "url": "https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Wide Open Space",
+      "url": "https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1027,34 +1043,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Ace A's + Killer B's",
-        "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
+        "name": "Tellin' Stories",
+        "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
       },
       "artists": [
         {
-          "name": "Dodgy",
-          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
         }
       ],
-      "duration_ms": 239840,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Life Of Riley - The Lightning Seeds Collection",
-        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "The Life Of Riley",
-      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
+      "duration_ms": 269840,
+      "name": "One To Another",
+      "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
     }
   ],
   "unique_name": "Britpop, Etc.",

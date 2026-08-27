@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,382 likes - 75 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,484 likes - 75 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Entrecote](https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Osam](https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb) | 8:02 |
 | 75 | [Man Dies Alone \- Short Version](https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Man Dies Alone](https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ) | 4:39 |
 
-Snapshot ID: `AAAAAB6GfLvccjlbGaaXmz8kt2eILICI`
+Snapshot ID: `AAAAAHMeqL6/FJEZhs4monRlaqJIDvOz`

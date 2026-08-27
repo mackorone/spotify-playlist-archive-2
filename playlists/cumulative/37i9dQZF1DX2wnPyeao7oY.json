@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: \nLilith's Demise",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: \nFKA Rayne",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 213311,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/6fBk3Z3gIqxWjrbKVAcmtq"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 190720,
       "name": "CAVITY",
       "url": "https://open.spotify.com/track/2nny02bqroARvn9eSs7OJm"
@@ -6446,7 +6446,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 208430,
       "name": "Gier",
       "url": "https://open.spotify.com/track/0B82AgAvTncuohpm2LS3sy"
@@ -7790,7 +7790,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 274191,
       "name": "I Want to Die Before You",
       "url": "https://open.spotify.com/track/3ELHiGWV6hte7m19eJs8WZ"
@@ -11957,6 +11957,24 @@
     },
     {
       "album": {
+        "name": "PUNISHMENT ROUTINE",
+        "url": "https://open.spotify.com/album/2Nygh4AJ3U2aTHUN53jav2"
+      },
+      "artists": [
+        {
+          "name": "DOGBITE",
+          "url": "https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "PUNISHMENT ROUTINE",
+      "url": "https://open.spotify.com/track/1x8kAqmPBBBvvd4LPpBYdF"
+    },
+    {
+      "album": {
         "name": "Purgatory Blues",
         "url": "https://open.spotify.com/album/5XhSoq4X98drDtQfFhTl80"
       },
@@ -11990,6 +12008,24 @@
       "duration_ms": 256362,
       "name": "Push Away",
       "url": "https://open.spotify.com/track/5FHac8rngQyPyFBOO9Mx2X"
+    },
+    {
+      "album": {
+        "name": "Salt & Static",
+        "url": "https://open.spotify.com/album/3G5B8L61Fm6R8F51BKfP13"
+      },
+      "artists": [
+        {
+          "name": "Pick Up Goliath",
+          "url": "https://open.spotify.com/artist/4IFLOxHJIdMUCQiCCPT9PQ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292666,
+      "name": "Quiet Quit",
+      "url": "https://open.spotify.com/track/6JtTNI52TR9184YX6OQNso"
     },
     {
       "album": {
@@ -12447,6 +12483,24 @@
     },
     {
       "album": {
+        "name": "RIP//IT",
+        "url": "https://open.spotify.com/album/3PkoWBv3ADYu227ai44m2I"
+      },
+      "artists": [
+        {
+          "name": "nightlight",
+          "url": "https://open.spotify.com/artist/1jtVPXmV16w4YF8CHEndWK"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221675,
+      "name": "RIP//IT",
+      "url": "https://open.spotify.com/track/4HPUotuXkHJSSN6hNoIhHU"
+    },
+    {
+      "album": {
         "name": "The Weight Of What I've Become",
         "url": "https://open.spotify.com/album/0PNd6yeQMF0XzySp9dbMMS"
       },
@@ -12498,6 +12552,24 @@
       "duration_ms": 293414,
       "name": "Room 415",
       "url": "https://open.spotify.com/track/5ifPmAkSlFG5FhSHPQGZOR"
+    },
+    {
+      "album": {
+        "name": "ROTTEN",
+        "url": "https://open.spotify.com/album/6hfiDnWdXiPUQ3sytwfduf"
+      },
+      "artists": [
+        {
+          "name": "FKA Rayne",
+          "url": "https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103059,
+      "name": "ROTTEN",
+      "url": "https://open.spotify.com/track/5tODiMGWKft6sCamNwEQdj"
     },
     {
       "album": {
@@ -12746,7 +12818,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 193411,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/3PRNATTR6XsYcgKcBOm5H7"
@@ -13318,6 +13390,24 @@
       "duration_ms": 177399,
       "name": "Siege Proof Hovel",
       "url": "https://open.spotify.com/track/12lsJcNwSv80rMunQ8l2yb"
+    },
+    {
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/6uzAGVKbKhLgYWSk0TGlu4"
+      },
+      "artists": [
+        {
+          "name": "Robert Marcko",
+          "url": "https://open.spotify.com/artist/5M0spwcpLFEbxPsv1t1KFu"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168011,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/3A5JKGTWej34nGhG2PVYqA"
     },
     {
       "album": {
@@ -16019,6 +16109,24 @@
     },
     {
       "album": {
+        "name": "Trophy Hunting",
+        "url": "https://open.spotify.com/album/5NYabTTt8wxn6lNaFwl83t"
+      },
+      "artists": [
+        {
+          "name": "BRAT",
+          "url": "https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172347,
+      "name": "Trophy Hunting",
+      "url": "https://open.spotify.com/track/7vJgAxi20sHY08Z0i0RQN0"
+    },
+    {
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD"
       },
@@ -16590,7 +16698,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 313759,
       "name": "Waiting Here",
       "url": "https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh"

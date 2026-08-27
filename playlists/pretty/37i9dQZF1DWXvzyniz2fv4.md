@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,175 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,172 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Jam \#02 \- Tudo do Melhor/Prosperidade](https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk) | [Jam \#2](https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ) | 3:34 |
 | 60 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 |
 
-Snapshot ID: `AAAAAIfJAG0/LSiCoW7HSflu6QvM7SzR`
+Snapshot ID: `AAAAAH75OYbSwWP0gz89SMpgDGxaqKNJ`

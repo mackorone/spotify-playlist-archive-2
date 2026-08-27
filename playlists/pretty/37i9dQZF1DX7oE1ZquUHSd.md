@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,690 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,807 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Jaque Mate](https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Jorge](https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR) | 2:59 |
 | 100 | [Mi Primera Vez](https://open.spotify.com/track/2ZSP2DxDPlJg6bOpnUNiNA) | [Los Aldeanos](https://open.spotify.com/artist/4Y6VI2Mfdhvb1RImggzOiY), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Charly Mucharrima](https://open.spotify.com/artist/6nJF8xzQ48VCfBlXb5btQp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Yamil Reyes \(Dejavu\)](https://open.spotify.com/artist/2hhm3fRyxsCvhsrVP7Gnlr) | [Descato](https://open.spotify.com/album/73LPJr85VgniRjasNJjrQQ) | 5:54 |
 
-Snapshot ID: `AAAAAMnTKOfOCm/U0qUWwYvd/JKfXnmQ`
+Snapshot ID: `AAAAAOfKzRsQcXfW3R9aqAweOCYaWx0p`

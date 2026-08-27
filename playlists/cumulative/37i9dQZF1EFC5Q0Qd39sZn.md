@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-701 songs - 2 day 0 hr 24 min
+702 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,7 +658,8 @@
 | [Wherever Would I Be](https://open.spotify.com/track/5u6tE49JDHC6qiA0d2Ci6i) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Busted](https://open.spotify.com/album/0EALB7KHwFpWvvNYTqPEBJ) | 4:06 | 2023-12-30 |  |
 | [Who Says You Can't Have It All \- StreetDance 2 Mix](https://open.spotify.com/track/41aZNnw779d8sN08DPSZqH) | [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Who Says You Can't Have It All \(StreetDance 2 Mix\)](https://open.spotify.com/album/3LumIJwBBVtmwOHKgC2DiC) | 3:23 | 2023-12-30 |  |
 | [Who Will You Run To](https://open.spotify.com/track/2G7ttyDosjWmunOYsNRm0C) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 4:06 | 2023-12-30 |  |
-| [Why Can't I?](https://open.spotify.com/track/3LRypkrjihgVnSwZRgtPrA) | [Blake](https://open.spotify.com/artist/14gwq97kYFSF26mMyHAus2) | [Start Over](https://open.spotify.com/album/2D21gBgqWGyQaklwrrmyk4) | 4:00 | 2024-07-10 |  |
+| [Why Can't I?](https://open.spotify.com/track/3LRypkrjihgVnSwZRgtPrA) | [Blake](https://open.spotify.com/artist/14gwq97kYFSF26mMyHAus2) | [Start Over](https://open.spotify.com/album/2D21gBgqWGyQaklwrrmyk4) | 4:00 | 2024-07-10 | 2026-08-27 |
+| [Why Can't I?](https://open.spotify.com/track/42gUw8L92HPgcElphIsENc) | [BLAKE](https://open.spotify.com/artist/7JGJfRv9uECnJd7q99tl4V) | [Start Over \(Extended Edition\)](https://open.spotify.com/album/7gZvNLtYEjkaovwPZIRnET) | 4:00 | 2026-08-26 |  |
 | [Why Did You Do That?](https://open.spotify.com/track/1sv0BhPPnrUgQ6dziZlmuM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:04 | 2023-12-30 | 2025-11-06 |
 | [Why Did You Do That?](https://open.spotify.com/track/2FoSFSX2W1p8ri1Wj1Wavn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:04 | 2025-11-05 |  |
 | [Why Did You Stop Loving Me](https://open.spotify.com/track/2HibyaLoexsEzWr94mmp6Z) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Friday Night Forever](https://open.spotify.com/album/16LeE3kIE3aocqAp8aVxZH) | 3:28 | 2023-12-30 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: KIANA, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Abbie Callahan, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -7688,7 +7688,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 144283,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1RO8jZEUufF0npK0rIfKVu"
@@ -9122,6 +9122,24 @@
       "duration_ms": 191917,
       "name": "Call Home",
       "url": "https://open.spotify.com/track/0WbC9mLB2Ll2LsTzCSwuje"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159208,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa"
     },
     {
       "album": {
@@ -12969,6 +12987,24 @@
     },
     {
       "album": {
+        "name": "Daisies From Dirt",
+        "url": "https://open.spotify.com/album/16H2GgbCykzHWTgsfohnPd"
+      },
+      "artists": [
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189716,
+      "name": "Daisies From Dirt",
+      "url": "https://open.spotify.com/track/2LwahuWcEHXxYeWQfGhpPv"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5jwVNPhSCpTYSVbX7f340d"
       },
@@ -13956,7 +13992,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 173802,
       "name": "Deep Cut",
       "url": "https://open.spotify.com/track/01ppBjDJh4MhSApKJyCQ2T"
@@ -15516,7 +15552,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 201280,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/3aXxG92japwrRgdRqOinEy"
@@ -16006,7 +16042,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 151946,
       "name": "Drag, Queen",
       "url": "https://open.spotify.com/track/6d9D2MSdnxha0mkcJxXb1w"
@@ -17432,7 +17468,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 259141,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/5ZE9ES08vL1jLOaHg6swxY"
@@ -19291,6 +19327,24 @@
     },
     {
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/4vZ6PB7oMfnmqz1LSEM55g"
+      },
+      "artists": [
+        {
+          "name": "Ethan Burdick",
+          "url": "https://open.spotify.com/artist/0RWelsacoB4K2zhUmrb1nA"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241163,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/6PIaAYsV9nT5GupsxcbdJB"
+    },
+    {
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/2R4MEKaLTRhMZzTXo9mhv3"
       },
@@ -20398,6 +20452,24 @@
       "duration_ms": 231474,
       "name": "Friends",
       "url": "https://open.spotify.com/track/5IHJbcaNA7Vaol0Eyb2z8g"
+    },
+    {
+      "album": {
+        "name": "Friends Don't Let Friends",
+        "url": "https://open.spotify.com/album/5jO7F3Ji5HuqFpq6zmvpxj"
+      },
+      "artists": [
+        {
+          "name": "Kanaan Brock",
+          "url": "https://open.spotify.com/artist/3mT9Fqi9eYdgSqKIqLvcr6"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191950,
+      "name": "Friends Don't Let Friends",
+      "url": "https://open.spotify.com/track/32vbyGJAk3I3HDx6xruaCh"
     },
     {
       "album": {
@@ -23855,6 +23927,24 @@
     },
     {
       "album": {
+        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
+    },
+    {
+      "album": {
         "name": "Halfway",
         "url": "https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3"
       },
@@ -25430,6 +25520,24 @@
       "duration_ms": 152739,
       "name": "Heather",
       "url": "https://open.spotify.com/track/5dw58XgghES8su2yXgQDPg"
+    },
+    {
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/06u0I9EMnwsyTGxfFle2tK"
+      },
+      "artists": [
+        {
+          "name": "Effy Harvard",
+          "url": "https://open.spotify.com/artist/7pri5m6ZG19uxZZZf3OpS7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200336,
+      "name": "HEATWAVE",
+      "url": "https://open.spotify.com/track/2LTLSWuVWwgSNQHrBcJO4Z"
     },
     {
       "album": {
@@ -29883,6 +29991,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Seeing You (Demo)",
+        "url": "https://open.spotify.com/album/7kywopRlHABP98mx4jnns7"
+      },
+      "artists": [
+        {
+          "name": "Madison Spratley",
+          "url": "https://open.spotify.com/artist/3rpZQJIz1OJsy9gBjSNS6M"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198922,
+      "name": "I'll Be Seeing You - Demo",
+      "url": "https://open.spotify.com/track/0cfZpc6VGykTfkKZamBjtU"
+    },
+    {
+      "album": {
         "name": "I'll Bet",
         "url": "https://open.spotify.com/album/6esULaFnVCbaHXVXogULM1"
       },
@@ -31998,7 +32124,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 266065,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/2byoKiz5tYuV3iry48yXiU"
@@ -33518,7 +33644,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 163127,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/2ccVUaxxHNsSlCm9y5pahI"
@@ -42406,7 +42532,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 204186,
       "name": "Nothin' But A Hangover",
       "url": "https://open.spotify.com/track/5C9GEGZtSHWfwvs3Xcldlv"
@@ -47938,7 +48064,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 189840,
       "name": "Road Signs",
       "url": "https://open.spotify.com/track/7pd7YI3dVDk2odI3h8jJXx"
@@ -48320,6 +48446,24 @@
       "duration_ms": 165509,
       "name": "Run Away With You",
       "url": "https://open.spotify.com/track/6cSLSszDmQW5MeLW03UTUY"
+    },
+    {
+      "album": {
+        "name": "Run From It",
+        "url": "https://open.spotify.com/album/0AXYM7418EeOt3VFEnylQf"
+      },
+      "artists": [
+        {
+          "name": "Hampton Hall",
+          "url": "https://open.spotify.com/artist/7xjTw13OLHb0aLqqha5nfl"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195382,
+      "name": "Run From It",
+      "url": "https://open.spotify.com/track/6oAQq9hZMMHeHt12XhedMw"
     },
     {
       "album": {
@@ -53740,7 +53884,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 219252,
       "name": "Song About You (Caroline)\u200b",
       "url": "https://open.spotify.com/track/48SljTieIIa8uZ2Fe9bYBi"
@@ -63167,6 +63311,24 @@
     },
     {
       "album": {
+        "name": "Wedding Gown",
+        "url": "https://open.spotify.com/album/1YVARkLeRS1uDpyuQQzooo"
+      },
+      "artists": [
+        {
+          "name": "Kayley Green",
+          "url": "https://open.spotify.com/artist/77sTeh8vSETya7x0MkRcNM"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170519,
+      "name": "Wedding Gown",
+      "url": "https://open.spotify.com/track/1ibxMRugMqpUkN04VIXGyq"
+    },
+    {
+      "album": {
         "name": "Well Enough Alone",
         "url": "https://open.spotify.com/album/7M9idzgSM3RI87VvIJYW5x"
       },
@@ -65706,6 +65868,24 @@
       "duration_ms": 283714,
       "name": "Why I Called",
       "url": "https://open.spotify.com/track/4ea0sVdiH8GrFgm5yvMvKZ"
+    },
+    {
+      "album": {
+        "name": "Why in the World",
+        "url": "https://open.spotify.com/album/1QUYv7Og8urzK7jTdq3ACq"
+      },
+      "artists": [
+        {
+          "name": "Maddie Lenhart",
+          "url": "https://open.spotify.com/artist/2vqBHPrnigNJCWusHebgMV"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222107,
+      "name": "Why in the World",
+      "url": "https://open.spotify.com/track/2Ev27sEl2ecrovVy8JfAiO"
     },
     {
       "album": {

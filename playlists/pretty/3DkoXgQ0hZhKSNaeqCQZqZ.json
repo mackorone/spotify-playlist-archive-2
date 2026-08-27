@@ -1,31 +1,115 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1200,
+  "num_followers": 1199,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFozveRLRXkwHEfn2e/ItzBUlRUlev",
+  "snapshot_id": "AAAFvrYJ7rgX8Hwj2Wz6H+QMfhkn0v3Q",
   "tracks": [
     {
-      "added_at": "2026-08-14 16:31:54",
+      "added_at": "2026-08-27 04:23:02",
       "album": {
-        "name": "HEADLESS LOUNGE",
-        "url": "https://open.spotify.com/album/3CgEtw9IHv01AdyZae6SVN"
+        "name": "stay away",
+        "url": "https://open.spotify.com/album/2jvb7ofZBr4HmbTZ8LNfYn"
       },
       "artists": [
         {
-          "name": "passengerprincess",
-          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+          "name": "Flxffy_",
+          "url": "https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD"
+        },
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
         }
       ],
-      "duration_ms": 167812,
-      "name": "HEADLESS LOUNGE",
-      "url": "https://open.spotify.com/track/22mZmxadaPv3MmCT2xRGNq"
+      "duration_ms": 135003,
+      "name": "stay away",
+      "url": "https://open.spotify.com/track/2qb2ojSVUTvD74xnrbZuw2"
     },
     {
-      "added_at": "2026-07-31 08:24:50",
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "Pink Girl",
+        "url": "https://open.spotify.com/album/4o1A532b9cZXas6wgjYnHS"
+      },
+      "artists": [
+        {
+          "name": "lucypawz",
+          "url": "https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/7DyStmOv5VbnGK7JGOVtlY"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "unnatural",
+        "url": "https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "unnatural",
+      "url": "https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "Have you heard the one about alfred?",
+        "url": "https://open.spotify.com/album/2WzqJTCyliIsXYs9hhmOW4"
+      },
+      "artists": [
+        {
+          "name": "Muffin Fox",
+          "url": "https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q"
+        }
+      ],
+      "duration_ms": 287374,
+      "name": "Have you heard the one about alfred?",
+      "url": "https://open.spotify.com/track/5jiqzU02rJ4F3gvO6jONUS"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "Make It Last",
+        "url": "https://open.spotify.com/album/0hlw0btDHxurzzHQvPnm5V"
+      },
+      "artists": [
+        {
+          "name": "Rowan Bailey",
+          "url": "https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R"
+        }
+      ],
+      "duration_ms": 193189,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/4akjWFeO6vOQ8pjan1yJk6"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/1wQAW0rnbLCLXT9prUf5zX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Shaye",
+          "url": "https://open.spotify.com/artist/2QBCZee5isY0iQEJMlredF"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/7nEuQWH4JH1fQ4S9u7hRSG"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
       "album": {
         "name": "forget about it!",
         "url": "https://open.spotify.com/album/79D09fZELy7ldFcC2oxGt8"
@@ -41,7 +125,143 @@
       "url": "https://open.spotify.com/track/1vW0igVORX0r1xfASD8Wq0"
     },
     {
-      "added_at": "2026-07-31 08:24:29",
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "Fox Boy (Loprov Remix)",
+        "url": "https://open.spotify.com/album/02uVBMMSTo9jYTZPIXVcXG"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        },
+        {
+          "name": "Loprov",
+          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
+        }
+      ],
+      "duration_ms": 352941,
+      "name": "Fox Boy - Loprov Remix",
+      "url": "https://open.spotify.com/track/3YCbIUiZ5QMrxTTzyLlS7O"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/0DMsdhugkJCxwlasQOX47y"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 123312,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/66NelSvkfZl35Hy06kPdP4"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "DVMVGX // CVNTRXL",
+        "url": "https://open.spotify.com/album/4YaTlXVTaSsFgEJaKZDX9S"
+      },
+      "artists": [
+        {
+          "name": "Mek-9",
+          "url": "https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ"
+        }
+      ],
+      "duration_ms": 210383,
+      "name": "Puppygirl Soju",
+      "url": "https://open.spotify.com/track/1E2aPP5kbg3ZMNLY5qB95D"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "WORKITOUT (RUSSY STYLE)",
+        "url": "https://open.spotify.com/album/5b7hK8Std1vcpKCT0aOoYx"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        },
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "WORKITOUT (RUSSY STYLE)",
+      "url": "https://open.spotify.com/track/4nRrpSTSONaZUevPwMARsE"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "bound",
+        "url": "https://open.spotify.com/album/1JpukiqrKVnipgp2xIy8Da"
+      },
+      "artists": [
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "duration_ms": 175741,
+      "name": "bound",
+      "url": "https://open.spotify.com/track/6VhKv3V6Hj67qfXeRYwAsI"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "HEADLESS LOUNGE",
+        "url": "https://open.spotify.com/album/3CgEtw9IHv01AdyZae6SVN"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "HEADLESS LOUNGE",
+      "url": "https://open.spotify.com/track/22mZmxadaPv3MmCT2xRGNq"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "kiss u on the lips :3c",
+        "url": "https://open.spotify.com/album/0PittEt72JGuC0kGZ5kCYW"
+      },
+      "artists": [
+        {
+          "name": "Kookie",
+          "url": "https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW"
+        }
+      ],
+      "duration_ms": 221145,
+      "name": "kiss u on the lips :3c",
+      "url": "https://open.spotify.com/track/5KBgzYcGy7cKvkLwiKRdEt"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "Digital Pawprint",
+        "url": "https://open.spotify.com/album/1zhvGGnmBC9VGJpi58SBOP"
+      },
+      "artists": [
+        {
+          "name": "Strat Strat",
+          "url": "https://open.spotify.com/artist/77pGG1bc5vcSGDrYsISCyB"
+        }
+      ],
+      "duration_ms": 127374,
+      "name": "Creature Feature",
+      "url": "https://open.spotify.com/track/7eAYDLOCkAPqNDO6N40sKk"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
       "album": {
         "name": "Light Shines on You",
         "url": "https://open.spotify.com/album/7mPSyGNxdwWrIcQxEysaDx"
@@ -57,20 +277,44 @@
       "url": "https://open.spotify.com/track/4fCfWY8suCaLrTq7rhZpbj"
     },
     {
-      "added_at": "2026-07-31 08:22:57",
+      "added_at": "2026-08-27 04:23:02",
       "album": {
-        "name": "Digital Pawprint",
-        "url": "https://open.spotify.com/album/1zhvGGnmBC9VGJpi58SBOP"
+        "name": "Surf Slowly",
+        "url": "https://open.spotify.com/album/3zZ7FQUM4PGacfvEnVMzPk"
       },
       "artists": [
         {
-          "name": "Strat Strat",
-          "url": "https://open.spotify.com/artist/77pGG1bc5vcSGDrYsISCyB"
+          "name": "fearozzles",
+          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
+        },
+        {
+          "name": "2MANYCOLOURS",
+          "url": "https://open.spotify.com/artist/1fCwwwIrJnXSg2075O9Vf5"
         }
       ],
-      "duration_ms": 127374,
-      "name": "Creature Feature",
-      "url": "https://open.spotify.com/track/7eAYDLOCkAPqNDO6N40sKk"
+      "duration_ms": 203333,
+      "name": "Surf Slowly",
+      "url": "https://open.spotify.com/track/0ta7inTx4QTgBC8UHWWnIb"
+    },
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "maybe in august",
+        "url": "https://open.spotify.com/album/0nUUhSQKKIadzZp3Tvn1wP"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        },
+        {
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
+        }
+      ],
+      "duration_ms": 639805,
+      "name": "weight (or ghosts of the trans-canada skyway)",
+      "url": "https://open.spotify.com/track/1UHY8WXcJ58Dcp3mxjH4DW"
     },
     {
       "added_at": "2026-07-30 03:25:42",
@@ -135,38 +379,6 @@
       "duration_ms": 172740,
       "name": "Constelaci\u00f3n",
       "url": "https://open.spotify.com/track/3DX3fg9gd8KYBuYKPKQj4i"
-    },
-    {
-      "added_at": "2026-07-19 02:35:28",
-      "album": {
-        "name": "bound",
-        "url": "https://open.spotify.com/album/1JpukiqrKVnipgp2xIy8Da"
-      },
-      "artists": [
-        {
-          "name": "fauxx",
-          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
-        }
-      ],
-      "duration_ms": 175741,
-      "name": "bound",
-      "url": "https://open.spotify.com/track/6VhKv3V6Hj67qfXeRYwAsI"
-    },
-    {
-      "added_at": "2026-07-17 07:43:03",
-      "album": {
-        "name": "Our Summer Dreams",
-        "url": "https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M"
-      },
-      "artists": [
-        {
-          "name": "snuffles",
-          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
-        }
-      ],
-      "duration_ms": 123312,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/33FGkFEXUvWRuuJFlDpsw9"
     },
     {
       "added_at": "2026-07-13 06:02:32",
@@ -267,26 +479,6 @@
       "duration_ms": 240971,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/2SyfIgwttOZb13cyYhjC4b"
-    },
-    {
-      "added_at": "2026-06-29 05:39:18",
-      "album": {
-        "name": "Surf Slowly",
-        "url": "https://open.spotify.com/album/3zZ7FQUM4PGacfvEnVMzPk"
-      },
-      "artists": [
-        {
-          "name": "fearozzles",
-          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
-        },
-        {
-          "name": "2MANYCOLOURS",
-          "url": "https://open.spotify.com/artist/1fCwwwIrJnXSg2075O9Vf5"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Surf Slowly",
-      "url": "https://open.spotify.com/track/0ta7inTx4QTgBC8UHWWnIb"
     },
     {
       "added_at": "2026-07-03 08:13:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Diffrent
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,231 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,237 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [Motion Sickness](https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Motion Sickness](https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8) | 3:20 |
 | 70 | [In Dreams \(its just the rhythm\)](https://open.spotify.com/track/6JRZnxpx5BlUOeWGgtSzqS) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [In Dreams \(its just the rhythm\)](https://open.spotify.com/album/3wYPkWlblcXyOZujQCXLvM) | 3:22 |
 
-Snapshot ID: `AAAAABw+PXZgUJpyV83pl//oGeiYAq28`
+Snapshot ID: `AAAAAEEt3G8bPFr71VpuZTR0dSFItZRl`

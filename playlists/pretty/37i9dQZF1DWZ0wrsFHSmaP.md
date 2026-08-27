@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Breanna Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,557 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,558 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 48 | [Hidden Scars](https://open.spotify.com/track/3oQCXYDZNyhhReIgjNutb1) | [Zayne Hall](https://open.spotify.com/artist/0OKtcso7CvUsKI0ELJkAGs) | [Hidden Scars](https://open.spotify.com/album/3B5PBkNP9X42QEAJ1NQSIC) | 2:10 |
 | 49 | [Manapinha](https://open.spotify.com/track/5c9nsMOIymo5aq2dHX2SrX) | [Marimayi](https://open.spotify.com/artist/6JF8d2rK7ohEIDY4K8LI0L) | [Manapinha](https://open.spotify.com/album/7xm6mb7mZJaaq0leAjAgn7) | 2:58 |
 
-Snapshot ID: `AAAAAENr0oypsHkXy8ehWS447+blxzC8`
+Snapshot ID: `AAAAABuh3vcri+OrUA0UKjnod2BcHd/c`

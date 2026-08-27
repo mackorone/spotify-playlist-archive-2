@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,677 likes - 200 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,988 likes - 200 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 199 | [Natural Serenity Pink Noise](https://open.spotify.com/track/3Fmkjj0HWBC8TlHKIckyye) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Pink Noise for Restful Sleep](https://open.spotify.com/album/2JQpTr1MbtBZOJAUfBA243) | 2:44 |
 | 200 | [Pink Noise Balance](https://open.spotify.com/track/6RWo80soxwN9KIWJmZWB86) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Pink Noise Balance](https://open.spotify.com/album/3C9YjJXau2NTktv3JNRxUQ) | 3:28 |
 
-Snapshot ID: `AAAAAFucAazsUNlQouDs0Gx3/twMNp9j`
+Snapshot ID: `AAAAACmKd6C3PMap0J2qH4/I7kQsNTwa`

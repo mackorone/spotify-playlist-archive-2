@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Luciano, Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,579 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,530 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 99 | [Heavyweight](https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM) | [Saliou](https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY) | [Heavyweight](https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp) | 1:35 |
 | 100 | [Tiki Taka](https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:29 |
 
-Snapshot ID: `AAAAANFr5NQFodS0n8TTMhk6Wg/9rN7o`
+Snapshot ID: `AAAAAPH38RDmREOcgqSutattLTTCVOJs`

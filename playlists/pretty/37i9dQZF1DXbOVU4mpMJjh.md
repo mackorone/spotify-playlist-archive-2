@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,072 likes - 289 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,045 likes - 289 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -298,4 +298,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 288 | [My One and Only Love](https://open.spotify.com/track/2GXMOJTGKLIM03TLGyELUI) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [My One and Only Love](https://open.spotify.com/album/1w5hmlFZ5aJODTBgA4Iy27) | 4:37 |
 | 289 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/7xGlRRZlQrecQnRYovWDZ9) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Flower Is a Lovesome Thing](https://open.spotify.com/album/4bZZ2pdbh9f7nSAd0Tdmei) | 4:15 |
 
-Snapshot ID: `AAAAAF5a8+/hJ9yhSvDzzwgnrh6qP8oA`
+Snapshot ID: `AAAAAFLruN/XZ4+CZHvZ3mjGIfpAliEW`

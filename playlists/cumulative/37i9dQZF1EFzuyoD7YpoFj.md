@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-814 songs - 1 day 19 hr 49 min
+816 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Love For $ale](https://open.spotify.com/track/3gS9xuTfnr15MAo4RVUbQ3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Momentum](https://open.spotify.com/album/4CAfF5JPPvnHlJ3mrvQfbe) | 5:20 | 2024-07-24 |  |
 | [Love For Sale](https://open.spotify.com/track/3RJ2CnHGlmBLsoVqaMfAM0) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [SESJUN RADIO SHOWS VOL.2](https://open.spotify.com/album/7FAkmTKo6gCz6n3xiwTk4J) | 12:11 | 2025-04-26 | 2025-06-28 |
 | [Love for Sale](https://open.spotify.com/track/36wqhQnRzcWU3wpG8fRGQA) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Florida All\-State Jazz Band](https://open.spotify.com/artist/6zVzFtwpekOCnQZz1DLwT9), [R\. Gary Langford](https://open.spotify.com/artist/1sS9xOnOQYoIO0EhxnuLuY) | [2012 Florida Music Educators Association \(FMEA\): All\-State Jazz Band & High School Honors Band](https://open.spotify.com/album/52dFNXhMCZCA4vgJkrcjjE) | 4:38 | 2025-08-01 | 2026-05-24 |
+| [Love Me, Love My Pekinese/Easy To Love](https://open.spotify.com/track/76PuQa6s0bivpcEiBJzA9M) | [Born To Dance/Virginia Bruce](https://open.spotify.com/artist/6vZH71AIyNUHQSycsY4N7Y) | [Born To Dance O.S.T.](https://open.spotify.com/album/48ebYlOoKMVO0k4Gwvww1J) | 3:17 | 2026-08-26 |  |
 | [Love of My Life](https://open.spotify.com/track/0lPQauqohdW8CzOpc56XJF) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Love Remembers](https://open.spotify.com/album/6AgPMm0r965vD5ehqvpo3f) | 4:14 | 2025-07-10 | 2026-07-09 |
 | [Love of My Life](https://open.spotify.com/track/2je2qB3Gvp6WRkWJx8klsO) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thunderbolt and Lightning](https://open.spotify.com/album/2H8cmrD7gCaEF05dqj0PP1) | 3:24 | 2026-07-08 |  |
 | [Lover Man](https://open.spotify.com/track/0DuWyzeLH09PQcnOMJiRgE) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:17 | 2026-08-18 | 2026-08-21 |
@@ -550,6 +551,7 @@
 | [Ridin' High](https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:10 | 2024-07-24 |  |
 | [River](https://open.spotify.com/track/7Cq55uxKjoSaO5LIvZfpOO) | [Porter](https://open.spotify.com/artist/4EDavMgfAYdAZsqOQZZPqA) | [Can't Keep Still](https://open.spotify.com/album/3W57aN9zsEXC5Wu4LeEcvc) | 3:20 | 2024-07-24 | 2025-06-28 |
 | [River God](https://open.spotify.com/track/7jLjF8Zj1T5w65z5RC1tVf) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter In London, Vol\. 1](https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U) | 3:07 | 2024-07-24 |  |
+| [Rolling Home](https://open.spotify.com/track/4ZxbuOS3onILh6XZC6ANhu) | [Born To Dance/James Stewart, Sid SIlvers](https://open.spotify.com/artist/6guZ3wa1k6nAktfDHTzJqV) | [Born To Dance O.S.T.](https://open.spotify.com/album/48ebYlOoKMVO0k4Gwvww1J) | 4:00 | 2026-08-26 |  |
 | [Rosalie](https://open.spotify.com/track/58VDbR5BA09Zs1e5mh1eSE) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [0816 \(Deluxe Edition\)](https://open.spotify.com/album/68SOZJEQBRmccKCJkMy1g4) | 2:59 | 2024-07-24 | 2025-06-28 |
 | [Rosalie](https://open.spotify.com/track/5F8wDhqyfZL41NIaCyOIWw) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Walkman Jazz: Erroll Garner](https://open.spotify.com/album/5Y3L2wMDpgXO9IRlJMtfTC) | 2:34 | 2025-07-10 | 2026-02-13 |
 | [Rosalie](https://open.spotify.com/track/20TC9BIjUG8kgs8KADVHY8) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [The Original Misty](https://open.spotify.com/album/1JEUXW6lRtV3j8WGXwroNn) | 2:37 | 2026-02-12 | 2026-08-08 |

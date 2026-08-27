@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,091 likes - 200 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,094 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 199 | [Confusional](https://open.spotify.com/track/1QXk8zas7jeb6WhD9sS4Sh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Nintindo Soul](https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR) | 2:24 |
 | 200 | [Peace In The Dark](https://open.spotify.com/track/0M19QAbec6PjqSgxGnthqH) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Social Commentary](https://open.spotify.com/album/4CDA6a2Q1kUSSOlEXcX0nW) | 4:45 |
 
-Snapshot ID: `AAAAAAnGsJjUI5qBXYRXhhXiKQuScewJ`
+Snapshot ID: `AAAAAFqTIRCfhwmoHnSLX0z5tubyRrpe`

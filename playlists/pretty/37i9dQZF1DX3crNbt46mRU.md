@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including makko, The Chainsmokers, Jorja Smith, Sido, Jazeek, Carly Rae Jepsen & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,068 likes - 96 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,059 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 44 | [Summer Glow](https://open.spotify.com/track/7M4lLU8JHnwbdJScZOYG5q) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [Summer Glow](https://open.spotify.com/album/6XnoiP64S8P7N2WdCo4Dnw) | 2:12 |
 | 45 | [High Then Low](https://open.spotify.com/track/6QKXTxATwVNBATqEn1uOyt) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [High Then Low](https://open.spotify.com/album/5Ftfh6561dQNxhdH47qQuK) | 2:46 |
 | 46 | [POP MY SHIT](https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Frost](https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK) | [POP MY SHIT](https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ) | 1:53 |
-| 47 | [10002](https://open.spotify.com/track/2PlF0FFqFfQv151cHmeMyh) | [Luca Durán](https://open.spotify.com/artist/5DEHPBn4uYNyPvVyP74z2z), [SAM\-E](https://open.spotify.com/artist/0Y2FvQYtG2dvBMqPssglfz), [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [10002](https://open.spotify.com/album/2NXwwBzY4h0I19RvwnJaBD) | 3:36 |
+| 47 | [10002](https://open.spotify.com/track/2PlF0FFqFfQv151cHmeMyh) | [Luca Durán](https://open.spotify.com/artist/5DEHPBn4uYNyPvVyP74z2z), [SAM\-E](https://open.spotify.com/artist/4X9RCdLI1RcvzYUglNMtcd), [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [10002](https://open.spotify.com/album/2NXwwBzY4h0I19RvwnJaBD) | 3:36 |
 | 48 | [LÄCHELN IM GESICHT](https://open.spotify.com/track/2GDv2dravk02Ri87HDVkkK) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [LÄCHELN IM GESICHT](https://open.spotify.com/album/4bHrodQzeN5nt9zWnzEB0p) | 2:04 |
 | 49 | [La Vida Loca](https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [La Vida Loca](https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj) | 3:02 |
 | 50 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 95 | [Aus meinem Kopf](https://open.spotify.com/track/7hwpmjKIMDzADvirA6yQ0I) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Aus meinem Kopf](https://open.spotify.com/album/2OT9kCogQLGvK7TATOcq2q) | 3:24 |
 | 96 | [Crazy Frog \- Axel F](https://open.spotify.com/track/31O0OYNBVsw58u3AgQqYPO) | [The Butcher Sisters](https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM) | [Crazy Frog \- Axel F](https://open.spotify.com/album/6w83dmZPBFyWlCbWhp83EI) | 2:38 |
 
-Snapshot ID: `AAAAAOiPsn7/x+rrlRYYao1u3LJLvmmQ`
+Snapshot ID: `AAAAAJ8pOR4hRpt3Z8+wZpoBuLj4naqc`

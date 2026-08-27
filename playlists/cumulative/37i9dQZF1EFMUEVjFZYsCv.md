@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 5 hr 49 min
+99 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Remember Who I Was](https://open.spotify.com/track/0N5iX9O78Wsg0bzaU9qHIL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 2:58 | 2024-03-28 |  |
 | [Ride](https://open.spotify.com/track/2Az99n5ipF0IxlwTwYR4yF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:49 | 2024-05-11 |  |
 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 | 2024-05-14 | 2026-08-08 |
+| [Rollercoaster](https://open.spotify.com/track/5r6XKxztz7CUozVoxzssTW) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Drews Famous Everybody Dance Now: Dance & Pop Hits Of The 90s & 2000s](https://open.spotify.com/album/4HtFDSxRnUapkCOjewqfQt) | 3:23 | 2026-08-26 |  |
 | [Roses](https://open.spotify.com/track/3exRCJnBrKSRhGXR4kcakZ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 4:14 | 2024-03-28 |  |
 | [Running Away](https://open.spotify.com/track/425PpIsnEbeVtMp6GJj7jX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 4:09 | 2024-03-28 |  |
 | [Ruthless](https://open.spotify.com/track/4MGkRLnl4ooV9TvvAlJklt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:12 | 2024-03-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,656 likes - 500 songs - 1 day 17 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,754 likes - 500 songs - 1 day 17 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Monicas vals](https://open.spotify.com/track/0P0lgWxM39ZSJE3u9nsikD) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 2:47 |
 | 500 | [Plaisir D'Amour](https://open.spotify.com/track/6a73OkTQ4v6XQp9HQyJxg4) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [A Paris](https://open.spotify.com/album/5lANN9hQYnITPzRPZxjYPw) | 3:10 |
 
-Snapshot ID: `AAAAAHSvAq0qnYkDuP9rLoN2MQeqTNgg`
+Snapshot ID: `AAAAACeBarpwvfen+/kqHRpdVFlm4YB6`

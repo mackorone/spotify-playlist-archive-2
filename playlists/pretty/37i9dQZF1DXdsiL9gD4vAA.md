@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,627 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,656 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 68 | [Wo Baat Kahan](https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Wo Baat Kahan](https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS) | 4:57 |
 | 69 | [Hamara Dil](https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Hamara Dil](https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q) | 5:15 |
 | 70 | [Phir Hui Shaam](https://open.spotify.com/track/21clDdrxC1f0PKvOh1A5Zi) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Haider Amaan Haider](https://open.spotify.com/artist/2gtLKmLMW4N7cZXk6FM70e) | [Ghazal Ho Gayi](https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i) | 3:40 |
-| 71 | [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 |
-| 72 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
+| 71 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
+| 72 | [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 |
 | 73 | [Dil Ke Behlane Ki](https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Dil Ke Behlane Ki](https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl) | 3:44 |
-| 74 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
-| 75 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 |
+| 74 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 |
+| 75 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
 
-Snapshot ID: `AAAAADA6oYQCjYMPCL883ueJSltlGIXF`
+Snapshot ID: `AAAAAORN1br7BqRsOFep3zOKgD0f3YC1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Aaron Rowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,451 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,452 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [the man with money in his hands](https://open.spotify.com/track/05zheau3JeycC8FNZpGRSd) | [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [the man with money in his hands](https://open.spotify.com/album/3N2RDj3l9f1MgwpfMBoaAd) | 2:57 |
 | 85 | [Love Will Kill Me](https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK) | [Hetta Falzon](https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH) | [Love Will Kill Me](https://open.spotify.com/album/1hRgrg6gwZmLV9DkSaxtdx) | 3:18 |
 
-Snapshot ID: `AAAAAJWUHlWlyeOindkWeOj1LfrRjqdH`
+Snapshot ID: `AAAAANzNQ33Tk1fiHAzxY3QAfpVYvYrc`

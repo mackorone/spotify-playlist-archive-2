@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2026年10月10日（土）に大阪・GORILLA HALL OSAKA、11月3日（火・祝）に東京・Zepp Shinjukuで開催される『POP YOURS presents Golden Age Tour』出演者をプレイリストでチェック
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,075 likes - 19 songs - 47 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 42,064 likes - 19 songs - 47 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 18 | [PASSO](https://open.spotify.com/track/1fJB5WFXOUHDVTdm0jcby6) | [27AM](https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm) | [Frozen Car](https://open.spotify.com/album/5Kcs3qkYxF6O12k34toSiw) | 3:35 |
 | 19 | [Frozen Car](https://open.spotify.com/track/44iIAnuwYkM3BqND70wyNo) | [27AM](https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm) | [Frozen Car](https://open.spotify.com/album/5Kcs3qkYxF6O12k34toSiw) | 2:22 |
 
-Snapshot ID: `AAAAAKeDzjFDpfx1OFoUeA98WeWFdsNb`
+Snapshot ID: `AAAAAEISCtyQFXYtv5VS5NHrVcbs9Dzd`

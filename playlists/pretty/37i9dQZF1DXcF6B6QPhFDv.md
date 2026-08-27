@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,175,832 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,175,327 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 80 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
 | 81 | [Democracy Manifest](https://open.spotify.com/track/1AlqXBu6Y8fTnyjBWDDibl) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Democracy Manifest](https://open.spotify.com/album/4eBylK5OV8GVQXSm3arSpe) | 2:06 |
 
-Snapshot ID: `AAAAAKH/DQNqmKwbLqScvySuPPsO8BXT`
+Snapshot ID: `AAAAANz2WEtM9L8san15Wad+A/7UqSH0`

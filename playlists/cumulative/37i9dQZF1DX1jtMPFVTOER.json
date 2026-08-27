@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 270386,
       "name": "Alone Together (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 270386,
       "name": "Alone Together (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/7Kf4XZWtern4bGBN7sxNvK"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 181604,
       "name": "Angela",
       "url": "https://open.spotify.com/track/1RlwflrljoxcNGoRPjeeUT"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 181604,
       "name": "Angela",
       "url": "https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx"
@@ -1530,10 +1530,28 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 219000,
       "name": "Black Walnut",
       "url": "https://open.spotify.com/track/0sSGPca0P8DKAXO2e48Qmg"
+    },
+    {
+      "album": {
+        "name": "Music is the Answer",
+        "url": "https://open.spotify.com/album/1IzURTDwwKmSbzyxlY7U4p"
+      },
+      "artists": [
+        {
+          "name": "SHEBAD",
+          "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219008,
+      "name": "Black Walnut",
+      "url": "https://open.spotify.com/track/6DskDAI7s4WzBNVJjxgEod"
     },
     {
       "album": {
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 316360,
       "name": "Box Of Stars Pt. 1",
       "url": "https://open.spotify.com/track/1bx9RTgRRTYN32ximVsKhI"
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 316360,
       "name": "Box Of Stars Pt. 1 (feat. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi)",
       "url": "https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ"
@@ -4685,6 +4703,24 @@
     },
     {
       "album": {
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/36PIheIp9ceOOW8WuHIcgz"
+    },
+    {
+      "album": {
         "name": "Garmonbozia",
         "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
       },
@@ -4696,7 +4732,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 213333,
       "name": "Garmonbozia",
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
@@ -7110,7 +7146,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
@@ -7132,6 +7168,24 @@
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT"
+    },
+    {
+      "album": {
+        "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/0IwAXu0Ycy2oC8mYrLo7sw"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/53kJjqR470wKWVADLEOo3B"
     },
     {
       "album": {
@@ -8216,10 +8270,40 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 200569,
       "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
       "url": "https://open.spotify.com/track/1FbvFPdMJwVDPUAP9Bk06x"
+    },
+    {
+      "album": {
+        "name": "Memory Bomb",
+        "url": "https://open.spotify.com/album/617gOMW4LhxYZi5BE6s4B1"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Tony Stone",
+          "url": "https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200569,
+      "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
+      "url": "https://open.spotify.com/track/2OSLOYbYVI0LfWEPPmp9gg"
     },
     {
       "album": {
@@ -8553,6 +8637,24 @@
     },
     {
       "album": {
+        "name": "Speedo",
+        "url": "https://open.spotify.com/album/6pGq5bhcv8XcHEVisUApSA"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86010,
+      "name": "Obsidian",
+      "url": "https://open.spotify.com/track/57y5I6qd1nMSeMHEXkASKD"
+    },
+    {
+      "album": {
         "name": "More Speedo",
         "url": "https://open.spotify.com/album/5pe0UzWRW3k4GpoV8Fl1sB"
       },
@@ -8568,7 +8670,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 85812,
       "name": "Obsidian (feat. Ghais Guevara)",
       "url": "https://open.spotify.com/track/5eiaBgZzdsUePTSKxY2Atq"
@@ -9493,6 +9595,28 @@
     },
     {
       "album": {
+        "name": "LOVE is WAR, Volume 6",
+        "url": "https://open.spotify.com/album/1v36FEfIZ3gDIto7GUjpDZ"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250769,
+      "name": "RASTA PASTA",
+      "url": "https://open.spotify.com/track/4nfFmscRxG1dVs4NpRYuJj"
+    },
+    {
+      "album": {
         "name": "RASTA PASTA (ft. Masego)",
         "url": "https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm"
       },
@@ -9508,7 +9632,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 250769,
       "name": "RASTA PASTA (ft. Masego)",
       "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
@@ -9945,6 +10069,36 @@
     },
     {
       "album": {
+        "name": "Collaborations & Remixes Vol. 1",
+        "url": "https://open.spotify.com/album/3hurITTCiKy4UT7Xw6zmnk"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Dream Mclean",
+          "url": "https://open.spotify.com/artist/0ojBbzNVKsx1wFf7Ag3YIv"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/7lKsazBrIDEv76YQzFt05s"
+        },
+        {
+          "name": "Wallace Rice",
+          "url": "https://open.spotify.com/artist/2jBrnxIU5OlEBG0DQY3Lqu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/5EH5h2U9H3HXxCUpQ6OJD1"
+    },
+    {
+      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0egI36OMLEcADQ8zJSbZGm"
       },
@@ -9968,7 +10122,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 206706,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/76q8RxpJisulRDVQZaW7b2"
@@ -10422,10 +10576,32 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 212002,
       "name": "Since I Met You",
       "url": "https://open.spotify.com/track/2AFtk7r6plMFFzSkpdKj5p"
+    },
+    {
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/1pwYyegvg8hxvWhM1Dsi3o"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Oshey",
+          "url": "https://open.spotify.com/artist/5S54RN1QOM0Vm7S1HRTybp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212002,
+      "name": "Since I Met You",
+      "url": "https://open.spotify.com/track/2jH8xsMMfXOo8by2I5UeC2"
     },
     {
       "album": {
@@ -11049,6 +11225,32 @@
     },
     {
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "Streets is Calling (feat. M.anifest and Moonchild Sanelly)",
+      "url": "https://open.spotify.com/track/33LLfs4sjayEWYDnAvFBrk"
+    },
+    {
+      "album": {
         "name": "Streets is Calling",
         "url": "https://open.spotify.com/album/1nnnWSZpUIdUipG0pDaceS"
       },
@@ -11068,7 +11270,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 152854,
       "name": "Streets is Calling - Single Edit",
       "url": "https://open.spotify.com/track/5FHGzDVFbvZKVoDkJMUWCE"
@@ -12428,10 +12630,36 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 172732,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
+    },
+    {
+      "album": {
+        "name": "edbl & friends \u2013 Jackson Mathod (Deluxe)",
+        "url": "https://open.spotify.com/album/67eWlaLnrhsRl8mbNsq0GG"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172732,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/79IgMOwCu1LddrEC8xWapN"
     },
     {
       "album": {
@@ -12810,7 +13038,7 @@
     {
       "album": {
         "name": "LOVE is WAR, Volume 6",
-        "url": "https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq"
+        "url": "https://open.spotify.com/album/1v36FEfIZ3gDIto7GUjpDZ"
       },
       "artists": [
         {
@@ -12821,6 +13049,24 @@
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230103,
+      "name": "ViBRATiON",
+      "url": "https://open.spotify.com/track/0MO395A1lF0ZuyJR01boST"
+    },
+    {
+      "album": {
+        "name": "LOVE is WAR, Volume 6",
+        "url": "https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-27",
       "duration_ms": 230103,
       "name": "ViBRATiON",
       "url": "https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR"

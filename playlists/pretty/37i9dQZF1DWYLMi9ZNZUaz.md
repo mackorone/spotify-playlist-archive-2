@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,762 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,785 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 29 | [Tim Anh Ghen](https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [LVK](https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 4:39 |
 | 30 | [2GOILAYS](https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5) | [MR LANH](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [2GOILAYS](https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS) | 4:20 |
 | 31 | [Hững Hờ](https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 4:26 |
-| 32 | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [RZ Ma$](https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT Phongkhin](https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh) | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz) | 3:13 |
+| 32 | [Thủ Đô Cypher \- RPT Phongkhin Remix](https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [RZ Ma$](https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT Phongkhin](https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh) | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz) | 3:13 |
 | 33 | [Công Ty 4](https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Công Ty 4](https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO) | 4:14 |
 | 34 | [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 |
 | 35 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [ẺMKKK](https://open.spotify.com/track/4JNSECQhoGV97Ak6Zo0KVP) | [The Shyn](https://open.spotify.com/artist/4sNKRLw6nPTQPQd1jBIqvS), [Lil Cent](https://open.spotify.com/artist/3TPbjUXeO7ETVk3CjGhWKV) | [ẺMKKK](https://open.spotify.com/album/58RrXfJ0oejvaUvYFWfZWZ) | 2:40 |
 | 50 | [1 VÀ 2](https://open.spotify.com/track/6euf4G2hksk39U6yuh3kpQ) | [TakaB](https://open.spotify.com/artist/6oJMjnxpbvGpenzHwK8gW5), [iMAZE](https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU), [20th Friend](https://open.spotify.com/artist/18BbTwORdRx9Z6EMGhdzmP) | [1 VÀ 2](https://open.spotify.com/album/4zkKjxAoi1h9FV1XmLEpr2) | 3:38 |
 
-Snapshot ID: `AAAAAD9Tgfu5MsRlEiOumgMhgFeTF6Y9`
+Snapshot ID: `AAAAAOJKKRdMNDmRzqCs/ELiBhF+wIZV`

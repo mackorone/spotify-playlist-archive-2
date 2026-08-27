@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Roxy Dekker, Joseph Kamel x Vitaa, Fontaines D.C\. and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,225 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,229 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 94 | [Love Beats Hate](https://open.spotify.com/track/7Favb8g2OPJq3U3LtCehLG) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Love Beats Hate](https://open.spotify.com/album/4fp5FIZI0pbwTvxFEanVYg) | 5:21 |
 | 95 | [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 |
 
-Snapshot ID: `AAAAAMMTbd0knMmnoHKJQI8b0meZxjah`
+Snapshot ID: `AAAAAOkTW57nWt11TG3K7dh02UBceYDI`

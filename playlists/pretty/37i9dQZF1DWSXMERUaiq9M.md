@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,402 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,008 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 99 | [I Got Acid](https://open.spotify.com/track/482SNF4FRJ5Ik8j2krjMEE) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [I Got Acid](https://open.spotify.com/album/7DqeTZTW7W1MSewzTKjnwR) | 2:07 |
 | 100 | [You Need The Drugs \- Kobosil Kartell Mix](https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE) | [Westbam](https://open.spotify.com/artist/1zcj0EOWK3jRZKeh20dnMR), [KOBOSIL](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Richard Butler](https://open.spotify.com/artist/5fVMfAQORpuaEoScZO3PBc) | [You Need The Drugs \(Kobosil Kartell Mix\)](https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4) | 3:37 |
 
-Snapshot ID: `AAAAAPt7Zebu+WOwRpLgtODdZDJfqyZD`
+Snapshot ID: `AAAAAJw3bMI+5GF8B8Z9WywLBlFTIiOx`

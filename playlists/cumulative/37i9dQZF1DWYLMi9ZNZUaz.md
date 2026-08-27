@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
 362 songs - 21 hr 5 min
 
@@ -295,7 +295,7 @@
 | [Thương](https://open.spotify.com/track/0sMc56aynx4DJwJtElVOSf) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Thương](https://open.spotify.com/album/0eVRpLCwnAcVnlZM52DN5m) | 3:05 | 2023-10-19 | 2024-05-08 |
 | [Thả Vần Freeverse](https://open.spotify.com/track/6kHD3r7f4Xv9m3m9eoFsZJ) | [Hành Or](https://open.spotify.com/artist/4oQYXp2FE6Xr3btXbQkAul), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Thả Vần Freeverse](https://open.spotify.com/album/1w3Pk15FfSCl14Br2kalh4) | 1:34 | 2024-05-20 | 2024-06-04 |
 | [thế giới thần tiên](https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:50 | 2023-10-19 | 2024-10-04 |
-| [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [RZ Ma$](https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT Phongkhin](https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh) | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz) | 3:13 | 2023-12-11 |  |
+| [Thủ Đô Cypher \- RPT Phongkhin Remix](https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [RZ Ma$](https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT Phongkhin](https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh) | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz) | 3:13 | 2023-12-11 |  |
 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 | 2023-10-19 |  |
 | [Tim Anh Ghen](https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [LVK](https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 4:39 | 2024-11-18 |  |
 | [Tinh Nhan Oi](https://open.spotify.com/track/7KNVYQdx7arRoeEJi9C9IR) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Tinh Nhan Oi](https://open.spotify.com/album/3zWndQdGgtuMOtv8Nq8mI5) | 4:14 | 2024-12-25 | 2025-01-12 |

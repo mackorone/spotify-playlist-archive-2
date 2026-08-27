@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,907 likes - 153 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,874 likes - 153 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All My Friends \(Remix\)](https://open.spotify.com/track/4m5CRVBMMCmTsoRSbcoZVn) | [Willy Beaman](https://open.spotify.com/artist/0ZdCJB39o81l85QK7PgTTe), [ZBRAS](https://open.spotify.com/artist/48z3tlWfz43lP0bH7wMNKR) | [Prismatic \(Remixes\)](https://open.spotify.com/album/5kPIZUP8iLxe8wdBiervL8) | 3:02 |
+| 1 | [All My Friends \- Remix](https://open.spotify.com/track/4m5CRVBMMCmTsoRSbcoZVn) | [Willy Beaman](https://open.spotify.com/artist/0ZdCJB39o81l85QK7PgTTe), [ZBRAS](https://open.spotify.com/artist/48z3tlWfz43lP0bH7wMNKR) | [Prismatic \(Remixes\)](https://open.spotify.com/album/5kPIZUP8iLxe8wdBiervL8) | 3:02 |
 | 2 | [Can I come home](https://open.spotify.com/track/4R10zxqi8oPauPbXBVYFAd) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Mother](https://open.spotify.com/album/206fFVgEESA7xFQMP6NlPh) | 5:42 |
 | 3 | [By My Side \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/track/2Yn4bizRSaX3nCbImiYV9k) | [Saint Rene](https://open.spotify.com/artist/1T9t3nGi3dOXzjLeodRxKv) | [By My Side \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/album/6d3tgSHXsGA04MAcMvSFW1) | 2:36 |
 | 4 | [Quantum Love](https://open.spotify.com/track/0dnuNfRgLWS0o6Zv8wTaOO) | [chengcheng](https://open.spotify.com/artist/4u8btBGPiNGUyWVWisB2oq), [jasyours](https://open.spotify.com/artist/4VBHiXe8aQXkjWXJTLiyqR) | [K\-Pop Heat](https://open.spotify.com/album/59ofNa91I4C3HEHgHY2mi5) | 3:03 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 152 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 153 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 |
 
-Snapshot ID: `AAAAAKC9ABSg1QHLJTlWeVBNluRRaSFu`
+Snapshot ID: `AAAAAI/5oVeSPG6K0iEHGMVpKOBTFis3`

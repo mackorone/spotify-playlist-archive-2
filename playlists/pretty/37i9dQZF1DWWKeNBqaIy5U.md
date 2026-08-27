@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKeNBqaIy5U.md) - [plain]
 
 > Soft Jazz vocals and smooth instrumentals to soundtrack your dinner \- perfect for cooking, hosting a dinner party, or a relaxed evening at home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,676 likes - 122 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,699 likes - 122 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKeNBqaIy5U.md) - [plain]
 | 121 | [Satin Doll](https://open.spotify.com/track/5TqaDRC0TlnMIRr4ABblZk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:29 |
 | 122 | [I Can't Give You Anything but Love](https://open.spotify.com/track/3h9ZtgfF4Ux4n9dKgNfORP) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Very Best Of: Bobby Darin](https://open.spotify.com/album/6EBSEoVD1dPmVxBnzTlJxW) | 2:37 |
 
-Snapshot ID: `AAAAAPRURzvLnk1trU3QsjIjaPbgy6F2`
+Snapshot ID: `AAAAAOLROEbY0KF/7AZ5u3nwpnuz53sZ`

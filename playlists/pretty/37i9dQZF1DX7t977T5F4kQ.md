@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   Lasmid
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,134 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,176 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Mon Bébé \(with King Promise\)](https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Mon Bébé \(with King Promise\)](https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc) | 2:48 |
 | 80 | [No\. 1 Fan](https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:57 |
 
-Snapshot ID: `AAAAAIb/00fP4KIsduJx0D9O1WC8h1f9`
+Snapshot ID: `AAAAAItAqrhGkesdsuUP/F9GczDh2e70`

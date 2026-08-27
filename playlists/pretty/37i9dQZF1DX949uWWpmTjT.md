@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,853 likes - 400 songs - 1 day 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,905 likes - 400 songs - 1 day 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -383,8 +383,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 373 | [Put on the Badge](https://open.spotify.com/track/2jYoYfXjP26mON92ffXYrH) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Put on the Badge](https://open.spotify.com/album/7blUfTMgeMGVFLwPaKA5Uu) | 3:30 |
 | 374 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 |
 | 375 | [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 |
-| 376 | [If I Would Have Known](https://open.spotify.com/track/1GOyecPFvB7jYjLJtbhHll) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2), [Petter Bergander](https://open.spotify.com/artist/5W5sj2Nh0mIhYYMaLIVjf0), [Eva Kruse](https://open.spotify.com/artist/7z5xTCenrUxxU0DRpruOMH), [Ikiz](https://open.spotify.com/artist/1Rp1rMPJmN5J480POju2v2) | [If I Would Have Known](https://open.spotify.com/album/0oUY70JCjvdpgqhAgn9O64) | 4:59 |
-| 377 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 |
+| 376 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 |
+| 377 | [If I Would Have Known](https://open.spotify.com/track/1GOyecPFvB7jYjLJtbhHll) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2), [Petter Bergander](https://open.spotify.com/artist/5W5sj2Nh0mIhYYMaLIVjf0), [Eva Kruse](https://open.spotify.com/artist/7z5xTCenrUxxU0DRpruOMH), [Ikiz](https://open.spotify.com/artist/1Rp1rMPJmN5J480POju2v2) | [If I Would Have Known](https://open.spotify.com/album/0oUY70JCjvdpgqhAgn9O64) | 4:59 |
 | 378 | [What's The Rush](https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 3:42 |
 | 379 | [Lullaby](https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Lullaby](https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo) | 3:39 |
 | 380 | [Solar \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2Cd9dn9WV2QWsgKO2PwBUY) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Walkin'](https://open.spotify.com/album/2aiYquTSYZ6xdi1gyHHR76) | 4:40 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 399 | [Ol' Man River](https://open.spotify.com/track/3w76lFh4V9mNpxGelN7U44) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Ol' Man River](https://open.spotify.com/album/6rFrgssgHkHnZknkv70EOe) | 5:42 |
 | 400 | [Jitterbug Waltz](https://open.spotify.com/track/78tkbFOl19X4dd25sxossL) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5xUzn9J7eHJOQpQ6bYba8U) | 6:16 |
 
-Snapshot ID: `AAAAAO778eea8qV7k0CaXZaD5VE+LFo3`
+Snapshot ID: `AAAAAFH8+vEbUMJDfyuVd39FXR0Ir1KI`

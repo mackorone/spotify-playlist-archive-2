@@ -9471,6 +9471,28 @@
     },
     {
       "album": {
+        "name": "Flames Of A Wildfire",
+        "url": "https://open.spotify.com/album/21wuL307v10SocLogEugfv"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306976,
+      "name": "YOU ARE GOOD",
+      "url": "https://open.spotify.com/track/3OBCah0meHK9O5Ss3dztNZ"
+    },
+    {
+      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf"
       },

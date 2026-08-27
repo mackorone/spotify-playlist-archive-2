@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: Westside Cowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,853 likes - 133 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,859 likes - 133 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 132 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 | 133 | [Billboard Style](https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Billboard Style](https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL) | 2:50 |
 
-Snapshot ID: `AAAAAH9aC2ruitWuauqZUkqvyLXaVtU7`
+Snapshot ID: `AAAAAJJ8rG0JviAG3N/+nFhUgvmtMz8A`

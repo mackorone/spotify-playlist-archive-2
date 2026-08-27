@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Cloud Hum",
+        "url": "https://open.spotify.com/album/69WqyntJEDYP6ZFGCRluEV"
+      },
+      "artists": [
+        {
+          "name": "Sleepmaker",
+          "url": "https://open.spotify.com/artist/3CF8OnWwmF5oA7yGT4OJog"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Cloud Hum",
+      "url": "https://open.spotify.com/track/5d4QE1FUKrv7Mfv7p4OEGb"
+    },
+    {
+      "album": {
         "name": "Cloudwhisper Noise",
         "url": "https://open.spotify.com/album/2DdIxPLNZQaPVm7ttnoY1d"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 155933,
       "name": "Early Morning White Noise",
       "url": "https://open.spotify.com/track/2hV0wH6FkGxCugwOsjPaa2"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 285405,
       "name": "Endless White Noise Calm",
       "url": "https://open.spotify.com/track/3g5xlyXE6PDxqqt4SV63Dj"
@@ -848,6 +866,24 @@
       "duration_ms": 173000,
       "name": "Into The Deep White Noise",
       "url": "https://open.spotify.com/track/0UqAKNUtvpXZ5xNi3z1oAJ"
+    },
+    {
+      "album": {
+        "name": "Light Engine Hum",
+        "url": "https://open.spotify.com/album/1PVneEhqsYcP2I3KY5MGsN"
+      },
+      "artists": [
+        {
+          "name": "Kinetic Space",
+          "url": "https://open.spotify.com/artist/7lrv8EEn8sJ45yY5Rzxb0R"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171464,
+      "name": "Light Engine Hum",
+      "url": "https://open.spotify.com/track/7gxirh8oTwcARlQPVuHXJV"
     },
     {
       "album": {
@@ -1373,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Sleepstorm (White Noise)",
+        "url": "https://open.spotify.com/album/5HJ7a23PyRCjTjYqgaSirH"
+      },
+      "artists": [
+        {
+          "name": "Millionen Tropfen",
+          "url": "https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157463,
+      "name": "Sleepstorm (White Noise)",
+      "url": "https://open.spotify.com/track/1azE7tpCgkNtl3j68JYiDa"
+    },
+    {
+      "album": {
         "name": "Slow Motion in White",
         "url": "https://open.spotify.com/album/5VBCV8XsQnc3BLbrl7k1vk"
       },
@@ -1870,7 +1924,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 246928,
       "name": "Whispering White Noise Wind",
       "url": "https://open.spotify.com/track/3F8T15ypoilwLqEyv928pH"

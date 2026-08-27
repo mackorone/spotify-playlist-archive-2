@@ -3659,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "The Best for Musicians No. 107",
+        "url": "https://open.spotify.com/album/1yXkIZtbGWwzL2DqTJCGoi"
+      },
+      "artists": [
+        {
+          "name": "Midifine Systems",
+          "url": "https://open.spotify.com/artist/6DwFwtsHLMGyXmry54SNPZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235048,
+      "name": "Kryptonite - Karaoke Version In the Style of 3 Doors Down",
+      "url": "https://open.spotify.com/track/1ZW2U5vpFLnBvkkXApytlA"
+    },
+    {
+      "album": {
         "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
         "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
       },

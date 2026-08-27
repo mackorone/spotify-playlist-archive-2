@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Mariana Volker
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,152 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,147 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 11 | [É Segredo](https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [É Segredo](https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY) | 2:53 |
 | 12 | [Sonhos](https://open.spotify.com/track/7q1hyBzGyGrMWEFxTpLJc2) | [Marina Aquino](https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr) | [Sonhos](https://open.spotify.com/album/6ypGnuMLStSpLPyc6Rgs0f) | 3:50 |
 | 13 | [Quando Chego](https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [The Other Side](https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY) | 4:19 |
-| 14 | [Perfeição](https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp) | [João Bosco](https://open.spotify.com/artist/6ul0a43xboIu33JDBZdBzF), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Perfeição](https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf) | 4:10 |
+| 14 | [Perfeição](https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Perfeição](https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf) | 4:10 |
 | 15 | [Semeia](https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Eu Vejo Luz Em Maior Proporção Do Que Eu Vejo A Escuridão](https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV) | 3:28 |
 | 16 | [Canção pra Te Amar no Fim do Mundo](https://open.spotify.com/track/6JiZHun6ZdLLqAoSg5znG7) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BIONE](https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz) | [Era Uma Vez o Amanhã](https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox) | 3:48 |
 | 17 | [A Paz](https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Mônica Salmaso](https://open.spotify.com/artist/1UaFyaKEutboGQBQUY7A1y) | [A Paz](https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo) | 4:33 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 84 | [Nem Uma, Nem Duas, Nem Três](https://open.spotify.com/track/6CtJhfxODuGlf3atmAbki1) | [Marianna Leporace](https://open.spotify.com/artist/4SmsBUrTyDDdYkHZk6Zm13), [Cacala Carvalho](https://open.spotify.com/artist/0KBkqUI1URmoPd5FC6EGIp), [Sheila Zagury](https://open.spotify.com/artist/2K7tlKYuB14qPSpoluRz6H), [Guilherme Hermolin](https://open.spotify.com/artist/4XbiksDhpgOgBpIHINQQst), [Fernando Leporace](https://open.spotify.com/artist/5o8rayVoaQmS8m5bssWmii), [Luisinho Sobral](https://open.spotify.com/artist/6xcDIEtDsWdNSX5qJ6m0zn) | [Nem Uma, Nem Duas, Nem Três](https://open.spotify.com/album/2hvJJexRYmnsXWBaLLukU2) | 3:52 |
 | 85 | [SEM DRAMAS](https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw) | [João Bernardo](https://open.spotify.com/artist/29g5s8mPByIGhpfpGN7VfN), [Rubinho Jacobina](https://open.spotify.com/artist/25zJD6x6MLQ0mFBHDrfpDd) | [SEM DRAMAS](https://open.spotify.com/album/0Ijd5FTZoRGfsbqsTAKDrK) | 2:54 |
 
-Snapshot ID: `AAAAAGncEcgi/7IZh8tnA9i+lmv0BZsT`
+Snapshot ID: `AAAAAL/hxaQEhHccWObk6Va7OWqtMXTR`

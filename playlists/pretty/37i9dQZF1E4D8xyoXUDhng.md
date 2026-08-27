@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Melvin Crispell III, Amber Bullock and more
+> With Marvin Winans, Kelontae Gavin, Amber Bullock and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 426 likes - 50 songs - 4 hr 57 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Revelation 19:1 \- Live](https://open.spotify.com/track/3UJtQocPQAJWTsudb8Qw1h) | [Stephen Hurd](https://open.spotify.com/artist/74PFtvi865w0SZ72quv7BZ) | [My Destiny \(Live\)](https://open.spotify.com/album/2GSiXDgjnM0ve8vwfgQz6u) | 5:34 |
 | 50 | [Pass Me Not O Gentle Savior](https://open.spotify.com/track/0d9QvUDQ5yqilHak1uECQM) | [Hasan Green](https://open.spotify.com/artist/0CdQn1tj7KqCtWALiZlV7M) | [Pass Me Not O Gentle Savior](https://open.spotify.com/album/5isIzsmZmrtRtdV2r53w06) | 4:22 |
 
-Snapshot ID: `AAAAAFMPn4sla9KOzMUWHPdy6mZDLLxZ`
+Snapshot ID: `AAAAAGFxx7zMpcIV1hMjOCDiyJLx8dvD`

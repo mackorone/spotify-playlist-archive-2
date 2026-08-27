@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 
 > Pump it up with these current jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,197,601 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,197,616 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 99 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
 | 100 | [Chemistry](https://open.spotify.com/track/6k8UrKM6ScUbXGpPVz4xXf) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Chemistry](https://open.spotify.com/album/6E6E7Qd61G1O1ZfY5oz93v) | 3:29 |
 
-Snapshot ID: `AAAAAC3g/ymPiXB6NCVuscr1Bka7hZUj`
+Snapshot ID: `AAAAAJ3/GP7dvXVOUE/+bM1TzmPBTtmQ`

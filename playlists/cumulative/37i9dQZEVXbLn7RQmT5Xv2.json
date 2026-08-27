@@ -4772,7 +4772,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 241212,
       "name": "El Hob Gany",
       "url": "https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz"
@@ -8328,7 +8328,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 255589,
       "name": "Khalina Zekra",
       "url": "https://open.spotify.com/track/5iqwTdNpHSMEj8KkkCBllY"
@@ -10642,7 +10642,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 241163,
       "name": "Mesh Habibi Bas",
       "url": "https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ"
@@ -18284,7 +18284,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 204838,
       "name": "\u0627\u0644\u0635\u062f\u0627\u0631\u0629 \u0628\u064a\u062a\u0649",
       "url": "https://open.spotify.com/track/1qQoYkAVwP0PjSqgKgqaHG"
@@ -22578,7 +22578,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 183543,
       "name": "\u0643\u0644\u0647\u0627 \u0645\u0633\u062a\u0646\u0638\u0631\u0647 \u0639\u064a\u0632\u0646\u064a \u0627\u0631\u062c\u0639 \u0648\u0631\u0627",
       "url": "https://open.spotify.com/track/0ytTMGsxwuse60V0dk8PIX"
@@ -23382,7 +23382,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 192284,
       "name": "\u0645\u0639\u0627\u064a\u0627",
       "url": "https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c"
@@ -23940,10 +23940,6 @@
         {
           "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
           "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
-        },
-        {
-          "name": "\u0627\u0644\u0646\u0627\u0633\u0641 \u0628\u0631\u0648\u062f\u0643\u0634\u0646 - Elnasef prouduction",
-          "url": "https://open.spotify.com/artist/4VPJYDXjNM0dJ6uA4TyqNE"
         }
       ],
       "date_added": "2026-06-17",

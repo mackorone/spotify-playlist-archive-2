@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,432 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,535 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Take Me Back](https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d) | [Golden Hands](https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ) | [Golden Hands](https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf) | 7:41 |
 | 150 | [Microdosing](https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [A Trip To Bolgatanga](https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14) | 3:43 |
 
-Snapshot ID: `AAAAABITT4UMqeePW/mEK5WlWJwPOmsh`
+Snapshot ID: `AAAAADelf192PIemz/qnXAkKuyXa6d4X`

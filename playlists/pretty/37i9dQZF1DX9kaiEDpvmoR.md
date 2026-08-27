@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,824 likes - 89 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,821 likes - 89 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 88 | [I Rock My Country](https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I Rock My Country](https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf) | 3:16 |
 | 89 | [Prinsessa](https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY) | [Naomi Wiehe](https://open.spotify.com/artist/1ynawIBfmB26A6kkqkBxQ2) | [Prinsessa](https://open.spotify.com/album/4GumTSRgywolC98wanKLun) | 4:01 |
 
-Snapshot ID: `AAAAAIPtyZy367gk7T6QYX8wsCuxi8lW`
+Snapshot ID: `AAAAALLUcDXJkUZ3Jp0oefwE5Bit2E0D`

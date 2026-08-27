@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -4505,6 +4505,24 @@
     },
     {
       "album": {
+        "name": "The Jazz Masterpieces (Best Songs Remastered)",
+        "url": "https://open.spotify.com/album/0QKtPAzPSEoo2GsqZBl0OK"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis and His Orchestra",
+          "url": "https://open.spotify.com/artist/42xmE0UtR32MfbcuxRrvMZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138081,
+      "name": "Israel",
+      "url": "https://open.spotify.com/track/4DxYMNZbG6Ew3XrswwnTzo"
+    },
+    {
+      "album": {
         "name": "R&H Goes Pop!",
         "url": "https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI"
       },
@@ -4770,10 +4788,28 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 142119,
       "name": "La La La",
       "url": "https://open.spotify.com/track/1bFEqg4kTbdQEVaia2o0jJ"
+    },
+    {
+      "album": {
+        "name": "No Strings (Original Broadway Cast - Music & Lyrics By Richard Rodgers)",
+        "url": "https://open.spotify.com/album/3MkjJAgOQNCh6B3Fh0U3gP"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/1a6iZ7HUJZ2MpeOUfb6vaJ"
     },
     {
       "album": {
@@ -6094,7 +6130,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 67653,
       "name": "No. 28, Oklahoma (Encore)",
       "url": "https://open.spotify.com/track/5i8TNBJ4nq29KMVwxg7iBA"
@@ -6782,7 +6818,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 193760,
       "name": "Overture",
       "url": "https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG"
@@ -7368,6 +7404,36 @@
       "duration_ms": 278040,
       "name": "Rodgers: Suite From \"The Valiant Years\"",
       "url": "https://open.spotify.com/track/1CL0bPf6dr7fUqrvu3fiUb"
+    },
+    {
+      "album": {
+        "name": "Rossini: William Tell",
+        "url": "https://open.spotify.com/album/7uXQsKwxPzWsd11f2At902"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Gabriele Gemignani",
+          "url": "https://open.spotify.com/artist/7luwTEEU6T9EEr7FfVfu8M"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 694013,
+      "name": "Rossini: Guillaume Tell: Overture",
+      "url": "https://open.spotify.com/track/4FHwIrL2z1EoJxIYkhXo7U"
     },
     {
       "album": {

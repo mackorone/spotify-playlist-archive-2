@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 超ときめき♡宣伝部
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,783 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,784 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [ガチde古生](https://open.spotify.com/track/3hhJiDp6prldliK5p3Q9Fz) | [LINKL PLANET](https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS) | [ガチde古生](https://open.spotify.com/album/4BQzXh41TeD8RqDb7MubuS) | 2:02 |
 | 50 | [蒼穹](https://open.spotify.com/track/2HdEA5Ovb7nqjMpAwW858I) | [Tohkei](https://open.spotify.com/artist/6LPhzNRm6UwJZnB2z7cwJn) | [蒼穹](https://open.spotify.com/album/3cT1xd7DKsKndALqOwDuUV) | 3:12 |
 
-Snapshot ID: `AAAAAKyy1QuBAfzYLgPHYPpokUpQSVPC`
+Snapshot ID: `AAAAAFOzgl2v68vCdqNvzjlDsLDeZW7F`

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 227760,
       "name": "Al Diablo Con Mi Suerte",
       "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 129393,
       "name": "Presentaci\u00f3n",
       "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 393626,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 413066,
       "name": "Tocando Fondo - En Vivo",
       "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
@@ -1450,6 +1450,24 @@
       "duration_ms": 345930,
       "name": "\u00c1ngel o Demonio",
       "url": "https://open.spotify.com/track/0rPZ2vSzmtDdRdcGXQ2Xt6"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel O Demonio",
+        "url": "https://open.spotify.com/album/4jmI2DrYtXmRjzqFo4hRBU"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357424,
+      "name": "\u00c1ngel O Demonio",
+      "url": "https://open.spotify.com/track/3aO9vK7A4YJIIjv1lOtDS2"
     },
     {
       "album": {

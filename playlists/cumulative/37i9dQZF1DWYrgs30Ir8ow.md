@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: LA$$A, Cristian D & Frsh
 
-1,404 songs - 2 day 20 hr 30 min
+1,405 songs - 2 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Allang Niet Meer Van Jou](https://open.spotify.com/track/6NkWvNIyu2tBHlmzOaBrEG) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 4:27 | 2023-12-08 | 2023-12-13 |
 | [Alleen \(Weer\)](https://open.spotify.com/track/2KhW9wzxsOjcHhRqIq1dfn) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Alleen \(Weer\)](https://open.spotify.com/album/4ygSGZsHpGfCkTcRVjiAco) | 3:37 | 2023-03-27 | 2023-04-20 |
 | [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 | 2026-03-31 | 2026-06-12 |
+| [Alleen Jij](https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Alleen Jij](https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM) | 2:00 | 2026-08-26 |  |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2024-10-03 | 2024-10-18 |
 | [Allerlaatste Keer](https://open.spotify.com/track/60K3UHojqQw1GJKhAF6EM6) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Allerlaatste Keer](https://open.spotify.com/album/5MoUJ6qQGpX9Twa0J5kSkl) | 2:20 | 2025-04-16 | 2025-06-06 |
 | [Alles Al](https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Alles Al](https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP) | 3:04 | 2023-04-27 | 2023-05-12 |

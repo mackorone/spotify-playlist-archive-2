@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 176187,
       "name": "Amando Individual",
       "url": "https://open.spotify.com/track/40jJXSACXLpFp5czWoa32I"
@@ -6595,6 +6595,28 @@
     },
     {
       "album": {
+        "name": "Conrado & Aleksandro e Bruno & Barretto",
+        "url": "https://open.spotify.com/album/6XCLdx3lvnZOZjaFSiTX2p"
+      },
+      "artists": [
+        {
+          "name": "Conrado & Aleksandro",
+          "url": "https://open.spotify.com/artist/3gIjloYbc9H6KkxKwZqExd"
+        },
+        {
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Hino dos Machos",
+      "url": "https://open.spotify.com/track/1tm1WrBNhGFfYO9pfexwI0"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Curitiba",
         "url": "https://open.spotify.com/album/1GQ2MQmFenbWPwPu45yOwq"
       },
@@ -9014,13 +9036,13 @@
           "url": "https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q"
         },
         {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+          "name": "Humberto e Ronaldo",
+          "url": "https://open.spotify.com/artist/6Tw9EhO7AbffjLHBWDSxpH"
         }
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 166401,
       "name": "N\u00e3o Me Negue",
       "url": "https://open.spotify.com/track/67I9GYwgsDUPiyzlgd6XSz"
@@ -9042,7 +9064,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 167401,
       "name": "N\u00e3o Me Negue (feat. Humberto & Ronaldo) - Ao Vivo",
       "url": "https://open.spotify.com/track/0W8DX6yRa6QvmIkWUcX8wM"
@@ -10740,7 +10762,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 181114,
       "name": "Quero Ver Se C\u00ea N\u00e3o Casa",
       "url": "https://open.spotify.com/track/6TRhv1CJAmWTkAugvPkY3w"
@@ -10758,7 +10780,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 181114,
       "name": "Quero Ver Se C\u00ea N\u00e3o Casa",
       "url": "https://open.spotify.com/track/26mJp25jJ3rRME8HtpEyoX"

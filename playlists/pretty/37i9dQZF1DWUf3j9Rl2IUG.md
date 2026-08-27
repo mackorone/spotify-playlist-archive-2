@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: FOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,886 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,026 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 79 | [Realize](https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Realize](https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH) | 2:10 |
 | 80 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
 
-Snapshot ID: `AAAAALxrl2FXOPV2AFxrQ07vpWGI+Irc`
+Snapshot ID: `AAAAABLB/NB6g/obButQodBk6MLTZQmR`

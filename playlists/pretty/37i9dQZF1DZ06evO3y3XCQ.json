@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Counting 5-4-3-2-1",
+      "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Violent Waves",
         "url": "https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 283746,
       "name": "The Lottery",
       "url": "https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "This Side of Brightness",
-      "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
     },
     {
       "added_at": null,
@@ -108,9 +108,137 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
+      "duration_ms": 272400,
+      "name": "War All The Time",
+      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Running From The Rain",
+      "url": "https://open.spotify.com/track/4CRaYUB98nYPtL5P9TxMnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Five Stories Falling",
+        "url": "https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Jet Black New Year",
+      "url": "https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "Cross Out The Eyes",
+      "url": "https://open.spotify.com/track/1HiBAaHMxp8Adf2XEqobn5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
       "duration_ms": 196426,
       "name": "For The Workforce, Drowning",
       "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "The Other Side Of The Crash/Over And Out (Of Control)",
+      "url": "https://open.spotify.com/track/41fAJ4UTQemRnjRkJRstZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "This Side of Brightness",
+      "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Autobiography Of A Nation",
+      "url": "https://open.spotify.com/track/0ALZo8QRVF93qCVyseIjNF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Asleep In The Chapel",
+      "url": "https://open.spotify.com/track/4tKjOaJ6994Fj1DcJGKriC"
     },
     {
       "added_at": null,
@@ -140,9 +268,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 318226,
-      "name": "The Lovesong Writer",
-      "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
+      "duration_ms": 176133,
+      "name": "At This Velocity",
+      "url": "https://open.spotify.com/track/3H9eREtPUuMFijG1ryHqQ6"
     },
     {
       "added_at": null,
@@ -156,9 +284,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 248466,
-      "name": "Cross Out The Eyes",
-      "url": "https://open.spotify.com/track/1HiBAaHMxp8Adf2XEqobn5"
+      "duration_ms": 273026,
+      "name": "Paris In Flames",
+      "url": "https://open.spotify.com/track/1WCTdTsR7PTHtuTXIzg5BZ"
     },
     {
       "added_at": null,
@@ -204,9 +332,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 310360,
-      "name": "Sugar In The Sacrament",
-      "url": "https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx"
+      "duration_ms": 318226,
+      "name": "The Lovesong Writer",
+      "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
     },
     {
       "added_at": null,
@@ -220,9 +348,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 235626,
-      "name": "Autobiography Of A Nation",
-      "url": "https://open.spotify.com/track/0ALZo8QRVF93qCVyseIjNF"
+      "duration_ms": 139040,
+      "name": "Concealer",
+      "url": "https://open.spotify.com/track/3EPVk0rM704NDj9hWDne63"
     },
     {
       "added_at": null,
@@ -239,6 +367,38 @@
       "duration_ms": 183906,
       "name": "Between Rupture And Rapture",
       "url": "https://open.spotify.com/track/49ie1J8zRI73U2ve8dPuPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Turnpike Divides",
+      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Sugar In The Sacrament",
+      "url": "https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx"
     },
     {
       "added_at": null,
@@ -275,54 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Collapse",
-        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 139040,
-      "name": "Concealer",
-      "url": "https://open.spotify.com/track/3EPVk0rM704NDj9hWDne63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War All The Time",
-        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Steps Ascending",
-      "url": "https://open.spotify.com/track/7FSOMkC4sC4aCR6lt3CdHE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Turnpike Divides",
-      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Application For Release From The Dream",
         "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
       },
@@ -335,38 +447,6 @@
       "duration_ms": 269721,
       "name": "Application For Release From The Dream",
       "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full Collapse",
-        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "A Hole In The World",
-      "url": "https://open.spotify.com/track/5fNCiYldS7oqIuOuTuKRGM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Dying in New Brunswick",
-      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
     },
     {
       "added_at": null,
@@ -387,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
       "artists": [
         {
@@ -396,9 +476,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 225173,
-      "name": "Into The Blinding Light",
-      "url": "https://open.spotify.com/track/4PMxQszpkTQeOyEtfkg5Ow"
+      "duration_ms": 242066,
+      "name": "Dying in New Brunswick",
+      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
     },
     {
       "added_at": null,
@@ -419,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
       },
       "artists": [
         {
@@ -428,9 +508,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 276760,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
+      "duration_ms": 252213,
+      "name": "Ladies And Gentlemen: My Brother, The Failure",
+      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
     },
     {
       "added_at": null,
@@ -451,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
       "artists": [
         {
@@ -460,9 +540,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 152373,
-      "name": "Arc-Lamps, Signal Flares, A Shower Of White (The Light)",
-      "url": "https://open.spotify.com/track/2FvNGLhY5aUH9c0UOo8ONb"
+      "duration_ms": 276760,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
     },
     {
       "added_at": null,
@@ -483,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Ian Curtis",
-      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -515,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
       "artists": [
         {
@@ -524,9 +588,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 250493,
-      "name": "Even The Sand Is Made Of Seashells",
-      "url": "https://open.spotify.com/track/4W9F7z80oilOCTLIDsXdvS"
+      "duration_ms": 223480,
+      "name": "Ian Curtis",
+      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
     },
     {
       "added_at": null,
@@ -547,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "In-Transmission",
-      "url": "https://open.spotify.com/track/74IEX2wviU359ODZwmtG2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -575,6 +623,22 @@
       "duration_ms": 301666,
       "name": "A Gun in the First Act",
       "url": "https://open.spotify.com/track/22PWau13JTSCymrd29P4h7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "In-Transmission",
+      "url": "https://open.spotify.com/track/74IEX2wviU359ODZwmtG2G"
     },
     {
       "added_at": null,

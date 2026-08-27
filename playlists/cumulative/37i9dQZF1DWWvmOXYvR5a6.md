@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Raf Sandou\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-843 songs - 1 day 20 hr 55 min
+844 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Homebody](https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG) | 3:42 | 2022-07-24 | 2024-04-19 |
 | [homesick](https://open.spotify.com/track/1lv4wAkmRwrfQ3oaKDoXqv) | [SANHA](https://open.spotify.com/artist/297dw08YGO0GSd6vOQ3eCO), [JJAX](https://open.spotify.com/artist/4lFWYe3BfUH22wUrAR8nzB) | [homesick](https://open.spotify.com/album/65KWlcE7BKuhhHmKhQJVSm) | 2:56 | 2022-05-28 | 2022-05-31 |
 | [Honey](https://open.spotify.com/track/6TxxgPdGN3NFYcFELXjeGD) | [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [DICE](https://open.spotify.com/album/3fFiQcWrFBXquCtmmgoNTo) | 2:28 | 2023-02-15 | 2023-02-25 |
+| [Hongdae Rapper](https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS) | [Hukky Shibaseki](https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Hongdae Rapper](https://open.spotify.com/album/2y2PrD6PJlefeQNkLQMI3j) | 3:05 | 2026-08-27 |  |
 | [Hoopee \(Feat\. Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/0VebFVYxoeIHQPDg1MvSES) | [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [podo](https://open.spotify.com/album/3b26Thw21bgz0tyCAJ9IN2) | 2:45 | 2023-12-15 | 2024-01-06 |
 | [Hotel Lobby \(Feat\. Verbal Jint\)](https://open.spotify.com/track/3yLDH4UmohTSuBmnBcqJqG) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 4:03 | 2022-04-01 | 2026-04-02 |
 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 | 2022-07-13 | 2022-07-25 |
@@ -817,7 +818,7 @@
 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 | 2023-01-10 | 2024-04-19 |
 | [Wish](https://open.spotify.com/track/7mLTxku0pqW3mIunoEVLx8) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Wish](https://open.spotify.com/album/4AsF24EFXz4lNOmD0oHZNY) | 2:55 | 2024-10-08 | 2025-05-19 |
 | [With Me \(Feat\. Skinny Brown\)](https://open.spotify.com/track/2BYy5t1dsEOxyiPLN9THhO) | [YUMIN](https://open.spotify.com/artist/1Wbm8a86AGAgr1S71ZNn9i), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [YM](https://open.spotify.com/album/0Ic2OI65Grdbh6QZPr94fo) | 3:04 | 2022-05-11 | 2022-07-26 |
-| [withoutyou](https://open.spotify.com/track/6aMr19dWts8J6jrWCczm8m) | [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Chaz](https://open.spotify.com/artist/4S2MHQJbgQAsUtSLQyrgKt) | [withoutyou](https://open.spotify.com/album/6htc9BgisyhWQK6c6dn5zb) | 3:37 | 2026-03-13 |  |
+| [withoutyou](https://open.spotify.com/track/6aMr19dWts8J6jrWCczm8m) | [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Chaz](https://open.spotify.com/artist/4S2MHQJbgQAsUtSLQyrgKt) | [withoutyou](https://open.spotify.com/album/6htc9BgisyhWQK6c6dn5zb) | 3:37 | 2026-03-13 | 2026-08-27 |
 | [WON \(feat\. O'Domar\)](https://open.spotify.com/track/1qj9VXRLsP9MTgWRln6WkK) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [O'domar](https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw) | [WILL](https://open.spotify.com/album/43SnPWobYnohvw3K5OFwZg) | 3:17 | 2022-04-01 | 2022-04-24 |
 | [Work](https://open.spotify.com/track/6vJ2VHoaUKWO21DjfBSliI) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [B.O.Y\. \(Because Of You\)](https://open.spotify.com/album/78qKsZIDGxJ21WM306NoIt) | 3:08 | 2022-04-01 | 2022-07-16 |
 | [Work Work \(Feat\. The Quiett\)](https://open.spotify.com/track/7uMk5EMgwtYjiGoshyhBsh) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:25 | 2023-03-22 | 2023-04-07 |

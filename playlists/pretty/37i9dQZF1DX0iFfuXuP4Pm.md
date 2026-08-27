@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: kiddotin
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,039,174 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,038,981 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Viva La Raza](https://open.spotify.com/track/4A7c3xEnNDLk718zDwC6ip) | [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [THUGSTA](https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x) | [Viva La Raza](https://open.spotify.com/album/02i2Bhz1EoOCgz8pCp1Jd7) | 3:19 |
 | 50 | [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 |
 
-Snapshot ID: `AAAAAKut56Vgundg3C3zXy6mDq5wAZWq`
+Snapshot ID: `AAAAAE0Lp+/FjvUgFHsLF3PijBlUkIJF`

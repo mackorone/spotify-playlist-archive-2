@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 157653,
       "name": "Baby Supreme",
       "url": "https://open.spotify.com/track/1YmiIGgmqWApEBLS1KT5ek"
@@ -17228,7 +17228,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 135046,
       "name": "Hablando Con Dios",
       "url": "https://open.spotify.com/track/09xN19XuZJspfq2a8IlkfI"
@@ -18190,7 +18190,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 166265,
       "name": "HOMBRE",
       "url": "https://open.spotify.com/track/0aAK0G8pJpYdl21gJpqt1h"
@@ -18678,7 +18678,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -32105,6 +32105,24 @@
     },
     {
       "album": {
+        "name": "PERRA",
+        "url": "https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "PERRA",
+      "url": "https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ"
+    },
+    {
+      "album": {
         "name": "Perra",
         "url": "https://open.spotify.com/album/1KfdPsy8gYxJDSkW2poBnM"
       },
@@ -41912,7 +41930,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 194441,
       "name": "Tesoro Perdido",
       "url": "https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN"

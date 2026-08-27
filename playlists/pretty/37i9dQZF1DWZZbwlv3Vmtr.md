@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Instrumental beats to lock\-in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,106 likes - 200 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,470 likes - 200 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 199 | [Ivy Shadow](https://open.spotify.com/track/1WyVxCp5Xtxc4moD8zNO3m) | [Half Memory](https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe) | [Ivy Shadow](https://open.spotify.com/album/566IWZDkVGAmjSHqNSlAwo) | 2:10 |
 | 200 | [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 |
 
-Snapshot ID: `AAAAAIqVfFdOroa+rbvcIZrYyMYRouJS`
+Snapshot ID: `AAAAAIpOuvrWrfwrwAm5mrSk72WA5rl9`

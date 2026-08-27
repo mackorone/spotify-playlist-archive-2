@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Tiger JK, YOON MIRAE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,934 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,859 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
 | 2 | [Let Me Love You](https://open.spotify.com/track/1rpitVTCgfqKNyLtjuHuZh) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Let Me Love You](https://open.spotify.com/album/7avF0XIPzKKb1kjlJX0Con) | 2:58 |
-| 3 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
+| 3 | [Hongdae Rapper](https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS) | [Hukky Shibaseki](https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Hongdae Rapper](https://open.spotify.com/album/2y2PrD6PJlefeQNkLQMI3j) | 3:05 |
 | 4 | [Thursday \(Feat\. Leellamarz, Crush\)](https://open.spotify.com/track/5JesN4KTmkq87xWJKUZdka) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HBK](https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr) | 2:59 |
 | 5 | [BUSS DAT](https://open.spotify.com/track/6IwzoQLB8Y8InCGDPaEujl) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [AMBITION 8/10](https://open.spotify.com/album/4xP84ajiWzQvSLYmUVD5Yf) | 2:40 |
 | 6 | [BUBBLE GUM \(feat\. ksmartboi\)](https://open.spotify.com/track/711zvKMoQiCWJGCr8KBbnY) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [ksmartboi](https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9) | [BABY CACTUS](https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 99 | [You & Me](https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [You & Me](https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe) | 2:48 |
 | 100 | [Animal \(Feat\. E SENS\) \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 4:43 |
 
-Snapshot ID: `AAAAAAKO+64b8gTGLa+6F5El5/gzISXm`
+Snapshot ID: `AAAAAJzvq/sPrQgxPY71ow7/QahgJTQ3`

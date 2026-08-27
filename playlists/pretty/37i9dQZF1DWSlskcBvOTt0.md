@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,179 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,212 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Soul Gazing](https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Soul Gazing](https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru) | 3:45 |
 | 125 | [Flotando](https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Flotando](https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA) | 3:55 |
 
-Snapshot ID: `AAAAADHuGropcRc/uSobchzwQkuOBF7T`
+Snapshot ID: `AAAAAH/rB2+INUr5XQrOxMSxZmudTvXY`

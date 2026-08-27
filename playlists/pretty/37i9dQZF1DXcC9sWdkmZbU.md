@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,361 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,402 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 99 | [Great Friend](https://open.spotify.com/track/0X6blOgOOxkQKOSt4jCsLz) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Great Friend](https://open.spotify.com/album/0DCZaJXr3Y5pHFM4dLcAVG) | 2:43 |
 | 100 | [Noah’s Tool Song](https://open.spotify.com/track/0UXCBwlHuzPW8yFkbAwM3L) | [Good News Guys](https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY) | [Noah’s Tool Song](https://open.spotify.com/album/39HXFHfSzHoXECnBS3kk8Z) | 4:07 |
 
-Snapshot ID: `AAAAANrXZWGGHMuQ+xmQIDlbD509g4N5`
+Snapshot ID: `AAAAAJ/1W8OperZNc3OdiJLE21JDzBHz`

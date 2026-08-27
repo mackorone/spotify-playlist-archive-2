@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,099 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,140 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Boyz In Bar](https://open.spotify.com/track/7tVDHY4FCGzPCBB5qhO74T) | [Suvir](https://open.spotify.com/artist/0ACQfm6VJUstBUijhGgYFg), [Pablo](https://open.spotify.com/artist/2aGhLC9R47KiiD1ZRjaHgq), [Real Raka](https://open.spotify.com/artist/7DiKFC6GbY2W7Y7FlMmzyk) | [Boyz In Bar](https://open.spotify.com/album/6OlzS5PEKffkDKyVc1t2y7) | 3:40 |
 | 50 | [Darzi](https://open.spotify.com/track/6tIPVfl61026Q4lmGzpkVZ) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN) | [Darzi](https://open.spotify.com/album/25U1mwUNKA3a4RLpmFXSzR) | 2:44 |
 
-Snapshot ID: `AAAAAKboFVkfR3sMzwS8O7oI3ZMwis0R`
+Snapshot ID: `AAAAAICuU6W8LDH4VoMJRu96ZemRBLzS`

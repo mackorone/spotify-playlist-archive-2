@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 26366,
+  "num_followers": 26372,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtWZ4F3EStAmh4kifb6gw9CGTvC",
+  "snapshot_id": "AAAAANc/9fa8HqYm0ZDkPCX0Xp+MbNAO",
   "tracks": [
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollandse Hits Top 100",
-        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hoes",
-          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
-      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "The Story of Indo Rock, Vol. 5",
         "url": "https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 182047,
       "name": "Ik Heb Me Weer Vergist",
       "url": "https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollandse Hits Top 100",
+        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hoes",
+          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
+      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
     },
     {
       "added_at": "2024-07-19 06:41:15",

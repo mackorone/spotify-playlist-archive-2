@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,749 likes - 239 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,754 likes - 239 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 6 | [모든 밤 너에게](https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP) | [Minhyun](https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs) | [모든 밤 너에게 \(From "연애혁명"\) \[Soundtrack\]](https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc) | 3:14 |
 | 7 | [Han gang gang megamix](https://open.spotify.com/track/4bvaV3t6KwBYG3yiwegm4Q) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Sukhoon Chang](https://open.spotify.com/artist/22M2PBXgQrsxqz7ahG7KlB), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [Han gang gang megamix](https://open.spotify.com/album/4kVJXb8swsXt9xIpxbTssf) | 6:38 |
 | 8 | [남자를 몰라](https://open.spotify.com/track/14X8vgIFfedRp3Yh8ocLYw) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Perfect](https://open.spotify.com/album/3REFgNSvxgTma5ABhy3u4W) | 4:12 |
-| 9 | [ALL IN \(Korean Ver.\)](https://open.spotify.com/track/3bT5zY5OCspnWmGU8TbxGi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN \(Korean Ver.\)](https://open.spotify.com/album/5oBnkeTJ8LqIPhvA2MMFQU) | 3:04 |
+| 9 | [ALL IN \- Korean Ver.](https://open.spotify.com/track/3bT5zY5OCspnWmGU8TbxGi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN \(Korean Ver.\)](https://open.spotify.com/album/5oBnkeTJ8LqIPhvA2MMFQU) | 3:04 |
 | 10 | [Dear…](https://open.spotify.com/track/0k3BY0tiOzCNSdwocghPLY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [Dear･･･/MAYBE](https://open.spotify.com/album/670w56ceu0ypcmwlv759PV) | 5:30 |
 | 11 | [Nighty Night \(Feat\. Zion.T\)](https://open.spotify.com/track/4UW2LiHJa6nsazFCc8p8OH) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 3:43 |
 | 12 | [Our Movie](https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:41 |
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 238 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 239 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `AAAAADJ6ABoPjOf0UTsEjineeCDrz/uY`
+Snapshot ID: `AAAAAHkKCf3S9XJq1jo3jw3l1hSZ5zvU`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 7 hr 9 min
+128 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Boots On The Ground Remix](https://open.spotify.com/track/0TN29ikYiEcQrX2gtrRGnI) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Boots On The Ground Remix](https://open.spotify.com/album/2ElCL4nxiyPqqo4ODv1z1q) | 3:27 | 2026-01-17 |  |
 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 | 2025-08-02 |  |
 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 | 2025-08-02 |  |
+| [Callin \(feat\. Blu june\)](https://open.spotify.com/track/2AkCZp2KY0bUg1NQvUQdD9) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 2:34 | 2026-08-26 |  |
 | [Can't Relate](https://open.spotify.com/track/16fDi1h68eNxp9al1m5B39) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8) | 2:41 | 2025-08-25 | 2026-04-19 |
 | [Can't Relate](https://open.spotify.com/track/2nSdR0dx4aVC1tQKSHbZFH) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/3n1BIU9Pd7chTwLODhyA4k) | 2:41 | 2026-04-18 |  |
 | [Champion \(feat\. Tia Ray\) \- The Official 2019 FIBA Basketball World Cup™ Song](https://open.spotify.com/track/2HQ1u66IjSnMRLuCnpNEhQ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [Champion \(feat\. Tia Ray\) \[The Official 2019 FIBA Basketball World Cup™ Song\]](https://open.spotify.com/album/0tJXzmUqNkN6eUSRBXfp7z) | 2:54 | 2025-08-02 |  |
@@ -69,6 +70,7 @@
 | [I Wanna Live](https://open.spotify.com/track/5eHbNMZ45Jku4GBADsUQGx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 1:52 | 2025-08-02 |  |
 | [in my head](https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:42 | 2025-08-02 |  |
 | [Issues/Hold On](https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:05 | 2025-08-02 |  |
+| [Jasmin 17](https://open.spotify.com/track/3vVr42wJhMElLrb0ivdJJD) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Beard](https://open.spotify.com/album/0xMXIiodQWKdWJ6DA9d9pL) | 4:02 | 2026-08-26 |  |
 | [Jealous \(feat\. Chris Brown, Lil Wayne & Big Sean\)](https://open.spotify.com/track/6Dq8FZrvx9S28iyaKSwn9x) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 4:15 | 2025-08-02 |  |
 | [JUST BE \(feat\. Justin Timberlake\)](https://open.spotify.com/track/4eSsGiCHi75eMYx31ntNuI) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:44 | 2025-08-02 |  |
 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:41 | 2025-08-02 |  |

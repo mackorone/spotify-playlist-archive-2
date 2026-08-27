@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGY0417p7t9.md) - [plain]
 
 > Remembering Dolly Parton 🦋
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,172 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,034 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGY0417p7t9.md) - [plain]
 | 49 | [From Here to the Moon and Back](https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Blue Smoke](https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm) | 4:02 |
 | 50 | [Better Get to Livin'](https://open.spotify.com/track/1QG6K2bubjM976fKcZH5ZO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Backwoods Barbie](https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe) | 3:35 |
 
-Snapshot ID: `AAAAAJlrmcVOKzdqYjihyK2CYHBxGV8X`
+Snapshot ID: `AAAAAK5uVs5thZhMhGqYtZ2Hg46TyLRL`

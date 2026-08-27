@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Noé Preszow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,171 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,192 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Les mots blessent](https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Les mots blessent](https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw) | 2:46 |
 | 50 | [Le oui de trop](https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Le oui de trop](https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ) | 2:40 |
 
-Snapshot ID: `AAAAACvLdwni888ZK1gYE03mmn9gCuP5`
+Snapshot ID: `AAAAAMiZ9oKMprgVGa9SEm46z0Q3KX3P`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIW4dh1ZqUeCg>Still Remains</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 239866,
       "name": "A Moment Suspended In Time",
       "url": "https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 222573,
       "name": "Back Burner",
       "url": "https://open.spotify.com/track/2Un8Qm3IkkLn6JiBVu7eVO"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "Daylight Slaving",
       "url": "https://open.spotify.com/track/577v6fjOvbwcOtT64H3t8R"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 77973,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 273346,
       "name": "Doomsayer (The Beginning Of The End)",
       "url": "https://open.spotify.com/track/0CFLJ4LuViyP4ascKlgKn5"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 233600,
       "name": "Fleshkiller",
       "url": "https://open.spotify.com/track/037zHJTvyD3ByiESRW4I2X"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 252840,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/4sQxNFf3XDrrO3FVasXR5X"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "I, Lucifer",
       "url": "https://open.spotify.com/track/0E9FpLirv1SfDcwcSKgzZA"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 204213,
       "name": "In Regards To Myself",
       "url": "https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 188723,
       "name": "Moths and Rust",
       "url": "https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "Mr. And Mrs. Cuckoldom",
       "url": "https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 205866,
       "name": "My Fork In The Road (Your Knife In My Back)",
       "url": "https://open.spotify.com/track/0zwuEoDwZElvwj9GyDHwue"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 85853,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/1RcdFNgUuKdFnuvt2ppD03"
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/0kMwWzfhFVAiUFyTIPpLRy"
@@ -4370,7 +4370,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 321880,
       "name": "The Failsafe",
       "url": "https://open.spotify.com/track/351zpwVFbFPnauP3OSmq3e"
@@ -4680,7 +4680,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 290226,
       "name": "The Taste Of Regret",
       "url": "https://open.spotify.com/track/6p9iykxeTs8Zcpy6iv7D2A"
@@ -5004,7 +5004,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 236893,
       "name": "Tithemi",
       "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
@@ -5166,7 +5166,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -5382,7 +5382,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 219893,
       "name": "Whispers (I Hear You)",
       "url": "https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp"
@@ -5508,7 +5508,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/6x5dFcv0JhzU25jjvHh21K"

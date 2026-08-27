@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,176 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,172 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [If It Ain't Ours](https://open.spotify.com/track/2SpzGCL80I7QjfG2biFU6T) | [Hudson Macready](https://open.spotify.com/artist/6P00UEN5OmbxLCLXPT6ZNa) | [If It Ain't Ours](https://open.spotify.com/album/4dkjRVNn5yjATiIHI0WKzv) | 3:24 |
 | 100 | [902180](https://open.spotify.com/track/7ceWXxsrZCZVK06MUWZ1gK) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [902180](https://open.spotify.com/album/3SKdPxMnlNDc2qWN0fp7FD) | 2:36 |
 
-Snapshot ID: `AAAAANAYPVanuHsD/x0McqYZh0Cl429T`
+Snapshot ID: `AAAAAJ11ZU7iXXGcvwkehzps0PbfKepR`

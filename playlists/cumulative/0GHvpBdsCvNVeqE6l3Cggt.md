@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-144 songs - 8 hr 19 min
+145 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 | 2026-02-23 | 2026-03-14 |
 | [Life Your Way](https://open.spotify.com/track/5Pw8oPIkppU49EQbeiucod) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [Life Your Way](https://open.spotify.com/album/0cVUXU3L0dMwDwNnsSUUU7) | 3:20 | 2026-01-12 | 2026-02-22 |
 | [Like a River in a Storm](https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U), [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Like a River in a Storm](https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg) | 3:13 | 2026-02-24 | 2026-03-17 |
+| [Like I Need Water](https://open.spotify.com/track/30qfULc1I0lFNXDLkFYAbU) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Like I Need Water](https://open.spotify.com/album/3bbHqzFG3t6UTOifLXFDca) | 3:03 | 2026-08-26 |  |
 | [LOCO](https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n) | [ZIG LA RIME](https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N) | [LOCO](https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd) | 2:12 | 2026-03-09 | 2026-03-31 |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-07-26 |  |
 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 | 2021-03-29 |  |

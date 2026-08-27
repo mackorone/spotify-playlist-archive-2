@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Maribou State
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,842 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,844 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 69 | [Running](https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Running](https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM) | 3:09 |
 | 70 | [Pink Bape Lighter](https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) | 2:40 |
 
-Snapshot ID: `AAAAAFvX3TpqCLE/itqWele/fr64pbmq`
+Snapshot ID: `AAAAAAk6YadTAMvxXx9dNFbsulcj9nm9`

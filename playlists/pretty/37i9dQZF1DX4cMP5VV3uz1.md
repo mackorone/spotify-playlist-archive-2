@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,964 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,969 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 99 | [Voicenote Violence](https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn) | [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Voicenote Violence](https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL) | 2:46 |
 | 100 | [Count That](https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Count That](https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt) | 3:36 |
 
-Snapshot ID: `AAAAAGRfzznFwbZiff2OA4rT/x1WQJgw`
+Snapshot ID: `AAAAAIb1ItQt9JWjncyevmC47tzzoRa1`

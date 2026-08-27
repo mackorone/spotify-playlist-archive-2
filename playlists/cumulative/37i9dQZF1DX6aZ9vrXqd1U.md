@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-385 songs - 1 day 2 hr 2 min
+386 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [深海の孤独](https://open.spotify.com/track/3PS9EhzIPMg8NoHDypHi6L) | [桑島法子](https://open.spotify.com/artist/4InNxmyyefEtcBZE6XqSwr) | [純色brilliant](https://open.spotify.com/album/4Jje5xf6RK9V5uLY7NhzMM) | 4:00 | 2024-01-27 |  |
 | [焔の扉](https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [焔の扉](https://open.spotify.com/album/0SMBVzy8j0KY3Kmwmi9fXU) | 4:52 | 2022-07-27 | 2023-06-18 |
 | [焔の扉](https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:52 | 2023-04-21 |  |
+| [無 我 夢 中](https://open.spotify.com/track/4RAbg0zzGY6jXj4NjhTObG) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [無 我 夢 中](https://open.spotify.com/album/3ZarYGauyoRQYalv82Ab7X) | 3:32 | 2026-08-26 |  |
 | [破線の涙](https://open.spotify.com/track/6p16SQ6gD5TgWI9Sunw9Qw) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [破線の涙](https://open.spotify.com/album/07D1QO5OjgCf9RTD35NViD) | 4:55 | 2022-07-27 | 2023-03-02 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-01 |  |
 | [罠](https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [BEST THE BACK HORN](https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v) | 4:22 | 2022-07-27 |  |

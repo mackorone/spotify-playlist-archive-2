@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,493 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,485 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 75 | [Rabbit](https://open.spotify.com/track/1BEemD48y6mh62yV0aaI6T) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Rabbit](https://open.spotify.com/album/3wnttB1pXHezmp05emenyE) | 2:37 |
 | 76 | [Gold Chains](https://open.spotify.com/track/5luzX1r1iduu6SqL3ueG9C) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Skiddle Bandana](https://open.spotify.com/album/1ua9bT9kFnJeGi9j9nbfIL) | 2:36 |
 
-Snapshot ID: `AAAAAL4AW+wUkoFUbrBC9yE9r1d4KPDa`
+Snapshot ID: `AAAAAPQqiyo8ZW6XVbu1vjyHqd4KikRg`

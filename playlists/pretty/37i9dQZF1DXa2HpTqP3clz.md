@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,566 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,579 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 69 | [Please Mr Please](https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Please Mr Please](https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9) | 4:32 |
 | 70 | [Runaway Train](https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Runaway Train](https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT) | 4:20 |
 | 71 | [Come Out Of My Blues \(feat\. Tim O'Brien\)](https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Come Out Of My Blues \(feat\. Tim O'Brien\)](https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK) | 3:47 |
-| 72 | [Wildflowers](https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [Wildflowers](https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ) | 4:23 |
-| 73 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 |
+| 72 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 |
+| 73 | [Wildflowers](https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [Wildflowers](https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ) | 4:23 |
 | 74 | [Sunny Days \(Are Comin' Once Again\)](https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8), [Jeff White](https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48) | [Lovin' Of The Game](https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg) | 3:11 |
-| 75 | [Let’s Sing Our Song](https://open.spotify.com/track/4Kq8ljJO7tLWtzgiI0ZrFW) | [Jason Carter](https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [John Cowan](https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY) | [Let’s Sing Our Song](https://open.spotify.com/album/6CMRU9CtorShQRCTgKpYcz) | 3:59 |
+| 75 | [Dovetail Cabin](https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Dovetail Cabin](https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u) | 2:52 |
 
-Snapshot ID: `AAAAAOOJ+8b5R4jWGygnlB0To953fLFD`
+Snapshot ID: `AAAAADHURn29X78r6rGBp9i1L/YNHtrY`

@@ -1,12 +1,12 @@
 {
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 8299,
+  "num_followers": 8300,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAAD/MWnvFjD2thgMdgBztHXK",
+  "snapshot_id": "aozbAAAAAACpdt/KpSvypBwsM6F24gG9",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 202746,
-      "name": "Kicking and Screaming",
-      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
+      "duration_ms": 222320,
+      "name": "10.45 Amsterdam Conversations",
+      "url": "https://open.spotify.com/track/47VKk5QlhRMXdNzn5K4SBz"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 222320,
-      "name": "10.45 Amsterdam Conversations",
-      "url": "https://open.spotify.com/track/47VKk5QlhRMXdNzn5K4SBz"
+      "duration_ms": 202746,
+      "name": "Kicking and Screaming",
+      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
+      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 255525,
       "name": "Rookie",
       "url": "https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "Front Row Seats to the End of the World",
-      "url": "https://open.spotify.com/track/2sBtb1i6Fytpj1aTBfoZFi"
     },
     {
       "added_at": null,
@@ -292,9 +292,89 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 215266,
-      "name": "She Drove Me to Daytime Television",
-      "url": "https://open.spotify.com/track/6v1iCqLDznDBwjDkP2tCt8"
+      "duration_ms": 260706,
+      "name": "Bend Your Arms to Look Like Wings",
+      "url": "https://open.spotify.com/track/3N9ZntO9poYoBRXWMSfpAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "The Diary",
+      "url": "https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome Home Armageddon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "Front Row Seats to the End of the World",
+      "url": "https://open.spotify.com/track/2sBtb1i6Fytpj1aTBfoZFi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3k0coNayddFcRWKYJujrx4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Bullet Theory",
+      "url": "https://open.spotify.com/track/7nh7lmeaUtM0EejuRCy8Jn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "On a Wire",
+      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
     },
     {
       "added_at": null,
@@ -331,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "Hospitality",
-      "url": "https://open.spotify.com/track/42d4mhqWEWKNULqQXzLSjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Your History Is Mine: 2002-2009",
         "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
       },
@@ -359,6 +423,22 @@
       "duration_ms": 260600,
       "name": "Built to Last",
       "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juneau",
+        "url": "https://open.spotify.com/album/7vmCr91Hlwofzj7tVZqg81"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Kiss And Makeup (All Bets Are Off) - Radio One Rock Show",
+      "url": "https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q"
     },
     {
       "added_at": null,
@@ -395,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juneau",
-        "url": "https://open.spotify.com/album/7vmCr91Hlwofzj7tVZqg81"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Kiss And Makeup (All Bets Are Off) - Radio One Rock Show",
-      "url": "https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chapter and Verse (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA"
       },
@@ -423,38 +487,6 @@
       "duration_ms": 223626,
       "name": "1%",
       "url": "https://open.spotify.com/track/70LOIlDOCvCgkJdlAjTiBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 137906,
-      "name": "Conduit",
-      "url": "https://open.spotify.com/track/7zbgfKuAZDah3JcjJLTIqd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Damned If You Do, Dead If You Don't",
-      "url": "https://open.spotify.com/track/3Uzu6CiAddGPdV6dxCxoWC"
     },
     {
       "added_at": null,
@@ -475,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetcar",
-        "url": "https://open.spotify.com/album/5lKrUDYLVWkzPxeDs48x5o"
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
       },
       "artists": [
         {
@@ -484,9 +516,57 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 169626,
-      "name": "Lazarus (In the Wilderness)",
-      "url": "https://open.spotify.com/track/0QKkv1YGBqWAw4VzjzC1X0"
+      "duration_ms": 137906,
+      "name": "Conduit",
+      "url": "https://open.spotify.com/track/7zbgfKuAZDah3JcjJLTIqd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/5moy9F2AxTQhmavYBe0qlw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/3Wzo0fhut2bV4QMSABptss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Young And Defenceless EP",
+        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Serpents in Solitude",
+      "url": "https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 151173,
+      "name": "Wrench",
+      "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"
     },
     {
       "added_at": null,
@@ -516,15 +596,15 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/64WTjCulN3svPjeVgujYsb"
+      "duration_ms": 209346,
+      "name": "Damned If You Do, Dead If You Don't",
+      "url": "https://open.spotify.com/track/3Uzu6CiAddGPdV6dxCxoWC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Your History Is Mine: 2002-2009",
-        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+        "name": "Streetcar",
+        "url": "https://open.spotify.com/album/5lKrUDYLVWkzPxeDs48x5o"
       },
       "artists": [
         {
@@ -532,15 +612,15 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 151173,
-      "name": "Wrench",
-      "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"
+      "duration_ms": 169626,
+      "name": "Lazarus (In the Wilderness)",
+      "url": "https://open.spotify.com/track/0QKkv1YGBqWAw4VzjzC1X0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Young And Defenceless EP",
-        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
+        "name": "Escape Artists Never Die (EW283CD)",
+        "url": "https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH"
       },
       "artists": [
         {
@@ -548,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Serpents in Solitude",
-      "url": "https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh"
+      "duration_ms": 158373,
+      "name": "10 Scene Points to the Winner",
+      "url": "https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5"
     },
     {
       "added_at": null,
@@ -571,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape Artists Never Die (EW283CD)",
-        "url": "https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH"
+        "name": "Welcome Home Armageddon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
       },
       "artists": [
         {
@@ -580,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 158373,
-      "name": "10 Scene Points to the Winner",
-      "url": "https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5"
+      "duration_ms": 217373,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/64WTjCulN3svPjeVgujYsb"
     },
     {
       "added_at": null,
@@ -667,54 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tales Don't Tell Themselves",
-        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "Rise and Fall",
-      "url": "https://open.spotify.com/track/3JegcHx1iWZod8ooqmZQte"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 303560,
-      "name": "Spinning Over the Island",
-      "url": "https://open.spotify.com/track/1TLE1n6YuMa8bYIlPaYaOv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory and Humanity",
-        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Waterfront Dance Club",
-      "url": "https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Ways To Scream Your Name",
         "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
       },
@@ -731,38 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Young And Defenceless EP",
-        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/2MsdYXhhEWz5plyUXEw1i3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter and Verse (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Hidden Track",
-      "url": "https://open.spotify.com/track/2PvgoQU95JMgEMXPLieClI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory and Humanity",
         "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
       },
@@ -772,41 +772,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Rules and Games",
-      "url": "https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "See You All In Hell",
-        "url": "https://open.spotify.com/album/5y6IXu3KRqmkRR3fMjEzRl"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "High Castles",
-      "url": "https://open.spotify.com/track/5xm2UY5E3uoMmWBYlpBj7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter and Verse (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Inequality",
-      "url": "https://open.spotify.com/track/5msQMvNdLm7nNlYwUcMZdV"
+      "duration_ms": 264493,
+      "name": "Waterfront Dance Club",
+      "url": "https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx"
     }
   ],
   "unique_name": "This Is Funeral For A Friend",

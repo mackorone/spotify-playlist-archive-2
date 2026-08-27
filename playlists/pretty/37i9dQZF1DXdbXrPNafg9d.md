@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Rex Orange County & Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,816 likes - 199 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,802 likes - 199 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 198 | [Lima](https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Lima](https://open.spotify.com/album/0kXzXKuBJQ7wGEoeLCwZUg) | 4:59 |
 | 199 | [OUTLINE](https://open.spotify.com/track/1EOJsVyUERYxRmjQmhwzun) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [OUTLINE](https://open.spotify.com/album/6qQRrmgWPALosfMLHCtvph) | 2:45 |
 
-Snapshot ID: `AAAAAErmB5ngsxTg825JT7VtMRtP+xLP`
+Snapshot ID: `AAAAADU1qwzFn6EZ6cbluxaYm7mR+taF`

@@ -2,7 +2,7 @@
 
 ### [New Music Friday South Africa](https://open.spotify.com/playlist/37i9dQZF1DXd0uyASpbU8w)
 
-> New music from New music from Manana, Cleo Sol, Victony, Jorja Smith and more.
+> New music from Manana, Cleo Sol, Victony, Jorja Smith and more.
 
 11,437 songs - 33 day 8 hr 13 min
 

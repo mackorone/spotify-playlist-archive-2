@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,577 likes - 338 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,548 likes - 338 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 337 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 |
 | 338 | [STØGG](https://open.spotify.com/track/0yAnbjMbKhgaE1xFbuYbUg) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [RAMUELO](https://open.spotify.com/album/22LvP1YFY3pOZuXWVwmndL) | 2:56 |
 
-Snapshot ID: `AAAAANonacIwldm9LqtCdwZD+XiKb0CT`
+Snapshot ID: `AAAAAHEifs0p+QaWeiVN7ooGZhtq/0hF`

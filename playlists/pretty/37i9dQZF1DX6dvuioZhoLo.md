@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover:  Kaitlin Butts
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,493 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,541 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
 | 100 | [Homemade Margaritas](https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Homemade Margaritas](https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY) | 3:11 |
 
-Snapshot ID: `AAAAAPboMywCIsIJx6ZlLSBAMJiX8vnH`
+Snapshot ID: `AAAAAJT03XyEzR7HDHBiSBeobAXEoGgg`

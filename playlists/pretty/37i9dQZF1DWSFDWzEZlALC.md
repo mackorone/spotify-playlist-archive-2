@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Amélia
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,035 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,990 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Pretty Boys](https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Pretty Boys](https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe) | 2:20 |
 | 75 | [IM NACHGANG](https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [IM NACHGANG](https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw) | 2:33 |
 
-Snapshot ID: `AAAAALSekVaK0mirohAhnad4jvt0bgL5`
+Snapshot ID: `AAAAAOn9jAgp/z8dXYnqda8CR91MF6pL`

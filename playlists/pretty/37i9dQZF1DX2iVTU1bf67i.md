@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,621 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,662 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 199 | [You're A Weaver Of Dreams](https://open.spotify.com/track/1dWxZBpyJ0ZkmgEqSFTiYQ) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/1ywi5zQMqngyRWrmPUB0um) | 5:34 |
 | 200 | [Body And Soul](https://open.spotify.com/track/2pB7LHuDww7SJcYEoltfga) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 4:10 |
 
-Snapshot ID: `AAAAAGtveUqAhcM82UGCQAsJlOougatR`
+Snapshot ID: `AAAAAEsPLrfZhPppJeHUzHYCFphCLO+p`

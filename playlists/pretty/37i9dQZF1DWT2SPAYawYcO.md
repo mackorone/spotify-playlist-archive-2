@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from DMA's, Balu Brigada, Gang Of Youths, Lizzy McAlpine, Fontaines DC + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,925 likes - 94 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,873 likes - 94 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 93 | [Ain't No Game](https://open.spotify.com/track/1hRazzupiYrnYYUdpNhncL) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ain't No Game](https://open.spotify.com/album/3wQeApJ63jTGhdyvzYMvLX) | 2:41 |
 | 94 | [Pool](https://open.spotify.com/track/5ePNE8nUacIbX2Ruvw1mgE) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [Pool](https://open.spotify.com/album/1Qs8KNu9eHAy923LZSn8bi) | 3:07 |
 
-Snapshot ID: `AAAAAHgiL/rHR4TC4sMtEkn/pqeqs2eY`
+Snapshot ID: `AAAAAF36cycNtEdPuij6+y8CQXWP+AdK`

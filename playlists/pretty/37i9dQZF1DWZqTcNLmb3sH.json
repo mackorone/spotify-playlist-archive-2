@@ -1,32 +1,40 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 72899,
+  "num_followers": 72912,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIaowo3YVMBK4/le3/zMfLSFybIE",
+  "snapshot_id": "AAAAAEZpZ42MV1zXGOXZRQzdU2KfqhCl",
   "tracks": [
     {
-      "added_at": "2026-08-14 11:41:04",
+      "added_at": "2026-08-26 06:00:35",
       "album": {
         "name": "Toxic - Kannada (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3DBmCPg5nvo8ANFzMA5flv"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         },
         {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Siddharth Basrur",
+          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
         }
       ],
-      "duration_ms": 320905,
-      "name": "Aaradha Gaaya - From \"Toxic - Kannada\"",
-      "url": "https://open.spotify.com/track/0SZ3f2WVfO7w5LyBlWnAOc"
+      "duration_ms": 245541,
+      "name": "Manamohaka - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/6B285cAaD1cKtuLQTs7q29"
     },
     {
       "added_at": "2026-08-24 14:31:32",
@@ -103,6 +111,26 @@
       "duration_ms": 232448,
       "name": "Menada Gombege (From \"Rukmini Radhakrishna\")",
       "url": "https://open.spotify.com/track/5AXraN8f0k9ulB6O5S0HTp"
+    },
+    {
+      "added_at": "2026-08-26 06:00:35",
+      "album": {
+        "name": "Toxic - Kannada (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3DBmCPg5nvo8ANFzMA5flv"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 257604,
+      "name": "Tabaahi - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/1aGWOdmYX0rnpSeFQlRa64"
     },
     {
       "added_at": "2026-08-19 05:31:46",
@@ -201,6 +229,26 @@
       "url": "https://open.spotify.com/track/1hu1HkgIp05jlYEzCXsj8I"
     },
     {
+      "added_at": "2026-08-14 11:41:04",
+      "album": {
+        "name": "Toxic - Kannada (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3DBmCPg5nvo8ANFzMA5flv"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 320905,
+      "name": "Aaradha Gaaya - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/0SZ3f2WVfO7w5LyBlWnAOc"
+    },
+    {
       "added_at": "2026-08-07 06:53:06",
       "album": {
         "name": "Hariva Nadhigalige (From \"Jockey 42\")",
@@ -257,6 +305,22 @@
       "url": "https://open.spotify.com/track/0MwwqPad6PNwmyNv0bmn2T"
     },
     {
+      "added_at": "2026-08-26 06:00:35",
+      "album": {
+        "name": "Father Teaser Theme Music (From \"Father\")",
+        "url": "https://open.spotify.com/album/0PVuwNqKgbd2r56b9e4uUu"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "duration_ms": 81185,
+      "name": "Father Teaser Theme Music (From \"Father\")",
+      "url": "https://open.spotify.com/track/7yt2cKBhEOE10D1nV6u0IE"
+    },
+    {
       "added_at": "2026-08-14 11:41:04",
       "album": {
         "name": "Toxic - Kannada (Original Motion Picture Soundtrack)",
@@ -307,6 +371,34 @@
       "duration_ms": 244211,
       "name": "Yarettha Magalu Muddagi Kanthalo (From \"Shabbash\")",
       "url": "https://open.spotify.com/track/54jYCHHvpFaBWsm2Nkx3aC"
+    },
+    {
+      "added_at": "2026-08-26 06:00:35",
+      "album": {
+        "name": "Mavutha Mavutha (From \"Muttu Mavutha\")",
+        "url": "https://open.spotify.com/album/4rrVLcRUGuWRKLT8OQYAr0"
+      },
+      "artists": [
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        },
+        {
+          "name": "Sachin S Nagartha",
+          "url": "https://open.spotify.com/artist/1WyqbsqrzA0ok6rGRs3Igw"
+        },
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        },
+        {
+          "name": "Santhosh",
+          "url": "https://open.spotify.com/artist/1iogNKgZaOgEb7VR8S7Yb2"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "Mavutha Mavutha (From \"Muttu Mavutha\")",
+      "url": "https://open.spotify.com/track/02SwHx8cLhfmk3FDVovn3h"
     },
     {
       "added_at": "2026-08-03 09:41:18",
@@ -764,7 +856,7 @@
           "url": "https://open.spotify.com/artist/0SHKsErTXzUzI5dyx8C6nG"
         }
       ],
-      "duration_ms": 299294,
+      "duration_ms": 286588,
       "name": "Paapu Mari (From \"Celebrity\")",
       "url": "https://open.spotify.com/track/0t401Q7YSo9Ykvyv1uluOc"
     },
@@ -1663,30 +1755,6 @@
     {
       "added_at": "2026-06-22 16:20:26",
       "album": {
-        "name": "Sanne Sanne (From \"Namkaaldal Hingirlilla Bidi\")",
-        "url": "https://open.spotify.com/album/1K0qaJTZHY4pUHS5GsKkpv"
-      },
-      "artists": [
-        {
-          "name": "Amoghavarsha",
-          "url": "https://open.spotify.com/artist/5ZYB5iVTDHrIsymCoTSmv4"
-        },
-        {
-          "name": "John Mozart",
-          "url": "https://open.spotify.com/artist/2fTxh0M7EZYPXFK834sKeE"
-        },
-        {
-          "name": "Chethan Naik",
-          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
-        }
-      ],
-      "duration_ms": 200607,
-      "name": "Sanne Sanne (From \"Namkaaldal Hingirlilla Bidi\")",
-      "url": "https://open.spotify.com/track/6qeseD3WM50eGngUDwIdRN"
-    },
-    {
-      "added_at": "2026-06-22 16:20:26",
-      "album": {
         "name": "Inmele (From \"Lakshmi Puthra\")",
         "url": "https://open.spotify.com/album/3wNmBoCLkg3Q3SX6ksRQ9m"
       },
@@ -1767,138 +1835,6 @@
       "duration_ms": 294880,
       "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
       "url": "https://open.spotify.com/track/0uc6L16PhCad1SlwHTdolj"
-    },
-    {
-      "added_at": "2026-06-19 13:00:49",
-      "album": {
-        "name": "Keerthi I Love You",
-        "url": "https://open.spotify.com/album/3iPRqnOjCHOtTFjvqMnSFB"
-      },
-      "artists": [
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        },
-        {
-          "name": "Chiranjeevi Abhiram N S",
-          "url": "https://open.spotify.com/artist/2rmPn2E64PoNmHpkv4lTuv"
-        }
-      ],
-      "duration_ms": 216285,
-      "name": "Modala Notadhi",
-      "url": "https://open.spotify.com/track/6PJWqUjBfGML4k7JJIt35I"
-    },
-    {
-      "added_at": "2026-06-19 05:14:07",
-      "album": {
-        "name": "Punyathgithi (From \"KHELA\")",
-        "url": "https://open.spotify.com/album/5LF91QbyVH3tMy0ISJMY36"
-      },
-      "artists": [
-        {
-          "name": "Thyagaraja M.S",
-          "url": "https://open.spotify.com/artist/6h0s6nu545c3GUh5GquDaY"
-        },
-        {
-          "name": "Pramod Jois",
-          "url": "https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f"
-        },
-        {
-          "name": "Velmurugan",
-          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
-        }
-      ],
-      "duration_ms": 212021,
-      "name": "Punyathgithi (From \"KHELA\")",
-      "url": "https://open.spotify.com/track/1TNLLrFwPNXQ0SmTcGGpdf"
-    },
-    {
-      "added_at": "2026-06-19 13:00:49",
-      "album": {
-        "name": "Yarilla Yarilla (From \"Balaramana Dinagalu\")",
-        "url": "https://open.spotify.com/album/3tu86UbNZTHojYTWvvqPmQ"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "All Ok",
-          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "Yarilla Yarilla (From \"Balaramana Dinagalu\")",
-      "url": "https://open.spotify.com/track/4RWWiWt0eiErd7062oGe40"
-    },
-    {
-      "added_at": "2026-06-19 13:04:51",
-      "album": {
-        "name": "Nannavale",
-        "url": "https://open.spotify.com/album/6olXD0bAZYJN5HjjP28Upd"
-      },
-      "artists": [
-        {
-          "name": "Curry",
-          "url": "https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Nannavale",
-      "url": "https://open.spotify.com/track/3OS7pl10PHd4JBtJQZSz9K"
-    },
-    {
-      "added_at": "2026-06-19 13:00:49",
-      "album": {
-        "name": "Yene Helu Kusuma (From \"Graamaayana\")",
-        "url": "https://open.spotify.com/album/1gjv6tyDh4PFCHKjxwd1VT"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Sakshi Kallur",
-          "url": "https://open.spotify.com/artist/4XA1eGTPybnNfZtbbyThDt"
-        },
-        {
-          "name": "Poornachandra Tejaswi SV",
-          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        }
-      ],
-      "duration_ms": 267516,
-      "name": "Yene Helu Kusuma (From \"Graamaayana\")",
-      "url": "https://open.spotify.com/track/51wDZ7V2gPM15uSOLdDv38"
-    },
-    {
-      "added_at": "2026-06-19 13:00:49",
-      "album": {
-        "name": "Ra Ga Sa Da Aa (From \"Mother Promise\")",
-        "url": "https://open.spotify.com/album/7L87eZYDgWdBm0bwhQYaiX"
-      },
-      "artists": [
-        {
-          "name": "Navaneeth Sham",
-          "url": "https://open.spotify.com/artist/7o9uqL4spl1juQLR9jij8S"
-        },
-        {
-          "name": "Daali Dhananjaya",
-          "url": "https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ"
-        },
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        }
-      ],
-      "duration_ms": 201614,
-      "name": "Ra Ga Sa Da Aa (From \"Mother Promise\")",
-      "url": "https://open.spotify.com/track/0b541rdd0Vr7xxiaywFA8G"
     }
   ],
   "unique_name": "Latest Kannada",

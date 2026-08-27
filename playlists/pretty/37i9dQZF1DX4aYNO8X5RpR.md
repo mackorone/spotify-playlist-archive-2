@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 
 > Hours of comforting sounds of thunder and rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,913 likes - 140 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,961 likes - 140 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 | 139 | [Fall asleep Storm](https://open.spotify.com/track/75yganfLLS5N0oeLFt9gW4) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Rain Hive](https://open.spotify.com/album/5hAjWiqgkKLll4XWQ3n2Yx) | 2:30 |
 | 140 | [Under The Umbrella \- Seamless](https://open.spotify.com/track/4XtdcXBOp3tFW3mUtBvTCx) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Under The Umbrella](https://open.spotify.com/album/5JLXavSqFrPocNKfXVqmLy) | 2:55 |
 
-Snapshot ID: `AAAAAAmywI40hoRrLHbK/5P8AFbOCoOE`
+Snapshot ID: `AAAAADEOwWuTwxMjKn75GuGVxzgU2kgC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,075 likes - 199 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,181 likes - 199 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 198 | [Conwy Morfa Ocean Sounds](https://open.spotify.com/track/53JhXakZ9dGNmJ9313qskk) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ) | [Tidal Songs from Wales](https://open.spotify.com/album/4Hz6wealBvjUNpGl2OgzMO) | 2:39 |
 | 199 | [Playa Pelada Sunburnt Surf](https://open.spotify.com/track/0G9A43Ip04oTEcwhybFVsb) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Songs from the Sea](https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv) | 3:11 |
 
-Snapshot ID: `AAAAAC6ne01W95zpWLWbOI0bgyNVHF2e`
+Snapshot ID: `AAAAAOSL93f6Ii4uBrvSIiDjOuQ/Cy1B`

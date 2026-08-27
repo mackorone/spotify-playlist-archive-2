@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto 8 CD Set (Explicit Version)",
+        "url": "https://open.spotify.com/album/3hMYWO9KfMPGN4VMUlSjrc"
+      },
+      "artists": [
+        {
+          "name": "Rob Base",
+          "url": "https://open.spotify.com/artist/5YsrgTpxX1RoZHUtjdUMVo"
+        },
+        {
+          "name": "DJ E-Z Rock",
+          "url": "https://open.spotify.com/artist/6iyGhG9V0QqRfHH25jPdZv"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285200,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/2tEcSelkEtLtmCw19yVS5Y"
+    },
+    {
+      "album": {
         "name": "It Takes Two",
         "url": "https://open.spotify.com/album/5tocCryeqWvFXn65seo0p6"
       },
@@ -1714,7 +1736,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 142933,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/55jQYM4ymxWGMaDT4B63Pf"

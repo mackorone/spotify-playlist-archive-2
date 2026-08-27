@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 118714,
       "name": "MERECES MEJOR",
       "url": "https://open.spotify.com/track/6qHThD6xA2MvjYqc82Ss1P"
@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Dulce Amargo",
+        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148821,
+      "name": "QUIERO QUE SEAS T\u00da",
+      "url": "https://open.spotify.com/track/17zEyidYyN0gGmJKTiEBTN"
+    },
+    {
+      "album": {
         "name": "Quiero Que Seas T\u00fa",
         "url": "https://open.spotify.com/album/2W3UAlM3O9u1IENBXtB8M8"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 148821,
       "name": "Quiero Que Seas T\u00fa",
       "url": "https://open.spotify.com/track/7bSCakZAVtms7KN96hwaPW"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 209583,
       "name": "Quiero Ser",
       "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"

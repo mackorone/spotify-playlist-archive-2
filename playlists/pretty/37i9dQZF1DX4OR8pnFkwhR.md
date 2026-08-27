@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Manaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,837 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,843 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Passengers](https://open.spotify.com/track/4qXBod5nME8SxJCpjGfTSv) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Passengers](https://open.spotify.com/album/6PtnK8pgb02Y0TniYmnDta) | 3:10 |
 | 60 | [小説家](https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [くろいもり](https://open.spotify.com/album/56zhHqyQXbrIrmuhbFwovo) | 4:40 |
 
-Snapshot ID: `AAAAACPJ2ZTirgYDw2nzDG+f0GYibGpv`
+Snapshot ID: `AAAAAGGpfGykosM3KNz5FylVn07/ZeNW`

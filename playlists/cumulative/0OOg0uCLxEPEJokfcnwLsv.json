@@ -3389,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Fog of War",
+        "url": "https://open.spotify.com/album/270gN7ziKWO3OAU44OjohS"
+      },
+      "artists": [
+        {
+          "name": "Eric Mann",
+          "url": "https://open.spotify.com/artist/35MK4HiXsP320WPxEPPFgk"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246174,
+      "name": "Fog of War",
+      "url": "https://open.spotify.com/track/1dDx0yQRx5u28M1Fa6DvW9"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/5taDFBJEell9JWvE4Szr7t"
       },
@@ -8576,6 +8594,24 @@
       "duration_ms": 280606,
       "name": "Something New",
       "url": "https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk"
+    },
+    {
+      "album": {
+        "name": "Studio Session",
+        "url": "https://open.spotify.com/album/1RXnxjw9ESq3zz9JMoonMM"
+      },
+      "artists": [
+        {
+          "name": "SUNSHRD",
+          "url": "https://open.spotify.com/artist/4Qhw3YVszSYCJ583d05fkV"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7facdq3XjlGNKjETWq4D2S"
     },
     {
       "album": {

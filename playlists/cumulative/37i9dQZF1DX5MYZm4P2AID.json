@@ -5927,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "Shoebox",
+        "url": "https://open.spotify.com/album/0fYDNP3D1vgpwIm4NPFvf0"
+      },
+      "artists": [
+        {
+          "name": "Lilah Pate",
+          "url": "https://open.spotify.com/artist/6nRNtZgO1Gw7sEYkduIN3I"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202229,
+      "name": "Shoebox",
+      "url": "https://open.spotify.com/track/78BgBmJDMHK84oqvXic6Q7"
+    },
+    {
+      "album": {
         "name": "Brothers and Sisters of the Eternal Son (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1RRHi23DOwVOwimc3BjnBv"
       },

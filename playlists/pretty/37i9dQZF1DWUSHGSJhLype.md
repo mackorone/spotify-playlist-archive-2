@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Grelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,012 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,031 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 59 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |
 | 60 | [Disneylândia](https://open.spotify.com/track/42bT00XQO5QlRo5HJQsGYn) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Pedrinho Z](https://open.spotify.com/artist/6OjuHxyurXJxa4ogYWl5Br), [DLIMA7](https://open.spotify.com/artist/29u3JaZVRn9ICRK7M82Ynr) | [Disneylândia](https://open.spotify.com/album/3oXIKToc0OlL6E8JTcFgT7) | 1:56 |
 
-Snapshot ID: `AAAAAIy3AWVqg/Dy15tzjKjwJSXeo6JY`
+Snapshot ID: `AAAAAJP9LpbOhi9UgarQu2KFV8RNvalc`

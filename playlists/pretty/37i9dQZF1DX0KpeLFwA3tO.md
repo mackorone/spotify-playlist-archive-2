@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Yellowcard
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,650 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,682 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Placeholder](https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Placeholder](https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp) | 4:14 |
 | 125 | [Unforgiven](https://open.spotify.com/track/12BoCZELfYcQmqGVyMuR42) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [Unforgiven](https://open.spotify.com/album/4T645Im7q24AE4AkWXz5eN) | 2:41 |
 
-Snapshot ID: `AAAAAHiPZA0+8Rzdpdp2v7c9ppYnBGcy`
+Snapshot ID: `AAAAAHfNWNfNEhWj2A5uYd/PjkGFe2ht`

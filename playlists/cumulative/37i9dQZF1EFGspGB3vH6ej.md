@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-315 songs - 21 hr 17 min
+316 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,8 +108,8 @@
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) / House Top Celebration \(feat\. Snoop Dogg & Jermaine Dupri\)](https://open.spotify.com/track/6OkevUybUFp70w4PhGdo63) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Mariah Carey's Magical Christmas Special \(Apple TV+ Original Soundtrack\)](https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84) | 2:20 | 2024-01-29 |  |
 | [Here For It All](https://open.spotify.com/track/0T7TwzKzwdR7aRNM4Dtftj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 6:37 | 2025-10-05 |  |
 | [Here We Go Around Again \- 1990](https://open.spotify.com/track/10A03OyuWyErmqSxsMGX96) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:55 | 2024-01-29 |  |
-| [Hero](https://open.spotify.com/track/2lnhv1xueIli5KwybGi9Vk) | [Judson Mancebo](https://open.spotify.com/artist/2fizYQ6PTbXb0JFOiDZJ63) | [The 20 Greatest Love Songs In Baby Mode, Vol\. 1](https://open.spotify.com/album/46zhYGqTp0hVl36WYn2d7D) | 1:58 | 2025-09-10 |  |
-| [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 | 2024-01-29 | 2026-08-26 |
+| [Hero](https://open.spotify.com/track/2lnhv1xueIli5KwybGi9Vk) | [Judson Mancebo](https://open.spotify.com/artist/2fizYQ6PTbXb0JFOiDZJ63) | [The 20 Greatest Love Songs In Baby Mode, Vol\. 1](https://open.spotify.com/album/46zhYGqTp0hVl36WYn2d7D) | 1:58 | 2025-09-10 | 2026-08-27 |
+| [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 | 2024-01-29 |  |
 | [Heroe](https://open.spotify.com/track/5XBzK0sl4y38zHLojqSIMM) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/4AZuAL2kW50TJwHTNAvie2) | 4:17 | 2024-01-29 |  |
 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 | 2024-01-29 |  |
 | [Honey](https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:59 | 2024-01-29 |  |
@@ -223,6 +223,7 @@
 | [One Night \- 1995](https://open.spotify.com/track/6eOZrCUM5K99o1fwedYHEh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:41 | 2024-01-29 |  |
 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 | 2024-01-29 |  |
 | [Outside](https://open.spotify.com/track/5bRQLbNUqL8jx07dal6JHZ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:46 | 2024-01-29 |  |
+| [Over](https://open.spotify.com/track/7u6fdc2XKqjt1dmvQpSEhc) | [Kees Meerman](https://open.spotify.com/artist/5QIXav662bonI8gf2cdYj3) | [AaaahHHhhh!!!](https://open.spotify.com/album/02ym4Tua0TO82cBABb6JBo) | 4:35 | 2026-08-26 |  |
 | [Part of Me](https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Part of Me](https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv) | 2:47 | 2025-10-21 |  |
 | [Petals](https://open.spotify.com/track/0Lquf9p91A6HQnnQridWWd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:22 | 2024-01-29 |  |
 | [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 | 2025-10-05 |  |

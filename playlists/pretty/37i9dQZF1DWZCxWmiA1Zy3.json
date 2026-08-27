@@ -1,12 +1,12 @@
 {
   "description": "P\u00e1tria Rock apresenta.. O Melhor do Rock 2023",
-  "num_followers": 5321,
+  "num_followers": 5324,
   "original_name": "O Melhor de P\u00e1tria Rock 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrrSXE5LJeh96c03+cv7Dfv5TFX",
+  "snapshot_id": "AAAAAN/ajyzD6Xt2mLCIomU3AZJi5uZs",
   "tracks": [
     {
       "added_at": "2024-07-10 13:14:35",
@@ -548,12 +548,16 @@
           "url": "https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z"
         },
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+          "name": "Violando",
+          "url": "https://open.spotify.com/artist/1ddr6NJ1FdG7Ubd9dMsyAB"
         },
         {
           "name": "bellizio",
           "url": "https://open.spotify.com/artist/3ZBQerWSIFoQwRvWQvDKWK"
+        },
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
         }
       ],
       "duration_ms": 244375,

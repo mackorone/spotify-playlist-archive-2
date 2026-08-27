@@ -1909,28 +1909,6 @@
     },
     {
       "album": {
-        "name": "Butter (Megan Thee Stallion Remix)",
-        "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164457,
-      "name": "Butter (Megan Thee Stallion Remix)",
-      "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
-    },
-    {
-      "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w"
       },
@@ -1964,6 +1942,28 @@
       "duration_ms": 196552,
       "name": "Butter - Live",
       "url": "https://open.spotify.com/track/1Xzqryxsf3vIRazdffKEOL"
+    },
+    {
+      "album": {
+        "name": "Butter (Megan Thee Stallion Remix)",
+        "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164457,
+      "name": "Butter - Megan Thee Stallion Remix",
+      "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
     },
     {
       "album": {
@@ -3234,7 +3234,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197993,
-      "name": "Dynamite (Acoustic Remix)",
+      "name": "Dynamite - Acoustic Remix",
       "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
     },
     {
@@ -3252,7 +3252,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207926,
-      "name": "Dynamite (Bedroom Remix)",
+      "name": "Dynamite - Bedroom Remix",
       "url": "https://open.spotify.com/track/70hNTQkU4hogweDWeMLaWT"
     },
     {
@@ -3270,98 +3270,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198939,
-      "name": "Dynamite (EDM Remix)",
+      "name": "Dynamite - EDM Remix",
       "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
-    },
-    {
-      "album": {
-        "name": "Dynamite (NightTime Version)",
-        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196509,
-      "name": "Dynamite (Midnight Remix)",
-      "url": "https://open.spotify.com/track/7MRdjWiq6wu1bFqlnqve5q"
-    },
-    {
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182591,
-      "name": "Dynamite (Poolside Remix)",
-      "url": "https://open.spotify.com/track/087YUEkmOGciKOflc5sQE6"
-    },
-    {
-      "album": {
-        "name": "Dynamite (NightTime Version)",
-        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208404,
-      "name": "Dynamite (Retro Remix)",
-      "url": "https://open.spotify.com/track/46cgcwt80u5CaiqHu361UH"
-    },
-    {
-      "album": {
-        "name": "Dynamite (NightTime Version)",
-        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199690,
-      "name": "Dynamite (Slow Jam Remix)",
-      "url": "https://open.spotify.com/track/3adJ5vW78N4lpm4DzbCt6d"
-    },
-    {
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197101,
-      "name": "Dynamite (Tropical Remix)",
-      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
     {
       "album": {
@@ -3398,6 +3308,96 @@
       "duration_ms": 196951,
       "name": "Dynamite - Live",
       "url": "https://open.spotify.com/track/3FZN0Ceh7b6aUz3xPWRyOk"
+    },
+    {
+      "album": {
+        "name": "Dynamite (NightTime Version)",
+        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196509,
+      "name": "Dynamite - Midnight Remix",
+      "url": "https://open.spotify.com/track/7MRdjWiq6wu1bFqlnqve5q"
+    },
+    {
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182591,
+      "name": "Dynamite - Poolside Remix",
+      "url": "https://open.spotify.com/track/087YUEkmOGciKOflc5sQE6"
+    },
+    {
+      "album": {
+        "name": "Dynamite (NightTime Version)",
+        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208404,
+      "name": "Dynamite - Retro Remix",
+      "url": "https://open.spotify.com/track/46cgcwt80u5CaiqHu361UH"
+    },
+    {
+      "album": {
+        "name": "Dynamite (NightTime Version)",
+        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199690,
+      "name": "Dynamite - Slow Jam Remix",
+      "url": "https://open.spotify.com/track/3adJ5vW78N4lpm4DzbCt6d"
+    },
+    {
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197101,
+      "name": "Dynamite - Tropical Remix",
+      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
     {
       "album": {
@@ -5720,7 +5720,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232691,
-      "name": "Like (Slow Jam Remix)",
+      "name": "Like - Slow Jam Remix",
       "url": "https://open.spotify.com/track/5OXUwFDCnmT3eUWUYVRrk9"
     },
     {
@@ -6168,7 +6168,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 255541,
-      "name": "Make It Right (feat. Lauv) (Acoustic Remix)",
+      "name": "Make It Right (feat. Lauv) - Acoustic Remix",
       "url": "https://open.spotify.com/track/4aQooO4mUMX1l457bgYR6a"
     },
     {

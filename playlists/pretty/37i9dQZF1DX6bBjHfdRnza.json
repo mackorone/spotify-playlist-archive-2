@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring moonvine. Curated with love by human Spotify editors. \n",
-  "num_followers": 215618,
+  "num_followers": 215668,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3Bs2OgwbrnQGxtyGp5HLRuHqLe",
+  "snapshot_id": "AAAAAN7mKnMPRuN7ALeItrIetYKMv9Mk",
   "tracks": [
     {
       "added_at": "2026-08-19 21:18:18",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
-      "added_at": "2026-07-17 17:46:34",
+      "added_at": "2026-08-26 04:00:40",
       "album": {
-        "name": "Ruffneck",
-        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/2TRhWuDOHZWfrZ5zzPD0EX"
       },
       "artists": [
         {
-          "name": "MASS",
-          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
+          "name": "Lover1k",
+          "url": "https://open.spotify.com/artist/77efs8tCHubvpIe3kVO2xK"
         }
       ],
-      "duration_ms": 218181,
-      "name": "Ruffneck",
-      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+      "duration_ms": 167260,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6lKU5z4ArKo235u0A6l5O9"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "Bring That Beat Back EP",
+        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
+      },
+      "artists": [
+        {
+          "name": "AMMIL",
+          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Bring That Beat Back",
+      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
     },
     {
       "added_at": "2026-08-19 21:18:18",
@@ -73,20 +89,104 @@
       "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
     },
     {
-      "added_at": "2026-08-19 21:18:18",
+      "added_at": "2026-08-26 04:00:40",
       "album": {
-        "name": "SEETHISTHRU",
-        "url": "https://open.spotify.com/album/6ObXALRks7eET0pVrUr3n5"
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/6zde0TP0x20Q9z2e0BsPzK"
       },
       "artists": [
         {
-          "name": "That Franco",
-          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
         }
       ],
-      "duration_ms": 197744,
-      "name": "SEETHISTHRU",
-      "url": "https://open.spotify.com/track/7KzS1HW4MHcInfVbtrFjkp"
+      "duration_ms": 221679,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/240zAucIXXbMEmjOyUbWTM"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/6koZk3ynAW6ld3Eqga7QBm"
+      },
+      "artists": [
+        {
+          "name": "HARLEY GIRL",
+          "url": "https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao"
+        }
+      ],
+      "duration_ms": 153159,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/0Gsa1ebyIITbwDHamhnpu2"
+    },
+    {
+      "added_at": "2026-07-17 17:46:34",
+      "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
+      },
+      "artists": [
+        {
+          "name": "MASS",
+          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "2012 euro trash",
+        "url": "https://open.spotify.com/album/4WGIVqSEapNiqNPbrivmAQ"
+      },
+      "artists": [
+        {
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        }
+      ],
+      "duration_ms": 406875,
+      "name": "2012 euro trash",
+      "url": "https://open.spotify.com/track/69uGmGFVCXYE6wgRkQowtI"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "STRICTLY 4 MY UNCS",
+        "url": "https://open.spotify.com/album/4hPKQKWcKYjZgdOm3CReC6"
+      },
+      "artists": [
+        {
+          "name": "DJ Young Brown",
+          "url": "https://open.spotify.com/artist/6gQYKDgb1lC8aZLNh5yN0H"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "PUT UR ASS IN DA AIR",
+      "url": "https://open.spotify.com/track/3U6fC3lXQ1Tc7taKmWIujJ"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "C\u00c1LLATE",
+        "url": "https://open.spotify.com/album/4uxIWMHaY3oGWUvdl6YVCw"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        },
+        {
+          "name": "Nash Rly",
+          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
+        }
+      ],
+      "duration_ms": 173700,
+      "name": "C\u00c1LLATE",
+      "url": "https://open.spotify.com/track/6rfCMskYfxYB4gpF74AhKw"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -103,6 +203,38 @@
       "duration_ms": 211775,
       "name": "CATCH YA",
       "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "SEETHISTHRU",
+        "url": "https://open.spotify.com/album/6ObXALRks7eET0pVrUr3n5"
+      },
+      "artists": [
+        {
+          "name": "That Franco",
+          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
+        }
+      ],
+      "duration_ms": 197744,
+      "name": "SEETHISTHRU",
+      "url": "https://open.spotify.com/track/7KzS1HW4MHcInfVbtrFjkp"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "Let It Go (Breathe)",
+        "url": "https://open.spotify.com/album/2MR1vnlnVu39lVPa4oXHdo"
+      },
+      "artists": [
+        {
+          "name": "MBALLA",
+          "url": "https://open.spotify.com/artist/7DvbzchNOQYsovNPGebdy1"
+        }
+      ],
+      "duration_ms": 213781,
+      "name": "Let It Go (Breathe)",
+      "url": "https://open.spotify.com/track/4Wm8OqvY5K5LebhcFtWr7G"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -205,26 +337,6 @@
       "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
-      "added_at": "2026-08-19 21:18:18",
-      "album": {
-        "name": "C\u00c1LLATE",
-        "url": "https://open.spotify.com/album/4uxIWMHaY3oGWUvdl6YVCw"
-      },
-      "artists": [
-        {
-          "name": "MARTHA",
-          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
-        },
-        {
-          "name": "Nash Rly",
-          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
-        }
-      ],
-      "duration_ms": 173700,
-      "name": "C\u00c1LLATE",
-      "url": "https://open.spotify.com/track/6rfCMskYfxYB4gpF74AhKw"
-    },
-    {
       "added_at": "2026-08-14 04:02:31",
       "album": {
         "name": "Buggy",
@@ -283,6 +395,26 @@
       "duration_ms": 243200,
       "name": "Play it Loud (Keep it Going)",
       "url": "https://open.spotify.com/track/0sKBrx6EyavERCR0jx0iBJ"
+    },
+    {
+      "added_at": "2026-07-23 04:00:10",
+      "album": {
+        "name": "HOLDING ON",
+        "url": "https://open.spotify.com/album/3D98AFvYg4yXwNWbaPDxco"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
+        },
+        {
+          "name": "Bo Saero",
+          "url": "https://open.spotify.com/artist/5zz6gUQ7mVWhi5aBsAACtu"
+        }
+      ],
+      "duration_ms": 164543,
+      "name": "HOLDING ON",
+      "url": "https://open.spotify.com/track/17wru9AsJVNgUaEFlLyMwk"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -613,22 +745,6 @@
       "url": "https://open.spotify.com/track/6zJCcwaS8ocHybnIv81NGU"
     },
     {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
-      },
-      "artists": [
-        {
-          "name": "Mat Eclair",
-          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
-        }
-      ],
-      "duration_ms": 182255,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
-    },
-    {
       "added_at": "2026-07-30 05:08:29",
       "album": {
         "name": "can't take this",
@@ -647,22 +763,6 @@
       "duration_ms": 206294,
       "name": "can't take this",
       "url": "https://open.spotify.com/track/2Mr5R7A9KR1b5HRZIEBunZ"
-    },
-    {
-      "added_at": "2026-07-31 15:38:39",
-      "album": {
-        "name": "Look In Your Eyes EP",
-        "url": "https://open.spotify.com/album/6srbJv6wd732zNr9ozjs4y"
-      },
-      "artists": [
-        {
-          "name": "Andrew Laeddis",
-          "url": "https://open.spotify.com/artist/1cxq10p3FIdS5GQgrCbgiI"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Look In Your Eyes",
-      "url": "https://open.spotify.com/track/7cFo5KHNgCQUYmXXvPObHD"
     },
     {
       "added_at": "2026-07-31 04:02:23",
@@ -829,62 +929,6 @@
       "url": "https://open.spotify.com/track/6N0sG1DDBF1q8X0VRs5nNm"
     },
     {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
-        "name": "Never Done",
-        "url": "https://open.spotify.com/album/6w0Y5jr85G0fZMVP4gVJYO"
-      },
-      "artists": [
-        {
-          "name": "J Wax",
-          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
-        },
-        {
-          "name": "GES",
-          "url": "https://open.spotify.com/artist/2MBdU0rO9DL5InPvKemkAS"
-        }
-      ],
-      "duration_ms": 190140,
-      "name": "Never Done",
-      "url": "https://open.spotify.com/track/6KK9Bbxwf6jsjKtG33K5XG"
-    },
-    {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "Homefree",
-        "url": "https://open.spotify.com/album/7eYz53thUR5dAjUC43E8zi"
-      },
-      "artists": [
-        {
-          "name": "logeybear",
-          "url": "https://open.spotify.com/artist/2O68UspB1Ei8cR0x8vtSgB"
-        }
-      ],
-      "duration_ms": 208647,
-      "name": "Abby",
-      "url": "https://open.spotify.com/track/2hRrrhIFTmUN4gxcwQzexZ"
-    },
-    {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "HOLDING ON",
-        "url": "https://open.spotify.com/album/3D98AFvYg4yXwNWbaPDxco"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
-        },
-        {
-          "name": "Bo Saero",
-          "url": "https://open.spotify.com/artist/5zz6gUQ7mVWhi5aBsAACtu"
-        }
-      ],
-      "duration_ms": 164543,
-      "name": "HOLDING ON",
-      "url": "https://open.spotify.com/track/17wru9AsJVNgUaEFlLyMwk"
-    },
-    {
       "added_at": "2026-07-17 17:46:34",
       "album": {
         "name": "Entropy",
@@ -973,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1rkJzNdMyI2n9C0Y0FQDu2"
     },
     {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "DIVINE FEMININE",
-        "url": "https://open.spotify.com/album/541TMYij93d4iZse3nZoX1"
-      },
-      "artists": [
-        {
-          "name": "BLONDETING",
-          "url": "https://open.spotify.com/artist/5tOtqDwpHljDsBGKASlPk2"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "DIVINE FEMININE",
-      "url": "https://open.spotify.com/track/0Yv08hg2EZlCdjvxKzWEi4"
-    },
-    {
       "added_at": "2026-07-10 04:02:07",
       "album": {
         "name": "be with me",
@@ -1005,26 +1033,6 @@
       "url": "https://open.spotify.com/track/13iSspPHQg1cDyUl55ItRg"
     },
     {
-      "added_at": "2026-06-17 16:50:54",
-      "album": {
-        "name": "Terapia EP",
-        "url": "https://open.spotify.com/album/0JkXw9RsPPgDckgj2X2QzH"
-      },
-      "artists": [
-        {
-          "name": "Bonafique",
-          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
-        },
-        {
-          "name": "Yuv\u00e8e",
-          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
-        }
-      ],
-      "duration_ms": 227535,
-      "name": "Profill",
-      "url": "https://open.spotify.com/track/7G7iejjUvVun2tPL5KdhBA"
-    },
-    {
       "added_at": "2026-07-09 03:51:12",
       "album": {
         "name": "BRONX",
@@ -1039,22 +1047,6 @@
       "duration_ms": 175984,
       "name": "BRONX",
       "url": "https://open.spotify.com/track/2lFdLsPwPddCUfI6SvmFVC"
-    },
-    {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "Go Sun Cha",
-        "url": "https://open.spotify.com/album/2CF3EC1RZ08Hla5kLIsvOf"
-      },
-      "artists": [
-        {
-          "name": "Ochok",
-          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
-        }
-      ],
-      "duration_ms": 189836,
-      "name": "Go Sun Cha",
-      "url": "https://open.spotify.com/track/0saozuEilkY04lxO4SUAx9"
     },
     {
       "added_at": "2026-06-09 17:47:06",

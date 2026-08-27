@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月24日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月25日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,509 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,567 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 7 | [夜鷹 \- Yodaka](https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [夜鷹 \- Yodaka](https://open.spotify.com/album/0xbgE5GJtzcQbYwkGNu01T) | 3:18 |
 | 8 | [POISON～言いたい事も言えないこんな世の中は～](https://open.spotify.com/track/2S4IkDNGWarWgzI5W9fUtb) | [Takashi Sorimachi](https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e) | [POISON～言いたいことも言えないこんな世の中は～](https://open.spotify.com/album/2ok50clJKYLxafJzLj6O2p) | 4:02 |
 | 9 | [センセーション](https://open.spotify.com/track/0BALoMCHyL9s4VYHq9sffV) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ぱわーオブらぶ / センセーション](https://open.spotify.com/album/0wWSy06e4evneurWE9x3lx) | 3:08 |
-| 10 | [アンパンマンたいそう](https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン 恐竜ノッシーの大冒険](https://open.spotify.com/album/4KqNbhc7QjASUToxOaRlDo) | 4:34 |
-| 11 | [Samba de Night Fever](https://open.spotify.com/track/0lr7xhfyWvTwQuXGvVDJoL) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [WARAiNA](https://open.spotify.com/album/5uZNBbwugf5RtNFWtH0hnH) | 3:00 |
-| 12 | [Love so sweet](https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Time](https://open.spotify.com/album/7uUUazj2UJMhdOsXZrYO4v) | 4:49 |
-| 13 | [Love Options](https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt) | [BESTie](https://open.spotify.com/artist/1HiZjIv6iLp9cs5vX0AJKo) | [Love Options](https://open.spotify.com/album/48aNxerOupoy4EbC0el0l8) | 3:14 |
+| 10 | [Samba de Night Fever](https://open.spotify.com/track/0lr7xhfyWvTwQuXGvVDJoL) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [WARAiNA](https://open.spotify.com/album/5uZNBbwugf5RtNFWtH0hnH) | 3:00 |
+| 11 | [Love so sweet](https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Time](https://open.spotify.com/album/7uUUazj2UJMhdOsXZrYO4v) | 4:49 |
+| 12 | [Love Options](https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt) | [BESTie](https://open.spotify.com/artist/1HiZjIv6iLp9cs5vX0AJKo) | [Love Options](https://open.spotify.com/album/48aNxerOupoy4EbC0el0l8) | 3:14 |
+| 13 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 |
 | 14 | [Shukumei](https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 4:40 |
 | 15 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
 | 16 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 34 | [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 |
 | 35 | [it’s okay](https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 2:26 |
 | 36 | [名もなき詩](https://open.spotify.com/track/5hrS405iyU1OLU4BFwGWGY) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [深海](https://open.spotify.com/album/0kUEX0VRJoMWxoCGXkmHtr) | 5:28 |
-| 37 | [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 |
-| 38 | [Missing](https://open.spotify.com/track/1zsPhef2vOQaRSj1H7yvXq) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Missing](https://open.spotify.com/album/5s3ikpH92AFAHiCSipbp63) | 2:52 |
-| 39 | [楽園ベイベー](https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [グッジョブ!](https://open.spotify.com/album/6cs7Vijg2dNWEJcMxaMivR) | 4:44 |
-| 40 | [そばかす](https://open.spotify.com/track/5zydI0vRlMI6mrEKgZR8zq) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [THE POWER SOURCE](https://open.spotify.com/album/3EmVZE8tSVKN0tblpt8Mzo) | 4:15 |
-| 41 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
-| 42 | [アイノカタチ](https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk), [HIDE \(GReeeeN\)](https://open.spotify.com/artist/4SFP5kBIqqjFrrPknaVnbG) | [Life is going on and on](https://open.spotify.com/album/6shpoVTIdAcPmUYwIDNdBz) | 4:22 |
-| 43 | [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 |
-| 44 | [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 |
-| 45 | [それを愛と呼ぶなら](https://open.spotify.com/track/2lHfHAQDlmTfN8SqYs9G09) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 4:54 |
-| 46 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |
-| 47 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
-| 48 | [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 |
-| 49 | [雪月花](https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [BOY & GIRLS](https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT) | 5:16 |
-| 50 | [人として](https://open.spotify.com/track/5sCLe2F8qkAIUtTORsnjpE) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [27](https://open.spotify.com/album/1K2r7X50UbIsSC0bdhlvdc) | 4:04 |
+| 37 | [Missing](https://open.spotify.com/track/1zsPhef2vOQaRSj1H7yvXq) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Missing](https://open.spotify.com/album/5s3ikpH92AFAHiCSipbp63) | 2:52 |
+| 38 | [you&i](https://open.spotify.com/track/1wdW2U0jxre5f2GMcR7tiF) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [エロティシズム](https://open.spotify.com/album/696jUAIpCGgYV6kmSuCgsv) | 4:27 |
+| 39 | [そばかす](https://open.spotify.com/track/5zydI0vRlMI6mrEKgZR8zq) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [THE POWER SOURCE](https://open.spotify.com/album/3EmVZE8tSVKN0tblpt8Mzo) | 4:15 |
+| 40 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
+| 41 | [アイノカタチ](https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk), [HIDE \(GReeeeN\)](https://open.spotify.com/artist/4SFP5kBIqqjFrrPknaVnbG) | [Life is going on and on](https://open.spotify.com/album/6shpoVTIdAcPmUYwIDNdBz) | 4:22 |
+| 42 | [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 |
+| 43 | [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 |
+| 44 | [それを愛と呼ぶなら](https://open.spotify.com/track/2lHfHAQDlmTfN8SqYs9G09) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 4:54 |
+| 45 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |
+| 46 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
+| 47 | [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 |
+| 48 | [雪月花](https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [BOY & GIRLS](https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT) | 5:16 |
+| 49 | [人として](https://open.spotify.com/track/5sCLe2F8qkAIUtTORsnjpE) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [27](https://open.spotify.com/album/1K2r7X50UbIsSC0bdhlvdc) | 4:04 |
+| 50 | [愛唄](https://open.spotify.com/track/7iXHLtPosbHvglVSJ4rxLq) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [あっ、ども。はじめまして。](https://open.spotify.com/album/4Q36ZjQvCRgQ3MDFwDh6Wh) | 3:56 |
 
-Snapshot ID: `AAAAAOJ7Z/N0qaHYkPodCpzXJBaeQ2JN`
+Snapshot ID: `AAAAAKdA21a1SGjL1CGt/CFdQ6AlLiGL`

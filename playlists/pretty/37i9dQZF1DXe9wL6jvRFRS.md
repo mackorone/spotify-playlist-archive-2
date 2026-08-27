@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Man/Woman/Chainsaw on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,287 likes - 81 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,301 likes - 81 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 | 80 | [Again](https://open.spotify.com/track/4MSUuHSBqAeCrVccm5qoMw) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Anywhere But Here](https://open.spotify.com/album/18w7oi2HN7XeQD2CMNCFHV) | 3:18 |
 | 81 | [cranes](https://open.spotify.com/track/5lB4myWC3zyPO4AjDCINfk) | [casual smart](https://open.spotify.com/artist/6hQ9aQfQsvuN6Y7NK1J7ou) | [cranes](https://open.spotify.com/album/4yhPJHgCUPnXWi0d0SbsAx) | 4:16 |
 
-Snapshot ID: `AAAAAOG0kmSyDtguJsyWH3mQwXQFVFlo`
+Snapshot ID: `AAAAAN0twyoAbR/qSxBDFHHjK+CPgexN`

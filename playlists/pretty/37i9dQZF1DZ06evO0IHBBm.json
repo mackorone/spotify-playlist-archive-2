@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "Di\u00e1rio de um Vencedor",
+        "url": "https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 295373,
-      "name": "A Ess\u00eancia da Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1hCpXH3ZEm6LkEfWbodNCv"
+      "duration_ms": 322194,
+      "name": "Di\u00e1rio de um Vencedor",
+      "url": "https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Di\u00e1rio de um Vencedor",
-        "url": "https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 322194,
-      "name": "Di\u00e1rio de um Vencedor",
-      "url": "https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD"
+      "duration_ms": 295373,
+      "name": "A Ess\u00eancia da Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1hCpXH3ZEm6LkEfWbodNCv"
     },
     {
       "added_at": null,

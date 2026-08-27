@@ -1,6 +1,6 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 569289,
+  "num_followers": 569278,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 521826,
+      "name": "Homem na Estrada",
+      "url": "https://open.spotify.com/track/10CaXTAohMFQeFWZGfnGyC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -75,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
       },
       "artists": [
         {
@@ -84,9 +100,61 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 521826,
-      "name": "Homem na Estrada",
-      "url": "https://open.spotify.com/track/10CaXTAohMFQeFWZGfnGyC"
+      "duration_ms": 471253,
+      "name": "Jesus Chorou",
+      "url": "https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrevivendo no Inferno",
+        "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Jorge da Capad\u00f3cia",
+      "url": "https://open.spotify.com/track/0YyZBGbZYAuEFu473MiyjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cores & Valores",
+        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "duration_ms": 123370,
+      "name": "Preto Zica",
+      "url": "https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 680880,
+      "name": "Formula M\u00e1gica da Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV"
     },
     {
       "added_at": null,
@@ -116,93 +184,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 167733,
-      "name": "Jorge da Capad\u00f3cia",
-      "url": "https://open.spotify.com/track/0YyZBGbZYAuEFu473MiyjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 265586,
-      "name": "Da Ponte pr\u00e1 C\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6N2v3qyuXnr6ZXnIAjCQmC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cores & Valores",
-        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ CIA",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
-        }
-      ],
-      "duration_ms": 123370,
-      "name": "Preto Zica",
-      "url": "https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 471253,
-      "name": "Jesus Chorou",
-      "url": "https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivendo no Inferno",
-        "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
       "duration_ms": 451000,
       "name": "Di\u00e1rio de um Detento",
       "url": "https://open.spotify.com/track/7wglwZzZoWUr8sOECwpu6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 680880,
-      "name": "Formula M\u00e1gica da Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV"
     },
     {
       "added_at": null,
@@ -223,6 +207,90 @@
       "duration_ms": 76087,
       "name": "Cores & Valores",
       "url": "https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 467600,
+      "name": "Fim de Semana no Parque",
+      "url": "https://open.spotify.com/track/5hkLnjLwFQtSa1I0IZ7mzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Negro Drama",
+      "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrevivendo no Inferno",
+        "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 672773,
+      "name": "T\u00f4 Ouvindo Algu\u00e9m Me Chamar",
+      "url": "https://open.spotify.com/track/63piuNbKgyASwtlj3kq4ye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cores & Valores",
+        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "duration_ms": 54338,
+      "name": "Eu Te Disse",
+      "url": "https://open.spotify.com/track/6l7uyNOOHVO7PZuZRPIHm2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": null,
@@ -256,93 +324,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 672773,
-      "name": "T\u00f4 Ouvindo Algu\u00e9m Me Chamar",
-      "url": "https://open.spotify.com/track/63piuNbKgyASwtlj3kq4ye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 318760,
-      "name": "Negro Drama - Ao Vivo",
-      "url": "https://open.spotify.com/track/0YG19EaGbGtN7m8xVzgEGv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cores & Valores",
-        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ CIA",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
-        }
-      ],
-      "duration_ms": 54338,
-      "name": "Eu Te Disse",
-      "url": "https://open.spotify.com/track/6l7uyNOOHVO7PZuZRPIHm2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 440000,
-      "name": "A V\u00edtima",
-      "url": "https://open.spotify.com/track/2ki0ZW9m5HIAdALRldfXM1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivendo no Inferno",
-        "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
       "duration_ms": 456840,
       "name": "M\u00e1gico de Oz",
       "url": "https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 467600,
-      "name": "Fim de Semana no Parque",
-      "url": "https://open.spotify.com/track/5hkLnjLwFQtSa1I0IZ7mzZ"
     },
     {
       "added_at": null,
@@ -367,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 36597,
+      "name": "Introdu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0AIGUzrv8GEO3fZfmsOPNT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
         "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
       },
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 108426,
-      "name": "Sou + Voc\u00ea",
-      "url": "https://open.spotify.com/track/5G1T3Cj4vP7uiGMUb278ut"
+      "duration_ms": 377613,
+      "name": "Estilo Cachorro",
+      "url": "https://open.spotify.com/track/2tR8iLdCeYhVcyPZvN6T7X"
     },
     {
       "added_at": null,
@@ -395,38 +395,6 @@
       "duration_ms": 639560,
       "name": "Formula M\u00e1gica de Paz",
       "url": "https://open.spotify.com/track/4QsfSMCOEmTbPzHCCLbhgr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 36597,
-      "name": "Introdu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0AIGUzrv8GEO3fZfmsOPNT"
     },
     {
       "added_at": null,

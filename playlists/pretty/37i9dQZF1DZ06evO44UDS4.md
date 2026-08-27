@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,817 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,915 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 38 | [When You're Around](https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:12 |
 | 39 | [Turn It Up \(feat\. Tommy Cash\)](https://open.spotify.com/track/1LqGBnl9m1duX1XWopugaf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Turn It Up \(feat\. Tommy Cash\)](https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8) | 2:09 |
 | 40 | [I Need You](https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:45 |
-| 41 | [All That](https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All That](https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu) | 2:46 |
-| 42 | [I Hate You](https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:42 |
+| 41 | [I Hate You](https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:42 |
+| 42 | [All That](https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All That](https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu) | 2:46 |
 | 43 | [Every Type of Friend](https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:13 |
 | 44 | [All You Ever Wanted](https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All You Ever Wanted](https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm) | 1:59 |
 | 45 | [Joyride](https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Joyride](https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r) | 2:30 |

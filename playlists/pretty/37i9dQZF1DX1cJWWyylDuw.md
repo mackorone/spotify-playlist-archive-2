@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A mix of the best modern Deathcore tracks\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,106 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,300 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [The Substance](https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [The Substance](https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0) | 4:35 |
 | 150 | [SHACKLEROT](https://open.spotify.com/track/4fckK2M2zO9JveWT2iYgMK) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [NOT WORTHY OF HUMAN COMPASSION](https://open.spotify.com/album/16C9JhrUDB19XJVVcyj2dy) | 2:05 |
 
-Snapshot ID: `AAAAAJ3TrI8zLQG1f8ATH22uqI/3cmbw`
+Snapshot ID: `AAAAABwmqgeNpIYyumrhrt5CBsRW4GXf`

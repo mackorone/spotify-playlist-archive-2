@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5月5日\(火祝\)\~6日\(水祝\)に開催される「KOBE MELLOW CRUISE」公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,672 likes - 409 songs - 20 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,674 likes - 409 songs - 20 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -418,4 +418,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 408 | [YOUNG LOVE](https://open.spotify.com/track/1vYtuFEKndk7v2vLwBjIqU) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [YOUNG LOVE](https://open.spotify.com/album/3UQrQO54FK4fFFbsEt36eF) | 3:00 |
 | 409 | [backseat \(feat\. Kvi Baba & tofubeats\)](https://open.spotify.com/track/0go6X7ko0YxM39gY5ospA0) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [backseat \(feat\. Kvi Baba & tofubeats\)](https://open.spotify.com/album/2DEpFdnyZHc2qALHeuXq5n) | 3:50 |
 
-Snapshot ID: `AAAAAPdaPxK0iW8KYTb9fDbWQMhA2Xzt`
+Snapshot ID: `AAAAAN+f9yPNGHSuIC6CCyd8kP6e3dSz`

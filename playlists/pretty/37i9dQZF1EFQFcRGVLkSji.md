@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411 likes - 186 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 186 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 79 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
 | 80 | [Bodies \(BNYX® Mix\) \[feat\. JID, Drowning Pool & BNYX®\)](https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 3:13 |
 | 81 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 |
-| 82 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
-| 83 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
+| 82 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
+| 83 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 84 | [Searching For You](https://open.spotify.com/track/0MeKrE8oRzZjUcxeofG0gg) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ML2](https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ) | 2:36 |
 | 85 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
 | 86 | [Celebrate Life](https://open.spotify.com/track/7oONzp6SJp9WcemNauVWW9) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Celebrate Life](https://open.spotify.com/album/0OxXoSTpr6ht78O9o216M3) | 3:19 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 103 | [Lovergirl](https://open.spotify.com/track/5u58jnNglxz5EeaDgb4K6v) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:32 |
 | 104 | [can't fight the devil](https://open.spotify.com/track/3ZXOE3r6EP8EqWz40uuyIr) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 3:29 |
 | 105 | [Mirroronnabenz \(with BNYX®\)](https://open.spotify.com/track/3ikj0rG6sX4GF5Ckv7wkFA) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:22 |
-| 106 | [only thing on my mind](https://open.spotify.com/track/6dY6ahXqNkLuiOfCUdse1K) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:42 |
-| 107 | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/1NAzcbuB9x6jSLDLXYxi1I) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 3:20 |
+| 106 | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/1NAzcbuB9x6jSLDLXYxi1I) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 3:20 |
+| 107 | [only thing on my mind](https://open.spotify.com/track/6dY6ahXqNkLuiOfCUdse1K) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:42 |
 | 108 | [Where You Been \(feat\. Len\)](https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Where You Been \(feat\. Len\)](https://open.spotify.com/album/3IHvjKxvKVbXLMzGNbmLa1) | 2:26 |
 | 109 | [Selfish](https://open.spotify.com/track/3AzHSTcdSGexQjV5Uu512n) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 3:18 |
 | 110 | [triflin'](https://open.spotify.com/track/5vO2tOLf3LiKQgReSLgnrB) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:49 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 185 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 186 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcajbAAAAABc2Tn4xKCZHUZhiIpSnmC4`
+Snapshot ID: `AcaqJAAAAABdvQqBFHtqBNnD8U30qmtV`

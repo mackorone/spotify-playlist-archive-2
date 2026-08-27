@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: STELLA LEFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,923 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,928 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 99 | [born to lose](https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [born to lose](https://open.spotify.com/album/4Zrqs3YaexpBNVQlErbyTA) | 3:14 |
 | 100 | [Love Like A Hobby](https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Love Like A Hobby](https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg) | 3:42 |
 
-Snapshot ID: `AAAAAHN4VzxwQfz9MZ1ZNusL2LIc36jq`
+Snapshot ID: `AAAAAOsMMYXMOA1iLHpjaYAHnv81Abff`

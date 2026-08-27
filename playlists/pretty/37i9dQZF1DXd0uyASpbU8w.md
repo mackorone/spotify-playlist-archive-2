@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 ### [New Music Friday South Africa](https://open.spotify.com/playlist/37i9dQZF1DXd0uyASpbU8w)
 
-> New music from New music from Manana, Cleo Sol, Victony, Jorja Smith and more.
+> New music from Manana, Cleo Sol, Victony, Jorja Smith and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,454 likes - 86 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,487 likes - 86 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 85 | [Centre of Peace](https://open.spotify.com/track/0eXpyRulLKEvTJybiU0nQu) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Centre of Peace](https://open.spotify.com/album/2WUEljT1AkJBw75JJrxoz5) | 3:39 |
 | 86 | [Tiffany](https://open.spotify.com/track/4TKTiYK7k2pEIJTfm5aFrI) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Heavn 777](https://open.spotify.com/artist/1hhI6UuvplpPWZoyjkArF2) | [Tiffany](https://open.spotify.com/album/7aFStcYhhlOtl01TNl64JR) | 2:46 |
 
-Snapshot ID: `AAAAAIEiLP6N8/hDUQ4ZgatMwg/iwsSc`
+Snapshot ID: `AAAAABQgI0AAXRa7AX6KOxSo6jGwwIAl`

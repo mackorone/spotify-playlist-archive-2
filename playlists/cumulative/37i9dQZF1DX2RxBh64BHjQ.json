@@ -34591,6 +34591,28 @@
     },
     {
       "album": {
+        "name": "PLEASURE TO MEET YOU",
+        "url": "https://open.spotify.com/album/4XqLQZQCGJea014jHi6lY0"
+      },
+      "artists": [
+        {
+          "name": "SMJ",
+          "url": "https://open.spotify.com/artist/4pDtAjA47T0lTKu97HfNfq"
+        },
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164756,
+      "name": "MY BLOCK (ft. PLUTO)",
+      "url": "https://open.spotify.com/track/1QTcxhshVabucxneUvTrXC"
+    },
+    {
+      "album": {
         "name": "UNLV",
         "url": "https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU"
       },

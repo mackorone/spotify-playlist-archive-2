@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,610 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,605 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 99 | [Born With A Broken Heart](https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marc Storace](https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM) | [Born With A Broken Heart](https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb) | 3:06 |
 | 100 | [Lost In You](https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Lost In You](https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb) | 2:02 |
 
-Snapshot ID: `AAAAAKr67iXZ2NccHGucDjRfv5Vkcopw`
+Snapshot ID: `AAAAAAT+cCY0M4Xno4TdprLOzEtWi7/l`

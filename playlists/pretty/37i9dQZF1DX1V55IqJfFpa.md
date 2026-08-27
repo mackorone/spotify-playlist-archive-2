@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida ✨ Karol G en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,856 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,927 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 | 99 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
 | 100 | [YA ESTUVO BUENO](https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [YA ESTUVO BUENO](https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg) | 2:53 |
 
-Snapshot ID: `AAAAAPJW7eBVmVJtu7nvJVzQxN9R79r6`
+Snapshot ID: `AAAAAD9tM3rbpfW9s9b3wvh5QY7tS6Ck`

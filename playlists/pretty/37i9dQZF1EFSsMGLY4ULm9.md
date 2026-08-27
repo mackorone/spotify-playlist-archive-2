@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 41 | [Preciso de Unção](https://open.spotify.com/track/3jy1fFJIxjvSZQjfpg8XA9) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 5:50 |
 | 42 | [Vai Moisés](https://open.spotify.com/track/5WY0NTRy5qyRwXuXGP6Xbb) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:40 |
 | 43 | [Deus Está no Controle](https://open.spotify.com/track/45IdtIJYQ9WWgSkJmPZmIG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:46 |
-| 44 | [Amado Mestre](https://open.spotify.com/track/5pCDo7g5UElDuzuHj8DyuF) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 2:58 |
-| 45 | [Descansa](https://open.spotify.com/track/6KOESp5FdvTjOax5VlutKk) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Descansa](https://open.spotify.com/album/0cfY695CUO0I6AdzaJmfVJ) | 6:22 |
-| 46 | [Chama Jesus pra Festa](https://open.spotify.com/track/2gsz9zGiRNGAbXPGL73iH0) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:07 |
+| 44 | [Chama Jesus pra Festa](https://open.spotify.com/track/2gsz9zGiRNGAbXPGL73iH0) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:07 |
+| 45 | [Amado Mestre](https://open.spotify.com/track/5pCDo7g5UElDuzuHj8DyuF) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 2:58 |
+| 46 | [Descansa](https://open.spotify.com/track/6KOESp5FdvTjOax5VlutKk) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Descansa](https://open.spotify.com/album/0cfY695CUO0I6AdzaJmfVJ) | 6:22 |
 | 47 | [Jerusalém](https://open.spotify.com/track/5UOYM3IUPFCgGGyETdFkeg) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:24 |
 | 48 | [Arrebatamento](https://open.spotify.com/track/0e0wRHTvtMhxErIerm1doV) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 6:29 |
 | 49 | [Milagre](https://open.spotify.com/track/4T0AOFnCjlDrsKwgmQWLPw) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 6:37 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Somente Cale\-Se](https://open.spotify.com/track/4wjF2G5MmaLN9rCqqwbjWy) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:20 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AcajbAAAAADSnJZFVLowtwKwCtGx5G2v`
+Snapshot ID: `AcaqJAAAAAByPNFYxHmAp1xNkUfs0MvG`

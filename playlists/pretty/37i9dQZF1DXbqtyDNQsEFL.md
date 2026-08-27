@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,754 likes - 80 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,805 likes - 80 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Walk With God](https://open.spotify.com/track/6BTaPFXJ1lhHsuj9mZ0WOX) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Walk With God](https://open.spotify.com/album/5AHCUzq7E6QfhuKsezRC51) | 3:22 |
 | 80 | [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 |
 
-Snapshot ID: `AAAAAB/Iri+k18YizbGQYLxiFE3Nxz+P`
+Snapshot ID: `AAAAAN4PO1FmVwhZdPcR/wZwJ5UO2xTn`

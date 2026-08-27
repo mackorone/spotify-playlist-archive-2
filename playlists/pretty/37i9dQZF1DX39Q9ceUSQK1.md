@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,856 likes - 105 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,859 likes - 105 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 104 | [5 YEAR PLAN](https://open.spotify.com/track/4jit6ooqU6veoMQ7L0exFW) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [5 YEAR PLAN](https://open.spotify.com/album/3OBUJYvFujaztYbD8PqJFQ) | 2:25 |
 | 105 | [Maintained Love](https://open.spotify.com/track/1ePjZbeDuE2UhK9cOGlzbL) | [Mauro Pawlowski](https://open.spotify.com/artist/2PkKZewLFg57QduOcj97NQ) | [Maintained Love](https://open.spotify.com/album/7eS4jH7Wv2KH03M6ts7spF) | 3:30 |
 
-Snapshot ID: `AAAAAJ0PramffgPQt8rDKVhYgtnT9o1r`
+Snapshot ID: `AAAAAC7xgHlbiE46A5EDOIygR2Xad+H/`

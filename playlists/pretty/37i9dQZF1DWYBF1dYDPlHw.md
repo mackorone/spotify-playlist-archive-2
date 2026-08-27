@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > The classics, the modern hits, the genre at it's best\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,838 likes - 300 songs - 18 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,935 likes - 300 songs - 18 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 299 | [Yam Yam](https://open.spotify.com/track/0cM751o5JLWKvlskFhAlo2) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/2O4QlFD9lD2BZJ8rawbb2L) | 3:36 |
 | 300 | [Paul](https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 3:03 |
 
-Snapshot ID: `AAAAABtEjYQEO90JP1rlXD178CFod15d`
+Snapshot ID: `AAAAAMV2Uoms4d0G83yDhl1dfC4nQdns`

@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 125337,
+  "num_followers": 125362,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHTkZW5xSVvKyNTXTE9jpChlCx/f",
+  "snapshot_id": "AAAAAA0Q9fyFFyc5I2A1fcWoRaDA4olg",
   "tracks": [
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Ready, Able",
+      "url": "https://open.spotify.com/track/5cf1ZfI16kHp3S1ySpQ36G"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 220917,
       "name": "Civilian",
       "url": "https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Yellow House",
-        "url": "https://open.spotify.com/album/6rVRNvNpzh0O2nSxFG7Ziz"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 314413,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/4BmtCb6sdMqECAItGmFDvU"
     }
   ],
   "unique_name": "00s Indie Folk",

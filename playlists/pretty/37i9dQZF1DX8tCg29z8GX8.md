@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,503 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,516 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Akua Broni](https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN) | [Moon Byni](https://open.spotify.com/artist/3qfpTiMILzhUEZWlQaM229), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Akua Broni](https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb) | 2:36 |
 | 80 | [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 |
 
-Snapshot ID: `AAAAAFXBDtAULP/4ASUDcIXXCBnjIup/`
+Snapshot ID: `AAAAAH25ZLUAk8YbX6HhbCw0JxFzVWMj`

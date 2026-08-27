@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,127 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,163 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 99 | [Jade Temple](https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [First Light Of Spring](https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH) | 2:20 |
 | 100 | [Rising Light](https://open.spotify.com/track/2SvVkBk3CzOle7MQqViMzV) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:14 |
 
-Snapshot ID: `AAAAAPDxalfG1Bol1xOQYHPyCbkap1bF`
+Snapshot ID: `AAAAAM6kP1RDu0LN3cp18l6H0YbfSeOq`

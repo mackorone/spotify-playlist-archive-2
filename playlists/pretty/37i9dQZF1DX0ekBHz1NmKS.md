@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,001 likes - 109 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,999 likes - 109 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 108 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
 | 109 | [Satan var en ängel](https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Satan var en ängel](https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t) | 2:58 |
 
-Snapshot ID: `AAAAAHQg5T32NNq+dn0FTFFW/dr26F64`
+Snapshot ID: `AAAAAIoHu6xbgkHftcvUY9aB3Y9PZIdX`

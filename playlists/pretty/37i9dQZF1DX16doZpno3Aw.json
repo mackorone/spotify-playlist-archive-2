@@ -1,31 +1,15 @@
 {
   "description": "all the best instrumentals & sounds from the internet  \u223c \ud83e\udec0",
-  "num_followers": 109921,
+  "num_followers": 110231,
   "original_name": "trending moods (no lyrics)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAFe9PsyxUZOXdN1AhDIlyouKlNT",
+  "snapshot_id": "AAAAAHp324B5KdNGgw7yhBDj5qVYmqiX",
   "tracks": [
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/6MgysPzNhSQlDl91cWqbw8"
-      },
-      "artists": [
-        {
-          "name": "Duomo",
-          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "On a Mission",
-      "url": "https://open.spotify.com/track/7JRdTSDQeAe7UGRmBAln24"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "do i clench my fists? (slowed + reverb)",
         "url": "https://open.spotify.com/album/4h6DDGxjNKQzZqbJP1YPzG"
@@ -41,59 +25,7 @@
       "url": "https://open.spotify.com/track/3ycsREUFKVaITePsyBGJ2L"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Obsession (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
-      },
-      "artists": [
-        {
-          "name": "Rock Burwell",
-          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
-        }
-      ],
-      "duration_ms": 138610,
-      "name": "Love is in the Air, Pt. 2",
-      "url": "https://open.spotify.com/track/7x9t38yZB45MfvV1JkDzxh"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "As Time Flies (Special Version)",
-        "url": "https://open.spotify.com/album/6Cvxse8WxU9CaOnC4R9eQR"
-      },
-      "artists": [
-        {
-          "name": "Ty's Music",
-          "url": "https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "As Time Flies - Special Version",
-      "url": "https://open.spotify.com/track/54exqUrspFH5VHHE5ng8G2"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Calamitous",
-        "url": "https://open.spotify.com/album/6KMT6iRlaTj9DF9kqnbyEn"
-      },
-      "artists": [
-        {
-          "name": "Andy Zelaya",
-          "url": "https://open.spotify.com/artist/1iFr5RSJimc3xMn7haNSf9"
-        },
-        {
-          "name": "ANDY",
-          "url": "https://open.spotify.com/artist/1zXvyx9aV1OhFRFCpvpqWe"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "Calamitous",
-      "url": "https://open.spotify.com/track/0HsFU1aDbURKvhh7JpAeTw"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "7 Weeks 3 Days (Luigi Version)",
         "url": "https://open.spotify.com/album/5BVnaESYYg173fU6wjxHyV"
@@ -109,7 +41,55 @@
       "url": "https://open.spotify.com/track/0DZhMSnPpyjc8OZXK8y8YB"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/6MgysPzNhSQlDl91cWqbw8"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "On a Mission",
+      "url": "https://open.spotify.com/track/7JRdTSDQeAe7UGRmBAln24"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "As Time Flies (Special Version)",
+        "url": "https://open.spotify.com/album/6Cvxse8WxU9CaOnC4R9eQR"
+      },
+      "artists": [
+        {
+          "name": "Ty's Music",
+          "url": "https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "As Time Flies - Special Version",
+      "url": "https://open.spotify.com/track/54exqUrspFH5VHHE5ng8G2"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Obsession (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
+      },
+      "artists": [
+        {
+          "name": "Rock Burwell",
+          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
+        }
+      ],
+      "duration_ms": 138610,
+      "name": "Love is in the Air, Pt. 2",
+      "url": "https://open.spotify.com/track/7x9t38yZB45MfvV1JkDzxh"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Je te laisserai des mots (Piano)",
         "url": "https://open.spotify.com/album/5c7fPel6XcJpiaMOg11aFS"
@@ -125,39 +105,23 @@
       "url": "https://open.spotify.com/track/2GxYPCRTP6J9d4j6u4jvtd"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "Minari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
+        "name": "biting bullets",
+        "url": "https://open.spotify.com/album/2s0E97PJAsApNJuDHwoXCP"
       },
       "artists": [
         {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
         }
       ],
-      "duration_ms": 98560,
-      "name": "Jacob and the Stone",
-      "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
+      "duration_ms": 149538,
+      "name": "biting bullets",
+      "url": "https://open.spotify.com/track/4hYS8vHVaCOK2TCIswCWHX"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "The Odyssey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 159258,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Le Carrousel",
         "url": "https://open.spotify.com/album/06Wctde7XvxhijJKZ2EdsX"
@@ -173,7 +137,39 @@
       "url": "https://open.spotify.com/track/3ymiJSBhhDQd5qa3ULJT2H"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Minari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 98560,
+      "name": "Jacob and the Stone",
+      "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "The Odyssey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 159258,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Champagne Coast (Piano)",
         "url": "https://open.spotify.com/album/08ygSSxmnk1TaU28lOAz29"
@@ -189,55 +185,7 @@
       "url": "https://open.spotify.com/track/1Ysj4X2y81kk74q0OMU98Q"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 497000,
-      "name": "Dreiton",
-      "url": "https://open.spotify.com/track/79tsuz5Op5KSX58nST1BZT"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Sand Drawing",
-        "url": "https://open.spotify.com/album/7BxU0R7qJHdYqJEZQNPFfv"
-      },
-      "artists": [
-        {
-          "name": "Judah Earl",
-          "url": "https://open.spotify.com/artist/0lpe8GmqY2RVE54SdQRPmj"
-        }
-      ],
-      "duration_ms": 208851,
-      "name": "Sand Drawing",
-      "url": "https://open.spotify.com/track/0dRGmxDJZ0zcQ8w7ak2IO2"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "An empty bliss beyond this World",
-        "url": "https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG"
-      },
-      "artists": [
-        {
-          "name": "The Caretaker",
-          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
-        }
-      ],
-      "duration_ms": 285510,
-      "name": "Camaraderie at arms length",
-      "url": "https://open.spotify.com/track/3GspPTCvxLffApefWWhRFh"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Entremont Plays Satie",
         "url": "https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf"
@@ -257,95 +205,59 @@
       "url": "https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "biting bullets",
-        "url": "https://open.spotify.com/album/2s0E97PJAsApNJuDHwoXCP"
+        "name": "Calamitous",
+        "url": "https://open.spotify.com/album/6KMT6iRlaTj9DF9kqnbyEn"
       },
       "artists": [
         {
-          "name": "ridgeclub",
-          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "biting bullets",
-      "url": "https://open.spotify.com/track/4hYS8vHVaCOK2TCIswCWHX"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Hamnet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "name": "Andy Zelaya",
+          "url": "https://open.spotify.com/artist/1iFr5RSJimc3xMn7haNSf9"
         },
         {
-          "name": "Lorenz Dangel",
-          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
+          "name": "ANDY",
+          "url": "https://open.spotify.com/artist/1zXvyx9aV1OhFRFCpvpqWe"
         }
       ],
-      "duration_ms": 396672,
-      "name": "Richter: On the Nature of Daylight",
-      "url": "https://open.spotify.com/track/4qRsmiPUydTKAhD6qkkacl"
+      "duration_ms": 144230,
+      "name": "Calamitous",
+      "url": "https://open.spotify.com/track/0HsFU1aDbURKvhh7JpAeTw"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "City in the Sky (Piano Works)",
-        "url": "https://open.spotify.com/album/2oBlgXY7ZiXkqGzHHEReLO"
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
       },
       "artists": [
         {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         }
       ],
-      "duration_ms": 126226,
-      "name": "Greenpoint",
-      "url": "https://open.spotify.com/track/5MXTc01uCrzj6p6NbNwXUy"
+      "duration_ms": 497000,
+      "name": "Dreiton",
+      "url": "https://open.spotify.com/track/79tsuz5Op5KSX58nST1BZT"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "Her (Original Score)",
-        "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
+        "name": "An empty bliss beyond this World",
+        "url": "https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        },
-        {
-          "name": "Owen Pallett",
-          "url": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
         }
       ],
-      "duration_ms": 339444,
-      "name": "Dimensions",
-      "url": "https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU"
+      "duration_ms": 285510,
+      "name": "Camaraderie at arms length",
+      "url": "https://open.spotify.com/track/3GspPTCvxLffApefWWhRFh"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "If Beale Street Could Talk (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
-        }
-      ],
-      "duration_ms": 175752,
-      "name": "Agape",
-      "url": "https://open.spotify.com/track/2IvnDjlgH8yy70Nz99UdcJ"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "do i clench my fists?",
         "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
@@ -361,39 +273,23 @@
       "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+        "name": "Sand Drawing",
+        "url": "https://open.spotify.com/album/7BxU0R7qJHdYqJEZQNPFfv"
       },
       "artists": [
         {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Judah Earl",
+          "url": "https://open.spotify.com/artist/0lpe8GmqY2RVE54SdQRPmj"
         }
       ],
-      "duration_ms": 126959,
-      "name": "Cornfield Chase",
-      "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
+      "duration_ms": 208851,
+      "name": "Sand Drawing",
+      "url": "https://open.spotify.com/track/0dRGmxDJZ0zcQ8w7ak2IO2"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Phantom Thread (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz"
-      },
-      "artists": [
-        {
-          "name": "Jonny Greenwood",
-          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
-        }
-      ],
-      "duration_ms": 233426,
-      "name": "House of Woodcock",
-      "url": "https://open.spotify.com/track/6FZDedaCzYhO4sdG3VYcHZ"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "ominous",
         "url": "https://open.spotify.com/album/0iGffj1siVv2ZbnZsyuIYR"
@@ -409,59 +305,7 @@
       "url": "https://open.spotify.com/track/6R7ybPeMoS4zlwsUB00vxs"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "time to rest",
-        "url": "https://open.spotify.com/album/0TF2hYCzWxHgf0TgZ5rRJt"
-      },
-      "artists": [
-        {
-          "name": "limly",
-          "url": "https://open.spotify.com/artist/1lv5lu5VRmHIsFz006l5rF"
-        },
-        {
-          "name": "forlorn",
-          "url": "https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT"
-        }
-      ],
-      "duration_ms": 79554,
-      "name": "time to rest",
-      "url": "https://open.spotify.com/track/5YbEnRkLyGapuLoKMeu26z"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
-        "url": "https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom"
-      },
-      "artists": [
-        {
-          "name": "kensuke ushio",
-          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
-        }
-      ],
-      "duration_ms": 245440,
-      "name": "in the pool",
-      "url": "https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Isolated",
-        "url": "https://open.spotify.com/album/3OfE5QTsnZHkByfuqFAyvC"
-      },
-      "artists": [
-        {
-          "name": "Unjaps",
-          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
-        }
-      ],
-      "duration_ms": 198391,
-      "name": "Fika",
-      "url": "https://open.spotify.com/track/3sG05Cd5RFDAvJaFteFL7n"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Little Miss Sunshine (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0HYwlr4Y6ZSIV4gvHw4xX8"
@@ -481,139 +325,7 @@
       "url": "https://open.spotify.com/track/7wFEzF8FbofVlQS1OcbghM"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "R e f l e c t i o n s",
-        "url": "https://open.spotify.com/album/6nTH9YONTOx1tuJEHA25mg"
-      },
-      "artists": [
-        {
-          "name": "Pianza",
-          "url": "https://open.spotify.com/artist/2ioaxhHZKJJtmcsF68KQT5"
-        }
-      ],
-      "duration_ms": 123853,
-      "name": "Illumoria",
-      "url": "https://open.spotify.com/track/18GnNPA94YVgaDdrIVriSP"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Aria Math",
-      "url": "https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "stellar",
-        "url": "https://open.spotify.com/album/4gF0aKdd26DsLMbDcLdJdc"
-      },
-      "artists": [
-        {
-          "name": ".diedlonely",
-          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
-        },
-        {
-          "name": "\u00e9nouement",
-          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
-        }
-      ],
-      "duration_ms": 99672,
-      "name": "stellar",
-      "url": "https://open.spotify.com/track/2PpYJcgJN6PzozUv7rU669"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "voices",
-        "url": "https://open.spotify.com/album/5qmJgWB6S4zNAWwVooqyq3"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        }
-      ],
-      "duration_ms": 106516,
-      "name": "voices",
-      "url": "https://open.spotify.com/track/71qrXKkHljj9i8QbsE9M6J"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Floating in Reverie",
-        "url": "https://open.spotify.com/album/0FOgUfITLFpQxfUuVNLTUe"
-      },
-      "artists": [
-        {
-          "name": "Moayad Aljabal",
-          "url": "https://open.spotify.com/artist/2yIj6bZPIqv5WIYjD5vWZm"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Floating in Reverie",
-      "url": "https://open.spotify.com/track/1JEhrWj7TIUsD5ZKA2kEXf"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "realization",
-        "url": "https://open.spotify.com/album/2eBLdxZ1gqIeEKaTvYLVEY"
-      },
-      "artists": [
-        {
-          "name": "FutureVille",
-          "url": "https://open.spotify.com/artist/5YYDG8J9TC7S9FHyy9qgSE"
-        }
-      ],
-      "duration_ms": 101298,
-      "name": "realization",
-      "url": "https://open.spotify.com/track/6Yljajw6qVxucQqi1hBobm"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "distant",
-        "url": "https://open.spotify.com/album/72rfSrZ4gCXchPXYtQDN9q"
-      },
-      "artists": [
-        {
-          "name": "old days",
-          "url": "https://open.spotify.com/artist/4ifLIY3SVcg79NRcRel35D"
-        }
-      ],
-      "duration_ms": 250286,
-      "name": "this feeling wont go away",
-      "url": "https://open.spotify.com/track/7ciU7paaTciHYO5jNVbH9u"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Killswitch Melodies",
-        "url": "https://open.spotify.com/album/1qeIKM4E2eLToXvOzW2civ"
-      },
-      "artists": [
-        {
-          "name": "Flawed Mangoes",
-          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "childhood",
         "url": "https://open.spotify.com/album/3n3DgKUDa2UqJlLzMOQMXj"
@@ -633,63 +345,131 @@
       "url": "https://open.spotify.com/track/06dDLXf4gPbE02gvH8E6G9"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "fading light",
-        "url": "https://open.spotify.com/album/50w5oI5maaQk22PI4IxGPi"
+        "name": "Hamnet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn"
       },
       "artists": [
         {
-          "name": "friendly to crows",
-          "url": "https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         },
         {
-          "name": "LochHaven",
-          "url": "https://open.spotify.com/artist/5u9yfFjiKlQJft9MBAcRcr"
+          "name": "Lorenz Dangel",
+          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
         }
       ],
-      "duration_ms": 190171,
-      "name": "fading light",
-      "url": "https://open.spotify.com/track/5bIID8kUOUO2ByvBXSU9sD"
+      "duration_ms": 396672,
+      "name": "Richter: On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/4qRsmiPUydTKAhD6qkkacl"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "Piano for Reels",
-        "url": "https://open.spotify.com/album/2DimA4FGM0mjtDq3ZkoMw5"
+        "name": "City in the Sky (Piano Works)",
+        "url": "https://open.spotify.com/album/2oBlgXY7ZiXkqGzHHEReLO"
       },
       "artists": [
         {
-          "name": "Matti Paalanen",
-          "url": "https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1"
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Greenpoint",
+      "url": "https://open.spotify.com/track/5MXTc01uCrzj6p6NbNwXUy"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Her (Original Score)",
+        "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         },
         {
-          "name": "Frozen Silence",
-          "url": "https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir"
+          "name": "Owen Pallett",
+          "url": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
         }
       ],
-      "duration_ms": 72974,
-      "name": "New Home",
-      "url": "https://open.spotify.com/track/4YU1TYJM667l0wfKsa5zwN"
+      "duration_ms": 339444,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "take a moment to breathe.",
-        "url": "https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3"
+        "name": "If Beale Street Could Talk (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT"
       },
       "artists": [
         {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
         }
       ],
-      "duration_ms": 218181,
-      "name": "take a moment to breathe. - Instrumental",
-      "url": "https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1"
+      "duration_ms": 175752,
+      "name": "Agape",
+      "url": "https://open.spotify.com/track/2IvnDjlgH8yy70Nz99UdcJ"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "stellar",
+        "url": "https://open.spotify.com/album/4gF0aKdd26DsLMbDcLdJdc"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 99672,
+      "name": "stellar",
+      "url": "https://open.spotify.com/track/2PpYJcgJN6PzozUv7rU669"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 126959,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Floating in Reverie",
+        "url": "https://open.spotify.com/album/0FOgUfITLFpQxfUuVNLTUe"
+      },
+      "artists": [
+        {
+          "name": "Moayad Aljabal",
+          "url": "https://open.spotify.com/artist/2yIj6bZPIqv5WIYjD5vWZm"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Floating in Reverie",
+      "url": "https://open.spotify.com/track/1JEhrWj7TIUsD5ZKA2kEXf"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Minecraft - Volume Alpha",
         "url": "https://open.spotify.com/album/1TtdtRpeNYliHviOnhWdL7"
@@ -705,135 +485,7 @@
       "url": "https://open.spotify.com/track/1gXIOLjnh36fww7bdZ1NhK"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Soundtrack From Twin Peaks",
-        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
-      },
-      "artists": [
-        {
-          "name": "Angelo Badalamenti",
-          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Laura Palmer's Theme - Instrumental",
-      "url": "https://open.spotify.com/track/7Bk3p8UqcP4sItaWNWbvXL"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Comfort Chain",
-        "url": "https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Comfort Chain",
-      "url": "https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "think of me once in a while",
-        "url": "https://open.spotify.com/album/4qVYPLVB6o61y8yqe1cR3y"
-      },
-      "artists": [
-        {
-          "name": "blaze",
-          "url": "https://open.spotify.com/artist/2oAA82tTG4ftdzpmup4i3U"
-        }
-      ],
-      "duration_ms": 145599,
-      "name": "think of me once in a while",
-      "url": "https://open.spotify.com/track/3H4xAmr3Q1by42ZluX5Lmx"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Last Hope (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/6FN2La4RJ7CZA3sPreMsXZ"
-      },
-      "artists": [
-        {
-          "name": "Steve Ralph",
-          "url": "https://open.spotify.com/artist/1egL6BVtNhsJNfFdDTnS6D"
-        }
-      ],
-      "duration_ms": 382788,
-      "name": "Last Hope - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/0efflQXsWkEBFwLYad3i4q"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 180601,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "sea of cloud",
-      "url": "https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Moog City 2",
-      "url": "https://open.spotify.com/track/1kKaRzjW8OiGLriIdpXHT1"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/0tdi4b0MZ7cMSLVxST3f14"
@@ -849,23 +501,7 @@
       "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5u2vOSftv32iQpSZvP6ugV"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "aquatic ambience",
         "url": "https://open.spotify.com/album/37TyoGJBPVUWVCILvLQ3rj"
@@ -881,58 +517,10 @@
       "url": "https://open.spotify.com/track/1AeAJE0BNsq9jyssQDsUZ9"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1krNkv0uKQurE8XTC8sYTs"
-      },
-      "artists": [
-        {
-          "name": "Yehezkel Raz",
-          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
-        }
-      ],
-      "duration_ms": 223896,
-      "name": "Forest Overture",
-      "url": "https://open.spotify.com/track/6sD702PxmqKRKixCbnB4VB"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Aesthetic",
-        "url": "https://open.spotify.com/album/6Ht2SW8Qjd2weRZqJc06YD"
-      },
-      "artists": [
-        {
-          "name": "Tollan Kim",
-          "url": "https://open.spotify.com/artist/78OVjYbRWhttVbxublN6GC"
-        }
-      ],
-      "duration_ms": 134002,
-      "name": "Aesthetic",
-      "url": "https://open.spotify.com/track/5ncErj7HWEU2LfGrtw7Jb0"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Classical Current",
-        "url": "https://open.spotify.com/album/2KZIJx4RtZ1seAa6pa6ugl"
-      },
-      "artists": [
-        {
-          "name": "Laurindo Almeida",
-          "url": "https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk"
-        }
-      ],
-      "duration_ms": 170790,
-      "name": "The Lamp Is Low",
-      "url": "https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
+        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
       },
       "artists": [
         {
@@ -940,12 +528,176 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         }
       ],
-      "duration_ms": 239379,
-      "name": "Warmth",
-      "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
+      "duration_ms": 310000,
+      "name": "Aria Math",
+      "url": "https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Killswitch Melodies",
+        "url": "https://open.spotify.com/album/1qeIKM4E2eLToXvOzW2civ"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "take a moment to breathe.",
+        "url": "https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "take a moment to breathe. - Instrumental",
+      "url": "https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "time to rest",
+        "url": "https://open.spotify.com/album/0TF2hYCzWxHgf0TgZ5rRJt"
+      },
+      "artists": [
+        {
+          "name": "limly",
+          "url": "https://open.spotify.com/artist/1lv5lu5VRmHIsFz006l5rF"
+        },
+        {
+          "name": "forlorn",
+          "url": "https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT"
+        }
+      ],
+      "duration_ms": 79554,
+      "name": "time to rest",
+      "url": "https://open.spotify.com/track/5YbEnRkLyGapuLoKMeu26z"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
+        "url": "https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom"
+      },
+      "artists": [
+        {
+          "name": "kensuke ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "in the pool",
+      "url": "https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Isolated",
+        "url": "https://open.spotify.com/album/3OfE5QTsnZHkByfuqFAyvC"
+      },
+      "artists": [
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "duration_ms": 198391,
+      "name": "Fika",
+      "url": "https://open.spotify.com/track/3sG05Cd5RFDAvJaFteFL7n"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "R e f l e c t i o n s",
+        "url": "https://open.spotify.com/album/6nTH9YONTOx1tuJEHA25mg"
+      },
+      "artists": [
+        {
+          "name": "Pianza",
+          "url": "https://open.spotify.com/artist/2ioaxhHZKJJtmcsF68KQT5"
+        }
+      ],
+      "duration_ms": 123853,
+      "name": "Illumoria",
+      "url": "https://open.spotify.com/track/18GnNPA94YVgaDdrIVriSP"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "distant",
+        "url": "https://open.spotify.com/album/72rfSrZ4gCXchPXYtQDN9q"
+      },
+      "artists": [
+        {
+          "name": "old days",
+          "url": "https://open.spotify.com/artist/4ifLIY3SVcg79NRcRel35D"
+        }
+      ],
+      "duration_ms": 250286,
+      "name": "this feeling wont go away",
+      "url": "https://open.spotify.com/track/7ciU7paaTciHYO5jNVbH9u"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Soundtrack From Twin Peaks",
+        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
+      },
+      "artists": [
+        {
+          "name": "Angelo Badalamenti",
+          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Laura Palmer's Theme - Instrumental",
+      "url": "https://open.spotify.com/track/7Bk3p8UqcP4sItaWNWbvXL"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Comfort Chain",
+        "url": "https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "Comfort Chain",
+      "url": "https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Moog City 2",
+      "url": "https://open.spotify.com/track/1kKaRzjW8OiGLriIdpXHT1"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "La le\u00e7on particuli\u00e8re (Bande originale du film)",
         "url": "https://open.spotify.com/album/32M1p9HlFFpF1TiiPbmakn"
@@ -965,103 +717,175 @@
       "url": "https://open.spotify.com/track/2oYnUjl0HT8lwWPnO6nwL3"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "Heading Home",
-        "url": "https://open.spotify.com/album/1BsteyTfWQCCdCgmqvGUNN"
+        "name": "Phantom Thread (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz"
       },
       "artists": [
         {
-          "name": "Ajmw",
-          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5raJ06cT4FHjR56o3dSE5y"
+      "duration_ms": 233426,
+      "name": "House of Woodcock",
+      "url": "https://open.spotify.com/track/6FZDedaCzYhO4sdG3VYcHZ"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "Piano Collection, Vol. 8",
-        "url": "https://open.spotify.com/album/4bQXs1hY3dGcXyjfcqTsjO"
+        "name": "voices",
+        "url": "https://open.spotify.com/album/5qmJgWB6S4zNAWwVooqyq3"
       },
       "artists": [
         {
-          "name": "Riyandi Kusuma",
-          "url": "https://open.spotify.com/artist/2mopkIQxw9oLxUUUd0DdxK"
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         }
       ],
-      "duration_ms": 179812,
-      "name": "Slipping Through My Fingers (Piano Version)",
-      "url": "https://open.spotify.com/track/2RA7KrBfDr9Iynnr4NgZ0x"
+      "duration_ms": 106516,
+      "name": "voices",
+      "url": "https://open.spotify.com/track/71qrXKkHljj9i8QbsE9M6J"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "dark snowy night",
-        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
+        "name": "realization",
+        "url": "https://open.spotify.com/album/2eBLdxZ1gqIeEKaTvYLVEY"
       },
       "artists": [
         {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+          "name": "FutureVille",
+          "url": "https://open.spotify.com/artist/5YYDG8J9TC7S9FHyy9qgSE"
         }
       ],
-      "duration_ms": 211091,
-      "name": "dark snowy night - Slowed & Reverb Version",
-      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
+      "duration_ms": 101298,
+      "name": "realization",
+      "url": "https://open.spotify.com/track/6Yljajw6qVxucQqi1hBobm"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "A Simple Life",
-        "url": "https://open.spotify.com/album/0cO8UtN4pAJ3PYZ1hDjReB"
+        "name": "fading light",
+        "url": "https://open.spotify.com/album/50w5oI5maaQk22PI4IxGPi"
       },
       "artists": [
         {
-          "name": "Morunas",
-          "url": "https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4"
+          "name": "friendly to crows",
+          "url": "https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR"
+        },
+        {
+          "name": "LochHaven",
+          "url": "https://open.spotify.com/artist/5u9yfFjiKlQJft9MBAcRcr"
         }
       ],
-      "duration_ms": 132376,
-      "name": "A Simple Life",
-      "url": "https://open.spotify.com/track/4ACrO5fdxKQc33NSJff6HQ"
+      "duration_ms": 190171,
+      "name": "fading light",
+      "url": "https://open.spotify.com/track/5bIID8kUOUO2ByvBXSU9sD"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "bipolar",
-        "url": "https://open.spotify.com/album/5MOmkgxIJLtmoapI60uK6A"
+        "name": "Piano for Reels",
+        "url": "https://open.spotify.com/album/2DimA4FGM0mjtDq3ZkoMw5"
       },
       "artists": [
         {
-          "name": ".diedlonely",
-          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+          "name": "Matti Paalanen",
+          "url": "https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1"
+        },
+        {
+          "name": "Frozen Silence",
+          "url": "https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir"
         }
       ],
-      "duration_ms": 132418,
-      "name": "bipolar",
-      "url": "https://open.spotify.com/track/1uvn7eP1I7mIKGvpsqDcoW"
+      "duration_ms": 72974,
+      "name": "New Home",
+      "url": "https://open.spotify.com/track/4YU1TYJM667l0wfKsa5zwN"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "American Beauty (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW"
+        "name": "think of me once in a while",
+        "url": "https://open.spotify.com/album/4qVYPLVB6o61y8yqe1cR3y"
       },
       "artists": [
         {
-          "name": "Thomas Newman",
-          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+          "name": "blaze",
+          "url": "https://open.spotify.com/artist/2oAA82tTG4ftdzpmup4i3U"
         }
       ],
-      "duration_ms": 186066,
-      "name": "American Beauty",
-      "url": "https://open.spotify.com/track/6XJGpirOP4Bgurcvkdanxb"
+      "duration_ms": 145599,
+      "name": "think of me once in a while",
+      "url": "https://open.spotify.com/track/3H4xAmr3Q1by42ZluX5Lmx"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 180601,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Aesthetic",
+        "url": "https://open.spotify.com/album/6Ht2SW8Qjd2weRZqJc06YD"
+      },
+      "artists": [
+        {
+          "name": "Tollan Kim",
+          "url": "https://open.spotify.com/artist/78OVjYbRWhttVbxublN6GC"
+        }
+      ],
+      "duration_ms": 134002,
+      "name": "Aesthetic",
+      "url": "https://open.spotify.com/track/5ncErj7HWEU2LfGrtw7Jb0"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Classical Current",
+        "url": "https://open.spotify.com/album/2KZIJx4RtZ1seAa6pa6ugl"
+      },
+      "artists": [
+        {
+          "name": "Laurindo Almeida",
+          "url": "https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk"
+        }
+      ],
+      "duration_ms": 170790,
+      "name": "The Lamp Is Low",
+      "url": "https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "sea of cloud",
+      "url": "https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/1DVWpe2CV0QdnOrFqOziSp"
@@ -1077,23 +901,7 @@
       "url": "https://open.spotify.com/track/1MmKRdb12alkIJohsvo8Bv"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "blissful lights",
-        "url": "https://open.spotify.com/album/5EFUZH645jTkFCK7iXafag"
-      },
-      "artists": [
-        {
-          "name": "voi",
-          "url": "https://open.spotify.com/artist/2YxAYKXFoY3SQvuJsWy1bb"
-        }
-      ],
-      "duration_ms": 151456,
-      "name": "blissful lights",
-      "url": "https://open.spotify.com/track/5XATagtnWgdR6bF23g5sWm"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Bewitched: The Goddess Edition (Instrumentals)",
         "url": "https://open.spotify.com/album/5bRPxR3NZHjk1WXUUt6YJx"
@@ -1109,39 +917,215 @@
       "url": "https://open.spotify.com/track/6IJNYjoGrg5ceeidkNPLVF"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "win again",
-        "url": "https://open.spotify.com/album/2tmVAOSxmayqTV7eH4PPzS"
+        "name": "Chandelier (Instrumental Version)",
+        "url": "https://open.spotify.com/album/2YbtxC0EEfKtYNURsYhzaA"
       },
       "artists": [
         {
-          "name": "trucky",
-          "url": "https://open.spotify.com/artist/6MdPiR4YieX09GxNj0Qmzs"
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
         }
       ],
-      "duration_ms": 79490,
-      "name": "win again - slowed",
-      "url": "https://open.spotify.com/track/563gRYJw690PiQJXgFdzrc"
+      "duration_ms": 128000,
+      "name": "Chandelier (Instrumental Version)",
+      "url": "https://open.spotify.com/track/7wzKnw2xHUe5FLrW5d8Dt8"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "The Beginning (Acoustic)",
-        "url": "https://open.spotify.com/album/2T0FWElswJ0Dk5XZsLztje"
+        "name": "losing",
+        "url": "https://open.spotify.com/album/5bZkGpktLdXvM7MnFf37qh"
       },
       "artists": [
         {
-          "name": "Flawed Mangoes",
-          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+          "name": "Lonnex",
+          "url": "https://open.spotify.com/artist/0IM0lwjzI0BYaayMweraKT"
         }
       ],
-      "duration_ms": 197872,
-      "name": "The Beginning (Acoustic)",
-      "url": "https://open.spotify.com/track/2dtCRMpV2cbgU47h9b4sgT"
+      "duration_ms": 358918,
+      "name": "losing",
+      "url": "https://open.spotify.com/track/3HwXUvdZXDxmvABSsxhGmO"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/1YBMST0ZXdYD5nzpcx2J1H"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berenguer",
+          "url": "https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv"
+        }
+      ],
+      "duration_ms": 140636,
+      "name": "Little Things - Piano Version",
+      "url": "https://open.spotify.com/track/6v1vC3Lra8jFot8Mz9FzIf"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Beautiful Piano",
+        "url": "https://open.spotify.com/album/6dAc6FuIJQ8yDdOMJ59EzI"
+      },
+      "artists": [
+        {
+          "name": "Frozen Silence",
+          "url": "https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir"
+        }
+      ],
+      "duration_ms": 174265,
+      "name": "Howl's Moving Castle Theme: Merry-Go-Round of Life - Piano",
+      "url": "https://open.spotify.com/track/654SYGLmDiB3Rk8QfvpAIq"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "golden hour (Orchestral Version)",
+        "url": "https://open.spotify.com/album/2AYh5fLMxNGcmSB1rANFfJ"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "golden hour - Orchestral Version) (Instrumental",
+      "url": "https://open.spotify.com/track/4gLtQPqNB58yqdVCRyPpZ4"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Last Hope (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6FN2La4RJ7CZA3sPreMsXZ"
+      },
+      "artists": [
+        {
+          "name": "Steve Ralph",
+          "url": "https://open.spotify.com/artist/1egL6BVtNhsJNfFdDTnS6D"
+        }
+      ],
+      "duration_ms": 382788,
+      "name": "Last Hope - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/0efflQXsWkEBFwLYad3i4q"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 146493,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5u2vOSftv32iQpSZvP6ugV"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Heading Home",
+        "url": "https://open.spotify.com/album/1BsteyTfWQCCdCgmqvGUNN"
+      },
+      "artists": [
+        {
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5raJ06cT4FHjR56o3dSE5y"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Piano Collection, Vol. 8",
+        "url": "https://open.spotify.com/album/4bQXs1hY3dGcXyjfcqTsjO"
+      },
+      "artists": [
+        {
+          "name": "Riyandi Kusuma",
+          "url": "https://open.spotify.com/artist/2mopkIQxw9oLxUUUd0DdxK"
+        }
+      ],
+      "duration_ms": 179812,
+      "name": "Slipping Through My Fingers (Piano Version)",
+      "url": "https://open.spotify.com/track/2RA7KrBfDr9Iynnr4NgZ0x"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "A Simple Life",
+        "url": "https://open.spotify.com/album/0cO8UtN4pAJ3PYZ1hDjReB"
+      },
+      "artists": [
+        {
+          "name": "Morunas",
+          "url": "https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4"
+        }
+      ],
+      "duration_ms": 132376,
+      "name": "A Simple Life",
+      "url": "https://open.spotify.com/track/4ACrO5fdxKQc33NSJff6HQ"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "American Beauty (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "American Beauty",
+      "url": "https://open.spotify.com/track/6XJGpirOP4Bgurcvkdanxb"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "blissful lights",
+        "url": "https://open.spotify.com/album/5EFUZH645jTkFCK7iXafag"
+      },
+      "artists": [
+        {
+          "name": "voi",
+          "url": "https://open.spotify.com/artist/2YxAYKXFoY3SQvuJsWy1bb"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "blissful lights",
+      "url": "https://open.spotify.com/track/5XATagtnWgdR6bF23g5sWm"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Tchaikovsky: Swan Lake",
         "url": "https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO"
@@ -1165,7 +1149,7 @@
       "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Windswept Adan",
         "url": "https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB"
@@ -1181,87 +1165,23 @@
       "url": "https://open.spotify.com/track/3jB3vzH1WG6aiUiiLLGvly"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "Chandelier (Instrumental Version)",
-        "url": "https://open.spotify.com/album/2YbtxC0EEfKtYNURsYhzaA"
+        "name": "win again",
+        "url": "https://open.spotify.com/album/2tmVAOSxmayqTV7eH4PPzS"
       },
       "artists": [
         {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+          "name": "trucky",
+          "url": "https://open.spotify.com/artist/6MdPiR4YieX09GxNj0Qmzs"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Chandelier (Instrumental Version)",
-      "url": "https://open.spotify.com/track/7wzKnw2xHUe5FLrW5d8Dt8"
+      "duration_ms": 79490,
+      "name": "win again - slowed",
+      "url": "https://open.spotify.com/track/563gRYJw690PiQJXgFdzrc"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Romantic Piano",
-        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 94946,
-      "name": "Hinoki Wood",
-      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "losing",
-        "url": "https://open.spotify.com/album/5bZkGpktLdXvM7MnFf37qh"
-      },
-      "artists": [
-        {
-          "name": "Lonnex",
-          "url": "https://open.spotify.com/artist/0IM0lwjzI0BYaayMweraKT"
-        }
-      ],
-      "duration_ms": 358918,
-      "name": "losing",
-      "url": "https://open.spotify.com/track/3HwXUvdZXDxmvABSsxhGmO"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "A Day in My Life",
-        "url": "https://open.spotify.com/album/659y0M5X1QO6E6ipGSumlc"
-      },
-      "artists": [
-        {
-          "name": "Soft boy",
-          "url": "https://open.spotify.com/artist/5g6xNAzBOZOTSVMF98BJij"
-        }
-      ],
-      "duration_ms": 205799,
-      "name": "A Day in My Life",
-      "url": "https://open.spotify.com/track/7pcaFouoeVKGL3Qj9BWkzj"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Somewhere in the Distance, Somewhere Toward the Mountains",
-        "url": "https://open.spotify.com/album/1l3zXzMw6Dvcme4fqWHj5l"
-      },
-      "artists": [
-        {
-          "name": "Flatsound",
-          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "A Dream",
-      "url": "https://open.spotify.com/track/3AYF9Sza9xsI7Zr3WXsAWA"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "a lovestory",
         "url": "https://open.spotify.com/album/7KGH6o08Lmk2BOdun9QrnW"
@@ -1277,55 +1197,7 @@
       "url": "https://open.spotify.com/track/4GEXjId44BNK8rUutQUzLn"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Preludes, Book 1 - Streams",
-        "url": "https://open.spotify.com/album/1oMUAeEeA32eaJOhrlbM1a"
-      },
-      "artists": [
-        {
-          "name": "Yehezkel Raz",
-          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
-        }
-      ],
-      "duration_ms": 71581,
-      "name": "Ballerina",
-      "url": "https://open.spotify.com/track/5lm18pjbwdth6ENVllxjfl"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/1YBMST0ZXdYD5nzpcx2J1H"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berenguer",
-          "url": "https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv"
-        }
-      ],
-      "duration_ms": 140636,
-      "name": "Little Things - Piano Version",
-      "url": "https://open.spotify.com/track/6v1vC3Lra8jFot8Mz9FzIf"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Beautiful Piano",
-        "url": "https://open.spotify.com/album/6dAc6FuIJQ8yDdOMJ59EzI"
-      },
-      "artists": [
-        {
-          "name": "Frozen Silence",
-          "url": "https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir"
-        }
-      ],
-      "duration_ms": 174265,
-      "name": "Howl's Moving Castle Theme: Merry-Go-Round of Life - Piano",
-      "url": "https://open.spotify.com/track/654SYGLmDiB3Rk8QfvpAIq"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
         "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
@@ -1341,7 +1213,495 @@
       "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Almost forgot that this was the whole point (Take my Hand Instrumental)",
+        "url": "https://open.spotify.com/album/7xsS2To8lfCppMpdZ6xSCa"
+      },
+      "artists": [
+        {
+          "name": "afterlives",
+          "url": "https://open.spotify.com/artist/4PuYRMP4WbowFgJJjMuMeO"
+        }
+      ],
+      "duration_ms": 91951,
+      "name": "Almost forgot that this was the whole point - Take my Hand Instrumental",
+      "url": "https://open.spotify.com/track/5WyeHnhVm4vIRxo6R7yghd"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0UmSlRZUatcKfEAIZ7piYA"
+      },
+      "artists": [
+        {
+          "name": "Christopher Lennertz",
+          "url": "https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5"
+        }
+      ],
+      "duration_ms": 65728,
+      "name": "I Can Do Anything / Finale",
+      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 90346,
+      "name": "The Ellie Badge",
+      "url": "https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Hide (Slow)",
+        "url": "https://open.spotify.com/album/2BRd8zbSOLnR86m7N5hiQw"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "Hide - Slow",
+      "url": "https://open.spotify.com/track/7jYydzcZOWVkUFA2q0nQEz"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "La Matriarca - The Libertine (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lDkAePwaZMQ6wmNQYLPBJ"
+      },
+      "artists": [
+        {
+          "name": "Armando Trovajoli",
+          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "L'amore dice Ciao (Main Titles) - Remastered",
+      "url": "https://open.spotify.com/track/03KBBkHF2vaeRol4Qt3ccX"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 328831,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "DIM \u221e",
+        "url": "https://open.spotify.com/album/7FnEL1BCbrNeAwbBABcSl0"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "DIM - Nostalgic Edit",
+      "url": "https://open.spotify.com/track/4re54IU8mG3lKo2Mc1ohk9"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Piano Bar Hits, Vol. 13",
+        "url": "https://open.spotify.com/album/5E9SlGMqB96u9JTVkPvuZC"
+      },
+      "artists": [
+        {
+          "name": "Jean Paques",
+          "url": "https://open.spotify.com/artist/6fReNugsRdIYViF7Ept4Nd"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "You Are My Destiny",
+      "url": "https://open.spotify.com/track/4e0nW2YVos7j0RJ0MPck5o"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "snowfall",
+        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "duration_ms": 124065,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "it's all my fault",
+        "url": "https://open.spotify.com/album/5VKziw8bXcHhGlL7crMraJ"
+      },
+      "artists": [
+        {
+          "name": "pxlse.",
+          "url": "https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS"
+        }
+      ],
+      "duration_ms": 120004,
+      "name": "it's all my fault",
+      "url": "https://open.spotify.com/track/6RPdjTYwAdcAfumn686cqp"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "AWAKENING",
+        "url": "https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "duration_ms": 199467,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "good days - Instrumental",
+        "url": "https://open.spotify.com/album/1B94GayQJwgZt82kDoK5Nk"
+      },
+      "artists": [
+        {
+          "name": "afterlives",
+          "url": "https://open.spotify.com/artist/4PuYRMP4WbowFgJJjMuMeO"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "good days - Instrumental",
+      "url": "https://open.spotify.com/track/7dOjxjRqnZ3NLo5KZhwsVw"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "minecraft - volume alpha (nostalgic)",
+        "url": "https://open.spotify.com/album/2B4b9fAl8qAziLWWYRUYOI"
+      },
+      "artists": [
+        {
+          "name": "exhibit",
+          "url": "https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q"
+        },
+        {
+          "name": "analoq.",
+          "url": "https://open.spotify.com/artist/70hprxD328RNM6nxs6sAf3"
+        }
+      ],
+      "duration_ms": 144859,
+      "name": "subwoofer lullaby (ambient)",
+      "url": "https://open.spotify.com/track/2d3IIJwd9JI3QK3eLY8Mu8"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "The Untold",
+        "url": "https://open.spotify.com/album/40zFgrPfGjnq0ANWjeMoP1"
+      },
+      "artists": [
+        {
+          "name": "Secession Studios",
+          "url": "https://open.spotify.com/artist/3vJCYheZF5PWUvTIykvNG5"
+        }
+      ],
+      "duration_ms": 183918,
+      "name": "Lucifer's Waltz",
+      "url": "https://open.spotify.com/track/2pC9UHkrSWH6lJPkXlMIsI"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Solas",
+        "url": "https://open.spotify.com/album/6z3C07lnFGTx60hq8IUq3y"
+      },
+      "artists": [
+        {
+          "name": "Jamie Duffy",
+          "url": "https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo"
+        }
+      ],
+      "duration_ms": 192593,
+      "name": "Solas",
+      "url": "https://open.spotify.com/track/4PnctK3MDbzpLKYiHN47uQ"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "i still look for you",
+        "url": "https://open.spotify.com/album/1crGG566rtPLeux6ov90Uu"
+      },
+      "artists": [
+        {
+          "name": "justavoid.",
+          "url": "https://open.spotify.com/artist/0TWBPizWvi0hVifNFcAO86"
+        }
+      ],
+      "duration_ms": 211402,
+      "name": "to hear your voice again",
+      "url": "https://open.spotify.com/track/1wfxD6SRt8kiXHYRItkSJp"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Scheming (Instrumental)",
+        "url": "https://open.spotify.com/album/0v2XcJpDftk4l4WvKJuOvP"
+      },
+      "artists": [
+        {
+          "name": "you lost",
+          "url": "https://open.spotify.com/artist/09tB7baQ8wEJUJ4fNZIJiW"
+        }
+      ],
+      "duration_ms": 72212,
+      "name": "Scheming - Instrumental Slowed",
+      "url": "https://open.spotify.com/track/7M5tgXBn9eAxW4vFBPDToF"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 102013,
+      "name": "Succession (Main Title Theme)",
+      "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 87466,
+      "name": "QKThr",
+      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Obsession (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
+      },
+      "artists": [
+        {
+          "name": "Rock Burwell",
+          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
+        }
+      ],
+      "duration_ms": 124942,
+      "name": "Love is in the Air, Pt. 1",
+      "url": "https://open.spotify.com/track/77Aup1j7jR1zxWFQes0Kav"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1krNkv0uKQurE8XTC8sYTs"
+      },
+      "artists": [
+        {
+          "name": "Yehezkel Raz",
+          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
+        }
+      ],
+      "duration_ms": 223896,
+      "name": "Forest Overture",
+      "url": "https://open.spotify.com/track/6sD702PxmqKRKixCbnB4VB"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 239379,
+      "name": "Warmth",
+      "url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "dark snowy night",
+        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 211091,
+      "name": "dark snowy night - Slowed & Reverb Version",
+      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "bipolar",
+        "url": "https://open.spotify.com/album/5MOmkgxIJLtmoapI60uK6A"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "duration_ms": 132418,
+      "name": "bipolar",
+      "url": "https://open.spotify.com/track/1uvn7eP1I7mIKGvpsqDcoW"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "The Beginning (Acoustic)",
+        "url": "https://open.spotify.com/album/2T0FWElswJ0Dk5XZsLztje"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "duration_ms": 197872,
+      "name": "The Beginning (Acoustic)",
+      "url": "https://open.spotify.com/track/2dtCRMpV2cbgU47h9b4sgT"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Romantic Piano",
+        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 94946,
+      "name": "Hinoki Wood",
+      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "A Day in My Life",
+        "url": "https://open.spotify.com/album/659y0M5X1QO6E6ipGSumlc"
+      },
+      "artists": [
+        {
+          "name": "Soft boy",
+          "url": "https://open.spotify.com/artist/5g6xNAzBOZOTSVMF98BJij"
+        }
+      ],
+      "duration_ms": 205799,
+      "name": "A Day in My Life",
+      "url": "https://open.spotify.com/track/7pcaFouoeVKGL3Qj9BWkzj"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Somewhere in the Distance, Somewhere Toward the Mountains",
+        "url": "https://open.spotify.com/album/1l3zXzMw6Dvcme4fqWHj5l"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "duration_ms": 170375,
+      "name": "A Dream",
+      "url": "https://open.spotify.com/track/3AYF9Sza9xsI7Zr3WXsAWA"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Preludes, Book 1 - Streams",
+        "url": "https://open.spotify.com/album/1oMUAeEeA32eaJOhrlbM1a"
+      },
+      "artists": [
+        {
+          "name": "Yehezkel Raz",
+          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
+        }
+      ],
+      "duration_ms": 71581,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/5lm18pjbwdth6ENVllxjfl"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "sounds",
         "url": "https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn"
@@ -1365,23 +1725,7 @@
       "url": "https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Almost forgot that this was the whole point (Take my Hand Instrumental)",
-        "url": "https://open.spotify.com/album/7xsS2To8lfCppMpdZ6xSCa"
-      },
-      "artists": [
-        {
-          "name": "afterlives",
-          "url": "https://open.spotify.com/artist/4PuYRMP4WbowFgJJjMuMeO"
-        }
-      ],
-      "duration_ms": 91951,
-      "name": "Almost forgot that this was the whole point - Take my Hand Instrumental",
-      "url": "https://open.spotify.com/track/5WyeHnhVm4vIRxo6R7yghd"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "who are you?",
         "url": "https://open.spotify.com/album/1eb8i2TjeTElgB4WrPAhCl"
@@ -1397,7 +1741,7 @@
       "url": "https://open.spotify.com/track/5xXDeEflzwlBJvkkpZbEgU"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "200% Electronica",
         "url": "https://open.spotify.com/album/6WgSCcRfaXuBVfM2TpV0Kl"
@@ -1417,23 +1761,7 @@
       "url": "https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "The Boys: Season 3 (Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0UmSlRZUatcKfEAIZ7piYA"
-      },
-      "artists": [
-        {
-          "name": "Christopher Lennertz",
-          "url": "https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5"
-        }
-      ],
-      "duration_ms": 65728,
-      "name": "I Can Do Anything / Finale",
-      "url": "https://open.spotify.com/track/619p8Frf2gdv76xeN7At76"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Luminary",
         "url": "https://open.spotify.com/album/3RcfAgjmugUkGGoqVtkrjr"
@@ -1449,39 +1777,7 @@
       "url": "https://open.spotify.com/track/6DEQrAxmm8myanLuFTtFqt"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 90346,
-      "name": "The Ellie Badge",
-      "url": "https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 87466,
-      "name": "QKThr",
-      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
         "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
@@ -1509,135 +1805,7 @@
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "golden hour (Orchestral Version)",
-        "url": "https://open.spotify.com/album/2AYh5fLMxNGcmSB1rANFfJ"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "golden hour - Orchestral Version) (Instrumental",
-      "url": "https://open.spotify.com/track/4gLtQPqNB58yqdVCRyPpZ4"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Hide (Slow)",
-        "url": "https://open.spotify.com/album/2BRd8zbSOLnR86m7N5hiQw"
-      },
-      "artists": [
-        {
-          "name": "Dorian Concept",
-          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
-        }
-      ],
-      "duration_ms": 152866,
-      "name": "Hide - Slow",
-      "url": "https://open.spotify.com/track/7jYydzcZOWVkUFA2q0nQEz"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "La Matriarca - The Libertine (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2lDkAePwaZMQ6wmNQYLPBJ"
-      },
-      "artists": [
-        {
-          "name": "Armando Trovajoli",
-          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "L'amore dice Ciao (Main Titles) - Remastered",
-      "url": "https://open.spotify.com/track/03KBBkHF2vaeRol4Qt3ccX"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 328831,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "DIM \u221e",
-        "url": "https://open.spotify.com/album/7FnEL1BCbrNeAwbBABcSl0"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "DIM - Nostalgic Edit",
-      "url": "https://open.spotify.com/track/4re54IU8mG3lKo2Mc1ohk9"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "liquid dream state",
-        "url": "https://open.spotify.com/album/16lo5qOgobcApvysY4BsqK"
-      },
-      "artists": [
-        {
-          "name": "yasuhiro soda",
-          "url": "https://open.spotify.com/artist/3AGGmnS4j6lDAAO0aYOFz4"
-        }
-      ],
-      "duration_ms": 127232,
-      "name": "Behind the water film",
-      "url": "https://open.spotify.com/track/3AeXncW686oncxR8UTizFR"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Piano Bar Hits, Vol. 13",
-        "url": "https://open.spotify.com/album/5E9SlGMqB96u9JTVkPvuZC"
-      },
-      "artists": [
-        {
-          "name": "Jean Paques",
-          "url": "https://open.spotify.com/artist/6fReNugsRdIYViF7Ept4Nd"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "You Are My Destiny",
-      "url": "https://open.spotify.com/track/4e0nW2YVos7j0RJ0MPck5o"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Wuthering Heights",
-        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 86944,
-      "name": "Open up",
-      "url": "https://open.spotify.com/track/732AeYEiilADr0WSHFV9of"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Six Forty Seven",
         "url": "https://open.spotify.com/album/56cBzrkzXxaF1pwEVJW4kc"
@@ -1653,59 +1821,7 @@
       "url": "https://open.spotify.com/track/3QTpfniaJUdsjvDBBeGlW6"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "snowfall",
-        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        }
-      ],
-      "duration_ms": 124065,
-      "name": "snowfall",
-      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "it's all my fault",
-        "url": "https://open.spotify.com/album/5VKziw8bXcHhGlL7crMraJ"
-      },
-      "artists": [
-        {
-          "name": "pxlse.",
-          "url": "https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS"
-        }
-      ],
-      "duration_ms": 120004,
-      "name": "it's all my fault",
-      "url": "https://open.spotify.com/track/6RPdjTYwAdcAfumn686cqp"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "AWAKENING",
-        "url": "https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU"
-      },
-      "artists": [
-        {
-          "name": "Tony Ann",
-          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
-        }
-      ],
-      "duration_ms": 199467,
-      "name": "ICARUS",
-      "url": "https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "In A Time Lapse",
         "url": "https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG"
@@ -1729,23 +1845,7 @@
       "url": "https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "good days - Instrumental",
-        "url": "https://open.spotify.com/album/1B94GayQJwgZt82kDoK5Nk"
-      },
-      "artists": [
-        {
-          "name": "afterlives",
-          "url": "https://open.spotify.com/artist/4PuYRMP4WbowFgJJjMuMeO"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "good days - Instrumental",
-      "url": "https://open.spotify.com/track/7dOjxjRqnZ3NLo5KZhwsVw"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "memories that never existed",
         "url": "https://open.spotify.com/album/5Ue9nBIyhQmIxpAHePfdln"
@@ -1761,59 +1861,7 @@
       "url": "https://open.spotify.com/track/6xufsM8Va9AmR0ieJsLVKV"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "minecraft - volume alpha (nostalgic)",
-        "url": "https://open.spotify.com/album/2B4b9fAl8qAziLWWYRUYOI"
-      },
-      "artists": [
-        {
-          "name": "exhibit",
-          "url": "https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q"
-        },
-        {
-          "name": "analoq.",
-          "url": "https://open.spotify.com/artist/70hprxD328RNM6nxs6sAf3"
-        }
-      ],
-      "duration_ms": 144859,
-      "name": "subwoofer lullaby (ambient)",
-      "url": "https://open.spotify.com/track/2d3IIJwd9JI3QK3eLY8Mu8"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "The Untold",
-        "url": "https://open.spotify.com/album/40zFgrPfGjnq0ANWjeMoP1"
-      },
-      "artists": [
-        {
-          "name": "Secession Studios",
-          "url": "https://open.spotify.com/artist/3vJCYheZF5PWUvTIykvNG5"
-        }
-      ],
-      "duration_ms": 183918,
-      "name": "Lucifer's Waltz",
-      "url": "https://open.spotify.com/track/2pC9UHkrSWH6lJPkXlMIsI"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Solas",
-        "url": "https://open.spotify.com/album/6z3C07lnFGTx60hq8IUq3y"
-      },
-      "artists": [
-        {
-          "name": "Jamie Duffy",
-          "url": "https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo"
-        }
-      ],
-      "duration_ms": 192593,
-      "name": "Solas",
-      "url": "https://open.spotify.com/track/4PnctK3MDbzpLKYiHN47uQ"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "falling forwards",
         "url": "https://open.spotify.com/album/6fEZ6Y6R2qGbRl9aSEIUB9"
@@ -1829,39 +1877,7 @@
       "url": "https://open.spotify.com/track/7fyuiABsIRlRfq2kq4kdWb"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "i still look for you",
-        "url": "https://open.spotify.com/album/1crGG566rtPLeux6ov90Uu"
-      },
-      "artists": [
-        {
-          "name": "justavoid.",
-          "url": "https://open.spotify.com/artist/0TWBPizWvi0hVifNFcAO86"
-        }
-      ],
-      "duration_ms": 211402,
-      "name": "to hear your voice again",
-      "url": "https://open.spotify.com/track/1wfxD6SRt8kiXHYRItkSJp"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Scheming (Instrumental)",
-        "url": "https://open.spotify.com/album/0v2XcJpDftk4l4WvKJuOvP"
-      },
-      "artists": [
-        {
-          "name": "you lost",
-          "url": "https://open.spotify.com/artist/09tB7baQ8wEJUJ4fNZIJiW"
-        }
-      ],
-      "duration_ms": 72212,
-      "name": "Scheming - Instrumental Slowed",
-      "url": "https://open.spotify.com/track/7M5tgXBn9eAxW4vFBPDToF"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
@@ -1877,39 +1893,7 @@
       "url": "https://open.spotify.com/track/2zKrt7YUpsKWEQagjS4rOQ"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Angelpoise",
-        "url": "https://open.spotify.com/album/1y3ZtigWhu0CpWEAxNBD4v"
-      },
-      "artists": [
-        {
-          "name": "Thatone",
-          "url": "https://open.spotify.com/artist/4gYp1H6SThmNR4aMAYVOpM"
-        }
-      ],
-      "duration_ms": 192391,
-      "name": "Angelpoise",
-      "url": "https://open.spotify.com/track/166zClVf5F2M9yX0etaDXR"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 310746,
-      "name": "Alberto Balsalm",
-      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "So Divine",
         "url": "https://open.spotify.com/album/6sWAB0wSgyGzcc30MgtLc0"
@@ -1925,7 +1909,7 @@
       "url": "https://open.spotify.com/track/65s1uCnfmWsugThlXe4GzA"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Backrooms (Original Score), Vol. 3",
         "url": "https://open.spotify.com/album/3cKy2eEl1bEqiH0fz7JZGX"
@@ -1941,7 +1925,7 @@
       "url": "https://open.spotify.com/track/3X9iP0InvVSkoaT8aqufPf"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Weaving a Basket",
         "url": "https://open.spotify.com/album/3VpglQ3PZvIOJmdlN2qiaj"
@@ -1957,23 +1941,7 @@
       "url": "https://open.spotify.com/track/6aRxPUFYYelGmVtDLriWXO"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Obsession (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
-      },
-      "artists": [
-        {
-          "name": "Rock Burwell",
-          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
-        }
-      ],
-      "duration_ms": 124942,
-      "name": "Love is in the Air, Pt. 1",
-      "url": "https://open.spotify.com/track/77Aup1j7jR1zxWFQes0Kav"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Waiting for Autumn",
         "url": "https://open.spotify.com/album/2yJJKK6H6P12LiKTZtsD22"
@@ -1989,23 +1957,7 @@
       "url": "https://open.spotify.com/track/2F3fpR9dtBaP1y0P3APjgA"
     },
     {
-      "added_at": "2026-07-30 13:28:03",
-      "album": {
-        "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
-        }
-      ],
-      "duration_ms": 102013,
-      "name": "Succession (Main Title Theme)",
-      "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
-    },
-    {
-      "added_at": "2026-07-30 13:28:03",
+      "added_at": "2026-08-26 09:42:17",
       "album": {
         "name": "Her (Original Score)",
         "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
@@ -2023,6 +1975,54 @@
       "duration_ms": 215621,
       "name": "Song on the Beach",
       "url": "https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "liquid dream state",
+        "url": "https://open.spotify.com/album/16lo5qOgobcApvysY4BsqK"
+      },
+      "artists": [
+        {
+          "name": "yasuhiro soda",
+          "url": "https://open.spotify.com/artist/3AGGmnS4j6lDAAO0aYOFz4"
+        }
+      ],
+      "duration_ms": 127232,
+      "name": "Behind the water film",
+      "url": "https://open.spotify.com/track/3AeXncW686oncxR8UTizFR"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 86944,
+      "name": "Open up",
+      "url": "https://open.spotify.com/track/732AeYEiilADr0WSHFV9of"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Angelpoise",
+        "url": "https://open.spotify.com/album/1y3ZtigWhu0CpWEAxNBD4v"
+      },
+      "artists": [
+        {
+          "name": "Thatone",
+          "url": "https://open.spotify.com/artist/4gYp1H6SThmNR4aMAYVOpM"
+        }
+      ],
+      "duration_ms": 192391,
+      "name": "Angelpoise",
+      "url": "https://open.spotify.com/track/166zClVf5F2M9yX0etaDXR"
     }
   ],
   "unique_name": "trending moods (no lyrics)",

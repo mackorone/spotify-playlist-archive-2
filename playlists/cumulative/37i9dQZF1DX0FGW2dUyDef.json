@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
@@ -2387,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Neden",
+        "url": "https://open.spotify.com/album/0EhMbdRliQhYRyGCRiREig"
+      },
+      "artists": [
+        {
+          "name": "Candan Er\u00e7etin",
+          "url": "https://open.spotify.com/artist/51YBtWvwOP37hIGmnxf4yC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Gams\u0131z Hayat",
+      "url": "https://open.spotify.com/track/0MKjkTpnPt1OI1YFV1N1ZO"
+    },
+    {
+      "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
       },
@@ -2852,7 +2870,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 153956,
       "name": "HAN\u0130",
       "url": "https://open.spotify.com/track/2XvD5yqFAQspc5gIKXqfsA"
@@ -5360,6 +5378,24 @@
       "duration_ms": 152438,
       "name": "Sen Kald\u0131n",
       "url": "https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ"
+    },
+    {
+      "album": {
+        "name": "Sen Orda Yoksun",
+        "url": "https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel",
+          "url": "https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241456,
+      "name": "Sen Orda Yoksun",
+      "url": "https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe"
     },
     {
       "album": {

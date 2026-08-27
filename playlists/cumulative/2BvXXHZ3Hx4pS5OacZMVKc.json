@@ -3771,6 +3771,28 @@
     },
     {
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/5xKDyLDeZi8g3aGYcrfiTr"
+      },
+      "artists": [
+        {
+          "name": "Lost Sky",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "name": "Chris Linton",
+          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248444,
+      "name": "Heaven & Hell",
+      "url": "https://open.spotify.com/track/12mUiAGnkttkpoqRrZvjtF"
+    },
+    {
+      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX"
       },

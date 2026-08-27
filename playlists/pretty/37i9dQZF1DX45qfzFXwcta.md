@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,764 likes - 115 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,808 likes - 115 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 66 | [1995](https://open.spotify.com/track/3pOaqovpjDL7vJIQvykmbW) | [Pigeondust](https://open.spotify.com/artist/3ZGFuMnNyyCIAnq5vARz1W) | [Moon, Wisdom & Slackness](https://open.spotify.com/album/3ICgXKPcqTnA1flXqWbRjs) | 1:57 |
 | 67 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
 | 68 | [A Little Soul](https://open.spotify.com/track/00t78SKl7PHj3KfQ54fenL) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Petestrumentals](https://open.spotify.com/album/3BXHZmPR0u5TBVlxcp4Tjk) | 5:41 |
-| 69 | [Travellin' Man \(Instrumental\)](https://open.spotify.com/track/5GVTLWtI6oJYYHeuxKjfPO) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:16 |
+| 69 | [Travellin' Man \- Instrumental](https://open.spotify.com/track/5GVTLWtI6oJYYHeuxKjfPO) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:16 |
 | 70 | [From A Different Cloth](https://open.spotify.com/track/35btjswePEIK4mfbgjSHIt) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [4x4 Ghetto Skate Beats](https://open.spotify.com/album/2elBDNKyhj0PR5sj1JKibB) | 3:07 |
 | 71 | [Relax](https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:01 |
 | 72 | [Doping](https://open.spotify.com/track/5VyPn7VhYaBlhFJRp4OoLw) | [DOPE90](https://open.spotify.com/artist/5PvSb8IlXP6e2rX6Pwoj8u), [Kovsh](https://open.spotify.com/artist/08g5Q6KdzrLJsXxoZzqDmB) | [Sputnik](https://open.spotify.com/album/7osdfCoxMwonsdCbZKSgf3) | 3:08 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 114 | [Change Gears \- Instrumental](https://open.spotify.com/track/2UbpxaOiQucm6n3tQlsCPn) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [I am Reuben \(Instrumentals\)](https://open.spotify.com/album/4e5P8GG5z6yY7dOvatcpkr) | 3:48 |
 | 115 | [My Street](https://open.spotify.com/track/1TyPatt6gp9mLRW18GuExN) | [KLIM Beats](https://open.spotify.com/artist/5W54cKZS9C5X6uiZg6hiZi) | [Dope On Plastic 3](https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV) | 1:54 |
 
-Snapshot ID: `AAAAAPhDtw+PMD07oRvX4e8A8MLLM8hH`
+Snapshot ID: `AAAAAN9exnc6OFgA/jrsjur8l7qJ3vAj`

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJfOxWB4GRmWj+EmDq0peIY/5yKdaN",
+  "snapshot_id": "AAAJgEZ9/y48IH9ho8yiMvR6HauNsQRk",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -12851,6 +12851,74 @@
       "duration_ms": 280240,
       "name": "In Sharky Water",
       "url": "https://open.spotify.com/track/6MStSRrh6pePveL74rjJLI"
+    },
+    {
+      "added_at": "2026-08-26 02:40:20",
+      "album": {
+        "name": "In Search Of...",
+        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR"
+    },
+    {
+      "added_at": "2026-08-26 02:47:37",
+      "album": {
+        "name": "Etiquette",
+        "url": "https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi"
+      },
+      "artists": [
+        {
+          "name": "Casiotone For The Painfully Alone",
+          "url": "https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy"
+        }
+      ],
+      "duration_ms": 5266,
+      "name": "Etiquette I.D.",
+      "url": "https://open.spotify.com/track/5n7VnQbx6A4C01afTZln8D"
+    },
+    {
+      "added_at": "2026-08-26 02:48:40",
+      "album": {
+        "name": "The Walking",
+        "url": "https://open.spotify.com/album/7cv1OYN3ovq1sXi1Qwj2KW"
+      },
+      "artists": [
+        {
+          "name": "Jane Siberry",
+          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
+        }
+      ],
+      "duration_ms": 552800,
+      "name": "The White Tent the Raft",
+      "url": "https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS"
+    },
+    {
+      "added_at": "2026-08-26 04:05:58",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 124551,
+      "name": "GONE FISHING",
+      "url": "https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz"
     }
   ],
   "unique_name": "Zacklog",

@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Like I Need Water",
+        "url": "https://open.spotify.com/album/3bbHqzFG3t6UTOifLXFDca"
+      },
+      "artists": [
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183255,
+      "name": "Like I Need Water",
+      "url": "https://open.spotify.com/track/30qfULc1I0lFNXDLkFYAbU"
+    },
+    {
+      "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd"
       },

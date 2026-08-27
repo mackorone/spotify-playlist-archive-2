@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,660 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,676 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 54 | [Solo](https://open.spotify.com/track/2FE0fU7KgrCmcb1GvWEOSH) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Mr Blue](https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok), [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Nacha](https://open.spotify.com/artist/6vs2JKdlVLKV6S8HOpvQPx), [P Mawenge](https://open.spotify.com/artist/6McmD7aGRlEnhQnHfR0ZmC), [Nyandu Tozzy](https://open.spotify.com/artist/2ufAg7fIpFoEw1fsaAS491), [Jay Rox](https://open.spotify.com/artist/2YcJC1hnLjOIvNN3naeAlG) | [Solo](https://open.spotify.com/album/7ovWCxvtk7vAkLcOhLGpEp) | 7:33 |
 | 55 | [Natural](https://open.spotify.com/track/4bhxxR5AYj9tVOKF8wjqex) | [Damian Soul](https://open.spotify.com/artist/0itKzONcc1U3zReelqqGVE), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Natural](https://open.spotify.com/album/4PLbKFgXNseSufxFNjbwMr) | 3:19 |
 
-Snapshot ID: `AAAAAOoYqPM6ouubAPv+xSynr0tIScXD`
+Snapshot ID: `AAAAAGD2ATZNGDRxzdbWlQZgoE8cGrY5`

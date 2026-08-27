@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover:  Anangga
+> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover:  Nakhisa
 
-5,580 songs - 14 day 5 hr 25 min
+5,582 songs - 14 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [30 Tahun Lagi](https://open.spotify.com/track/45TXBtXL4CxWA9l6OzcmMS) | [Joanito Gea](https://open.spotify.com/artist/0CeQenPmm0xC3BbMvNd4aS) | [30 Tahun Lagi](https://open.spotify.com/album/22HDjTjO5LWKG98qv7X9Ig) | 3:22 | 2024-02-29 | 2024-03-29 |
 | [30 Under Thirty](https://open.spotify.com/track/311jySKyWVRd67kMIRkJYR) | [Poor Too Geez](https://open.spotify.com/artist/14AeNguwkEe71AvXYVmyeo) | [30 Under Thirty](https://open.spotify.com/album/3IzDHuplCHwqk2FTqB82h1) | 3:15 | 2023-11-17 | 2023-12-01 |
 | [35mm \(I Can't Imagine\)](https://open.spotify.com/track/2yCnoI3cRWYMVnOd6KQPdP) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7) | [Sendiri, Di Masa Lampau](https://open.spotify.com/album/4yKO46wMlt1sawV9OIvF86) | 1:08 | 2023-11-17 | 2023-12-01 |
+| [3:21](https://open.spotify.com/track/5PlMLDVLtZqkIob5E83QQJ) | [Nakisha](https://open.spotify.com/artist/2kdDRwpgwE08IKhhps0buR) | [3:21](https://open.spotify.com/album/2YmzSP1piB4WRQ9T3bigO2) | 3:21 | 2026-08-26 |  |
 | [3am She Calls](https://open.spotify.com/track/5P54KQ9Lqwnmu8Vmq4PzMI) | [Axel Farden](https://open.spotify.com/artist/3zHN9rvZ75jIZyXircCo2e) | [This Isn't Love](https://open.spotify.com/album/6CFztGYeudvmFJXKvk9D72) | 3:21 | 2022-08-26 | 2022-09-09 |
 | [3am Thoughts](https://open.spotify.com/track/2IrwPglwGjs6FmrY1ut5c8) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr) | [3am Thoughts](https://open.spotify.com/album/2ZZUxk4QVggIuSHeKif2Xk) | 3:51 | 2023-12-08 | 2024-01-12 |
 | [3rd Universe](https://open.spotify.com/track/48hJhBw0oM71gETyLsITaE) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB) | [3rd Universe](https://open.spotify.com/album/4ehhKBsodQh9sd9rMAwDzH) | 4:49 | 2022-01-13 | 2022-01-28 |
@@ -762,6 +763,7 @@
 | [Buaya Pinggir Kota](https://open.spotify.com/track/1QUeAHho4SeEinUwoHLpgr) | [Suburban Pleasures](https://open.spotify.com/artist/3A1HBAr2iQwMDciR8fbKtN), [Gotinx](https://open.spotify.com/artist/2ceFvPItVjYvMvKX302fPr) | [Buaya Pinggir Kota](https://open.spotify.com/album/7h43s24HEN4pk1tmbXc52c) | 4:26 | 2024-07-25 | 2024-08-30 |
 | [Bucin](https://open.spotify.com/track/46k6RM2gY5TTaGIcujrUnK) | [Pelin](https://open.spotify.com/artist/2K4c57tnoM6U3Oy7b5KFUB) | [Bucin](https://open.spotify.com/album/7r1dOvL9vlUWwLZijbYacG) | 2:59 | 2023-05-25 | 2023-06-09 |
 | [Bucin](https://open.spotify.com/track/578UcMzCZAPxAiKaAneNDp) | [Zieka Band](https://open.spotify.com/artist/4qGkMjMKdLqTGKH0L48CEr) | [Bucin](https://open.spotify.com/album/66VllJsJs9qBEDSOwGzA6T) | 3:37 | 2025-10-09 | 2025-11-21 |
+| [Budak Leutik Bisa Ngapung](https://open.spotify.com/track/5tUd3RIscqCtGtjN7j0MUs) | [Basajan](https://open.spotify.com/artist/6wQTlnlFSVvQjVrMjri1Bb) | [Budak Leutik Bisa Ngapung](https://open.spotify.com/album/4dwnAzlYoT7lnFsLeIUwrp) | 3:45 | 2026-08-26 |  |
 | [Buddy](https://open.spotify.com/track/2vWkMOiTjmfMXFTRD1WNnK) | [Artefac](https://open.spotify.com/artist/3uDf5OdF1oq2OUFHmAhAvt) | [Buddy](https://open.spotify.com/album/6aFPAVkB8TeUQAyGGwgj53) | 3:34 | 2023-02-03 | 2023-02-17 |
 | [Buka Bersama](https://open.spotify.com/track/71nImdOuvIiYEVxYq37ZE0) | [Ghea & Ghia](https://open.spotify.com/artist/1fkAOL84VorsoRXQkoVZot) | [Buka Bersama](https://open.spotify.com/album/052JhWROwHNwSDujmwExiT) | 3:49 | 2024-03-21 | 2024-04-19 |
 | [Bukan Aku](https://open.spotify.com/track/5DqRz1SKP3xqKLHlEmZhsP) | [MOISS](https://open.spotify.com/artist/3h2DCBvMH7r1gYonUVKqB1), [Sigit Jakson](https://open.spotify.com/artist/43osu2mMjNt1dgiy0xC2kN) | [Bukan Aku](https://open.spotify.com/album/3H7U9XOqGbl608Y5B7BLYo) | 3:21 | 2022-02-03 | 2022-02-18 |

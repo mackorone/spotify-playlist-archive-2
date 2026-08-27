@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,695 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,727 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Talismã](https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Talismã](https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz) | 3:49 |
 | 2 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 |
 | 3 | [Batidinha](https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 3:17 |
-| 4 | [Perfeição](https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp) | [João Bosco](https://open.spotify.com/artist/6ul0a43xboIu33JDBZdBzF), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Perfeição](https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf) | 4:10 |
+| 4 | [Perfeição](https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Perfeição](https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf) | 4:10 |
 | 5 | [Bossa Sempre Nova](https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Luciano Magno](https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN), [André Rio](https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A) | [MPBossa 2](https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB) | 3:20 |
 | 6 | [Isn't She Lovely](https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Bossa Nova Covers](https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX) | 2:45 |
 | 7 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 |
 | 100 | [Ternura do Saber \- Acústico](https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura do Saber \(Acústico\)](https://open.spotify.com/album/1cgMMSaWIL1P1ZSvctLgeo) | 4:25 |
 
-Snapshot ID: `AAAAADAo540wRPqY1o9ANEmuQhW4syBX`
+Snapshot ID: `AAAAAMcjMEGMcqJWbiuKcxIGGJq+A0o6`

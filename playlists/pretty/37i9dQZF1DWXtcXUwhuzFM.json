@@ -1,12 +1,12 @@
 {
   "description": "Uutta musaa tarjoilevat Korelon & Ares, Nathanael & Robin Packalen, MOMO & keiju.. ja moni muu  \ud83c\udfb6",
-  "num_followers": 108108,
+  "num_followers": 108100,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHgJsqsOS9xttZ1HuX/mss8gkfk",
+  "snapshot_id": "AAAAAMgI92iJV7OHrCh9lWpYUkyis778",
   "tracks": [
     {
       "added_at": "2026-08-20 21:00:32",
@@ -819,6 +819,22 @@
       "duration_ms": 220364,
       "name": "Suru on kunniavieras (feat. Jonne J\u00e4rvel\u00e4)",
       "url": "https://open.spotify.com/track/1ex079YKoOAeIzFmdfilFV"
+    },
+    {
+      "added_at": "2026-08-20 21:00:32",
+      "album": {
+        "name": "If Not Now, When",
+        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 237384,
+      "name": "If Not Now, When",
+      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
     },
     {
       "added_at": "2026-08-20 21:00:32",

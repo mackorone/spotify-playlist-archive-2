@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,179 likes - 30 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,244 likes - 33 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 25 | [Nazareth](https://open.spotify.com/track/2S53xe3CB5RgDELKeU97g0) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 5:36 |
 | 26 | [Is It Really You?](https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1) | 4:39 |
 | 27 | [Higher](https://open.spotify.com/track/2S4q08im3SvocGZulxj2cP) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 5:21 |
-| 28 | [The Way That You Were](https://open.spotify.com/track/0DhlnsNf1Jk5dVUGFi5k3K) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Way That You Were](https://open.spotify.com/album/7xZHyq0KHAwCRJweTJxIAm) | 3:03 |
+| 28 | [Fields of Elation](https://open.spotify.com/track/7G1ebsHrn3uDY5F5XY9YK9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 4:31 |
 | 29 | [Jericho](https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 5:17 |
-| 30 | [Calcutta](https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 6:53 |
+| 30 | [The Way That You Were](https://open.spotify.com/track/0DhlnsNf1Jk5dVUGFi5k3K) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Way That You Were](https://open.spotify.com/album/7xZHyq0KHAwCRJweTJxIAm) | 3:03 |
+| 31 | [When the Bough Breaks](https://open.spotify.com/track/4By7rlsQO5KBN9vWgSPHBa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 7:35 |
+| 32 | [Calcutta](https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 6:53 |
+| 33 | [Thread the Needle](https://open.spotify.com/track/27ykoata0UDHwDCkfNNmOE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 6:36 |
 
 Snapshot ID: `aouJgAAAAACx0vK0k9BKm12I00I/E0BO`

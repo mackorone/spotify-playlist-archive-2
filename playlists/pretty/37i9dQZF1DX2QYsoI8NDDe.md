@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Majo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,313 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,304 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 85 | [Ya Pa' Que](https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs) | [Gabby Tamez](https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2) | [Ya Pa' Que](https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim) | 2:37 |
 | 86 | [Se Me Sigue Olvidando](https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ), [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Se Me Sigue Olvidando](https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg) | 2:59 |
 | 87 | [Sufriendo a Solas](https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [Sufriendo a Solas \(Versión Mariachi\)](https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO) | 4:54 |
-| 88 | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp) | 6:03 |
+| 88 | [Caminos De Michoacan \- En Vivo](https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp) | 6:03 |
 | 89 | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 |
 | 90 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 | 91 | [Ay María](https://open.spotify.com/track/1pVYyhDLnK8nUf2kNFmAVc) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Ay María](https://open.spotify.com/album/0kMB100laHgatol6jxokqE) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 99 | [La Bruta \- En Vivo](https://open.spotify.com/track/163temcvEe9TOytyKIBM0r) | [Perla Valenzuela](https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH) | [La Bruta \(En Vivo\)](https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA) | 2:54 |
 | 100 | [Llámame](https://open.spotify.com/track/3epYKxNu8M9NWbQw4xGSBQ) | [Ximena Castillo](https://open.spotify.com/artist/2nwTpQh0MCA68YOmNw5TJC) | [Llámame](https://open.spotify.com/album/2iiS8LdnVfyNSs2yrtdC4X) | 3:12 |
 
-Snapshot ID: `AAAAAE0uyx7dqCLV1rYUyDsmOHC8iSSe`
+Snapshot ID: `AAAAAP1FhZLm3v0RFx/LCGqgUR5Y/sC6`

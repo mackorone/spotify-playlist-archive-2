@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,807 likes - 104 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,803 likes - 104 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 103 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |
 | 104 | [Blue Skies & Blind Intuition](https://open.spotify.com/track/6yzsuMptOFr3Dkh8SbmVhf) | [Kaya](https://open.spotify.com/artist/6tyCabPUFMlCxB5NxICFtK) | [In the Belly of the Whale](https://open.spotify.com/album/20dgEKo9k2z1exsTCsmo3K) | 4:12 |
 
-Snapshot ID: `AAAAAJUJS+DvlumTNRLMcrLcTdbjY4+i`
+Snapshot ID: `AAAAACz9enihJWYOviY7yZ3wi0LzT+H9`

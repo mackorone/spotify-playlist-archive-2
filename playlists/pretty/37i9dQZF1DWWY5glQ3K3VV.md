@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,545 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,553 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 99 | [Porto Cervo](https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Porto Cervo](https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ) | 3:55 |
 | 100 | [A.D.H.D\. \(con Datkid, Melons\)](https://open.spotify.com/track/0Zw0ZJkTplOO3weqcZHxjF) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Datkid](https://open.spotify.com/artist/0mrS7wImQSucxAJWj22pe2), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [OGNI MUSICA](https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ) | 1:55 |
 
-Snapshot ID: `AAAAAGy07eEJ1qghSbaCZIdLJyaLMpSX`
+Snapshot ID: `AAAAANQktsrNAnurn6R/uFBQkY3JjF9O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Bunga Citra Lestari, Josh Florentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,591 likes - 105 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,584 likes - 105 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 104 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 | 105 | [Tear](https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Tear](https://open.spotify.com/album/34NhTGfoWNr4W3oKx3HA7g) | 4:09 |
 
-Snapshot ID: `AAAAAKGHB+VOKOHi8u5OBZG2KPUkIa/u`
+Snapshot ID: `AAAAAH3O0H/klwiMxqsFlsayUabVKR/R`

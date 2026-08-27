@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-633 songs - 1 day 15 hr 9 min
+635 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Flashback](https://open.spotify.com/track/3nfFEXmkLRjfVIslYXSTFu) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Flashback](https://open.spotify.com/album/2dsufG9Ds7vt8stxbrBkBE) | 3:31 | 2026-02-28 | 2026-05-08 |
 | [FLOWER CHILD](https://open.spotify.com/track/0PYoxGNSQo2kMZWwSE8lcH) | [Krista Hartman](https://open.spotify.com/artist/0kwEEdnKa1I4oELZFRA6kN) | [Transcend](https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu) | 4:22 | 2026-01-31 | 2026-02-18 |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 | 2025-12-12 |
+| [Fog of War](https://open.spotify.com/track/1dDx0yQRx5u28M1Fa6DvW9) | [Eric Mann](https://open.spotify.com/artist/35MK4HiXsP320WPxEPPFgk) | [Fog of War](https://open.spotify.com/album/270gN7ziKWO3OAU44OjohS) | 4:06 | 2026-08-26 |  |
 | [Follow Me](https://open.spotify.com/track/3dkjZgTh8oJmgV5OmJLVtl) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Follow Me](https://open.spotify.com/album/5taDFBJEell9JWvE4Szr7t) | 4:28 | 2026-04-06 | 2026-05-08 |
 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2025-12-16 | 2026-01-05 |
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-03-14 | 2026-04-20 |
@@ -481,6 +482,7 @@
 | [Someone Gotta Hold](https://open.spotify.com/track/3B3PRVnQ7lcwXMUlBNiUje) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/17IiSKvoILI4Yc0qnqQZzH) | 3:17 | 2026-04-06 | 2026-05-08 |
 | [Something About You](https://open.spotify.com/track/1W2eU1ISQAJkjiIgb9e9va) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Love Hotel](https://open.spotify.com/album/62Bxt91D7ef7SJKnHZ0BxM) | 3:19 | 2026-04-02 |  |
 | [Something New](https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Something New](https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p) | 4:40 | 2026-06-15 | 2026-08-08 |
+| [Sometimes](https://open.spotify.com/track/7facdq3XjlGNKjETWq4D2S) | [SUNSHRD](https://open.spotify.com/artist/4Qhw3YVszSYCJ583d05fkV) | [Studio Session](https://open.spotify.com/album/1RXnxjw9ESq3zz9JMoonMM) | 3:55 | 2026-08-26 |  |
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-29 | 2025-11-22 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-11-27 | 2026-01-05 |
 | [Sotto Controllo](https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Sotto Controllo](https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE) | 3:57 | 2026-02-15 | 2026-03-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Silica Gel
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,579 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,560 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 99 | [Always You & I](https://open.spotify.com/track/5xAmOiBeIrAWN80grlnvOz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Always You & I](https://open.spotify.com/album/6GvIxPFsXOVOG9hU3N8ZKi) | 3:38 |
 | 100 | [Loser](https://open.spotify.com/track/3gUwYPtBtdFr5T0zGFVwJj) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Loser](https://open.spotify.com/album/5btn7iVwFCbcelZ6kT4JU3) | 3:31 |
 
-Snapshot ID: `AAAAACU4ywf+PhwS1MUbgBFEBfZbDudG`
+Snapshot ID: `AAAAAFoANvaOD/Y3EmpyzR75Cle6/uC7`

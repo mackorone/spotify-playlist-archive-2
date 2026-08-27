@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 217546,
       "name": "A Flower Remembered",
       "url": "https://open.spotify.com/track/3HJ10LoVkbMcyNhxCt9gGx"
@@ -1191,6 +1191,28 @@
     },
     {
       "album": {
+        "name": "The Very Best of John Rutter",
+        "url": "https://open.spotify.com/album/0GXs180xBmigQB1fhAfKN3"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106600,
+      "name": "Five Childhood Lyrics: Sing A Song Of Sixpence",
+      "url": "https://open.spotify.com/track/3wnX3Att8tw0JOW5So4fwg"
+    },
+    {
+      "album": {
         "name": "Be Thou My Vision: Sacred Music by John Rutter",
         "url": "https://open.spotify.com/album/32wnph2659J6VtOnw1eRUb"
       },
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 251466,
       "name": "Geistliche Chor-music, Op. 11: No. 23, Selig sind die Toten, SWV 281",
       "url": "https://open.spotify.com/track/79Rh9xcKuWgtcHuivqGa3u"
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 93813,
       "name": "God Be in My Head",
       "url": "https://open.spotify.com/track/38tnIJ1iDSs0E33NoT6sXu"
@@ -2090,7 +2112,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 104120,
       "name": "Jesu, Dulcis Memoria",
       "url": "https://open.spotify.com/track/1Swo8nREx4yWbFU1XPmJc3"
@@ -2450,7 +2472,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 307906,
       "name": "Magnificat: Gloria Patri",
       "url": "https://open.spotify.com/track/1eV7L8F55LqFMK1ewxWWtz"
@@ -3898,7 +3920,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 169546,
       "name": "Thy Perfect Love",
       "url": "https://open.spotify.com/track/4FsWkVIPJeHqSLLJ4HmHP9"
@@ -3976,7 +3998,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 99516,
       "name": "Touch Her Soft Lips and Part (From \"Henry V\")",
       "url": "https://open.spotify.com/track/3AyBxuHEDJrZtvYWCIY9cI"

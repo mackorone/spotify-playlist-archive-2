@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,386 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,440 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Ricchi Dentro](https://open.spotify.com/track/4thhwyZW9cnnFGKOBGNYcM) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 2:51 |
 | 100 | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz) | 2:35 |
 
-Snapshot ID: `AAAAACJTV4xZcdhvyc4RDuLXO/IA7ECD`
+Snapshot ID: `AAAAALGx4Kw0pN96AXdcBtzgbqsEAXhR`

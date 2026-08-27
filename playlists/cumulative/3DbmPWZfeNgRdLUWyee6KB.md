@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,430 songs - 3 day 11 hr 9 min
+1,433 songs - 3 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Cómo sería el mundo](https://open.spotify.com/track/4vhK9VrrM6rWSCSm6CiGJy) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE), [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Cómo sería el mundo](https://open.spotify.com/album/2LIAHgOKpMRD18KCqR8WLi) | 3:21 | 2026-04-21 | 2026-06-05 |
 | [Daisy](https://open.spotify.com/track/7npwAYFx5673E5LXZaznWv) | [Kendra Lyttle](https://open.spotify.com/artist/4s5N5lEaKpnNVpCTYSeQ8V) | [Daisy](https://open.spotify.com/album/3p0z8pRmd0uLys45punzKH) | 5:44 | 2026-05-07 | 2026-06-05 |
 | [Dal Y Funud](https://open.spotify.com/track/3kAjBPgKnC5XLyU0DGObQy) | [Ci Gofod](https://open.spotify.com/artist/05frSoOdiU0SeVIu5aVBPH) | [Dal Y Funud](https://open.spotify.com/album/2CfpqeQinnCMdEfJwDUJWL) | 2:40 | 2026-03-22 | 2026-04-22 |
+| [Dancing In The Rain](https://open.spotify.com/track/31sR1cj2zUun40FoeJ4TdF) | [Zachary Friederich](https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk) | [Till The Embers Are All That Remain](https://open.spotify.com/album/3yZg7DR89kvcPUvMZbaxFR) | 4:10 | 2026-08-26 |  |
 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 | 2026-04-19 | 2026-06-05 |
 | [Danza della luna](https://open.spotify.com/track/4gDIwU7JzlqxOdH3nnxRg9) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Lorenzo Rundo](https://open.spotify.com/artist/79coFumyLISx5dFLfeoSVa) | [Mythos: Metamorphosis](https://open.spotify.com/album/31uzEwbBrZzZakE1jmekuP) | 3:49 | 2023-04-20 | 2025-11-29 |
 | [Dar Koridor](https://open.spotify.com/track/3DiY9hFu1VVY4oAErGfTYE) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Dar Koridor](https://open.spotify.com/album/4x6MQlw8TWrRGsnyzJ8DTC) | 3:12 | 2026-03-19 | 2026-04-22 |
@@ -546,6 +547,7 @@
 | [I Trust U](https://open.spotify.com/track/1do4St6MSCxSaBMzSn3mGA) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm), [m3gatron](https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj) | [I Trust U](https://open.spotify.com/album/0qDdkShB7WLExUZhL0rNK7) | 2:52 | 2025-09-11 | 2025-11-29 |
 | [I Want It, I Need It](https://open.spotify.com/track/4bxyJNeHP6Vs7lMpCH7S8L) | [ARIE](https://open.spotify.com/artist/6dA76J841h4udyGQEoxnng) | [I Want It, I Need It](https://open.spotify.com/album/0nNZkPn5WAnal2swOTDrSw) | 2:56 | 2026-04-20 | 2026-06-05 |
 | [I Want You Back](https://open.spotify.com/track/7q4Iqyw5CAs1aNKDpoIPrn) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [I Want You Back](https://open.spotify.com/album/1aiRCxVwHHvX14A8RtAD2D) | 1:40 | 2026-03-03 | 2026-03-25 |
+| [I Want You to Have His Child](https://open.spotify.com/track/43mFN59dUNwEvInNoesgLQ) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [I Want You to Have His Child](https://open.spotify.com/album/0hVr79M7UOi35HI8OieMUn) | 3:19 | 2026-08-26 |  |
 | [I'll Be OK](https://open.spotify.com/track/5fMsoHcyvFOSURtJF4TOXf) | [The Last Light](https://open.spotify.com/artist/7KWkGqTZIDX12N4Atp8IPl) | [I'll Be OK](https://open.spotify.com/album/5IVbzLtCTRyti6RxCMwUEs) | 3:40 | 2026-02-27 | 2026-04-12 |
 | [I'm alive and babe I feel just fine](https://open.spotify.com/track/6v5QIehM9nnneicMSAg4hk) | [nickoko](https://open.spotify.com/artist/6wObq7MdbtGkGoUtwjCf98) | [I'm alive and babe I feel just fine](https://open.spotify.com/album/3dXXfCpwn5gmnP7si8RmAH) | 3:24 | 2026-01-06 | 2026-02-03 |
 | [I'm Asking](https://open.spotify.com/track/03Jv9vcDC0TEAIDuJ5Y2QF) | [Joe Scorza](https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd) | [I'm Asking](https://open.spotify.com/album/1h16OO3LlozvuSE3snjib8) | 3:27 | 2026-08-04 |  |
@@ -608,6 +610,7 @@
 | [Judas](https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Aerial Minds](https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ) | 4:18 | 2026-01-30 | 2026-02-28 |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-01 | 2026-02-03 |
 | [Just Another Cliché](https://open.spotify.com/track/435l6Hs0Bckdc8mlQLLqDI) | [Frans Jansenn](https://open.spotify.com/artist/4kCFzQFXYADvVKwcvvXWV2) | [1961](https://open.spotify.com/album/5tqOMHrYpkTYarpfJDD4Ok) | 3:46 | 2026-01-14 | 2026-02-20 |
+| [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2026-08-26 |  |
 | [Just Fine](https://open.spotify.com/track/3JLT6C7CoyxBhXKX2nZJWk) | [Evrod Cassimy](https://open.spotify.com/artist/79fiDRFteZu6dW75vx7ol5) | [Mister Cassimy](https://open.spotify.com/album/3QurtUCxNdwv5fbAVzTrFW) | 2:54 | 2026-01-04 | 2026-02-03 |
 | [Just Human](https://open.spotify.com/track/1ph19dy5HOqRQU0QOVOPal) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/4CfKQUWU0oSfBey94KBYHt) | 3:46 | 2026-08-08 |  |
 | [Kabungah \(Happiness\)](https://open.spotify.com/track/0VsPnsXdo8mMDDUgIYYZFb) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Kabungah \(Happiness\)](https://open.spotify.com/album/5xHDhkusrljpHJVwZMjp5X) | 4:09 | 2026-05-25 | 2026-07-03 |

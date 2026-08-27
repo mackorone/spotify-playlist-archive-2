@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,962 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,975 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Eu Sei de Cor](https://open.spotify.com/track/3jhrqAIDFZWCsZa6skHTOV) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [A Força do Querer, Vol\. 1](https://open.spotify.com/album/5Bp6ahuhtJ08NaFPZLjTnB) | 2:54 |
 | 100 | [Balada \- Ao Vivo](https://open.spotify.com/track/5xeTiizOpClzA1Bb7Ak8YW) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo em São Paulo](https://open.spotify.com/album/4W9hStkV2XU2CZLdMeDG0T) | 3:40 |
 
-Snapshot ID: `AAAAAJ4rc1ggjVP2fql/hy4DZCB7OENv`
+Snapshot ID: `AAAAAMH0wimot0YaPf+V1oQNFtQyx9pB`

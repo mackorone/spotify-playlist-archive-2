@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,518 likes - 120 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,480 likes - 120 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [capitulate](https://open.spotify.com/track/4FgTPvpdO2vrnymIZ5Nm00) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Monoquartz](https://open.spotify.com/artist/0d0YxnQSNc7NKKB9fjVslv) | [capitulate](https://open.spotify.com/album/5045wUxQoUth1sf1R1TgcP) | 1:28 |
 | 120 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 |
 
-Snapshot ID: `AAAAABh5Xb4u9YUSzrM/TGnYJd0SPAnC`
+Snapshot ID: `AAAAAEJ2e5r7FT0lQzoZyW4mWk1iY2LZ`

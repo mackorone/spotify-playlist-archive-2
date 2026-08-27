@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,716 likes - 190 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,870 likes - 190 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 189 | [Resonating Revival at 528 Hz](https://open.spotify.com/track/3PEKoR9pY7MwCRIkPrQaAz) | [Howard Lieberman](https://open.spotify.com/artist/6X3He75SSgFfKl09gJYBCZ) | [Resonating Revival at 528 Hz](https://open.spotify.com/album/75L5ZpTYHfAZvgXeBtf969) | 2:49 |
 | 190 | [Glacial Shift 528Hz](https://open.spotify.com/track/48w40XuVnlsd1IWUhYVTeB) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Glacial Shift 528Hz](https://open.spotify.com/album/0icH2HB2O1BTLp4z1OLBiy) | 2:36 |
 
-Snapshot ID: `AAAAAIvY0c2FKhKB4e5j2ljiDcfDsCAo`
+Snapshot ID: `AAAAAM/vpG2GnC9Uce1c8jZbNQM5gMCJ`

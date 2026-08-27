@@ -1,12 +1,12 @@
 {
   "description": "The calming space of Japanese Ambient and Environmental music. ",
-  "num_followers": 172778,
+  "num_followers": 172855,
   "original_name": "Ambient Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJruMpwpcaEjv81p/PqZud2Akwy0",
+  "snapshot_id": "AAAAABKnoo3qlNH/QgYZ2PoFbI0EqFjl",
   "tracks": [
     {
       "added_at": "2026-08-07 11:34:28",
@@ -2167,38 +2167,6 @@
     {
       "added_at": "2026-08-07 11:34:28",
       "album": {
-        "name": "evenfall",
-        "url": "https://open.spotify.com/album/4XHVYUTZ66OAkvUwcRyeO6"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Mochizuki",
-          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
-        }
-      ],
-      "duration_ms": 164838,
-      "name": "evenfall",
-      "url": "https://open.spotify.com/track/6XUm38qEK98xc1WoJZUb8r"
-    },
-    {
-      "added_at": "2026-08-07 11:34:28",
-      "album": {
-        "name": "When the Planets Align2040 To the next future",
-        "url": "https://open.spotify.com/album/2JEFR4wer5OWZOCPMFNd7U"
-      },
-      "artists": [
-        {
-          "name": "I.P.U",
-          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
-        }
-      ],
-      "duration_ms": 181880,
-      "name": "When the Planets Align2040 To the next future",
-      "url": "https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs"
-    },
-    {
-      "added_at": "2026-08-07 11:34:28",
-      "album": {
         "name": "Ley",
         "url": "https://open.spotify.com/album/2PATaU6gBhiovCPZriSexq"
       },
@@ -2215,18 +2183,18 @@
     {
       "added_at": "2026-08-07 11:34:28",
       "album": {
-        "name": "Dim Light",
-        "url": "https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437"
+        "name": "evenfall",
+        "url": "https://open.spotify.com/album/4XHVYUTZ66OAkvUwcRyeO6"
       },
       "artists": [
         {
-          "name": "Koji Ishikura",
-          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+          "name": "Hideyuki Mochizuki",
+          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Dim Light",
-      "url": "https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5"
+      "duration_ms": 164838,
+      "name": "evenfall",
+      "url": "https://open.spotify.com/track/6XUm38qEK98xc1WoJZUb8r"
     },
     {
       "added_at": "2026-08-07 11:34:28",
@@ -2247,18 +2215,34 @@
     {
       "added_at": "2026-08-07 11:34:28",
       "album": {
-        "name": "Glow In The Dark",
-        "url": "https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl"
+        "name": "When the Planets Align2040 To the next future",
+        "url": "https://open.spotify.com/album/2JEFR4wer5OWZOCPMFNd7U"
       },
       "artists": [
         {
-          "name": "Shuta Yasukochi",
-          "url": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui"
+          "name": "I.P.U",
+          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
         }
       ],
-      "duration_ms": 284775,
-      "name": "Cave",
-      "url": "https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa"
+      "duration_ms": 181880,
+      "name": "When the Planets Align2040 To the next future",
+      "url": "https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs"
+    },
+    {
+      "added_at": "2026-08-07 11:34:28",
+      "album": {
+        "name": "Dim Light",
+        "url": "https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dim Light",
+      "url": "https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5"
     },
     {
       "added_at": "2026-08-07 11:34:28",
@@ -2275,6 +2259,22 @@
       "duration_ms": 447999,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg"
+    },
+    {
+      "added_at": "2026-08-07 11:34:28",
+      "album": {
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl"
+      },
+      "artists": [
+        {
+          "name": "Shuta Yasukochi",
+          "url": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui"
+        }
+      ],
+      "duration_ms": 284775,
+      "name": "Cave",
+      "url": "https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa"
     },
     {
       "added_at": "2026-08-07 11:34:28",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-08-07 11:34:28",
       "album": {
-        "name": "vein",
-        "url": "https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV"
-      },
-      "artists": [
-        {
-          "name": "Masafumi Teruyama",
-          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
-        }
-      ],
-      "duration_ms": 128146,
-      "name": "vein",
-      "url": "https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo"
-    },
-    {
-      "added_at": "2026-08-07 11:34:28",
-      "album": {
         "name": "spiral energy",
         "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 177600,
       "name": "spiral energy",
       "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
+    },
+    {
+      "added_at": "2026-08-07 11:34:28",
+      "album": {
+        "name": "vein",
+        "url": "https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "duration_ms": 128146,
+      "name": "vein",
+      "url": "https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo"
     },
     {
       "added_at": "2026-08-07 11:34:28",

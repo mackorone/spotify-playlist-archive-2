@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78331,
+  "num_followers": 78322,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISnz1cT9lrM8fv8vVaTjiXiGkpF",
+  "snapshot_id": "AAAAABYgioNBtbo+Xwf3Wc+e4/Wwv9XQ",
   "tracks": [
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Alive & Breathing Vol. 2",
+        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 229821,
+      "name": "Because He Lives (Amen) - [Live]",
+      "url": "https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "We Shall Behold Him/Behold The Lamb",
         "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 480240,
       "name": "We Shall Behold Him/Behold The Lamb",
       "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Alive & Breathing Vol. 2",
-        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 229821,
-      "name": "Because He Lives (Amen) - [Live]",
-      "url": "https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2395,8 +2395,8 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Land of the Living (Live)",
-        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
+        "name": "To the One",
+        "url": "https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt"
       },
       "artists": [
         {
@@ -2404,9 +2404,9 @@
           "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         }
       ],
-      "duration_ms": 325701,
-      "name": "Rest on Us - Live",
-      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
+      "duration_ms": 448808,
+      "name": "To the One (Live)",
+      "url": "https://open.spotify.com/track/7aJeq9pEDHSxOA1xcRlT9u"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2487,8 +2487,8 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "To the One",
-        "url": "https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt"
+        "name": "Land of the Living (Live)",
+        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
       },
       "artists": [
         {
@@ -2496,9 +2496,9 @@
           "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         }
       ],
-      "duration_ms": 448808,
-      "name": "To the One (Live)",
-      "url": "https://open.spotify.com/track/7aJeq9pEDHSxOA1xcRlT9u"
+      "duration_ms": 325701,
+      "name": "Rest on Us - Live",
+      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
     },
     {
       "added_at": "2026-04-04 06:11:10",

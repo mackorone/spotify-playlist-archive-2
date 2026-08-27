@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks from independent artists & labels\. Cover: effe
+> The best new indie tracks from independent artists & labels\. Cover: Brat Star
 
-3,933 songs - 9 day 1 hr 35 min
+3,940 songs - 9 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [40](https://open.spotify.com/track/3Hf9kVY2ieQocMTPGPD8hj) | [Nolen Durham](https://open.spotify.com/artist/0wzqc7zZ1zbYety8jqIeYZ) | [40](https://open.spotify.com/album/7zaAT5gA3x6wGsevAkDc1s) | 4:05 | 2025-10-15 | 2025-12-04 |
 | [403 westbound](https://open.spotify.com/track/1adPbH0MkXsyVomkicsuGK) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [403 westbound](https://open.spotify.com/album/3QaQhECbtdaB84P2lC7lNH) | 2:50 | 2025-07-16 | 2025-10-09 |
 | [4737 Jefferson](https://open.spotify.com/track/3QtsttVVr6FHdeNulglh15) | [Alien Eyelid](https://open.spotify.com/artist/75GJnidAzq7t14Vv8Fv1Y9) | [4737 Jefferson](https://open.spotify.com/album/6jBQT8Y8Zbi4iI5yqll1CE) | 3:36 | 2023-04-05 | 2023-04-27 |
+| [4am](https://open.spotify.com/track/4VeCTWzYKHylYIuJyjBIVy) | [James Eichman](https://open.spotify.com/artist/2N4UnqiFhPpxPRzs0uFEw6) | [St\. Catherine Street](https://open.spotify.com/album/1SxD7EDy9nJ2GkUuPd8ymZ) | 3:12 | 2026-08-26 |  |
 | [4am](https://open.spotify.com/track/3DLhIFONTMbC70Pim6wFX7) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [4am](https://open.spotify.com/album/6gg9pFAiI2Ddo0RmVvMwbT) | 3:13 | 2022-02-22 | 2023-01-12 |
 | [4Head Kisses](https://open.spotify.com/track/0lat1SLdqpYlLNnNYYeQCQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [4Head Kisses](https://open.spotify.com/album/6eISIm7imYKqlfdtWTHFtA) | 1:30 | 2025-09-17 | 2025-12-04 |
 | [4leaf clover](https://open.spotify.com/track/1bLqjhjblTmsVwCxd3Dldy) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [4leaf clover](https://open.spotify.com/album/0VF9mTrMYx8CcpP6gZ4DJS) | 2:36 | 2022-11-17 | 2022-12-01 |
@@ -1295,6 +1296,7 @@
 | [GFBF](https://open.spotify.com/track/3w1bxnIpb6oE9OHtrRmD2L) | [Feinte](https://open.spotify.com/artist/1Oav4xyxBjHug09BPlLReT) | [GFBF](https://open.spotify.com/album/3sHshy9hZzIOzdlUFEgZq2) | 2:45 | 2024-06-19 | 2024-07-25 |
 | [Ghost](https://open.spotify.com/track/6rPmWz9aoFcSqYMoxeMwuD) | [Delivery Service](https://open.spotify.com/artist/2ldcalEDsVntItKFwQgy4W) | [Ghost](https://open.spotify.com/album/7ncGRefKCkvmqtxPKuw1EM) | 3:46 | 2025-03-12 | 2025-05-08 |
 | [Ghost](https://open.spotify.com/track/0FsOXNMDwtTdru7hxjw9vJ) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Ghost](https://open.spotify.com/album/2auDF9W61yqxQJBFt5JSHS) | 3:49 | 2024-10-02 | 2024-11-21 |
+| [Ghost](https://open.spotify.com/track/0PCCqCvjUjN0fq3fnjRc8K) | [Marital Bed](https://open.spotify.com/artist/4aDnOKq2hvJRJ9S99RlZWg) | [Ghost](https://open.spotify.com/album/14JU7Mg0jfVh3Xu6kE7PAi) | 3:34 | 2026-08-26 |  |
 | [ghost](https://open.spotify.com/track/0JKJhT8xLUbkBSglfIm8nP) | [Sierra Spirit](https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR) | [ghost](https://open.spotify.com/album/48Qt5QQVuP7E39iJw2Nfni) | 2:32 | 2024-02-14 | 2024-04-19 |
 | [Ghost Girl](https://open.spotify.com/track/4SehLcYyqYHvCtKz4790bL) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [But I'm Alright Now](https://open.spotify.com/album/4hHwHrki63HVmGOD84d9hk) | 3:20 | 2024-01-10 | 2024-02-08 |
 | [ghost in the machine](https://open.spotify.com/track/51qcHVCh2wT44qWVDDRPTc) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [ghost in the machine](https://open.spotify.com/album/0fKj4v6d0I9IWUxv7uTlJA) | 3:02 | 2022-03-22 | 2022-04-27 |
@@ -1496,6 +1498,7 @@
 | [Hey](https://open.spotify.com/track/7rBNJKnqq8m717RsTOsJQi) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/4kiVwF4algaMfLFsqmM0SW) | 3:08 | 2022-08-31 | 2022-10-13 |
 | [Hey Blondie!](https://open.spotify.com/track/0irGnzInPv57seBCyC9JGk) | [Taletta](https://open.spotify.com/artist/6x1ce1K5GZWggCkYDVTZwP) | [Hey Blondie!](https://open.spotify.com/album/6PFElqpDaPzbR0gYsNbq8a) | 3:08 | 2023-02-08 | 2023-03-09 |
 | [Hey Dood](https://open.spotify.com/track/30cYv7CpWEiebqE7YOZ3AS) | [Peach Fuzz](https://open.spotify.com/artist/3ufapALZKV9OqqxeD0SsXL) | [Hey Dood](https://open.spotify.com/album/6OX56lo6ukeeYaLb4NvCRS) | 3:15 | 2022-07-06 | 2022-08-04 |
+| [hey fever](https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [hey fever](https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG) | 2:02 | 2026-08-26 |  |
 | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/track/7yRkcEBdg4vhpK8ddBDh5w) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/album/2D9rWo88jntywhPBuGjPJZ) | 2:34 | 2022-02-09 | 2022-03-10 |
 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 | 2025-08-13 | 2025-12-04 |
 | [Hibiscus](https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R) | [Carré](https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Hibiscus](https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn) | 2:59 | 2026-01-28 | 2026-04-09 |
@@ -1525,7 +1528,7 @@
 | [Hold Me](https://open.spotify.com/track/6Pmn7pTeUj68jZJQ6ocKhS) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Hold Me](https://open.spotify.com/album/7klqccAv6deJHX4jnM776s) | 3:15 | 2022-02-22 | 2022-04-07 |
 | [Hold Me](https://open.spotify.com/track/1tftxPmKaQcqVp4gejVtCV) | [Supermood](https://open.spotify.com/artist/17pa17lgdxSSYIsNmz8nfZ) | [Hold Me](https://open.spotify.com/album/2IUrDV8sJSb7B2rxj5JB2j) | 3:57 | 2024-01-10 | 2024-01-25 |
 | [HOLD ME \(SLOWLY\)](https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [HOLD ME \(SLOWLY\)](https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja) | 4:11 | 2026-05-13 |  |
-| [Hold my hand hunter](https://open.spotify.com/track/03Zbp9zGdjropRUoy7xoLE) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Hold my hand hunter](https://open.spotify.com/album/3dFrkww4L3x69kQAfPdoTp) | 3:05 | 2026-05-27 |  |
+| [Hold my hand hunter](https://open.spotify.com/track/03Zbp9zGdjropRUoy7xoLE) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Hold my hand hunter](https://open.spotify.com/album/3dFrkww4L3x69kQAfPdoTp) | 3:05 | 2026-05-27 | 2026-08-27 |
 | [Hold On](https://open.spotify.com/track/0qPSn5jVfM7lHixm2W4nNi) | [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Hold On](https://open.spotify.com/album/4W0UZfOtlCxlozQVy0wDcy) | 3:29 | 2022-10-25 | 2022-12-01 |
 | [Hold on](https://open.spotify.com/track/53dnb0whgfmprQLhHtGgHs) | [HAWA B](https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam) | [Sad in a good way](https://open.spotify.com/album/1jRdUDOq2aogbd6jWadIZT) | 3:28 | 2022-04-27 | 2022-05-05 |
 | [Hole in my Head](https://open.spotify.com/track/55E6j6Wcn9XsZCCUcj1sTg) | [The Mad Ones](https://open.spotify.com/artist/4CYm8KfdRQXmljSRl8lJAO) | [Hole in my Head](https://open.spotify.com/album/7p9gNaDnGYy5ebJO0uIhrF) | 3:21 | 2023-03-22 | 2023-04-13 |
@@ -2135,6 +2138,7 @@
 | [manny](https://open.spotify.com/track/1aFpHb8n7FrvrZRNUZ4pOM) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [manny](https://open.spotify.com/album/0OV0RFABMKtf5NUIhpteEc) | 1:57 | 2025-06-18 | 2025-08-28 |
 | [Mantra](https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Disco Submarine](https://open.spotify.com/album/4RnBik4PFGy2POnDbeS6p5) | 2:46 | 2022-09-14 | 2022-10-26 |
 | [Margot](https://open.spotify.com/track/3xczo2EtOsuwIXsEkNpVew) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Margot](https://open.spotify.com/album/04y6tMPVcteO2xVTnfYwUw) | 4:06 | 2024-06-19 | 2024-07-18 |
+| [Margot Tenenbaum](https://open.spotify.com/track/0mVl3BQkaK38OHUJ3AU7Tb) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Margot Tenenbaum](https://open.spotify.com/album/659OMSfaxLVG5c0GzpWyfz) | 3:40 | 2026-08-26 |  |
 | [Maria](https://open.spotify.com/track/0ZF7UN33H2U4bXjF0f0Nuk) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Maria](https://open.spotify.com/album/6h6X0cKnJ81ZFrF2Vqp50i) | 1:58 | 2023-04-05 | 2023-04-27 |
 | [MARIGOLD](https://open.spotify.com/track/7yRTBRlM4kW0FOsEJFRs0n) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [MARIGOLD](https://open.spotify.com/album/1LfD6ontgCq0j9NJ9vMhc5) | 3:00 | 2026-02-04 | 2026-04-16 |
 | [marmalade lover](https://open.spotify.com/track/3B7tnrDKZ8ZNNouishWWvE) | [shower breakfast](https://open.spotify.com/artist/4eyb1ovBuWr1wXjXWw66ME) | [marmalade lover](https://open.spotify.com/album/2UDkLtnRwi495UeHujVjQb) | 4:58 | 2024-02-14 | 2024-03-28 |
@@ -2393,6 +2397,7 @@
 | [nightmare](https://open.spotify.com/track/4uuXgssPHD740lBw7lpX2L) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [MiCHOU's DREAM](https://open.spotify.com/album/3RZGNX7jhnxeZTw5JHLaWf) | 3:29 | 2025-12-03 | 2026-01-15 |
 | [nightmare](https://open.spotify.com/track/68j2zb5LZl9s47SdTMNiPx) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [nightmare](https://open.spotify.com/album/4pvj0sWSy21TRkopzh29JT) | 3:29 | 2025-04-16 | 2025-05-01 |
 | [Nightmare Blunt Rotation](https://open.spotify.com/track/4lGlnkSQDh8fJrBrqJzcqK) | [atlgrandma](https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu) | [Nightmare Blunt Rotation](https://open.spotify.com/album/4aqNOef91W7UuJ3Nro3RL1) | 2:39 | 2024-08-14 | 2024-09-12 |
+| [NO BODY](https://open.spotify.com/track/30UxRlwU27aXa9Q6WvPbBA) | [O Slow](https://open.spotify.com/artist/0ijd9yK1L498sGUvOmv4KA) | [NO BODY](https://open.spotify.com/album/6vs1EbTgZTd7SRvs1Bh5Ja) | 2:36 | 2026-08-26 |  |
 | [no good](https://open.spotify.com/track/5tFuR5TIvYsH7uj9liPEaQ) | [OHYUNG](https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG) | [no good](https://open.spotify.com/album/1Tj19geckD4ZtT3ZyJpVPl) | 4:11 | 2025-01-22 | 2025-03-07 |
 | [No Greater Joy](https://open.spotify.com/track/6CGdWGFfTnYvnJ9wQg1IW9) | [Stello](https://open.spotify.com/artist/439Dw5xIEnUHlgIu1QS2uF) | [No Greater Joy](https://open.spotify.com/album/5LuhtFpQCsjCxJn40vF3Hn) | 2:59 | 2022-10-25 | 2022-12-01 |
 | [No Lies Girl](https://open.spotify.com/track/6AyAJVL294O6wEZlVm0Ndy) | [The Vice Owl](https://open.spotify.com/artist/0C8bofVstcSCYG6D0c6cdB) | [No Lies Girl](https://open.spotify.com/album/4TIlrQSpN1sSesKJk5F1k4) | 3:57 | 2022-01-12 | 2022-02-10 |
@@ -2732,6 +2737,7 @@
 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 | 2024-10-09 | 2024-12-05 |
 | [Radio Silence](https://open.spotify.com/track/0PruwEXl96i47UbZlHrV7e) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB), [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [Make 'Em Laugh](https://open.spotify.com/album/34IZTp2myzYx04vS3JF59r) | 2:50 | 2025-07-16 | 2025-10-09 |
 | [RadioHead](https://open.spotify.com/track/6lDF2ngYH9SpTv1Gd7zRwF) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [RadioHead \- EP](https://open.spotify.com/album/3PmjefJgumKH6G7t573Wpk) | 4:29 | 2025-07-02 | 2025-08-28 |
+| [rain check](https://open.spotify.com/track/7Idl1wpePeNsYZrvJvg0Gu) | [ISSA ODYSSEA](https://open.spotify.com/artist/4u6YIdpozMioHPfP00QJDc) | [rain check](https://open.spotify.com/album/2EpAvrwXKNBg5fEocPvqXQ) | 2:34 | 2026-08-26 |  |
 | [Rain Language](https://open.spotify.com/track/4OSyo1j9n3gSjMDEGMYUmi) | [Ayo River](https://open.spotify.com/artist/0ZYU5RCC1trSNeIpwBorlL) | [Rain Language](https://open.spotify.com/album/2AppSXk8yGeEyngrx3kN53) | 3:33 | 2022-08-10 | 2022-08-25 |
 | [rainbows n butterflies](https://open.spotify.com/track/3Wu3ASUGVC29cyliW6yLN7) | [Kashbocks](https://open.spotify.com/artist/3oDBh0mJjAvInc5heMl7ws) | [rainbows n butterflies](https://open.spotify.com/album/4Xe5zyJ6gCcLHRrMfKsjC0) | 2:02 | 2022-02-02 | 2022-03-10 |
 | [Raincoat](https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ) | [Head Talk](https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ) | 4:08 | 2022-01-26 | 2022-03-05 |
@@ -3408,6 +3414,7 @@
 | [The Holiday](https://open.spotify.com/track/2MHc9vvKR51g8kh8pX5Lm9) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [The Holiday](https://open.spotify.com/album/1njeQMMZBblx6rKKkyuI6l) | 3:01 | 2023-08-08 | 2023-09-14 |
 | [The Hopeful Kind](https://open.spotify.com/track/72sIjHtNB3sOg5vmZ1brwF) | [Spuddy](https://open.spotify.com/artist/1EGquwqYB8H2qTgiMXirRs) | [Junk Drawer](https://open.spotify.com/album/6rNontdJmeB0MLisWPpkbw) | 3:46 | 2022-08-10 | 2022-09-29 |
 | [The In\-Between](https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [The In\-Between](https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok) | 2:45 | 2026-07-09 |  |
+| [The Land That's Always There](https://open.spotify.com/track/0cry4TyixOiWNCftCOAOlJ) | [Bones Forever](https://open.spotify.com/artist/16eWMKOPHbBrZBqtG8pZiU) | [Bones Forever](https://open.spotify.com/album/3C2Eo4tSee1Ep9s3JSOrlD) | 5:44 | 2026-08-26 |  |
 | [The Line](https://open.spotify.com/track/4uZJ40a5AePzu7aZ1dY9Em) | [Hairpin](https://open.spotify.com/artist/56T7NRvLxhB1iFBbLgWOJ3) | [The Line](https://open.spotify.com/album/19dYt1yxJLFmLdBRuKEW1b) | 3:58 | 2022-10-19 | 2022-12-01 |
 | [The Line](https://open.spotify.com/track/1fO3kzbN4GmH6HDjN53ahE) | [Parker](https://open.spotify.com/artist/3Kxw0i9QHo1vCBzdu8Mvap) | [The Line](https://open.spotify.com/album/6qn3NN9GQX1BxUWDNBBSY7) | 2:53 | 2023-05-24 | 2023-06-28 |
 | [the List](https://open.spotify.com/track/1N7dlofuSwsGLx7XmENhNJ) | [Victor Mucho](https://open.spotify.com/artist/6uV2cOu6PbLzYNQyxPo9iu) | [the List](https://open.spotify.com/album/7DcrA9KZ7ZPsK9ndlee6O8) | 5:19 | 2022-03-30 | 2022-04-13 |

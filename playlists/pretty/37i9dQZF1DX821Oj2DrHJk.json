@@ -1,12 +1,12 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32612,
+  "num_followers": 32614,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6EponUQC0mb4EViSgcAXiBhucP",
+  "snapshot_id": "AAAAAM3NCEtwWef/+lJC/Kr/eaainKCV",
   "tracks": [
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Watch",
-        "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "Davy's on the Road Again",
-      "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Sladest (Expanded)",
         "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 195973,
       "name": "Take Me Bak 'Ome",
       "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Watch",
+        "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+        }
+      ],
+      "duration_ms": 354933,
+      "name": "Davy's on the Road Again",
+      "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
     }
   ],
   "unique_name": "70s Summer Rock",

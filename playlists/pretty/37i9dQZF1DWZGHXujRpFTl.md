@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > The official soundtrack and score of Tony, plus tracks curated by Dominic Sessa that inspired his performance in the film.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,928 likes - 41 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,855 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 40 | [Francois Vatel](https://open.spotify.com/track/1LQOso5m81AhGmFRhFWVE2) | [Jay McCarrol](https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7) | [Tony \(Original Soundtrack\)](https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2) | 0:46 |
 | 41 | [Provincetown](https://open.spotify.com/track/1g284Ikf1I2BqGqrxbcSTL) | [Jay McCarrol](https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7) | [Tony \(Original Soundtrack\)](https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2) | 1:43 |
 
-Snapshot ID: `AAAAAEcrH5LUubQHHjBg5/VB4jrEaFBb`
+Snapshot ID: `AAAAABtO+EbgDnvRKOptnO+q4bUj5TQR`

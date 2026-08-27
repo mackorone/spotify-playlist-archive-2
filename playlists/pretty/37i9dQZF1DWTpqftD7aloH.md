@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,123 likes - 120 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,241 likes - 120 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 |
 | 120 | [Santo Pra Sempre](https://open.spotify.com/track/0qVQh4Tf9d2FfWNOlL3duA) | [Thiago Henrique Ferreira](https://open.spotify.com/artist/5a1tFptqVhzR6kMx7fKkpy) | [Santo Pra Sempre](https://open.spotify.com/album/7wHiDwWlVuNTDwxFv7DylZ) | 7:40 |
 
-Snapshot ID: `AAAAAP/xyInIQGFV/vcv/gCvWMfWSd/g`
+Snapshot ID: `AAAAAJY10aLFzhhfgWiIkvlP3omWguSW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain]
 
 > muy fuego, curated by Bob the Drag Queen\. Traitors S3 now streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,642 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,643 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain]
 | 17 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 18 | [WAR!](https://open.spotify.com/track/3FQb9Ybqr2FsWJrb499pg0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 |
 | 19 | [Star Studded Doll](https://open.spotify.com/track/4TPngMVEYjbQeu1XwfxOGQ) | [Kamera Tyme](https://open.spotify.com/artist/2FplUHduDBaWmbrg7OjRSw) | [KLOSE\-UP](https://open.spotify.com/album/5qog1L1nTQWZK6edIHZSLT) | 2:24 |
-| 20 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 |
+| 20 | [It's Quiet Now](https://open.spotify.com/track/2zNczTED9SjTxDo0fWRg5K) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/56ZBvhPkeFevZQw90wvxxb) | 3:02 |
 | 21 | [Down The Cunty Road](https://open.spotify.com/track/1PcuSlpP9dCoZxKQCILqWN) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Down The Cunty Road](https://open.spotify.com/album/0YGnZDCuPFXq8sCsYbNkAH) | 2:42 |
 | 22 | [Roc Steady \(feat\. Flo Milli\)](https://open.spotify.com/track/4jCKLCyhHjrzz6be6NDhrd) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:19 |
 | 23 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain]
 | 29 | [A.S.M.R Lover \(feat\. Skeltal Ki\)](https://open.spotify.com/track/3Kj6YsVjkw63d0t3BL9oLQ) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Black Butta](https://open.spotify.com/album/6CuOVePkORDKSJKS15cQMd) | 2:53 |
 | 30 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
 
-Snapshot ID: `AAAAAKE8pXCmhvccHZWMdMqaX/DPp0mS`
+Snapshot ID: `AAAAAGSSYEpH9HCqnZid1BtBhuurfiIW`

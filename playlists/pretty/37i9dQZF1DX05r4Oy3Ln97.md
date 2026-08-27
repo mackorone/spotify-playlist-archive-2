@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584,997 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,099 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 99 | [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 |
 | 100 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
 
-Snapshot ID: `AAAAAOg/3Y5Anh6Uli7PiEw5mvEPxtCa`
+Snapshot ID: `AAAAACv7ffWKIVWXyBsXjAvO7RURFuK0`

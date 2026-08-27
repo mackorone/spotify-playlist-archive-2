@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,420 likes - 175 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,662 likes - 175 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 174 | [White Noise R.E.M](https://open.spotify.com/track/5POuCIgP1PxbzSLXDcWbyi) | [Pinkage](https://open.spotify.com/artist/4wFbCRYOgiYItOMGZM5HgJ) | [White Noise Dreams](https://open.spotify.com/album/5Ue0NVI0gEtU8VgHfDAkQj) | 3:02 |
 | 175 | [White Noise Relax](https://open.spotify.com/track/6r920LdVbEO6TchoxUUqBy) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [White Noise Focus And Relax](https://open.spotify.com/album/2i1JTIAMD4UhouwkFb3A6P) | 2:48 |
 
-Snapshot ID: `AAAAALq31mznUW0A7OtydwLKPtuhea76`
+Snapshot ID: `AAAAADID+SNLkUPp/dfh8Oo8QYPyFuWh`

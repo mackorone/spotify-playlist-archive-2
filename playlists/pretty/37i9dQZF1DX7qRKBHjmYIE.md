@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Girl Ultra & Buscabulla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,336 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,285 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [El Caminante](https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [El Caminante](https://open.spotify.com/album/05iFY1rqqlIgLJ2VxufJA8) | 3:22 |
 | 100 | [Solo Tú](https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Solo Tú](https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo) | 2:51 |
 
-Snapshot ID: `AAAAAPCh+t75oNFdosAtd2gJy8bPIccE`
+Snapshot ID: `AAAAAPvT6TCbHjHQR8gGQVm64N4vX1M9`

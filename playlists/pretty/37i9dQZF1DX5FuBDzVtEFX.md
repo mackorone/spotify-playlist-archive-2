@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,970 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,949 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 41 | [Shallow](https://open.spotify.com/track/5IOPcHdIf7qq9OYcu6Hilx) | [Sarah Trapp](https://open.spotify.com/artist/0xaDA7p9ytShd7Sk49FPIs) | [Shallow](https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF) | 3:29 |
 | 42 | [Die With A Smile](https://open.spotify.com/track/4U865nUJqG2MrMvafrTvR3) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Die With A Smile](https://open.spotify.com/album/1sK5Yy6L3jJgb7j9HGqZma) | 4:06 |
 
-Snapshot ID: `AAAAAK6Z4nAn9W+WF5kIcC27TQqA3Tbe`
+Snapshot ID: `AAAAAE3PGtLrJCkpk5bpHWVstdGk90k3`

@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Ásgeir og mörgum fleirum!
 
-11,895 songs - 26 day 14 hr 26 min
+11,896 songs - 26 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5213,6 +5213,7 @@
 | [If It's Not With You \(feat\. Samm Henshaw\)](https://open.spotify.com/track/5jQtg0LKnoPzWpTbs3bYi2) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Trying: Season 4 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/50bKyVk36mrpvuXqrkhvXW) | 2:55 | 2024-05-24 | 2024-06-01 |
 | [If Its Real](https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [If Its Real](https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ) | 3:18 | 2026-07-03 | 2026-07-10 |
 | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/track/7cAH8MvS4629IUVVdcMAbB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/album/4X3Qq0xjXGarrm8gdKOc49) | 2:59 | 2025-04-25 | 2025-05-02 |
+| [If Not Now, When](https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [If Not Now, When](https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6) | 3:57 | 2026-08-21 |  |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-03-21 |
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-04 | 2024-10-11 |
 | [If The Moon Could Talk](https://open.spotify.com/track/4iEGTkv4J9zdF8N3GKDNbU) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [If The Moon Could Talk](https://open.spotify.com/album/3dk3V7erqX9ayeIFFsM2VU) | 2:51 | 2025-01-31 | 2025-02-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > copos pro alto, cada um com o seu\. Foto: Yuri Redicopa
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,458 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,467 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 44 | [Amor É F\*Da](https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Amor É F\*Da](https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU) | 2:31 |
 | 45 | [Rebola Na Vara](https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ) | [DJ Shua](https://open.spotify.com/artist/5KxqaJcX319zOOEj8E7ZUC), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Conexão do Funk](https://open.spotify.com/artist/4gsXN66pofmZfqIMrOEFX3) | [Rebola Na Vara](https://open.spotify.com/album/6YDmmUKfUc341SLnyQjy7g) | 2:29 |
 | 46 | [Querendo Mais](https://open.spotify.com/track/04AZrSh1KmpUjwKvIr2KBM) | [LyNDoN](https://open.spotify.com/artist/45A52B51OE7bqXGiNvUsRQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO), [Dos Mlk](https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH) | [Querendo Mais](https://open.spotify.com/album/2gJASJpKwhuR1fC1y1eSzl) | 2:30 |
-| 47 | [BANDIDO COM BANDIDA](https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BANDIDO COM BANDIDA](https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ) | 2:51 |
+| 47 | [Status / Lil Tecca](https://open.spotify.com/track/7myEAgjrvcstCvnn4UGDwG) | [Meygô](https://open.spotify.com/artist/6V17FvnvaDuA6vfnO4uKag), [Shigueru](https://open.spotify.com/artist/0rxJWcxlicSQkWkNGXumXE) | [Status / Lil Tecca](https://open.spotify.com/album/5G3rPY7clQWQXtnUehZsRA) | 3:41 |
 | 48 | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u) | 1:33 |
-| 49 | [Status / Lil Tecca](https://open.spotify.com/track/7myEAgjrvcstCvnn4UGDwG) | [Meygô](https://open.spotify.com/artist/6V17FvnvaDuA6vfnO4uKag), [Shigueru](https://open.spotify.com/artist/0rxJWcxlicSQkWkNGXumXE) | [Status / Lil Tecca](https://open.spotify.com/album/5G3rPY7clQWQXtnUehZsRA) | 3:41 |
+| 49 | [BANDIDO COM BANDIDA](https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BANDIDO COM BANDIDA](https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ) | 2:51 |
 | 50 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |
 
-Snapshot ID: `AAAAAEL7AxP+rHeGzCHPwVxmG/pj1MxM`
+Snapshot ID: `AAAAAOK6AsMujpnayiZYfJvy74tpTfDN`

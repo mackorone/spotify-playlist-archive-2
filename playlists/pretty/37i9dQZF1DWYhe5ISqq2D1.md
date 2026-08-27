@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: 安部勇磨 Yuma Abe
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,683 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,677 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 2 | [灰色](https://open.spotify.com/track/6PYfA9CD3St7NslD3BYIBT) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [灰色](https://open.spotify.com/album/1EufinSeQ5upq1feUZuGBm) | 4:07 |
 | 3 | [バブル \- Bubble](https://open.spotify.com/track/0czwFOJ6lZAcV0FgZOyKpa) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [バブル \- Bubble](https://open.spotify.com/album/6ndrC8VMLmXj8W5ORtUO1B) | 3:18 |
 | 4 | [Suki](https://open.spotify.com/track/3r7jM6T97NvJmt5gS9Cmy3) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Suki](https://open.spotify.com/album/1n9HSY9iSLtIBK1PG5BI1B) | 3:50 |
-| 5 | [Track 12](https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [BABY! PINK! MUSIC!](https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene) | 0:00 |
+| 5 | [LAST GIRL DUST](https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [BABY! PINK! MUSIC!](https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene) | 4:43 |
 | 6 | [SUMMER BUG](https://open.spotify.com/track/0ZEk9KauJiNCNxAClievYd) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SUMMER BUG](https://open.spotify.com/album/7kqLpKMwG8cnCqtNziMRqK) | 3:35 |
 | 7 | [Rain Song](https://open.spotify.com/track/2RDHDpLMNnd6jtMJujLWb9) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [31](https://open.spotify.com/album/4lbDFA1xxTXWSAExmb9dOy) | 3:52 |
 | 8 | [かげろう](https://open.spotify.com/track/5BKwzntuwwe6V5oapO6eJ4) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [かげろう](https://open.spotify.com/album/2et7q2u7h9RYelRR24tCPQ) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 99 | [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 |
 | 100 | [クラウン新車で買ってあげる](https://open.spotify.com/track/3TZhfwTNDdyFpBlkodbsMx) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [クラウン新車で買ってあげる](https://open.spotify.com/album/79IX9gKiY14TsuQ7UldJoS) | 5:47 |
 
-Snapshot ID: `AAAAAKU908jbmoTj972kItVvSEoX2UDT`
+Snapshot ID: `AAAAAFW4UT9Qp9ElslDiXUVkSlTptMrP`

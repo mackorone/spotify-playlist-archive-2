@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Let Jesus take the wheel...and the aux cord!
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,660 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,849 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 99 | [I'd Be Lying](https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I'd Be Lying](https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ) | 2:34 |
 | 100 | [Ain't It Beautiful](https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [Ain't It Beautiful](https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq) | 3:34 |
 
-Snapshot ID: `AAAAAJ7jwC/Dz63XYDWHWd42Ci38uGpt`
+Snapshot ID: `AAAAAHA3HsRLDoDIWT7kHRzaPyaNGsMH`

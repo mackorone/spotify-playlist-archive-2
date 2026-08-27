@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: For Revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,859 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518,004 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Miss You Every Brand New Day \- From "Spider\-Man: Brand New Day" Movie](https://open.spotify.com/track/0I30Y8ENk7RLUsyFj9VElJ) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [I Miss You Every Brand New Day \(From "Spider\-Man: Brand New Day" Movie\)](https://open.spotify.com/album/0oHozoyyDMK8Txgqf3e6xk) | 4:00 |
 | 2 | [Kita Lewati Berdua](https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds) | [Overnight](https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK) | [Kita Lewati Berdua](https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4) | 3:59 |
-| 3 | [Training Season \(Live from the Royal Albert Hall\)](https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \- Live from the Royal Albert Hall](https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS) | 3:40 |
+| 3 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 4 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
 | 5 | [Laskar Cinta \(Chapter One\)](https://open.spotify.com/track/5jyqLgqCPOBmHvQHwXB8UA) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Republik Cinta](https://open.spotify.com/album/1Q2GOq3a5fCDTww2740WCE) | 4:04 |
 | 6 | [Ceritaku Ceritamu](https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz) | [Katyana](https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Ceritaku Ceritamu](https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 99 | [All I Need To Hear](https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 3:30 |
 | 100 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
 
-Snapshot ID: `AAAAAFC5QWaMmT0MqGq3qwZov+lah/+4`
+Snapshot ID: `AAAAAF0+ErSgFp6NKTumDhmiBVpmf7IJ`

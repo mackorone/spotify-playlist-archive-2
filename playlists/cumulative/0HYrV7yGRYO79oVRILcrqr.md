@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-693 songs - 1 day 19 hr 6 min
+694 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Punch the Clown](https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Punch the Clown](https://open.spotify.com/album/16tI9R9L3aJyHYksO5A0vF) | 3:28 | 2026-08-05 |  |
 | [Punk Parrot](https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 3:03 | 2026-07-07 |  |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 | 2025-12-17 |
+| [Pure Love](https://open.spotify.com/track/5QcqsZF84HiIiyLrSguLYM) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [Pure Love](https://open.spotify.com/album/5V3aOpDgcXhePNQSpXkiJ2) | 1:59 | 2026-08-26 |  |
 | [Put your love away](https://open.spotify.com/track/2nBW7kWB6Tkln9MLeP7Rj4) | [Barry Postlethwaite](https://open.spotify.com/artist/1xGEOSqUsYYL3SZCASwPEo) | [The Circle and the Stone](https://open.spotify.com/album/3R1XzgDWQ4Geeyl3YQeQTQ) | 4:25 | 2026-06-07 |  |
 | [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 | 2026-06-04 | 2026-06-18 |
 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 | 2026-05-01 | 2026-05-26 |

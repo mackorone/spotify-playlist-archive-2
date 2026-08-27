@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Culoe De Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,556 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,649 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 59 | [Njururi](https://open.spotify.com/track/7tuyoCLrqLDKBWq1Wdxsge) | [Trekkah](https://open.spotify.com/artist/3YTAXxEhKGNPtxjYgSl92V), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [Njururi](https://open.spotify.com/album/59vwhG5i2FYnbcncmdXXfL) | 3:45 |
 | 60 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/7k5fnVM7UaT6HMxqbV6bhz) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
 
-Snapshot ID: `AAAAAJb9u93Eeno2VLuCnmG/sdGKMh3U`
+Snapshot ID: `AAAAAHZvKGIXNlw5SSbCO3kx4kFjpcjI`

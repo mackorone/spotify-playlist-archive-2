@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-484 songs - 1 day 20 hr 11 min
+485 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2020-07-14 | 2023-04-14 |
 | [You Are \(Live\)](https://open.spotify.com/track/5DOe949J5w1cD7WvxChUwA) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 6:37 | 2023-03-31 | 2023-05-13 |
 | [You Are Good](https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7) | [Alexandrah](https://open.spotify.com/artist/0e3Clj8aoKy6OVMXB2OLKw) | [You Are Good](https://open.spotify.com/album/6JXr5LCZGSdxvucaw1Ckj8) | 11:37 | 2023-06-16 | 2023-06-23 |
+| [YOU ARE GOOD](https://open.spotify.com/track/3OBCah0meHK9O5Ss3dztNZ) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Flames Of A Wildfire](https://open.spotify.com/album/21wuL307v10SocLogEugfv) | 5:06 | 2026-08-26 |  |
 | [You Are Good](https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [You Are Good](https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf) | 2:07 | 2023-03-31 | 2023-06-23 |
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-02-02 |  |
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2018-10-01 | 2023-04-01 |

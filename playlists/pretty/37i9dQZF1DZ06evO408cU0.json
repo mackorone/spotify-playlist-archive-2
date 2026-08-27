@@ -1,6 +1,6 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 64976,
+  "num_followers": 64980,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
@@ -95,38 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia De Mis Manos",
-        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Encontrarte",
-      "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Y Te Vas",
-      "url": "https://open.spotify.com/track/4ZD7Np5r6s211dhZHospvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -139,6 +107,22 @@
       "duration_ms": 214666,
       "name": "Lo Que Pienso De Ti",
       "url": "https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Encontrarte",
+      "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
     },
     {
       "added_at": null,
@@ -159,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Y Te Vas",
+      "url": "https://open.spotify.com/track/4ZD7Np5r6s211dhZHospvV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hombre De Trabajo",
         "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 132640,
       "name": "Te Cambio El Domicilio",
       "url": "https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "La Doble Cara",
-      "url": "https://open.spotify.com/track/2uwqirVqRqfvheLbsizzAW"
     },
     {
       "added_at": null,
@@ -219,6 +203,22 @@
       "duration_ms": 207200,
       "name": "El Mentiroso",
       "url": "https://open.spotify.com/track/5OQGBfftOwNNCurN60x8SC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "La Doble Cara",
+      "url": "https://open.spotify.com/track/2uwqirVqRqfvheLbsizzAW"
     },
     {
       "added_at": null,
@@ -273,7 +273,7 @@
         }
       ],
       "duration_ms": 223566,
-      "name": "Te So\u00f1\u00e9 (En Vivo)",
+      "name": "Te So\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
     },
     {
@@ -361,7 +361,7 @@
         }
       ],
       "duration_ms": 137555,
-      "name": "Te Vas Amor (En Vivo)",
+      "name": "Te Vas Amor - En Vivo",
       "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
     },
     {
@@ -529,7 +529,7 @@
         }
       ],
       "duration_ms": 199464,
-      "name": "Aqu\u00ed No Se Termina (En Vivo)",
+      "name": "Aqu\u00ed No Se Termina - En Vivo",
       "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
     },
     {
@@ -795,30 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -851,6 +827,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Consentidos De Don Chuy",
         "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 154040,
-      "name": "Porque As\u00ed Ten\u00eda Que Ser",
-      "url": "https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -903,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+        "name": "Fibras Sensibles",
+        "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
       },
       "artists": [
         {
@@ -912,9 +896,25 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 187720,
-      "name": "Mis Dos Vicios",
-      "url": "https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6"
+      "duration_ms": 200720,
+      "name": "Fibras Sensibles",
+      "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 154040,
+      "name": "Porque As\u00ed Ten\u00eda Que Ser",
+      "url": "https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

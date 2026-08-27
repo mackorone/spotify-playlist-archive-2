@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Cherry Chola en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,310 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,315 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 74 | [MARIPOSA TECKNICOLOR](https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [MARIPOSA TECKNICOLOR](https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6) | 3:00 |
 | 75 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
 
-Snapshot ID: `AAAAALOWWWinoFaeBWr9BQu1kNM9aVQk`
+Snapshot ID: `AAAAAAcZDNK/64j7eN8et1ThlH+uobJp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,102 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,133 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Stop Me \- Rework 2021](https://open.spotify.com/track/5UcAT22ECpcjMjb0UExpDH) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Reworks 2021 \(Rework 2021\)](https://open.spotify.com/album/3y4u801R1u6FnChsCTzUKg) | 5:18 |
 | 100 | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/track/5f4JemFGhXM4755zhVElIi) | [Kyo\-2](https://open.spotify.com/artist/4eC4Y8j9lLRk0YcnDHH5cE), [Macintosh Plus](https://open.spotify.com/artist/2hkoUqWFI4KP39O9MViMY3), [Saint Pepsi](https://open.spotify.com/artist/3b014NFgLGBMV2q0sGyFQM), [Benny Alexander](https://open.spotify.com/artist/3sEoVGHwnRpTQGOicq6iJH) | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/album/3jUuevbHg51FltoeAjJ7bi) | 3:34 |
 
-Snapshot ID: `AAAAAL5uSnFnX1jpyWAGcqZr7oLqWk0S`
+Snapshot ID: `AAAAAMxKwm8JHIq7cHSxiH5D8+GFm2WB`

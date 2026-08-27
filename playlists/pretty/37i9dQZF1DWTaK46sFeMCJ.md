@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaK46sFeMCJ.md) - [plain]
 
 > 승객 여러분, 현지와 함께 일상에서 이륙해 음악과 함께 여행을 떠날 시간입니다\. ✈️ \(Take off from the everyday with Hyunji and embark on a musical journey.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaK46sFeMCJ.md) - [plain]
 | 35 | [Home](https://open.spotify.com/track/6e0ecJzELnbOuG0hRBGFLT) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:27 |
 | 36 | [GOOD BYE SONG](https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [fourfive](https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:10 |
 
-Snapshot ID: `AAAAAFRZSUgVrVLke1+D37uCKQZQRf1Y`
+Snapshot ID: `AAAAAFvD1oVEGzPONRw7l1mVOzgDOzN3`

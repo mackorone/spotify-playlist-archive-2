@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Melvin Crispell III, Amber Bullock and more
+> With Marvin Winans, Kelontae Gavin, Amber Bullock and more
 
 2,026 songs - 6 day 12 hr 57 min
 

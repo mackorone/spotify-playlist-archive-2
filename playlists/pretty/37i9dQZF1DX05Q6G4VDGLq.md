@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,217 likes - 250 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,220 likes - 250 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 249 | [Faded pictures of the past](https://open.spotify.com/track/4RRX9y5c5BZWFV1VHifBaI) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Faded pictures of the past](https://open.spotify.com/album/1klQ4UOFEcvzyASnUsvLwK) | 3:27 |
 | 250 | [A Done Deal](https://open.spotify.com/track/1v2iAku96PHntQbjzOrNUT) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [A Done Deal](https://open.spotify.com/album/0DCmCfxsTGYPUTXW90tf6H) | 4:29 |
 
-Snapshot ID: `AAAAAKFmjdz3k4FV/p/fcQOpxpUoteNn`
+Snapshot ID: `AAAAAGWn45Kq3w+HcQgpq63cORLA8xoW`

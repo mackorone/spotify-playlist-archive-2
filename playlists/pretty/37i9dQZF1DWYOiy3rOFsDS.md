@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con Tuffic en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,395 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,337 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Aquellos Ojos Verdes](https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD) | [Aquellos Ojos Verdes](https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx) | 3:10 |
 | 100 | [Una Mañana](https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM) | [Denise Gutiérrez](https://open.spotify.com/artist/3EqIHpUI8pbcH5UgqZBWbW) | [Una Mañana](https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX) | 2:51 |
 
-Snapshot ID: `AAAAAPVPerehKZc/BJjpyhTO2jHPKkIr`
+Snapshot ID: `AAAAAGRKh5EWpIjbUOr6vqVx5jVXDec3`

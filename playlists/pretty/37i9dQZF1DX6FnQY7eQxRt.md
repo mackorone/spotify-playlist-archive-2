@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,056 likes - 115 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,050 likes - 115 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 | 114 | [The Linden Tree Carol](https://open.spotify.com/track/4obESH2AudyM1TsqpQMG8l) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Elora Singers](https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5), [Noel Edison](https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy) | [The Mystery of Christmas](https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr) | 1:41 |
 | 115 | [King Jesus Hath a Garden](https://open.spotify.com/track/26gykO1LdAsBHUK3dlYoOM) | [The Elora Singers](https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5), [Noel Edison](https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy) | [The Mystery of Christmas](https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr) | 2:29 |
 
-Snapshot ID: `AAAAAHAM7u7/XBekTt0yJlEAzGoDi2Ei`
+Snapshot ID: `AAAAAESeXbS1D6VWdxcOkO3dh1O60cOg`

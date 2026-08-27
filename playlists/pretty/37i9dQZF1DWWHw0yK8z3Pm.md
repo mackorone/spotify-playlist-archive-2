@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,371 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,374 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Back to Me](https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Back to Me](https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML) | 3:01 |
 | 100 | [January](https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP) | [Marie Dresselhuis](https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL) | [January](https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w) | 3:17 |
 
-Snapshot ID: `AAAAAN/cymc+zdKUAAidG63FDwJIL0Wa`
+Snapshot ID: `AAAAAPAy10M/BYOPMoV7bD06gZxQd7wP`

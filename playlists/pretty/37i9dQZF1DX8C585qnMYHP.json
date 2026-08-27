@@ -1,28 +1,48 @@
 {
-  "description": "The best new music by independent Experimental artists. DjRUM on cover. Artwork by Thami Nabil.",
-  "num_followers": 200036,
+  "description": "The best new music by independent Experimental artists. Dance Arts Center on cover. Artwork by Thami Nabil.",
+  "num_followers": 200083,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJIlLMdwI6nS0Dvppj7ilD34oeiW",
+  "snapshot_id": "AAAAAMBDXP1XNq8ZM6eLfdWV4RGwegMH",
   "tracks": [
     {
-      "added_at": "2026-08-13 12:07:23",
+      "added_at": "2026-08-26 17:44:18",
       "album": {
-        "name": "I Wander (IV + V)",
-        "url": "https://open.spotify.com/album/2llnA988XlEflLbh7FgXco"
+        "name": "dance arts center re-presents",
+        "url": "https://open.spotify.com/album/4uhXQ1tTy3JWFOQlalhYER"
       },
       "artists": [
         {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+          "name": "dance arts center",
+          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
+        },
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
         }
       ],
-      "duration_ms": 206776,
-      "name": "I Wander (IV + V)",
-      "url": "https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx"
+      "duration_ms": 331615,
+      "name": "everyone was talking about you last night - CFCF remix",
+      "url": "https://open.spotify.com/track/0oZYVHva0HRZ9GhAr1ZIED"
+    },
+    {
+      "added_at": "2026-08-26 17:44:18",
+      "album": {
+        "name": "Overstimulation",
+        "url": "https://open.spotify.com/album/0OqxCcvKl3ZZ0hmvkbc3b8"
+      },
+      "artists": [
+        {
+          "name": "Normal Pleasure",
+          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Overstimulation",
+      "url": "https://open.spotify.com/track/4TalMAISBeuezixiWJQ0fe"
     },
     {
       "added_at": "2026-08-19 17:49:37",
@@ -47,6 +67,26 @@
       "duration_ms": 285600,
       "name": "coil",
       "url": "https://open.spotify.com/track/2P2g5y4QoFslFXxgzV9oGq"
+    },
+    {
+      "added_at": "2026-08-26 17:44:18",
+      "album": {
+        "name": "JUGO VOL. II",
+        "url": "https://open.spotify.com/album/6QrONObRuKCB5T1EXwwEcr"
+      },
+      "artists": [
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        },
+        {
+          "name": "GIANNI BATISTA",
+          "url": "https://open.spotify.com/artist/5iSMyYsc5bLW4sz3XryYnH"
+        }
+      ],
+      "duration_ms": 122068,
+      "name": "PAMPAM",
+      "url": "https://open.spotify.com/track/5cRmsel42Ci9QU7nuCSn37"
     },
     {
       "added_at": "2026-07-17 17:13:46",
@@ -81,6 +121,22 @@
       "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
     },
     {
+      "added_at": "2026-08-26 17:44:18",
+      "album": {
+        "name": "The Primitivist",
+        "url": "https://open.spotify.com/album/7m0Q3So6r7xdU3MeXbM7Vb"
+      },
+      "artists": [
+        {
+          "name": "ABADIR",
+          "url": "https://open.spotify.com/artist/5x4riXfgUdVCXbrOIFxn51"
+        }
+      ],
+      "duration_ms": 343378,
+      "name": "Habban",
+      "url": "https://open.spotify.com/track/0qlVHdjqbKgsL7Ayt8YHLn"
+    },
+    {
       "added_at": "2026-08-19 17:49:37",
       "album": {
         "name": "Bruises",
@@ -95,6 +151,22 @@
       "duration_ms": 255562,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/1pcrkqCHe2CT7efJuNuvf0"
+    },
+    {
+      "added_at": "2026-08-13 12:07:23",
+      "album": {
+        "name": "I Wander (IV + V)",
+        "url": "https://open.spotify.com/album/2llnA988XlEflLbh7FgXco"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 206776,
+      "name": "I Wander (IV + V)",
+      "url": "https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx"
     },
     {
       "added_at": "2026-07-24 04:01:47",
@@ -127,6 +199,22 @@
       "duration_ms": 353757,
       "name": "Tabla Trouble",
       "url": "https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7"
+    },
+    {
+      "added_at": "2026-08-26 17:44:18",
+      "album": {
+        "name": "Track 4",
+        "url": "https://open.spotify.com/album/6zSiTkWbHkPDoQNNyYHYdT"
+      },
+      "artists": [
+        {
+          "name": "estelle allen",
+          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
+        }
+      ],
+      "duration_ms": 164725,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/1i9PajnrLIEwopapdvD3Se"
     },
     {
       "added_at": "2026-08-19 17:49:37",

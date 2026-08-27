@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,649 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,961 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 99 | [Wind](https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 11](https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK) | 3:37 |
 | 100 | [HEAVEN](https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Guardian \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ) | 4:19 |
 
-Snapshot ID: `AAAAAG58DTWc7l9yuUzL10UpR2By3/Lf`
+Snapshot ID: `AAAAAPYxHrVimf5bRDPECrP9PUJj1xyx`

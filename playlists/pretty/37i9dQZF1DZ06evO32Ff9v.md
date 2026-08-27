@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,274 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,300 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [Los Vargas](https://open.spotify.com/track/4DnK6AzeP5qfRff5ngA0KQ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:21 |
 | 50 | [Por el Pueblo y Para el Pueblo](https://open.spotify.com/track/0r4FuLHmh5yE9TBBFOHikB) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Alta Gama](https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m) | [Por el Pueblo y Para el Pueblo](https://open.spotify.com/album/1wgidFNBRzoFtGx8NXhKm2) | 4:16 |
 
-Snapshot ID: `aouJgAAAAABoHHBmH6K8IYZQvq02JAJy`
+Snapshot ID: `aozbAAAAAABo62uKrqhz8yyFItvQiZFc`

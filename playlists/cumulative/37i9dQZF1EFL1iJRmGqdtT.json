@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Beard",
+        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Blu June",
+          "url": "https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154581,
+      "name": "Callin (feat. Blu june)",
+      "url": "https://open.spotify.com/track/2AkCZp2KY0bUg1NQvUQdD9"
+    },
+    {
+      "album": {
         "name": "Can't Relate",
         "url": "https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8"
       },
@@ -1148,6 +1170,24 @@
       "duration_ms": 185979,
       "name": "Issues/Hold On",
       "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
+    },
+    {
+      "album": {
+        "name": "Beard",
+        "url": "https://open.spotify.com/album/0xMXIiodQWKdWJ6DA9d9pL"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242088,
+      "name": "Jasmin 17",
+      "url": "https://open.spotify.com/track/3vVr42wJhMElLrb0ivdJJD"
     },
     {
       "album": {

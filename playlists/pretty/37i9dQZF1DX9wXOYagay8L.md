@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: MaWhoo, Lwah Ndlunkulu
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,555 likes - 101 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,733 likes - 101 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 100 | [Friend Zone](https://open.spotify.com/track/6LD23718ptbF2UipIVjoaN) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Friend Zone](https://open.spotify.com/album/2R464IbguB4Bf4PAqo6I2F) | 3:24 |
 | 101 | [Nhliziyo Yami](https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [Nhliziyo Yami](https://open.spotify.com/album/63T7KXcTB6F4nGpThALrTs) | 4:06 |
 
-Snapshot ID: `AAAAANCDmPBwJ8Z3aU6Q+aGqKmCX+zgX`
+Snapshot ID: `AAAAAAVyQLB+3W08aXPtGpg251oZkTSO`

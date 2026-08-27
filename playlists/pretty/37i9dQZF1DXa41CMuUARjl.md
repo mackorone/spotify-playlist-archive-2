@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Duke Dumont, LP Giobbi, jigitz, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,051 likes - 130 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,045 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 129 | [Sugar Daddy](https://open.spotify.com/track/7oM7lXt0MMT6whswZZ3E3e) | [AJK](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [Sugar Daddy EP](https://open.spotify.com/album/5jThQDaZX0DLmU5c30uraQ) | 3:39 |
 | 130 | [Girlies](https://open.spotify.com/track/2eCcLOtzHZJ92p2Y1VREC2) | [Slaycey](https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq), [Rach Brosman](https://open.spotify.com/artist/0H30Ecz1c9Yqzn2O49dLKe) | [Girlies](https://open.spotify.com/album/26CjFmgbRRO5jeFc9qEu81) | 3:40 |
 
-Snapshot ID: `AAAAAOA8tdM/k9to5aDHpR1ooYcgNXG9`
+Snapshot ID: `AAAAALVHtLa4s4MBNorolfMcqFPEUqRu`

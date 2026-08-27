@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Chico da Tina
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,946 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,959 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [10MIN ∆](https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:48 |
 | 70 | [Yo te loviu](https://open.spotify.com/track/4VTAK1Jlwvge6wO5Y7cfrt) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Yo te loviu](https://open.spotify.com/album/5oUjDTrhhWfUCkB71wq8qH) | 2:29 |
 
-Snapshot ID: `AAAAAIpcSPE+kCbOiaWW57yQPwPb6CpY`
+Snapshot ID: `AAAAABiTgKVhcZ4JA6A+KQ9qjwtwn0S9`

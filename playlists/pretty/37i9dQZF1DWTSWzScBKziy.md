@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Anne Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,107 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,207 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 74 | [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 |
 | 75 | [GOODBYE 2 OLD ME](https://open.spotify.com/track/4bqSz8o52LIAEO4l5FDshO) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL), [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [GOODBYE 2 OLD ME](https://open.spotify.com/album/5wKs7EtlFsXVuptRgqpQ86) | 2:44 |
 
-Snapshot ID: `AAAAAOIjC0mLQEdnvXsdMmawJU4Qegmf`
+Snapshot ID: `AAAAAIm9hgcmn2jP2UUHsytwN+WbEmCx`

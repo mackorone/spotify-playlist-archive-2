@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Janek Bidiuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,417 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,416 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 64 | [O miłości, nie ten czas](https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3) | [Oliwia Johnson](https://open.spotify.com/artist/5heu38RNkoNKlzY8Au5wWW) | [O miłości, nie ten czas](https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM) | 2:52 |
 | 65 | [STILL PRETTY WHEN I CRY](https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [STILL PRETTY WHEN I CRY](https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX) | 2:39 |
 
-Snapshot ID: `AAAAAKZwr4p4zRG04apisnLjhe0YOUDn`
+Snapshot ID: `AAAAADQvE+j1B/myzsWrHvdqDghkJSBE`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by independent Experimental artists. DjRUM on cover. Artwork by Thami Nabil.",
+  "description": "The best new music by independent Experimental artists. Dance Arts Center on cover. Artwork by Thami Nabil.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -12107,6 +12107,28 @@
     },
     {
       "album": {
+        "name": "dance arts center re-presents",
+        "url": "https://open.spotify.com/album/4uhXQ1tTy3JWFOQlalhYER"
+      },
+      "artists": [
+        {
+          "name": "dance arts center",
+          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
+        },
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331615,
+      "name": "everyone was talking about you last night - CFCF remix",
+      "url": "https://open.spotify.com/track/0oZYVHva0HRZ9GhAr1ZIED"
+    },
+    {
+      "album": {
         "name": "Everything but the Hate",
         "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
       },
@@ -15662,6 +15684,24 @@
       "duration_ms": 275560,
       "name": "GUNMAN CORNER",
       "url": "https://open.spotify.com/track/0uIyIyOwrgxTDnBqcWBosz"
+    },
+    {
+      "album": {
+        "name": "The Primitivist",
+        "url": "https://open.spotify.com/album/7m0Q3So6r7xdU3MeXbM7Vb"
+      },
+      "artists": [
+        {
+          "name": "ABADIR",
+          "url": "https://open.spotify.com/artist/5x4riXfgUdVCXbrOIFxn51"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343378,
+      "name": "Habban",
+      "url": "https://open.spotify.com/track/0qlVHdjqbKgsL7Ayt8YHLn"
     },
     {
       "album": {
@@ -26999,6 +27039,24 @@
     },
     {
       "album": {
+        "name": "Overstimulation",
+        "url": "https://open.spotify.com/album/0OqxCcvKl3ZZ0hmvkbc3b8"
+      },
+      "artists": [
+        {
+          "name": "Normal Pleasure",
+          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Overstimulation",
+      "url": "https://open.spotify.com/track/4TalMAISBeuezixiWJQ0fe"
+    },
+    {
+      "album": {
         "name": "OXI Ambigan",
         "url": "https://open.spotify.com/album/4uUL7GvJCrN1aKgV6xVslz"
       },
@@ -27068,6 +27126,28 @@
       "duration_ms": 535000,
       "name": "Palloon",
       "url": "https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ"
+    },
+    {
+      "album": {
+        "name": "JUGO VOL. II",
+        "url": "https://open.spotify.com/album/6QrONObRuKCB5T1EXwwEcr"
+      },
+      "artists": [
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        },
+        {
+          "name": "GIANNI BATISTA",
+          "url": "https://open.spotify.com/artist/5iSMyYsc5bLW4sz3XryYnH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122068,
+      "name": "PAMPAM",
+      "url": "https://open.spotify.com/track/5cRmsel42Ci9QU7nuCSn37"
     },
     {
       "album": {
@@ -38088,6 +38168,24 @@
       "duration_ms": 245901,
       "name": "track 2",
       "url": "https://open.spotify.com/track/152VJTzJh0a9XQbVivoOVI"
+    },
+    {
+      "album": {
+        "name": "Track 4",
+        "url": "https://open.spotify.com/album/6zSiTkWbHkPDoQNNyYHYdT"
+      },
+      "artists": [
+        {
+          "name": "estelle allen",
+          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164725,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/1i9PajnrLIEwopapdvD3Se"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,997 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,185 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Plus tôt \(String Quartet Version\) \- Spotify Singles](https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 3:53 |
 | 100 | [Valse lente, Op\. 33 \(Arr\. For orchestra\)](https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39) | [Oskar Merikanto](https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd), [Turku Philharmonic Orchestra](https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB), [Jorma Panula](https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi) | [Early One Morning](https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe) | 3:00 |
 
-Snapshot ID: `AAAAAGERe9uV/21ZiqyQy6LZv9wOZ4mx`
+Snapshot ID: `AAAAACGIX5XWW2H98/uNsBKgKBx3TkDl`

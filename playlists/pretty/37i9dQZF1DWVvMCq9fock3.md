@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvMCq9fock3.md) - [plain]
 
 > Get your pride party/pregame/kiki/brunch/afters started with these iconic new and classic videos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,058 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,109 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvMCq9fock3.md) - [plain]
 | 49 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 50 | [When I Grow Up](https://open.spotify.com/track/4ruWsNUGODojpHoFKgR8wv) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination](https://open.spotify.com/album/4gOTAul6zDyobkQLBg5ZGu) | 4:05 |
 
-Snapshot ID: `AAAAAKsS72xv14ElICgOldpIyLRTvAin`
+Snapshot ID: `AAAAAB7gLHZ4B24cBl8GzmRCMHEg1lt3`

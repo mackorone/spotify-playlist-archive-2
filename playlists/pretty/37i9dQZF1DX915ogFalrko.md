@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,230 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,222 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 99 | [Blue Summer](https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Blue Summer](https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18) | 3:40 |
 | 100 | [No Juego](https://open.spotify.com/track/4PKlFsTOV2SOCskSUS86Je) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [No Juego](https://open.spotify.com/album/3UycolNGNA7DMQZBvOITR2) | 3:10 |
 
-Snapshot ID: `AAAAAHK6OrakA/GVcMh6G4GQnO8+Vo5u`
+Snapshot ID: `AAAAAG1AaxMcGW7doSKP3CBOH7/1bbtJ`

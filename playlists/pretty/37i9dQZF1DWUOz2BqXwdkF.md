@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 
 > Love was never part of the deal\. Listen to the music from and inspired by Off Campus, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,465 likes - 96 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,474 likes - 96 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 | 95 | [Welcome To Briar U](https://open.spotify.com/track/6hoeHG1SBfpfDxPtksN9gM) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 0:36 |
 | 96 | [Sleeping \(Hannah & Garrett Theme\)](https://open.spotify.com/track/1koGvzvltFe1645XVYrhI3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 2:58 |
 
-Snapshot ID: `AAAAAMSB/NM4DxXnh0MRj0RSDQg6T0F/`
+Snapshot ID: `AAAAALTEQTeVBz7r1kVw06EDD/olirCk`

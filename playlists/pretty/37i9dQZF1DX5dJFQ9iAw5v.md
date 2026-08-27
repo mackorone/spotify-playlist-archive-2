@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,210 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,216 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 11 | [Primavera Porteña](https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [100](https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4) | 6:42 |
 | 12 | [Shape of My Heart](https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 5:01 |
 | 13 | [Estambul](https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:55 |
-| 14 | [Una Abeja Durmiente](https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn) | [Baby López Furst](https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7) | [Jazz Argentino](https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg) | 5:03 |
+| 14 | [Viernes 3AM](https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Adrián Iaies](https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh) | [Cinemateca Finlandesa](https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3) | 4:36 |
 | 15 | [Pianistico \(Junto a Lito Vitale\)](https://open.spotify.com/track/1ABl9JwT8wDDu0VkVuQu6v) | [Alejo Leon](https://open.spotify.com/artist/3GUkiSQ2yK6hHubgoLQVmm), [Joana Gieco](https://open.spotify.com/artist/5yFDRiZNBV7oHf4es80nfG), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [Pianistico \(Junto a Lito Vitale\)](https://open.spotify.com/album/4RirLmsbvetn3o23WRSUE4) | 5:44 |
-| 16 | [Viernes 3AM](https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Adrián Iaies](https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh) | [Cinemateca Finlandesa](https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3) | 4:36 |
+| 16 | [Una Abeja Durmiente](https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn) | [Baby López Furst](https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7) | [Jazz Argentino](https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg) | 5:03 |
 | 17 | [Puertas y Ventanas](https://open.spotify.com/track/2OeTcS3A1g1RsUj1xycs5Y) | [ASH Trio](https://open.spotify.com/artist/1lWRqHdNuzCQUaJdl1HUwm), [Hernan Hecht](https://open.spotify.com/artist/7dl3J3Gs0ryFhyeRDypljB), [Juan Pablo Arredondo](https://open.spotify.com/artist/6qcNKGD04YEUm0JlD9bhQv), [Natalio Sued](https://open.spotify.com/artist/1WqYlCDG2cmVXPZ1CcdMOs) | [Formas](https://open.spotify.com/album/5tpPFkMTHnxQBDay46yEqX) | 4:29 |
 | 18 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 |
 | 19 | [Acuático](https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Studio 2](https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt) | 5:27 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 |
 | 76 | [...Baby One More Time](https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [...Baby One More Time](https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M) | 3:21 |
 
-Snapshot ID: `AAAAAABBMvjS8n7rD1oJxRcTFbRA1fk5`
+Snapshot ID: `AAAAACbXOTaWEQxhfud0DVrb3AcKUuNv`

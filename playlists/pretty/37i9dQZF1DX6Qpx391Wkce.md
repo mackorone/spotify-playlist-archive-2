@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,591 likes - 57 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,605 likes - 57 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 56 | [All That Matters \- Instrumental](https://open.spotify.com/track/7mM4O7RvdUpLOrrrxteK34) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [All That Matters](https://open.spotify.com/album/1wzl9KNp71EkjIfzr13gxx) | 9:19 |
 | 57 | [Crossfade \- Maceo Plex Mix](https://open.spotify.com/track/2QsgqAZ4SwuipP30znNeof) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Crossfade Remixe](https://open.spotify.com/album/5AgyAmmEVjtVcKqY3Av1Qc) | 7:33 |
 
-Snapshot ID: `AAAAAGCYQkc+pAb21N4bHFjw2sFr5p/9`
+Snapshot ID: `AAAAAIMBc8E+rnT3ewGQsvLyWpgWxEQu`

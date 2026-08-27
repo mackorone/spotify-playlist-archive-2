@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,196 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,225 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [somebody else \- Denon Reed Remix](https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ), [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE) | [somebody else \(Denon Reed Remix\)](https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF) | 2:20 |
 | 70 | [One For You](https://open.spotify.com/track/1YYqYfP9tEtTjRjtZYy0uU) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [One For You](https://open.spotify.com/album/6MuIJ8Fo03mJBp8TbmuekF) | 1:51 |
 
-Snapshot ID: `AAAAAN55DXJZdPDrz1LsB72K6tpbw6J0`
+Snapshot ID: `AAAAAFqjd1a2ur//9AWnFoqHbRtpaE0D`

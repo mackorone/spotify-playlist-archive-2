@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZxXzpY+sRCoqou5D4shRLo8VAP",
+  "snapshot_id": "AAAAAD00YwccGYyh4g16ZwY871Ed5qEh",
   "tracks": [
     {
       "added_at": "2026-08-21 04:00:00",
@@ -39,54 +39,6 @@
       "duration_ms": 261847,
       "name": "\u0413\u043e\u0440\u043e\u0434 \u043a\u0430\u043c\u043d\u044f \u0438 \u043b\u044c\u0434\u0430",
       "url": "https://open.spotify.com/track/78bFw871c4TvYp7PPL0CqU"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
-        "url": "https://open.spotify.com/album/38kwdYj279Us2qhMW0sMp1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Peter Criss Drum Solo / God Of Thunder - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
-      "url": "https://open.spotify.com/track/1WLCEV65lrULhDoYBoN7qG"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Black Leather Jacket & Sunburn",
-        "url": "https://open.spotify.com/album/5KIcf1soaak14S3jrdaG7G"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 143750,
-      "name": "Black Leather Jacket",
-      "url": "https://open.spotify.com/track/5yj8iyep78B8OSrxHXotAY"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "A Conspiracy Of Stars",
-        "url": "https://open.spotify.com/album/6vd6qe7hH474Zd9hgjZ3pl"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "King Of The Hill - bonus track",
-      "url": "https://open.spotify.com/track/5dw9r6s2NqGcNbPyt3IC2B"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -127,22 +79,38 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "\u304a\u8a95\u751f\u306b\u304a\u3081\u3067\u3068\u3046 (2026)",
-        "url": "https://open.spotify.com/album/4JRwFcBYGkuacIl4s8o1oM"
+        "name": "Black Leather Jacket & Sunburn",
+        "url": "https://open.spotify.com/album/5KIcf1soaak14S3jrdaG7G"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         },
         {
-          "name": "SunoAI",
-          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
+          "name": "Steve Levine",
+          "url": "https://open.spotify.com/artist/2A0J2RjVvRNKk862do9kNo"
         }
       ],
-      "duration_ms": 181888,
-      "name": "\u304a\u8a95\u751f\u306b\u304a\u3081\u3067\u3068\u3046 (2026)",
-      "url": "https://open.spotify.com/track/0kdg6j7R2fCrmUsik4jSuD"
+      "duration_ms": 143750,
+      "name": "Black Leather Jacket",
+      "url": "https://open.spotify.com/track/5yj8iyep78B8OSrxHXotAY"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "A Conspiracy Of Stars",
+        "url": "https://open.spotify.com/album/6vd6qe7hH474Zd9hgjZ3pl"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "King Of The Hill - bonus track",
+      "url": "https://open.spotify.com/track/5dw9r6s2NqGcNbPyt3IC2B"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -163,6 +131,190 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "CHAIKA",
+        "url": "https://open.spotify.com/album/2FAcojfJQzmTsx7OISawK2"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "CHAIKA",
+      "url": "https://open.spotify.com/track/0GqM4O8rhl69yiQw2pCxAc"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
+        "url": "https://open.spotify.com/album/38kwdYj279Us2qhMW0sMp1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Peter Criss Drum Solo / God Of Thunder - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/1WLCEV65lrULhDoYBoN7qG"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Nubada",
+        "url": "https://open.spotify.com/album/4TYpG4CkXlw2lzos7R6bD1"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Felipe Aravena",
+          "url": "https://open.spotify.com/artist/1DULPaN29rrQ1KwduZc3iY"
+        }
+      ],
+      "duration_ms": 236460,
+      "name": "Nada es lo que parece",
+      "url": "https://open.spotify.com/track/0TZ93gswB9Kbe0lCVDOkgt"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Maneater (RITUAL Version)",
+        "url": "https://open.spotify.com/album/3xXlXmguiTfRYGtPwYYtv9"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 441750,
+      "name": "Maneater - RITUAL Version",
+      "url": "https://open.spotify.com/track/5lRjA4wP2YYDtDtRwlj1Xy"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Pudahuel",
+        "url": "https://open.spotify.com/album/7q8rlF5uxhj78bGzx55jft"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "EST\u00c9REO FAM",
+          "url": "https://open.spotify.com/artist/6jeSza4zrBFTWtwvMEAVan"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Pudahuel",
+      "url": "https://open.spotify.com/track/3GWPWvvwtdpnbnw6Ek3sYE"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "A Way Back",
+        "url": "https://open.spotify.com/album/7cQcJNFo9FDJx1eAFImP19"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "duration_ms": 357122,
+      "name": "A Way Back",
+      "url": "https://open.spotify.com/track/0mH5LeDkESlflY8CvVaVM2"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Ducker Mafioso Por Siempre",
+        "url": "https://open.spotify.com/album/4QsOwRIJw8DDetIUrCqWtY"
+      },
+      "artists": [
+        {
+          "name": "Ducker Mafia",
+          "url": "https://open.spotify.com/artist/1LlgZF2hQco9VwrVPMX4oQ"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Benjahhmin",
+          "url": "https://open.spotify.com/artist/3e1ZewqE6tEAudJjUbmbag"
+        },
+        {
+          "name": "Frangenio",
+          "url": "https://open.spotify.com/artist/3xB8OkIDKukDlZwmGxRgZa"
+        },
+        {
+          "name": "DEMONBLACK",
+          "url": "https://open.spotify.com/artist/3oMjtIktYe0GqR01XJ8Gi8"
+        },
+        {
+          "name": "Deblockztars",
+          "url": "https://open.spotify.com/artist/2C1mSOwDSva0R9FPiZBRey"
+        },
+        {
+          "name": "Claudio Bastardo",
+          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
+        },
+        {
+          "name": "Gsus Prime",
+          "url": "https://open.spotify.com/artist/5AytyH1mfY9hIiveSbBW9q"
+        },
+        {
+          "name": "W1zrd",
+          "url": "https://open.spotify.com/artist/7pbaQCP7QSkFYur9VYfGSw"
+        },
+        {
+          "name": "Rayking",
+          "url": "https://open.spotify.com/artist/4xmQ2e7dnf3Lf6nIGoVUTB"
+        },
+        {
+          "name": "Dr. Selta",
+          "url": "https://open.spotify.com/artist/7nRhqGUo9eGVNNG5g2baEH"
+        },
+        {
+          "name": "FRANCY MC",
+          "url": "https://open.spotify.com/artist/2P65ORYGQm4DmMDgDajZqi"
+        },
+        {
+          "name": "Adonorte",
+          "url": "https://open.spotify.com/artist/3Avjk2CdeYOHSId7UYO28r"
+        },
+        {
+          "name": "Big Doyan",
+          "url": "https://open.spotify.com/artist/0Wevf88h6ReLzesOnYSGee"
+        },
+        {
+          "name": "Chris Metrik",
+          "url": "https://open.spotify.com/artist/0DkNH15pG7kRTPP50Rpe7R"
+        }
+      ],
+      "duration_ms": 462221,
+      "name": "Ducker Mafioso Por Siempre",
+      "url": "https://open.spotify.com/track/1eCD5wNhte379hjoWVBMpD"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC"
       },
@@ -179,18 +331,18 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "CHAIKA",
-        "url": "https://open.spotify.com/album/2FAcojfJQzmTsx7OISawK2"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/09n6BizgVeSbVKQNxw2WgU"
       },
       "artists": [
         {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+          "name": "Firtan",
+          "url": "https://open.spotify.com/artist/1fevQX8HS898wns7GKH3pR"
         }
       ],
-      "duration_ms": 253000,
-      "name": "CHAIKA",
-      "url": "https://open.spotify.com/track/0GqM4O8rhl69yiQw2pCxAc"
+      "duration_ms": 428620,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/1RrLt4E4pCOd9FEb1OuB7F"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -239,110 +391,42 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "A Way Back",
-        "url": "https://open.spotify.com/album/7cQcJNFo9FDJx1eAFImP19"
+        "name": "\"A Classical Evening\" - Music by Debussy, Chopin & More",
+        "url": "https://open.spotify.com/album/4mpLiX0NSp4X8bYaSXb3nL"
       },
       "artists": [
         {
-          "name": "Cult Of Luna",
-          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
-        }
-      ],
-      "duration_ms": 357122,
-      "name": "A Way Back",
-      "url": "https://open.spotify.com/track/0mH5LeDkESlflY8CvVaVM2"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Maneater (RITUAL Version)",
-        "url": "https://open.spotify.com/album/3xXlXmguiTfRYGtPwYYtv9"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 441750,
-      "name": "Maneater - RITUAL Version",
-      "url": "https://open.spotify.com/track/5lRjA4wP2YYDtDtRwlj1Xy"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/09n6BizgVeSbVKQNxw2WgU"
-      },
-      "artists": [
-        {
-          "name": "Firtan",
-          "url": "https://open.spotify.com/artist/1fevQX8HS898wns7GKH3pR"
-        }
-      ],
-      "duration_ms": 428620,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/1RrLt4E4pCOd9FEb1OuB7F"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Pudahuel",
-        "url": "https://open.spotify.com/album/7q8rlF5uxhj78bGzx55jft"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "EST\u00c9REO FAM",
-          "url": "https://open.spotify.com/artist/6jeSza4zrBFTWtwvMEAVan"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Pudahuel",
-      "url": "https://open.spotify.com/track/3GWPWvvwtdpnbnw6Ek3sYE"
+      "duration_ms": 159120,
+      "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
+      "url": "https://open.spotify.com/track/3duqFL2qZy2Df9r4Y038oC"
     },
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Calvary Drive",
-        "url": "https://open.spotify.com/album/0JOOdfELgtztjIz9bdvkxs"
+        "name": "\"3 Part Inventions\" and more Classical Works",
+        "url": "https://open.spotify.com/album/6FFqt8HIIvYtWdKZJcn56W"
       },
       "artists": [
         {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Calvary Drive",
-      "url": "https://open.spotify.com/track/4dHi0ke5ncQfI8gUv2eFRP"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Nubada",
-        "url": "https://open.spotify.com/album/4TYpG4CkXlw2lzos7R6bD1"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Felipe Aravena",
-          "url": "https://open.spotify.com/artist/1DULPaN29rrQ1KwduZc3iY"
+          "name": "Francesco Piemontesi",
+          "url": "https://open.spotify.com/artist/1snFy8CL2AGHTrQiWcvQR2"
         }
       ],
-      "duration_ms": 236460,
-      "name": "Nada es lo que parece",
-      "url": "https://open.spotify.com/track/0TZ93gswB9Kbe0lCVDOkgt"
+      "duration_ms": 140720,
+      "name": "Trauermarsch in C Major, K.453a",
+      "url": "https://open.spotify.com/track/3lym8E1Z5x2VrkgX7ym1RQ"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -383,6 +467,22 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "Calvary Drive",
+        "url": "https://open.spotify.com/album/0JOOdfELgtztjIz9bdvkxs"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Calvary Drive",
+      "url": "https://open.spotify.com/track/4dHi0ke5ncQfI8gUv2eFRP"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5j6nS3lE5dyWjrTGGiZ2a2"
       },
@@ -395,22 +495,6 @@
       "duration_ms": 175312,
       "name": "Get Your Groove On",
       "url": "https://open.spotify.com/track/6qBhR8G6Sy4pRejoaXQ626"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Bag of Holding",
-        "url": "https://open.spotify.com/album/5qun8E4utITs5XmRypLi4Q"
-      },
-      "artists": [
-        {
-          "name": "Funeral Diner",
-          "url": "https://open.spotify.com/artist/1jrFpzxw0c4MAAC0suBH9Q"
-        }
-      ],
-      "duration_ms": 346840,
-      "name": "I Was the Sword",
-      "url": "https://open.spotify.com/track/0qazxP5gIyWm77OeKaRSii"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -431,6 +515,22 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "Bag of Holding",
+        "url": "https://open.spotify.com/album/5qun8E4utITs5XmRypLi4Q"
+      },
+      "artists": [
+        {
+          "name": "Funeral Diner",
+          "url": "https://open.spotify.com/artist/1jrFpzxw0c4MAAC0suBH9Q"
+        }
+      ],
+      "duration_ms": 346840,
+      "name": "I Was the Sword",
+      "url": "https://open.spotify.com/track/0qazxP5gIyWm77OeKaRSii"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "\u041f\u0415\u0421\u041d\u042f \u0420\u0410\u0417\u0411\u041e\u0419\u041d\u0418\u041a\u041e\u0412",
         "url": "https://open.spotify.com/album/3wVoms3idbpgjn0L7CSGLu"
       },
@@ -443,22 +543,6 @@
       "duration_ms": 109573,
       "name": "\u041f\u0415\u0421\u041d\u042f \u0420\u0410\u0417\u0411\u041e\u0419\u041d\u0418\u041a\u041e\u0412",
       "url": "https://open.spotify.com/track/2EMtBCwFzH3R3nGdwynqIY"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Watch As We Rise",
-        "url": "https://open.spotify.com/album/6hILlYgjSpef9ogeHwYtxT"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 294659,
-      "name": "Watch As We Rise",
-      "url": "https://open.spotify.com/track/1bC2XEOmfPsIdWGVCMqzcl"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -479,86 +563,18 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Velvet Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
+        "name": "Watch As We Rise",
+        "url": "https://open.spotify.com/album/6hILlYgjSpef9ogeHwYtxT"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
         }
       ],
-      "duration_ms": 168466,
-      "name": "Surfin' Boy",
-      "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Pretty Fly (For A White Guy) [8onthebeat Mix]",
-        "url": "https://open.spotify.com/album/2LpR2ztCCRCzRkiKxKRCl0"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Pretty Fly (For A White Guy) - 8onthebeat Mix",
-      "url": "https://open.spotify.com/track/6Z9qZ6IZPT8ptJ4CW3oVon"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Nimrods Original Soundtrack",
-        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 72528,
-      "name": "Auld Lang Syne - Live",
-      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "One Assassination Under God - Chapter 2",
-        "url": "https://open.spotify.com/album/2dLD8W5hQ5XNagwy212lH2"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 296953,
-      "name": "Unalive",
-      "url": "https://open.spotify.com/track/12jO5byKu95z7ZO7h7KGP2"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "World Peace",
-        "url": "https://open.spotify.com/album/2vzNhIF8eHFgcxorKf5vp0"
-      },
-      "artists": [
-        {
-          "name": "Cro-Mags",
-          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
-        }
-      ],
-      "duration_ms": 133002,
-      "name": "World Peace",
-      "url": "https://open.spotify.com/track/2CMsmyqYOdhDCDvrDxJAdc"
+      "duration_ms": 294659,
+      "name": "Watch As We Rise",
+      "url": "https://open.spotify.com/track/1bC2XEOmfPsIdWGVCMqzcl"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -583,6 +599,58 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "Pretty Fly (For A White Guy) [8onthebeat Mix]",
+        "url": "https://open.spotify.com/album/2LpR2ztCCRCzRkiKxKRCl0"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Pretty Fly (For A White Guy) - 8onthebeat Mix",
+      "url": "https://open.spotify.com/track/6Z9qZ6IZPT8ptJ4CW3oVon"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "JUEGO",
+        "url": "https://open.spotify.com/album/4VUhGh3K89Dcf37y3yPrhc"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 297130,
+      "name": "JUEGO",
+      "url": "https://open.spotify.com/track/4zbQpTeAY9mfJcTQUhDFnY"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Velvet Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Surfin' Boy",
+      "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "J-Tull Dot Com: Another Cast Of The Net (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nwO76WUbWilSxXUgE5IJ7"
       },
@@ -595,6 +663,38 @@
       "duration_ms": 266550,
       "name": "Dot Com - 2026 Remix",
       "url": "https://open.spotify.com/track/1FZOb6POJUAxkSbXMvWTrS"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "World Peace",
+        "url": "https://open.spotify.com/album/2vzNhIF8eHFgcxorKf5vp0"
+      },
+      "artists": [
+        {
+          "name": "Cro-Mags",
+          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "World Peace",
+      "url": "https://open.spotify.com/track/2CMsmyqYOdhDCDvrDxJAdc"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Damaged Suit (Take 5)",
+        "url": "https://open.spotify.com/album/5bn8LpfJOBtOTvhGcoRhYK"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Damaged Suit (Take 5)",
+      "url": "https://open.spotify.com/track/3R6cjRBeBEF5Lu1ucoQQfU"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -631,6 +731,94 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "Desirable",
+        "url": "https://open.spotify.com/album/2OcF47vDQyxvoJgU14zCBl"
+      },
+      "artists": [
+        {
+          "name": "Love Spirals Downwards",
+          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Desirable",
+      "url": "https://open.spotify.com/track/5qK8JyV5oyL7E3Jso9Jm4Z"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Nimrods Original Soundtrack",
+        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 72528,
+      "name": "Auld Lang Syne - Live",
+      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "One Assassination Under God - Chapter 2",
+        "url": "https://open.spotify.com/album/2dLD8W5hQ5XNagwy212lH2"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 296953,
+      "name": "Unalive",
+      "url": "https://open.spotify.com/track/12jO5byKu95z7ZO7h7KGP2"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "INTERSTICE (2026)",
+        "url": "https://open.spotify.com/album/22d98RgsjIvcomi4720kPS"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        },
+        {
+          "name": "SunoAI",
+          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
+        }
+      ],
+      "duration_ms": 239424,
+      "name": "INTERSTICE (2026)",
+      "url": "https://open.spotify.com/track/0dBs50Yg4J7CgfBbNDgCDg"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "OSTINATO",
+        "url": "https://open.spotify.com/album/7jhyBTxTCz2BYUNozjsxtw"
+      },
+      "artists": [
+        {
+          "name": "Pol Del Sur",
+          "url": "https://open.spotify.com/artist/7wduhj5WCAihFD8vugCZtZ"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 233631,
+      "name": "Pacto",
+      "url": "https://open.spotify.com/track/6icxCzvzaNLHonxjGE3KCf"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "Pers\u00e9fone",
         "url": "https://open.spotify.com/album/4Z5wv5OrvU0xPnk9kfquyf"
       },
@@ -651,34 +839,22 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "JUEGO",
-        "url": "https://open.spotify.com/album/4VUhGh3K89Dcf37y3yPrhc"
+        "name": "Bad Zombies",
+        "url": "https://open.spotify.com/album/1gror4XzJLgHwZ61DbkpIC"
       },
       "artists": [
         {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 297130,
-      "name": "JUEGO",
-      "url": "https://open.spotify.com/track/4zbQpTeAY9mfJcTQUhDFnY"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Damaged Suit (Take 5)",
-        "url": "https://open.spotify.com/album/5bn8LpfJOBtOTvhGcoRhYK"
-      },
-      "artists": [
+          "name": "The String Revolution",
+          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
+        },
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
         }
       ],
-      "duration_ms": 269493,
-      "name": "Damaged Suit (Take 5)",
-      "url": "https://open.spotify.com/track/3R6cjRBeBEF5Lu1ucoQQfU"
+      "duration_ms": 209502,
+      "name": "Bad Zombies",
+      "url": "https://open.spotify.com/track/6Owsdw54tP947Y0Il7XRKC"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -699,22 +875,6 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Katy Bar the Door / Living Undercover",
-        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 205202,
-      "name": "Katy Bar the Door",
-      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
         "name": "Echo Of You",
         "url": "https://open.spotify.com/album/4A81O3eezYFcuv0PomNWv4"
       },
@@ -731,18 +891,50 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Desirable",
-        "url": "https://open.spotify.com/album/2OcF47vDQyxvoJgU14zCBl"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
       "artists": [
         {
-          "name": "Love Spirals Downwards",
-          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Desirable",
-      "url": "https://open.spotify.com/track/5qK8JyV5oyL7E3Jso9Jm4Z"
+      "duration_ms": 249750,
+      "name": "Nails In The Coffin",
+      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 205202,
+      "name": "Katy Bar the Door",
+      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "One by One (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/1mgpFMrjkDQ58MzEJEHfJh"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 569281,
+      "name": "One by One - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/0ZNutJ8BAQvq1u7PoO2djA"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -775,66 +967,18 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "One by One (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/1mgpFMrjkDQ58MzEJEHfJh"
+        "name": "ELEMENTAL Part One: MOURNING EARTH",
+        "url": "https://open.spotify.com/album/79lEcVacCk4wmPtxFmcajJ"
       },
       "artists": [
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+          "name": "Fen",
+          "url": "https://open.spotify.com/artist/1MlFNDlH2naWutA9C0nNVB"
         }
       ],
-      "duration_ms": 569281,
-      "name": "One by One - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/0ZNutJ8BAQvq1u7PoO2djA"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Mozart: Piano Concerto No. 24 in C Minor \u2014 Beethoven: Piano Concerto No. 3 in C Minor; 32 Variations in C Minor",
-        "url": "https://open.spotify.com/album/1H2f1NcNMFQm9jxpQiAn2x"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Rafal Blechacz",
-          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
-        },
-        {
-          "name": "Dresdner Philharmonie",
-          "url": "https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        }
-      ],
-      "duration_ms": 501866,
-      "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
-      "url": "https://open.spotify.com/track/721z2C71L30pljlzJLGcFl"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Bad Zombies",
-        "url": "https://open.spotify.com/album/1gror4XzJLgHwZ61DbkpIC"
-      },
-      "artists": [
-        {
-          "name": "The String Revolution",
-          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
-        },
-        {
-          "name": "Tina Guo",
-          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Bad Zombies",
-      "url": "https://open.spotify.com/track/6Owsdw54tP947Y0Il7XRKC"
+      "duration_ms": 336186,
+      "name": "Abyssal Plain",
+      "url": "https://open.spotify.com/track/0kRAtJcAVAlPf4sIpjb8f7"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -887,22 +1031,6 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 249750,
-      "name": "Nails In The Coffin",
-      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
         "name": "Lunaris",
         "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
       },
@@ -919,74 +1047,6 @@
       "duration_ms": 384613,
       "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
       "url": "https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Side",
-        "url": "https://open.spotify.com/album/441rOxvd0v0aRJdyCLn8aH"
-      },
-      "artists": [
-        {
-          "name": "Human Tetris",
-          "url": "https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG"
-        }
-      ],
-      "duration_ms": 370285,
-      "name": "Side",
-      "url": "https://open.spotify.com/track/0FWFS6r1ZMZ5ilYKsHvAk9"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "ELEMENTAL Part One: MOURNING EARTH",
-        "url": "https://open.spotify.com/album/79lEcVacCk4wmPtxFmcajJ"
-      },
-      "artists": [
-        {
-          "name": "Fen",
-          "url": "https://open.spotify.com/artist/1MlFNDlH2naWutA9C0nNVB"
-        }
-      ],
-      "duration_ms": 336186,
-      "name": "Abyssal Plain",
-      "url": "https://open.spotify.com/track/0kRAtJcAVAlPf4sIpjb8f7"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "OSTINATO",
-        "url": "https://open.spotify.com/album/7jhyBTxTCz2BYUNozjsxtw"
-      },
-      "artists": [
-        {
-          "name": "Pol Del Sur",
-          "url": "https://open.spotify.com/artist/7wduhj5WCAihFD8vugCZtZ"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 233631,
-      "name": "Pacto",
-      "url": "https://open.spotify.com/track/6icxCzvzaNLHonxjGE3KCf"
-    },
-    {
-      "added_at": "2026-08-21 04:00:00",
-      "album": {
-        "name": "Touch And Go",
-        "url": "https://open.spotify.com/album/2IFYdN72zKgb0OojX64MTy"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/6EH8JUOn2xY0teTNGvzkzF"
     },
     {
       "added_at": "2026-08-21 04:00:00",
@@ -1015,6 +1075,22 @@
     {
       "added_at": "2026-08-21 04:00:00",
       "album": {
+        "name": "Side",
+        "url": "https://open.spotify.com/album/441rOxvd0v0aRJdyCLn8aH"
+      },
+      "artists": [
+        {
+          "name": "Human Tetris",
+          "url": "https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/2YYbU2qJl1ZmRPrAW5nuis"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
         "name": "\u00c1ngel de Nicho",
         "url": "https://open.spotify.com/album/0mGBIaoNGFc9nxtCCQhpQZ"
       },
@@ -1027,6 +1103,22 @@
       "duration_ms": 156737,
       "name": "\u00c1ngel de Nicho",
       "url": "https://open.spotify.com/track/3pq9yH2TTd05JYomwZE4z1"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Touch And Go",
+        "url": "https://open.spotify.com/album/2IFYdN72zKgb0OojX64MTy"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Eye On You",
+      "url": "https://open.spotify.com/track/3ZiZti6M8mbE8uY8ge0lgI"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

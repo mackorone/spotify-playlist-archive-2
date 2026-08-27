@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,752 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,777 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 99 | [حنيت للبيت \- من مسلسل راجعين ياهوى](https://open.spotify.com/track/4EyB1zNZwqaUbRpzCVCPrC) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [حنيت للبيت \(من مسلسل راجعين ياهوى\)](https://open.spotify.com/album/0x5CSZOdayLdRDmNs8aYrr) | 4:22 |
 | 100 | [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 |
 
-Snapshot ID: `AAAAACdPEJFk1tgBokU89lCDBpU/ZFL5`
+Snapshot ID: `AAAAAKzZaeg+Qk98/yRlmkSJJJKd5iLX`

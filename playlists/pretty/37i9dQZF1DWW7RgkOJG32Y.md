@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Cameron Whitcomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,319 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,414 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:41 |
 | 50 | [Songs About Us](https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Songs About Us](https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE) | 2:52 |
 
-Snapshot ID: `AAAAAAzmvn6ucvQaQlDQYvTHnlXOlG82`
+Snapshot ID: `AAAAAC6Dbn650vXvN4xfzYFDqmlfF1u0`

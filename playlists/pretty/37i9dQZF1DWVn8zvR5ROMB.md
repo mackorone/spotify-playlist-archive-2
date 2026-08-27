@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Zach Top, STELLA LEFTY, Dan + Shay and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,270 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,391 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 72 | [Wishin' It Wouldn't](https://open.spotify.com/track/1Iyw0Zpc8IQhUIf5fJNWL3) | [Brooks Hoffman](https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q) | [Wishin' It Wouldn't](https://open.spotify.com/album/5b7476nnRsqYmcoxeV1tHY) | 2:04 |
 | 73 | [When He’s Out of Sight](https://open.spotify.com/track/2RWUaZOhcli0bMAIB8XwSK) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [When He’s Out of Sight](https://open.spotify.com/album/1wWXmyU5cVPDApKFUvIvS1) | 3:12 |
 
-Snapshot ID: `AAAAADxDXzuSQ7NugMZaI5Vrjf2IIS7d`
+Snapshot ID: `AAAAAM/M2R8vZZj0D0N+eVdK4XBM3hRJ`

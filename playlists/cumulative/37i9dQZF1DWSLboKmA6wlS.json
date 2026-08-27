@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Kiismet. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MicMac. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Always with you",
+        "url": "https://open.spotify.com/album/5wmVdT6QO5E4dciGQhXsuE"
+      },
+      "artists": [
+        {
+          "name": "tutor",
+          "url": "https://open.spotify.com/artist/2jsNgD2LSvMduphKbtURDY"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Always with you",
+      "url": "https://open.spotify.com/track/4otIAaR66vMvLq20wwMZqr"
+    },
+    {
+      "album": {
         "name": "Always you",
         "url": "https://open.spotify.com/album/2wGcK0XL7NHjQMqgd3F1Rh"
       },
@@ -1182,6 +1200,24 @@
       "duration_ms": 146802,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/6QdGMzOn3cfkmiQlCDHLdI"
+    },
+    {
+      "album": {
+        "name": "BOYFRIEND MATERIAL",
+        "url": "https://open.spotify.com/album/1QqzPMUvlmQsgl9BgIoe8V"
+      },
+      "artists": [
+        {
+          "name": "Turbo4Wds",
+          "url": "https://open.spotify.com/artist/1Mke6Xjpf1lidJUDPaZOAg"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "BOYFRIEND MATERIAL",
+      "url": "https://open.spotify.com/track/72qHExfYo3FPKdhcS6HHLq"
     },
     {
       "album": {
@@ -5331,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Lost (\u0e23\u0e31\u0e49\u0e07)",
+        "url": "https://open.spotify.com/album/6xpNUlnByQwgDyPuGRa8ni"
+      },
+      "artists": [
+        {
+          "name": "Basket Valley",
+          "url": "https://open.spotify.com/artist/3fjn6M1i9hiYhdEPsmZ1f5"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257727,
+      "name": "Lost (\u0e23\u0e31\u0e49\u0e07)",
+      "url": "https://open.spotify.com/track/0ElzbjwK1ilg2kaDEBpv0G"
+    },
+    {
+      "album": {
         "name": "Lost in the Ocean",
         "url": "https://open.spotify.com/album/7sxc38OplsmTJlFJElvIg4"
       },
@@ -5966,6 +6020,24 @@
       "duration_ms": 289600,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/7FpzHMxNZeBoGnj71SaNv6"
+    },
+    {
+      "album": {
+        "name": "Million Years (\u0e25\u0e49\u0e32\u0e19\u0e1b\u0e35)",
+        "url": "https://open.spotify.com/album/1OU1gC0i5beOYQ2Mc3zIZO"
+      },
+      "artists": [
+        {
+          "name": "RyuzilL",
+          "url": "https://open.spotify.com/artist/06yq9b41Zua4F3rzXTQG9y"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282923,
+      "name": "Million Years - \u0e25\u0e49\u0e32\u0e19\u0e1b\u0e35",
+      "url": "https://open.spotify.com/track/0Snx5k5SHbTAS5Q2n3sGsQ"
     },
     {
       "album": {
@@ -11180,7 +11252,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 219130,
       "name": "\u0e01\u0e2d\u0e14\u0e44\u0e27\u0e49 (It's u)",
       "url": "https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14"
@@ -24926,7 +24998,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 244371,
       "name": "\u0e1b\u0e32\u0e01\u0e14\u0e35",
       "url": "https://open.spotify.com/track/11PZcpnSB4hKG6pSRxi1m0"
@@ -37243,6 +37315,24 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e34\u0e08\u0e09\u0e32\u0e41\u0e1f\u0e19\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/4oWJREu34FwNaJdxzOXH15"
+      },
+      "artists": [
+        {
+          "name": "ezioez",
+          "url": "https://open.spotify.com/artist/3hDAZvufO2OAGWnnPxeCkx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214213,
+      "name": "\u0e2d\u0e34\u0e08\u0e09\u0e32\u0e41\u0e1f\u0e19\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/5R8Cn19nEslQFyWdlM4LH3"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e34\u0e08\u0e34\u0e42\u0e01\u0e30 \u0e2d\u0e34\u0e08\u0e34\u0e40\u0e2d\u0e30 (Ichigo Ichie)",
         "url": "https://open.spotify.com/album/3tg9mOK2NN5UCP1Ya3gHVM"
       },
@@ -45047,6 +45137,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e22\u0e01\u0e44\u0e21\u0e48\u0e2d\u0e2d\u0e01 (Twins)",
+        "url": "https://open.spotify.com/album/0YYIKdNpnr9tqBBIpbeXt7"
+      },
+      "artists": [
+        {
+          "name": "MicMac",
+          "url": "https://open.spotify.com/artist/5piMoefWkj2eUzSf8YZ1li"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "\u0e41\u0e22\u0e01\u0e44\u0e21\u0e48\u0e2d\u0e2d\u0e01 (Twins)",
+      "url": "https://open.spotify.com/track/2eKDOFw2DquZEGAe4mZpuU"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e23\u0e01\u0e40\u0e08\u0e2d",
         "url": "https://open.spotify.com/album/0CR7eQ3a7E2ZZ8sM9NeR91"
       },
@@ -47062,6 +47170,24 @@
       "duration_ms": 273114,
       "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e41\u0e25\u0e30\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19 (My World)",
       "url": "https://open.spotify.com/track/2zO2DASDL0sxQsFXY7xIq8"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e19\u0e2a\u0e32\u0e22\u0e15\u0e32",
+        "url": "https://open.spotify.com/album/21Ceeej7vJJsU0yYB2LtKu"
+      },
+      "artists": [
+        {
+          "name": "TakRJ",
+          "url": "https://open.spotify.com/artist/4mWYg0DKDc6wsl8VPAUew9"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u0e43\u0e19\u0e2a\u0e32\u0e22\u0e15\u0e32",
+      "url": "https://open.spotify.com/track/5ZZixufL5art9LKKLE66b1"
     },
     {
       "album": {

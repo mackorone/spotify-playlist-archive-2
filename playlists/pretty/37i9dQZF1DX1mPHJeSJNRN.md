@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,299 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,300 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 58 | [Something 'bout the Rain](https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 4:37 |
 | 59 | [I've Never Been in Love Before](https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Tarder\-Stoll](https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd) | [Caity Gyorgy Quartet](https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm) | 5:47 |
 | 60 | [I Can't Be Bothered Now](https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 2:59 |
-| 61 | [Needle and Candle](https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 5:57 |
-| 62 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 |
+| 61 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 |
+| 62 | [Needle and Candle](https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 5:57 |
 | 63 | [My Shining Hour](https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:13 |
 | 64 | [Say It](https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:57 |
 | 65 | [Last Night](https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [The 59th Street Bridge Song \(Feelin' Groovy\)](https://open.spotify.com/track/1KjpCLFe5RvCX9QIrN7h4r) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 5:09 |
 | 100 | [Here's That Rainy Day \- Live At The Blue Note, New York City, NY / March 16\-18, 1990](https://open.spotify.com/track/1GLfRF7PctZpN4eIxYM9lt) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8) | [Encore At The Blue Note](https://open.spotify.com/album/6NZlK7f3vVeAqrMduHam7p) | 9:00 |
 
-Snapshot ID: `AAAAAJuPlYUVS+KAiQjaa9ZTBk3o2TMc`
+Snapshot ID: `AAAAADedY7op1tWSkJ5ggur2SEHCtsrv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these classical and instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,280 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,306 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 119 | [Fantasia for 4 Viols in E Minor, Z\. 741](https://open.spotify.com/track/4sZLepVdgYfhwwD88BufWp) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [John Holloway](https://open.spotify.com/artist/6pOkgFusj8zIOfRZemKGah), [Monika Baer](https://open.spotify.com/artist/2BcfPW6J7UxgW6jiMUXCCO), [Renate Steinmann](https://open.spotify.com/artist/2XXb5vA968PoWtGqDGMbBo), [Martin Zeller](https://open.spotify.com/artist/2XSpcrdJ3Ls5rPfUrvbiUg) | [Purcell: Fantazias](https://open.spotify.com/album/7tyZKLPAyUJLd7vCswH1Qm) | 3:31 |
 | 120 | [Préludes, Book 2: V\. Bruyères](https://open.spotify.com/track/1MXHiRxjE4jp6MxHXWYIT7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Anna Tsybuleva](https://open.spotify.com/artist/5KR6Fiu20JZXyqLH7PHn8N) | [Debussy: Préludes, Book 2: V\. Bruyères](https://open.spotify.com/album/11Fu5kidvDn8hule3EVVb1) | 3:33 |
 
-Snapshot ID: `AAAAAFusdC1QJhlpCrcr4KH4HwvNtUtR`
+Snapshot ID: `AAAAAPUl0jbYD2maJ9K7XJoGk54RXpof`

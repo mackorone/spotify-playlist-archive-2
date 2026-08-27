@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,921 likes - 141 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,948 likes - 141 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 102 | [Aeon \- Dosem Remix](https://open.spotify.com/track/4XlVMYxnfQ8ERL5NwLM8JX) | [Dee Montero](https://open.spotify.com/artist/46RoK8NBTMTyu23GiHqbCr), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Aeon \(Dosem Remix\)](https://open.spotify.com/album/4drsCIeguyHxsz10pPvwhS) | 4:38 |
 | 103 | [Milkshake 20 \- Alex Wann Remix](https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9) | 2:56 |
 | 104 | [Devi](https://open.spotify.com/track/253Vy9tTPe2ZFLAv3DGKo0) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Devi](https://open.spotify.com/album/5vHKGWsNrgEaoNIdw0pMvQ) | 2:51 |
-| 105 | [Mina Nawe \(Francis Mercier Rework\)](https://open.spotify.com/track/6EuOHdrMhZb6KIGjxAp5Uu) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Happy Jazzman](https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C), [Emotionz DJ](https://open.spotify.com/artist/0GMM9vgCLkEfMle3KaJyxy) | [Mina Nawe \(Francis Mercier Rework\)](https://open.spotify.com/album/4IBYotSB1NkcGuqOOEvGl0) | 3:34 |
+| 105 | [Mina Nawe \- Francis Mercier Rework](https://open.spotify.com/track/6EuOHdrMhZb6KIGjxAp5Uu) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Happy Jazzman](https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C), [Emotionz DJ](https://open.spotify.com/artist/0GMM9vgCLkEfMle3KaJyxy) | [Mina Nawe \(Francis Mercier Rework\)](https://open.spotify.com/album/4IBYotSB1NkcGuqOOEvGl0) | 3:34 |
 | 106 | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/track/1Oj4UgoSBQWUPaUVakr8sc) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 5:47 |
 | 107 | [Amandla](https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Amandla](https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah) | 6:10 |
 | 108 | [Your Love \- Antdot Remix](https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Your Love \(Antdot Remix\)](https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw) | 2:57 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 140 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 |
 | 141 | [Daze](https://open.spotify.com/track/5D83D5FCc9HxtXDFbDsRGa) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Daze](https://open.spotify.com/album/6JRG4pQQa7gmRMEsJSaPs1) | 3:20 |
 
-Snapshot ID: `AAAAAMXH38pZrbzO4y/xSpYrLUfTBU/c`
+Snapshot ID: `AAAAAIyhBRvZ3kMVLAoXO0DSJZ9BViKZ`

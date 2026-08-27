@@ -7071,6 +7071,24 @@
     },
     {
       "album": {
+        "name": "BABY! PINK! MUSIC!",
+        "url": "https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene"
+      },
+      "artists": [
+        {
+          "name": "Seiko Oomori",
+          "url": "https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "LAST GIRL DUST",
+      "url": "https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l"
+    },
+    {
+      "album": {
         "name": "LAST LOVE LETTER",
         "url": "https://open.spotify.com/album/5jMeVRXPkfx6JPXs92tPdB"
       },
@@ -13048,24 +13066,6 @@
       "duration_ms": 139836,
       "name": "Toxic Luv",
       "url": "https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS"
-    },
-    {
-      "album": {
-        "name": "BABY! PINK! MUSIC!",
-        "url": "https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene"
-      },
-      "artists": [
-        {
-          "name": "Seiko Oomori",
-          "url": "https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr"
-        }
-      ],
-      "date_added": "2026-08-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l"
     },
     {
       "album": {

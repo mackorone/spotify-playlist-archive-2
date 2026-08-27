@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,459 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,471 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
 | 55 | [So Deep](https://open.spotify.com/track/6uhZ7vPqzDtP6c9NyJMZZa) | [Prolix](https://open.spotify.com/artist/3rNP0CUzTxxuNpc3ze8rXV) | [So Deep](https://open.spotify.com/album/19BcEmB0NP6wrnbUSKGjhq) | 3:31 |
 
-Snapshot ID: `AAAAABCpy1TRg9KzxgCUZlqb1Ndgml4E`
+Snapshot ID: `AAAAABLl8k5mx+U2LhVtO+AzlO21bttF`

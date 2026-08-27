@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2026 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-205 songs - 10 hr 55 min
+206 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blame It on the Mistletoe](https://open.spotify.com/track/2rlqiQy1OCsPL1fyNkfe9g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 3:05 | 2023-12-19 | 2025-07-02 |
 | [Blue Christmas](https://open.spotify.com/track/6FA2CCCGjQrAVN1dtWsVVX) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 2:06 | 2023-12-09 | 2025-07-02 |
 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:10 | 2025-07-01 |  |
-| [Blue Christmas](https://open.spotify.com/track/0QUxMKYur7kAtauLnmyBCc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:41 | 2025-07-01 |  |
+| [Blue Christmas](https://open.spotify.com/track/0QUxMKYur7kAtauLnmyBCc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:41 | 2025-07-01 | 2026-08-27 |
 | [California Christmas](https://open.spotify.com/track/4MrTVyoR7womFNRbHRcnVI) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [California Christmas](https://open.spotify.com/album/3GbA3XhIdDq3cKR3p4om85) | 3:01 | 2023-12-09 | 2025-07-02 |
 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 | 2025-07-01 | 2026-07-28 |
 | [Carol of the Bells](https://open.spotify.com/track/75vSIO1nZtPcroF9H7lbp2) | [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [December](https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK) | 4:00 | 2025-12-18 |  |
@@ -45,6 +45,7 @@
 | [Christmas Wrapping \(with Iggy Pop\)](https://open.spotify.com/track/3kyZcS729JZYDVJvxjsCbl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 5:03 | 2023-12-19 | 2025-07-02 |
 | [Cold December Night](https://open.spotify.com/track/5NygPpvNMWZxiPrFN4goOs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:18 | 2023-12-09 | 2024-11-28 |
 | [Count on Christmas](https://open.spotify.com/track/5tGB1wbTZ4GOu5koMPpxZm) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:59 | 2023-12-09 | 2025-07-02 |
+| [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1DGP5KnQbs9ApHKxOH2rb3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas \(Ultimate Deluxe Edition\)](https://open.spotify.com/album/0UKCFUDo5hCdAB4b6tPqQe) | 3:39 | 2026-08-26 |  |
 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1i3nwb0C4XOxPhDNC1w0kv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:39 | 2023-12-09 | 2024-11-27 |
 | [Deck The Halls](https://open.spotify.com/track/1TH5fhztFZmUGWaCXmZ6ie) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Christmas](https://open.spotify.com/album/4tQCxjeHwSeK94J93J9xuN) | 1:08 | 2025-07-01 |  |
 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 | 2023-12-09 |  |

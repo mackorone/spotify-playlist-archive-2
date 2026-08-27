@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: VARITDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,498 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,495 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ตัวเลือก=ฉัน \(option\)](https://open.spotify.com/track/3foSLRZfeWObI1yiH6fb9x) | [MOFO](https://open.spotify.com/artist/62bRgpDlI2vIiK5AUh6RKP) | [ตัวเลือก=ฉัน \(option\)](https://open.spotify.com/album/6fh9X8CF25ja1PS6Zhvt3Q) | 3:50 |
 | 50 | [Girlfriend](https://open.spotify.com/track/00velRJvhabjlxUAmmWptg) | [MADELN](https://open.spotify.com/artist/5ApNtcmlfHITwpgMDyKRsF) | [Girlfriend](https://open.spotify.com/album/2wh5EKH25HVNc28pUQodNw) | 3:12 |
 
-Snapshot ID: `AAAAAAlvJs/f63Igv4LdcoWRTTNFeYiu`
+Snapshot ID: `AAAAAHU0IXfrG48D0wJakJ6kr31bAC04`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: francis, Sobel
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,618 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,589 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Grand Soir](https://open.spotify.com/track/0pdZ3Rw7BHBgouY9GhXveq) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Grand Soir](https://open.spotify.com/album/2U3FVEDEu7EUEk6gLUcjzI) | 2:10 |
 | 50 | [5 malin](https://open.spotify.com/track/6IbQeh3J825ekqHo1ghgwj) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [\#MATA2040](https://open.spotify.com/album/3qbTjrny6JVyR9Q8hZoJYT) | 2:37 |
 
-Snapshot ID: `AAAAACqx32z9/STWvh8tqeRDnm8Jcvpj`
+Snapshot ID: `AAAAABGCbsJgtpbQ1zGsG6yeVY0uAsME`

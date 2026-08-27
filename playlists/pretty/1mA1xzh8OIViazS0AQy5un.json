@@ -1403,17 +1403,17 @@
     {
       "added_at": "2023-04-19 11:53:38",
       "album": {
-        "name": "Comfort Chain",
+        "name": "",
         "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
       },
       "artists": [
         {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 184363,
-      "name": "Comfort Chain",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
     },
     {

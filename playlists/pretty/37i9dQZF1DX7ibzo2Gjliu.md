@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ibzo2Gjliu.md) - [plain]
 
 > ¡Los éxitos pop de Luismi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,586 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,648 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ibzo2Gjliu.md) - [plain]
 | 49 | [Soy Como Quiero Ser](https://open.spotify.com/track/0VYSH5t5gIXadaAhcufgPu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 2:56 |
 | 50 | [Amor \(Amor, amor, amor\)](https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:42 |
 
-Snapshot ID: `AAAAAJ2IB5jRI9hNsIIcWgTKUpyjw1nA`
+Snapshot ID: `AAAAAH4x0h8IGGVV4yiYExeVSVp7rQqx`

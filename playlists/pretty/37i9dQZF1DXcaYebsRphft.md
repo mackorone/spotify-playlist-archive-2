@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『ILLIT LIVE 'PRESS START︎︎❤' in JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,455 likes - 26 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,449 likes - 26 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Message from YUNAH](https://open.spotify.com/track/2nz0b33ZL2q81Kcx0GgvNx) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Message from ILLIT](https://open.spotify.com/album/2ObocO8p64NG4F1GKfdoQn) | 0:21 |
-| 2 | [Magnetic \(Starlight Remix\)](https://open.spotify.com/track/1SNbKSraeBuFBuHeSpHLis) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:48 |
+| 2 | [Magnetic \- Starlight Remix](https://open.spotify.com/track/1SNbKSraeBuFBuHeSpHLis) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:48 |
 | 3 | [IYKYK \(If You Know You Know\)](https://open.spotify.com/track/31UtyhPu6vu9LJBzoygDiQ) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:24 |
 | 4 | [bamsopoong](https://open.spotify.com/track/3INETdToKVgt2vfp1wYBFw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:19 |
 | 5 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 25 | [oops!](https://open.spotify.com/track/1tO6hb9Ym7aTV8hJ31tLjr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:41 |
 | 26 | [Message from IROHA](https://open.spotify.com/track/1jPda57cKSslt4R6mv64RN) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Message from ILLIT](https://open.spotify.com/album/2ObocO8p64NG4F1GKfdoQn) | 0:14 |
 
-Snapshot ID: `AAAAAOthyKh6zEQshyfXnSotUa3iK9/n`
+Snapshot ID: `AAAAADXiJlcu8i5Iti2Hl38tH4Cums5f`

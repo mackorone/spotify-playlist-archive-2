@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Gunship, The Bad Dreamers, Siamese Youth and more
+> With The Bad Dreamers, Siamese Youth, Gunship and more
 
 1,621 songs - 4 day 16 hr 20 min
 

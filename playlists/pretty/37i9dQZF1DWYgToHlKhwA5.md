@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,152 likes - 275 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,178 likes - 275 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 | 274 | [Thunderstruck](https://open.spotify.com/track/6MrzqoAYOYSomYdO7RQP3C) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Thunderstruck](https://open.spotify.com/album/4cRIMyFHA30UsDmaUspb9Q) | 3:16 |
 | 275 | [Nederbörd](https://open.spotify.com/track/02Yfdjig23PmDTu03heTJT) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Nederbörd](https://open.spotify.com/album/52oHVzqNzXauSpZmmjfmTh) | 2:44 |
 
-Snapshot ID: `AAAAAO6K6WrHziKoxwvkiTJNnd+tDt0S`
+Snapshot ID: `AAAAAMhKMxRVccaLb9h0Ni9XMoFs4QbY`

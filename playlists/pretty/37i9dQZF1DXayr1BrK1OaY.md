@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,900 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,907 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 124 | [All This Time](https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [All This Time](https://open.spotify.com/album/63ntVfXUztmMdo2rcfXidF) | 3:30 |
 | 125 | [alone](https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [alone](https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL) | 4:25 |
 
-Snapshot ID: `AAAAANj1axLr9NsuPj+dodMuYAcHhvJ7`
+Snapshot ID: `AAAAAFjrIbrpsOJd/IAgAcF60/iJ88Gq`

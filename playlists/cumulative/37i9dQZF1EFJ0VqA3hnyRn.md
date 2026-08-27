@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-388 songs - 22 hr 19 min
+389 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-01-09 |  |
 | [All Night](https://open.spotify.com/track/2mmg9SsgIH37CYAxu1kugq) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) | [BOOMIVERSE](https://open.spotify.com/album/2TT65TRU0tfy3wC8MhsX3F) | 4:01 | 2024-02-07 | 2025-02-07 |
 | [All On Your Body](https://open.spotify.com/track/0cJ2E7TrVBe5mOOl0Eq8Wg) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Neon](https://open.spotify.com/album/22CbLhGKCX4cWs8ajlo1bm) | 2:49 | 2024-02-07 |  |
-| [Amanama \(Money\) \- DJ Antoine vs Mad Mark Deluxe Edit](https://open.spotify.com/track/1mIUcecYVNE0iiqJGnINXk) | [DJ Antoine vs\. Timati](https://open.spotify.com/artist/39xY7JStVYcLWGsAgQpEvm) | [Amanama \(Money\)](https://open.spotify.com/album/2u389h9mVr6bR45sT4hHqe) | 4:17 | 2026-08-09 |  |
+| [Amanama \(Money\) \- DJ Antoine vs Mad Mark Deluxe Edit](https://open.spotify.com/track/1mIUcecYVNE0iiqJGnINXk) | [DJ Antoine vs\. Timati](https://open.spotify.com/artist/39xY7JStVYcLWGsAgQpEvm) | [Amanama \(Money\)](https://open.spotify.com/album/2u389h9mVr6bR45sT4hHqe) | 4:17 | 2026-08-09 | 2026-08-27 |
+| [Amanama \(Money\) \- DJ Antoine vs Mad Mark Original Mix](https://open.spotify.com/track/0rLMnQ7ksB0QQxeKFBjdNS) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [.](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr) | [Welcome To DJ Antoine](https://open.spotify.com/album/3xUMG5OvA8PWW6GR2tp01T) | 4:17 | 2026-08-26 |  |
 | [Amanama \- DJ Antoine vs\. Mad Mark Deluxe Edit](https://open.spotify.com/track/3s2QnfSIrCKO1y5wc4zUNa) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr) | [Welcome to DJ Antoine](https://open.spotify.com/album/5MtCt1WcTLyZ631UcvdWki) | 4:16 | 2024-02-07 | 2026-08-08 |
 | [Angel](https://open.spotify.com/track/0BAARl1iTAHL89HtvjlpfU) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 2:59 | 2024-02-07 |  |
 | [Animal](https://open.spotify.com/track/2Ju4c6LkBAzhYg5Spp5pWK) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 4:21 | 2024-02-07 |  |

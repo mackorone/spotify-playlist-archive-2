@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,209 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,178 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 99 | [Bezerk \(feat\. A$AP Ferg\)](https://open.spotify.com/track/2B9wgj9XzbJZLty03PRbVo) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Bezerk](https://open.spotify.com/album/6UgZHNJFfmKLSGLuW9T114) | 2:31 |
 | 100 | [The Half](https://open.spotify.com/track/69bDRy5MeWQl1lNeEJQIBE) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:37 |
 
-Snapshot ID: `AAAAAAmGXrE3xvMT9Wnjlm+tbinzxl/X`
+Snapshot ID: `AAAAAJXr6hCE0wCVP5/sZfRC2TW5IVSK`

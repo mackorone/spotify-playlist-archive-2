@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,788 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,780 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [Tastes So Good](https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:05 |
 | 75 | [NEW WORLD](https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [RUN IT BACK](https://open.spotify.com/album/0PSuvb9N4opuNDBsMOKcRN) | 3:43 |
 
-Snapshot ID: `AAAAALFOHu0FX/GdooQtKvgrjLxuLzWx`
+Snapshot ID: `AAAAAIkffZH5Xzifc4N9dJ4WHwJf+uQn`

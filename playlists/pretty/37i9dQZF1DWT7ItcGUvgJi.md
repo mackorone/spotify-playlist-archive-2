@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 | 20 | [Crazy](https://open.spotify.com/track/5ubXnLFTYhG94f0a9WEy7A) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [COOL](https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3) | 3:31 |
 | 21 | [Kiss!](https://open.spotify.com/track/6SMoQzbPciDEShRokLbKLO) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [COOL](https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3) | 3:30 |
 
-Snapshot ID: `AAAAAFDoFzwbH0Wce9t/Op00nDwmigDy`
+Snapshot ID: `AAAAAJiss2A50L2jyCOoGIgG6fnN/pMq`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, Learke, UrvTek and more
+> With Learke, UrvTek, Joshua Lanuarii and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 681 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [Stay true](https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 4:08 |
 | 50 | [Catdelions IIS](https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Artifyber](https://open.spotify.com/artist/41B16M5LFJKcwUW3L75PVh) | [Catdelions IIS](https://open.spotify.com/album/1QX1Z2oES9tANgs5iE5sq6) | 2:52 |
 
-Snapshot ID: `AAAAALStYjGj/Uu7M6lgoMQbPmHQU7dl`
+Snapshot ID: `AAAAAM2Faw9w3OaUjy7FsUeN1hdvjacc`

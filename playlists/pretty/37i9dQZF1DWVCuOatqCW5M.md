@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Goldie Sohel, Asees Kaur, Anurag Saikia and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,838 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,865 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Meri Saansein](https://open.spotify.com/track/1DgdyYtZjfmBOxLuDLHXyH) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Meri Saansein](https://open.spotify.com/album/45kudbR7PLOdQz52cgP8FW) | 2:39 |
 | 50 | [Qinniya Soni](https://open.spotify.com/track/7EsWEd2s6hUUNw3I2QqKrn) | [QARAN](https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Qinniya Soni](https://open.spotify.com/album/5ltb87tjm7K1V3BHhE5kcT) | 3:11 |
 
-Snapshot ID: `AAAAAKK3jQT7lKz1Yb6OqaKsYX8VqtVy`
+Snapshot ID: `AAAAAI5+vksAc4sfOLuZ7lya0n6hLHZq`

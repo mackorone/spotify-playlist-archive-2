@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 
 > Music from the world of Sinners, now in theaters\. Curated by Ryan Coogler and Ludwig Göransson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,550 likes - 71 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,557 likes - 71 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 | 23 | [Dark Road Blues](https://open.spotify.com/track/4GfeF91zYNEDeCpHgpM190) | [Willie Lofton](https://open.spotify.com/artist/5f0CgU806B0KdEd0QY7Bf9) | [Jackson Blues \(1928\-1938\)](https://open.spotify.com/album/31yxpUSQbO6Oa586lMo9a9) | 3:03 |
 | 24 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
 | 25 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
-| 26 | [Stone Pony Blues \(2010 Remastered\)](https://open.spotify.com/track/6jITuy9uNWzCkwLfSWxIZo) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [Founder of the Delta Blues \(2010 Remastered\)](https://open.spotify.com/album/4t4cg5Bh71KNbU6QG6q6Jy) | 2:52 |
+| 26 | [Stone Pony Blues \- 2010 Remastered](https://open.spotify.com/track/6jITuy9uNWzCkwLfSWxIZo) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [Founder of the Delta Blues \(2010 Remastered\)](https://open.spotify.com/album/4t4cg5Bh71KNbU6QG6q6Jy) | 2:52 |
 | 27 | [Catfish Blues](https://open.spotify.com/track/4rHtFYbIkDryj8U8h52qZO) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Devil Got My Woman](https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr) | 4:37 |
 | 28 | [Pearline](https://open.spotify.com/track/7Ak1Dd631nZQMdl0OMFOI0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [The Original Delta Blues \(Mojo Workin': Blues For The Next Generation\)](https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq) | 4:31 |
 | 29 | [Death Letter Blues](https://open.spotify.com/track/1VdyBLuHAY4wYvtx8v6NTT) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [The Delta Blues of Son House](https://open.spotify.com/album/1khubg2OD5FW07d8i6xWsA) | 3:30 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 | 70 | [I've Seen Enough of This Place](https://open.spotify.com/track/1SM05AwO0Meh0xicU6LDds) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 1:35 |
 | 71 | [Free For A Day \(feat\. Miles Caton\)](https://open.spotify.com/track/4yb0s7A7GKpIXrw404GWin) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU), [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:55 |
 
-Snapshot ID: `AAAAAGOjtMEbpbXsI6L6hXKycRL1e47K`
+Snapshot ID: `AAAAAJ18SdkS2Q+gpP9YlHZrE3AVF4kV`

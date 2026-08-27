@@ -2,9 +2,9 @@
 
 ### [Dancehall Official](https://open.spotify.com/playlist/37i9dQZF1DXan38dNVDdl4)
 
-> The biggest Dancehall playlist in the world\. Cover: Ayetian
+> The biggest Dancehall playlist in the world\. Cover: Shenseea, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-621 songs - 1 day 6 hr 11 min
+622 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [New Gears \(feat\. Vybz Kartel & Françoise Hardy\)](https://open.spotify.com/track/6v2WTkZpJL3XeO0bo9SO2p) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [International](https://open.spotify.com/album/2KwToo62TPPItxMyg3qxv9) | 2:22 | 2025-10-02 |  |
 | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Toni\-Ann Singh](https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:56 | 2023-01-31 | 2023-07-11 |
 | [No Limit](https://open.spotify.com/track/7cr9p0T8NrbLk0P3WTH3We) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/6T7EDV6Ft8eBWbvcPY0mDR) | 2:38 | 2021-12-20 | 2022-03-22 |
-| [No Two Face](https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [No Two Face](https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo) | 3:08 | 2025-01-31 |  |
+| [No Two Face](https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [No Two Face](https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo) | 3:08 | 2025-01-31 | 2026-08-27 |
 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 | 2023-07-10 | 2023-08-08 |
 | [Nomad](https://open.spotify.com/track/1737ApFPMa1YLidEdJ7MwN) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [Nomad](https://open.spotify.com/album/1fx5uUwkU12T18vRMdiFKP) | 2:12 | 2024-04-26 | 2025-08-02 |
 | [North Carolina](https://open.spotify.com/track/2wOVdHz2duM1BrRspxS996) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [North Carolina](https://open.spotify.com/album/1VAtoqET8PjdccfDchldh1) | 2:40 | 2023-08-07 | 2023-11-18 |
@@ -482,6 +482,7 @@
 | [Short Skirt](https://open.spotify.com/track/2USaqXUoDiGYjnzwJWKr2D) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Short Skirt \(Original and Sped Up\)](https://open.spotify.com/album/1DcgosAH0rzrP1ZfT9FN9T) | 2:26 | 2023-08-07 | 2023-09-25 |
 | [Shottaz](https://open.spotify.com/track/3b2M5gLUNCPDtcY8HE6jv6) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Shottaz](https://open.spotify.com/album/106weqr1J9aDUmPTCQU4Ka) | 2:29 | 2023-04-21 | 2023-07-11 |
 | [Shubout](https://open.spotify.com/track/2J6NeeDIYc5E36EbV4u6e8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Shubout](https://open.spotify.com/album/476CRQzkfoU9SK6Mlugb2F) | 2:38 | 2024-08-05 | 2026-01-24 |
+| [Shy Guy \- Live \- Spotify Carnival Sounds](https://open.spotify.com/track/1aRCE77Z5Vc1Bq5lvgx1Ah) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shy Guy \(Live \- Spotify Carnival Sounds\)](https://open.spotify.com/album/2h2AxtXHIYLQu4nLjuyIpy) | 2:40 | 2026-08-26 |  |
 | [SIDUNG](https://open.spotify.com/track/7vuQEzDmZAGUkfFRDNd4OW) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [SIDUNG](https://open.spotify.com/album/5xvkP892H4YG7N8JFIzg5v) | 2:25 | 2023-09-24 | 2023-11-18 |
 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 | 2022-03-04 | 2023-07-11 |
 | [Silent Thoughts](https://open.spotify.com/track/0RYyPc6t3e0vm5fNHaJKUF) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Silent Thoughts](https://open.spotify.com/album/0ylYKHEQG5G02KIzIEUIkg) | 2:42 | 2023-11-24 | 2024-04-26 |

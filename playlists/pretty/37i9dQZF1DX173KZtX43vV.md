@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,395 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,388 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 48 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
 | 49 | [Break Me Down](https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8) | [Amma](https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm) | [Break Me Down](https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm) | 2:09 |
 
-Snapshot ID: `AAAAAB1UcSzjkI26M7+rftW8tvbx4mNj`
+Snapshot ID: `AAAAAD56UBU39JEsDFVXLvxqBIuA2yVQ`

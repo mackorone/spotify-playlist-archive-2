@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : candeur cyclone
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,253 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,259 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [derniers souvenirs du futur](https://open.spotify.com/track/4VgdcxOhDQQbkbJW48kFvk) | [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [derniers souvenirs du futur](https://open.spotify.com/album/4GC6uXzn1gyP2sACCErlhV) | 2:21 |
 | 50 | [Internet Crush](https://open.spotify.com/track/2LZy5MyrpU6u2XkQQQPS3c) | [Tetsuro](https://open.spotify.com/artist/3IwBr3YlABBLg3ZGDSwMVA), [Eden Elf](https://open.spotify.com/artist/0S9wI9ZGeEwgNmVC61utdR) | [Internet Crush](https://open.spotify.com/album/2czSxkWHK4ICyan5QIhuah) | 2:41 |
 
-Snapshot ID: `AAAAAJTLlhbA3DtoP+43UbMAS28fVSTD`
+Snapshot ID: `AAAAAMNhOHan9OVn59oYce5Z3CPTrjHz`

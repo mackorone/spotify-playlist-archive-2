@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! August ambassador: <a href="spotify:artist:2sGGaKKex7GgNlH1DRXZSa">Inez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,402 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,400 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 64 | [De Zon](https://open.spotify.com/track/4vnPFSnJa5GdHUg7Xd02O4) | [Amélie Esmée](https://open.spotify.com/artist/4F6j4Zt7hozI7BtYPCUMgI) | [De Zon](https://open.spotify.com/album/7lTszhv7bJviybhIV48Cax) | 2:28 |
 | 65 | [Heimwee \- Remix](https://open.spotify.com/track/0A1NMwgibqs2klSlgPUcFM) | [Jasha Eliane](https://open.spotify.com/artist/6aY6UyadP2c9dOcc8kIkRU) | [Heimwee \(Remix\)](https://open.spotify.com/album/0GUXlrV5QrgRqPvdgOfOaP) | 2:41 |
 
-Snapshot ID: `AAAAAIxuzs1FBjvr+nM9EAkhMCSGfebK`
+Snapshot ID: `AAAAAEcaZ15eh0luISyd1Uxb7qQmnAnH`

@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 114 | [ko libera](https://open.spotify.com/track/6hhJZ75xeQMqZlciDYrELg) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:36 |
 | 115 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 |
 | 116 | [Danni](https://open.spotify.com/track/3KwoAuN6UEOUzWitQV27wy) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Danni](https://open.spotify.com/album/5vj96ceh2cnUVDKk8GsC8K) | 3:22 |
-| 117 | [ko eco](https://open.spotify.com/track/1bt6MOJL5vrzcUXBEorDiN) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:55 |
-| 118 | [ko penso](https://open.spotify.com/track/2KV0yWfr01Lgo8VeGbBIet) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:18 |
+| 117 | [ko penso](https://open.spotify.com/track/2KV0yWfr01Lgo8VeGbBIet) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:18 |
+| 118 | [ko eco](https://open.spotify.com/track/1bt6MOJL5vrzcUXBEorDiN) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:55 |
 | 119 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
 | 120 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
 | 121 | [ko paradiso](https://open.spotify.com/track/2hJm5UTdAirUFMJSyL4Sac) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:43 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 191 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 | 192 | [Pastello bianco](https://open.spotify.com/track/7z26QB5QCd4YS376p9rW34) | [Lorenzo Molignoni](https://open.spotify.com/artist/3bELGsvNpxsRcrUGZwWzgr), [Stefano Gennara](https://open.spotify.com/artist/3fVbckwRznLNTOqjbyWCCW) | [In Duetto](https://open.spotify.com/album/0zKe90fs9HKIvx2Hjf0bnE) | 4:00 |
 
-Snapshot ID: `AcajOgAAAAAHIoRWQzCtKQbbDu6BcCeX`
+Snapshot ID: `AcaqBgAAAADBq6o0HKrchzSpkZ1oXnRx`

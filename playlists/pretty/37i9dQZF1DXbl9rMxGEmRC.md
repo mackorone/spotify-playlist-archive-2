@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks only\. Cover: Nargaroth
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,151 likes - 140 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,135 likes - 140 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 139 | [The Ephemeral Curse](https://open.spotify.com/track/0j1oTbbvud3GlUVFbyFab2) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Descent](https://open.spotify.com/album/1mDaT2RNgf04P88aTEjTeL) | 3:57 |
 | 140 | [The Kids Will Kill Us](https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [The Kids Will Kill Us](https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k) | 3:45 |
 
-Snapshot ID: `AAAAAE1siqsAkfMwcJOHrdRQD/GNTLVP`
+Snapshot ID: `AAAAAHNZbwAqec+rb43XGLg5JRei1sga`

@@ -1375,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "By George!",
+        "url": "https://open.spotify.com/album/3bF1zXH5sLBPqyyuW1tZUf"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Ruthie Henshall",
+          "url": "https://open.spotify.com/artist/1X4vfxU2mYZ7ERr9LnJVpg"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1134600,
+      "name": "Fantasy On 'Porgy And Bess'",
+      "url": "https://open.spotify.com/track/5MhxQQSKMf20dBuyu857gn"
+    },
+    {
+      "album": {
         "name": "Gershwin: For Two Pianos",
         "url": "https://open.spotify.com/album/54a5zAUgR1mKsziPIuVUz9"
       },

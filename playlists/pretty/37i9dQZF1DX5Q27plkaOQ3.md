@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥  featuring Crankdat + Wooli
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,889 likes - 200 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,897 likes - 200 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 199 | [Crush](https://open.spotify.com/track/3HaRFJZ3QSjn3ffXN1f0Cl) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [Crush](https://open.spotify.com/album/6ds4c90F7yuFG7KWZquDGm) | 3:45 |
 | 200 | [Walk With Giants](https://open.spotify.com/track/5yGthIUxDOGIENDHO7dGAT) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [Walk With Giants EP](https://open.spotify.com/album/2JE1ovKWUdlgRaZL7tFZVA) | 3:29 |
 
-Snapshot ID: `AAAAADhX8v4OZezWwcKZkIc9NDy7Lhql`
+Snapshot ID: `AAAAALWCuc3NO6V6Ed590mO0d5Yt+USK`

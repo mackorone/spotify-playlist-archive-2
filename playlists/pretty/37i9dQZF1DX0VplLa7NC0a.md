@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VplLa7NC0a.md) - [plain]
 
 > The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,708 likes - 60 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,718 likes - 60 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VplLa7NC0a.md) - [plain]
 | 59 | [Canzonetta spagnuola](https://open.spotify.com/track/5qr0sWi6M8T3WVx4yty5jq) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Giuseppina Bridelli](https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl), [Alessandro Marangoni](https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9) | [Rossini: Piano Music, Vol\. 10](https://open.spotify.com/album/4yqoIlUqL3UtCLluRi2BXl) | 2:08 |
 | 60 | [Semiramide, Act II Scene 11: Al mio pregar t'arrendi \- L'usato ardir \(Semiramide, Arsace, Assur, Oroe\)](https://open.spotify.com/track/1WpiMm4vJI5MMmlwoJtKKc) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Alex Penda](https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ), [Virtuosi Brunensis](https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b), [Antonino Fogliani](https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK), [Marianna Pizzolato](https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6), [Lorenzo Regazzo](https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf), [John Osborn](https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF), [Andrea Mastroni](https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI), [Marija Jokovic](https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1), [Vassilis Kavayas](https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU), [Raffaele Facciola](https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO), [Poznan Camerata Bach Choir](https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr) | [Rossini: Semiramide](https://open.spotify.com/album/0mZH1PD4r8M1lqbx54QPrP) | 5:30 |
 
-Snapshot ID: `AAAAAMD5zpcfEK+XM+jb/er4HN6dsUBi`
+Snapshot ID: `AAAAAJXjkwW6iZ6DJe2Cg0Ibfh2tZQZh`

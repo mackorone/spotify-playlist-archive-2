@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,067 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,073 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 | 49 | [3 Romances, Op\. 11: I\. Andante](https://open.spotify.com/track/2UG8jOje2Ug4oUA3H9aPoW) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klemens Klein](https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6) | [Echoes of a Romantic Soul](https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj) | 3:30 |
 | 50 | [3 Romances, Op\. 21: No\. 1 in a Minor](https://open.spotify.com/track/7cvvshWVmVRoRQxRPioFgF) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Carl Schwarz](https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2) | [Eternal Clara](https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN) | 5:43 |
 
-Snapshot ID: `aouJgAAAAAASt4dqhZgZfXzFWP/zKLAO`
+Snapshot ID: `aozbAAAAAADO3/akKq8Y+dphVeEKEmWh`

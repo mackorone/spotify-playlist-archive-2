@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,682 songs - 10 day 12 hr 23 min
+4,687 songs - 10 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,6 +961,7 @@
 | [Dark Heart Beat \(another\)](https://open.spotify.com/track/1Fm1TaeMv8ZKZGxDEM88ya) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Heavy Metal](https://open.spotify.com/album/3qU2fVHByONqza3flWiPev) | 2:54 | 2025-09-19 |  |
 | [Dark Illusion \#Music \#NewMusic \#Viral](https://open.spotify.com/track/18cdXpsAOHYR4gO8xtifK1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:15 | 2025-09-15 |  |
 | [Darker](https://open.spotify.com/track/4KYddvFoEOSInKUECmNecU) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Darker](https://open.spotify.com/album/3GJ38upPq5UzkPHqeya4pt) | 2:52 | 2025-11-08 |  |
+| [darling](https://open.spotify.com/track/2hRO1mBmCenbKuZFRjaHRw) | [Allis $tone](https://open.spotify.com/artist/78VKtRLs8u3xajtazmw5LJ) | [IF YOU LET ME BE YOUR LOVER](https://open.spotify.com/album/1shZ0KRIdevXMP3xhaNW0S) | 1:17 | 2026-08-26 |  |
 | [Das Lied Der Kriegsmarine](https://open.spotify.com/track/3DZBc40T0mt0aLjP31zlam) | [The William Loveday Intention](https://open.spotify.com/artist/4ZpBAKcYPYvRqlnyWlKthR) | [Das Lied Der Kriegsmarine](https://open.spotify.com/album/69bIa76nSpcZWXWEFHxrAj) | 2:33 | 2025-11-05 |  |
 | [Das Spiel War Woanders](https://open.spotify.com/track/1C2iLmHmjo5V8FfBrRNHWw) | [Rotfuchs](https://open.spotify.com/artist/5jVVsL8gi9wV0bvdEqwGGY) | [Das Spiel War Woanders](https://open.spotify.com/album/1oFzw0MQGMu4hoE0gMncv0) | 4:15 | 2026-08-21 |  |
 | [Daughter](https://open.spotify.com/track/0FrjFw8dEJ8fHJx4Zi0qRk) | [Marco Petruzzella](https://open.spotify.com/artist/4qaOD5XszSwqzzJpelXucs) | [Daughter](https://open.spotify.com/album/42oUbj7nBDV3kP1VL3XpPm) | 3:54 | 2025-12-10 |  |
@@ -1459,6 +1460,7 @@
 | [Fading Echoes](https://open.spotify.com/track/5yIHSwTY5LANczMnsjLPim) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Fading Echoes](https://open.spotify.com/album/6A62zL1RUIMKRwCTIc8T8t) | 3:37 | 2025-05-10 |  |
 | [Fading Gold](https://open.spotify.com/track/6sH1EExdd4wbOxZ75zq6hZ) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:27 | 2025-10-09 |  |
 | [Fading Memories](https://open.spotify.com/track/2Tjq2WaKud0Y7p23guCK5T) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Fading Memories](https://open.spotify.com/album/3Z0bcJ6hkX0CTwOqZlafrn) | 4:00 | 2025-06-05 |  |
+| [Fading Trace](https://open.spotify.com/track/6VRtRhIuagAfxY6tXIjWMe) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Fading Trace](https://open.spotify.com/album/0L1E65Cgz1nwbjD3XOe47v) | 2:45 | 2026-08-26 |  |
 | [Faith and Loss](https://open.spotify.com/track/3zlB7vUQsAE28KJDcg8Hk1) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Faith and Loss](https://open.spotify.com/album/0WlDmKxKEDZsXMEOrpsNfm) | 3:25 | 2025-05-31 |  |
 | [Fake](https://open.spotify.com/track/0MBYfuf0BxZH1FJf6jHTus) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 2:51 | 2025-04-09 |  |
 | [Fall](https://open.spotify.com/track/11IWTXz2DUUSJWC91x10gu) | [TailoredToTale](https://open.spotify.com/artist/1KqRWLbTL5nyi9WzxSl4cv) | [Fall](https://open.spotify.com/album/1zo8HY4BC5EjTymCkJ1vD4) | 3:31 | 2025-09-15 |  |
@@ -2100,6 +2102,7 @@
 | [Island of Grace](https://open.spotify.com/track/3esBsbgnshGwP0uYf6lg5W) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:06 | 2026-08-20 |  |
 | [Island of Grace \(fomo mode\)](https://open.spotify.com/track/32LlL5R9kOLOT1dveHCZdn) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:14 | 2026-08-20 |  |
 | [Isn't It a Pity \- Version 1 \- 2020 Mix](https://open.spotify.com/track/4eqUOw3lQ366iJwDv9sSJi) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary \- Super Deluxe\)](https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak) | 7:10 | 2026-03-15 |  |
+| [It Don't Make Sense](https://open.spotify.com/track/7kf07N1yvbybrobrU0BQ4w) | [Serrano](https://open.spotify.com/artist/5guL1rmn0b3SyK38p4H89E) | [It Don't Make Sense](https://open.spotify.com/album/2Jo8ciQPf90dGM7uNNDWjv) | 3:03 | 2026-08-26 |  |
 | [It Grows](https://open.spotify.com/track/36bjfCNFgMgS6PzTRsDpQI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/3wEMVRIEFI3SxYeooos05I) | 3:24 | 2026-03-01 |  |
 | [IT NEVER COMES BACK](https://open.spotify.com/track/3diyZsEkmMTKqBVawZlRMx) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [IT NEVER COMES BACK](https://open.spotify.com/album/33ZKtj4WvcBeYlgOCriCYn) | 3:31 | 2025-06-02 |  |
 | [It Was Nice Meeting You](https://open.spotify.com/track/5FRX4SxGuILpN1mE6tS30y) | [Slowcoaching](https://open.spotify.com/artist/2EDx60iaorVfT7kuWZbo1m) | [It Was Nice Meeting You](https://open.spotify.com/album/46NdFFFJp2TA83rLRIc3xj) | 3:10 | 2025-12-04 |  |
@@ -2960,6 +2963,7 @@
 | [Ombrello](https://open.spotify.com/track/3KunK9oz9DAYk4RNjq329p) | [Danny Fiorilla](https://open.spotify.com/artist/2tgqhZ1DaammObirYQIrju) | [Danny](https://open.spotify.com/album/2gVEYdhHqbfFHNw0eRvqNt) | 3:01 | 2025-05-27 |  |
 | [OMG XD](https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [OMG XD](https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK) | 2:03 | 2025-07-28 |  |
 | [On god](https://open.spotify.com/track/4d5hSUGZIAmejJCZJc8mQO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:08 | 2025-09-17 |  |
+| [on my way to christmas](https://open.spotify.com/track/7dDAodVygqSfAydDB3BupY) | [Lanssonnn](https://open.spotify.com/artist/0EqxnmuxSUf5ZRcHAKAohR) | [on my way to christmas](https://open.spotify.com/album/5X1ngDbH2wWQcLAkZbr95F) | 3:14 | 2026-08-26 |  |
 | [On Repeat](https://open.spotify.com/track/5thAi8gUBY5qxWuhOenRx3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 2:30 | 2025-09-18 |  |
 | [On Repeat \(another\)](https://open.spotify.com/track/0LLjIXhlPltvmUedFUPTke) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 2:53 | 2025-09-18 |  |
 | [On That Ride](https://open.spotify.com/track/2FtfeuOt2LrS8VREqgOEEr) | [SAN LOVA](https://open.spotify.com/artist/3IqABeX0Vkevn2aVD0BaPw) | [On That Ride](https://open.spotify.com/album/67xS1aWwqNChm8paWgOuib) | 4:12 | 2025-09-21 |  |
@@ -4673,6 +4677,7 @@
 | [Я згорів, щоб тебе зігріти](https://open.spotify.com/track/35Vv5yOjjimzEAynwV6vfN) | [PORIZ](https://open.spotify.com/artist/678dV6YnJWIFFHEJ5slNcA) | [Живе Поєднання Божевілля](https://open.spotify.com/album/6lVIy1eQ6zbAWDWizdfi4P) | 3:28 | 2025-12-05 |  |
 | [Я попрошу](https://open.spotify.com/track/1hrGAjCwqcWUk3RnkhxdiY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Я попрошу](https://open.spotify.com/album/0TiR7KrAF5OQxM4IUjnbcO) | 4:09 | 2025-07-01 |  |
 | [Я попрошу](https://open.spotify.com/track/5nFVFo2lDvCpLBtPmpeBsU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:09 | 2025-09-16 |  |
+| [אלגוריתם](https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [אלגוריתם](https://open.spotify.com/album/3z86HVtVhwZRLEU2VGjGtO) | 3:27 | 2026-08-26 |  |
 | [בין הנהר לים](https://open.spotify.com/track/4KGy1j3MBsSoQHm3iihIGd) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 2:58 | 2025-08-14 |  |
 | [דיבור חדש](https://open.spotify.com/track/10b8wbWrQx7T5BgQb4AEHZ) | [ליעוז בלסיאנו](https://open.spotify.com/artist/5gdRakXIjx0ha2hkoCap6X) | [דיבור חדש](https://open.spotify.com/album/4ZpMwe0bHnFwDFHG1NnBtW) | 3:38 | 2025-03-30 |  |
 | [さよならの未来](https://open.spotify.com/track/4PoXSOjk9cljdE5IQQOxxi) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [さよならの未来](https://open.spotify.com/album/1MKezfwB56g6N6FNfr9Quu) | 4:22 | 2026-04-22 |  |

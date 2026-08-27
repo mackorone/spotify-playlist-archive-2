@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,621 likes - 200 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,650 likes - 200 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,13 +168,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 158 | [Extinction](https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6) | [Wraith](https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS) | [Index Case](https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH) | 1:55 |
 | 159 | [Indoctrinate](https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Indoctrinate](https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo) | 5:39 |
 | 160 | [Miami Supercops](https://open.spotify.com/track/7rrIaFaaKxEEnzb4rWv6cl) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Miami Supercops](https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL) | 3:17 |
-| 161 | [Reapers Fool](https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Reapers Fool](https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa) | 3:22 |
-| 162 | [Disco Nnection](https://open.spotify.com/track/5fkylI4UHIFITBnfpZQml9) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Disco Nnection](https://open.spotify.com/album/0SI5GPdVgtuOIZ40QGGnxK) | 4:15 |
+| 161 | [Disco Nnection](https://open.spotify.com/track/5fkylI4UHIFITBnfpZQml9) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Disco Nnection](https://open.spotify.com/album/0SI5GPdVgtuOIZ40QGGnxK) | 4:15 |
+| 162 | [Reapers Fool](https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Reapers Fool](https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa) | 3:22 |
 | 163 | [Dear Diary](https://open.spotify.com/track/21zfxfNLaNqQuGX0MSwvh7) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Dear Diary](https://open.spotify.com/album/1TyE20y8uKLbd6cPPjaeZj) | 2:36 |
 | 164 | [Upon Their Cross](https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Let the World Burn](https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn) | 5:27 |
 | 165 | [The Ending](https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2) | [Cerberus](https://open.spotify.com/artist/2X801wW31GQU9xgVESz7hY) | [The Ending](https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu) | 3:33 |
-| 166 | [Witchhunter](https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Witchhunter](https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2) | 3:13 |
-| 167 | [The Many Licit Paths](https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Full HD](https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY) | 4:52 |
+| 166 | [The Many Licit Paths](https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Full HD](https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY) | 4:52 |
+| 167 | [Witchhunter](https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Witchhunter](https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2) | 3:13 |
 | 168 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 |
 | 169 | [Freedom](https://open.spotify.com/track/76GuF96xWQSP1sCalY3tJ6) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Freedom](https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM) | 3:10 |
 | 170 | [Pyhä Vitutus](https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Pyhä Vitutus](https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT) | 3:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 199 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 |
 | 200 | [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 |
 
-Snapshot ID: `AAAAADyfLcqcMPpJhpPHkS9GEjN6DdDC`
+Snapshot ID: `AAAAAHChuwtuWYkhGK0CtGOLFE/OaKJs`

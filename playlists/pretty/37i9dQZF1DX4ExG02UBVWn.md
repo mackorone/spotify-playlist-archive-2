@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,921 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,922 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 87 | [White Doves](https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [White Doves](https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc) | 4:44 |
 | 88 | [Stay Up](https://open.spotify.com/track/1j2nst74Fri33ZcEP3tbaP) | [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ), [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU) | [Stay Up](https://open.spotify.com/album/05iSw1a8uWIchW2ntRaEVE) | 2:14 |
 | 89 | [Mini Excursion](https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [Negro Impacto](https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3) | 3:07 |
-| 90 | [Losing You](https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Losing You](https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX) | 3:27 |
+| 90 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 |
 | 91 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 |
-| 92 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 |
+| 92 | [Losing You](https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Losing You](https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX) | 3:27 |
 | 93 | [Boundaries](https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [Boundaries](https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg) | 4:22 |
 | 94 | [Truth and Desire](https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Truth and Desire](https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP) | 3:47 |
 | 95 | [Took My Heart](https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Took My Heart](https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 99 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
 | 100 | [LONG TERM PARKING](https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e) | [Luke RV](https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd) | [LONG TERM PARKING](https://open.spotify.com/album/0PT0jL8kzWpJs43y2oWMzu) | 2:42 |
 
-Snapshot ID: `AAAAAD7s+UYGQCO4OnSEDRvc4BWvAw+d`
+Snapshot ID: `AAAAAI2LcdBKl0AhtK6sdMKFNEPYX4Q1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: P'tit Beliveau x kinji00
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,663 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,676 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Tout c’qui faut](https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Westfalia](https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl) | 1:57 |
 | 75 | [Paranormal](https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L) | [Kamilou](https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5) | [Paranormal](https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO) | 2:57 |
 
-Snapshot ID: `AAAAAA6awF1aLUEkBIEbZiPyR8yZjePV`
+Snapshot ID: `AAAAAAHM2JHxbGb/OZnHcR0nYeehMX4Q`

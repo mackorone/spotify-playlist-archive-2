@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Andreas Odbjerg & Medina, Nik & Jay og Smøgmænd ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,191 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,187 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 91 | [Big Soft](https://open.spotify.com/track/2rLgwbknBEDbSV2AVhIZzo) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [Big Soft](https://open.spotify.com/album/7tRw6bxAGyURlISdUauIJ7) | 2:41 |
 | 92 | [Passa Bollen](https://open.spotify.com/track/55WuASBuHL7MfGIzZ29TVj) | [Nisse Hasselgren](https://open.spotify.com/artist/4v5w0Jq7clg8opEwcfrGs2) | [Passa Bollen](https://open.spotify.com/album/78wTgiIeibnJrCMPC3rfKp) | 3:49 |
 | 93 | [Totally](https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Totally](https://open.spotify.com/album/68bAvtCNnayCdY7cQbz1Mh) | 2:42 |
-| 94 | [Love Me](https://open.spotify.com/track/6sxPkot6EBYh5KRKzOfwBC) | [Selma Eriksen](https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz) | [Love Me](https://open.spotify.com/album/0Xt30AWKQG2VirORfC81tT) | 2:16 |
-| 95 | [Double Denim](https://open.spotify.com/track/4ckURFhIveVy1G1QnsHUs0) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Double Denim](https://open.spotify.com/album/1r6p79R0eJU25bAchNgeIV) | 2:30 |
-| 96 | [such is life](https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [such is life](https://open.spotify.com/album/5OsGDMlr3xM2QazyJwf28g) | 3:53 |
-| 97 | [20, fine without](https://open.spotify.com/track/3fzreBTxm4K6ygu4tOZW39) | [Natalie Reigo](https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi) | [20, fine without](https://open.spotify.com/album/5LNdPVkpPjnKhxYPbZb1mN) | 2:51 |
-| 98 | [Ain't No Game](https://open.spotify.com/track/1hRazzupiYrnYYUdpNhncL) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ain't No Game](https://open.spotify.com/album/3wQeApJ63jTGhdyvzYMvLX) | 2:41 |
-| 99 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
-| 100 | [Light That Never Goes Out](https://open.spotify.com/track/5CqrjbsznxZNJ914mTqAsH) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Light That Never Goes Out](https://open.spotify.com/album/5F6ViTRGVxJD8yNiVZy9Ui) | 2:50 |
+| 94 | [If Not Now, When](https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [If Not Now, When](https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6) | 3:57 |
+| 95 | [Love Me](https://open.spotify.com/track/6sxPkot6EBYh5KRKzOfwBC) | [Selma Eriksen](https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz) | [Love Me](https://open.spotify.com/album/0Xt30AWKQG2VirORfC81tT) | 2:16 |
+| 96 | [Double Denim](https://open.spotify.com/track/4ckURFhIveVy1G1QnsHUs0) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Double Denim](https://open.spotify.com/album/1r6p79R0eJU25bAchNgeIV) | 2:30 |
+| 97 | [such is life](https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [such is life](https://open.spotify.com/album/5OsGDMlr3xM2QazyJwf28g) | 3:53 |
+| 98 | [20, fine without](https://open.spotify.com/track/3fzreBTxm4K6ygu4tOZW39) | [Natalie Reigo](https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi) | [20, fine without](https://open.spotify.com/album/5LNdPVkpPjnKhxYPbZb1mN) | 2:51 |
+| 99 | [Ain't No Game](https://open.spotify.com/track/1hRazzupiYrnYYUdpNhncL) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ain't No Game](https://open.spotify.com/album/3wQeApJ63jTGhdyvzYMvLX) | 2:41 |
+| 100 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
+| 101 | [Light That Never Goes Out](https://open.spotify.com/track/5CqrjbsznxZNJ914mTqAsH) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Light That Never Goes Out](https://open.spotify.com/album/5F6ViTRGVxJD8yNiVZy9Ui) | 2:50 |
 
-Snapshot ID: `AAAAAH+OHc9AvvEkV94NHogUpUNnKeA+`
+Snapshot ID: `AAAAAJL+NaYNzyawSAnOtPf4QE/mZ9uY`

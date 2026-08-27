@@ -1,6 +1,6 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70841,
+  "num_followers": 70847,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia M\u00e1s",
-        "url": "https://open.spotify.com/album/6uIWZPoki2fcKQ2oRLAHxf"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 165355,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/1Whtxte94G9RYoJSAVCSCz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
         "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 240277,
       "name": "Reproches Del Viento - En Vivo Desde El Domo Care",
       "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Historia M\u00e1s",
+        "url": "https://open.spotify.com/album/6uIWZPoki2fcKQ2oRLAHxf"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 165355,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/1Whtxte94G9RYoJSAVCSCz"
     },
     {
       "added_at": null,
@@ -411,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
-        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
-      "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
         "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
       },
@@ -455,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
+      "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
         "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
@@ -473,7 +489,7 @@
         }
       ],
       "duration_ms": 201909,
-      "name": "Avi\u00e9ntame (EN VIVO DESDE EL DOMO CARE)",
+      "name": "Avi\u00e9ntame - EN VIVO DESDE EL DOMO CARE",
       "url": "https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7"
     },
     {
@@ -561,7 +577,7 @@
         }
       ],
       "duration_ms": 169664,
-      "name": "Con Tu Imagen (EN VIVO DESDE EL DOMO CARE)",
+      "name": "Con Tu Imagen - EN VIVO DESDE EL DOMO CARE",
       "url": "https://open.spotify.com/track/1VLdYIeUG6fWsoWFNVY7uP"
     },
     {
@@ -703,18 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+        "name": "La Borrachera Perfecta El After (En Vivo)",
+        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
+      "duration_ms": 198976,
+      "name": "El Preso De Nuevo Le\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
     },
     {
       "added_at": null,
@@ -743,26 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta El After (En Vivo)",
-        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 198976,
-      "name": "El Preso De Nuevo Le\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Corrido De Los P\u00e9rez",
-      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 160493,
       "name": "Ojitos a Mi Gusto",
       "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Deje las Llaves, Mami",
-        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 241573,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/5POOBIEr2W8AJr0Wg1aX30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chapayeka (Puro Chucky) (En Vivo)",
         "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/7eeKs1krgWIFY4ulzPQSdu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0ku28ZE1suZxzY5tpBzUuG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
         "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 193813,
       "name": "Baraja de Oro",
       "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/7eeKs1krgWIFY4ulzPQSdu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0ku28ZE1suZxzY5tpBzUuG"
     }
   ],
   "unique_name": "This Is Lalo Mora",

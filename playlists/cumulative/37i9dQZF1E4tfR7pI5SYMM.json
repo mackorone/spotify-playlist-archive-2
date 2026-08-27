@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Charlie Marshall Effect, Autoimmune, David Von Beahm and more",
+  "description": "With David Von Beahm, Haneke Twins, Mareritt Larsen and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 298602,
       "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
       "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 193445,
       "name": "After Your Love",
       "url": "https://open.spotify.com/track/0WdGm6My3Tg7qt1Gb71XLs"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 263026,
       "name": "Aloha From The Void",
       "url": "https://open.spotify.com/track/3QDoBTR7yfC5ktM591AdQu"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Commander Cruel - Rework 2026",
       "url": "https://open.spotify.com/track/1cz2tkOAJEnaOr4DLp16hH"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 249250,
       "name": "Dark Night",
       "url": "https://open.spotify.com/track/540iBG3WkAkXCOh1hpmyJu"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 199957,
       "name": "Den Neste",
       "url": "https://open.spotify.com/track/0lVtS8CUIi3mVl60ch4P6x"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -4692,7 +4692,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 177352,
       "name": "Feel the Burn",
       "url": "https://open.spotify.com/track/4M3fdKeOdFbZS7uBbY56Km"
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 330737,
       "name": "Flieg Vogel flieg",
       "url": "https://open.spotify.com/track/4D1e1mUnr2huaOxcEZv08G"
@@ -6823,6 +6823,24 @@
     },
     {
       "album": {
+        "name": "Barren Land",
+        "url": "https://open.spotify.com/album/1g5VrFQYAMDnV8PgQmKJEr"
+      },
+      "artists": [
+        {
+          "name": "Long Night",
+          "url": "https://open.spotify.com/artist/6uy5bEq0nV437AaAhUEZDS"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323741,
+      "name": "It's All Gone",
+      "url": "https://open.spotify.com/track/2VNmS0FgGbXS5OGpwU9MC2"
+    },
+    {
+      "album": {
         "name": "From the Attic",
         "url": "https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE"
       },
@@ -6852,7 +6870,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -7188,7 +7206,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -7390,7 +7408,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 200000,
       "name": "Last Good Year",
       "url": "https://open.spotify.com/track/5abvZLtaVQlfFNqoeEv5ur"
@@ -7802,7 +7820,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -7896,7 +7914,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -9166,7 +9184,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 255812,
       "name": "My Elegy",
       "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
@@ -9242,7 +9260,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -9372,7 +9390,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -10048,7 +10066,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 184241,
       "name": "Old And Whys",
       "url": "https://open.spotify.com/track/1ysvKJt74kWHbsDrZeRgTy"
@@ -10196,7 +10214,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -10376,7 +10394,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 272578,
       "name": "Pale Moon",
       "url": "https://open.spotify.com/track/5wpcsd6kWh8DDqX935F8w1"
@@ -10564,7 +10582,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 351146,
       "name": "Passage",
       "url": "https://open.spotify.com/track/3i5lFBoCIBlBoo54xIj3gF"
@@ -10672,7 +10690,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -11643,6 +11661,24 @@
     },
     {
       "album": {
+        "name": "The Pact",
+        "url": "https://open.spotify.com/album/4yXpK9HdGNci0C9GjGrCz7"
+      },
+      "artists": [
+        {
+          "name": "Blizzard Hunter",
+          "url": "https://open.spotify.com/artist/7pFJkXhBzwXNG4qZH2Y5t9"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97906,
+      "name": "Sealed with Blood",
+      "url": "https://open.spotify.com/track/6wTYDMvqvGlsOU0Mx8tMzw"
+    },
+    {
+      "album": {
         "name": "Season Call I",
         "url": "https://open.spotify.com/album/5sdUpgfNOuOmAawk67kp8i"
       },
@@ -12000,7 +12036,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -12558,7 +12594,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 205292,
       "name": "South Side",
       "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
@@ -12666,7 +12702,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 327951,
       "name": "Stale",
       "url": "https://open.spotify.com/track/7i4c2nXS9JyKmajo0VMcNI"
@@ -13290,7 +13326,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 276940,
       "name": "Tapetblomma",
       "url": "https://open.spotify.com/track/43m5wGSqGgkPR9nOgPdamR"
@@ -13856,7 +13892,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -14088,7 +14124,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 263920,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/625gLSaOlAcfJ0mWt6zITJ"
@@ -14532,7 +14568,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -14908,6 +14944,24 @@
       "duration_ms": 314170,
       "name": "Toten Danse",
       "url": "https://open.spotify.com/track/7HYNdk8WB0XwP3zCT0gW6e"
+    },
+    {
+      "album": {
+        "name": "Totenritual",
+        "url": "https://open.spotify.com/album/2lQxrjzd3UpzHMxEL3TPoS"
+      },
+      "artists": [
+        {
+          "name": "Verrottet",
+          "url": "https://open.spotify.com/artist/3LVDuMvcTZkTZoFl0A7yoQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Totentanz (2026)",
+      "url": "https://open.spotify.com/track/6moX3aZh4qtG79yUMbB4XP"
     },
     {
       "album": {
@@ -15720,7 +15774,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 128600,
       "name": "Virus Potus",
       "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
@@ -16312,7 +16366,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 306938,
       "name": "Where is the rainbow?",
       "url": "https://open.spotify.com/track/2vdp5KyKYH5t2hoR6W9OzC"
@@ -16824,7 +16878,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 190128,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"

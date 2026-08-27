@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,567 likes - 268 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,716 likes - 268 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 267 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |
 | 268 | [I Want You](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Want You](https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL) | 3:27 |
 
-Snapshot ID: `AAAAAGx3ZtlQr8B1QXCiG/Q3icqeHias`
+Snapshot ID: `AAAAAMw6lbS9S8LfPKMei4JQb76+/JZh`

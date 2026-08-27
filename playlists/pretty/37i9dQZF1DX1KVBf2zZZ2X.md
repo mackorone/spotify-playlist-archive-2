@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,227 likes - 125 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,657 likes - 125 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 124 | [Glint](https://open.spotify.com/track/2CNs8gg77FhVmadqvhrueH) | [Golden Mirage](https://open.spotify.com/artist/77CkzRAWnnxgtcSDY8BXD6) | [Glint](https://open.spotify.com/album/5jm4rOPGLF04RP1d9cuxbi) | 2:39 |
 | 125 | [Holding Quiet](https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0) | [Amadeen](https://open.spotify.com/artist/4dSxhIbiVwIfb0sA1akRN4) | [Holding Quiet](https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y) | 2:41 |
 
-Snapshot ID: `AAAAADjWy1gIshwaA9+GE1Q203lDMW/N`
+Snapshot ID: `AAAAAC8odrGPJWvxCu7KjYjw2P/Q2FLD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal, 40 seasons of Natalie w/ Milk & Bone
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,622 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,638 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 74 | [Sans oublier](https://open.spotify.com/track/0dJrBrnOdYpRNfNiYcjuYj) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 3:26 |
 | 75 | [coucou, comment ça va?](https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [coucou, comment ça va?](https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7) | 4:13 |
 
-Snapshot ID: `AAAAAEvigiTRsz1vK4HJvV43GJJJKCd0`
+Snapshot ID: `AAAAAMV4WtQyMqKTLzaTxf3y4EcY0CkB`

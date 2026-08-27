@@ -1,6 +1,6 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 136958,
+  "num_followers": 136972,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 138106,
-      "name": "The Satanic Rites of Blacula",
-      "url": "https://open.spotify.com/track/1JeGX4cixemJfBJl6XGQES"
+      "duration_ms": 175266,
+      "name": "Scum Of The Earth",
+      "url": "https://open.spotify.com/track/2qrxKk3y85UpaNcI07LPn9"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Satan",
-        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Tarantula",
-      "url": "https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ"
+      "duration_ms": 138106,
+      "name": "The Satanic Rites of Blacula",
+      "url": "https://open.spotify.com/track/1JeGX4cixemJfBJl6XGQES"
     },
     {
       "added_at": null,
@@ -294,17 +294,21 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 148133,
-      "name": "Dead Girl Superstar",
-      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
+      "duration_ms": 251200,
+      "name": "Iron Head",
+      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
       },
       "artists": [
         {
@@ -312,9 +316,57 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 247040,
-      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-      "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
+      "duration_ms": 182466,
+      "name": "Tarantula",
+      "url": "https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "American Witch",
+      "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 30400,
+      "name": "Call Of The Zombie",
+      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "Dead Girl Superstar",
+      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
     },
     {
       "added_at": null,
@@ -335,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -344,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 30400,
-      "name": "Call Of The Zombie",
-      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
+      "duration_ms": 247040,
+      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
     },
     {
       "added_at": null,
@@ -467,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
       "artists": [
         {
@@ -476,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Blitzkrieg Bop",
-      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
+      "duration_ms": 208946,
+      "name": "Foxy, Foxy",
+      "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
     },
     {
       "added_at": null,
@@ -531,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
       "artists": [
         {
@@ -540,9 +592,25 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 174466,
-      "name": "The Life And Times Of A Teenage Rock God",
-      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
+      "duration_ms": 234240,
+      "name": "The Devil's Rejects",
+      "url": "https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
     },
     {
       "added_at": null,
@@ -563,6 +631,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Black Rat Coffin",
+      "url": "https://open.spotify.com/track/5gPnQOKPrAeGAO1b3kW49N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "The Life And Times Of A Teenage Rock God",
+      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venomous Rat Regeneration Vendor",
         "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
@@ -579,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Satan",
-        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -588,9 +688,25 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Black Rat Coffin",
-      "url": "https://open.spotify.com/track/5gPnQOKPrAeGAO1b3kW49N"
+      "duration_ms": 194933,
+      "name": "Shadow of the Cemetery Man",
+      "url": "https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Let It All Bleed Out",
+      "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
     },
     {
       "added_at": null,
@@ -619,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "The Man Without Fear (Feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
       },
       "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 194933,
-      "name": "Shadow of the Cemetery Man",
-      "url": "https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6"
+      "duration_ms": 200826,
+      "name": "The Man Without Fear (Feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
     },
     {
       "added_at": null,
@@ -651,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Without Fear (Feat. Rob Zombie)",
-        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
       "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 200826,
-      "name": "The Man Without Fear (Feat. Rob Zombie)",
-      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
+      "duration_ms": 218000,
+      "name": "The Scorpion Sleeps",
+      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
     },
     {
       "added_at": null,
@@ -703,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "(Go To) California",
-      "url": "https://open.spotify.com/track/19tDq9gNtVcFxzaMa0Kh6L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Matrix Reloaded: The Album",
         "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
       },
@@ -735,114 +835,6 @@
       "duration_ms": 265160,
       "name": "Reload",
       "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wrong Side of Heaven Volume 1 + 2",
-        "url": "https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 217847,
-      "name": "Burn MF (feat. Rob Zombie)",
-      "url": "https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "House Of 1000 Corpses - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2mhgIn2jZSrC9G7NASBPbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Bring Her Down (To Crippletown)",
-      "url": "https://open.spotify.com/track/7KO9NC1s4YE9ABZECat7si"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Lords Of Salem",
-      "url": "https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mars Needs Women (Without Intro)",
-      "url": "https://open.spotify.com/track/28HtDcxn4Kjb5QS1HEMGPB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mondo Sex Head",
-        "url": "https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        },
-        {
-          "name": "Jonathan Davis",
-          "url": "https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "Thunder Kiss '65 - JDevil Number Of The Beast Remix",
-      "url": "https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j"
     }
   ],
   "unique_name": "This Is Rob Zombie",

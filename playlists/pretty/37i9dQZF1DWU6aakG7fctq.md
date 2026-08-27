@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: natxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,236 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,175 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [resaca](https://open.spotify.com/track/4DlpTcUY0Jenro4YSbZLWT) | [DEL TORO](https://open.spotify.com/artist/1Jn7RTBozrxlbYnnvLZnEU) | [QUE MIEDØ!](https://open.spotify.com/album/4AYUikhVCbU7CZgBgXJaAt) | 2:55 |
 | 50 | [Verano Lento](https://open.spotify.com/track/5mKqhC0IrB2oLvUgFi5naH) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Verano Lento](https://open.spotify.com/album/3ajZB9dy7Yk03dXJxDzYhS) | 3:04 |
 
-Snapshot ID: `AAAAACMD39/sDAYZ3oeyVMTeTHPdVF74`
+Snapshot ID: `AAAAABA1ziT1lfbq6J1DittgFxxvHsq4`

@@ -12152,10 +12152,28 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 240521,
       "name": "Why Can't I?",
       "url": "https://open.spotify.com/track/3LRypkrjihgVnSwZRgtPrA"
+    },
+    {
+      "album": {
+        "name": "Start Over (Extended Edition)",
+        "url": "https://open.spotify.com/album/7gZvNLtYEjkaovwPZIRnET"
+      },
+      "artists": [
+        {
+          "name": "BLAKE",
+          "url": "https://open.spotify.com/artist/7JGJfRv9uECnJd7q99tl4V"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240521,
+      "name": "Why Can't I?",
+      "url": "https://open.spotify.com/track/42gUw8L92HPgcElphIsENc"
     },
     {
       "album": {

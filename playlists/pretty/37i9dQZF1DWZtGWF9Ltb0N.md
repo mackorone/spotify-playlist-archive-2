@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,713 likes - 150 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,820 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 68 | [GIVE IT UP \(BUCKSHOT\)](https://open.spotify.com/track/35eTI1GQoUzwbbG1Lrc7iR) | [Blurrd Vzn](https://open.spotify.com/artist/1Un7dSWqDulk2W0L0QD8vI) | [GIVE IT UP \(BUCKSHOT\)](https://open.spotify.com/album/4OWoO7ovwdpmKqEt2uXKyN) | 2:31 |
 | 69 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
 | 70 | [Jacques Cousteau](https://open.spotify.com/track/7xgd54ArMqnRlye7Wtg2lT) | [Pigeon Hole](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP) | [Jacques Cousteau](https://open.spotify.com/album/1hOweynvVHAd34Q4D66My4) | 4:13 |
-| 71 | [BRUH \(ft\. SAM\-E\)](https://open.spotify.com/track/6DYe8H4rKTicBK8VIedWW2) | [2D0GS](https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6), [SAM\-E](https://open.spotify.com/artist/5MKvCopm3dtRotKI9Vlxw4) | [BRUH \(ft\. SAM\-E\)](https://open.spotify.com/album/0Lh4W9PIy9eqtwJ7lso1Ck) | 3:13 |
+| 71 | [BRUH \(ft\. SAM\-E\)](https://open.spotify.com/track/6DYe8H4rKTicBK8VIedWW2) | [2D0GS](https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6), [SAM\-E](https://open.spotify.com/artist/4X9RCdLI1RcvzYUglNMtcd) | [BRUH \(ft\. SAM\-E\)](https://open.spotify.com/album/0Lh4W9PIy9eqtwJ7lso1Ck) | 3:13 |
 | 72 | [Lotis Eater](https://open.spotify.com/track/4RV0l2NdRR6cZ6SWqneFvx) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [Lotis Eater](https://open.spotify.com/album/07okM9wWAQXXUGO0qsBUMf) | 4:16 |
 | 73 | [Spectral](https://open.spotify.com/track/0aK1S8wLCbUhW5BEGjiegg) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Spätkauf](https://open.spotify.com/album/1ROtnR2ZOvisi4NgbwxUWH) | 3:01 |
 | 74 | [Massive](https://open.spotify.com/track/6lpV56qc2BdsGBckqvRlQt) | [Wraz.](https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D), [Darkai](https://open.spotify.com/artist/1vzzE1oUw4QFWHlXqad9V7) | [Massive / Dosed](https://open.spotify.com/album/2IxvF0A2dccaU7R3O5p20u) | 3:21 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Ancient Secrets](https://open.spotify.com/track/1ReUQBuR6rPojwvZJYyepT) | [Nyrus](https://open.spotify.com/artist/4K129VU520mAbin25QcKfH), [Serpentis](https://open.spotify.com/artist/7GDTaBQ5irjbkqAg8JIvbi) | [Ancient Secrets](https://open.spotify.com/album/1VWls87v6qVn7S9tXS0M1o) | 3:42 |
 | 150 | [Headspun](https://open.spotify.com/track/108nFTPajD29FjcHmE7JX8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Headspun](https://open.spotify.com/album/6hPJ5c6BI0KHvTXxvpDxSa) | 2:23 |
 
-Snapshot ID: `AAAAAEdSBDXXA+t8iWMqGlLllMZZiKau`
+Snapshot ID: `AAAAAHDGrzHvcDmlMUxdxwa86Y4VGZ6U`

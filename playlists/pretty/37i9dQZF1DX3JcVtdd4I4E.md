@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 79 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
 | 80 | [Fragile Like A Bomb](https://open.spotify.com/track/3d7DjSMkqfXoleQbcGQEgk) | [CISSI](https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk) | [Fragile Like A Bomb](https://open.spotify.com/album/1qomqCIJ6f6XuloU6AHT1K) | 3:46 |
 
-Snapshot ID: `AAAAAJtTy7plnYop7flX6i9JwK773qJ8`
+Snapshot ID: `AAAAANJB555/QmWAVYJ8ZpWE4l2CxnUm`

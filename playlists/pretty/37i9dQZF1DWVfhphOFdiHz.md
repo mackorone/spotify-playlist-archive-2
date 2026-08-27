@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,291 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,297 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 
-Snapshot ID: `AAAAAOhxhf+8qHhXq0brG8nPVPBX7Qsh`
+Snapshot ID: `AAAAAFR8nmg/EYt5CJPDZlijhryyN15k`

@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -27549,6 +27549,24 @@
     },
     {
       "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -39800,7 +39818,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 123720,
       "name": "Pil\u00e9 - Gospel",
       "url": "https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl"
@@ -51174,6 +51192,28 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "album": {
+        "name": "The FUCKING Lundells",
+        "url": "https://open.spotify.com/album/3yOtzj5cIKXqSDm7emzvkc"
+      },
+      "artists": [
+        {
+          "name": "Samir Badran",
+          "url": "https://open.spotify.com/artist/3qYiG2OKLj2WAKQVdIbigB"
+        },
+        {
+          "name": "Johanna \u00d6holm",
+          "url": "https://open.spotify.com/artist/4LHTjIZVPpalT5jxbefMrN"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142767,
+      "name": "The FUCKING Lundells",
+      "url": "https://open.spotify.com/track/4yRZ0w0JBFQbEEXcS5lfNT"
     },
     {
       "album": {

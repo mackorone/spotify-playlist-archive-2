@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,459 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,480 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 49 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 |
 | 50 | [Sumpah Mati](https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU) | [Rio Lahskart](https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sumpah Mati](https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL) | 3:40 |
 
-Snapshot ID: `AAAAAK1DQ4tx6HdSdLzZ6CpRkmmHMOsx`
+Snapshot ID: `AAAAAEghcCQGX44n/w4+naJkC+WW8Lpe`

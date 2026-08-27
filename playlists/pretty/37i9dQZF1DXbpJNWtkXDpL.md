@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de Damaris Bojor y Wuicho Kun
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,457 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,465 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 74 | [SÚPLICA](https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [SÚPLICA](https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2) | 3:27 |
 | 75 | [TUTSI POP](https://open.spotify.com/track/3sxd645fkfmfUrXQuAPkQK) | [Jey EDT](https://open.spotify.com/artist/0njxOkFRLvczDWkE4CVGzn), [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM), [Dann Gonzalez](https://open.spotify.com/artist/12DAn6BWZGz7ZbwJGceIqG) | [TUTSI POP](https://open.spotify.com/album/3vqJfqqfMdLOf8HJLeLGbJ) | 3:22 |
 
-Snapshot ID: `AAAAAMK2dAIrIAcqJu7A/GlKsbpA41ej`
+Snapshot ID: `AAAAAPF5DWoXK1ZCxR57JYKhxL4EhQb2`

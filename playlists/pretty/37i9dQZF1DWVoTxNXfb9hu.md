@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,630 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,686 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 74 | [Dil Ka Telephone 2.0 \- From "Dream Girl 2"](https://open.spotify.com/track/7lWAgqskL68F5uaDVL1uR9) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Dream Girl 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oin2DQWtcl3yeYLoH30hu) | 5:09 |
 | 75 | [The Punjaabban Song](https://open.spotify.com/track/4vjVTc6cqDwZJ40ILlEpEx) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:19 |
 
-Snapshot ID: `AAAAADe58/DCkAr83DoHLlTGMeYiL5i8`
+Snapshot ID: `AAAAANJAE/IKeiY5ruM9/7ATsqXnu+Hr`

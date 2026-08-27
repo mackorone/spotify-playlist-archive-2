@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Theo Kandel",
-  "num_followers": 102013,
+  "num_followers": 102142,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEC3WjBCL8O/ej+AsfsVRVNfBQ3F",
+  "snapshot_id": "AAAAAHAdG7ncs90fREdszcsEAzUST4rV",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:00",
@@ -27,6 +27,186 @@
       "duration_ms": 259107,
       "name": "About Dreams",
       "url": "https://open.spotify.com/track/0ygSWgTJrvmm5jIsxqp3sJ"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "The Knife, The Needle",
+        "url": "https://open.spotify.com/album/1AdsKirDq40xEEPn9LIN9P"
+      },
+      "artists": [
+        {
+          "name": "Elanor Moss",
+          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
+        }
+      ],
+      "duration_ms": 265470,
+      "name": "Secrets of the Universe",
+      "url": "https://open.spotify.com/track/5iK2SvTDRyGlb6d88o1K5l"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "The Watcher",
+        "url": "https://open.spotify.com/album/7oPKyjnqb24Pu1d2jgNYvA"
+      },
+      "artists": [
+        {
+          "name": "Alice Kristiansen",
+          "url": "https://open.spotify.com/artist/4GhlwQ4mxyuwgeOiuWePZl"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/5BzQrCDg3nxDrIpJad8C7V"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "It's Obvious",
+        "url": "https://open.spotify.com/album/0uc8lmDjMgQmbP023iqrKF"
+      },
+      "artists": [
+        {
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+        },
+        {
+          "name": "link3",
+          "url": "https://open.spotify.com/artist/2hlo7e04n5T55WoJVs71XC"
+        }
+      ],
+      "duration_ms": 133924,
+      "name": "It's Obvious",
+      "url": "https://open.spotify.com/track/6AznC3ZKfpBs7I9RLlKY5w"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/4WJlMyXOnpsEskUDWUkKdc"
+      },
+      "artists": [
+        {
+          "name": "Isaac Stalling",
+          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/1sVWb96BHxmZ8sFNz03w8z"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "Country Rose",
+        "url": "https://open.spotify.com/album/4njw6JYR5k31p5vCb9FZDf"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Something",
+          "url": "https://open.spotify.com/artist/1jFjZeZbSmgLEtzv9kC8bM"
+        }
+      ],
+      "duration_ms": 209012,
+      "name": "Country Rose",
+      "url": "https://open.spotify.com/track/5uykVD8gTzApGmApjCUJCQ"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "Brennan Wedl",
+        "url": "https://open.spotify.com/album/4CkrrcJMgywPuVY3iJCZk1"
+      },
+      "artists": [
+        {
+          "name": "Brennan Wedl",
+          "url": "https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh"
+        }
+      ],
+      "duration_ms": 160845,
+      "name": "High Priestess",
+      "url": "https://open.spotify.com/track/6op8nmhRZuRQHu4XjeAbLC"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "Where'd You Go?",
+        "url": "https://open.spotify.com/album/095YAnEqxe5UAvpWcghKER"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Where'd You Go?",
+      "url": "https://open.spotify.com/track/6KntJiYlz3eCI5Ipymv2ad"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "How To Make A Cowboy",
+        "url": "https://open.spotify.com/album/4x6KlybMIeAVflLNpDSbOB"
+      },
+      "artists": [
+        {
+          "name": "Fleeland",
+          "url": "https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4"
+        }
+      ],
+      "duration_ms": 227230,
+      "name": "How To Make A Cowboy",
+      "url": "https://open.spotify.com/track/5LQb0bP59Mnn79Pg5kUFbm"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "Barnstorm",
+        "url": "https://open.spotify.com/album/6V9SZp9He4vlP0JDIYQbnm"
+      },
+      "artists": [
+        {
+          "name": "Paul Spring",
+          "url": "https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew"
+        }
+      ],
+      "duration_ms": 249243,
+      "name": "Freeze Tag",
+      "url": "https://open.spotify.com/track/3acCsrAEl35FXyWT7xykoQ"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "Great Big Idea",
+        "url": "https://open.spotify.com/album/35og3IxAFbEYQQLtmxjvCW"
+      },
+      "artists": [
+        {
+          "name": "Katie Lynne Sharbaugh",
+          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
+        }
+      ],
+      "duration_ms": 116250,
+      "name": "New Season",
+      "url": "https://open.spotify.com/track/6TFveaHji4cN80I8dMti5f"
+    },
+    {
+      "added_at": "2026-08-26 04:00:38",
+      "album": {
+        "name": "Miss Queen Know It All",
+        "url": "https://open.spotify.com/album/0vdydLfZYSC8bJDlIjz1bT"
+      },
+      "artists": [
+        {
+          "name": "Meg Lui",
+          "url": "https://open.spotify.com/artist/0ei3gCD1ByhH4bn6DeGBsJ"
+        }
+      ],
+      "duration_ms": 206638,
+      "name": "Miss Queen Know It All",
+      "url": "https://open.spotify.com/track/2vJgX76zzFsPMoUhdPlLeb"
     },
     {
       "added_at": "2026-08-19 04:00:35",

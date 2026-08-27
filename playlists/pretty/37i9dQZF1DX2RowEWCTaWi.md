@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RowEWCTaWi.md) - [plain]
 
 > Enjoy the sound track of Can This Love Be Translated? with memorable lines from the show \(이 사랑 통역 되나요?의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,196 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,248 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RowEWCTaWi.md) - [plain]
 | 26 | [Good bye](https://open.spotify.com/track/0oFQdqXHeRvYeqhd6hkn2W) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:53 |
 | 27 | [" La Traviata " : Amami Alfredo \(Act II\) \- Digitally Remastered](https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Grandiose Stimmen: Maria Callas](https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP) | 2:11 |
 
-Snapshot ID: `AAAAAJWWI9y6iyVgeDmfyE56IHpKSKwq`
+Snapshot ID: `AAAAAIzp+VYh4QsYg7pfT/tgtSgpGhMC`

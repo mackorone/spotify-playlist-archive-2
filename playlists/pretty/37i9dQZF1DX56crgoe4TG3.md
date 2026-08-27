@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,105 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,162 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 99 | [Million Reasons](https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw) | [Shelby Means](https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj) | [Million Reasons](https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w) | 3:42 |
 | 100 | [Guess I'm Doing Fine](https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Guess I'm Doing Fine](https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21) | 4:40 |
 
-Snapshot ID: `AAAAAHUytj74+rs+Tiq2pzA/DJiYS1Vq`
+Snapshot ID: `AAAAADCSvM5Hu5hVIR7XurxIdsfn7FaJ`

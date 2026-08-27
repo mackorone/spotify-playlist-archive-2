@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,749 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,744 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,24 +13,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 3 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
 | 4 | [New To You](https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [New To You](https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq) | 2:31 |
 | 5 | [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 |
-| 6 | [Wait Till My Kingdom Comes](https://open.spotify.com/track/5XGLdIMjeCwMNbrD970AFQ) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Wait Till My Kingdom Comes](https://open.spotify.com/album/1QQMBXIEfHEQujQqYkQk6J) | 2:48 |
-| 7 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
-| 8 | [GRAVITY](https://open.spotify.com/track/7nd3YEj7Jk3pwu85LE25Hm) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [GRAVITY](https://open.spotify.com/album/0WO2RGcXBMGzHiaH9e5CqI) | 2:25 |
-| 9 | [Bad Girls Never Die](https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Bad Girls Never Die](https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk) | 2:46 |
-| 10 | [Motivation](https://open.spotify.com/track/59edZBlolguuivWORanXkJ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Motivation](https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV) | 3:53 |
-| 11 | [The Proof](https://open.spotify.com/track/5tvROhytDeoFs32EkgHBsA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [The Proof](https://open.spotify.com/album/25dodJJx8oIRTUjbfFQegP) | 2:06 |
-| 12 | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/track/2canotovAtInnPJgPbLiz2) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun), [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/album/1yvkYyLKmZpYNYqBIRbq30) | 2:28 |
-| 13 | [Oh My God!](https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Oh My God!](https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs) | 2:51 |
-| 14 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 |
-| 15 | [Love Sober](https://open.spotify.com/track/1lj4EO2WRo0czCVSlTOWjD) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Love Sober](https://open.spotify.com/album/6HLXeD1wFZuGvygw6iXO0C) | 2:55 |
-| 16 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
-| 17 | [Funeral](https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Funeral](https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn) | 3:17 |
-| 18 | [Lose My Life](https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Lose My Life](https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg) | 3:07 |
-| 19 | [Tastes Like Summer](https://open.spotify.com/track/74jKa2gKnngQwP3HMRke6b) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tastes Like Summer](https://open.spotify.com/album/0T7lhonUTlZ7zbzKVIPdvJ) | 3:39 |
-| 20 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
-| 21 | [Tavern](https://open.spotify.com/track/7pE6rhdvhFKpHkv3hymrIX) | [OwenBryce](https://open.spotify.com/artist/3IdIvobX95JU1jBjlYML9h) | [Tavern](https://open.spotify.com/album/210yehOr1ztLfRMkyw76AQ) | 3:39 |
-| 22 | [That Ain’t You](https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [That Ain't You](https://open.spotify.com/album/5FZhFZbwHtgh1VdseQPD3Q) | 2:36 |
-| 23 | [Save some love](https://open.spotify.com/track/5u5dSkp9hURaQVc7URKg1u) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Save some love](https://open.spotify.com/album/79R1zJEokq6UGPQISmHFSk) | 3:03 |
+| 6 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
+| 7 | [GRAVITY](https://open.spotify.com/track/7nd3YEj7Jk3pwu85LE25Hm) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [GRAVITY](https://open.spotify.com/album/0WO2RGcXBMGzHiaH9e5CqI) | 2:25 |
+| 8 | [The Proof](https://open.spotify.com/track/5tvROhytDeoFs32EkgHBsA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [The Proof](https://open.spotify.com/album/25dodJJx8oIRTUjbfFQegP) | 2:06 |
+| 9 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
+| 10 | [Oh My God!](https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Oh My God!](https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs) | 2:51 |
+| 11 | [Save some love](https://open.spotify.com/track/5u5dSkp9hURaQVc7URKg1u) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Save some love](https://open.spotify.com/album/79R1zJEokq6UGPQISmHFSk) | 3:03 |
+| 12 | [Bad Girls Never Die](https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Bad Girls Never Die](https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk) | 2:46 |
+| 13 | [Wait Till My Kingdom Comes](https://open.spotify.com/track/5XGLdIMjeCwMNbrD970AFQ) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Wait Till My Kingdom Comes](https://open.spotify.com/album/1QQMBXIEfHEQujQqYkQk6J) | 2:48 |
+| 14 | [Motivation](https://open.spotify.com/track/59edZBlolguuivWORanXkJ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Motivation](https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV) | 3:53 |
+| 15 | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/track/2canotovAtInnPJgPbLiz2) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun), [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/album/1yvkYyLKmZpYNYqBIRbq30) | 2:28 |
+| 16 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 |
+| 17 | [Love Sober](https://open.spotify.com/track/1lj4EO2WRo0czCVSlTOWjD) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Love Sober](https://open.spotify.com/album/6HLXeD1wFZuGvygw6iXO0C) | 2:55 |
+| 18 | [Funeral](https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Funeral](https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn) | 3:17 |
+| 19 | [Lose My Life](https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Lose My Life](https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg) | 3:07 |
+| 20 | [Tastes Like Summer](https://open.spotify.com/track/74jKa2gKnngQwP3HMRke6b) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tastes Like Summer](https://open.spotify.com/album/0T7lhonUTlZ7zbzKVIPdvJ) | 3:39 |
+| 21 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
+| 22 | [Tavern](https://open.spotify.com/track/7pE6rhdvhFKpHkv3hymrIX) | [OwenBryce](https://open.spotify.com/artist/3IdIvobX95JU1jBjlYML9h) | [Tavern](https://open.spotify.com/album/210yehOr1ztLfRMkyw76AQ) | 3:39 |
+| 23 | [That Ain’t You](https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [That Ain't You](https://open.spotify.com/album/5FZhFZbwHtgh1VdseQPD3Q) | 2:36 |
 | 24 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
 | 25 | [Best Friend](https://open.spotify.com/track/5q6cFFIklSDYN1f9Lijlak) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Best Friend](https://open.spotify.com/album/0jR6CGTk0vLgmEMoYFXa5I) | 4:02 |
 | 26 | [Before You Go](https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 |
 | 100 | [Debbie Don't Cry](https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Debbie Don't Cry](https://open.spotify.com/album/0KAcTbk2NXPCztnWzUkYGT) | 3:00 |
 
-Snapshot ID: `AAAAAB8V4P3YtYdBZr1Yi/Jfq+AyxoBh`
+Snapshot ID: `AAAAAMqebWvdQu0tRaAYsYe50FBKWpCS`

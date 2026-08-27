@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Burcu Güneş ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,468 likes - 126 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,467 likes - 126 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 125 | [Kumdan Kule](https://open.spotify.com/track/7Gy0XipOkafItEovQgCl8r) | [OUZ AGA](https://open.spotify.com/artist/0o1ZPBlhfmQDCZUXtusn3e), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3) | [Kumdan Kule](https://open.spotify.com/album/35CsGSAubsOpFN9ZDnWSuj) | 4:05 |
 | 126 | [Korkmadım Ölmekten](https://open.spotify.com/track/24MnyQlfTOElinMC9b5ekQ) | [MZYDN](https://open.spotify.com/artist/5yCR6vKKsMNtkKkpr879lk), [RASH](https://open.spotify.com/artist/7HePKGjMU8Eofq2Bp65pLX) | [Korkmadım Ölmekten](https://open.spotify.com/album/5UjjiSTo1ps0od0Hd8oSgh) | 2:33 |
 
-Snapshot ID: `AAAAALcClXCsBk81NJ3d2XEKKwLwhB8t`
+Snapshot ID: `AAAAAMMHpj77iaeff+KfoAmpt9sYs5Vj`

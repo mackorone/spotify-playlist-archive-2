@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [Seventh Sand](https://open.spotify.com/track/5WzkuUQM1dj3IQIpI8Poey) | [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A) | [No Return No Karma](https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB) | 6:55 |
 | 79 | [Dawno I Nieprawda](https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY) | [Karolina Błachnia](https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX) | [Wschód](https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92) | 7:50 |
 
-Snapshot ID: `AAAAACrw9BU2Rdyke2n+k6haC8i25ZRs`
+Snapshot ID: `AAAAAEbdq+7x0T+DIdCVosI39+c0Rrh0`

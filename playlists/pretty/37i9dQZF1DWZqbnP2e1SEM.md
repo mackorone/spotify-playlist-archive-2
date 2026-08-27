@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,176 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,155 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Satisfaction \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/4fQC9i9e9rDI7MwoY0M0HX) | 2:23 |
 | 100 | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/track/68ROeDTnieAmMrQrMJlnsY) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/album/1KLlMRa36B3s4E4s11wcDh) | 2:30 |
 
-Snapshot ID: `AAAAADtkXILu4dQ03v3csR4huClBPm3+`
+Snapshot ID: `AAAAAIevOz4oBAjRasF78VGCQtZCKnQ1`

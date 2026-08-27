@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,673 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,596 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 149 | [MEANT TO BE.](https://open.spotify.com/track/6mwMUq6D3Tg7vEC4z6PFi7) | [aurorawave](https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS), [Nathan Aurora](https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns) | [MEANT TO BE.](https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g) | 3:27 |
 | 150 | [At Peace \(with Lutan Fyah\)](https://open.spotify.com/track/1MSfkZEmgtCIcmcActnEBJ) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [At Peace \(with Lutan Fyah\)](https://open.spotify.com/album/1C6Gz2RHpDRYVMzk0yMGXD) | 3:23 |
 
-Snapshot ID: `AAAAAB1VnkvowPyh2Xsj3sFOGxuin2Wk`
+Snapshot ID: `AAAAAKEdop/0i4BvL8rx0TE+ngRDfYYv`

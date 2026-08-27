@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Miimii KDS
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,356 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,401 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Caprison](https://open.spotify.com/track/7ADbFtqC6vr72KpOAuUIQZ) | [K\-RIM](https://open.spotify.com/artist/0II10Pn1LNFArIGqlxWrIm), [DJ SAURIER](https://open.spotify.com/artist/5FKogijn8UxQeGoSGgTpss) | [Caprison](https://open.spotify.com/album/16WvdpUgJ1vrXILN7LWOd3) | 2:05 |
 | 50 | [Shootè la](https://open.spotify.com/track/5rgknJmtlHKyFLtLWZJbT7) | [Keros\-N](https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc), [Youth CrazySquad](https://open.spotify.com/artist/7c0anpzJb2ssRsmpmoKRZ2) | [Shootè la](https://open.spotify.com/album/1Mzit7c5jUMIu25aQ06gCA) | 2:28 |
 
-Snapshot ID: `AAAAAMvGAL4lVOGyEft6ZB/SynDfpfZO`
+Snapshot ID: `AAAAAGigh6RZqbgWIG191f+Xi3nW6AJf`

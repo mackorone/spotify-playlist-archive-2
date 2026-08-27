@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,568 likes - 357 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,956,016 likes - 357 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -366,4 +366,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 356 | [Guardiania](https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Guardiania](https://open.spotify.com/album/1GEkcRSmBo7UOl5Q4rHQNG) | 2:25 |
 | 357 | [Expansions](https://open.spotify.com/track/4mNZCdOkAZA9nIZDzIqCb5) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Expansions](https://open.spotify.com/album/3Cyz4WYba36w1dVKC7fPiX) | 2:49 |
 
-Snapshot ID: `AAAAACGjEbon5H2ea0EF/Rmumf9ZuBSt`
+Snapshot ID: `AAAAAPd2aP9PNSahpORlCTsH0jkZcOQa`

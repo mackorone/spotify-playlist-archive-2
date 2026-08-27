@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 655598,
+  "num_followers": 655704,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCn6/bx0xwnfwByImicNtYgPrDT",
+  "snapshot_id": "AAAAAHVObyz1R2okS4XhbFOJbw0zRD3k",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2085,20 +2085,20 @@
       "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
+      "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Hits'n'Flips",
-        "url": "https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU"
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
       },
       "artists": [
         {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade of Pale - Original Single Version",
-      "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2115,6 +2115,22 @@
       "duration_ms": 137466,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Hits'n'Flips",
+        "url": "https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU"
+      },
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2167,22 +2183,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
       },
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
       },
@@ -2271,6 +2251,26 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Ain't That Good News (Remastered)",
         "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
       },
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Definitive 60's (sixties)",
-        "url": "https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "I Left My Heart In San Francisco",
-      "url": "https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Greatest Motown Hits",
         "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 175693,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Definitive 60's (sixties)",
+        "url": "https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "I Left My Heart In San Francisco",
+      "url": "https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N"
     },
     {
       "added_at": "2022-05-30 13:00:37",

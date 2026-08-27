@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya que deje de llover para salir más a bailar con La Adictiva y toda la música chida de la semana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,636 likes - 69 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,541 likes - 69 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 68 | [Motivation](https://open.spotify.com/track/59edZBlolguuivWORanXkJ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Motivation](https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV) | 3:53 |
 | 69 | [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:26 |
 
-Snapshot ID: `AAAAAPoq3EG33TKQAyo0xtbSZIq+B3Ii`
+Snapshot ID: `AAAAAAeZbFTJZTNWP7OWZNhDtjeoolXg`

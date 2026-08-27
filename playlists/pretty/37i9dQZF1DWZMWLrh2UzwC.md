@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from BIGBANG, Rex Orange County, Daniel Caesar, Syasya Rizal, Mohsein Kush and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,268 likes - 113 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,265 likes - 113 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 112 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
 | 113 | [Amnesia](https://open.spotify.com/track/6twcigHXokNqbYWXKaaYYm) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [Amnesia](https://open.spotify.com/album/6AKBYcMAQrqvKSd6MHSPcF) | 2:36 |
 
-Snapshot ID: `AAAAAJ8DuE9hUqig6+rhuBfDVr0FpxHX`
+Snapshot ID: `AAAAAAzP1xO0VM/jHuBMD3g0lp/WeHJf`

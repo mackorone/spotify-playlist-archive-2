@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,940 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,973 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 49 | [OB PKWY](https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [OB PKWY](https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21) | 3:55 |
 | 50 | [Stomping Riddim](https://open.spotify.com/track/2sVZqXvh2wHA83q7IkWCYg) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10) | [Stomping Riddim](https://open.spotify.com/album/4paQJa1Sq0JCcMnvimE9Ke) | 3:27 |
 
-Snapshot ID: `AAAAADqCEglJAC1Q/W12toh1SfZluRk5`
+Snapshot ID: `AAAAALI/qMDm/WLEdEJjvJQVEfO30BoN`

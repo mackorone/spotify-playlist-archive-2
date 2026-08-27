@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,651 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,657 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Light](https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz), [Yannick](https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV) | [Light](https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE) | 3:36 |
 | 70 | [Please Don't Go \- Bruno Martini Remix](https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI) | [Double You](https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Please Don't Go \(Bruno Martini Remix\)](https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt) | 2:38 |
 
-Snapshot ID: `AAAAAJjr6B2Q11iRIwvKc0DEtLIGQWsp`
+Snapshot ID: `AAAAAO3CnoMXQAbRF/ODz1ukfRRr8lyT`

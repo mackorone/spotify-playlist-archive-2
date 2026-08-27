@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,497 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,553 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q) | [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/album/0B4VXn4Ur7AOmpkQLdRySW) | 2:40 |
 | 70 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 |
 
-Snapshot ID: `AAAAAGqTVa7C/uhni8FY0XKr7ha0sWRI`
+Snapshot ID: `AAAAACTwVhiRYaZl9tlzb88rw/Kg8mtH`

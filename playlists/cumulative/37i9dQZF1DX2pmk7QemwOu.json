@@ -1056,7 +1056,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139441,
-      "name": "Do It Like That (Alan Walker Remix)",
+      "name": "Do It Like That - Alan Walker Remix",
       "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
     },
     {
@@ -1082,30 +1082,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 295955,
-      "name": "Do It Like That (Jax Jones Remix)",
+      "name": "Do It Like That - Jax Jones Remix",
       "url": "https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g"
-    },
-    {
-      "album": {
-        "name": "Do It Like That (Pop R&B Remix)",
-        "url": "https://open.spotify.com/album/69mUDfqiMNvS4IHwdtEfn0"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "date_added": "2023-08-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154947,
-      "name": "Do It Like That (Pop R&B Remix)",
-      "url": "https://open.spotify.com/track/5W1MGvhp0nDigx1vfYTaO8"
     },
     {
       "album": {
@@ -1128,6 +1106,28 @@
       "duration_ms": 145823,
       "name": "Do It Like That - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1yoGvx9wWnrk7zFeKQ7yxH"
+    },
+    {
+      "album": {
+        "name": "Do It Like That (Pop R&B Remix)",
+        "url": "https://open.spotify.com/album/69mUDfqiMNvS4IHwdtEfn0"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154947,
+      "name": "Do It Like That - Pop R&B Remix",
+      "url": "https://open.spotify.com/track/5W1MGvhp0nDigx1vfYTaO8"
     },
     {
       "album": {

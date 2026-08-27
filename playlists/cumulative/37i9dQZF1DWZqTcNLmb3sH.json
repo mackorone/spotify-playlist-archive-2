@@ -13073,6 +13073,24 @@
     },
     {
       "album": {
+        "name": "Father Teaser Theme Music (From \"Father\")",
+        "url": "https://open.spotify.com/album/0PVuwNqKgbd2r56b9e4uUu"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81185,
+      "name": "Father Teaser Theme Music (From \"Father\")",
+      "url": "https://open.spotify.com/track/7yt2cKBhEOE10D1nV6u0IE"
+    },
+    {
+      "album": {
         "name": "Fear Song (From \"Devara Part 1\") [Kannada]",
         "url": "https://open.spotify.com/album/70odqzEXKGtvT3iZmS9mcb"
       },
@@ -27179,6 +27197,36 @@
     },
     {
       "album": {
+        "name": "Toxic - Kannada (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3DBmCPg5nvo8ANFzMA5flv"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Siddharth Basrur",
+          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245541,
+      "name": "Manamohaka - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/6B285cAaD1cKtuLQTs7q29"
+    },
+    {
+      "album": {
         "name": "Manamohaka (From \"Toxic - Kannada\")",
         "url": "https://open.spotify.com/album/1umTD9SNuV7KxVthB95Bqa"
       },
@@ -28217,6 +28265,36 @@
     },
     {
       "album": {
+        "name": "Mavutha Mavutha (From \"Muttu Mavutha\")",
+        "url": "https://open.spotify.com/album/4rrVLcRUGuWRKLT8OQYAr0"
+      },
+      "artists": [
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        },
+        {
+          "name": "Sachin S Nagartha",
+          "url": "https://open.spotify.com/artist/1WyqbsqrzA0ok6rGRs3Igw"
+        },
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        },
+        {
+          "name": "Santhosh",
+          "url": "https://open.spotify.com/artist/1iogNKgZaOgEb7VR8S7Yb2"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237744,
+      "name": "Mavutha Mavutha (From \"Muttu Mavutha\")",
+      "url": "https://open.spotify.com/track/02SwHx8cLhfmk3FDVovn3h"
+    },
+    {
+      "album": {
         "name": "Max Title Theme (From \"Max\")",
         "url": "https://open.spotify.com/album/5Me9a9ZNPiE8C8dg4RxZjl"
       },
@@ -29024,7 +29102,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 216285,
       "name": "Modala Notadhi",
       "url": "https://open.spotify.com/track/6PJWqUjBfGML4k7JJIt35I"
@@ -32550,7 +32628,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 159375,
       "name": "Nannavale",
       "url": "https://open.spotify.com/track/3OS7pl10PHd4JBtJQZSz9K"
@@ -37971,7 +38049,7 @@
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 299294,
+      "duration_ms": 286588,
       "name": "Paapu Mari (From \"Celebrity\")",
       "url": "https://open.spotify.com/track/0t401Q7YSo9Ykvyv1uluOc"
     },
@@ -39536,7 +39614,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 212021,
       "name": "Punyathgithi (From \"KHELA\")",
       "url": "https://open.spotify.com/track/1TNLLrFwPNXQ0SmTcGGpdf"
@@ -39732,7 +39810,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 201614,
       "name": "Ra Ga Sa Da Aa (From \"Mother Promise\")",
       "url": "https://open.spotify.com/track/0b541rdd0Vr7xxiaywFA8G"
@@ -42702,7 +42780,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 200607,
       "name": "Sanne Sanne (From \"Namkaaldal Hingirlilla Bidi\")",
       "url": "https://open.spotify.com/track/6qeseD3WM50eGngUDwIdRN"
@@ -45618,6 +45696,28 @@
       "duration_ms": 299400,
       "name": "Taare Nihaare (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/5djXSCWcbFURXWGlOylJHK"
+    },
+    {
+      "album": {
+        "name": "Toxic - Kannada (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3DBmCPg5nvo8ANFzMA5flv"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257604,
+      "name": "Tabaahi - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/1aGWOdmYX0rnpSeFQlRa64"
     },
     {
       "album": {
@@ -49778,7 +49878,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 197032,
       "name": "Yarilla Yarilla (From \"Balaramana Dinagalu\")",
       "url": "https://open.spotify.com/track/4RWWiWt0eiErd7062oGe40"
@@ -50198,7 +50298,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 267516,
       "name": "Yene Helu Kusuma (From \"Graamaayana\")",
       "url": "https://open.spotify.com/track/51wDZ7V2gPM15uSOLdDv38"

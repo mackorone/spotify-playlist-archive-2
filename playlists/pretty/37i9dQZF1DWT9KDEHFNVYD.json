@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17472,
+  "num_followers": 17470,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAwwk0fpKswEN52ywCZ3sZ+/qm9l",
+  "snapshot_id": "AAAAACgKl+p/ms/TKJMlnZes1TPJ4iNE",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1297,20 +1297,20 @@
       "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
-      "added_at": "2023-02-17 02:03:26",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+        "name": "Wunderbar",
+        "url": "https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X"
       },
       "artists": [
         {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+          "name": "Riechmann",
+          "url": "https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP"
         }
       ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
+      "duration_ms": 520850,
+      "name": "Himmelblau",
+      "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-02-17 02:03:26",
       "album": {
-        "name": "Wunderbar",
-        "url": "https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X"
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
       },
       "artists": [
         {
-          "name": "Riechmann",
-          "url": "https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP"
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
         }
       ],
-      "duration_ms": 520850,
-      "name": "Himmelblau",
-      "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2023-03-23 21:21:38",

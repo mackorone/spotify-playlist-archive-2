@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 80 | [Indestructible](https://open.spotify.com/track/0PcxqkMl22Y1tNeWjhGaUg) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/6ccZZG7WZX2SVMLySKuxVM) | 3:25 |
 | 81 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 |
 | 82 | [Arena Movediza](https://open.spotify.com/track/2mcg0Nd75PVm0fcyOTHqmI) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
-| 83 | [Ya Tu No Estas De Moda](https://open.spotify.com/track/2URCTXL4qBAgdxDvvp1UMJ) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:51 |
-| 84 | [Sigo Caminando](https://open.spotify.com/track/1Ap7SgnEnvcE7Uih5CXNXO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Sigo Caminando](https://open.spotify.com/album/37WnSB8LQ6LFsXnFMGVgWg) | 3:34 |
+| 83 | [Sigo Caminando](https://open.spotify.com/track/1Ap7SgnEnvcE7Uih5CXNXO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Sigo Caminando](https://open.spotify.com/album/37WnSB8LQ6LFsXnFMGVgWg) | 3:34 |
+| 84 | [Ya Tu No Estas De Moda](https://open.spotify.com/track/2URCTXL4qBAgdxDvvp1UMJ) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:51 |
 | 85 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
 | 86 | [Si Te Vas](https://open.spotify.com/track/7zeIbf3qsXGGwUZjDP5mzV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:22 |
 | 87 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 149 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 150 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcajRAAAAAD2y8xTGBfdPFk+SrdyTqbV`
+Snapshot ID: `AcaqJAAAAABAMrVAR9DVspdZ7TnTgh6o`

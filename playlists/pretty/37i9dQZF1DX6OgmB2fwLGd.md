@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > speed.demon\_hyper\_sleaze.electro\_glitch\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.lucybedroque
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,371,001 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,899 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [Indiest Girl At School](https://open.spotify.com/track/1AchZDcnSaJIbjFPTUQOeI) | [The Femcels](https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK) | [I Have To Get Hotter](https://open.spotify.com/album/7EA0BJIxzjox8bBpMXSvqF) | 1:39 |
 | 70 | [i\_aint\_fly \(G6\)](https://open.spotify.com/track/0gzF6cVbWR9pxvsLgC4wTi) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [i\_aint\_fly \(G6\)](https://open.spotify.com/album/6ItysXbWwK1JG0D4jLdnJi) | 1:57 |
 
-Snapshot ID: `AAAAAAYNenBUt2TRfSrrzCjKaXzgN0/A`
+Snapshot ID: `AAAAAJHRWzwRo4tqVKFvntB9klxwvgbf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Valesca Mayssa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,034 likes - 100 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,140 likes - 100 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 95 | [Eu Vou Orar \- Ao Vivo](https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho) | [Eu Vou Orar \(Ao Vivo\)](https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W) | 22:36 |
 | 96 | [Eu Confio em Ti](https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG) | [Eu Confio em Ti](https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ) | 5:03 |
 | 97 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 |
-| 98 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 |
+| 98 | [Único \- Ao vivo](https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Único \(Ao Vivo\)](https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT) | 7:36 |
 | 99 | [Estrela da Manhã \- Ao Vivo](https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Estrela da Manhã \(Ao Vivo\)](https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD) | 3:28 |
-| 100 | [Único \- Ao vivo](https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Único \(Ao Vivo\)](https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT) | 7:36 |
+| 100 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 |
 
-Snapshot ID: `AAAAAH0gxyHRMw51FheEIhIyRCaraaXS`
+Snapshot ID: `AAAAAK+uS+mP1xJbyBuKvV40/nvYSKqq`

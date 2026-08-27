@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 152277,
+  "num_followers": 152313,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2SApChK1qLxDrLU8VLJj+UE0gY",
+  "snapshot_id": "AAAAANVq1Wr/KlwoKlfYSXP0HTAfz6eQ",
   "tracks": [
     {
       "added_at": "2024-07-10 08:16:23",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262978,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "The Fat Of The Land",
         "url": "https://open.spotify.com/album/1NNFxBa0nbBCSDItQhUuTc"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 296960,
       "name": "No Way Back - Vocal Mix",
       "url": "https://open.spotify.com/track/6bvsbo7BBOiRNzpsN8Pmcz"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 262978,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa"
     },
     {
       "added_at": "2024-07-10 08:16:23",

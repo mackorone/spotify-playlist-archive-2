@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,140 likes - 130 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,175 likes - 130 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 129 | [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 |
 | 130 | [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 |
 
-Snapshot ID: `AAAAAMLA8KofnuPerA9Z13Oe55qwXj1N`
+Snapshot ID: `AAAAACn7LfyztcCD9mQnL2AUtPS5pX66`

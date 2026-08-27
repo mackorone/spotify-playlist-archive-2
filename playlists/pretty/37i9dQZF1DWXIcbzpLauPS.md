@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,906 likes - 200 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,918 likes - 200 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 199 | [Stasis](https://open.spotify.com/track/4K1YLR62rcOkP9sezzlwED) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [Stasis](https://open.spotify.com/album/2UrX4QpKocescxrNW5fj5b) | 3:43 |
 | 200 | [devil's/speak](https://open.spotify.com/track/2Z2LaPdOVMFUvqfY7FP2oz) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [devil's/speak](https://open.spotify.com/album/1FV3MLWx4908vJthffT5TD) | 3:12 |
 
-Snapshot ID: `AAAAAOD3HkiuQ4H7FCaLN3zKQvmyH9s1`
+Snapshot ID: `AAAAAL8x6wHRyaQXLqEHROqhSUesclUL`

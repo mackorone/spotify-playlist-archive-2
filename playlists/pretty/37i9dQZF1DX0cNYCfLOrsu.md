@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Jada Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,566 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,650 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [No Gyal](https://open.spotify.com/track/1ImihjOlex6Hj7eH4Zhujs) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:58 |
 | 75 | [Turn Up](https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Turn Up](https://open.spotify.com/album/3kPls8TKkU0uoBNkYODLIi) | 2:50 |
 
-Snapshot ID: `AAAAAJuTMMhiT+n2bedoqXQYVGO9hY/9`
+Snapshot ID: `AAAAAJQO2MAGZ0HT2cIHHRWqCYQFlO6n`

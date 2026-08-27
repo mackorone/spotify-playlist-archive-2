@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,453 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,567 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [Small Bossa](https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [The Valentine Sessions](https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c) | 3:19 |
 | 100 | [Too Marvelous for Words](https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Too Marvelous for Words](https://open.spotify.com/album/7bQe68Qt1vZxSNkD16zsus) | 3:44 |
 
-Snapshot ID: `AAAAADwF0zJ45qRUawept8YB8G3tTUVz`
+Snapshot ID: `AAAAACUstQwLua6ewfLCjIe2qP6DWk6x`

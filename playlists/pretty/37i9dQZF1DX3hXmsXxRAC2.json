@@ -1,15 +1,31 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 361835,
+  "num_followers": 362103,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKdDygHNTQdS4OrnoTtXWJ6GOxmv",
+  "snapshot_id": "AAAAABly+2iU+9KelFoksKzKM6LXz7iI",
   "tracks": [
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Lo Mejor en Bellas Artes - 40 Aniversario",
+        "url": "https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 546546,
+      "name": "Hasta Que Te Conoc\u00ed - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
+      "url": "https://open.spotify.com/track/6hNkhvhy5ersmVRGFTuIps"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Perd\u00f3name Mi Amor",
         "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
@@ -25,7 +41,31 @@
       "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/26PwKiG8QLNnJBrow5YsmR"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 283813,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/50zWrJYU2srHaKA14dvyKu"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
@@ -41,7 +81,27 @@
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/6JmCyFj0UAIkGlp9EsFEsu"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
@@ -57,7 +117,27 @@
       "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Los D\u00fao (Track by Track)",
+        "url": "https://open.spotify.com/album/1UhaERoPhd2BhKfW2MqRRe"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 341786,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4Cl7hsOagovC0TZupFiwWl"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
@@ -73,7 +153,23 @@
       "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 274136,
+      "name": "Yo No S\u00e9 Qu\u00e9 Me Pas\u00f3",
+      "url": "https://open.spotify.com/track/4UzcEfNSlQylenswENU9ZD"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
@@ -89,7 +185,27 @@
       "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/4uJPQcTBobQh5fn2nlaQSb"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Siempre En Mi Mente",
+      "url": "https://open.spotify.com/track/00Z0rZZy8DEdC0gEJ7Lvmb"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
@@ -105,7 +221,23 @@
       "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Rocio Durcal Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
@@ -125,23 +257,7 @@
       "url": "https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "Rocio Durcal Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
@@ -157,7 +273,7 @@
       "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
@@ -173,7 +289,7 @@
       "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
@@ -189,7 +305,7 @@
       "url": "https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Mis Momentos",
         "url": "https://open.spotify.com/album/5I831xaYFuuZlBs6Lu2bhw"
@@ -205,7 +321,7 @@
       "url": "https://open.spotify.com/track/111g0L3zCU8J4LCWN0EPCa"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Canta Once Grandes Exitos De Juan Gabriel",
         "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
@@ -221,7 +337,7 @@
       "url": "https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "En Vivo Desde El R\u00edo Nilo",
         "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
@@ -237,7 +353,7 @@
       "url": "https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
@@ -253,7 +369,7 @@
       "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
@@ -269,7 +385,7 @@
       "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
@@ -289,7 +405,7 @@
       "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Las Rancheras De Juan Gabriel",
         "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
@@ -305,7 +421,7 @@
       "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
@@ -321,7 +437,7 @@
       "url": "https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
@@ -337,7 +453,7 @@
       "url": "https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Mi Tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
@@ -353,7 +469,7 @@
       "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Interpretan \u00c9xitos De Juan Gabriel",
         "url": "https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM"
@@ -369,7 +485,7 @@
       "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Las Rancheras De Juan Gabriel",
         "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
@@ -385,7 +501,7 @@
       "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
@@ -401,7 +517,7 @@
       "url": "https://open.spotify.com/track/2eMkbfrDfi9cQB7TTZvlsI"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
@@ -417,7 +533,7 @@
       "url": "https://open.spotify.com/track/7M1iJDm9sewaakBFcMHlT4"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Lo Mejor De",
         "url": "https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ"
@@ -433,7 +549,7 @@
       "url": "https://open.spotify.com/track/0R3jFSMsqwOlzGH5itZj4r"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "En Acustico",
         "url": "https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw"
@@ -449,7 +565,7 @@
       "url": "https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
@@ -465,7 +581,7 @@
       "url": "https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
@@ -481,7 +597,7 @@
       "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
@@ -497,7 +613,7 @@
       "url": "https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Juan Gabriel, el Divo y Sus Divas",
         "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
@@ -513,7 +629,7 @@
       "url": "https://open.spotify.com/track/4XmP7meJ8H35govmmHLvrg"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX"
@@ -529,7 +645,7 @@
       "url": "https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Non-Stop: Mexico to Jamaica",
         "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
@@ -549,7 +665,7 @@
       "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Juan Gabriel, el Divo y Sus Divas",
         "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
@@ -565,7 +681,7 @@
       "url": "https://open.spotify.com/track/1QD42LwLanJizUu2qosih2"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
@@ -581,7 +697,7 @@
       "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Juan Gabriel, el Divo y Sus Divas",
         "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
@@ -597,7 +713,119 @@
       "url": "https://open.spotify.com/track/63BovP3bousqtO0TpXQ2JB"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Ana Gabriel Todos Sus Exitos",
+        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "30 A\u00f1os de Exitos",
+        "url": "https://open.spotify.com/album/3WGjI64qVOhmSUOteU3mwe"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/0Xl7Q8ROMKdPOlvWd2nC88"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Ya Lo S\u00e9 Que Tu Te Vas",
+      "url": "https://open.spotify.com/track/6br5jCk7DvwwHSApUzSURM"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Antologia De Juan Gabriel",
+        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Te Lo Pido Por Favor",
+      "url": "https://open.spotify.com/track/6N5SqUoEdM4JU0YOGZfPyT"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "Una Estrella En El Cielo",
+        "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Me Gustas Mucho - Con Amaia Montero",
+      "url": "https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Los D\u00fao (Deluxe)",
         "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
@@ -617,26 +845,26 @@
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
-        "name": "Ana Gabriel Todos Sus Exitos",
-        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
+        "name": "Antologia De Juan Gabriel",
+        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 270266,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT"
+      "duration_ms": 157000,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
-        "name": "Amanecida Con Todo Y Con Todos",
-        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+        "name": "Amanecida Con Todo y Con Todos (En Vivo)",
+        "url": "https://open.spotify.com/album/5NIk6uBVUYggydObu1q9ul"
       },
       "artists": [
         {
@@ -644,44 +872,44 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
+      "duration_ms": 168000,
+      "name": "Me Gusta Estar Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/17ne2PsydVYhLHmcNxPWfL"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
-        "name": "30 A\u00f1os de Exitos",
-        "url": "https://open.spotify.com/album/3WGjI64qVOhmSUOteU3mwe"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2RE4qRw0o1RYdbgeHQ12ap"
       },
       "artists": [
         {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 237760,
-      "name": "Inocente Pobre Amiga",
-      "url": "https://open.spotify.com/track/0Xl7Q8ROMKdPOlvWd2nC88"
+      "duration_ms": 274680,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/7xPWqlo1ufSDmy5nCzN8rV"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+        "name": "No Hay Mujeres Feas",
+        "url": "https://open.spotify.com/album/1kQ78QZlitrnBhDCmWeeR0"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 224480,
-      "name": "Ya Lo S\u00e9 Que Tu Te Vas",
-      "url": "https://open.spotify.com/track/6br5jCk7DvwwHSApUzSURM"
+      "duration_ms": 172826,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/3gt8ipxgy563LkoeZ6mPww"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8"
@@ -701,135 +929,7 @@
       "url": "https://open.spotify.com/track/4N3dBPrM1KPWHii6VRHi3q"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "Antologia De Juan Gabriel",
-        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Te Lo Pido Por Favor",
-      "url": "https://open.spotify.com/track/6N5SqUoEdM4JU0YOGZfPyT"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "Una Estrella En El Cielo",
-        "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Me Gustas Mucho - Con Amaia Montero",
-      "url": "https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "Antologia De Juan Gabriel",
-        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos (En Vivo)",
-        "url": "https://open.spotify.com/album/5NIk6uBVUYggydObu1q9ul"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Me Gusta Estar Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/17ne2PsydVYhLHmcNxPWfL"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2RE4qRw0o1RYdbgeHQ12ap"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 274680,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/7xPWqlo1ufSDmy5nCzN8rV"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
-        "name": "No Hay Mujeres Feas",
-        "url": "https://open.spotify.com/album/1kQ78QZlitrnBhDCmWeeR0"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/3gt8ipxgy563LkoeZ6mPww"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/4rYXic5FvIAtP6DnWP0yya"
@@ -845,7 +945,23 @@
       "url": "https://open.spotify.com/track/1wBTZeS7UH0uq7V1PtJqoa"
     },
     {
-      "added_at": "2026-07-16 22:14:48",
+      "added_at": "2026-08-26 17:49:13",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
+    },
+    {
+      "added_at": "2026-08-26 17:49:13",
       "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/72lEnHoHSELV84JOsJLuLl"

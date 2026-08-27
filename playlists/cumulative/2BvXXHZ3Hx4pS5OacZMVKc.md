@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-472 songs - 1 day 0 hr 11 min
+473 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Hardwired](https://open.spotify.com/track/3VajuLxTdiugx8bbSJfW3s) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Hardwired](https://open.spotify.com/album/6i4voLsQw51FbdxdjAbA7n) | 5:02 | 2022-02-03 | 2022-09-15 |
 | [Hate You](https://open.spotify.com/track/4hJDfvU0vJTHfXrcXnfqyt) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hate You](https://open.spotify.com/album/7K9CMJzx57LLIrvfv8CHyl) | 3:00 | 2022-02-03 | 2023-08-11 |
 | [Heartless](https://open.spotify.com/track/47OUzXogBBy3INSgRMk01N) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt), [Tom Wilson](https://open.spotify.com/artist/4W9vuLWmzlcGv6stGVWPPC), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Jagsy](https://open.spotify.com/artist/7wu8XR5hwRbOweUONPzNvL), [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr), [Domastic](https://open.spotify.com/artist/6IaUmXLyN20djYxvBlTk4c) | [Heartless](https://open.spotify.com/album/40bAQxAQsV9RYLRzOZjV9A) | 3:03 | 2022-02-03 | 2023-08-11 |
+| [Heaven & Hell](https://open.spotify.com/track/12mUiAGnkttkpoqRrZvjtF) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Heaven & Hell](https://open.spotify.com/album/5xKDyLDeZi8g3aGYcrfiTr) | 4:08 | 2026-08-26 |  |
 | [Heaven Knows](https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu) | [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Protolizard](https://open.spotify.com/artist/7nlh1D3MwQ7LOIcCD6jFya) | [Heaven Knows](https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX) | 2:57 | 2023-02-28 | 2024-06-20 |
 | [Heavens Gate](https://open.spotify.com/track/7jyDS5KUuGyXfhuRDcYApB) | [Anikdote](https://open.spotify.com/artist/41LqrhKD3Hs6MOOFPhb59G), [Absent](https://open.spotify.com/artist/07XaX6Avlobw33v76hUWRq), [Oriental Cravings](https://open.spotify.com/artist/51N35pGBBHm3u1uFtNhE8b) | [NCS: Colors](https://open.spotify.com/album/36yzAZUSALjG4ecyCrfuEI) | 4:02 | 2023-08-10 |  |
 | [Here For Me](https://open.spotify.com/track/6FJ1ClLyegOmlbV1ycGLvm) | [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [m els](https://open.spotify.com/artist/4AqQDC7iD1m7opRDm95GGD) | [Here For Me](https://open.spotify.com/album/0GsChDp8uzLlO70baUjrRD) | 4:05 | 2022-02-03 | 2022-09-15 |

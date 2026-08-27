@@ -4,7 +4,7 @@
 
 > New music from STELLA LEFTY, Sam Smith, Cleo Sol, Anuel AA and more!
 
-35,469 songs - 78 day 5 hr 37 min
+35,470 songs - 78 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3057,7 +3057,8 @@
 | [Bed Rest](https://open.spotify.com/track/6vM64su8jHb3dm5M439Rmg) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow, Decomposed \(5 Year Anniversary\)](https://open.spotify.com/album/2BWetDSy5WbqdAd7LBmz2r) | 4:08 | 2025-03-21 | 2025-03-29 |
 | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy) | 3:40 | 2023-03-24 | 2023-04-01 |
 | [bedbugs](https://open.spotify.com/track/3t0wHoNCslyfDAKFbITATo) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [bedbugs](https://open.spotify.com/album/4oRXbaSKfwSIECIt5bWiA5) | 3:38 | 2025-12-12 | 2025-12-20 |
-| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-08-21 |  |
+| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-08-21 | 2026-08-27 |
+| [BedHead](https://open.spotify.com/track/5d3QY0Kq63rwQqPDe5usTs) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/1mVpDxO2tC5KB65ofEwVEc) | 5:02 | 2026-08-21 |  |
 | [Bedhead \(feat\. Anna Clendening\)](https://open.spotify.com/track/6HbXhn1ozap6E7PxtdzaZ0) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Flash](https://open.spotify.com/album/1zdQmQxGCIO3M3OJwejsvi) | 2:27 | 2020-03-13 | 2020-03-20 |
 | [Bedrest](https://open.spotify.com/track/698sVS5jCBcHAogEAOhG5O) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Bedrest](https://open.spotify.com/album/4oVIA0aTX8OONOVdOCSjKZ) | 2:04 | 2025-05-02 | 2025-05-10 |
 | [Bedroom](https://open.spotify.com/track/0T2JQndAZ8UaDdBHWTY6wS) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Bedroom](https://open.spotify.com/album/6059GSDxHnJXa9KuaqWGsq) | 3:42 | 2021-12-24 | 2022-01-01 |

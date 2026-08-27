@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,107 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 49 | [Can't Live Without Your Love](https://open.spotify.com/track/2qWqFxYMDY2x7w6Vxlrf3s) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD) | 3:29 |
 | 50 | [Dirt Track Cowboys '08](https://open.spotify.com/track/4ErRHNP7QitMvvoZEbDwS1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/5m70A77DEcJlMn4A1Gsic0) | 2:59 |
 
-Snapshot ID: `aouJgAAAAADET7629pPg3M2Vk87XuBBK`
+Snapshot ID: `aozbAAAAAACbHenlPZnPZbtLJtCwqzau`

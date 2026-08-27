@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste pop songs. Cover: Ayra Starr",
-  "num_followers": 100749,
+  "num_followers": 100744,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8V4P3YtYdBZr1Yi/Jfq+AyxoBh",
+  "snapshot_id": "AAAAAMqebWvdQu0tRaAYsYe50FBKWpCS",
   "tracks": [
     {
       "added_at": "2026-08-20 22:01:10",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-08-20 22:01:10",
       "album": {
-        "name": "Wait Till My Kingdom Comes",
-        "url": "https://open.spotify.com/album/1QQMBXIEfHEQujQqYkQk6J"
-      },
-      "artists": [
-        {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wait Till My Kingdom Comes",
-      "url": "https://open.spotify.com/track/5XGLdIMjeCwMNbrD970AFQ"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
       },
@@ -147,6 +131,70 @@
     {
       "added_at": "2026-08-20 22:01:10",
       "album": {
+        "name": "The Proof",
+        "url": "https://open.spotify.com/album/25dodJJx8oIRTUjbfFQegP"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 126511,
+      "name": "The Proof",
+      "url": "https://open.spotify.com/track/5tvROhytDeoFs32EkgHBsA"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
+        "name": "Oh My God!",
+        "url": "https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 171114,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
+        "name": "Save some love",
+        "url": "https://open.spotify.com/album/79R1zJEokq6UGPQISmHFSk"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 183358,
+      "name": "Save some love",
+      "url": "https://open.spotify.com/track/5u5dSkp9hURaQVc7URKg1u"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
         "name": "Bad Girls Never Die",
         "url": "https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk"
       },
@@ -159,6 +207,22 @@
       "duration_ms": 166463,
       "name": "Bad Girls Never Die",
       "url": "https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
+        "name": "Wait Till My Kingdom Comes",
+        "url": "https://open.spotify.com/album/1QQMBXIEfHEQujQqYkQk6J"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wait Till My Kingdom Comes",
+      "url": "https://open.spotify.com/track/5XGLdIMjeCwMNbrD970AFQ"
     },
     {
       "added_at": "2026-08-20 22:01:10",
@@ -179,22 +243,6 @@
     {
       "added_at": "2026-08-20 22:01:10",
       "album": {
-        "name": "The Proof",
-        "url": "https://open.spotify.com/album/25dodJJx8oIRTUjbfFQegP"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 126511,
-      "name": "The Proof",
-      "url": "https://open.spotify.com/track/5tvROhytDeoFs32EkgHBsA"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
         "name": "I'd Do It All Again (with Persia Holder)",
         "url": "https://open.spotify.com/album/1yvkYyLKmZpYNYqBIRbq30"
       },
@@ -211,22 +259,6 @@
       "duration_ms": 148920,
       "name": "I'd Do It All Again (with Persia Holder)",
       "url": "https://open.spotify.com/track/2canotovAtInnPJgPbLiz2"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
-        "name": "Oh My God!",
-        "url": "https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs"
-      },
-      "artists": [
-        {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
-        }
-      ],
-      "duration_ms": 171114,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G"
     },
     {
       "added_at": "2026-08-20 22:01:10",
@@ -259,22 +291,6 @@
       "duration_ms": 175030,
       "name": "Love Sober",
       "url": "https://open.spotify.com/track/1lj4EO2WRo0czCVSlTOWjD"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "added_at": "2026-08-20 22:01:10",
@@ -371,22 +387,6 @@
       "duration_ms": 156230,
       "name": "That Ain\u2019t You",
       "url": "https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
-        "name": "Save some love",
-        "url": "https://open.spotify.com/album/79R1zJEokq6UGPQISmHFSk"
-      },
-      "artists": [
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 183358,
-      "name": "Save some love",
-      "url": "https://open.spotify.com/track/5u5dSkp9hURaQVc7URKg1u"
     },
     {
       "added_at": "2026-08-20 22:01:10",

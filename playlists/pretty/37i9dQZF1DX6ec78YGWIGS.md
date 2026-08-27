@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,705 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,676 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Nana \(feat\. BB Asul\)](https://open.spotify.com/track/4fd0dVy9LBXxARAeGdKi3R) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [Efectos Adversos](https://open.spotify.com/album/1LDMXAPEUd7ROkIyJwFgCT) | 3:04 |
 | 100 | [facecard](https://open.spotify.com/track/2P4jvAbFZWh2ctfqPPjeIs) | [Natán](https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb) | [facecard](https://open.spotify.com/album/0CdpMTYOdzpBAoMUtmWIH1) | 2:07 |
 
-Snapshot ID: `AAAAAIUnYT9nTCoiXXjEKrxbRGMqdPIH`
+Snapshot ID: `AAAAAN4Fuloij1NL+FmQXafaxftfj+VC`

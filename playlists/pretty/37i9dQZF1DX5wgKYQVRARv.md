@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,009 likes - 150 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,045 likes - 150 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 149 | [Piros kocsi, fekete éj](https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Piros kocsi, fekete éj](https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z) | 4:12 |
 | 150 | [Last Words](https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Last Words](https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr) | 2:58 |
 
-Snapshot ID: `AAAAAIRYeoQGz69UkN+9VCh5MTZ7/use`
+Snapshot ID: `AAAAANGTnogd7S9tvBqkPr9gZ8/1y5uW`

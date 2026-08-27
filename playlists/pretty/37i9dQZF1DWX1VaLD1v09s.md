@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,408 likes - 150 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,401 likes - 150 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 143 | [Worthy Is The Lamb \- Easter Version](https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Easter](https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh) | 5:33 |
 | 144 | [The Wonderful Cross](https://open.spotify.com/track/023AkI7rxNRoAc75druPXP) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 4:46 |
 | 145 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
-| 146 | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Autumn Nelon](https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe) | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg) | 8:00 |
-| 147 | [In The Resurrection](https://open.spotify.com/track/5y7UcB9uyzE1xZFaTLVICF) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [In The Resurrection](https://open.spotify.com/album/0G6iRcuMTbCkvK1mtiiCXW) | 4:27 |
+| 146 | [In The Resurrection](https://open.spotify.com/track/5y7UcB9uyzE1xZFaTLVICF) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [In The Resurrection](https://open.spotify.com/album/0G6iRcuMTbCkvK1mtiiCXW) | 4:27 |
+| 147 | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Autumn Nelon](https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe) | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg) | 8:00 |
 | 148 | [Stay With Me Here](https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn) | [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [The Crucifixion of Jesus](https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq) | 4:21 |
 | 149 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 150 | [He Lives](https://open.spotify.com/track/6HRrYSbJHcy4oKdgU1pqzs) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ), [Brian Connelly](https://open.spotify.com/artist/568sD5Ea5m8svijwp9cmZe) | [He Lives](https://open.spotify.com/album/6TPj51KKvfmiRtwcEJ3Sid) | 4:24 |
 
-Snapshot ID: `AAAAAJQl3IFmzHTG4gbY4coLGqSV+AMM`
+Snapshot ID: `AAAAAEcdaBvVg7uzDL/nGF1K0TqZMr0V`

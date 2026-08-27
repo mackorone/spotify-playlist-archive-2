@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > Congratulations to all the winners and nominees of the 41st <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover & Host: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,039 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,052 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 40 | [Lord I Love You](https://open.spotify.com/track/10AljOpThopNRjg2jlmBEV) | [Nia Allen](https://open.spotify.com/artist/5NtYK3nuKd8l8nlUcgAgOg) | [Lord I Love You](https://open.spotify.com/album/1Gk16qWI1iHOXGC2OjPK8O) | 3:31 |
 | 41 | [Words](https://open.spotify.com/track/5fi3EWNo0PtwBe0SfyGigc) | [Blanche McAllister\-Dykes](https://open.spotify.com/artist/6l5t8QOEPBfBzYvrcdgq6g) | [Words](https://open.spotify.com/album/4fdJi7ILScmN7xjc6jX4CX) | 6:23 |
 | 42 | [He Never Failed Me](https://open.spotify.com/track/6tnDBk5RJAoRe2nk3upFTX) | [Bobbi Lane](https://open.spotify.com/artist/1HAYBuVl3dXlupV5tBk9ps), [Paul Porter](https://open.spotify.com/artist/35qCI10NSI2BwsLDq3MFeK) | [He Never Failed Me](https://open.spotify.com/album/6dekN5bIechVu1uR4EY7nr) | 3:43 |
-| 43 | [Jesus Is My Friend \(Live\)](https://open.spotify.com/track/1PUKpmi3ZgwdL4z5xYIHvo) | [K\. Jeanette](https://open.spotify.com/artist/7fmJKii6K9MAJ2QSL5ztH4), [Shawn Bigby](https://open.spotify.com/artist/0F4gtRttzxL4ZHMhPpybrK) | [Jesus Is My Friend \(Live\)](https://open.spotify.com/album/0f9zEyiTU6z9mTTUryJhkf) | 4:19 |
+| 43 | [Jesus Is My Friend \- Live](https://open.spotify.com/track/1PUKpmi3ZgwdL4z5xYIHvo) | [K\. Jeanette](https://open.spotify.com/artist/7fmJKii6K9MAJ2QSL5ztH4), [Shawn Bigby](https://open.spotify.com/artist/0F4gtRttzxL4ZHMhPpybrK) | [Jesus Is My Friend \(Live\)](https://open.spotify.com/album/0f9zEyiTU6z9mTTUryJhkf) | 4:19 |
 | 44 | [That's God LaLaLa](https://open.spotify.com/track/7H8Lo7mrTD4TMv4yUToF7c) | [Sensere](https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh) | [Fred Hammond Presents The Soul of Future Worship Vol\. 2](https://open.spotify.com/album/7iXVWiiWUJ1oPrnNneG9C6) | 3:27 |
 | 45 | [Church Parking Lot](https://open.spotify.com/track/3lItDqpQ9wXPh4A8v8llxF) | [Otis Kemp](https://open.spotify.com/artist/2Z4sVaFLTHGgs9PIRaSo00), [Tasha Page\-Lockhart](https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w) | [Church Parking Lot](https://open.spotify.com/album/17A9XeaPvZ22umXMgTGvd6) | 4:11 |
 | 46 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 74 | [Movin'](https://open.spotify.com/track/3GMAWqfLysQyx0b5kPJve9) | [JustCordell](https://open.spotify.com/artist/4kyOIXivEHCVnJOfSo6lYn) | [Movin'](https://open.spotify.com/album/1LGEQX1mObwzgTq6s1TBxJ) | 2:20 |
 | 75 | [10X My Blessings](https://open.spotify.com/track/5sj387BtBhSrSwG7bd4Smu) | [Jevon Dewand](https://open.spotify.com/artist/29aLw1wHmH1tpXaG3bMnXF), [The Trap Starz](https://open.spotify.com/artist/17moVmi9P15CQZCjkT6381), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Gaz Money](https://open.spotify.com/artist/6jrXycYc3G5AG0S1PjAqWr) | [10X My Blessings](https://open.spotify.com/album/2wx00GZFBzzagY5BlbQF7c) | 3:58 |
 
-Snapshot ID: `AAAAAE3lx5J2nTEiEFbrVF2iTn0fJ2ED`
+Snapshot ID: `AAAAAPDj9BskmYnADy0C7qpJgnaHu9Dk`

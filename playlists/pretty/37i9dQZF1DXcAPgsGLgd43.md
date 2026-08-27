@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,000 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,045 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 99 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
 | 100 | [Dame Fuego](https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [MVRIN](https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo) | [Dame Fuego](https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ) | 3:48 |
 
-Snapshot ID: `AAAAAHA8ocEqxMTm7mIlv4WZgx4P78co`
+Snapshot ID: `AAAAAJISXGO1DocZoZ7DoZByaNighUrG`

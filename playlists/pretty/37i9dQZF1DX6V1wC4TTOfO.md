@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 
 > <a href="spotify:artist:249QVZLSwrDyleKNapaapm">SAFAR</a>'s favorite tracks\. Updated regularly\. Curated by SAFAR\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,000 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,104 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 | 49 | [Live Your Life \- Radio Edit](https://open.spotify.com/track/5foOyxcGmVKHpPfeOfm9oi) | [Erick Morillo](https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt), [Shawnee Taylor](https://open.spotify.com/artist/5sicJtm0vC2wbv3RFNOqRU) | [Radio Killers in Stereo](https://open.spotify.com/album/2qs3qhbAPSrfABD9F0fG1V) | 3:44 |
 | 50 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
 
-Snapshot ID: `AAAAAKkqo2fJkRSEWBT+8Hs6n3BA4mmK`
+Snapshot ID: `AAAAAMpmIHyaY0kKGtB8ErUzVxOHXGdH`

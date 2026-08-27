@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Gloria Bugie
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,120 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,157 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 64 | [Setting](https://open.spotify.com/track/1KlO3pDb3AS2Vi0SYMIB8L) | [KAPEKE](https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Setting](https://open.spotify.com/album/4qx633m4zSy8Z6q1BSDbtX) | 2:04 |
 | 65 | [Mangadalena](https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs) | [Echoled](https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k) | [Mangadalena](https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv) | 3:14 |
 
-Snapshot ID: `AAAAAHhpiXWsNX/t4zZ5TsQF7HytrX8O`
+Snapshot ID: `AAAAAArsxXZ4cHQC0xfwEjErjMsDINIr`

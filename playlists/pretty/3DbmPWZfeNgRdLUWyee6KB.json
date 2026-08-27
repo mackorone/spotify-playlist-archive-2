@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1330,
+  "num_followers": 1329,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXQhmHYbnN9bFEvFeHR7HOs5L7xcAR",
+  "snapshot_id": "AAAXRdAcFmwatpQzJnyhDPyemCVUnyhP",
   "tracks": [
     {
       "added_at": "2026-08-21 09:03:00",
@@ -2251,6 +2251,54 @@
       "duration_ms": 226321,
       "name": "Believe What You Like",
       "url": "https://open.spotify.com/track/4rxuvpHj7VrTkjB329rnR6"
+    },
+    {
+      "added_at": "2026-08-26 13:51:01",
+      "album": {
+        "name": "Till The Embers Are All That Remain",
+        "url": "https://open.spotify.com/album/3yZg7DR89kvcPUvMZbaxFR"
+      },
+      "artists": [
+        {
+          "name": "Zachary Friederich",
+          "url": "https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/31sR1cj2zUun40FoeJ4TdF"
+    },
+    {
+      "added_at": "2026-08-26 13:51:02",
+      "album": {
+        "name": "Seasons in Exile",
+        "url": "https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c"
+      },
+      "artists": [
+        {
+          "name": "Unquiet Nights",
+          "url": "https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot"
+        }
+      ],
+      "duration_ms": 222147,
+      "name": "Just Another Sun Going Down",
+      "url": "https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye"
+    },
+    {
+      "added_at": "2026-08-26 13:51:05",
+      "album": {
+        "name": "I Want You to Have His Child",
+        "url": "https://open.spotify.com/album/0hVr79M7UOi35HI8OieMUn"
+      },
+      "artists": [
+        {
+          "name": "Un Rodo Cora",
+          "url": "https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "I Want You to Have His Child",
+      "url": "https://open.spotify.com/track/43mFN59dUNwEvInNoesgLQ"
     }
   ],
   "unique_name": "New Indie Music",

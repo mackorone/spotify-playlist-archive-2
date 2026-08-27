@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480945,
+      "name": "RAINY NIGHT IN TALLINN",
+      "url": "https://open.spotify.com/track/5r6l0sPvfeAPjQ67fCgOwG"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },

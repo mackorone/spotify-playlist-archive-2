@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 195199,
       "name": "Aline",
       "url": "https://open.spotify.com/track/4rkGfxSpVY72e4MaMus61G"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 215179,
       "name": "Aquariana - Acoustic",
       "url": "https://open.spotify.com/track/4wUyQVIIx8Hhn64Eznn8jc"
@@ -3972,6 +3972,28 @@
       "duration_ms": 217036,
       "name": "Beamin'",
       "url": "https://open.spotify.com/track/36OJ0CnzASEhbGDgr1TlGH"
+    },
+    {
+      "album": {
+        "name": "Beats Wears Pearls",
+        "url": "https://open.spotify.com/album/5Q3OHsL3W5GzLWmOynvtis"
+      },
+      "artists": [
+        {
+          "name": "Aural Nouveau",
+          "url": "https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i"
+        },
+        {
+          "name": "Sterlan Starr",
+          "url": "https://open.spotify.com/artist/7BejqXwuD9Zd1NyfeJaXXL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142839,
+      "name": "Beats Wears Pearls",
+      "url": "https://open.spotify.com/track/1vYo6Eu0DOYVxmeWjKmqdy"
     },
     {
       "album": {
@@ -6175,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/5DcbuX6rdx92jKhNa8EncX"
+      },
+      "artists": [
+        {
+          "name": "SPF Made It",
+          "url": "https://open.spotify.com/artist/11OCexqsCSb0w8y3WGFi7j"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183243,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/2bm8z9mG0E7yd0kM2qbkQH"
+    },
+    {
+      "album": {
         "name": "Carnival And Cotton Candy",
         "url": "https://open.spotify.com/album/4CYTU3PNZPHgt8s7xGZaxT"
       },
@@ -6670,6 +6710,24 @@
       "duration_ms": 292632,
       "name": "Chalodnaja Zorka",
       "url": "https://open.spotify.com/track/2pnc2Hzf8SrGpNiThKOqVG"
+    },
+    {
+      "album": {
+        "name": "F#ck your algorithm (Live)",
+        "url": "https://open.spotify.com/album/1Owmdso3Q3KVgdCWKFhV9k"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Rebel",
+          "url": "https://open.spotify.com/artist/2xda5wpmZV4e87JXCiqa1n"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96314,
+      "name": "Change - Live",
+      "url": "https://open.spotify.com/track/67fwh9pjo1EhZv6CRdGn0k"
     },
     {
       "album": {
@@ -20860,6 +20918,24 @@
       "duration_ms": 141075,
       "name": "Jingle Bells's Month",
       "url": "https://open.spotify.com/track/7aKoQCaa0h7eyqkNWtGffI"
+    },
+    {
+      "album": {
+        "name": "Ani",
+        "url": "https://open.spotify.com/album/4RXVWWfxIi6fnVIgC0rRxT"
+      },
+      "artists": [
+        {
+          "name": "Ubaye",
+          "url": "https://open.spotify.com/artist/4lJw57BJeFpdkJ0CWegxCy"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Joakim",
+      "url": "https://open.spotify.com/track/5gdwmsCeG3xqES0lZfNwvX"
     },
     {
       "album": {
@@ -35901,6 +35977,24 @@
     },
     {
       "album": {
+        "name": "I'm over you",
+        "url": "https://open.spotify.com/album/3nndwUpOvEjtVgJINBPc8j"
+      },
+      "artists": [
+        {
+          "name": "Bossa de Valores",
+          "url": "https://open.spotify.com/artist/19vd7nCwwKyTXgKek1jXKV"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Show me love",
+      "url": "https://open.spotify.com/track/0UbAmYmsn8jMVEfM0ks5Na"
+    },
+    {
+      "album": {
         "name": "In Love with Righteousness (2005-2014 Best Dubs Compilation)",
         "url": "https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp"
       },
@@ -37384,7 +37478,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 216000,
       "name": "Spark",
       "url": "https://open.spotify.com/track/1ZlPAx2KLngbbtM4zozoDV"
@@ -37731,6 +37825,24 @@
     },
     {
       "album": {
+        "name": "Stars In The Ceiling",
+        "url": "https://open.spotify.com/album/2sQXw5CoyGIQ5tQMjaEy7X"
+      },
+      "artists": [
+        {
+          "name": "SPF Made It",
+          "url": "https://open.spotify.com/artist/11OCexqsCSb0w8y3WGFi7j"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209189,
+      "name": "Stars In The Ceiling",
+      "url": "https://open.spotify.com/track/4EzHqRDskw14PlsDis5a4X"
+    },
+    {
+      "album": {
         "name": "Two Cool Brothers",
         "url": "https://open.spotify.com/album/1NZuvytT0tqD8oSyuYsj8J"
       },
@@ -37884,7 +37996,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 71935,
       "name": "Stefany",
       "url": "https://open.spotify.com/track/6rvatEJiXYDd5MhxvDMj7H"
@@ -38025,6 +38137,28 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/41sYQqwzW8Z5yDvcNpjKpH"
+      },
+      "artists": [
+        {
+          "name": "Luminette",
+          "url": "https://open.spotify.com/artist/6EDrUPkkMaONedx9KMIwFK"
+        },
+        {
+          "name": "MASK CX",
+          "url": "https://open.spotify.com/artist/1KrxJKNuzMTqHBGq3vaBHl"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203040,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/2pvxqf7svdVW4lsEDInBgL"
+    },
+    {
+      "album": {
         "name": "Next Cosmos",
         "url": "https://open.spotify.com/album/4xujc3TQVLCm6hrR7DsPMs"
       },
@@ -38138,7 +38272,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 209360,
       "name": "Streets",
       "url": "https://open.spotify.com/track/707uCxNR59AVq6WvHWmBcc"
@@ -42596,6 +42730,24 @@
       "duration_ms": 158810,
       "name": "Twilight Ribbit",
       "url": "https://open.spotify.com/track/5c3PzYGjZ4StGgQArI5FcA"
+    },
+    {
+      "album": {
+        "name": "Twilight Tuxedos",
+        "url": "https://open.spotify.com/album/07Vmwtp1onSlRIVTD8Phds"
+      },
+      "artists": [
+        {
+          "name": "Aural Nouveau",
+          "url": "https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143559,
+      "name": "Twilight Tuxedos",
+      "url": "https://open.spotify.com/track/3cHtp1Rh0IdOVrFO7ydYPS"
     },
     {
       "album": {

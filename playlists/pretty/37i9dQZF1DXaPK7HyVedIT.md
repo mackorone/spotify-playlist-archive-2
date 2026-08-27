@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Double MZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,213 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,089 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Corazon](https://open.spotify.com/track/5Tq2WD8fDVe35rzzDqkE6t) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Corazon](https://open.spotify.com/album/52aIs9XfDwcst8addTu7qY) | 3:10 |
 | 80 | [Messi](https://open.spotify.com/track/5C9uCCZzmsTZHuakgYPS6G) | [João Brasil](https://open.spotify.com/artist/7MPhjKo9pLJ7mPJOOxeIf4), [Mary Zander](https://open.spotify.com/artist/7hJLpw326kpcd3f3YXrVz1), [Jararaca Sound System](https://open.spotify.com/artist/0tu9kO59fquOERFCdnqibF), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [Messi](https://open.spotify.com/album/4JkG9h2ZAmA4VWhOiwci5X) | 2:24 |
 
-Snapshot ID: `AAAAAINM7hTDEWuI5TLLf7ZtuFBLp0rX`
+Snapshot ID: `AAAAAARB8hNu16oe6rErf5XdSgfTRasi`

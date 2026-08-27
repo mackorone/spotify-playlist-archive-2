@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,193 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,322 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 99 | [Saudade](https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Saudade](https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8) | 3:56 |
 | 100 | [Não mente pra mim](https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Não mente pra mim](https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr) | 3:22 |
 
-Snapshot ID: `AAAAAHVq2k2orpzCJjkM4xvWqVxRYGVD`
+Snapshot ID: `AAAAAB43gzbLtPHDcm48GXdkKEZSOxz3`

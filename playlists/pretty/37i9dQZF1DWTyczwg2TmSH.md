@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Actress and rapper Regan Aliyah takes over Strong Black Lead’s official playlist\. Catch her as Juliana in XO Kitty Season 3, now playing on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,940 likes - 19 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,950 likes - 19 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 | 18 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 19 | [Look Easy](https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Look Easy](https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi) | 2:45 |
 
-Snapshot ID: `AAAAABe9YvCW1QbKbaGuQGGBzErOCpfI`
+Snapshot ID: `AAAAAEw19McVAlyYjHxoaEoCFp0K+fmg`

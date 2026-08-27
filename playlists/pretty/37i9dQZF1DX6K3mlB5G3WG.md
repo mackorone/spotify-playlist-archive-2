@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Sam Smith in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,303 likes - 96 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,302 likes - 96 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 95 | [le armi](https://open.spotify.com/track/287SpRoBNCbyUQOVU0T6JF) | [PICCOLE EMOZIONI](https://open.spotify.com/artist/63FskuwgyUygrwm8M7WzLi) | [le armi](https://open.spotify.com/album/2kf6C4qU707xEwKdQepUEQ) | 2:44 |
 | 96 | [Girl That I Am](https://open.spotify.com/track/4XqFnAfNRrVRdDqCPI1nCz) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Off Campus: The Mixtape \(Extra Credit\)](https://open.spotify.com/album/21ZubmyASbZKZf1qpCz6F8) | 3:57 |
 
-Snapshot ID: `AAAAAMXkHWV7Fd8xxLwCe/x8aGVd75hY`
+Snapshot ID: `AAAAAPP9cWZAH8xL7zTCS1B21MqV3Gmx`

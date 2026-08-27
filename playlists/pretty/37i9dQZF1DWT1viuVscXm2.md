@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,455 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,396 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 99 | [Se Te Olvida](https://open.spotify.com/track/2xy1gJyrM5Jt34cFmB4k5y) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Se Te Olvida](https://open.spotify.com/album/5F8g3DMFCMkI4r8KF9OJIA) | 2:49 |
 | 100 | [Porque te fuiste](https://open.spotify.com/track/7eJFTQcaCRtV1dS19D4q5F) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Agradeciendo a Dios](https://open.spotify.com/album/25MpirpVqdYIRhriZ7xp3X) | 3:23 |
 
-Snapshot ID: `AAAAACKQTGlWHqKaGJaAJplusPwKFHQJ`
+Snapshot ID: `AAAAANroVSAXsWt4LV5NIrb9z7iW9U8C`

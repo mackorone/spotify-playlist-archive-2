@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,017 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,079 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 99 | [El Perdedor](https://open.spotify.com/track/0NnEpjGXz9Sz752vzuhkOm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Exitos \- Joan Sebastian](https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy) | 3:07 |
 | 100 | [Bandido de Amores](https://open.spotify.com/track/4ZcQtsMR1XcaE4NZm22Y2T) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/07SkzDa8j8u3PdP042nIs8) | 2:59 |
 
-Snapshot ID: `AAAAAM2JRhcLg87G/yHEa31SQFxxbVks`
+Snapshot ID: `AAAAAM7GYS/0bbP4H8KX9w3b0Rc6denx`

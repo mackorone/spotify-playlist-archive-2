@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL1YNEzz7gH.md) - [plain]
 
 > Juliets, no Romeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 489 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 493 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL1YNEzz7gH.md) - [plain]
 | 39 | [Testimony](https://open.spotify.com/track/6rMGN9m6UICnuXQbQ90u31) | [Ferron](https://open.spotify.com/artist/4Uwxc9WlgyTxlP4iG8rdjb) | [Testimony](https://open.spotify.com/album/2eVvvU9IPRgkJjXDycVd3O) | 4:23 |
 | 40 | [Dangerous Nostalgia](https://open.spotify.com/track/3afGTfHfCJ6RjltpDGjazF) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Dangerous Nostalgia](https://open.spotify.com/album/5iz4jfHqIgEA9NGlNQ1nsd) | 3:15 |
 
-Snapshot ID: `AAAAAGmExAgGZPqAvl4KQUgz5+KFxt6l`
+Snapshot ID: `AAAAAGZzjGlEivzkeX6ufJQP/mcx2p6s`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ku5zxR5pFB.md) - [plain]
 
 > Let's have a LAYOVER in the V's world 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,971 likes - 28 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,133 likes - 28 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ku5zxR5pFB.md) - [plain]
 | 20 | [Singularity](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:16 |
 | 21 | [Inner Child](https://open.spotify.com/track/25MHcbjvSdcfTiFgbKJiZF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:53 |
 | 22 | [Stigma](https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:36 |
-| 23 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 |
-| 24 | [Slow Dancing \(Cautious Clay Remix\)](https://open.spotify.com/track/31jZYFQEtq0ud5y9fDN4cw) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:51 |
+| 23 | [Slow Dancing \- FRNK Remix](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 |
+| 24 | [Slow Dancing \- Cautious Clay Remix](https://open.spotify.com/track/31jZYFQEtq0ud5y9fDN4cw) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:51 |
 | 25 | [FRI\(END\)S \(Instrumental\)](https://open.spotify.com/track/6G3myAs4HemIdtLYhhjGLP) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 26 | [Sweet Night \(Inst.\)](https://open.spotify.com/track/2t4Ab1dHWWgc9QrU8erQ5k) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 |
 | 27 | [Christmas Tree \- Inst.](https://open.spotify.com/track/37rnSr2ZCkzqmoUqGQtn4q) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 |
 | 28 | [It's Definitely You \- Instrumental](https://open.spotify.com/track/1bItNehmEre5eCsR5IVUNX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 |
 
-Snapshot ID: `AAAAAFksKY0JqEWKAMVxc/tbu8BZ0BXE`
+Snapshot ID: `AAAAAGs0f7dwvaBj4iqUqE8fPc+/M7C8`

@@ -4,7 +4,7 @@
 
 > È una Geolier summer🩸
 
-1,134 songs - 2 day 6 hr 39 min
+1,135 songs - 2 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [BU!](https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:25 | 2022-12-06 | 2022-12-16 |
 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 | 2022-06-09 | 2022-09-02 |
 | [Bugie](https://open.spotify.com/track/4tiF2RFuMz8jpLxnslfkCo) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 2:40 | 2025-01-16 | 2025-02-14 |
+| [Bugie](https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bugie](https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG) | 3:13 | 2026-08-26 |  |
 | [Bullet Ballet \(feat\. Artie 5ive\)](https://open.spotify.com/track/1ljOXO8cgSa8qntDVlP9uu) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:31 | 2026-01-30 | 2026-02-13 |
 | [Buon Esempio \(feat\. Promessa, Sayf\)](https://open.spotify.com/track/4fFOvAW9oLTKxG0W1cx4Op) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 3:01 | 2025-10-09 | 2025-11-07 |
 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 | 2026-04-01 | 2026-04-21 |
@@ -514,7 +515,7 @@
 | [INTRO \(La Bella Vita\)](https://open.spotify.com/track/1lslS1hUsIvAScXvWVTLt2) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 3:31 | 2025-05-15 | 2026-01-23 |
 | [Intro La Divina Commedia](https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Intro La Divina Commedia](https://open.spotify.com/album/7zdirfoyJNypzUk6jXfYT3) | 2:41 | 2023-05-29 | 2023-06-09 |
 | [Invincibile](https://open.spotify.com/track/5VLkfva2Q2W9FJRYPLvtL7) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Invincibile](https://open.spotify.com/album/0ioh25cYIvvplbbax3OQ45) | 2:39 | 2025-10-20 | 2026-01-16 |
-| [IO E TE \(feat\. Ernia\)](https://open.spotify.com/track/7oTJPJYB20iTwfEEBsvBm3) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [DAL GOLFO DEGLI ANGELI](https://open.spotify.com/album/24e7NauzqSalmAygXLcKtY) | 2:54 | 2026-07-16 |  |
+| [IO E TE \(feat\. Ernia\)](https://open.spotify.com/track/7oTJPJYB20iTwfEEBsvBm3) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [DAL GOLFO DEGLI ANGELI](https://open.spotify.com/album/24e7NauzqSalmAygXLcKtY) | 2:54 | 2026-07-16 | 2026-08-27 |
 | [IO T’O GIUR’ \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:20 | 2024-06-06 | 2024-10-11 |
 | [Island Summer](https://open.spotify.com/track/6hZR5Xv76Gw0kloYW5l7It) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Island Summer](https://open.spotify.com/album/1FnQX1QBAQdyALTe4Z3ANB) | 2:11 | 2026-06-25 |  |
 | [Isolato](https://open.spotify.com/track/05vRH5YbsadNUv5XKj9uvI) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Isolato](https://open.spotify.com/album/0lKxCCxW6PqTJWocq47qdD) | 2:40 | 2025-05-08 | 2025-06-20 |

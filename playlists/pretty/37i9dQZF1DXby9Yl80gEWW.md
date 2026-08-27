@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > No words, just chops\. Cover: Matt Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,342 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,366 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 74 | [Airish](https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [The Song of the Banjo](https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ) | 4:17 |
 | 75 | [Live Rosin](https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [20/20](https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge) | 3:37 |
 
-Snapshot ID: `AAAAAKwv8LQ1PQZDsvMov3pUPGZnGzx4`
+Snapshot ID: `AAAAAOTXSVJUmF+Cryxr8hCYp3XiwdhQ`

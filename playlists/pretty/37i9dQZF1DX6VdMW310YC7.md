@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,893,515 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,893,380 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Perseverance](https://open.spotify.com/track/7DLmnCToTHfr9O0LKvWojH) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [PACT](https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA) | [Perseverance](https://open.spotify.com/album/4g3MstLJUccjMJMxLTRm5Y) | 3:39 |
 | 100 | [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 |
 
-Snapshot ID: `AAAAAHxCNGg2mY/5joUBByw2Mm51k5Lj`
+Snapshot ID: `AAAAAMTsK6DY9wNP12rWmrJzYSg1SEwt`

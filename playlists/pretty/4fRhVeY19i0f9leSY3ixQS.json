@@ -1,13 +1,29 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1752,
+  "num_followers": 1765,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAATfZNvXCQZsNQIYrV5RqnwuNMh5o1P",
+  "snapshot_id": "AAAThmHMkjHL9LkR+0DZ3riQLlvJlZ0G",
   "tracks": [
+    {
+      "added_at": "2026-08-27 00:33:05",
+      "album": {
+        "name": "Self-Made Man",
+        "url": "https://open.spotify.com/album/4ytVOgaEyB0mXZ4MA6eymo"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "duration_ms": 199046,
+      "name": "Self-Made Man",
+      "url": "https://open.spotify.com/track/4oAnR6rM6Ug9pXP32KjIXE"
+    },
     {
       "added_at": "2026-07-14 13:59:29",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 155500,
       "name": "UNDER KONTROL",
       "url": "https://open.spotify.com/track/6LRt9NxLbIWKfNxwzOeBQl"
-    },
-    {
-      "added_at": "2026-07-09 06:34:34",
-      "album": {
-        "name": "A Message From Your CEO",
-        "url": "https://open.spotify.com/album/5omUtUzZDvjMDAWEKnPZqk"
-      },
-      "artists": [
-        {
-          "name": "TIRED",
-          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
-        }
-      ],
-      "duration_ms": 179728,
-      "name": "A Message From Your CEO",
-      "url": "https://open.spotify.com/track/1Ts9V7Hx4VthjXi0nEvrtm"
     },
     {
       "added_at": "2026-07-30 07:42:59",
@@ -175,6 +175,54 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-08-26 09:37:34",
+      "album": {
+        "name": "'26",
+        "url": "https://open.spotify.com/album/6B8kdV2ZYClwORxY1zSJGY"
+      },
+      "artists": [
+        {
+          "name": "The Reserved",
+          "url": "https://open.spotify.com/artist/61BR0jykw5r3pNdXiRMgXm"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Barriers",
+      "url": "https://open.spotify.com/track/5qnJ1ckkxw4sP4OHlTpyUb"
+    },
+    {
+      "added_at": "2026-08-26 09:37:09",
+      "album": {
+        "name": "Raw Food",
+        "url": "https://open.spotify.com/album/6cctGolZP09r1Mn6IxIWkk"
+      },
+      "artists": [
+        {
+          "name": "Short Skirts",
+          "url": "https://open.spotify.com/artist/2UymO6s7ijZtQSz4CDYZR8"
+        }
+      ],
+      "duration_ms": 158001,
+      "name": "Raw Food",
+      "url": "https://open.spotify.com/track/0InOgUCfOajtsTKqPBpI1R"
+    },
+    {
+      "added_at": "2026-08-26 09:36:38",
+      "album": {
+        "name": "Glutton For Pain",
+        "url": "https://open.spotify.com/album/1Kv2MJgqVsCHh8nIMMtfCt"
+      },
+      "artists": [
+        {
+          "name": "Penny-Sleeve",
+          "url": "https://open.spotify.com/artist/7CXuRbSUc6bgpnB31OK8aJ"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "Glutton For Pain",
+      "url": "https://open.spotify.com/track/6xcZfMvQENoGRNa6q8y04C"
     },
     {
       "added_at": "2026-08-25 13:52:28",
@@ -1389,6 +1437,22 @@
       "url": "https://open.spotify.com/track/4FPpSsMGTqQxwGladeLdQs"
     },
     {
+      "added_at": "2026-07-09 06:34:34",
+      "album": {
+        "name": "A Message From Your CEO",
+        "url": "https://open.spotify.com/album/5omUtUzZDvjMDAWEKnPZqk"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "duration_ms": 179728,
+      "name": "A Message From Your CEO",
+      "url": "https://open.spotify.com/track/1Ts9V7Hx4VthjXi0nEvrtm"
+    },
+    {
       "added_at": "2026-08-06 14:41:09",
       "album": {
         "name": "pax humana",
@@ -2573,90 +2637,6 @@
       "url": "https://open.spotify.com/track/6LaJ3eEKwRFNlNsKSkiS1n"
     },
     {
-      "added_at": "2026-08-08 04:26:25",
-      "album": {
-        "name": "It's All Been Done Before",
-        "url": "https://open.spotify.com/album/59VLejIEJLJnh7Nv0e7tyS"
-      },
-      "artists": [
-        {
-          "name": "ZUSTRA",
-          "url": "https://open.spotify.com/artist/1cIilB8ckONPBhSG6IvxSu"
-        }
-      ],
-      "duration_ms": 154332,
-      "name": "It's All Been Done Before",
-      "url": "https://open.spotify.com/track/3uUPrgIBCbDpyoxsrsFYDj"
-    },
-    {
-      "added_at": "2026-08-08 04:27:06",
-      "album": {
-        "name": "We Figure It Out",
-        "url": "https://open.spotify.com/album/2krYrF8v8fiuj7ybunnSfK"
-      },
-      "artists": [
-        {
-          "name": "Alex Hellcat",
-          "url": "https://open.spotify.com/artist/0Ucc4c5tJDgp23eZyrwlei"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "We Figure It Out",
-      "url": "https://open.spotify.com/track/2JWTeR7vtJCZUo6uMGHeqW"
-    },
-    {
-      "added_at": "2026-08-08 04:29:00",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG"
-      },
-      "artists": [
-        {
-          "name": "Evan Fahey",
-          "url": "https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi"
-        }
-      ],
-      "duration_ms": 156623,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd"
-    },
-    {
-      "added_at": "2026-08-08 04:30:33",
-      "album": {
-        "name": "Neighborhood Wars",
-        "url": "https://open.spotify.com/album/6yyYAqp5BWI4e9BoXyHsaz"
-      },
-      "artists": [
-        {
-          "name": "The Sun Sets West",
-          "url": "https://open.spotify.com/artist/0xwRKbc6fbnlh0AdFfGGKq"
-        },
-        {
-          "name": "Laurelhurst",
-          "url": "https://open.spotify.com/artist/4yBxUSF756XD6GHmco9Kxv"
-        }
-      ],
-      "duration_ms": 235479,
-      "name": "Neighborhood Wars",
-      "url": "https://open.spotify.com/track/1R4OFtLqgLWSldLx1M5zZn"
-    },
-    {
-      "added_at": "2026-08-08 07:49:42",
-      "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5SnDMuXrJ99biN9htpsYJ1"
-      },
-      "artists": [
-        {
-          "name": "Surprise Asteroid",
-          "url": "https://open.spotify.com/artist/4POY53CgtEnd2FUGxE8IGe"
-        }
-      ],
-      "duration_ms": 161950,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/6zqPB23owpXNvIFqn3zGNZ"
-    },
-    {
       "added_at": "2026-08-08 22:12:30",
       "album": {
         "name": "Help Needed",
@@ -3723,6 +3703,38 @@
       "duration_ms": 191694,
       "name": "I'll Call You When I Land",
       "url": "https://open.spotify.com/track/4mcfu6tvXVOBGkQ9Z9vU4Y"
+    },
+    {
+      "added_at": "2026-08-26 04:36:20",
+      "album": {
+        "name": "people pleaser in me/Bum Like You",
+        "url": "https://open.spotify.com/album/27vE9PLi9oMrjKWObiRYbQ"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Rei",
+          "url": "https://open.spotify.com/artist/5N8e6CZ7XT5D6bKYFOIsD8"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "Bum Like You",
+      "url": "https://open.spotify.com/track/6BerfwUE4z8BQ5L9cvKe9p"
+    },
+    {
+      "added_at": "2026-08-26 04:36:30",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/6ngXvbiqCMNswvzOCN2GiE"
+      },
+      "artists": [
+        {
+          "name": "Taylor D",
+          "url": "https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5PbhYrim2us62q3B5iZLgS"
     }
   ],
   "unique_name": "Spotify Radio",

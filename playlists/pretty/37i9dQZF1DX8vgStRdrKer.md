@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,479 likes - 100 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,494 likes - 100 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 99 | [So Good Medley](https://open.spotify.com/track/7gI7LeTrGBOJLJi3MeZoOa) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [So Good Medley](https://open.spotify.com/album/2V7t7sTYktdueSQ2g81Km2) | 8:31 |
 | 100 | [Ifeoma \- Live](https://open.spotify.com/track/1lbns9ey1gbEXowvTmJCeq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Ifeoma \(Live\)](https://open.spotify.com/album/0sqX8JLaoCS8BCzb81eXdp) | 7:09 |
 
-Snapshot ID: `AAAAAITzVRJcad4Xr1thO6uuw1vhJ1n7`
+Snapshot ID: `AAAAAOHorRAWqNXO5zFCBAtIw19snabQ`

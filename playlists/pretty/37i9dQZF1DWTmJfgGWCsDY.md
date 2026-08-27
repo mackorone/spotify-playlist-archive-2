@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,308 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,320 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 49 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 |
 | 50 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
 | 51 | [Weeeweeeeeeee](https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Weeeweeeeeeee](https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o) | 3:50 |
-| 52 | [Sijafunzwa \(feat\. Mdogo Sajent\)](https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mdogo sajent](https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 2:32 |
+| 52 | [Ex Arudiwi](https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Ex Arudiwi](https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m) | 3:19 |
 | 53 | [Kamaliza \(feat\. Sholo Mwamba\)](https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 5:08 |
-| 54 | [Ex Arudiwi](https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Ex Arudiwi](https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m) | 3:19 |
-| 55 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 |
+| 54 | [Sijafunzwa \(feat\. Mdogo Sajent\)](https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mdogo sajent](https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 2:32 |
+| 55 | [Makombolelo singeli version](https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs) | [Mazegele Boy](https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ) | [Makombolelo singeli version](https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb) | 2:13 |
 | 56 | [Singeli Funk](https://open.spotify.com/track/2haTkqqkP8dtKRXsRQ8Rk4) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Singeli Funk](https://open.spotify.com/album/5stFPTtiCk2KmMHQxtbGYD) | 2:27 |
-| 57 | [Penzi Jipya](https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Penzi Jipya](https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1) | 5:14 |
-| 58 | [Makombolelo singeli version](https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs) | [Mazegele Boy](https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ) | [Makombolelo singeli version](https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb) | 2:13 |
+| 57 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 |
+| 58 | [Penzi Jipya](https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Penzi Jipya](https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1) | 5:14 |
 | 59 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 |
 | 60 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 |
 | 61 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 74 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 |
 | 75 | [Rudi Tena](https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1) | [Ten Ballz](https://open.spotify.com/artist/67iMSibGgkEzemZCjlUHOz), [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Dj pacheko midundo](https://open.spotify.com/artist/26SAE5mEh0Cs7DJgSQk2SU), [Banx](https://open.spotify.com/artist/6xRbmn98Nt81lt1BmVpxTN) | [Rudi Tena](https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa) | 3:46 |
 
-Snapshot ID: `AAAAAHn6OH6bZ7nDMO1H+2Q9bTMek/aI`
+Snapshot ID: `AAAAACgCBgnDra9NNdeo6r582jmf91ON`

@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Le ore nude",
+        "url": "https://open.spotify.com/album/6PWl9g5lz2kgZBoyH9NjnF"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare",
+      "url": "https://open.spotify.com/track/3IJohaVLHDdInnkkcM5NVV"
+    },
+    {
+      "album": {
         "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
         "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 150000,
       "name": "Appuntamento al mare - Remastered 2022",
       "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
@@ -778,7 +796,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 261240,
       "name": "Candida Follia",
       "url": "https://open.spotify.com/track/16KXqHSpt6VexSv0pQgJej"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 262333,
       "name": "Candida Follia",
       "url": "https://open.spotify.com/track/2o7jQstTBpnBadknercWwc"
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 228866,
       "name": "Crepuscolo",
       "url": "https://open.spotify.com/track/1mZDsbctVhnnIJ3cO2GvEb"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 233413,
       "name": "Crepuscolo",
       "url": "https://open.spotify.com/track/2vQMqcRP3lGbwxTgG6RNm4"
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 224973,
       "name": "Il vecchiaccio",
       "url": "https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 225613,
       "name": "Il vecchiaccio",
       "url": "https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu"
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 208266,
       "name": "L'Angelo Azzurro",
       "url": "https://open.spotify.com/track/1iCdpqivkMCONTx9lN7psi"
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 209426,
       "name": "L'Angelo Azzurro",
       "url": "https://open.spotify.com/track/1QKwDSlVsEsVl61yTjeBva"
@@ -3545,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Arte e Finanza",
+        "url": "https://open.spotify.com/album/0yWZND5xJ7Qrc84l3AydxK"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232360,
+      "name": "Notte Magica",
+      "url": "https://open.spotify.com/track/3mDlPVSAuvmCrISnoQZBvI"
+    },
+    {
+      "album": {
         "name": "Notte Magica",
         "url": "https://open.spotify.com/album/6dOnZOQRQtg1JPC3C57NaB"
       },
@@ -3556,7 +3592,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 232360,
       "name": "Notte Magica",
       "url": "https://open.spotify.com/track/4KQ8Qi0jg6fFYPEG1Syunf"
@@ -4242,7 +4278,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 198568,
       "name": "Questo Disco",
       "url": "https://open.spotify.com/track/0huZLKwetU2qCHkcsneUoD"
@@ -4272,7 +4308,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 198568,
       "name": "Questo Disco",
       "url": "https://open.spotify.com/track/1fz5UbtfPnSl4CX4CEsiaN"
@@ -5240,7 +5276,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
@@ -5258,7 +5294,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 278749,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg"
@@ -5428,6 +5464,24 @@
     {
       "album": {
         "name": "Un Po' Artista Un Po' No",
+        "url": "https://open.spotify.com/album/3uD7IMN8bPhLotTOClb197"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299200,
+      "name": "Un Po' Artista Un Po' No",
+      "url": "https://open.spotify.com/track/0p8OTMLJTsf2nYfI7mVyF0"
+    },
+    {
+      "album": {
+        "name": "Un Po' Artista Un Po' No",
         "url": "https://open.spotify.com/album/0ZB1eMfkmzcD4LxKQvNLxj"
       },
       "artists": [
@@ -5438,7 +5492,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 299800,
       "name": "Un Po' Artista Un Po' No",
       "url": "https://open.spotify.com/track/3IF6aYcGyYz2IW9Wy26412"

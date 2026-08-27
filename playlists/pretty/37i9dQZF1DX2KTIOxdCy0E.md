@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > First comes love, then comes life\. Listen to the music from Nobody Wants This, curated by The Core, Interscope and Aperture Music, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,343 likes - 108 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,355 likes - 108 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 107 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 |
 | 108 | [Sure Feels Good](https://open.spotify.com/track/4qpka5S7uHR6TD7pPUpzah) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Sure Feels Good](https://open.spotify.com/album/4rJzRAfZMrvtKkS15nepLt) | 4:17 |
 
-Snapshot ID: `AAAAAABb+vZ7OZ0GPBBVmafQumeiDHuN`
+Snapshot ID: `AAAAACp0mLL8Qz7IYlYXY4wa78E4RM3l`

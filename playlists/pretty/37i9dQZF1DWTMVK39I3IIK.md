@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > Smøgmænd er unge knive 🎭
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,218 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,221 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 69 | [Counterfeit](https://open.spotify.com/track/06AOUShyTSw86vuQPZbjcz) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [KATMORE](https://open.spotify.com/album/3XrVlXdr5JrwAQ0gLQtuBw) | 2:36 |
 | 70 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 |
 
-Snapshot ID: `AAAAAMYMfk7EyfIqHzcSTxm5DU4cf5Y+`
+Snapshot ID: `AAAAAORxa6nsovhm+ivCAX7akz33f9QC`

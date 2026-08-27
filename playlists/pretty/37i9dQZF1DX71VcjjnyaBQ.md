@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,363 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,404 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [Love Is in the Air](https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Love Is in the Air](https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y) | 3:45 |
 | 75 | [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 |
 
-Snapshot ID: `AAAAAOBX0pnqj7hS6uWyJSoyjKMt579X`
+Snapshot ID: `AAAAAEWj19SJRIlkSmgaX/HV9Co19cnF`

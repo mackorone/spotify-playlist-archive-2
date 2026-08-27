@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,900 likes - 85 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,899 likes - 85 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 84 | [Telha Véia \(Acusticasso\#8\) \- Ao Vivo](https://open.spotify.com/track/3XLyzBUjOzTNU2rAk1qi7d) | [William Santos](https://open.spotify.com/artist/6P8kyx8CHky00iuxUaI7Zb), [João Villa e Rafael](https://open.spotify.com/artist/0l14qMX6fxj4nURl6BglTU) | [Telha Véia \(Acusticasso\#8\) \[Ao Vivo\]](https://open.spotify.com/album/2Hn7Z1rKM3YpLIPkDH40gI) | 2:33 |
 | 85 | [Não Vai Seco](https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef) | [Não Vai Seco](https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh) | 2:20 |
 
-Snapshot ID: `AAAAAEMR0O3MIt5h9ILDHAom9hLgGkEv`
+Snapshot ID: `AAAAAHy9ZNW3edm+/ywPwIkc0LbEcTGI`

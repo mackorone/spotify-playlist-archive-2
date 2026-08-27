@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,049 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,050 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 86 | [Only Time Will Tell](https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Only Time Will Tell](https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG) | 3:18 |
 | 87 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 |
 | 88 | [My World](https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [My World](https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN) | 3:19 |
-| 89 | [What Matters \(feat\. Mali Music\)](https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:47 |
-| 90 | [Capuchino de Amor](https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Capuchino de Amor](https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq) | 4:58 |
+| 89 | [Capuchino de Amor](https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Capuchino de Amor](https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq) | 4:58 |
+| 90 | [What Matters \(feat\. Mali Music\)](https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:47 |
 | 91 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
 | 92 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
 | 93 | [Without The Risk](https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Without The Risk](https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [Loving Me Like Jesus](https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Loving Me Like Jesus](https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz) | 3:12 |
 | 100 | [Ride or Die](https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Ride or Die](https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St) | 2:52 |
 
-Snapshot ID: `AAAAAAYHjLlpWs8E8fihWvihSgKnlYL9`
+Snapshot ID: `AAAAAG1s1oMeQf050rMZokBoihs4ZdEF`

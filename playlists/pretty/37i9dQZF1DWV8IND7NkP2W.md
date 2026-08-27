@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,650 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,635 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 |
 | 100 | [Coffee break with him](https://open.spotify.com/track/475cCO8ac84X7j34ilKNgo) | [CRAM](https://open.spotify.com/artist/2kuzzESZpVYXEbJPF1o82D), [matatabi](https://open.spotify.com/artist/789AFt8ySj9w5pcaSniyMz) | [LOOPER](https://open.spotify.com/album/5Xnk9x6LUOR2qdERcEcuG7) | 1:59 |
 
-Snapshot ID: `AAAAADYq/UIOyPtqWD41lP6iKP7Php1p`
+Snapshot ID: `AAAAAD5QTJ4JDGdLBIFChsedM2+Ow6+v`

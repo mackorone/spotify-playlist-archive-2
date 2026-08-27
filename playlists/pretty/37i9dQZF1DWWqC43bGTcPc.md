@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 李佳薇
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,621 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,639 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [裝睡的人](https://open.spotify.com/track/1N4xGyCDZNWsHZZlBSJkFs) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [裝睡的人](https://open.spotify.com/album/7rUx8sF2L40YZjJo2nIx6e) | 4:28 |
 | 50 | [透明傘](https://open.spotify.com/track/4v3Lyg6PGNUAa6XPaRrP92) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [Vitamin G](https://open.spotify.com/album/2HFyO0GSpAVQh8t50nihzm) | 3:17 |
 
-Snapshot ID: `AAAAAMQKvbHcDXkexA21RmP6fJuFXraV`
+Snapshot ID: `AAAAALspxWUTrtvIGWs7Sn3w3hEugpKf`

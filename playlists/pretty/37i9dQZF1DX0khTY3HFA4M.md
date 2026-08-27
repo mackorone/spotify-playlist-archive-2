@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,949 likes - 170 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,976 likes - 170 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 169 | [Of Lions and Wolves](https://open.spotify.com/track/4eRxYL2PycfoxWeyujM16A) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [The Bouquet \- EP](https://open.spotify.com/album/2dk1K9TxqKiTGx8rqBlYVP) | 2:36 |
 | 170 | [Honeydew](https://open.spotify.com/track/6C1Ro7wWp2JZcj2ztJuNOk) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Honeydew](https://open.spotify.com/album/5ruLgAgpsEUHO42iquAc8R) | 1:57 |
 
-Snapshot ID: `AAAAAK+295KHxfQRJiq5Xr2iRbptO0/O`
+Snapshot ID: `AAAAAJ+QlDD/i3KKqtfn3B5T5WyviDwD`

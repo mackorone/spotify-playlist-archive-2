@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Dexter and The Moonrocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,826 likes - 190 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,898 likes - 190 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 16 | [p a r a d 0 x 1 c](https://open.spotify.com/track/2U7yZeqVPkPxEc354Tfg3G) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [p a r a d 0 x 1 c](https://open.spotify.com/album/0EzE4JLC743EsO8BMHbect) | 5:10 |
 | 17 | [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 |
 | 18 | [Die For You \(feat\. Neoni\)](https://open.spotify.com/track/6XeNgLFQvhNZrF854ndrWL) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Die For You \(feat\. Neoni\)](https://open.spotify.com/album/0DBh9s9shkv4BeTog8lllw) | 3:27 |
-| 19 | [scorched earth](https://open.spotify.com/track/3E63e5H0UQYwkwCrlKJrvi) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [VOL\. 3 \(Deluxe\)](https://open.spotify.com/album/2JFnJdX6OX270ib8k9jENM) | 3:25 |
+| 19 | [scorched earth](https://open.spotify.com/track/3E63e5H0UQYwkwCrlKJrvi) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [VOL\. 3 \(Deluxe\)](https://open.spotify.com/album/2JFnJdX6OX270ib8k9jENM) | 3:26 |
 | 20 | [Tinted View](https://open.spotify.com/track/1RPGV76DZulMZ5cgBNwtAZ) | [untitled](https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx) | [Tinted View](https://open.spotify.com/album/1mO7scS0cxbRLisZgR1pSc) | 4:48 |
 | 21 | [EDGE OF VEGAS](https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [EDGE OF VEGAS](https://open.spotify.com/album/3KpH2DBCKo1lF8wNZxo4NU) | 3:40 |
 | 22 | [Don't Come Easy](https://open.spotify.com/track/1jSVZ6MAaVPvYYxwSI5qB6) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bark At The Moon](https://open.spotify.com/album/5JFB4Mf6lc18wMATG1g1oo) | 3:33 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 189 | [Missing Piece](https://open.spotify.com/track/0NS8O8fXMEsRqFgARR9FUM) | [Lifespark.](https://open.spotify.com/artist/5Hb2LAz1HTH6x92aONq729) | [Missing Piece](https://open.spotify.com/album/2W81oJa6o2uN82v46EBTnf) | 3:13 |
 | 190 | [Terminal Crew of Dudes](https://open.spotify.com/track/7aFeJdlceYberxvyr274xh) | [Whitmer Thomas](https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1) | [Terminal Crew of Dudes](https://open.spotify.com/album/4OLtYU26pJPdFJhdKqnCTg) | 3:52 |
 
-Snapshot ID: `AAAAAJliZSVb5cS+v0twjhHpughle9wT`
+Snapshot ID: `AAAAAO8j0BCcDqvXxq7ma0GzxJ1vm9kh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Ramón, Jorja Smith, sval og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,944 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,929 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 101 | [you’re my nature](https://open.spotify.com/track/1UPI8IZpnPpEYZVMf6NgNR) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
 | 102 | [Løvefjes](https://open.spotify.com/track/0ClDIoOmrA2StTQJUsEyGL) | [Bertine Zetlitz](https://open.spotify.com/artist/5Ecypk9dy3PpNdikTIf6UL) | [Løvefjes](https://open.spotify.com/album/0ajNsCACUQxckdfsqUzCDw) | 3:09 |
 
-Snapshot ID: `AAAAAFkBLoP1ta2+7JzeCARcJm6pgFCH`
+Snapshot ID: `AAAAABauThSntUexKCYmGUEZ0HCZ9ES3`

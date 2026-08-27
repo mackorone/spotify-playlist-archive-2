@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,295 likes - 144 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,713 likes - 144 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 143 | [Deep Forest](https://open.spotify.com/track/4yGselxigcwriO7LbmCeMb) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw) | [Deep Forest](https://open.spotify.com/album/4EWtJaAgRmMbTK1cI5dA6e) | 1:35 |
 | 144 | [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 |
 
-Snapshot ID: `AAAAAAW/5bqlEmhWUkpdAERGNbYlVl1O`
+Snapshot ID: `AAAAAEiAJw4ltCKihCy6CThL1l9gWePI`

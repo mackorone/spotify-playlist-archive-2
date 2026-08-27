@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,412 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,357 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 49 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 50 | [Stuck in Between](https://open.spotify.com/track/6qoPv5gXmFX3yHCp1cU0s2) | [Rebecca Armstrong](https://open.spotify.com/artist/2ePmGYViXoQ3Ku4z7Pk78y) | [Stuck in Between](https://open.spotify.com/album/59brawft7S2HJ4eY2GYPUx) | 3:20 |
 
-Snapshot ID: `AAAAALm3brcFKex9DgWgUR8XmXx0agWw`
+Snapshot ID: `AAAAALpS0YJzQ/KZYHXu+2L+hfDoRBpP`

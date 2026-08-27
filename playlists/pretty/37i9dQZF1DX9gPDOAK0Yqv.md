@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,934 likes - 125 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,999 likes - 125 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 124 | [Parallax](https://open.spotify.com/track/0UgLmLX6DUkRsMmosFDfLb) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo) | [Parallax](https://open.spotify.com/album/6bojyA0Daix0B91oRJW5wM) | 3:48 |
 | 125 | [Glowing](https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [David O'Dowda](https://open.spotify.com/artist/0kgnPJElpccT4mc6IMZ653) | [Oblivion](https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X) | 3:17 |
 
-Snapshot ID: `AAAAAHW99REXerns65eNhP2vPRHGaO9u`
+Snapshot ID: `AAAAADjn4SwihdXCPh7M59i+xR521o9e`

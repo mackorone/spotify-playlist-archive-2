@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Aishmeen",
+  "description": "Discover the future of Punjabi Pop! Cover: Parakh",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1351,6 +1351,32 @@
     },
     {
       "album": {
+        "name": "BIRHADA",
+        "url": "https://open.spotify.com/album/6R4qNGaGbWboNL2zToVORt"
+      },
+      "artists": [
+        {
+          "name": "Sarvar Kahlon",
+          "url": "https://open.spotify.com/artist/4CuzFrVjsZckAu5nJ6V6og"
+        },
+        {
+          "name": "Shiv Kumar Batalvi",
+          "url": "https://open.spotify.com/artist/2Qat3bXVfEhX5JDwlT0h4y"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208776,
+      "name": "BIRHADA",
+      "url": "https://open.spotify.com/track/4NZP87PnC5chuiqxwvOTA1"
+    },
+    {
+      "album": {
         "name": "Blessed Jodi",
         "url": "https://open.spotify.com/album/0n3AtHptNwlwucX1bJrF60"
       },
@@ -1638,6 +1664,28 @@
       "duration_ms": 128571,
       "name": "Brood",
       "url": "https://open.spotify.com/track/3PNQDdowwXd2Ny1tOsCddq"
+    },
+    {
+      "album": {
+        "name": "Budha Ishq",
+        "url": "https://open.spotify.com/album/3HmnNZlJfCRPjTbJXcOCxD"
+      },
+      "artists": [
+        {
+          "name": "Parakh",
+          "url": "https://open.spotify.com/artist/46ljOfCm8ESflpTYrp5G3I"
+        },
+        {
+          "name": "Agaazz",
+          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Budha Ishq",
+      "url": "https://open.spotify.com/track/79aNUVmk9WhpUHUGJ1g40E"
     },
     {
       "album": {
@@ -3385,6 +3433,28 @@
     },
     {
       "album": {
+        "name": "Duniya Meri",
+        "url": "https://open.spotify.com/album/7yarrxDOQUMeZxTHJwovIt"
+      },
+      "artists": [
+        {
+          "name": "Vikas Maan",
+          "url": "https://open.spotify.com/artist/54AgrLwlHA5ogfu5I4DOuD"
+        },
+        {
+          "name": "Sunny Vik",
+          "url": "https://open.spotify.com/artist/0w7vYjdZtzd1zSmPfY0mKe"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Duniya Meri",
+      "url": "https://open.spotify.com/track/0xjotyu8fk3A1wB49Xrrfp"
+    },
+    {
+      "album": {
         "name": "Easy Feel",
         "url": "https://open.spotify.com/album/5C0XdmRbuEwJuVQ5q8meRp"
       },
@@ -3952,6 +4022,24 @@
       "duration_ms": 176086,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/2EwTep99vHMPigQWrkFOvx"
+    },
+    {
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/1WIEbTJuFPh0c419VGR7TT"
+      },
+      "artists": [
+        {
+          "name": "Anuj B",
+          "url": "https://open.spotify.com/artist/7f5V2XifD0Mz6sGYuXrtCp"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Free Soul",
+      "url": "https://open.spotify.com/track/3TDCfYPfyN3VGTPt3K5fAQ"
     },
     {
       "album": {
@@ -6242,7 +6330,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 180450,
       "name": "KAAGAZ",
       "url": "https://open.spotify.com/track/0FYCTPgLz6qwgzn8s4JZ4D"
@@ -7256,7 +7344,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 143673,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/27Dme4bufvtzLZklVhAxLS"
@@ -8285,6 +8373,28 @@
     },
     {
       "album": {
+        "name": "MIRZA",
+        "url": "https://open.spotify.com/album/4s1SJw56NM11SSsk75LAZb"
+      },
+      "artists": [
+        {
+          "name": "Viepsa Arora",
+          "url": "https://open.spotify.com/artist/5OniBRRrk1TywcHKKOHNCW"
+        },
+        {
+          "name": "Skopos",
+          "url": "https://open.spotify.com/artist/2WVomrLR3V3nBVpiPsGjZz"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "MIRZA",
+      "url": "https://open.spotify.com/track/7GnZyJgTRax5utePn6odNT"
+    },
+    {
+      "album": {
         "name": "Mirza Drill",
         "url": "https://open.spotify.com/album/1meTBbzYgUneGLjd7cmu4V"
       },
@@ -9124,7 +9234,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 121237,
       "name": "Necklace",
       "url": "https://open.spotify.com/track/3laz4sIizXUqblhzGZpp9s"
@@ -9340,7 +9450,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 197913,
       "name": "Noor - The Undefined Beauty",
       "url": "https://open.spotify.com/track/1IcZ18e0mecKKt2rBa5zet"
@@ -13298,7 +13408,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 171333,
       "name": "VELIAAN NEH VEHL - UNSCRIPTED",
       "url": "https://open.spotify.com/track/7ECiQ9tnT4C3NQlq76ZAY4"

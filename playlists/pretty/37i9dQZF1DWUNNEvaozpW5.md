@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,559 likes - 120 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,648 likes - 120 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 119 | [Me Levantaré Otra Vez](https://open.spotify.com/track/2yEFajNz4fcD7x5xuDEDPe) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Me Levantaré Otra Vez](https://open.spotify.com/album/6sqhqh5E8IDXaK2LhwSvGu) | 3:04 |
 | 120 | [Chiquilla](https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [30 años de musica en TVE\. 1980\-2010](https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6) | 3:07 |
 
-Snapshot ID: `AAAAAJSmDRAxay6DLH6NVGCDdOhZyUXe`
+Snapshot ID: `AAAAAH3h+nafBP2gZvvjQPRrwjnHQTcz`

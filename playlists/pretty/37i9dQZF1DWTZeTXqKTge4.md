@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Rymz
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,633 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,632 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [AMBITION](https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS) | [Ultra Stellaire](https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI), [Chil\-p](https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK) | [AMBITION](https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3) | 2:42 |
 | 75 | [Jamais Faire](https://open.spotify.com/track/1xwtcVHOoBKJImvrpLTe0r) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Jamais Faire](https://open.spotify.com/album/27bZ7NbaNFPNZUA7usR0Dm) | 2:43 |
 
-Snapshot ID: `AAAAAAh1bKow03gvI02JxMfeSIIaXaFp`
+Snapshot ID: `AAAAAO3HMXuhYvlKRSyNoPlqw6rur6Ct`

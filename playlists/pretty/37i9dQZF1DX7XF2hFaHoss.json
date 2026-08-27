@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 155944,
+  "num_followers": 155942,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHhppe/P24WV+nnSlK3WbhYuDjAq",
+  "snapshot_id": "AAAAAGZ3zzNxhNO7wYO/I0XRpLEI96Vb",
   "tracks": [
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
+        "name": "Funeral for My Past",
+        "url": "https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8"
+      },
+      "artists": [
+        {
+          "name": "Liz Longley",
+          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "3 Crow",
+      "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
         "name": "Nothing We Say - EP",
         "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 241373,
       "name": "The Low Hum",
       "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
-        "name": "Funeral for My Past",
-        "url": "https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8"
-      },
-      "artists": [
-        {
-          "name": "Liz Longley",
-          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "3 Crow",
-      "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
     },
     {
       "added_at": "2026-03-08 15:34:05",

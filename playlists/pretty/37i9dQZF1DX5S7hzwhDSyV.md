@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the American songbook classics\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,653 likes - 125 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,705 likes - 125 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [It Might As Well Be Spring](https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 6:05 |
 | 125 | [Body And Soul](https://open.spotify.com/track/2pB7LHuDww7SJcYEoltfga) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 4:10 |
 
-Snapshot ID: `AAAAAL8LSwL/ZMvt9NG0Nag4PGqdKZsM`
+Snapshot ID: `AAAAALFEBSWAdZAeku+K8FEN/GZXS0co`

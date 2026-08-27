@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ciça e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,248 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,212 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [NOITES TRAIÇOEIRAS](https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 2:45 |
 | 50 | [Maldito Papel](https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:57 |
 
-Snapshot ID: `AAAAAA1yj2vwjb0B++iKTXGFUih+jPiU`
+Snapshot ID: `AAAAAMdzqLK7SK+4a4rlR3AUyyTm68aQ`

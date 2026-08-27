@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,262 likes - 74 songs - 4 hr 27 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,264 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 72 | [BAIT](https://open.spotify.com/track/2uVSAVSODR0UyYzIZG9AY7) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [BAIT](https://open.spotify.com/album/0HkWj6I4OOaAfAHuIciqBS) | 3:49 |
 | 73 | [Black Dress](https://open.spotify.com/track/4TYbC3ZCjA5tXAhClm0yUT) | [Jillian Ann](https://open.spotify.com/artist/4fUrsaEHtekVVwgtwHC7YA) | [When All is Said and Done](https://open.spotify.com/album/2cYhf6h2XPwRbUhiyeb4du) | 5:59 |
 | 74 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
+| 75 | [Fog of War](https://open.spotify.com/track/1dDx0yQRx5u28M1Fa6DvW9) | [Eric Mann](https://open.spotify.com/artist/35MK4HiXsP320WPxEPPFgk) | [Fog of War](https://open.spotify.com/album/270gN7ziKWO3OAU44OjohS) | 4:06 |
+| 76 | [Sometimes](https://open.spotify.com/track/7facdq3XjlGNKjETWq4D2S) | [SUNSHRD](https://open.spotify.com/artist/4Qhw3YVszSYCJ583d05fkV) | [Studio Session](https://open.spotify.com/album/1RXnxjw9ESq3zz9JMoonMM) | 3:55 |
 
-Snapshot ID: `AAAG3fOuwBENUpxRzZ41Oee4BPdmwXZc`
+Snapshot ID: `AAAG33vTbXEaPUzd6dAhhiS+dSm+wKxd`

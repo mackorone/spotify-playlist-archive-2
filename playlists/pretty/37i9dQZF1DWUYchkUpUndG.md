@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Victor Thompson and Snatcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,955 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,984 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Surrender](https://open.spotify.com/track/3tPOT1SWFjInfegOs0EXiK) | [Godwin King](https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [Surrender](https://open.spotify.com/album/5vH1Z8ktSsVQ6bB8Q99kYF) | 3:12 |
 | 100 | [I Like Me \(Cenematic Version\)](https://open.spotify.com/track/5xutMzrmPKoIsO0HVkF3Zp) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [I Like Me \(Cinematic Version\)](https://open.spotify.com/album/7vp81UHBeVKLWhwTMijGek) | 3:11 |
 
-Snapshot ID: `AAAAAIIydwM1G3gLoId+YRxcvBVoxIfP`
+Snapshot ID: `AAAAADmo8VYNgJk4lRXHmk056k/uZqOf`

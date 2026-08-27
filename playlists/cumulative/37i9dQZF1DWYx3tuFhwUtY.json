@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "B\u00fahoz",
+        "url": "https://open.spotify.com/album/7JKkjgm8vNYT8wEfYdszL0"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249965,
+      "name": "B\u00fahoz",
+      "url": "https://open.spotify.com/track/0Y51kMtxthFiCcLptmNpnm"
+    },
+    {
+      "album": {
         "name": "Melted",
         "url": "https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx"
       },
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 192186,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"

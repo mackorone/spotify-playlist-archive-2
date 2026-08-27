@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,352,637 likes - 200 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,352,659 likes - 200 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 95 | [Yellow](https://open.spotify.com/track/2A7UykFa7IwEFCIsj9zMUX) | [Brazil XXI](https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR), [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [Yellow](https://open.spotify.com/album/0ZOMiz7Hn2kTUAoQxy6bRW) | 3:14 |
 | 96 | [California](https://open.spotify.com/track/655KhyloE0FwV2wZV6Wwp5) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [California](https://open.spotify.com/album/7vU2YiuTYSb4D7mJS6sl7Z) | 2:48 |
 | 97 | [I'll Be Alright](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY) | [Magnus Gunn](https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi) | [I'll Be Alright](https://open.spotify.com/album/621vQENf53N8IYGxFashcT) | 3:02 |
-| 98 | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz), [DJ PRESS PLAY](https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT) | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH) | 2:40 |
+| 98 | [Weekends \(I Can Feel It\) \- DJ PRESS PLAY Remix](https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz), [DJ PRESS PLAY](https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT) | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH) | 2:40 |
 | 99 | [Not Giving You Up \- Vandelux Remix](https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Not Giving You Up \(Vandelux Remix\)](https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG) | 3:46 |
 | 100 | [Right Here Right Now](https://open.spotify.com/track/0VmDO2nRN4IHLrv3QdytjM) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Right Here Right Now](https://open.spotify.com/album/37cf4swrmVFgGIe22qQclJ) | 2:29 |
 | 101 | [Never Need](https://open.spotify.com/track/7wDo3yDdE2pzHrhutOAPc1) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Never Need](https://open.spotify.com/album/2HgyYQ84KQgRK7TiN92iNI) | 3:17 |
@@ -207,6 +207,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 197 | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm) | 3:59 |
 | 198 | [Stop Us Now](https://open.spotify.com/track/7lIQp87wKTaJNCn6BMOw9j) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/45eCC67dVHSsRuK3WKCXhO) | 2:13 |
 | 199 | [Bad Obsession](https://open.spotify.com/track/7mRzehs3auawQpljt3VeEj) | [Pablo Leo](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Lili Ana](https://open.spotify.com/artist/5bfoSoK5eksUCmoDrsNlQs) | [Bad Obsession](https://open.spotify.com/album/6zWJKxOpGWRnLkr916ZaM6) | 2:33 |
-| 200 | [Lost Without Your Love](https://open.spotify.com/track/6bFndneu95W7IbKRd0vr8S) | [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX), [Kimbo](https://open.spotify.com/artist/2Kb9FvBUAZE5fyXOMhxmOA) | [Lost Without Your Love](https://open.spotify.com/album/1gaSy9WO8DEiekbJ130SUc) | 2:21 |
+| 200 | [Fallin' In Love](https://open.spotify.com/track/2YDJCPY2OwX6j5pMUPUhY4) | [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Fallin' In Love](https://open.spotify.com/album/643BjQv5phRpMGFRKOBJ9K) | 2:38 |
 
-Snapshot ID: `AAAAAFXu0KPnuu3AolpHERsb0OVOYIZj`
+Snapshot ID: `AAAAACbg7KG/r3stGxTQ51xre/RoouHJ`

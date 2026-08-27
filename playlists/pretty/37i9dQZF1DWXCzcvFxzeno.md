@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,651 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,014 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 16 | [DON'T WANNA MISS THIS](https://open.spotify.com/track/0kEmoJeOPaIXVgRT0XREw0) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [DON'T WANNA MISS THIS](https://open.spotify.com/album/0lIyBi6BOkCAjFXGohyNm4) | 2:40 |
 | 17 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
 | 18 | [Stomp Your Feet](https://open.spotify.com/track/494lD6w8j07gDMub1UFd07) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Stomp Your Feet](https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT) | 3:30 |
-| 19 | [SHIVA](https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [SHIVA](https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u) | 3:40 |
+| 19 | [SHIVA](https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL) | [DJSM](https://open.spotify.com/artist/4UmMjWex1eyLKNFFhZ21sY), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [SHIVA](https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u) | 3:40 |
 | 20 | [MISS UUU](https://open.spotify.com/track/5IcNYYHZoMUiY76gEytsQF) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Unicorn on K](https://open.spotify.com/artist/4Y1vfB7DE2qneIPdgylsL8), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [MISS UUU](https://open.spotify.com/album/04v1SzpIpQNHvihl1HQgCF) | 2:59 |
 | 21 | [Crowd Operator](https://open.spotify.com/track/5I11zu7bajz0ctX3vYVML0) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Crowd Operator](https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo) | 3:45 |
 | 22 | [Dance In The Light](https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Dance In The Light](https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [Medication](https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm) | [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [Medication](https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL) | 3:58 |
 | 100 | [Desespera](https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Desespera](https://open.spotify.com/album/48xgfMVN4wbsiH10Amgnf1) | 5:26 |
 
-Snapshot ID: `AAAAADA6x9BA9DVoYUbjrajg/r2vOj4J`
+Snapshot ID: `AAAAAHTFIbYnNO0RdkKYHoyAdx3r3Aw3`

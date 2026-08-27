@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Cabron
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,513 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,511 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
 | 50 | [Scandal](https://open.spotify.com/track/1XaX10K3ed5guoy4sNgfTM) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Bahoi](https://open.spotify.com/artist/0amWfb7MqNPnGi4SdCucIj), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Scandal](https://open.spotify.com/album/2IDxe57SCMfEJqfX4Vssph) | 3:31 |
 
-Snapshot ID: `AAAAADvQJn/CCEhJQVpF9U1M4cC2dzZC`
+Snapshot ID: `AAAAAF+Cjgt05OSUHp5Wm0ZMdCKZ4tc8`

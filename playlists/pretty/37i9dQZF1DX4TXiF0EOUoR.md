@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡PUEEERTAAAAAAAAS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,538 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,572 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 124 | [El Capiro](https://open.spotify.com/track/42d9ExiLvYE8RLaPkVQimd) | [Banda Los Escamilla](https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE) | [Borracho 16 Exitos](https://open.spotify.com/album/0HiCVaa9wM6QTTHM3D6vMB) | 3:03 |
 | 125 | [La Guitarra de Lolo](https://open.spotify.com/track/13OHyNseYByEDHeRzO6sD2) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/1Ox5R02tG0QtL05vVa9yc9) | 3:18 |
 
-Snapshot ID: `AAAAADZhu1ebaKDeJhuOvLfnp4KZm9eU`
+Snapshot ID: `AAAAAGVtxW/2kE2VIyImhEBf5l5MNqwZ`

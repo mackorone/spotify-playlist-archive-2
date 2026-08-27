@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,379 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,380 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Hard Times \- Live](https://open.spotify.com/track/3WSOOKrJmKEG4TY34Mg1yb) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [At the Ryman \(Live\)](https://open.spotify.com/album/6QU3H8XFMeYIylEhEFmIIy) | 3:25 |
 | 100 | [Oh, Anna! \- Live from the Opry](https://open.spotify.com/track/2TvvudKzKJIhTPAjhTtfCo) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna! \(Live from the Opry\)](https://open.spotify.com/album/4DTQLzcwIych3iemPgt0li) | 4:24 |
 
-Snapshot ID: `AAAAAJQoSsgH57TPXi1DQ8LPyi/NdkZJ`
+Snapshot ID: `AAAAAIdYbKBekFJ6K0gn6M/Gt44AhvtY`

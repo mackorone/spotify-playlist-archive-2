@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,999 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,001 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 79 | [Rollercoaster](https://open.spotify.com/track/0e0rMDNx3D0xMgOAcZQ2rj) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Four Seasons \- Winter](https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA) | 2:11 |
 | 80 | [Bad Boyz](https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Goore](https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp), [Kretz](https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd) | [Bad Boyz](https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U) | 3:03 |
 
-Snapshot ID: `AAAAAICO+8YermLQEH5KBvfW+kZuYE7d`
+Snapshot ID: `AAAAAHKYGVuffEqKZxxmtUVT0pkIpqoS`

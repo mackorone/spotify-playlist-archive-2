@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,708 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,710 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Baby, Please Don't Go](https://open.spotify.com/track/7uhXMSCHj0eaW5VRB2jP1w) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burning Hell](https://open.spotify.com/album/0d4ojmPcmjmZKsiA4cKUDI) | 4:49 |
 | 50 | [I'm Bad Like Jesse James \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 5:31 |
 
-Snapshot ID: `aouJgAAAAADRGtqs1ek8g0q8bvTCGU9K`
+Snapshot ID: `aozbAAAAAAAnyZhygGxHZBawZcz4kWRo`

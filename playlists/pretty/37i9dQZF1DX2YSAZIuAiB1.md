@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,926 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,849 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Hypnotised](https://open.spotify.com/track/5iawRy8cHn1Fy2Huuv3z5Z) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [DESANGE](https://open.spotify.com/artist/6gfcPTIui30c8SHztFBnvd) | [Hypnotised](https://open.spotify.com/album/0sCOuGLCAcODXYkvdX8kvk) | 5:16 |
 | 75 | [Pik](https://open.spotify.com/track/08iibrRktksXAK6g1I34Bh) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Pik](https://open.spotify.com/album/0GkxzNFMEMkZj2HbjPjiIH) | 2:14 |
 
-Snapshot ID: `AAAAAIU0Ei44OXVUIOit/VB9bN0xqlpd`
+Snapshot ID: `AAAAAEr5BGSNUVg5IoWfbT0CJDD+Lhmp`

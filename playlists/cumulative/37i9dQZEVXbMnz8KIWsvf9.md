@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,387 songs - 3 day 9 hr 38 min
+1,388 songs - 3 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-24 | 2023-06-19 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-11 | 2022-01-13 |
-| [Blingy](https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [BLINGY \- The 7th Album](https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120) | 3:21 | 2026-08-25 |  |
+| [Blingy](https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [BLINGY \- The 7th Album](https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120) | 3:21 | 2026-08-25 | 2026-08-27 |
+| [Blingy](https://open.spotify.com/track/1sDnTmOcxJYeZx26MpJ1kg) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [BLINGY \- The 7th Album](https://open.spotify.com/album/15F7TMmAOkR9fK74bf0sUu) | 3:21 | 2026-08-26 |  |
 | [Bloody Paradise](https://open.spotify.com/track/0lkDoxNvtLUNZcWnm9f8lF) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS \(Chinese Ver.\)](https://open.spotify.com/album/7LhAjABx06c9Zf6yIEcA4N) | 2:11 | 2026-08-22 | 2026-08-24 |
 | [Bloody Paradise](https://open.spotify.com/track/5vlnF0r5xACeurZwjgn0Ij) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS \(Korean Ver.\)](https://open.spotify.com/album/0kldmusIh6a03fXZZvTcQi) | 2:11 | 2026-08-23 |  |
 | [Blow Your Mind \(feat\. Sik\-K, Bryan Chase\)](https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB) | [Yorch](https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw) | [Blow Your Mind](https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9) | 3:35 | 2026-05-30 | 2026-06-07 |
@@ -745,7 +746,7 @@
 | [SUGAR HONEY ICE TEA](https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SUGAR HONEY ICE TEA](https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC) | 2:58 | 2026-06-09 | 2026-06-17 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-28 | 2023-02-05 |
 | [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2022-09-12 | 2024-12-20 |
-| [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 | 2023-06-07 | 2026-08-26 |
+| [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 | 2023-06-07 |  |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2021-05-11 | 2022-07-03 |
 | [Sunset In Pattaya](https://open.spotify.com/track/3xAsJQO4g5ZBUL6U6k5CzW) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:29 | 2025-11-11 | 2026-08-07 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-08 | 2023-10-30 |
@@ -1269,7 +1270,7 @@
 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 | 2023-03-06 | 2025-11-28 |
 | [เด็กเกินไป \(Too Young\)](https://open.spotify.com/track/48qHdp4mhFenZIBhejBqGU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เด็กเกินไป \(Too Young\)](https://open.spotify.com/album/67cqHFhyafs48bApZD1xZW) | 3:46 | 2023-05-05 | 2023-05-23 |
 | [เทคะแนน \(CANDIDATE\)](https://open.spotify.com/track/4UgAVgYNBahclsbXTbP3Xn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เทคะแนน \(CANDIDATE\) \- Single](https://open.spotify.com/album/25MlWfSLmLz4bXUoSHdKMj) | 3:09 | 2024-03-12 | 2024-03-23 |
-| [เธอ](https://open.spotify.com/track/3HlTt5df6OrvtwTvO6iFla) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [the lords of misery](https://open.spotify.com/album/2Sskpd9faVmGlfLaRpq4C2) | 4:26 | 2026-06-25 |  |
+| [เธอ](https://open.spotify.com/track/3HlTt5df6OrvtwTvO6iFla) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [the lords of misery](https://open.spotify.com/album/2Sskpd9faVmGlfLaRpq4C2) | 4:26 | 2026-06-25 | 2026-08-27 |
 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/4Yg2lUUPVk9oqbR4ubQ6BU) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 4:12 | 2023-09-17 | 2024-02-20 |
 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 | 2023-09-11 | 2023-09-18 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2023-04-29 | 2023-12-13 |

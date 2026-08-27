@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-3,044 songs - 6 day 14 hr 19 min
+3,046 songs - 6 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-05-24 | 2021-06-05 |
 | [100](https://open.spotify.com/track/0n1QYqFJHL1OqG7lB3b8Vd) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [100](https://open.spotify.com/album/1MXCv3dM79ueLAnN0xnVdQ) | 2:15 | 2022-10-29 | 2022-10-31 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-05 | 2023-02-19 |
-| [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-23 |  |
+| [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-23 | 2026-08-27 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-08-12 | 2025-08-24 |
 | [130622 REC](https://open.spotify.com/track/30qQMtkwMQqDhXcaixzYA9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [REC 130622](https://open.spotify.com/album/6vkvjIiODcebikj3TrCBVZ) | 3:47 | 2022-05-15 | 2022-05-29 |
 | [17](https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [17](https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi) | 2:31 | 2023-05-06 | 2023-07-23 |
@@ -1422,6 +1422,7 @@
 | [John Snow](https://open.spotify.com/track/6fulMfMC4B5S52YaAhdnmF) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Handen Under Mona Lisas Kjol \(PT:1\)](https://open.spotify.com/album/4pLkHKKCpechDpqhW439gJ) | 2:00 | 2023-12-29 | 2025-01-20 |
 | [JOKER](https://open.spotify.com/track/7a802vreAOcKkK8JLT4KFD) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [JOKER](https://open.spotify.com/album/7JFn8WQbABOPZcOWHyukRk) | 3:30 | 2021-10-10 | 2021-10-23 |
 | [JOLENE](https://open.spotify.com/track/1VxEaXbIq3xAvqh80xP67w) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:09 | 2024-03-30 | 2024-04-12 |
+| [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 | 2026-08-26 |  |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-04 |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-06-21 | 2026-06-24 |
 | [Josefin](https://open.spotify.com/track/5LDi79YkHmZ1vRLMlyNlNH) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/6Berl5qBDpBAksUykxTT4v) | 3:41 | 2023-07-22 | 2026-07-20 |
@@ -2054,7 +2055,7 @@
 | [Pierroo](https://open.spotify.com/track/3R8R5KFhnCsNk1i5XEEbL9) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Pierroo](https://open.spotify.com/album/3amKSCNRWVk7tSdPhKpRRh) | 2:15 | 2025-07-19 | 2025-07-23 |
 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-17 | 2026-06-30 |
 | [Pilé](https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt\. 1](https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR) | 2:36 | 2026-06-29 | 2026-07-27 |
-| [Pilé \- Gospel](https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kano Choir](https://open.spotify.com/artist/2i04Yoaa4wV8J75w8aPX1G) | [Pilé \(Gospel\)](https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq) | 2:03 | 2026-06-16 |  |
+| [Pilé \- Gospel](https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kano Choir](https://open.spotify.com/artist/2i04Yoaa4wV8J75w8aPX1G) | [Pilé \(Gospel\)](https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq) | 2:03 | 2026-06-16 | 2026-08-27 |
 | [Piom Piom](https://open.spotify.com/track/42Bk0IZjFrgl5sm5awOgEp) | [Blocboi](https://open.spotify.com/artist/5MiM37HIIFFu7AKpJR1281) | [Piom Piom](https://open.spotify.com/album/4MqpzA6YuugQgPyjEJUNhZ) | 2:42 | 2025-11-19 | 2025-11-21 |
 | [Pippi](https://open.spotify.com/track/1U0kSgjv4BgjLwtsEA2UkU) | [Young Gz](https://open.spotify.com/artist/43c4NSawi5xblqL9gxgkEU) | [Flawless 2.0](https://open.spotify.com/album/4Wl3s9Phjfm8996MMaaQ9w) | 2:45 | 2023-01-28 | 2023-01-30 |
 | [Pistol \- Spotify Singles](https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Pistol \- Spotify Singles](https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj) | 3:38 | 2023-10-21 | 2023-10-24 |
@@ -2640,6 +2641,7 @@
 | [The Fate of Ophelia](https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:46 | 2025-10-09 | 2025-10-12 |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-04 | 2025-10-06 |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-05 | 2026-07-11 |
+| [The FUCKING Lundells](https://open.spotify.com/track/4yRZ0w0JBFQbEEXcS5lfNT) | [Samir Badran](https://open.spotify.com/artist/3qYiG2OKLj2WAKQVdIbigB), [Johanna Öholm](https://open.spotify.com/artist/4LHTjIZVPpalT5jxbefMrN) | [The FUCKING Lundells](https://open.spotify.com/album/3yOtzj5cIKXqSDm7emzvkc) | 2:22 | 2026-08-26 |  |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-15 | 2025-03-17 |
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-31 | 2026-02-02 |
 | [The Heart of a Swedish Cowboy](https://open.spotify.com/track/3ek8sw5KyKxKVYz3HpeUpP) | [Fredrik Lundman](https://open.spotify.com/artist/6wAyoT7d2NrEWUcG2IbN23) | [The Heart of a Swedish Cowboy](https://open.spotify.com/album/64ZB308h9L9tftw2vMDULw) | 3:02 | 2025-02-10 | 2025-03-11 |

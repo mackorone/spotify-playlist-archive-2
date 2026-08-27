@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 35371,
+  "num_followers": 35379,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOsq8pyhUQvOZq/gkejIpcdyB2Pv",
+  "snapshot_id": "AAAAAO5k5IurXrec3JH2eCieCY3D4mss",
   "tracks": [
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
-        "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Oscar Isaac",
-          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
-        }
-      ],
-      "duration_ms": 198430,
-      "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
-      "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+        "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Oscar Isaac",
+          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
+        }
+      ],
+      "duration_ms": 198430,
+      "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+      "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
     },
     {
       "added_at": "2026-06-17 15:34:50",

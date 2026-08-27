@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 
 > mykonos season is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,877 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,891 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 | 99 | [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 |
 | 100 | [Wherever You Are](https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Wherever You Are](https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG) | 3:16 |
 
-Snapshot ID: `AAAAAIf0APEZ7E4dKQga1Nz9Gq6W9TKr`
+Snapshot ID: `AAAAAFRD9n2YhV+Ec2W29wbWoQlSbBk1`

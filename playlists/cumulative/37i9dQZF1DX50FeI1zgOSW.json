@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 161104,
       "name": "Back To The Roots",
       "url": "https://open.spotify.com/track/346aABQohca53F3M3bJJJc"
@@ -7600,6 +7600,24 @@
       "duration_ms": 183000,
       "name": "Keralanaadu",
       "url": "https://open.spotify.com/track/2e9r8KeXV1PruDr75dw1bj"
+    },
+    {
+      "album": {
+        "name": "Ketta Vibe",
+        "url": "https://open.spotify.com/album/1iv0RyS6eYA6YGCdjILB2Z"
+      },
+      "artists": [
+        {
+          "name": "Deepak Naraen",
+          "url": "https://open.spotify.com/artist/2VzafWmNs54vqKyQ79iPIM"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ketta Vibe",
+      "url": "https://open.spotify.com/track/7wLdzJrBiHLTXzU9dqKlY4"
     },
     {
       "album": {

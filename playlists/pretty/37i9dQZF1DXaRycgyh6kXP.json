@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 294418,
+  "num_followers": 294468,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHp30ceZe+KrDP6lDcenBsF4BpH",
+  "snapshot_id": "AAAAAOeOtY35RErZS3h0HtwznY5vKVAy",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Anything In Return",
-        "url": "https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Sam Herring",
+          "url": "https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS"
         }
       ],
-      "duration_ms": 285036,
-      "name": "So Many Details",
-      "url": "https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I"
+      "duration_ms": 273866,
+      "name": "Time Moves Slow",
+      "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
     }
   ],
   "unique_name": "Electronica Romantica",

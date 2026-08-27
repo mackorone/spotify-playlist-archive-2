@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 97661,
+  "num_followers": 97704,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPBAqDh3fmoVX0h8qQXA5hXFWpdU",
+  "snapshot_id": "AAAAADkD4L8hPPuxUNwXUOJx+o5c27tn",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:32",
@@ -541,7 +541,7 @@
         }
       ],
       "duration_ms": 394587,
-      "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 (En Vivo)",
+      "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S"
     },
     {
@@ -853,7 +853,7 @@
         }
       ],
       "duration_ms": 1191237,
-      "name": "Flor De Lim\u00f3n / Te Llegar\u00e1 Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante (En Vivo)",
+      "name": "Flor De Lim\u00f3n / Te Llegar\u00e1 Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante - En Vivo",
       "url": "https://open.spotify.com/track/0rvBiev8PnkB3lwnFLmRuI"
     },
     {
@@ -941,7 +941,7 @@
         }
       ],
       "duration_ms": 500235,
-      "name": "Brebaje / Recuerdos De Una Noche (En Vivo)",
+      "name": "Brebaje / Recuerdos De Una Noche - En Vivo",
       "url": "https://open.spotify.com/track/3b5H0MyNMs7wtijEgnBl1M"
     },
     {
@@ -1109,7 +1109,7 @@
         }
       ],
       "duration_ms": 580430,
-      "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos (En Vivo)",
+      "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos - En Vivo",
       "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
     },
     {
@@ -1349,7 +1349,7 @@
         }
       ],
       "duration_ms": 195541,
-      "name": "La Venganza De Tina (En Vivo)",
+      "name": "La Venganza De Tina - En Vivo",
       "url": "https://open.spotify.com/track/30ny6TIdHONtE26rgEJpkw"
     },
     {
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Reyes Empresarios",
-        "url": "https://open.spotify.com/album/1Uybd97C7Fm2Cc6Fay2iKJ"
-      },
-      "artists": [
-        {
-          "name": "El Cejas y Su Banda Fuego",
-          "url": "https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2"
-        }
-      ],
-      "duration_ms": 260039,
-      "name": "El Huizache",
-      "url": "https://open.spotify.com/track/1ivDyhFw1sorpxXUzbgFvX"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Monarcas 2018",
         "url": "https://open.spotify.com/album/6T7bhldD2jlBePRIaHh8n2"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 196906,
       "name": "Un D\u00eda de Rey Otro de Wey",
       "url": "https://open.spotify.com/track/1XgvlEvmIfyenmpYdlZ0J4"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Reyes Empresarios",
+        "url": "https://open.spotify.com/album/1Uybd97C7Fm2Cc6Fay2iKJ"
+      },
+      "artists": [
+        {
+          "name": "El Cejas y Su Banda Fuego",
+          "url": "https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2"
+        }
+      ],
+      "duration_ms": 260039,
+      "name": "El Huizache",
+      "url": "https://open.spotify.com/track/1ivDyhFw1sorpxXUzbgFvX"
     },
     {
       "added_at": "2026-07-24 06:00:32",

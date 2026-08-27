@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rosh
 
-712 songs - 1 day 16 hr 19 min
+713 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Chandiranaaduva](https://open.spotify.com/track/60NVF5PynQBRLuwIgJFh8Y) | [Rosh](https://open.spotify.com/artist/48DR3KgemVdJeBrzZPSzPp) | [Chandiranaaduva](https://open.spotify.com/album/2FjEr1n6soBb5LVgv5lCc6) | 2:58 | 2026-08-13 |  |
 | [Charged Up](https://open.spotify.com/track/5OBsXBUxcpLGUuBsDNLq6D) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Charged Up](https://open.spotify.com/album/4udiyEwX8oKNTjnfa8leQx) | 3:11 | 2026-08-06 |  |
 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 | 2023-08-31 | 2024-03-15 |
+| [Chik Papu](https://open.spotify.com/track/7EykJbMQZWlQgJQHEKhGj1) | [Nan Sachin](https://open.spotify.com/artist/4IQyA9noiCTuptGN9RxLP1), [Vishruth](https://open.spotify.com/artist/5KJg2mTWo62N59wRo4c26k), [Filin](https://open.spotify.com/artist/5g1QfSKIbXn3o2TKvcuYb2) | [Chik Papu](https://open.spotify.com/album/6hmWnPYL0Qdb0QHxR9CNam) | 2:35 | 2026-08-26 |  |
 | [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 | 2024-03-06 |
 | [Chill Madale](https://open.spotify.com/track/42ZcXFhPyt4DH9jsELRYWh) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq) | [Chill Madale](https://open.spotify.com/album/23pxYZmTU9sQopSbSJE02w) | 3:40 | 2025-09-29 | 2026-02-25 |
 | [Chill Madu Maga](https://open.spotify.com/track/7JncE2mHoMdPipbAVGTeXZ) | [Suprith Nayak Official](https://open.spotify.com/artist/03zw6bTAA8lSfj1wJR8PMn) | [Chill Madu Maga](https://open.spotify.com/album/4aHx6I6Kp3Y2U1788IxFQ8) | 3:00 | 2025-07-07 | 2026-01-15 |
@@ -173,7 +174,7 @@
 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 | 2023-07-14 |
 | [En Anthira](https://open.spotify.com/track/4ri4RGGpeNd7ZlbPVHEtX8) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [En Anthira](https://open.spotify.com/album/2Zl9D0MjkLy20kAjAlP6EW) | 2:55 | 2024-05-13 | 2024-12-20 |
 | [Enagide Nanna Hrudaya](https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS), [Sharath KN](https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb), [Shwetha Guru](https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1) | [Enagide Nanna Hrudaya](https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK) | 5:54 | 2023-12-22 | 2024-06-12 |
-| [Enéno Aase](https://open.spotify.com/track/13EPhdmnXGNtxtdorPMGkU) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Enéno Aase](https://open.spotify.com/album/2BfYdK8TimSbXX0AIt3Jw8) | 3:15 | 2026-01-16 |  |
+| [Enéno Aase](https://open.spotify.com/track/13EPhdmnXGNtxtdorPMGkU) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Enéno Aase](https://open.spotify.com/album/2BfYdK8TimSbXX0AIt3Jw8) | 3:15 | 2026-01-16 | 2026-08-27 |
 | [Enéno Aase \(Dubstep Remix\)](https://open.spotify.com/track/1dVIYUeBMRBkfiXFctcbMn) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Enéno Aase \(Dubstep Remix\)](https://open.spotify.com/album/6pqNjGsP8ooFCCz0FEtyEM) | 3:51 | 2026-06-19 |  |
 | [EVERYTHING](https://open.spotify.com/track/4qGinE4ZrCOLKwTLTRly5A) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [EVERYTHING](https://open.spotify.com/album/6AD50kjpIxCdruzfbQctE5) | 4:00 | 2025-03-26 | 2025-08-27 |
 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 | 2023-06-12 | 2024-02-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 109691,
+  "num_followers": 109743,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+wug5jJczUtOGXEJz5a87Gv+dA",
+  "snapshot_id": "AAAAAFjK83U+hIXFu2o8orGJYoEEhPqS",
   "tracks": [
     {
       "added_at": "2022-09-02 08:32:31",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Premam",
-        "url": "https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        }
-      ],
-      "duration_ms": 309662,
-      "name": "Evare",
-      "url": "https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe"
-    },
-    {
       "added_at": "2021-05-18 09:57:44",
       "album": {
         "name": "Son Of Satyamurthy",
@@ -895,6 +879,22 @@
       "duration_ms": 262488,
       "name": "Seethakaalam",
       "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Premam",
+        "url": "https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe"
+      },
+      "artists": [
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        }
+      ],
+      "duration_ms": 309662,
+      "name": "Evare",
+      "url": "https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Pokiri",
-        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
+        "name": "Mahanati",
+        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
       },
       "artists": [
         {
-          "name": "Nihal",
-          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
         }
       ],
-      "duration_ms": 273769,
-      "name": "Gala Gala Paruthunna",
-      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
+      "duration_ms": 197589,
+      "name": "Sada Nannu",
+      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Mahanati",
-        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
+        "name": "Pokiri",
+        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
       },
       "artists": [
         {
-          "name": "Charulatha Mani",
-          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+          "name": "Nihal",
+          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
         }
       ],
-      "duration_ms": 197589,
-      "name": "Sada Nannu",
-      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
+      "duration_ms": 273769,
+      "name": "Gala Gala Paruthunna",
+      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
+        "name": "Neeve",
+        "url": "https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "duration_ms": 307335,
+      "name": "Neeve",
+      "url": "https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
         "name": "Nuvvu Nenu Prema",
         "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 354368,
       "name": "Preminche Premava",
       "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Neeve",
-        "url": "https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 307335,
-      "name": "Neeve",
-      "url": "https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP"
     }
   ],
   "unique_name": "Mellow Telugu",

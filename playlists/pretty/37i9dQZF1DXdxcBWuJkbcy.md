@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,828,178 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,827,956 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [ALL THE TIME](https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [ALL THE TIME](https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy) | 3:00 |
 | 80 | [La Révolution](https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Révolution](https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU) | 2:12 |
 
-Snapshot ID: `AAAAAPh11Oc3D/Xa/M3NcYDo4VvqkiDg`
+Snapshot ID: `AAAAANU/gmHssRIsQ1jxfxISW4dVpMSo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,366,973 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,367,458 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [C'Mon wit da Git Down](https://open.spotify.com/track/3MnwLa9KRUiv2gNFtWPvib) | [Artifacts](https://open.spotify.com/artist/4hz8ohK9ESaFbJBAXvWJGL) | [Between A Rock And A Hard Place](https://open.spotify.com/album/0x4ZQDTaX3vyqP8ZCd4BcE) | 4:04 |
 | 100 | [Guess Who's Back](https://open.spotify.com/track/5czjjnbTatyFal33a9h1aN) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 4:10 |
 
-Snapshot ID: `AAAAAMYs2k2PwE+UBVhhy22QNfj1DOpe`
+Snapshot ID: `AAAAAM0ADfI/J7/E5KGxcPjp7vIKKopT`

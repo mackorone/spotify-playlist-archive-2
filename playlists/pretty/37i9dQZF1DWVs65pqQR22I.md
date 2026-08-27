@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs65pqQR22I.md) - [plain]
 
 > Dark noise to keep you sharp and focused during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,135 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,176 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs65pqQR22I.md) - [plain]
 | 99 | [Seraphic Equilibrium \- Black Noise](https://open.spotify.com/track/7IYEFcq06tIyv3y7enDrIC) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Dark Tranquility \(Black Noise\)](https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe) | 2:52 |
 | 100 | [Black Noise Medicine](https://open.spotify.com/track/3ErI5QWiPygevXOeeXntOO) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [Black Noise Detox](https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1) | 3:15 |
 
-Snapshot ID: `AAAAALTanQYSCbVAlj8uzWm3eUox1U0Q`
+Snapshot ID: `AAAAAPQ7Ij5AEFE8euZ0+xwG1Z52dAQx`

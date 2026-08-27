@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Boost your energy with these dance tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,484,530 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,623 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 93 | [Get Get Down](https://open.spotify.com/track/69A01pYY2LORH0xJkYWL2d) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/0qoUP2macMRqlJX8814yYs) | 4:17 |
 | 94 | [Destiny](https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Destiny](https://open.spotify.com/album/0nU3kBbCtjjOXY4mQXK4Pc) | 3:33 |
 | 95 | [SO HYPE](https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6) | [MAXARKA](https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv) | [SO HYPE](https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp) | 2:55 |
-| 96 | [CELEBRATION \(Sara Landry Remix\)](https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CELEBRATION \(Sara Landry Remix\)](https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq) | 4:21 |
+| 96 | [CELEBRATION \- Sara Landry Remix](https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CELEBRATION \(Sara Landry Remix\)](https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq) | 4:21 |
 | 97 | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n) | 2:59 |
 | 98 | [Can't Say Nah \(feat\. Benni Ola\)](https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Can't Say Nah \(feat\. Benni Ola\)](https://open.spotify.com/album/0AuEj2bM9gDOf4tNzBpOjW) | 3:13 |
 | 99 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
 | 100 | [Under My Skin](https://open.spotify.com/track/7u22oeSTEQeQhV8JsRqUTs) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [StarDisc](https://open.spotify.com/album/1GbRmGKyMKNf3ORr4Hhvc5) | 4:36 |
 
-Snapshot ID: `AAAAAMNl+QRt44KnD3D1XWf4n96WEJrF`
+Snapshot ID: `AAAAAFszQAHLP+Vy0mSPemzWQ67ZAoF+`

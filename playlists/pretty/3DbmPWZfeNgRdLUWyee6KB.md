@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 136 songs - 7 hr 58 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,329 likes - 139 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 134 | [Long Way Back](https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Long Way Back](https://open.spotify.com/album/69LFgCAV86GGkkVkBABtTG) | 3:52 |
 | 135 | [Don't Grow Sick of Me](https://open.spotify.com/track/0OCiuKDpVghgWWg5r6T5Jt) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD) | 3:12 |
 | 136 | [Believe What You Like](https://open.spotify.com/track/4rxuvpHj7VrTkjB329rnR6) | [Alice Boxall](https://open.spotify.com/artist/29IFhoHDHGm7gfupUdOCkD) | [Believe What You Like](https://open.spotify.com/album/0L29Rt5YtUiTib2IhiP958) | 3:46 |
+| 137 | [Dancing In The Rain](https://open.spotify.com/track/31sR1cj2zUun40FoeJ4TdF) | [Zachary Friederich](https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk) | [Till The Embers Are All That Remain](https://open.spotify.com/album/3yZg7DR89kvcPUvMZbaxFR) | 4:10 |
+| 138 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 |
+| 139 | [I Want You to Have His Child](https://open.spotify.com/track/43mFN59dUNwEvInNoesgLQ) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [I Want You to Have His Child](https://open.spotify.com/album/0hVr79M7UOi35HI8OieMUn) | 3:19 |
 
-Snapshot ID: `AAAXQhmHYbnN9bFEvFeHR7HOs5L7xcAR`
+Snapshot ID: `AAAXRdAcFmwatpQzJnyhDPyemCVUnyhP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Joseph Kamel x Vitaa, Tayc, Sam Smith et Gradur au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,114 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,086 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 64 | [Love Beats Hate](https://open.spotify.com/track/7Favb8g2OPJq3U3LtCehLG) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Love Beats Hate](https://open.spotify.com/album/4fp5FIZI0pbwTvxFEanVYg) | 5:21 |
 | 65 | [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 |
 
-Snapshot ID: `AAAAALYHX3KxeZsWw1wNbGyF0Lu8DAHj`
+Snapshot ID: `AAAAAFC9nqv6LxDg4f7gJLd7n9DsIu21`

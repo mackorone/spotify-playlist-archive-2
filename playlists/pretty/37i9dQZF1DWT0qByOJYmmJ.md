@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,826 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,788 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 76 | [Cupido \- Acústico](https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cupido \(Acústico\)](https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d) | 3:16 |
 | 77 | [AMOR O PAZ](https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [AMOR O PAZ](https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5) | 4:10 |
 | 78 | [Pensamientos](https://open.spotify.com/track/1gV85meLWo6kDR78DhVl9p) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Edoardo Leds](https://open.spotify.com/artist/5z2v7F21UQXrFvKjrvXOqf), [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Pensamientos](https://open.spotify.com/album/40DH5E7Qxv3Z2hDcvyf1kw) | 3:15 |
-| 79 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 |
-| 80 | [Deja Que Me Duela \(D\. Q\. M\. D.\) \- Cap.5](https://open.spotify.com/track/21Ebz1yXTtWQQLFFX45bmz) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Deja Que Me Duela \(D\. Q\. M\. D.\) \- Cap.5](https://open.spotify.com/album/3zqY9PDGsDWS2zSbK1LVbV) | 3:46 |
+| 79 | [Deja Que Me Duela \(D\. Q\. M\. D.\) \- Cap.5](https://open.spotify.com/track/21Ebz1yXTtWQQLFFX45bmz) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Deja Que Me Duela \(D\. Q\. M\. D.\) \- Cap.5](https://open.spotify.com/album/3zqY9PDGsDWS2zSbK1LVbV) | 3:46 |
+| 80 | [Alma](https://open.spotify.com/track/4ntfDDzYtwkw2NdStMTrER) | [Gus Vazquez](https://open.spotify.com/artist/02ZQCHMjjOq0naJ8M4e5XZ) | [Alma](https://open.spotify.com/album/7qlpuc4FbwRwUgAbCe8XsD) | 2:28 |
 
-Snapshot ID: `AAAAAIYBc6cXnlBhvdXNMv5qP6Y+QaBV`
+Snapshot ID: `AAAAAGW5Jid9/xiAoA3PCoDrdNeh6e3u`

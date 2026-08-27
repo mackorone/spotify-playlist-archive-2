@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Billboard Style",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Twisted Teens",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 206204,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/1Y9Nu5Jzuf1CKFOY4x7jCU"
@@ -4860,7 +4860,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 259746,
       "name": "Blood In The Grass",
       "url": "https://open.spotify.com/track/2nlEX8fXYLqBHrMVGlME7A"
@@ -9994,6 +9994,24 @@
       "duration_ms": 212355,
       "name": "Dead Plants",
       "url": "https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC"
+    },
+    {
+      "album": {
+        "name": "Dead shark II",
+        "url": "https://open.spotify.com/album/39aaHjknAVRgLc65McEkyX"
+      },
+      "artists": [
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/52xprCZw3i5T0Ll5wEILNF"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138695,
+      "name": "Dead shark II",
+      "url": "https://open.spotify.com/track/55d7kEkDm2PL5vK2Rq5ObV"
     },
     {
       "album": {
@@ -24017,6 +24035,24 @@
     },
     {
       "album": {
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/1IwlBRZetKs4wlUn4Ydxti"
+      },
+      "artists": [
+        {
+          "name": "Sour Widows",
+          "url": "https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/5j7oH0XVQGwaDF5wkqf9LK"
+    },
+    {
+      "album": {
         "name": "Lucky You",
         "url": "https://open.spotify.com/album/0fBqr043kzBtPLdorWFQNt"
       },
@@ -24558,6 +24594,24 @@
       "duration_ms": 127647,
       "name": "meet me in the bathroom",
       "url": "https://open.spotify.com/track/18boMClJ65NB9SOVggZlTY"
+    },
+    {
+      "album": {
+        "name": "Meetings",
+        "url": "https://open.spotify.com/album/3puuppnKghusvLsDzcJvEU"
+      },
+      "artists": [
+        {
+          "name": "TVOD",
+          "url": "https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140995,
+      "name": "Meetings",
+      "url": "https://open.spotify.com/track/24kld4AJX5lPrenmK8Juc6"
     },
     {
       "album": {
@@ -26096,6 +26150,24 @@
       "duration_ms": 236600,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5U9OgHr0rMzbJZlSCiodw0"
+    },
+    {
+      "album": {
+        "name": "My Rage",
+        "url": "https://open.spotify.com/album/0U1ArlLvgo1klv52NzF6Jk"
+      },
+      "artists": [
+        {
+          "name": "Classic Traffic",
+          "url": "https://open.spotify.com/artist/7CdyFS6LzW6uzjsY6vjKWH"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178045,
+      "name": "My Rage",
+      "url": "https://open.spotify.com/track/4eYMrUfD9DevQwdjFNm4YL"
     },
     {
       "album": {
@@ -28118,6 +28190,24 @@
       "duration_ms": 223133,
       "name": "Online Store",
       "url": "https://open.spotify.com/track/4sxsDA3g59bXXfmHyG0Q6r"
+    },
+    {
+      "album": {
+        "name": "Only Good At Being Young",
+        "url": "https://open.spotify.com/album/72U2Z2GbbyKwfOkh9xzK2U"
+      },
+      "artists": [
+        {
+          "name": "Patrick Martin",
+          "url": "https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Only Good At Being Young",
+      "url": "https://open.spotify.com/track/5NgdrIHwbohoCmeuzoYmbD"
     },
     {
       "album": {
@@ -32604,7 +32694,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 190267,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/1HKTS1MCtokxqYbPUAYMzt"
@@ -35080,7 +35170,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 189642,
       "name": "Spacey",
       "url": "https://open.spotify.com/track/0iIvDVbTgFV8a06FiVSjxO"
@@ -38796,7 +38886,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 158981,
       "name": "The Sound It Made",
       "url": "https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ"
@@ -39434,6 +39524,24 @@
       "duration_ms": 185357,
       "name": "Time Waits For No One",
       "url": "https://open.spotify.com/track/00beumJvWXLMa9z7xNsxYk"
+    },
+    {
+      "album": {
+        "name": "Tinted View",
+        "url": "https://open.spotify.com/album/1mO7scS0cxbRLisZgR1pSc"
+      },
+      "artists": [
+        {
+          "name": "untitled",
+          "url": "https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288158,
+      "name": "Tinted View",
+      "url": "https://open.spotify.com/track/1RPGV76DZulMZ5cgBNwtAZ"
     },
     {
       "album": {
@@ -41686,7 +41794,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 137750,
       "name": "Wet Brain",
       "url": "https://open.spotify.com/track/0hGvkifKlk8MbqrhQloipy"

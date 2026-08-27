@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,256 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,254 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 70 | [エンドレスヴィーデ \- Game Edit](https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY) | [フラタニティ/氷鷹 北斗\(CV.前野 智昭\)、朱桜 司\(CV.土田 玲央\)、朔間 零\(CV.増田 俊樹\)、斎宮 宗\(CV.高橋 広樹\)、天城 燐音\(CV.阿座上 洋平\)](https://open.spotify.com/artist/5bPtVx4Mln56ZipwGTI0ZP) | [あんさんぶるスターズ！！ フラタニティ「エンドレスヴィーデ」 \(Game Edit\)](https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv) | 2:12 |
 | 71 | [Majestic Magic](https://open.spotify.com/track/2P4TXa4KdnxJZN8CThBMGk) | [Switch ✕ Eden/逆先 夏目\(CV.野島 健児\)、青葉 つむぎ\(CV.石川 界人\)、春川 宙\(CV.山本 和臣\)、乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)、七種 茨\(CV.逢坂 良太\)、漣 ジュン\(CV.内田 雄馬\)](https://open.spotify.com/artist/2aZwkjXpKAKm5Mszh7uNDo) | [Switch ✕ Eden「Majestic Magic」 あんさんぶるスターズ！！ FUSION UNIT SERIES 01](https://open.spotify.com/album/6hm5BKEBt63N5fLqnaV45V) | 4:13 |
 | 72 | [EXCEED](https://open.spotify.com/track/38GxLG5AHziQ9ho4Qel0Vg) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [Eden「EXCEED」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr) | 3:50 |
-| 73 | [Romantic Xday!](https://open.spotify.com/track/1y6DVlLnYmNg5shSlLxKyo) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 3:44 |
+| 73 | [幸せの歌](https://open.spotify.com/track/6qu4fgyaEmfv4Pw1CHpjmX) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 4:50 |
 | 74 | [想ひ出綴り](https://open.spotify.com/track/6BQdFfLJfOg98p3EVAsUIS) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！ アルバムシリーズ 紅月](https://open.spotify.com/album/2n2oBQlnhZm1CSS2SUp2SY) | 4:33 |
 | 75 | [Swee2wink Love Letter](https://open.spotify.com/track/0pi8djDltXS8pPXpgQHkGa) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [2wink「Swee2wink Love Letter」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5Pmd4CEBY1s8cturrRi49z) | 3:44 |
 
-Snapshot ID: `AAAAADkDzc0MBEQICIcTFTwhonMJLTBZ`
+Snapshot ID: `AAAAAH0uMYxXdqMY//Yes2ChmXZ/sit3`

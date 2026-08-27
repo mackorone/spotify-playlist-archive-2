@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,344 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,363 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [El Camino De Mi Alma](https://open.spotify.com/track/6Jfpv3vvfobay7uYVxWXog) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Camino De Mi Alma](https://open.spotify.com/album/1drg7Khmc8lZML5biWWtjY) | 6:01 |
 | 100 | [2 Canciones mexicanas \(Version for Guitar\): No\. 2, Estrellita](https://open.spotify.com/track/7xjB07oDrnC4e2sQjfbAqR) | [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Gorgeous Guitar: Best Loved Classical Guitar Music](https://open.spotify.com/album/6oSy78tFxjggVUnycHOSov) | 2:24 |
 
-Snapshot ID: `AAAAAJwDYdDXB11tFVga40M2ae/Z+VYZ`
+Snapshot ID: `AAAAAOZGLDGvjbRW9njGHbieylHpzEUf`

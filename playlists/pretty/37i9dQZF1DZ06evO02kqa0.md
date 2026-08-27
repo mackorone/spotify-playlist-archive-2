@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,882 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,879 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 49 | [Verdi: Rigoletto, Act 1: "Gualtier Maldè… Caro nome" \(Gilda, Borsa, Ceprano, Marullo\)](https://open.spotify.com/track/7HonfcsYMRIkEiPI4sTZMU) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Carlo Forti](https://open.spotify.com/artist/7eZ8s8pQKR0bW7zCMzI5L8), [Coro Del Teatro Alla Scala Di Milano](https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla), [Renato Ercolani](https://open.spotify.com/artist/573mV4UYh7nevzAxYshm1I), [William Dickie](https://open.spotify.com/artist/6t9tn943Zw5EK2vnf5LY84), [Tullio Serafin](https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57) | [The Very Best of Maria Callas](https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb) | 7:35 |
 | 50 | [Rossini: La Cenerentola, Act 2: "Nacqui all'affanno, al pianto" \- "Non più mesta" \(Cenerentola\)](https://open.spotify.com/track/2KMReCxJhT1Fu8VmO1rbF1) | [Gioacchino Rossini](https://open.spotify.com/artist/7f5wJNknfAbvVtXW5zou4h), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Nicola Rescigno](https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v), [Orchestre De La Société Des Concerts Du Conservatoire](https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP) | [Callas sings Rossini & Donizetti Arias \- Callas Remastered](https://open.spotify.com/album/0ct04X26YKjbPrmwQdMmp6) | 6:22 |
 
-Snapshot ID: `aouJgAAAAABYPFuNdE7FZaa2Zan+/B74`
+Snapshot ID: `aozbAAAAAACwEgIt5qnI8iWwcvJ0+01F`

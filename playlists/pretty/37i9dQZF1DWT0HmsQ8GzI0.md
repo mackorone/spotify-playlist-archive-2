@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Jazzbois
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,859 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,858 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 79 | [Üres](https://open.spotify.com/track/4LC4LAyMoQpYpWkxgVRffv) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Üres](https://open.spotify.com/album/4EMHZtvTxgvo7RkD1pes0l) | 2:27 |
 | 80 | [Vakrepülés](https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs) | [Quimby](https://open.spotify.com/artist/3ZPq4IH5ZDJKwx5dBQQhBO) | [Vakrepülés](https://open.spotify.com/album/3tOAQIYf5zHRuxvg6qaIZ1) | 2:35 |
 
-Snapshot ID: `AAAAAAXl6egxTeU/hVsXPGbWFN/DwM6f`
+Snapshot ID: `AAAAACYIZhsbzfamM8UNotOZEdb6haUd`

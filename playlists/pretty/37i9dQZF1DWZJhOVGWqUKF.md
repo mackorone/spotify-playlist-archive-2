@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: Rising Insane
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,457 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,440 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 | 99 | [Control](https://open.spotify.com/track/7KxLGAVUttZgVbFw4CTrQv) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Control](https://open.spotify.com/album/2AMNcEzhenq21VnZhg7Jse) | 4:11 |
 | 100 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 |
 
-Snapshot ID: `AAAAAOLV+0JuwumT91mksLUMP2ZgacVa`
+Snapshot ID: `AAAAAH9B59EVa5hyNBuM0Ubhu0AJfPJi`

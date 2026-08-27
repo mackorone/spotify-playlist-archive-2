@@ -24337,6 +24337,24 @@
     },
     {
       "album": {
+        "name": "Bugie",
+        "url": "https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193223,
+      "name": "Bugie",
+      "url": "https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu"
+    },
+    {
+      "album": {
         "name": "BUGIE",
         "url": "https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm"
       },

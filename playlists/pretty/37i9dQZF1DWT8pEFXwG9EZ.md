@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,176 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,225 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
 | 100 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
 
-Snapshot ID: `AAAAAOP6CVLbs9dEwlijHHPQ+HZmxiAa`
+Snapshot ID: `AAAAAHl3nl+HccaaOBHfUyfco+ZVJVa6`

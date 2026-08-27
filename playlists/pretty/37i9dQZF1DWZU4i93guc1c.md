@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 79 | [з love мені](https://open.spotify.com/track/3JUsJw3Nk0vtvKmF1ihw0j) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2), [provulok](https://open.spotify.com/artist/3i448OV2OVpKy6EQtenzzZ) | [з love мені](https://open.spotify.com/album/6nTSvMwpva7qAdTQDlU8nh) | 3:34 |
 | 80 | [Wishes](https://open.spotify.com/track/4Xcz3vqA6dS0hzQMa8TWps) | [Foolish Pride](https://open.spotify.com/artist/4wrc0r37SQELryxePcBU9D) | [Wishes](https://open.spotify.com/album/0cOkXzl5rCqSlEpUnnMfrk) | 3:30 |
 
-Snapshot ID: `AAAAAJPPN8IexwPFl9mJsvQVomMyiFhC`
+Snapshot ID: `AAAAAMpAiOmVMA+EgzGdJ3ZtXjLzALwY`

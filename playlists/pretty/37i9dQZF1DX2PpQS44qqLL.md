@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Recordamos la voz y personalidad de Dulce 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,958 likes - 200 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,080 likes - 200 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Toco madera](https://open.spotify.com/track/5nzKbabG1TH9MVizqQ2wTV) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Maravilloso Raphael](https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi) | 3:39 |
 | 200 | [Cuando No Estás Conmigo](https://open.spotify.com/track/6R1V5zSzuLVTc41hUMHohP) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 2:58 |
 
-Snapshot ID: `AAAAACMRc9oYHuapkY1NpgmXgAWvFX7i`
+Snapshot ID: `AAAAAPglJ6HxGE76VEJIvDLSTq5vaHLU`

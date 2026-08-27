@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,811 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,856 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 65 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
 | 66 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 |
 | 67 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
-| 68 | [The Gift That Keeps on Giving](https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L) | [I Am a Man \(with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan\)](https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80) | 9:31 |
-| 69 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
+| 68 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
+| 69 | [The Gift That Keeps on Giving](https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L) | [I Am a Man \(with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan\)](https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80) | 9:31 |
 | 70 | [I'll Remember April](https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Intimacy Calling \- Standard Time Vol\. 2](https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe) | 8:34 |
 | 71 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
 | 72 | [Sweet Peach Tree](https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr) | [Alone Together](https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd) | 6:58 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 82 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 |
 | 83 | [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 |
 | 84 | [Squeaky's Blues](https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 3:28 |
-| 85 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |
-| 86 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
+| 85 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
+| 86 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |
 | 87 | [Weather Bird](https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Louis Armstrong: Portrait Of The Artist As A Young Man 1923\-1934](https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm) | 2:41 |
 | 88 | [Just in Time](https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2) | [Cootie Williams](https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o) | [Where or When](https://open.spotify.com/album/6jNlEB9M8Dfmtd2pyCbhfN) | 3:31 |
 | 89 | [You're Getting to Be a Habit with Me](https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7) | [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Wonder Why](https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp) | 6:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [So What \- Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963](https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [So What \(Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963\)](https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2) | 9:46 |
 | 100 | [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 |
 
-Snapshot ID: `AAAAABRUEeuZXWSrKv0v05uuVDJT+35S`
+Snapshot ID: `AAAAAMA2w8HKYYVP8APXG8eMCNxxeP37`

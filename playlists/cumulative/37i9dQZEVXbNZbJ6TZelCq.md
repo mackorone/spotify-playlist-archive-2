@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-2,586 songs - 5 day 14 hr 28 min
+2,587 songs - 5 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,7 +885,7 @@
 | [Fried \(She a Vibe\)](https://open.spotify.com/track/28xOPIPw0joNPwYd0asIT5) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:30 | 2024-03-23 | 2024-03-25 |
 | [Friends](https://open.spotify.com/track/6daGdLfpoywus2f5EBwaJX) | [Cadaver Ghoul](https://open.spotify.com/artist/5apVcEELJhc2IUYWgklfsx) | [Friends](https://open.spotify.com/album/4ENyMfuDlBForPJZi0Q5Wv) | 2:36 | 2023-03-12 | 2023-03-14 |
 | [Friends](https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia](https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau) | 3:50 | 2021-04-28 | 2022-01-27 |
-| [Frikicita](https://open.spotify.com/track/1y8q3Fe4tA2X3oi6Q2pU4p) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [Bote](https://open.spotify.com/artist/5ZysteEOAE4NFn6sbeD49c) | [Frikicita](https://open.spotify.com/album/1oLzw2INTk8F0u2NLKtP7p) | 2:22 | 2026-06-07 | 2026-08-09 |
+| [Frikicita](https://open.spotify.com/track/1y8q3Fe4tA2X3oi6Q2pU4p) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [Bote](https://open.spotify.com/artist/5ZysteEOAE4NFn6sbeD49c) | [Frikicita](https://open.spotify.com/album/1oLzw2INTk8F0u2NLKtP7p) | 2:22 | 2026-06-07 |  |
 | [Frikitona](https://open.spotify.com/track/1qlK7THuXE8UUmiBcfvwWj) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [Arkanian](https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p) | [Ursarinho](https://open.spotify.com/album/4C6OBgnEjXgnTAZstlzYwp) | 2:14 | 2026-06-11 | 2026-06-14 |
 | [Frumoasa](https://open.spotify.com/track/5XJWjrEdT4KpaZIyV5Cvgl) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [Vise Lucide](https://open.spotify.com/album/4dMhOd1UUuBTSBUOApvMKM) | 3:07 | 2024-03-09 | 2024-03-11 |
 | [Frutti Fresh](https://open.spotify.com/track/1v62GDfLJp7iLHVpRJdRLR) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa](https://open.spotify.com/album/0A0V7bGMeQYh4TRSZdv1QR) | 2:14 | 2023-09-16 | 2023-09-21 |
@@ -1004,6 +1004,7 @@
 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 | 2025-12-25 | 2025-12-27 |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2021-06-13 | 2021-06-16 |
 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2021-03-27\* | 2021-04-21 |
+| [Hazolina](https://open.spotify.com/track/5NMilcHFhhivtUCwqoASI0) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Hazolina](https://open.spotify.com/album/4upj57p63IS1nFebjr0S3E) | 2:32 | 2026-08-26 |  |
 | [HBA](https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:32 | 2025-03-15 | 2025-03-24 |
 | [HBA RMX](https://open.spotify.com/track/4VwM1OdwSoldo7y4cbu2Gp) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo Chronicles, Vol\. I](https://open.spotify.com/album/36IxAFv88GZe1xhF3H0GnS) | 2:53 | 2025-05-24 | 2025-05-29 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2021-03-27\* | 2021-08-24 |
@@ -1720,7 +1721,7 @@
 | [Paris](https://open.spotify.com/track/08BiqanO41PJL0qjVz6Nto) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [2089](https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk) | 2:54 | 2021-06-09 | 2021-06-11 |
 | [Parkour](https://open.spotify.com/track/5NeIvdlDPYgddaVaOjHogA) | [Ian](https://open.spotify.com/artist/4nkiBERUFQ7aIe1UfGM8T1), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Parkour](https://open.spotify.com/album/7qMcFTK2LmPgTGX6ThKd0B) | 2:00 | 2022-01-26 | 2022-01-29 |
 | [Parte Din Tine](https://open.spotify.com/track/2Nd0rVXqoIGUFPXnzNdwBM) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Parte Din Tine](https://open.spotify.com/album/6xgnTDy4IOljfvXCOePvp0) | 3:12 | 2021-05-08 | 2021-10-03 |
-| [PASTA](https://open.spotify.com/track/2erxANooYGNMlTw1zqRbsi) | [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU), [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [EL PROFESOR](https://open.spotify.com/album/3a3gthodQ3pazBijttglea) | 2:33 | 2026-07-16 |  |
+| [PASTA](https://open.spotify.com/track/2erxANooYGNMlTw1zqRbsi) | [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU), [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [EL PROFESOR](https://open.spotify.com/album/3a3gthodQ3pazBijttglea) | 2:33 | 2026-07-16 | 2026-08-27 |
 | [PAT MATRIMONIAL](https://open.spotify.com/track/2uqiuAuQbT8SwEAGfMiZ2a) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [FLAWLE$$ \- EP](https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY) | 1:28 | 2023-12-29 | 2024-01-13 |
 | [Paul Cicero](https://open.spotify.com/track/6CvpwqHuc2JDddPXBVboWn) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [RMN](https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm) | 2:05 | 2021-03-27 | 2021-03-30 |
 | [PDH](https://open.spotify.com/track/6JQt3qfbwSFlDantKaCkix) | [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U) | [Born 2 Shine](https://open.spotify.com/album/2cQjgTS3bz1L8K6ziXUzUY) | 2:38 | 2023-02-04 | 2023-03-20 |
@@ -2193,7 +2194,7 @@
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-24 |
 | [Sweet Talk](https://open.spotify.com/track/4qYIoc9oI6E95LfAyxy3iu) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [Sweet Talk](https://open.spotify.com/album/3YdIeguoqu8B2m1BeffKVw) | 2:20 | 2023-10-03 | 2023-10-08 |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-21 | 2026-03-23 |
-| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-22 |  |
+| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-22 | 2026-08-27 |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2021-12-29 | 2025-01-15 |
 | [Sânge](https://open.spotify.com/track/3YnZem5WS2yN0Tj1AMCKoD) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 2:15 | 2022-02-21 | 2022-02-28 |
 | [Sânge pe pat și pe podea](https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Centaur](https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb) | 2:49 | 2022-11-26 | 2023-07-16 |

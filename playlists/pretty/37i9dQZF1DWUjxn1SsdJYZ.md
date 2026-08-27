@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Miss Kaninna
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,960 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,957 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 13 | [IN THE AIR](https://open.spotify.com/track/68cNc3MXZi4O3z9zixvTvb) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [IN THE AIR](https://open.spotify.com/album/2rKdnQhWqMoMnUPSn0EqKd) | 2:58 |
 | 14 | [Honey N Lemon](https://open.spotify.com/track/5Jl0mPHioA6Vn9DPjVwY7A) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [Catalyst](https://open.spotify.com/album/1o9APyXJ97FvGiJZbFZjst) | 2:21 |
 | 15 | [Taniwha](https://open.spotify.com/track/6zIYJWxYRa70RP7946233h) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Taniwha](https://open.spotify.com/album/5kMetK3yoM2cLkZqWmo1fR) | 2:58 |
-| 16 | [SEND IT! \(Turn Up Aus Live Presented by Spotify\)](https://open.spotify.com/track/22K8nkw2yscBa0Gpc7Dvmm) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [SEND IT! \(Turn Up Aus Live Presented by Spotify\)](https://open.spotify.com/album/3kz7GvyHmer5ayXF2bKOxB) | 3:51 |
+| 16 | [SEND IT! \- Turn Up Aus Live Presented by Spotify](https://open.spotify.com/track/22K8nkw2yscBa0Gpc7Dvmm) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [SEND IT! \(Turn Up Aus Live Presented by Spotify\)](https://open.spotify.com/album/3kz7GvyHmer5ayXF2bKOxB) | 3:51 |
 | 17 | [Leave Me Alone](https://open.spotify.com/track/6uJNfV05iUiCpyWidj7HrG) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Leave Me Alone](https://open.spotify.com/album/3TOp1uIbREUOqYUwuXq269) | 2:41 |
 | 18 | [THE MOVE](https://open.spotify.com/track/7EhejUEzKGX8wnEYWdD4Un) | [BARAKA THE KID](https://open.spotify.com/artist/632zuYvAmSbcN7oXlck1DF) | [THE MOVE](https://open.spotify.com/album/0UHAkgIMFbxc71UbbxLz1r) | 3:01 |
 | 19 | [Blue](https://open.spotify.com/track/0NowSHIyFaQLeFWhE2Aiij) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [CAM3OOG](https://open.spotify.com/artist/02sdxpzTCT9cD6tRfbjzBX) | [Blue](https://open.spotify.com/album/3hUrvTpfo0EuaMW2XWtUAM) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Swear Mums](https://open.spotify.com/track/6aSYO9VhwKOj7Za4OOJ8az) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Swear Mums](https://open.spotify.com/album/5K5vM1aJBKrbLthAZJFoJn) | 3:16 |
 | 100 | [Last Laugh](https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Last Laugh](https://open.spotify.com/album/3yCjtfPnNTBSuamHb1Zf8A) | 3:27 |
 
-Snapshot ID: `AAAAAIc0kvlQP36Zi0bF5FlRZZlC29i1`
+Snapshot ID: `AAAAACZDCvrW/FfVgsQWI66ziOoOSTw8`

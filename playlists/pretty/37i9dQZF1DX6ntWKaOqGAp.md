@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Chevon
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,086 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,100 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [ええっしょ](https://open.spotify.com/track/7cwYDwJZpcINT4PPPFFnQY) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [チート](https://open.spotify.com/album/0tHXxMEZk88VPvgULx385U) | 3:18 |
 | 100 | [CARIBBEAN](https://open.spotify.com/track/4lPkq4lLfwxXrZ27NHG1p0) | [THE&](https://open.spotify.com/artist/3DGkT9cGu6lUnPyNr5JpUW) | [THE&II](https://open.spotify.com/album/0zEFBXMbfbyMFGJO7yESBw) | 2:43 |
 
-Snapshot ID: `AAAAAH0tJ95t9dqCrGzpqzxBKZ7Twfxd`
+Snapshot ID: `AAAAAMHk1kDN6FjViomLSUXFFKFBzmvr`

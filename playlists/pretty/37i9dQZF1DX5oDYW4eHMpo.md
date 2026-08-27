@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 
 > OPN takes us on a magical journey with the release of his new album "Again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,059 likes - 46 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,068 likes - 46 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 | 23 | [Blu\-bird](https://open.spotify.com/track/4mIUiMfxffotjqpaeTVmgs) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [NieR Gestalt & NieR Replicant Original Soundtrack](https://open.spotify.com/album/5EvfMZYvdWB2XPZT0IvcyI) | 2:40 |
 | 24 | [Chesh](https://open.spotify.com/track/0VHbTLKJeNJiMVe2vEdBBF) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 6:04 |
 | 25 | [Favorite Encores](https://open.spotify.com/track/45yRDcVutFwfgDDanUrgMk) | [Noah Creshevsky](https://open.spotify.com/artist/666Aq0px34H5orJF3IwyGp) | [Favorite Encores](https://open.spotify.com/album/5jONhiNx4RUhCisY36ub7d) | 6:45 |
-| 26 | [I Lost My Head \(Steven Wilson 2023 Remix\)](https://open.spotify.com/track/7dPBGYOO5rB9rl78JRGcC2) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO), [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [In'terview \(Steven Wilson 2023 Remix\)](https://open.spotify.com/album/4JPA9zquRI3SRO9pl7Oz9F) | 6:58 |
+| 26 | [I Lost My Head \- Steven Wilson 2023 Remix](https://open.spotify.com/track/7dPBGYOO5rB9rl78JRGcC2) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO), [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [In'terview \(Steven Wilson 2023 Remix\)](https://open.spotify.com/album/4JPA9zquRI3SRO9pl7Oz9F) | 6:58 |
 | 27 | [Baal T'shuvah](https://open.spotify.com/track/3FgjPyH8VvGfld7DQtc9Vt) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Oracle](https://open.spotify.com/album/4hl8K3ZdnzoT6BIbHIptMN) | 2:09 |
 | 28 | [While Thinking About Her Again](https://open.spotify.com/track/4UZPrWYwCI1ZzMfwxTUKti) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cinema Paradiso \(Original Motion Picture Soundtrack\) \[The Complete Edition\]](https://open.spotify.com/album/0hvxA5cmM7GmXxYSd3kkK5) | 1:19 |
 | 29 | [\#4 \(For Mori\)](https://open.spotify.com/track/1fFZHk4ZY1q9wgxDq7Tdg0) | [Jack Nitzsche](https://open.spotify.com/artist/2GVyv9OLNp6cmxfUDbGrXM) | [St\. Giles Cripplegate](https://open.spotify.com/album/63kJQtK5p1b9FRcJRmvSiO) | 3:08 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 | 45 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
 | 46 | [Love Bites](https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 5:46 |
 
-Snapshot ID: `AAAAAAmr+W39ed3d5PDU2anFoNy3+M69`
+Snapshot ID: `AAAAALhMxPal98M6n3U4d3kp7SxR2d/P`

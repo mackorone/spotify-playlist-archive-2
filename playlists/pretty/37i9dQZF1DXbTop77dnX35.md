@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, FOLA, Jorja Smith,  Niniola, ODUMODUBLVCK, Kidd Carder, Destin Conrad and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,299 likes - 61 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,381 likes - 61 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 60 | [Safalè](https://open.spotify.com/track/4OqblIAhoUXqadHxoyszp1) | [jjae](https://open.spotify.com/artist/6F5DvC5X1gcN7lsIaqoarP) | [Safalé](https://open.spotify.com/album/6jTow6EV9fuYzkvnYdvhOS) | 2:41 |
 | 61 | [TONIGHT](https://open.spotify.com/track/6xYb42JwgW7XTootir6sP8) | [Samuel Soteria](https://open.spotify.com/artist/0wmMSZjpvm1njkBwSSyuWP), [GB3 SOUND](https://open.spotify.com/artist/6PdGQ09zYjioodkwoC4lQf) | [TONIGHT](https://open.spotify.com/album/0zGEJxAMFreParKw5zD1Xv) | 2:16 |
 
-Snapshot ID: `AAAAAGN9JvoXSJpM8AkO7zZDjSKrNOb0`
+Snapshot ID: `AAAAAAJvB4Bcu2gkkcCc3h7vtCeuBSVr`

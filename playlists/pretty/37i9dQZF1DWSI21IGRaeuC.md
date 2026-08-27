@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Jamback
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,076 likes - 120 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,110 likes - 120 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Love to Love](https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q) | [Justin Rabin](https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv) | [Love to Love](https://open.spotify.com/album/6jyJWetHgENZW5U0LpIvBF) | 2:56 |
 | 120 | [Do You Like Bass](https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Do You Like Bass](https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO) | 3:50 |
 
-Snapshot ID: `AAAAAAq+xQjkhF29G4isVi0Ik3uOXzfz`
+Snapshot ID: `AAAAAL2RXz4DV07uSpdjL1ss6JezB9jU`

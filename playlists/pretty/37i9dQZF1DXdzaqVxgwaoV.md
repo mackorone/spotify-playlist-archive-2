@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,253 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,244 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 77 | [El Amor de los Dos](https://open.spotify.com/track/03yQRv8SXpsOr8pOK3WEfu) | [Dueto Revelacion](https://open.spotify.com/artist/0ySBrTPGFDFJxa1zsdWEGl) | [Otro Dia Sin Ti](https://open.spotify.com/album/0qR1ehnvDrkv4mQFZtwN5V) | 3:09 |
 | 78 | [el principe](https://open.spotify.com/track/6naXtONWcAYTJkXEuovTeb) | [Johan Mircelo](https://open.spotify.com/artist/4U5Pgmus2kNYEIFGgrBgpr) | [corridos prohibidos](https://open.spotify.com/album/6HGOTkvCcWToRzI87H6zLl) | 3:36 |
 | 79 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
-| 80 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 |
+| 80 | [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 |
 
-Snapshot ID: `AAAAAK30x2+SZiBavXx782xn8axog1NV`
+Snapshot ID: `AAAAAH9xGUZODAArjEH9mlXBRi1C1ZUh`

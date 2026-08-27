@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: DUSTCELL
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,474 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,465 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 11 | [Fig Smoke](https://open.spotify.com/track/1SzUveFBheIYBW1n758uTt) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Fig Smoke](https://open.spotify.com/album/4Y2u6eHHFMsoCKftRR63ab) | 3:55 |
 | 12 | [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 |
 | 13 | [夜鷹 \- Yodaka](https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [夜鷹 \- Yodaka](https://open.spotify.com/album/0xbgE5GJtzcQbYwkGNu01T) | 3:18 |
-| 14 | [天井の街](https://open.spotify.com/track/5dAaTzAuPiXL3i8kCt904j) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [天井の街 \- CEILING YOU](https://open.spotify.com/album/1yMhNW7a5PeVxpk1vAeoFD) | 1:51 |
+| 14 | [天井の街](https://open.spotify.com/track/5dAaTzAuPiXL3i8kCt904j) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [天井の街 \- CEILING CITY](https://open.spotify.com/album/1yMhNW7a5PeVxpk1vAeoFD) | 1:51 |
 | 15 | [BLACK](https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [BLACK](https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH) | 3:02 |
 | 16 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
 | 17 | [ユラリユレル](https://open.spotify.com/track/3ZMapuoR0hubjGNd8JUBKe) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ユラリユレル](https://open.spotify.com/album/4g3ojiN2E74O7yYCr55wvg) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [メシア](https://open.spotify.com/track/3tB9Jgk7T2UO5EIqOp7GNM) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [メシア](https://open.spotify.com/album/6IhQ2FZnTZlBytW5TtUJn6) | 3:15 |
 | 70 | [生活](https://open.spotify.com/track/4Nmki31FGggNIRruzEDU7r) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [生活](https://open.spotify.com/album/6vwrGmSQjnbV8BYBxQF6nB) | 4:58 |
 
-Snapshot ID: `AAAAAOvVTv2TR+1tq6A5nB22I59Sb5n+`
+Snapshot ID: `AAAAAIx/Jk+k8ezqJqaV5lWG36iwURia`

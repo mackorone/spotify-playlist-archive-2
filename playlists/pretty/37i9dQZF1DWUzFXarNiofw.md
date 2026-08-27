@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: PARTYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,060 likes - 274 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,088 likes - 274 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 49 | [Did A Number](https://open.spotify.com/track/5CgzaGSfntFK7h035j8FO3) | [SWEATA](https://open.spotify.com/artist/6OwF63yz5hwljzTcudIoi1) | [Did A Number](https://open.spotify.com/album/4NpQCsTsDjgvBLe4YyEZAu) | 3:54 |
 | 50 | [Chauffeur](https://open.spotify.com/track/1GosGdVsIzagjlsrvD6Ffy) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 4:36 |
 | 51 | [Before We Drown](https://open.spotify.com/track/5lbSuj5fMSDvgNdrel1VMB) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [As The World Burns...](https://open.spotify.com/album/44OY4GEnZF1HXb6nIDPpyR) | 4:10 |
-| 52 | [Monday](https://open.spotify.com/track/0VZ9q3FOFlzI5HlycmtF7w) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [Monday](https://open.spotify.com/album/1wOqrc7rids3dogXWVr5LN) | 2:29 |
+| 52 | [Monday](https://open.spotify.com/track/0VZ9q3FOFlzI5HlycmtF7w) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [The Dreamers](https://open.spotify.com/artist/5Mv7KECpdKCLVQcTfbTjT4) | [Monday](https://open.spotify.com/album/1wOqrc7rids3dogXWVr5LN) | 2:29 |
 | 53 | [Temperature](https://open.spotify.com/track/1AhrxDRcd70EC3f39PHQPR) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Temperature](https://open.spotify.com/album/0N79lQCuwpiQ6u7jfRq39X) | 3:05 |
 | 54 | [Promise](https://open.spotify.com/track/7xia6ZCAVUJv33LvFpcLig) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Promise](https://open.spotify.com/album/3EoYDo2Kxva9WXrk4iRN5O) | 2:40 |
 | 55 | [Can't Rub Shoulders](https://open.spotify.com/track/7McCSBmpq1RspLwYFp7kAl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Can't Rub Shoulders](https://open.spotify.com/album/3h1MR1BnglPuvGGH739TzI) | 2:55 |
@@ -238,7 +238,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 228 | [DOOM](https://open.spotify.com/track/6LDQJ8UkVZ0yFLTlKx97nO) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [DOOM](https://open.spotify.com/album/15nhKIauvPO7H84gOgL4WP) | 1:37 |
 | 229 | [borderline](https://open.spotify.com/track/55sxV91ONwaNz31R3HESnV) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [borderline](https://open.spotify.com/album/4RuzjsaUT6UbmPRITLM54U) | 4:24 |
 | 230 | [Date Night](https://open.spotify.com/track/79DMm9LTaaPvBh5p3sIjWx) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Lucky Me](https://open.spotify.com/album/7iWh8pkPqZknJm7F7uAQdo) | 2:23 |
-| 231 | [Don't Cry](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
+| 231 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
 | 232 | [On Your Time \(Hold You Like It's Ice Cold\)](https://open.spotify.com/track/4ZNfNWylpQtGsq3ALDUlnm) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [On Your Time \(Hold You Like It's Ice Cold\)](https://open.spotify.com/album/3xD5u6AttDKey4PXrfKm9i) | 4:30 |
 | 233 | [Second Second Chances](https://open.spotify.com/track/6trXX4JeO8tQh0dFO3Hg7t) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2), [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR) | [Second Second Chances](https://open.spotify.com/album/1cgNMFzvnQ8FQZPYe4FIE8) | 3:06 |
 | 234 | [Feedback](https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Little Us](https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4) | 3:04 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 273 | [On Demand](https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO) | [Imani Imani](https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ) | [Papercut](https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf) | 2:41 |
 | 274 | [Find Me](https://open.spotify.com/track/5V589jlf5pbV2CYFeUJyI8) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Find Me](https://open.spotify.com/album/2bTSoOUmxiM4nm1Ny3aPos) | 3:33 |
 
-Snapshot ID: `AAAAAAqk51AFIIER144JlOU1VqNZ3TWK`
+Snapshot ID: `AAAAAMWxKs54+YNQxkoZPU8FR6aVYPNl`

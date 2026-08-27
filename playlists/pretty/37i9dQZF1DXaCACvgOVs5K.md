@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,410 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,585 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Close 2 U](https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Close 2 U](https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s) | 2:09 |
 | 100 | [The Whistle Tune](https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Más Tiempo Vol\. 2](https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA) | 6:20 |
 
-Snapshot ID: `AAAAAOJOAQHgZq+BZMF/l72Ks6eqYD+6`
+Snapshot ID: `AAAAAJfR1ts2SUSRdDCZFAbqpS38OAqc`

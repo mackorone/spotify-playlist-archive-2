@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,801 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,808 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 74 | [Imladris](https://open.spotify.com/track/0kusLeoh7YImmIUYtiuDJl) | [Levitation Orchestra](https://open.spotify.com/artist/6srubtmEXe7rR1mRoALixs) | [Sanctuary](https://open.spotify.com/album/5v3Ara9uWIqMa5dU1N56I3) | 5:30 |
 | 75 | [Rules \(feat\. Omar\)](https://open.spotify.com/track/73QdH9UAo156gqGdlXXPov) | [Courtney Pine](https://open.spotify.com/artist/2OfIB3yNJjX3AElLJnz8am), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Black Notes from the Deep](https://open.spotify.com/album/38TrCRGLXPUSCMWCbC9Lym) | 3:12 |
 
-Snapshot ID: `AAAAAOC6ubAjoRtaWFzp9L1WtwpQrmeF`
+Snapshot ID: `AAAAAKGY+HnVnZiO7xzPjw0G6RpB7LTf`

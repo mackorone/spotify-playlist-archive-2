@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,380 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,417 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
 | 50 | [Kaaga](https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA) | [Gulshan Meer](https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Sahil Meer](https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Kaaga](https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI) | 3:45 |
 
-Snapshot ID: `AAAAAM1OQk2ENCYLAPMRvsq1rVGFckRE`
+Snapshot ID: `AAAAAC9gk6RQyF1NM8EdJT8DXfaWU8BD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,786 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,796 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [What a Wonderful World \- Krister Remix](https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII) | [No.oN](https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK), [Nikko Mad](https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y), [Krister](https://open.spotify.com/artist/3zrnHI8M8fvS6VmPF8behc) | [What a Wonderful World \(Krister Remix\)](https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW) | 1:35 |
 | 70 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
 
-Snapshot ID: `AAAAAP0eMFrSdD8B3J4gVOuHtY9XdfVp`
+Snapshot ID: `AAAAAEFCqJlYgNX9B3mtO2Usc6h1bjxy`

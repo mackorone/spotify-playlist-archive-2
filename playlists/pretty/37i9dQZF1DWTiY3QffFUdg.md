@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,185 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,255 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 99 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 |
 | 100 | [To The Beat](https://open.spotify.com/track/36BkC8zH3aNXtlf21HqtjN) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [MESSY](https://open.spotify.com/artist/2u5KJ1Wbzv2zoSwA611lyP) | [To The Beat](https://open.spotify.com/album/5oQhNodcymcsrbL5rAckJw) | 2:32 |
 
-Snapshot ID: `AAAAAMAz/mTwq+1QOBnLDItLPq54jMIW`
+Snapshot ID: `AAAAAH6V5GD0RXQALsuumy7njWHmFJh0`

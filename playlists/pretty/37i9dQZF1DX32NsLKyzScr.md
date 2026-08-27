@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,588,812 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,588,765 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 124 | [Welcome 2 Miami](https://open.spotify.com/track/1cKE1icepv5syN00224VYX) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Welcome 2 Miami](https://open.spotify.com/album/5fYN1CVZnEcvflPDa0UvHW) | 3:12 |
 | 125 | [Picasso](https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Picasso](https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi) | 4:20 |
 
-Snapshot ID: `AAAAAIDbtHbhRQLxykBBsMqMXT2VCYGg`
+Snapshot ID: `AAAAAG9KXD/gqx4ULU7R9TN7T+9jiqmw`

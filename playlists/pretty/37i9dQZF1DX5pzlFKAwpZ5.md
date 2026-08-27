@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,778 likes - 150 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,855 likes - 150 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,13 +135,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 125 | [727](https://open.spotify.com/track/0suUEHQAFjinEWzHCmOnf5) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [727](https://open.spotify.com/album/7gglMpd2CByh9qlty0Doja) | 3:29 |
 | 126 | [Glow Echoes](https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Glow Echoes](https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3) | 2:26 |
 | 127 | [Life Of Blessing](https://open.spotify.com/track/2qqK382uhnhiW5OYY6Ymwh) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [井口 寛](https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt) | [Life Of Blessing](https://open.spotify.com/album/7CqdD4xQtGEyAf1p7gAeVB) | 2:01 |
-| 128 | [evenfall](https://open.spotify.com/track/6XUm38qEK98xc1WoJZUb8r) | [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [evenfall](https://open.spotify.com/album/4XHVYUTZ66OAkvUwcRyeO6) | 2:44 |
-| 129 | [When the Planets Align2040 To the next future](https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [When the Planets Align2040 To the next future](https://open.spotify.com/album/2JEFR4wer5OWZOCPMFNd7U) | 3:01 |
-| 130 | [Ley](https://open.spotify.com/track/6KY33JhZ06PP1gyuDdXGRM) | [Yasutaka Okada](https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S) | [Ley](https://open.spotify.com/album/2PATaU6gBhiovCPZriSexq) | 4:51 |
-| 131 | [Dim Light](https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Dim Light](https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437) | 2:54 |
-| 132 | [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 |
-| 133 | [Cave](https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Glow In The Dark](https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl) | 4:44 |
-| 134 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 |
+| 128 | [Ley](https://open.spotify.com/track/6KY33JhZ06PP1gyuDdXGRM) | [Yasutaka Okada](https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S) | [Ley](https://open.spotify.com/album/2PATaU6gBhiovCPZriSexq) | 4:51 |
+| 129 | [evenfall](https://open.spotify.com/track/6XUm38qEK98xc1WoJZUb8r) | [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [evenfall](https://open.spotify.com/album/4XHVYUTZ66OAkvUwcRyeO6) | 2:44 |
+| 130 | [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 |
+| 131 | [When the Planets Align2040 To the next future](https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [When the Planets Align2040 To the next future](https://open.spotify.com/album/2JEFR4wer5OWZOCPMFNd7U) | 3:01 |
+| 132 | [Dim Light](https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Dim Light](https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437) | 2:54 |
+| 133 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 |
+| 134 | [Cave](https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Glow In The Dark](https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl) | 4:44 |
 | 135 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 |
 | 136 | [Respiro, Life and Fallen Leaves](https://open.spotify.com/track/4hQdPxjmJh4WA1iUMcOQ3j) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [KOMOREVIA](https://open.spotify.com/album/2W0deqWRQnSdvfJOccMtSw) | 4:52 |
 | 137 | [Harmonia session1](https://open.spotify.com/track/3mtdyzuxclQOl1TMsAgFkp) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5) | [Harmonia](https://open.spotify.com/album/2vVclPk57QHgrQTu75fb9U) | 3:05 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 141 | [On Your Side](https://open.spotify.com/track/311dAPDVuWrPKkWRMB5ykc) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 2:44 |
 | 142 | [YASE](https://open.spotify.com/track/7gXZTMjQDyn6jNEBxMTKsV) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [YASE](https://open.spotify.com/album/4nNF4QVWfKHNYv3tFyjPV8) | 4:15 |
 | 143 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 |
-| 144 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 |
-| 145 | [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 |
+| 144 | [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 |
+| 145 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 |
 | 146 | [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 |
 | 147 | [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 |
 | 148 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 |
 | 149 | [Setsurei](https://open.spotify.com/track/72G1ra72WWayqf4W9jUstG) | [Tokyo Bedroom Orchestra](https://open.spotify.com/artist/6H68wWhNdzqOsJseTU5Nxr) | [Tsuioku](https://open.spotify.com/album/6BzDJ1MYLVmBDTYZTpmOGF) | 2:26 |
 | 150 | [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 |
 
-Snapshot ID: `AAAAAJruMpwpcaEjv81p/PqZud2Akwy0`
+Snapshot ID: `AAAAABKnoo3qlNH/QgYZ2PoFbI0EqFjl`

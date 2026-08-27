@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: ONEWE\)
 
-1,801 songs - 4 day 0 hr 4 min
+1,802 songs - 4 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [BOOM](https://open.spotify.com/track/7snU7ER25gz87VKZ53ejS8) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [BOOM](https://open.spotify.com/album/0CbRdyt9PYDl0aHBw5ZTYM) | 3:15 | 2023-09-11 | 2023-10-06 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-10 | 2022-07-30 |
 | [Bora](https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [HOOK](https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE) | 2:15 | 2025-07-21 | 2025-08-21 |
+| [BORN DIRE](https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7) | 2:42 | 2026-08-27 |  |
 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 | 2026-04-14 | 2026-05-27 |
 | [Born Stunner](https://open.spotify.com/track/3IUPnZ0yUaIxkTFgQlcBBf) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Born Stunner>](https://open.spotify.com/album/2h9PWGI1WAf7B1GkUL8wdh) | 2:30 | 2026-07-28 |  |
 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 | 2022-03-21 | 2022-05-19 |
@@ -670,11 +671,11 @@
 | [HAPPENING](https://open.spotify.com/track/4bvIzUmw8dl9r1PDz6OGZv) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg) | 3:44 | 2020-11-16 | 2021-02-15 |
 | [HAPPY](https://open.spotify.com/track/1RKdxCUdiyGSWscrdx7Aq6) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [Things we love : I](https://open.spotify.com/album/2jjFsmmJWEvCqOREZlqF9a) | 2:51 | 2025-10-08 | 2025-11-06 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-10 | 2022-02-18 |
-| [Happy Depression](https://open.spotify.com/track/5DzZm8NYsDb8OlkAUbTPDL) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Happy Depression](https://open.spotify.com/album/2PzcbjMsMzjlsK2KjX4Iba) | 2:55 | 2026-06-27 |  |
+| [Happy Depression](https://open.spotify.com/track/5DzZm8NYsDb8OlkAUbTPDL) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Happy Depression](https://open.spotify.com/album/2PzcbjMsMzjlsK2KjX4Iba) | 2:55 | 2026-06-27 | 2026-08-27 |
 | [Happy Hour](https://open.spotify.com/track/4yONahSMh1NyTjDAZaDfYu) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Happy Hour](https://open.spotify.com/album/3gOPJf5f90vYaTTxVPScPf) | 3:34 | 2025-11-05 | 2025-12-14 |
 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 | 2023-06-27 | 2023-09-08 |
 | [Have we started? \(Prod\. My Aunt Mary\)](https://open.spotify.com/track/2jEX1NhqR60DtFytDAseai) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blossom with Love, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5RRAmWijWkiQwbpMrARdXb) | 2:59 | 2023-10-05 | 2023-11-04 |
-| [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 | 2026-06-27 |  |
+| [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 | 2026-06-27 | 2026-08-27 |
 | [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 | 2025-09-24 | 2025-11-11 |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2021-11-12 | 2021-12-02 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-30 | 2022-09-25 |
@@ -907,7 +908,7 @@
 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-09 | 2025-07-25 |
 | [LIT \(Prod\. Czaer\)](https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 3:15 | 2022-09-24 | 2023-02-10 |
 | [LIT RIGHT NOW](https://open.spotify.com/track/1wfX8k5P1DPRbmQ6bCy9pv) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/2EXqumr0ulSCCt63qG1ar7) | 2:34 | 2025-07-09 | 2025-08-15 |
-| [Little By Little](https://open.spotify.com/track/196Dx9vJHa7TOhjYCo9w0I) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [\[Things We Dream : Vol.2\]](https://open.spotify.com/album/390I24KGUAc9Fvzzw4Mlul) | 3:04 | 2026-06-27 |  |
+| [Little By Little](https://open.spotify.com/track/196Dx9vJHa7TOhjYCo9w0I) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [\[Things We Dream : Vol.2\]](https://open.spotify.com/album/390I24KGUAc9Fvzzw4Mlul) | 3:04 | 2026-06-27 | 2026-08-27 |
 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 | 2025-11-17 | 2026-01-15 |
 | [Little Things](https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Troubleshooting](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) | 3:32 | 2024-05-14 | 2024-07-19 |
 | [LLLM \(feat\. Gaeko, ZICO\) \[prod\. Tray B\]](https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [LLLM](https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm) | 3:45 | 2026-06-02 | 2026-07-05 |

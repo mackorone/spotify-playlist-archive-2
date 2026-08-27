@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes met Langa! <a href="spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl">Check hier meer zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,166 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,181 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 4 | [DJ](https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [DJ](https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a) | 2:29 |
 | 5 | [Stupid \(Move It\)](https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Stupid \(Move It\)](https://open.spotify.com/album/6mw5Lz20a0Nrn0j18rc4pk) | 2:03 |
 | 6 | [SMAAKT NAAR WATER](https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 2:24 |
-| 7 | [Catch a Fire](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 2:26 |
-| 8 | [Go Down](https://open.spotify.com/track/5fbE2mzBMo7u0FvT6MQrwT) | [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Go Down](https://open.spotify.com/album/2cHKiJ6xPrxeLPOIrutLOK) | 3:34 |
-| 9 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 |
+| 7 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 |
+| 8 | [Catch a Fire](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 2:26 |
+| 9 | [Go Down](https://open.spotify.com/track/5fbE2mzBMo7u0FvT6MQrwT) | [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Go Down](https://open.spotify.com/album/2cHKiJ6xPrxeLPOIrutLOK) | 3:34 |
 | 10 | [Pump It Up](https://open.spotify.com/track/0upSzPwtWJze81q4umsKIN) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Pump It Up](https://open.spotify.com/album/4oM6Biaxvn6GhInwP4QcMP) | 2:00 |
 | 11 | [Alles Is Oké](https://open.spotify.com/track/5TZ8Lh4qmnTkZocWmlo5dr) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Alles Is Oké](https://open.spotify.com/album/03XHGM7fb7OAXxeSYCQJCi) | 2:38 |
 | 12 | [BuzzBall](https://open.spotify.com/track/4SVYQKTujSh08QUFKf742P) | [Vier1](https://open.spotify.com/artist/66zBfJKGOsjwbPfq9KE1F7), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Stampa](https://open.spotify.com/artist/3jHKic0d8IkBCCWo59l7UH), [16'dls](https://open.spotify.com/artist/6b1BvwljfJStnCGcSw4QBa) | [BuzzBall](https://open.spotify.com/album/4SOvmwxkgTxP1YiY4eXUeu) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 74 | [LORO PIANA](https://open.spotify.com/track/5SXNdfEcNT0NQYoAjVD6xA) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [LORO PIANA](https://open.spotify.com/album/4p1dhq8QWbwbQaKBjJVe8l) | 2:10 |
 | 75 | [Like Me](https://open.spotify.com/track/1Hg54dQu3hi1Rp2Y2Z5nGc) | [BDLC](https://open.spotify.com/artist/0UBc2uIm71KuYr7JoA8O74) | [Like Me](https://open.spotify.com/album/5KxE40ZSS4DXVhlVIitQQL) | 2:39 |
 
-Snapshot ID: `AAAAAMGIXyimohWGiBZd47jFrWzXZfrt`
+Snapshot ID: `AAAAAEksEi4vN1ACcE6YMujdx3dCayq7`

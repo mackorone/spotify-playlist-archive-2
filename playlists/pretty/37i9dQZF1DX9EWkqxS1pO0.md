@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Radikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,599 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,589 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 74 | [Yarını Yok Acısı Var](https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Yarını Yok Acısı Var](https://open.spotify.com/album/2QwGdbSvrwaV1uXrGDgwu9) | 2:27 |
 | 75 | [Aşk Mı Dert Mi?](https://open.spotify.com/track/0WRS3QrnHW6MSFInowfj3z) | [Kalabalıklar](https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw) | [Aşk Mı Dert Mi?](https://open.spotify.com/album/3FGeJ2QHnCky2obueG290f) | 2:47 |
 
-Snapshot ID: `AAAAAMXmYFvon4Ip5+n/qoU35UZG+moP`
+Snapshot ID: `AAAAAHeY5lZZkyO4xnPV36rSE7J3C+Ck`

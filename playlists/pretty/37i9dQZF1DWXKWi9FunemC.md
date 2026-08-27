@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,878 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,935 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 149 | [Far Far](https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Far Far](https://open.spotify.com/album/334ovjV48rjW7uZAv395fV) | 2:35 |
 | 150 | [Years and Years](https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Years and Years](https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm) | 4:00 |
 
-Snapshot ID: `AAAAAJR20ekiVIJi0GmnN06tFcIr9oHu`
+Snapshot ID: `AAAAAJGDsF2RoVEClGTnHu9TZJNzcQ8h`

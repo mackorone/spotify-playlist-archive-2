@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "Slow Dancing (Piano Ver.)",
+      "url": "https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV"
+    },
+    {
+      "album": {
         "name": "Slow Dancing (Remixes)",
         "url": "https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K"
       },
@@ -318,7 +336,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171904,
-      "name": "Slow Dancing (Cautious Clay Remix)",
+      "name": "Slow Dancing - Cautious Clay Remix",
       "url": "https://open.spotify.com/track/31jZYFQEtq0ud5y9fDN4cw"
     },
     {
@@ -340,26 +358,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169840,
-      "name": "Slow Dancing (FRNK Remix)",
+      "name": "Slow Dancing - FRNK Remix",
       "url": "https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk"
-    },
-    {
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188093,
-      "name": "Slow Dancing (Piano Ver.)",
-      "url": "https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV"
     },
     {
       "album": {

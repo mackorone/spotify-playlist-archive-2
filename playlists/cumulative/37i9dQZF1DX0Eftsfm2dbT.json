@@ -13520,7 +13520,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 173911,
       "name": "DOKOIKO (feat. MACKA-CHIN)",
       "url": "https://open.spotify.com/track/7sv4nspsPP7YsfX4BrFK30"
@@ -31142,7 +31142,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 163906,
       "name": "Moeru",
       "url": "https://open.spotify.com/track/5QHIsR6VaoitVfRguzKsCl"
@@ -37332,6 +37332,28 @@
       "duration_ms": 172888,
       "name": "Overhaul",
       "url": "https://open.spotify.com/track/2K6voZtmRKYdGM0r1mntEr"
+    },
+    {
+      "album": {
+        "name": "OVERHEAT",
+        "url": "https://open.spotify.com/album/5EbV1i5shtromh6PVT61qs"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        },
+        {
+          "name": "Shurkn Pap",
+          "url": "https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202780,
+      "name": "OVERHEAT",
+      "url": "https://open.spotify.com/track/0Bm1E39pljqvab5us0ucUO"
     },
     {
       "album": {

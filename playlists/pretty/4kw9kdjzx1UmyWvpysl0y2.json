@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122899,
+  "num_followers": 122897,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVsSDlA5BLJhEpuw6XIiqZVO3kKVEP",
+  "snapshot_id": "AAAVs63Cjaov45q5abCCc6KykFzzDRzh",
   "tracks": [
+    {
+      "added_at": "2026-08-26 18:06:03",
+      "album": {
+        "name": "Stay Away",
+        "url": "https://open.spotify.com/album/6lEm7rBODLnjVafJjHfK26"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/3Ytk6FIYM46CD9IpS8GTG5"
+    },
     {
       "added_at": "2026-08-24 14:41:31",
       "album": {

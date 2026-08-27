@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,700 likes - 153 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,698 likes - 153 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 152 | [Sunset Leftovers](https://open.spotify.com/track/4A3il7o63zDPSxfY0QtEAY) | [Azra Peak](https://open.spotify.com/artist/2PbtEKiQ3YnlZisllEixZa) | [Sunset Leftovers](https://open.spotify.com/album/1t9HlHoiRfifgnCABXlnVm) | 2:17 |
 | 153 | [fantasy](https://open.spotify.com/track/3p7Jys62qwEPhp2362FfOY) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [fantasy](https://open.spotify.com/album/3uJNMrnTFSLZJFc5dxUeqY) | 2:26 |
 
-Snapshot ID: `AAAAAP22HDV5F8z+mz/v5LiWF5VKcU2c`
+Snapshot ID: `AAAAAJyKYMuHm+ZLe0tHfjh7PqHPsJyY`

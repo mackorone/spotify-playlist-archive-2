@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Marca MP 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,629 likes - 97 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,634 likes - 97 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 96 | [Fuiste Mi Todo](https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH), [Israel Cienfuegos](https://open.spotify.com/artist/0ouNgALf13UnBD4jkZo30Y) | [Fuiste Mi Todo](https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP) | 2:26 |
 | 97 | [Tu Ex Amigo](https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Tu Ex Amigo](https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb) | 4:04 |
 
-Snapshot ID: `AAAAAPdyAAy4Nt84qBo+8CopgC6oWpcd`
+Snapshot ID: `AAAAALPu+xmSGuszFWEUCWct31fn+KF5`

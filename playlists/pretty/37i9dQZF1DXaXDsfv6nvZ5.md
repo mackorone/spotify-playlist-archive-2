@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day\. Cover: Eric Bellinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,667 likes - 150 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,634 likes - 150 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 149 | [Good Bye](https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 4:10 |
 | 150 | [Come Get My Love](https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH) | [Ezra](https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN), [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [Come Get My Love](https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK) | 3:38 |
 
-Snapshot ID: `AAAAANbikzmmtniZeBUOOUNsV52ByPj7`
+Snapshot ID: `AAAAAEEbJZh5MzBr5riWzoryGWZa9foc`

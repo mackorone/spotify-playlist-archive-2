@@ -1351,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Greetings From Suffocate City (From Beyond The Abyss: Deluxe Edition)",
+        "url": "https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/0cFJWQ1cFH1e6BdtBHiHPl"
+    },
+    {
+      "album": {
         "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
         "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
       },
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
@@ -2138,7 +2160,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 209373,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU"
@@ -2210,7 +2232,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 210500,
       "name": "Never Enough - 2025 VERSION",
       "url": "https://open.spotify.com/track/07Ex8nzyAZpTOdRyDYOkUx"
@@ -2588,7 +2610,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 271346,
       "name": "The Bleeding",
       "url": "https://open.spotify.com/track/6Q1VTJwPerMgRAD0ojg8Ax"

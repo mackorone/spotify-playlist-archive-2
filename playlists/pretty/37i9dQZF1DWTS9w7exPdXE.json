@@ -1,12 +1,12 @@
 {
   "description": "Nederpop en Volkspop meezingers. <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
-  "num_followers": 171167,
+  "num_followers": 171236,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQ3SSfeuGBB5T8JAf/el8jzI7Xy",
+  "snapshot_id": "AAAAADz2HRL4u8Riuuuxhw3y0AsAHybB",
   "tracks": [
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -1583,34 +1567,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
         }
       ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1631,6 +1599,38 @@
       "duration_ms": 172881,
       "name": "Frans Duits",
       "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
+        "name": "De Laatste",
+        "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
       "artists": [
         {
           "name": "Ammar",
           "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
+      "duration_ms": 171285,
+      "name": "De Laatste",
+      "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
     },
     {
       "added_at": "2026-06-17 07:46:41",

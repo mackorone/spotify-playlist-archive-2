@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "The Hours: High Noon",
+        "url": "https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129454,
+      "name": "Mood Swing (7pm)",
+      "url": "https://open.spotify.com/track/6CBmyrymTeObu7zViTbt0A"
+    },
+    {
+      "album": {
         "name": "getting up to no good",
         "url": "https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf"
       },

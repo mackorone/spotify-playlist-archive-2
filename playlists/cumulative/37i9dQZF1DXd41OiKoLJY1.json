@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Before Rain Begins. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Dandbroom. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -20648,7 +20648,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 209684,
       "name": "fallinlove?",
       "url": "https://open.spotify.com/track/4Jg744nH7glHFc3DpyiNvC"
@@ -24343,6 +24343,24 @@
     },
     {
       "album": {
+        "name": "Girl, I'm Your Man",
+        "url": "https://open.spotify.com/album/6LrBTMdBW2TiJFbpnkLpVM"
+      },
+      "artists": [
+        {
+          "name": "Avery Leon",
+          "url": "https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274897,
+      "name": "Girl, I'm Your Man",
+      "url": "https://open.spotify.com/track/1QoTycQffxFjlkThZj3zKq"
+    },
+    {
+      "album": {
         "name": "Gising",
         "url": "https://open.spotify.com/album/1D49LSwByTNMOGWhLwINNr"
       },
@@ -25316,6 +25334,24 @@
       "duration_ms": 127384,
       "name": "gtdi.",
       "url": "https://open.spotify.com/track/56QPeaCEdE0JhB8ErUHb0W"
+    },
+    {
+      "album": {
+        "name": "Guba Nasad Ko",
+        "url": "https://open.spotify.com/album/7glEVFFrawDLrX9hJ9gOla"
+      },
+      "artists": [
+        {
+          "name": "Champaygne",
+          "url": "https://open.spotify.com/artist/0Uws7C618gPtAdeDlqkVGc"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155358,
+      "name": "Guba Nasad Ko",
+      "url": "https://open.spotify.com/track/5xG1GgSbmCVfo49qsEo52N"
     },
     {
       "album": {
@@ -37388,7 +37424,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 240500,
       "name": "LAHAT-LAHAT",
       "url": "https://open.spotify.com/track/4kh1asQLNlbmxeWBJkKGEF"
@@ -45072,7 +45108,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 173383,
       "name": "Mirasol",
       "url": "https://open.spotify.com/track/4jE28fq89ui3farFwzjFKf"
@@ -47258,7 +47294,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 225503,
       "name": "nananabik",
       "url": "https://open.spotify.com/track/2qYsF9Zao6aQ6TsuGDoUwz"
@@ -52850,6 +52886,24 @@
       "duration_ms": 245581,
       "name": "Palangga",
       "url": "https://open.spotify.com/track/3Oj1J3C016R3f6bZtiexHI"
+    },
+    {
+      "album": {
+        "name": "Palayo",
+        "url": "https://open.spotify.com/album/3IDPfWsyZcDyMtPCLXMCVv"
+      },
+      "artists": [
+        {
+          "name": "Kasane",
+          "url": "https://open.spotify.com/artist/58GgU26kgH6KBhDx8pT3PO"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264615,
+      "name": "Palayo",
+      "url": "https://open.spotify.com/track/45tfQlFlhKgLvWXNyqUMEt"
     },
     {
       "album": {
@@ -63554,6 +63608,24 @@
       "duration_ms": 300908,
       "name": "Sige",
       "url": "https://open.spotify.com/track/4YiukRjHNo1RJZcSQRbovW"
+    },
+    {
+      "album": {
+        "name": "Sige Lang!",
+        "url": "https://open.spotify.com/album/2pT188jmLM5poZ9fZEpAiV"
+      },
+      "artists": [
+        {
+          "name": "Dandbroom",
+          "url": "https://open.spotify.com/artist/7eH9LgP0tS3a6TwkoEWwBI"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173281,
+      "name": "Sige Lang!",
+      "url": "https://open.spotify.com/track/12n9IalbtQrGTQHoPCTXu8"
     },
     {
       "album": {

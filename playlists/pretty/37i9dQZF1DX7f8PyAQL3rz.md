@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > amor é bom mas ninguém quer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,059 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,945 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 57 | [Vida de Chefe](https://open.spotify.com/track/3Dam5n8I0yCplTnCu9VmQP) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Mc Dieguinho](https://open.spotify.com/artist/75qotN678cYOHjdHahxUik), [Gusttoo](https://open.spotify.com/artist/6GTVx1R4qiwWTGL9dlOs0v) | [Vida de Chefe](https://open.spotify.com/album/5Ae8CNqLVI1zHI5B8ZkKpw) | 3:28 |
 | 58 | [Ego \- th4ys Remix](https://open.spotify.com/track/0JQIFWq4KVdmYjaqyMfYuk) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Nego Bala](https://open.spotify.com/artist/5d3x6gaDHdVESZLO5tB6mP), [th4ys](https://open.spotify.com/artist/3LGFpNOWNjpvlkUmj304V3) | [Deekapz FM Remixes](https://open.spotify.com/album/7puIZzknO6IZie8NOSO5dH) | 1:47 |
 | 59 | [SEM PALA](https://open.spotify.com/track/4Lm84NyoIXijOHdNoTU5Ma) | [Deck9](https://open.spotify.com/artist/6Rbo9jVwd5k3ZFs6PEBEl9), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [SEM PALA](https://open.spotify.com/album/7ibrH7cF754U6OZWs9APIB) | 3:34 |
-| 60 | [Session analogic \#1](https://open.spotify.com/track/7KmiTipriSiQWxHl4EMR8S) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [LimM](https://open.spotify.com/artist/6zkhtlORZnokZMuNttqQJ0) | [Session analogic \#1](https://open.spotify.com/album/7By3rMLOdYgYJmbhEohVjV) | 5:40 |
+| 60 | [Session analogic \#1](https://open.spotify.com/track/7KmiTipriSiQWxHl4EMR8S) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [duarte](https://open.spotify.com/artist/1PFbujNhbcXjujHRKuVO8N), [ProdbyAlmeida](https://open.spotify.com/artist/2VHARlAf7d60OcEhyQrheb), [LimM](https://open.spotify.com/artist/6zkhtlORZnokZMuNttqQJ0) | [Session analogic \#1](https://open.spotify.com/album/7By3rMLOdYgYJmbhEohVjV) | 3:38 |
 
-Snapshot ID: `AAAAAJztT0Mx7ZhurdGin+PXDnMuJYz3`
+Snapshot ID: `AAAAAKDhtazEEmAAn2pJwC5RYlyhiaog`

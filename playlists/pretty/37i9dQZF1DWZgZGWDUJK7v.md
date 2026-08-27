@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Tomb Raider King \(도굴왕\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,716 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,721 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 99 | [Sand Castle](https://open.spotify.com/track/3onn360zmsghT2igHXp4qt) | [Kim Kyung Rok](https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb) | [Love Revolution \(Lee Kyung\-woo Theme\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe) | 3:51 |
 | 100 | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g) | 3:32 |
 
-Snapshot ID: `AAAAAIaAxisMPJw6XvXUNgOUAc7z8oDK`
+Snapshot ID: `AAAAAGG1aUcITaTWKzMxlvYW8tcH8fPm`

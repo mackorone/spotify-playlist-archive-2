@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 168576,
       "name": "Alors On Danse (feat. Stromae)",
       "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 153442,
       "name": "Baille",
       "url": "https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73"
@@ -2556,7 +2556,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 104500,
       "name": "If You Had My Love",
       "url": "https://open.spotify.com/track/5SrvkAmsCU5cWQN7DZ1f0h"
@@ -2949,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5ViAOaBLmJKa1irql9N9EG"
+      },
+      "artists": [
+        {
+          "name": "Dualh\u00ef",
+          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116521,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4jmfdhrDDhJG080eiLE0n2"
+    },
+    {
+      "album": {
         "name": "Love Hurt Repeat (feat. Mae Muller)",
         "url": "https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s"
       },
@@ -3016,6 +3034,28 @@
       "duration_ms": 112000,
       "name": "LSD",
       "url": "https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n"
+    },
+    {
+      "album": {
+        "name": "Lucky Ones",
+        "url": "https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "carteblanche",
+          "url": "https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/4xStcEBEoOYfBH0fTMM5hN"
     },
     {
       "album": {
@@ -4316,6 +4356,24 @@
       "duration_ms": 222533,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "album": {
+        "name": "Summer Glow",
+        "url": "https://open.spotify.com/album/6XnoiP64S8P7N2WdCo4Dnw"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Summer Glow",
+      "url": "https://open.spotify.com/track/7M4lLU8JHnwbdJScZOYG5q"
     },
     {
       "album": {

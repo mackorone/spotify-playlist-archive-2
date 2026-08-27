@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,641 likes - 150 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,739 likes - 150 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [BLESSED](https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [BLESSED](https://open.spotify.com/album/58shIUIy25yN66WAwAUIhi) | 2:18 |
 | 150 | [Live 03'](https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [As of Late](https://open.spotify.com/album/3ePJVqMrBvZDIG7ZBuHuUB) | 2:59 |
 
-Snapshot ID: `AAAAAGKByx81Ig0K8qIYlEXFaBMGs8FR`
+Snapshot ID: `AAAAAMOPeDI6EmSm/XhQLi30i8l3mJRv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283,941 likes - 267 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,119 likes - 267 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 266 | [Expansions](https://open.spotify.com/track/4mNZCdOkAZA9nIZDzIqCb5) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Expansions](https://open.spotify.com/album/3Cyz4WYba36w1dVKC7fPiX) | 2:49 |
 | 267 | [Astrale](https://open.spotify.com/track/5QR4QqRJj3icfqfHfnFvL7) | [Celestine Wake](https://open.spotify.com/artist/02eBA32yEVKnpFU995YA9d) | [Astrale](https://open.spotify.com/album/6Tpk9bKc7KhtASp3oYEzf0) | 2:24 |
 
-Snapshot ID: `AAAAAGsLK2p1pm6FCEr4DhWmqF6Xp5Bb`
+Snapshot ID: `AAAAAHP/F3fh+5/Q4AW+PndH6T+NeUv4`

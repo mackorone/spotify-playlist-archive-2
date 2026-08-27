@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Let go and let God.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,618 likes - 150 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,608 likes - 150 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 149 | [We Won't Stop \- Acoustic](https://open.spotify.com/track/7Bucwnt6BtdBN2Jqow81mS) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [The Healing \(Acoustic\)](https://open.spotify.com/album/2pKKXg0ObkBNOwpPTTVhZW) | 5:50 |
 | 150 | [It Is Done](https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn) | [Dana Vaughns ](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [It Is Done](https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q) | 2:37 |
 
-Snapshot ID: `AAAAABFuRjnOiYAt6lCFOtmajDCNdgON`
+Snapshot ID: `AAAAALGFO/t/344SHpFUSoHkGjia0UyK`

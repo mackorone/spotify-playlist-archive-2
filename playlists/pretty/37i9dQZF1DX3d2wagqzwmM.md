@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,710 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,838 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [Green Light](https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Green Light](https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor) | 3:07 |
 | 80 | [Bad Behaviour](https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Bad Behaviour](https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn) | 2:46 |
 
-Snapshot ID: `AAAAAFTU/vBU3KjXitwKHaXUi0+/inlE`
+Snapshot ID: `AAAAAKZmP1saCZm/MyybZvBUWzaffXpy`

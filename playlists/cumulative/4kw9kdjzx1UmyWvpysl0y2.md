@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,290 songs - 2 day 23 hr 28 min
+1,291 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [started over](https://open.spotify.com/track/6kQZXVO8AoN5KBh1QcJesG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Cayson Renshaw](https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf) | [i can't make you love me / started over](https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD) | 3:41 | 2025-11-13 | 2026-02-19 |
 | [Stay](https://open.spotify.com/track/18StJiwbTUOylOsh8J2nBt) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay](https://open.spotify.com/album/0DZcWk038Y1E0likCX0lik) | 2:52 | 2026-05-22 |  |
 | [stay](https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak](https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC) | 3:51 | 2023-04-11 | 2023-07-05 |
+| [Stay Away](https://open.spotify.com/track/3Ytk6FIYM46CD9IpS8GTG5) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [Stay Away](https://open.spotify.com/album/6lEm7rBODLnjVafJjHfK26) | 3:07 | 2026-08-26 |  |
 | [Stay Focused](https://open.spotify.com/track/4XJflZeNOUAIhm09BSEsJu) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Stay Focused](https://open.spotify.com/album/52TpkDuLJnr60jik1BSeOb) | 3:47 | 2025-07-25 | 2025-10-24 |
 | [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-11 | 2024-01-26 |
 | [Stealing Fire](https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Stealing Fire](https://open.spotify.com/album/57dawWYMECpg7ZGKWNH2q4) | 3:51 | 2024-10-18 | 2025-01-28 |

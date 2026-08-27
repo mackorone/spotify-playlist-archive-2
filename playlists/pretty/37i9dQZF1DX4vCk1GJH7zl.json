@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capim Lim\u00e3o",
-  "num_followers": 156649,
+  "num_followers": 156661,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJu3J6IHbpjdOLRYomy8qoBLJW5v",
+  "snapshot_id": "AAAAAFNydHB+P8z313e2Id/tRzLtaVLM",
   "tracks": [
     {
       "added_at": "2026-08-21 03:03:09",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-08-21 03:03:09",
       "album": {
+        "name": "Numas de Tapete Vermelho",
+        "url": "https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gabriel",
+          "url": "https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "duration_ms": 229564,
+      "name": "Numas de Tapete Vermelho",
+      "url": "https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04"
+    },
+    {
+      "added_at": "2026-08-21 03:03:09",
+      "album": {
         "name": "Pris\u00e3o das Ruas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KpmuoHTaT6qNYTv3zxzKh"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 231303,
       "name": "Pelas Ruas das Am\u00e9ricas",
       "url": "https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt"
-    },
-    {
-      "added_at": "2026-08-21 03:03:09",
-      "album": {
-        "name": "Numas de Tapete Vermelho",
-        "url": "https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gabriel",
-          "url": "https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN"
-        },
-        {
-          "name": "Sonast\u00e9rio",
-          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
-        }
-      ],
-      "duration_ms": 229564,
-      "name": "Numas de Tapete Vermelho",
-      "url": "https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04"
     },
     {
       "added_at": "2026-08-21 03:03:09",

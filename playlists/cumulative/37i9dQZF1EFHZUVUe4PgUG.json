@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "desmaquillada",
+        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "desmaquillada",
+      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
+    },
+    {
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
       },
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 200851,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/1q1sjzJpUYEkTbA9Uz0qrU"
@@ -2746,6 +2764,24 @@
       "duration_ms": 182525,
       "name": "OMG",
       "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
+    },
+    {
+      "album": {
+        "name": "LA LLAVE",
+        "url": "https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189635,
+      "name": "once",
+      "url": "https://open.spotify.com/track/0iAg4apUUiURhe8wRARRFJ"
     },
     {
       "album": {
@@ -3754,6 +3790,28 @@
       "duration_ms": 204920,
       "name": "Vivir Sin Ti (con CNCO)",
       "url": "https://open.spotify.com/track/4zKgBYhLafD8xszGCAiThg"
+    },
+    {
+      "album": {
+        "name": "voltaje",
+        "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "voltaje",
+      "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from STELLA LEFTY, Sam Smith, Cleo Sol, Anuel AA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,618,007 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,617,822 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 21 | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I) | 2:33 |
 | 22 | [Hound](https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Hound](https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT) | 4:27 |
 | 23 | [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 |
-| 24 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
+| 24 | [BedHead](https://open.spotify.com/track/5d3QY0Kq63rwQqPDe5usTs) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/1mVpDxO2tC5KB65ofEwVEc) | 5:02 |
 | 25 | [Bad Girls Never Die](https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Bad Girls Never Die](https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk) | 2:46 |
 | 26 | [Eye For An Eye](https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [The Seams](https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt) | 5:16 |
 | 27 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Dystopian Cemetery](https://open.spotify.com/track/07ajsPPcaQIS6fjF1md3ao) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Dystopian Cemetery](https://open.spotify.com/album/38oiY96BAkseRfcI6UG4Y5) | 3:47 |
 | 100 | [WANNABE](https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [Wear & Tear](https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x) | 3:32 |
 
-Snapshot ID: `AAAAACojhb3NR68p2CN8BsasOvlNaX5G`
+Snapshot ID: `AAAAAE0Ud22OXSVA3RKbQDG6YHwEp+an`

@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375693,
+  "num_followers": 375715,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAADFOLTFh/WbrFVu3pqRtgG/",
+  "snapshot_id": "aozbAAAAAAArG7bAcXxhBiQ4vDvy6GnJ",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 225501,
+      "name": "Fantasy - Single Version",
+      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 170212,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277797,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 345220,
-      "name": "That's the Way of the World",
-      "url": "https://open.spotify.com/track/4BNhasx75KbS10jHq3VZTz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 201911,
       "name": "Sing a Song",
       "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 345220,
+      "name": "That's the Way of the World",
+      "url": "https://open.spotify.com/track/4BNhasx75KbS10jHq3VZTz"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299363,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All 'N All",
         "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
@@ -227,6 +243,22 @@
       "duration_ms": 262748,
       "name": "Love's Holiday",
       "url": "https://open.spotify.com/track/2Am4TMJcqfQtr79278nZjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 208408,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8"
     },
     {
       "added_at": null,
@@ -247,6 +279,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Open Our Eyes",
+        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 290005,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 230674,
+      "name": "Serpentine Fire",
+      "url": "https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
       },
@@ -259,22 +323,6 @@
       "duration_ms": 227001,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/67J6NR2Tdl0h2epWHcCBBN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 212484,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
     },
     {
       "added_at": null,
@@ -295,22 +343,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Of The Pop' s Vol. 2/'99",
-        "url": "https://open.spotify.com/album/3fev7GRcXpqwTIAVZaHh4V"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Phats & Small",
-          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
         }
       ],
-      "duration_ms": 222400,
-      "name": "September '99 - Phats & Small Remix",
-      "url": "https://open.spotify.com/track/6Z6my7Cpi5BongU2fsY96l"
+      "duration_ms": 212484,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 80760,
+      "name": "Beijo (Interlude)",
+      "url": "https://open.spotify.com/track/2RaN7kGPxuT3wvpdw9dyND"
     },
     {
       "added_at": null,
@@ -327,6 +387,42 @@
       "duration_ms": 273132,
       "name": "On Your Face",
       "url": "https://open.spotify.com/track/1364cfVtDUV74zIeMl6ydQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 311002,
+      "name": "Keep Your Head to the Sky",
+      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Top Of The Pop' s Vol. 2/'99",
+        "url": "https://open.spotify.com/album/3fev7GRcXpqwTIAVZaHh4V"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Phats & Small",
+          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "September '99 - Phats & Small Remix",
+      "url": "https://open.spotify.com/track/6Z6my7Cpi5BongU2fsY96l"
     },
     {
       "added_at": null,
@@ -371,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 308444,
+      "name": "Be Ever Wonderful",
+      "url": "https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -383,22 +495,6 @@
       "duration_ms": 235140,
       "name": "Love Music",
       "url": "https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
     },
     {
       "added_at": null,
@@ -419,6 +515,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 265867,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 324635,
+      "name": "I'll Write a Song for You",
+      "url": "https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Constellations: The Universe of Earth, Wind & Fire",
         "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
       },
@@ -431,6 +559,54 @@
       "duration_ms": 141293,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 245390,
+      "name": "And Love Goes On",
+      "url": "https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powerlight",
+        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 352001,
+      "name": "Fall in Love with Me",
+      "url": "https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
     },
     {
       "added_at": null,
@@ -487,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
       },
       "artists": [
         {
@@ -496,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 215298,
-      "name": "Happy Feelin'",
-      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
+      "duration_ms": 300017,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
     },
     {
       "added_at": null,
@@ -515,6 +691,22 @@
       "duration_ms": 316304,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215298,
+      "name": "Happy Feelin'",
+      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
     },
     {
       "added_at": null,
@@ -607,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 499281,
-      "name": "Reasons - Live",
-      "url": "https://open.spotify.com/track/13oxThgkN4ylWbI1UukQ55"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -639,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+        "name": "Babel - Music From And Inspired By The Motion Picture",
+        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
       },
       "artists": [
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 219404,
-      "name": "Magic Mind",
-      "url": "https://open.spotify.com/track/0b7SIdFsglpqZZsNIUc8jJ"
+      "duration_ms": 389973,
+      "name": "September/The Joker",
+      "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
     },
     {
       "added_at": null,
@@ -675,186 +855,6 @@
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Glee Monster Live Tour 2025 \"Ambitious\" - 2025.07.21",
-        "url": "https://open.spotify.com/album/7o38mWNMBGMGfsEUAqJznK"
-      },
-      "artists": [
-        {
-          "name": "Little Glee Monster",
-          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 634503,
-      "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c9\u30ec\u30fc\uff08Ambitious ver.\uff09 - Little Glee Monster Live Tour 2025 \"Ambitious\" - 2025.07.21",
-      "url": "https://open.spotify.com/track/6P9uVpEokjPXIgf4dkjahc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 220817,
-      "name": "Yearnin' Learnin'",
-      "url": "https://open.spotify.com/track/1bMhKF0odggEYxycGKdCBE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 43168,
-      "name": "In the Marketplace (Interlude)",
-      "url": "https://open.spotify.com/track/5sz00JY0sDJHdK6R2x3BRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/52sC6oWMYjYcxxqVmaZ1TN"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Kalimba Story",
-      "url": "https://open.spotify.com/track/3q5TBh31wXDJAUfEZ4Duon"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 323573,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/3Qq6qNTgv36SMQAhCZjwdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/2lnx4mfdXyAYvtVPYXRPcD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 351914,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/75OZLfMsrI9RQwDGaVEmMH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Universe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7iNPdE265ozYlk1TO0f6ux"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 312198,
-      "name": "Could It Be Right",
-      "url": "https://open.spotify.com/track/2et3mpJMcyE8YoEpM1FUxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 279186,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/7gszfXzM2EKwRGJ7dMh23J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 330953,
-      "name": "You",
-      "url": "https://open.spotify.com/track/11K28OJ3p5Rl91VsVvd3nd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Need Of Love",
-        "url": "https://open.spotify.com/album/3EkU0XjJLHN6OBcxbFxgHB"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 357159,
-      "name": "I Think About Lovin' You",
-      "url": "https://open.spotify.com/track/5RreIlenw5e9JrcqV3oDen"
     }
   ],
   "unique_name": "This Is Earth, Wind & Fire",

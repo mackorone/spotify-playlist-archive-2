@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,431 likes - 209 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,455 likes - 209 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 19 | [Golden](https://open.spotify.com/track/4pQ1tGNWPNf3W2flpyH55L) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Golden](https://open.spotify.com/album/2EP01A2LTMG0BiuIUBJsin) | 2:57 |
 | 20 | [Misery Business \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/1JWaYtUaxn19EkQPfvREyE) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Misery Business \(Arr\. String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/5jQDivYRIBA3ZkcL6hOm4G) | 3:35 |
 | 21 | [Nobody Gets Me](https://open.spotify.com/track/17PrhKHUPE1jQCXICSK0n0) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs SZA](https://open.spotify.com/album/5Q7KPQNw5Cgj45IukOMrE1) | 2:59 |
-| 22 | [All the Things She Said \(Orchestral Version\)](https://open.spotify.com/track/2l8OdvgiGlXkrFRz2uFyPq) | [Joseph William Morgan](https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03) | [All the Things She Said \(Orchestral Version\)](https://open.spotify.com/album/7aGFddZCr98KxUcSLVxFKL) | 3:15 |
+| 22 | [All the Things She Said \- Orchestral Version](https://open.spotify.com/track/2l8OdvgiGlXkrFRz2uFyPq) | [Joseph William Morgan](https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03) | [All the Things She Said \(Orchestral Version\)](https://open.spotify.com/album/7aGFddZCr98KxUcSLVxFKL) | 3:15 |
 | 23 | [Kill Bill](https://open.spotify.com/track/2WCkyrXkIUqipUUHgVErxz) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Kill Bill](https://open.spotify.com/album/09WQcQnzdd79MYl4ZbqGU9) | 2:36 |
 | 24 | [Don’t Let Me Be Misunderstood](https://open.spotify.com/track/6pw5t0h16zgr2Tymgzyvac) | [Bennie Benjamin](https://open.spotify.com/artist/7ERDtbmv3l9goJ4dHzn715), [Sol Marcus](https://open.spotify.com/artist/4ZhtwsXB88HB2F2geIgt3N), [Gloria Caldwell](https://open.spotify.com/artist/7rKdx0Qj3ZwMSOJiNPBpaL), [Ashley Jackson](https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk) | [Don’t Let Me Be Misunderstood](https://open.spotify.com/album/5j0VQMnEWUlIV2Xowno00i) | 3:57 |
 | 25 | [Good Luck, Babe! \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/3hXLz8QmyU822ze5c9uoT9) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Good Luck, Babe! \(Arr\. String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/07vOcbw7eODhv6P6B8WAmC) | 3:10 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 208 | [Such Great Heights](https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/5qaF3UTjIIzapiEvfaDnfc) | 4:38 |
 | 209 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `AAAAALtf4MRGrW9StEz5yQ93g5++rgnL`
+Snapshot ID: `AAAAABqU+dPrlzlugTy885L8D8qyx3oF`

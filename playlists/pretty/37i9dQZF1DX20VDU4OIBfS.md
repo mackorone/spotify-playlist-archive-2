@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 
 > Temas inolvidables del baúl de los recuerdos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,008,581 likes - 150 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,008,574 likes - 150 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 149 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:24 |
 | 150 | [Por Cobardía](https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0) | [Lila Deneken](https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG) | [Lila Deneken......Por Cobardía](https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN) | 4:44 |
 
-Snapshot ID: `AAAAAEXZtONd5HHC3yyf8X1H3Rhpw+yq`
+Snapshot ID: `AAAAAHx4i8kWONGOoIA9+AkYFgQE2lVV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Raúl Beltan 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,411 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,421 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 40 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:05 |
 | 41 | [Nunca Había Amado Así](https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Nunca Había Amado Así](https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK) | 3:42 |
 | 42 | [Emilia](https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Emilia](https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz) | 3:41 |
-| 43 | [No Me Amenaces \(En Vivo\)](https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [En Las Cantinas \(En vivo\)](https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N) | 3:16 |
+| 43 | [No Me Amenaces \- En Vivo](https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [En Las Cantinas \(En vivo\)](https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N) | 3:16 |
 | 44 | [Ay Amor](https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx) | [Valerio Mela “El Charro De Florencia”](https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ) | [Ay Amor](https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x) | 2:44 |
 | 45 | [El Adiós Ranchero](https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [El Adiós Ranchero](https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK) | 2:50 |
 | 46 | [El Conejo De La Luna](https://open.spotify.com/track/4IUi1wu0APhApdPHetqOql) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [El Conejo De La Luna](https://open.spotify.com/album/2YAGDIX4XNr301XxeHDJS4) | 3:38 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 52 | [Pajarillo](https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Pajarillo](https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7) | 3:49 |
 | 53 | [Popurrí Vicente Fernández: Lástima que seas ajena / Por tu maldito amor / La ley del monte / De qué manera te olvido / Volver, volver](https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Popurrí Vicente Fernández: Lástima que seas ajena / Por tu maldito amor / La ley del monte / De qué manera te olvido / Volver, volver](https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW) | 12:53 |
 | 54 | [Lo Que Se Dice Amor](https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Lo Que Se Dice Amor](https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI) | 3:12 |
-| 55 | [La Noche de Mi Mal](https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [La Noche de Mi Mal \(Versión Mariachi\)](https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO) | 3:43 |
+| 55 | [La Noche de Mi Mal](https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [La Noche de Mi Mal \(Versión Mariachi\)](https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO) | 4:00 |
 | 56 | [Así Fue](https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Así Fue](https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g) | 7:06 |
 | 57 | [Angelito Sin Alas](https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp) | [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Angelito Sin Alas](https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5) | 2:48 |
 | 58 | [Caballero](https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt) | [Mariachi Internacional CHG De Gamaliel Contreras Huerta](https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw) | [Caballero](https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj) | 3:47 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 78 | [Pintando sueños](https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Pintando sueños](https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x) | 3:42 |
 | 79 | [Después de ti](https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC) | [Victor Rodhes](https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk) | [Después de ti](https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf) | 3:42 |
 
-Snapshot ID: `AAAAAFrwOy+c2ql1/Ru3ZanFEcbJOQ2s`
+Snapshot ID: `AAAAANh35vyZh6SScj+ncIeJqsbr7KZk`

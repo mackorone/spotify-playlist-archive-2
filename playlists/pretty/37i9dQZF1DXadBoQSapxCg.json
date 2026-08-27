@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319646,
+  "num_followers": 319649,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEeLoPR9D3SC8HR0KBNXC0/1JNZO",
+  "snapshot_id": "AAAAAJXhvyDhwe1zmgEEfr33QAg4qWcs",
   "tracks": [
     {
       "added_at": "2026-05-22 03:01:24",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
+        "name": "Paga pra Ver",
+        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Paga pra Ver",
+      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
+    },
+    {
+      "added_at": "2026-05-22 03:01:24",
+      "album": {
         "name": "Faz A Posi\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
-        "name": "Paga pra Ver",
-        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
-      },
-      "artists": [
-        {
-          "name": "Barretin",
-          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Paga pra Ver",
-      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
-    },
-    {
-      "added_at": "2026-05-22 03:01:24",
-      "album": {
         "name": "S\u00f3 um Cadin",
         "url": "https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 175081,
       "name": "S\u00f3 um Cadin",
       "url": "https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj"
-    },
-    {
-      "added_at": "2026-05-22 03:01:24",
-      "album": {
-        "name": "Dissolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Fica na mesma",
-      "url": "https://open.spotify.com/track/3RBdM6NSJR3qbpNiyaLvXQ"
     },
     {
       "added_at": "2026-05-22 03:01:24",
@@ -983,6 +967,22 @@
       "duration_ms": 139605,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
+    },
+    {
+      "added_at": "2026-05-22 03:01:24",
+      "album": {
+        "name": "Dissolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "Fica na mesma",
+      "url": "https://open.spotify.com/track/3RBdM6NSJR3qbpNiyaLvXQ"
     },
     {
       "added_at": "2026-05-22 03:01:24",

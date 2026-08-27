@@ -8699,6 +8699,24 @@
     },
     {
       "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/5V3aOpDgcXhePNQSpXkiJ2"
+      },
+      "artists": [
+        {
+          "name": "Steven Luke",
+          "url": "https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/5QcqsZF84HiIiyLrSguLYM"
+    },
+    {
+      "album": {
         "name": "The Circle and the Stone",
         "url": "https://open.spotify.com/album/3R1XzgDWQ4Geeyl3YQeQTQ"
       },

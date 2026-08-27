@@ -21711,6 +21711,32 @@
     },
     {
       "album": {
+        "name": "Stay Away",
+        "url": "https://open.spotify.com/album/6lEm7rBODLnjVafJjHfK26"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/3Ytk6FIYM46CD9IpS8GTG5"
+    },
+    {
+      "album": {
         "name": "Stay Focused",
         "url": "https://open.spotify.com/album/52TpkDuLJnr60jik1BSeOb"
       },

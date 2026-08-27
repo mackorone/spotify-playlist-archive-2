@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,860 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,861 likes - 80 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 79 | [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 |
 | 80 | [Grace \- Collab Version](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Collab Version\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
 
-Snapshot ID: `AAAAAK2es343j5wpqZklfkoaAKAohVdr`
+Snapshot ID: `AAAAAEBfjtwyEmj8u287qk1k2xiZ/5jh`

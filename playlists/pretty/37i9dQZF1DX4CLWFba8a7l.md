@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > In this house we celebrate Australian music\. Cover: daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,419 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,429 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 99 | [Paradise](https://open.spotify.com/track/61ekTX6pGkKKvcvPRqzHre) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Paradise](https://open.spotify.com/album/4nOsWyFYDoLDRiiw2osaKL) | 3:14 |
 | 100 | [Serotonin](https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [AHHCade](https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo) | 2:06 |
 
-Snapshot ID: `AAAAAG721k33dZ2MD5RasowJe9BiO8F+`
+Snapshot ID: `AAAAAIhp/AnBbrWKgP6YGckfsWHGcZYn`

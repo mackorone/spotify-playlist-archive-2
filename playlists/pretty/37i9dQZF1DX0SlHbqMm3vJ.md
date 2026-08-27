@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > Sweet afro melodies\. Cover: Soundzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,231 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,268 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Ball](https://open.spotify.com/track/4C0SSSbwyxGSCxoEOUnXa2) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ball](https://open.spotify.com/album/46AbMXJHKRj8UfFIzPOUOn) | 2:56 |
 | 80 | [WILL I EVER](https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [WILL I EVER](https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi) | 2:54 |
 
-Snapshot ID: `AAAAAKd0AFP2jx4zVB6ASHEOCJ1JixGC`
+Snapshot ID: `AAAAAHuHjIFC/RezqybSsav4wRDt8a25`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,342 likes - 46 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,357 likes - 46 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 45 | [المزاج الرايق](https://open.spotify.com/track/6jKDv5nJc6WNKyy2RtDjP2) | [فهد بن جازع](https://open.spotify.com/artist/7zomIMNBDA13luA3e2VZZH) | [المزاج الرايق](https://open.spotify.com/album/4Xv7BDYkyNvzRfhQB6nxik) | 3:08 |
 | 46 | [تفضل](https://open.spotify.com/track/2EiRLUvll4IW6ISXvoO6zC) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [تفضل](https://open.spotify.com/album/2X957nw5fzyR9DA9ny9OCY) | 4:58 |
 
-Snapshot ID: `AAAAAHRsyyCjlcXzZu1Vv9wtvjeRnIMZ`
+Snapshot ID: `AAAAADVZ8wwVslxeLY73bsXN28xr3dG6`

@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 667460,
+  "num_followers": 667574,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIdk1boVU6FmB+VM0Mf56dq8wd4P",
+  "snapshot_id": "AAAAABWxQz9jHBZbjtfQCMzLSPsg4r8J",
   "tracks": [
     {
       "added_at": "2025-10-17 18:07:08",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 439266,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome (Ao Vivo)",
         "url": "https://open.spotify.com/album/63YHw72apN2b7cQ67H520u"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 382605,
       "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome - Ao Vivo",
       "url": "https://open.spotify.com/track/33WRUMm8kEIeP3OWuJEjiD"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 439266,
-      "name": "Ou\u00e7o Deus Me Chamar",
-      "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -995,26 +995,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 513960,
-      "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 483485,
       "name": "Tua Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 513960,
+      "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
     },
     {
       "added_at": "2025-10-17 18:07:08",

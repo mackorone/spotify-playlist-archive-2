@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Rex Orange County, Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,392 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,391 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 79 | [Fluent](https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Fluent](https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA) | 1:52 |
 | 80 | [Us Against The World](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 2:43 |
 
-Snapshot ID: `AAAAAMp49Hr5XQ/mXdgxPrXCT5NV4XHl`
+Snapshot ID: `AAAAAP7ChR/tgx2IUEvzI0UEG/1Wc3Kp`

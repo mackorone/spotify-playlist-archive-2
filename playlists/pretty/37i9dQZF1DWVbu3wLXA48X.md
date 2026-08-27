@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: HYUKOH
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,304 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,316 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [You Retreat In Time And Space](https://open.spotify.com/track/5m3Uzjuiyj8656EGM1bwhk) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:25 |
 | 100 | [Alwxys](https://open.spotify.com/track/4ijgUaNoZVuqLpSVhdG4kU) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Alwxys](https://open.spotify.com/album/3qbtTBZdQsEJPP2RHtZiiZ) | 3:41 |
 
-Snapshot ID: `AAAAAHRGDCcKjt7lkXn6bBU4+CfQ3Fym`
+Snapshot ID: `AAAAAKbkmCKQYu08VBsIbddyf7Ns9f2X`

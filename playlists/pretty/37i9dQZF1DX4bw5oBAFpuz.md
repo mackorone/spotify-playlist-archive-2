@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,651 likes - 250 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,648 likes - 250 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 190 | [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 |
 | 191 | [Crazy](https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa) | [Lisa Lois](https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL) | [Crazy](https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8) | 3:43 |
 | 192 | [DON.T \- Acoustic](https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [DON.T \(Acoustic\)](https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7) | 3:00 |
-| 193 | [Till The River Runs Dry](https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [Till The River Runs Dry](https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ) | 2:48 |
-| 194 | [Taken by Surprise](https://open.spotify.com/track/45zYIzXIPQtmXMfi9t5bZw) | [D'ORANGE](https://open.spotify.com/artist/0abQD9ni2Kya5l2PuIClfX) | [Taken by Surprise](https://open.spotify.com/album/0XCDf4QYg0U8l8fnbu36WF) | 3:01 |
+| 193 | [Taken by Surprise](https://open.spotify.com/track/45zYIzXIPQtmXMfi9t5bZw) | [D'ORANGE](https://open.spotify.com/artist/0abQD9ni2Kya5l2PuIClfX) | [Taken by Surprise](https://open.spotify.com/album/0XCDf4QYg0U8l8fnbu36WF) | 3:01 |
+| 194 | [Till The River Runs Dry](https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [Till The River Runs Dry](https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ) | 2:48 |
 | 195 | [Pool Party Pictures](https://open.spotify.com/track/4yQR6QjTtypwjNld6WW9Jn) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Pool Party Pictures](https://open.spotify.com/album/4pQwS0wLN2lnEecuFQg6mk) | 3:06 |
 | 196 | [Going Back Home](https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Songs to Soothe](https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K) | 3:18 |
 | 197 | [I Think I Feel Something](https://open.spotify.com/track/3FHEN0BCClagOpIxV2jaDY) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [I Think I Feel Something](https://open.spotify.com/album/2H85S87SVAeSEDk7g38qED) | 3:16 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 201 | [Beach House \- Acoustic](https://open.spotify.com/track/3glDKUTH8sQ1Cwlh0OY1OC) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Beach House \(Acoustic\)](https://open.spotify.com/album/7sSzWkRHmUv2lqt9keqCFi) | 3:43 |
 | 202 | [FRIENDS IN DENVER](https://open.spotify.com/track/3ksoDPpkK1CH4JJqOaYcX3) | [Ty Darling](https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8) | [FRIENDS IN DENVER](https://open.spotify.com/album/6sDqMla3CKnloHyQZ0a8Do) | 3:53 |
 | 203 | [Bobbie's Song](https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Bobbie's Song](https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP) | 2:25 |
-| 204 | [Take Mine](https://open.spotify.com/track/3xSYzg9q5ffAiYx8L9yqPd) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Take Mine](https://open.spotify.com/album/3g1nIwPP5IssjCmr0SZQjt) | 3:05 |
-| 205 | [December](https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu) | [KY.](https://open.spotify.com/artist/0hG1HYfwIxLXrvJlsaXXDk) | [December](https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ) | 3:13 |
+| 204 | [December](https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu) | [KY.](https://open.spotify.com/artist/0hG1HYfwIxLXrvJlsaXXDk) | [December](https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ) | 3:13 |
+| 205 | [Take Mine](https://open.spotify.com/track/3xSYzg9q5ffAiYx8L9yqPd) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Take Mine](https://open.spotify.com/album/3g1nIwPP5IssjCmr0SZQjt) | 3:05 |
 | 206 | [Starship Fantasy](https://open.spotify.com/track/0XKLRDrYJwxGuel9cKhIbd) | [Christian Kratzsch](https://open.spotify.com/artist/3c8IBhwIzheO7S7AfMfNqt), [Vinny G.](https://open.spotify.com/artist/7vN5IWvscJYNUzlNEBUZDL) | [Starship Fantasy](https://open.spotify.com/album/45ac94aq4QwSvQ0Q5DotFO) | 3:10 |
 | 207 | [Run Away](https://open.spotify.com/track/3DOcuiFDVd7eZqv8z8Ug91) | [Lex Maverick](https://open.spotify.com/artist/6apil1rIoQFyRHjkxHSF3k) | [Run Away](https://open.spotify.com/album/3Y47VDmgWHPjzPSotTBl2I) | 3:54 |
 | 208 | [When We First Met](https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [When We First Met](https://open.spotify.com/album/31CRztMM1ptaxOPfcqDohf) | 3:15 |
@@ -222,16 +222,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 212 | [Outside In](https://open.spotify.com/track/0DTy6hvkVfKBpGtMzBd4Fw) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Outside In](https://open.spotify.com/album/4fjRR9lgDZ7Xo3V84S25i3) | 2:41 |
 | 213 | [Ride or Die](https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Ride or Die](https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg) | 3:24 |
 | 214 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 |
-| 215 | [Laps Around The Sun](https://open.spotify.com/track/68ZVCePM9IP0MSbcmeZuup) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around the Sun](https://open.spotify.com/album/1mjMbSI9f1AYixV1CI7mLL) | 3:26 |
-| 216 | [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 |
+| 215 | [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 |
+| 216 | [Laps Around The Sun](https://open.spotify.com/track/68ZVCePM9IP0MSbcmeZuup) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around the Sun](https://open.spotify.com/album/1mjMbSI9f1AYixV1CI7mLL) | 3:26 |
 | 217 | [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 |
 | 218 | [Space for Two](https://open.spotify.com/track/2vNyWYQtbrgOKcSG64SZMJ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space for Two](https://open.spotify.com/album/6QdFacG9oVksFA7py1AltG) | 3:26 |
 | 219 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 |
 | 220 | [Die For You](https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Die For You](https://open.spotify.com/album/6EetSjlBdamHHg82She66u) | 3:06 |
 | 221 | [How Am I Gonna Love Myself](https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [How Am I Gonna Love Myself](https://open.spotify.com/album/5x9kqNOUiD5qinQu58cRDB) | 3:17 |
 | 222 | [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 |
-| 223 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 |
-| 224 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
+| 223 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
+| 224 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 |
 | 225 | [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 |
 | 226 | [Something in the Water](https://open.spotify.com/track/5ouXSHkPf6VnpeKqYuyBBU) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Something In The Water](https://open.spotify.com/album/1q1VBL1atF2cU73EECPj1N) | 3:03 |
 | 227 | [High Places \- Radio Edit](https://open.spotify.com/track/1yYde3eFSBjHFoO6whhg0r) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [Singles Only](https://open.spotify.com/album/7qCFhs5YoPhOnrNayHxgLK) | 3:44 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 249 | [Anywhere Away from Here \- Acoustic](https://open.spotify.com/track/01aXdW5k4lUDZEcIdRJl4u) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away from Here \(Acoustic\)](https://open.spotify.com/album/38SmU8Z29sjuIGHdHPyXKY) | 3:56 |
 | 250 | [Money In My Head](https://open.spotify.com/track/7cBiYJkUlPaBDhgt2LzBqe) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/2PuHWNSPxzkSmyCIj5K1EF) | 3:08 |
 
-Snapshot ID: `AAAAAE4CFZ1GxzKcrUItKXiKgfNKHnFM`
+Snapshot ID: `AAAAANwG0KWVeKp9S+m1pprvMQTQ60PM`

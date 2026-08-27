@@ -6853,6 +6853,28 @@
     },
     {
       "album": {
+        "name": "\u7121 \u6211 \u5922 \u4e2d",
+        "url": "https://open.spotify.com/album/3ZarYGauyoRQYalv82Ab7X"
+      },
+      "artists": [
+        {
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
+        },
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212352,
+      "name": "\u7121 \u6211 \u5922 \u4e2d",
+      "url": "https://open.spotify.com/track/4RAbg0zzGY6jXj4NjhTObG"
+    },
+    {
+      "album": {
         "name": "\u7834\u7dda\u306e\u6d99",
         "url": "https://open.spotify.com/album/07D1QO5OjgCf9RTD35NViD"
       },

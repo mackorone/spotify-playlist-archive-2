@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 175391,
+  "num_followers": 175399,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAABJLjo4pWM7fFZiaxiu+nGD",
+  "snapshot_id": "aozbAAAAAABG3QSz+ShGz6/BcqHSEbsH",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "These Alarms",
-        "url": "https://open.spotify.com/album/18yaAGsRMPGG24SxLPhu0K"
+        "name": "Murder Ballads (2011 Remaster)",
+        "url": "https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
         },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 201703,
-      "name": "These Alarms",
-      "url": "https://open.spotify.com/track/2IH6UvesVbl5dhFwf7syup"
+      "duration_ms": 237080,
+      "name": "Where the Wild Roses Grow - 2011 Remaster",
+      "url": "https://open.spotify.com/track/4LK8kGGY0FGSGIAk2GwI30"
     },
     {
       "added_at": null,
@@ -115,22 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murder Ballads (2011 Remaster)",
-        "url": "https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva"
+        "name": "These Alarms",
+        "url": "https://open.spotify.com/album/18yaAGsRMPGG24SxLPhu0K"
       },
       "artists": [
         {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Where the Wild Roses Grow - 2011 Remaster",
-      "url": "https://open.spotify.com/track/4LK8kGGY0FGSGIAk2GwI30"
+      "duration_ms": 201703,
+      "name": "These Alarms",
+      "url": "https://open.spotify.com/track/2IH6UvesVbl5dhFwf7syup"
     },
     {
       "added_at": null,
@@ -395,6 +395,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing When You're Winning",
+        "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 286706,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/21pvCJBSp34fC17YHOtw05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "On a Night Like This",
+      "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -579,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
       },
@@ -607,6 +627,22 @@
       "duration_ms": 239880,
       "name": "The One",
       "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
     },
     {
       "added_at": null,
@@ -651,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -671,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
       },
@@ -699,90 +735,6 @@
       "duration_ms": 197880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "A Second to Midnight",
-      "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Things We Do For Love",
-      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Miss a Thing",
-      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
     },
     {
       "added_at": null,
@@ -807,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
       "artists": [
         {
@@ -816,15 +768,15 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Turn It into Love",
-      "url": "https://open.spotify.com/track/1LH4pipBS71ZUPHmFS4gpC"
+      "duration_ms": 178880,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
       "artists": [
         {
@@ -832,29 +784,61 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Vegas High",
-      "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
+      "duration_ms": 260133,
+      "name": "Red Blooded Woman",
+      "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         },
         {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "A Second to Midnight",
+      "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enjoy Yourself",
+        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
+      },
+      "artists": [
+        {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 168599,
-      "name": "Stateside + Kylie Minogue",
-      "url": "https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY"
+      "duration_ms": 231082,
+      "name": "Hand on Your Heart",
+      "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
     },
     {
       "added_at": null,
@@ -868,15 +852,15 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 168293,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr"
+      "duration_ms": 189093,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
@@ -884,9 +868,25 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 200061,
-      "name": "Got to Be Certain",
-      "url": "https://open.spotify.com/track/7hsOcTJHQS6BxxPIyaNlvw"
+      "duration_ms": 189586,
+      "name": "Things We Do For Love",
+      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Turn It into Love",
+      "url": "https://open.spotify.com/track/1LH4pipBS71ZUPHmFS4gpC"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

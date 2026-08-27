@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wmMl3hU0gR.md) - [plain]
 
 > enjoy the DAY6 10th Anniversary Tour \[The DECADE\] LIVE SET including the voices of them on stage! \(데이식스의 무대 멘트와 목소리가 포함된 \[The DECADE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,439 likes - 37 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,447 likes - 37 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wmMl3hU0gR.md) - [plain]
 | 36 | [Ment 6 : Ending Message](https://open.spotify.com/track/4mKe8GjvwZyyxvcUq7M4ZS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [DAY6 10th Anniversary Tour \[The DECADE\]](https://open.spotify.com/album/2kDX3HVn05XRKmThlyofyA) | 2:36 |
 | 37 | [Best Part](https://open.spotify.com/track/2RrbI1ZEgs2UszjzA10IPl) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:41 |
 
-Snapshot ID: `AAAAAN4HYMoyfFIxxhwtQ1W8C1RukbPY`
+Snapshot ID: `AAAAAMy8RLO3VdyPRfPvc4GoLbBHD9d/`

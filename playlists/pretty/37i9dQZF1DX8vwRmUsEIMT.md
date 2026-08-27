@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,213 likes - 79 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,208 likes - 79 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [Knight In Shining Prada](https://open.spotify.com/track/3liYWWSuD0zcytDMrUqsEq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [John Joseph Holt](https://open.spotify.com/artist/3unwE3gwoHwyvsUnSUAGVC) | [Knight In Shining Prada](https://open.spotify.com/album/1nGTvi4XveHqEitXJHfOiQ) | 4:17 |
 | 79 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
 
-Snapshot ID: `AAAAAG5KASvuFzH0uHmx17u84GyK2JkN`
+Snapshot ID: `AAAAANLUwyaQ0n40H7rzbd4kSUGMbkVN`

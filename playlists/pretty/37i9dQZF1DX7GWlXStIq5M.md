@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Laura Schadeck
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,408 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,367 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 69 | [Caos e Poesia](https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo) | [Isix](https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug), [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv) | [Caos e Poesia](https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD) | 2:25 |
 | 70 | [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 |
 
-Snapshot ID: `AAAAADGL42zDSItyehG2bnhGNfHwN/Ze`
+Snapshot ID: `AAAAAFbiwtb9+bOcNdfEgOyo+u5I4FnQ`

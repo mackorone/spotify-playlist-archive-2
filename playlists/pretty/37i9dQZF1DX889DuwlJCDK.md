@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 丸竹夷
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,936 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,935 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 99 | [POP!](https://open.spotify.com/track/4ToKmMCpkAAzQudReD0GGT) | [13.3g](https://open.spotify.com/artist/1Q3gnCRHEHdl5JqbBTpWiy) | [POP!](https://open.spotify.com/album/62VX6HQd7qaLiLIaWLkBHD) | 3:48 |
 | 100 | [ANTARES](https://open.spotify.com/track/4T6f1eB8R8KmTKpWCCx4EP) | [SWALLOW](https://open.spotify.com/artist/7muZT7jbH05LsdRmWqWMOs) | [ANTARES](https://open.spotify.com/album/7IIk1KFet1Z5BA27zKQIkl) | 3:55 |
 
-Snapshot ID: `AAAAAKj0hFb6vfRILGibmgoHDPEJo/1V`
+Snapshot ID: `AAAAAIowt9N3N4rvx5WUjlQ/xKyPG9X0`

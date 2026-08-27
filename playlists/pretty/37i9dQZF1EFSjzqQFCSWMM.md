@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 50 | [Webb](https://open.spotify.com/track/4gbpSebHKlYXN64gj8k7XN) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [534RCH](https://open.spotify.com/album/0nZVVuTqGDbBnhBdLI8mJn) | 2:35 |
 | 51 | [APPARENT](https://open.spotify.com/track/0DMNW3e7MrwbNUxQfHvOj5) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 1:36 |
 | 52 | [CURBS](https://open.spotify.com/track/2H1VZ8zj7uzysemCySi5C1) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 2:05 |
-| 53 | [81](https://open.spotify.com/track/3wVU7RFynKLVyaiT4BmigQ) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV) | 2:10 |
-| 54 | [WILDIN](https://open.spotify.com/track/0SyHqKuXo2wuDgPJiHD2wx) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 2:00 |
+| 53 | [WILDIN](https://open.spotify.com/track/0SyHqKuXo2wuDgPJiHD2wx) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 2:00 |
+| 54 | [81](https://open.spotify.com/track/3wVU7RFynKLVyaiT4BmigQ) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV) | 2:10 |
 | 55 | [Too Attached](https://open.spotify.com/track/2Wp3n0MebrQyI0264yC3fG) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:41 |
 | 56 | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/track/3t7ohmWgtPcE1yXesf9oQU) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Will Juergens](https://open.spotify.com/artist/4Jz0bwESNeDnb8eo1tvpXX), [Cam Chambers](https://open.spotify.com/artist/6ljxfnGOuwFBz8Uw6C5gUj) | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/album/2EsAhFe68A3wSzwp2lMyxA) | 3:55 |
 | 57 | [DEBIT](https://open.spotify.com/track/6Maw1WXdmC2B1fhvjiQz6c) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 2:07 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 114 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 |
 | 115 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcajbAAAAAATvx0thf2KFrkDXbVXhysB`
+Snapshot ID: `AcaqEAAAAAAZeowY9evNoQzFtDDShaPG`

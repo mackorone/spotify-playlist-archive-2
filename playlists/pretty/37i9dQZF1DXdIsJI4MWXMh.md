@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,702 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,756 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 86 | [La Vida No Vale Nada](https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [La Vida No Vale Nada](https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC) | 3:24 |
 | 87 | [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 |
 | 88 | [De los Besos Que Te Di](https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [De los Besos Que Te Di](https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD) | 2:43 |
-| 89 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 |
-| 90 | [El Cabro Curao](https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [El Cabro Curao](https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj) | 3:06 |
+| 89 | [El Cabro Curao](https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [El Cabro Curao](https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj) | 3:06 |
+| 90 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 |
 | 91 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 |
 | 92 | [La Micaela](https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [La Micaela](https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT) | 3:15 |
 | 93 | [Los Mandados](https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Los Mandados](https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw) | 3:17 |
-| 94 | [En las Cantinas](https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [En las Cantinas](https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL) | 2:49 |
-| 95 | [El Muñeco](https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [El Muñeco](https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns) | 3:58 |
+| 94 | [El Muñeco](https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [El Muñeco](https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns) | 3:58 |
+| 95 | [En las Cantinas](https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [En las Cantinas](https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL) | 2:49 |
 | 96 | [Tu Amor Barato](https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g), [Incondicionales](https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog) | [Tu Amor Barato](https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA) | 3:16 |
 | 97 | [La Sustancia](https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 3:26 |
 | 98 | [Vivo en Tinieblas](https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [Vivo en Tinieblas](https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ) | 3:46 |
-| 99 | [Elenita](https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Corridos de Rancho](https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0) | 4:06 |
-| 100 | [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 |
+| 99 | [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 |
+| 100 | [Elenita](https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Corridos de Rancho](https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0) | 4:06 |
 
-Snapshot ID: `AAAAAHTbJgfjrbWFUfspbugGUHTytjHF`
+Snapshot ID: `AAAAAPgsovahySHzcZvIDsQVNa7ISUUi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Breathe slow, drift soft 🪷 calm beats to uncover the stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,567 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,578 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 74 | [street rain](https://open.spotify.com/track/47RU7lNBcOnk900RR9170z) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [street rain](https://open.spotify.com/album/0sXcIsldD8soezHecjCRlW) | 2:41 |
 | 75 | [Bonfire](https://open.spotify.com/track/3QAkdIvnrUlg2VGpT8HbIS) | [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo), [RdBeats](https://open.spotify.com/artist/77kFStmiMsr6uQ7w2GE5X9), [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Bonfire](https://open.spotify.com/album/2eVvDd56fI9nQs4cbdKAds) | 2:15 |
 
-Snapshot ID: `AAAAAAYAQYzK0u0wxSo5dUpd9Ejb45dk`
+Snapshot ID: `AAAAAMXQppj1wNDsBpG+EelIQeFoERie`

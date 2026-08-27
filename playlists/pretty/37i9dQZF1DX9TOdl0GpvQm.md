@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,214 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,261 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 97 | [Cloud Control](https://open.spotify.com/track/1kkwJyZZlp9WEmJvcQ0CZn) | [Pye Corner Audio with The Advisory Circle](https://open.spotify.com/artist/29C6FFgTDpuzN92DEnrHTl), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL), [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Study Series 07: Autumnal Activities](https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r) | 4:41 |
 | 98 | [Broken Theme](https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ) | [Chrome Canyon](https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T) | [Director](https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL) | 2:09 |
 | 99 | [Los Diablos de Ocumichu](https://open.spotify.com/track/53uL92e74ph06Lk295SmVt) | [Las Ánimas del Cuarto Obscuro](https://open.spotify.com/artist/7eZfC6FlTUeBsVRIGopJJ0) | [Las Ánimas](https://open.spotify.com/album/0jnBchHt1NOAYhs6Vu6ltP) | 2:05 |
-| 100 | [Caermaen](https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 3:41 |
+| 100 | [Sighting in Corridor 12](https://open.spotify.com/track/4Bl2Z2vukTroAm242DDtov) | [Roj](https://open.spotify.com/artist/1Rdnsxdsr0VSwEp7CAbjJA) | [The Transactional Dharma of Roj](https://open.spotify.com/album/02eqsFg2sNSi1wdHSfiEIC) | 1:20 |
 
-Snapshot ID: `AAAAAO0wH/exF14fJyrghXYGNf/7w8Vy`
+Snapshot ID: `AAAAALmhCtj7STslUC4tLnwpaMKB+jJT`

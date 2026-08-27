@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Jon Hassell
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,899 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,010 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [your arms full](https://open.spotify.com/track/5HOL7wVit887te2jzLHqET) | [illi mel](https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K) | [the younger world](https://open.spotify.com/album/6nj82i0Pgv0sQE44LdLaDA) | 3:10 |
 | 100 | [ARMOUNIUM](https://open.spotify.com/track/1dO5K2NVmlxbCXMGwPUq2y) | [Transgresorcorruptor](https://open.spotify.com/artist/4eUhfPvLLg3W6H8n8uRnd3) | [MOURLY](https://open.spotify.com/album/0nXZVfzFs7vLU74LonB4ux) | 3:18 |
 
-Snapshot ID: `AAAAAMTd9TGJo4jNJwdjWes///s1T93X`
+Snapshot ID: `AAAAAJR+kYj8JZwDNQNIV/x0EmAr/z7C`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,157 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,161 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Pudo Ser](https://open.spotify.com/track/26lEheREspOWbnNdHyXYp9) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du) | 5:23 |
 | 35 | [Marmota](https://open.spotify.com/track/2uBslBzniJrOGbVBuUeFjB) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló y Yo Sigo Volando](https://open.spotify.com/album/6oCgx5mp3ZK7AbMKmMLBUz) | 4:42 |
 
-Snapshot ID: `AAAAAGxZ5aq6z4E1g0VcIgpNfUeAQVqO`
+Snapshot ID: `AAAAANhfu1fkvrDXf7khP68kO4q+qJL0`

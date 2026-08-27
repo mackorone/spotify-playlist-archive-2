@@ -1,12 +1,12 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: effe",
-  "num_followers": 257666,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Brat Star",
+  "num_followers": 257745,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABFhKqvFsRjYkJ/C/hrme6kN6WOu",
+  "snapshot_id": "AAAAALqx7sOArvT001th0YwglkyEGN8b",
   "tracks": [
     {
       "added_at": "2026-08-19 04:00:34",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2LhLS3al7M0Y98Ajx14zFU"
     },
     {
+      "added_at": "2026-08-26 14:02:15",
+      "album": {
+        "name": "rain check",
+        "url": "https://open.spotify.com/album/2EpAvrwXKNBg5fEocPvqXQ"
+      },
+      "artists": [
+        {
+          "name": "ISSA ODYSSEA",
+          "url": "https://open.spotify.com/artist/4u6YIdpozMioHPfP00QJDc"
+        }
+      ],
+      "duration_ms": 154286,
+      "name": "rain check",
+      "url": "https://open.spotify.com/track/7Idl1wpePeNsYZrvJvg0Gu"
+    },
+    {
       "added_at": "2026-08-19 04:00:34",
       "album": {
         "name": "Tails",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/2Mx3rxRrUuZQjYGyZgQTPR"
     },
     {
+      "added_at": "2026-08-26 17:29:15",
+      "album": {
+        "name": "hey fever",
+        "url": "https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG"
+      },
+      "artists": [
+        {
+          "name": "Whu Else",
+          "url": "https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML"
+        }
+      ],
+      "duration_ms": 122416,
+      "name": "hey fever",
+      "url": "https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl"
+    },
+    {
       "added_at": "2026-08-12 14:30:20",
       "album": {
         "name": "Solder",
@@ -55,6 +87,22 @@
       "duration_ms": 178773,
       "name": "Tears Always Burn",
       "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
+    },
+    {
+      "added_at": "2026-08-26 14:07:05",
+      "album": {
+        "name": "St. Catherine Street",
+        "url": "https://open.spotify.com/album/1SxD7EDy9nJ2GkUuPd8ymZ"
+      },
+      "artists": [
+        {
+          "name": "James Eichman",
+          "url": "https://open.spotify.com/artist/2N4UnqiFhPpxPRzs0uFEw6"
+        }
+      ],
+      "duration_ms": 192940,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/4VeCTWzYKHylYIuJyjBIVy"
     },
     {
       "added_at": "2026-08-19 04:00:34",
@@ -105,6 +153,22 @@
       "url": "https://open.spotify.com/track/7mvF2BeRdbNMuncq6YjMy1"
     },
     {
+      "added_at": "2026-08-26 14:02:15",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/14JU7Mg0jfVh3Xu6kE7PAi"
+      },
+      "artists": [
+        {
+          "name": "Marital Bed",
+          "url": "https://open.spotify.com/artist/4aDnOKq2hvJRJ9S99RlZWg"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0PCCqCvjUjN0fq3fnjRc8K"
+    },
+    {
       "added_at": "2026-08-19 04:00:34",
       "album": {
         "name": "the cops are coming",
@@ -135,6 +199,38 @@
       "duration_ms": 77231,
       "name": "pink",
       "url": "https://open.spotify.com/track/0ipRyDKkHbWUNBtfUP1UzO"
+    },
+    {
+      "added_at": "2026-08-26 14:02:15",
+      "album": {
+        "name": "NO BODY",
+        "url": "https://open.spotify.com/album/6vs1EbTgZTd7SRvs1Bh5Ja"
+      },
+      "artists": [
+        {
+          "name": "O Slow",
+          "url": "https://open.spotify.com/artist/0ijd9yK1L498sGUvOmv4KA"
+        }
+      ],
+      "duration_ms": 156847,
+      "name": "NO BODY",
+      "url": "https://open.spotify.com/track/30UxRlwU27aXa9Q6WvPbBA"
+    },
+    {
+      "added_at": "2026-08-26 14:02:15",
+      "album": {
+        "name": "Margot Tenenbaum",
+        "url": "https://open.spotify.com/album/659OMSfaxLVG5c0GzpWyfz"
+      },
+      "artists": [
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Margot Tenenbaum",
+      "url": "https://open.spotify.com/track/0mVl3BQkaK38OHUJ3AU7Tb"
     },
     {
       "added_at": "2026-08-05 16:00:14",
@@ -199,6 +295,22 @@
       "duration_ms": 136066,
       "name": "Getting Older",
       "url": "https://open.spotify.com/track/31N3n74RprUGrTPLekOKto"
+    },
+    {
+      "added_at": "2026-08-26 14:02:15",
+      "album": {
+        "name": "Bones Forever",
+        "url": "https://open.spotify.com/album/3C2Eo4tSee1Ep9s3JSOrlD"
+      },
+      "artists": [
+        {
+          "name": "Bones Forever",
+          "url": "https://open.spotify.com/artist/16eWMKOPHbBrZBqtG8pZiU"
+        }
+      ],
+      "duration_ms": 344001,
+      "name": "The Land That's Always There",
+      "url": "https://open.spotify.com/track/0cry4TyixOiWNCftCOAOlJ"
     },
     {
       "added_at": "2026-08-05 17:48:18",
@@ -1391,22 +1503,6 @@
       "duration_ms": 182991,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7ceXS6lQW6ypMvRumTvJXm"
-    },
-    {
-      "added_at": "2026-05-27 04:00:16",
-      "album": {
-        "name": "Hold my hand hunter",
-        "url": "https://open.spotify.com/album/3dFrkww4L3x69kQAfPdoTp"
-      },
-      "artists": [
-        {
-          "name": "Eilish Constance",
-          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
-        }
-      ],
-      "duration_ms": 185123,
-      "name": "Hold my hand hunter",
-      "url": "https://open.spotify.com/track/03Zbp9zGdjropRUoy7xoLE"
     }
   ],
   "unique_name": "Fresh Finds Indie",

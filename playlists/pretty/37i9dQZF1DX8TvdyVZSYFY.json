@@ -1,12 +1,12 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2089826,
+  "num_followers": 2089812,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL8CUNBFxmxaL+LKPDbvVufD8P7q",
+  "snapshot_id": "AAAAAFBqjpDwjYaUhyOrlY4Q6MuKxVbX",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4167,22 +4167,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Shotgun (Acoustic Version)",
-        "url": "https://open.spotify.com/album/07UqxHoaAeemManpiWR8HU"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 204381,
-      "name": "Shotgun - Acoustic Version",
-      "url": "https://open.spotify.com/track/6kH01KoU0eNgOmiUWvHGVk"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/4LqKBvjdd3Pw0xwXWhU8mr"
       },
@@ -4203,6 +4187,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Shotgun (Acoustic Version)",
+        "url": "https://open.spotify.com/album/07UqxHoaAeemManpiWR8HU"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 204381,
+      "name": "Shotgun - Acoustic Version",
+      "url": "https://open.spotify.com/track/6kH01KoU0eNgOmiUWvHGVk"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Acoustic Hits",
         "url": "https://open.spotify.com/album/1LWrSkK04xdY2L4sVuJZZx"
       },
@@ -4219,22 +4219,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Vault Playlist Vol. 1",
         "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
       },
@@ -4247,6 +4231,22 @@
       "duration_ms": 259569,
       "name": "No One - Acoustic",
       "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4299,22 +4299,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "Heaven - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "FRIENDS (Acoustic)",
         "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
       },
@@ -4331,6 +4315,22 @@
       "duration_ms": 209434,
       "name": "FRIENDS - Acoustic",
       "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "Heaven - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4435,22 +4435,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "More Than You Know (Acoustic)",
-        "url": "https://open.spotify.com/album/79WvqpQzRvnLlrB64S2bCA"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "More Than You Know - Acoustic",
-      "url": "https://open.spotify.com/track/24XOlemQJORg0nBJAHC24p"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Hear The Bells",
         "url": "https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA"
       },
@@ -4463,6 +4447,22 @@
       "duration_ms": 278346,
       "name": "A Thousand Miles (Live Acoustic)",
       "url": "https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/79WvqpQzRvnLlrB64S2bCA"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/24XOlemQJORg0nBJAHC24p"
     },
     {
       "added_at": "2023-10-23 17:16:00",

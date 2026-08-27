@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Norah Jones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,537 likes - 288 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,546 likes - 288 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,21 +196,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 186 | [Come Clean \- Spotify Singles](https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 2:39 |
 | 187 | [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 |
 | 188 | [Frozen \- Spotify Singles](https://open.spotify.com/track/5RYQc6iLLJ4KOBxT94blVF) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 4:23 |
-| 189 | [Reasons I Drink](https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 3:38 |
-| 190 | [Guess Who I Saw Today \- Spotify Singles](https://open.spotify.com/track/4y8HI6WI29umdAguVPwFpu) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 6:08 |
+| 189 | [Guess Who I Saw Today \- Spotify Singles](https://open.spotify.com/track/4y8HI6WI29umdAguVPwFpu) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 6:08 |
+| 190 | [Reasons I Drink](https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 3:38 |
 | 191 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
 | 192 | [Friends \- Spotify Singles](https://open.spotify.com/track/2KGVkBbgimzFotFamGtD2a) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Spotify Singles](https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf) | 2:20 |
 | 193 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
 | 194 | [The Great Pretender \- Spotify Singles](https://open.spotify.com/track/23pT5oehBgjEfysUkwWouv) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 3:26 |
-| 195 | [Hoodie \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5agF0y6utHAyX4LV0wQmeB) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:44 |
-| 196 | [Hate myself \- Spotify Singles](https://open.spotify.com/track/79KrPknij8FGaflUga6YII) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [Hate myself \- Spotify Singles](https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP) | 2:35 |
+| 195 | [Hate myself \- Spotify Singles](https://open.spotify.com/track/79KrPknij8FGaflUga6YII) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [Hate myself \- Spotify Singles](https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP) | 2:35 |
+| 196 | [Hoodie \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5agF0y6utHAyX4LV0wQmeB) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:44 |
 | 197 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 |
 | 198 | [Rockstar \- Spotify Singles](https://open.spotify.com/track/1vhlo7Ra1stG1lZvG0TuZH) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Spotify Singles](https://open.spotify.com/album/0Fi9ygxrr6Q6Th3DjKgVjS) | 3:23 |
 | 199 | [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 |
 | 200 | [My Wave \- Spotify Singles](https://open.spotify.com/track/0lIMzHgepiowXBAsGtkcpt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:30 |
 | 201 | [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 |
-| 202 | [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 |
-| 203 | [Remind Me \- Recorded at East West Studios](https://open.spotify.com/track/0kEsPkTywuo1sMXdTj0bce) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 4:56 |
+| 202 | [Remind Me \- Recorded at East West Studios](https://open.spotify.com/track/0kEsPkTywuo1sMXdTj0bce) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 4:56 |
+| 203 | [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 |
 | 204 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
 | 205 | [everything i wanted \- Recorded live at Abbey Road Studios, London](https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Spotify Singles](https://open.spotify.com/album/156cHVsJv86Wi7e9IHIKRx) | 4:29 |
 | 206 | [Unconditional Love](https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Spotify Singles](https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF) | 9:08 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 287 | [Face Like Thunder](https://open.spotify.com/track/5kw9jb88rFkh8F5vFkAI9l) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 4:14 |
 | 288 | [Wild Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4aWsyx9WR3xQOQtoHXOX3t) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 4:27 |
 
-Snapshot ID: `AAAAAGcbazEbDqBXWwd5JjOxpZF+VDNE`
+Snapshot ID: `AAAAAHqoFPnaoDj/oiFiPhaHn5fRA6l7`

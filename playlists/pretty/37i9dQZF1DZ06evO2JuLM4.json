@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 123890,
+  "num_followers": 123910,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAAAvOd/KDlA5vjnt5UmwuZ8A",
+  "snapshot_id": "aozbAAAAAAAvUSuXoxds2Whzx5ympmG9",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": null,
@@ -59,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Dead Leaves and the Dirty Ground",
-      "url": "https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 212888,
       "name": "The Hardest Button to Button",
       "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 110093,
+      "name": "Fell In Love With a Girl",
+      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
       "added_at": null,
@@ -116,25 +132,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 156266,
-      "name": "Hello Operator",
-      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 130333,
-      "name": "Hotel Yorba",
-      "url": "https://open.spotify.com/track/4faZbPZPQAmHADVtQNsv5E"
+      "duration_ms": 133293,
+      "name": "Apple Blossom",
+      "url": "https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y"
     },
     {
       "added_at": null,
@@ -148,9 +148,25 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 166466,
-      "name": "I Just Don't Know What to Do With Myself",
-      "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
+      "duration_ms": 438551,
+      "name": "Ball and Biscuit",
+      "url": "https://open.spotify.com/track/0O2SYh5AZ0y8MAPOVC4Mxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Dead Leaves and the Dirty Ground",
+      "url": "https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2"
     },
     {
       "added_at": null,
@@ -171,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
       "artists": [
         {
@@ -180,9 +196,25 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 234400,
-      "name": "You Don't Know What Love Is (You Just Do as You're Told)",
-      "url": "https://open.spotify.com/track/2PVq6RRjQpycXb6yQEkHHt"
+      "duration_ms": 156266,
+      "name": "Hello Operator",
+      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "I Just Don't Know What to Do With Myself",
+      "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
     },
     {
       "added_at": null,
@@ -196,9 +228,41 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 50360,
-      "name": "Little Room",
-      "url": "https://open.spotify.com/track/1ltf1XEP18QMCMRRQtFbAl"
+      "duration_ms": 130333,
+      "name": "Hotel Yorba",
+      "url": "https://open.spotify.com/track/4faZbPZPQAmHADVtQNsv5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 35226,
+      "name": "Passive Manipulation",
+      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Rag and Bone",
+      "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
     },
     {
       "added_at": null,
@@ -219,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The White Stripes Greatest Hits",
-        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
@@ -228,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/3zAT4htM49OptjvWwxyZMX"
+      "duration_ms": 50360,
+      "name": "Little Room",
+      "url": "https://open.spotify.com/track/1ltf1XEP18QMCMRRQtFbAl"
     },
     {
       "added_at": null,
@@ -251,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
       },
       "artists": [
         {
@@ -260,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Offend In Every Way",
-      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
+      "duration_ms": 234400,
+      "name": "You Don't Know What Love Is (You Just Do as You're Told)",
+      "url": "https://open.spotify.com/track/2PVq6RRjQpycXb6yQEkHHt"
     },
     {
       "added_at": null,
@@ -283,6 +347,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "The White Stripes Greatest Hits",
+        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3zAT4htM49OptjvWwxyZMX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Offend In Every Way",
+      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Catch Hell Blues",
+      "url": "https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
@@ -299,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
       "artists": [
         {
@@ -308,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 109720,
-      "name": "You're Pretty Good Looking (For a Girl)",
-      "url": "https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO"
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
       "added_at": null,
@@ -331,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
       "artists": [
         {
@@ -340,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 220266,
-      "name": "The Air Near My Fingers",
-      "url": "https://open.spotify.com/track/7FvSjeL3svbbiPo2Rgirny"
+      "duration_ms": 109720,
+      "name": "You're Pretty Good Looking (For a Girl)",
+      "url": "https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO"
     },
     {
       "added_at": null,
@@ -388,15 +516,15 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 274533,
-      "name": "I'm Slowly Turning Into You",
-      "url": "https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG"
+      "duration_ms": 225400,
+      "name": "Little Cream Soda",
+      "url": "https://open.spotify.com/track/6c8EgiX8YLkb3dmQHCEbfN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
       "artists": [
         {
@@ -404,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 262573,
-      "name": "Take, Take, Take",
-      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
+      "duration_ms": 194546,
+      "name": "Truth Doesn't Make a Noise",
+      "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
     },
     {
       "added_at": null,
@@ -427,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
       "artists": [
         {
@@ -436,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 206333,
-      "name": "The Union Forever",
-      "url": "https://open.spotify.com/track/2KsIyyd0aitfRhliFDRpId"
+      "duration_ms": 262573,
+      "name": "Take, Take, Take",
+      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
     },
     {
       "added_at": null,
@@ -459,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+        "name": "Hand Springs",
+        "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
       },
       "artists": [
         {
@@ -468,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 328560,
-      "name": "300 M.P.H. Torrential Outpour Blues",
-      "url": "https://open.spotify.com/track/6EZiB3Cb8WI4GNADA5y9cF"
+      "duration_ms": 176045,
+      "name": "Hand Springs",
+      "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
     },
     {
       "added_at": null,
@@ -491,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hand Springs",
-        "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
+        "name": "Lafayette Blues",
+        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
       },
       "artists": [
         {
@@ -500,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 176045,
-      "name": "Hand Springs",
-      "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
+      "duration_ms": 135800,
+      "name": "Lafayette Blues",
+      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
     },
     {
       "added_at": null,
@@ -523,70 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "A Martyr for My Love for You",
-      "url": "https://open.spotify.com/track/46trhGOpR1wVqm59HMVLAh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "I Fought Piranhas",
-      "url": "https://open.spotify.com/track/0hPrfUVJii1F0E98acDiFM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Let's Build a Home",
-      "url": "https://open.spotify.com/track/6eRkRjdcXutZWhXvhbqKTm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lafayette Blues",
-        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Lafayette Blues",
-      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "City Lights (Previously Unreleased)",
         "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
       },
@@ -603,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
       "artists": [
         {
@@ -612,25 +676,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 211800,
-      "name": "I Can Learn",
-      "url": "https://open.spotify.com/track/1x3HAFk6sG6InmBOmB2x4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 202240,
-      "name": "Why Can't You Be Nicer to Me?",
-      "url": "https://open.spotify.com/track/2mcIqH8wKpaRr554Tj4tFM"
+      "duration_ms": 114360,
+      "name": "When I Hear My Name",
+      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
     },
     {
       "added_at": null,
@@ -651,54 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 111040,
-      "name": "Broken Bricks",
-      "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "As Ugly As I Seem",
-      "url": "https://open.spotify.com/track/5mKPLTRvJPfKRhiNf0GBuW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Sister, Do You Know My Name?",
-      "url": "https://open.spotify.com/track/1h1CncaFyTssQ9zGiHy1Ez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Under Great White Northern Lights (Live)",
         "url": "https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W"
       },
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Yorba (Live at Hotel Yorba)",
-        "url": "https://open.spotify.com/album/2upyV5uITU3hDbdDPPKUGA"
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 172573,
-      "name": "Rated X - Live at Hotel Yorba",
-      "url": "https://open.spotify.com/track/7j7M5QszpIxwh6u9dvjT8x"
+      "duration_ms": 149066,
+      "name": "Jimmy the Exploder",
+      "url": "https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK"
     }
   ],
   "unique_name": "This Is The White Stripes",

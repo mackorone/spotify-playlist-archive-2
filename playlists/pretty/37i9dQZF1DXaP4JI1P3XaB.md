@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 
 > A warm glittering glow of ambient jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,946 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,013 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 | 49 | [Off Piste](https://open.spotify.com/track/3iwI1obKrkkfeBNl3bqt3T) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0), [Art Themen](https://open.spotify.com/artist/44ocyaoesOgc5KjTR3D2Ob) | [Off\-Piste](https://open.spotify.com/album/0gxTsSlEsWib1zKa5lZs71) | 7:44 |
 | 50 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 |
 
-Snapshot ID: `AAAAAFN7zxf/EoTUigZD43h7JR1Qmb+s`
+Snapshot ID: `AAAAAHJBSL5UA74Y7NmOzmS+cUeixykW`

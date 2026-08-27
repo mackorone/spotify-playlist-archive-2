@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Wage War
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,304 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,262 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [friends](https://open.spotify.com/track/5zjKlYgbGLwulwd3PSw6sH) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [friends](https://open.spotify.com/album/6VL4apqN4gqucDL8RvsVEs) | 3:42 |
 | 100 | [PUT A HIT ON](https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK) | [MUTTLEE](https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L) | [PUT A HIT ON](https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2) | 2:54 |
 
-Snapshot ID: `AAAAAFFTOJlJBtz3nwqT+QOeWekoYUJm`
+Snapshot ID: `AAAAAJjPFqHDT81SeIyR13NC++GHwc1A`

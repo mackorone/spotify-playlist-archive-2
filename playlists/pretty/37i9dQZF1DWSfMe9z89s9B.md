@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,311,082 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,947 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
 | 150 | [intention 4 u](https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [intention 4 u](https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57) | 4:00 |
 
-Snapshot ID: `AAAAAIJtI4OzT4T//yINKb5JNNciJ3/H`
+Snapshot ID: `AAAAAFqC3Gf0qq+l+VHRSNu0gJgdIRo2`

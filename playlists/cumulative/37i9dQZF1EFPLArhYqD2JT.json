@@ -804,7 +804,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 175346,
       "name": "Anna Liza's Wedding Day",
       "url": "https://open.spotify.com/track/3Y7Cia7mSwa7pnQMnGJTpQ"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 165106,
       "name": "Down In Chattanooga",
       "url": "https://open.spotify.com/track/7CeCIsxnrqr84L67Evk8bo"
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 165106,
       "name": "Down In Chattanooga",
       "url": "https://open.spotify.com/track/2tcmbOCiQIA9mKHuvTsLmC"
@@ -4037,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "Peter Pan The Musical",
+        "url": "https://open.spotify.com/album/0oBTfgxZAXMy4L4NzmXf8B"
+      },
+      "artists": [
+        {
+          "name": "Mary Martin & Kathy Nolan & Robert Harrington & Joseph Stafford",
+          "url": "https://open.spotify.com/artist/61X8a3K7tIiMVq3WySwn4B"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "I'm Flying",
+      "url": "https://open.spotify.com/track/7iE60WIpNM7OGnOO0ZySRx"
+    },
+    {
+      "album": {
         "name": "Chip Deffaa's Say It with Music: The Irving Berlin Saga (The Cast Album)",
         "url": "https://open.spotify.com/album/0ZA1yb3FoJSwMNeqXrMjrd"
       },
@@ -5384,7 +5402,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -5758,7 +5776,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-27",
       "duration_ms": 170813,
       "name": "Looking at You (12)",
       "url": "https://open.spotify.com/track/0EZLRmLkHf6PZvtm6MIGl5"
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 158080,
       "name": "Mr. Jazz Himself",
       "url": "https://open.spotify.com/track/1YAXKxFmhMOvdywBe5dYn7"
@@ -8846,6 +8864,28 @@
       "duration_ms": 179120,
       "name": "The Girls of My Dreams",
       "url": "https://open.spotify.com/track/7ektE2x3m4iGjB49z08tMH"
+    },
+    {
+      "album": {
+        "name": "Original Movie Themes, Vol. 7 (1936-1943)",
+        "url": "https://open.spotify.com/album/4DCm7OYzq3z7OR4jjc68fN"
+      },
+      "artists": [
+        {
+          "name": "Irving Berlin",
+          "url": "https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii"
+        },
+        {
+          "name": "Fanny Brice",
+          "url": "https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157984,
+      "name": "The Great Ziegfeld: Yiddle on Your Fiddle",
+      "url": "https://open.spotify.com/track/4A7TgkyMlrEwIiVFMXbTlm"
     },
     {
       "album": {

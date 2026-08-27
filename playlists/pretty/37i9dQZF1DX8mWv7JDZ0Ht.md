@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  GIANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,632 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,621 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 69 | [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 |
 | 70 | [Pôr Do Sol Avisa](https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Pôr Do Sol Avisa](https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS) | 2:25 |
 
-Snapshot ID: `AAAAAMtX10BQrgjQLWXcrJ7kRecodOWr`
+Snapshot ID: `AAAAABOOz7UehssQnDfJlh3xVp/5ZHZQ`

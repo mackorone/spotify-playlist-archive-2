@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,699 likes - 100 songs - 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,787 likes - 100 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 90 | [Stands Forever \- Live](https://open.spotify.com/track/4Xi2LclZmoo8RyKwy8f15Y) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Stands Forever \(Live\)](https://open.spotify.com/album/2addKEkdPFVh2wP1xhmXaJ) | 6:54 |
 | 91 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 |
 | 92 | [Show Up \- Live](https://open.spotify.com/track/4huqKWlhldHQOz66KW60iK) | [Jeremiah Nkwocha](https://open.spotify.com/artist/1kHd1wOgZPzBQsprlGBJ8a), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Show Up \(Live\)](https://open.spotify.com/album/1JMkm1qzX54Dm0sqgP6aNr) | 16:53 |
-| 93 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
+| 93 | [Thath'Indawo \- Live](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
 | 94 | [Jesu O \(Live\)](https://open.spotify.com/track/4hN0MbGDinXaKHVyHiddwr) | [Minstrel John Leke](https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o), [Shiloh\-JewEl Idoko](https://open.spotify.com/artist/4X05DqwYWzocKj5vpmzfGa) | [Jesu O \(Live\)](https://open.spotify.com/album/5oISUI4BzFdWp7qwe1UEjB) | 11:16 |
 | 95 | [Asafo Yehowa \(LIVE\) \[feat\. Kobby Mantey\]](https://open.spotify.com/track/0F6xKCRG1UFvhgJN9EUiZ4) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI), [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc) | [After The Storm \(Live Recording\)](https://open.spotify.com/album/6h78wycG4MrWX6X7SZ9Mdj) | 4:52 |
 | 96 | [RIVER FLOW \- Live](https://open.spotify.com/track/08odXNEvezN6ztXa6XZyId) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [RIVER FLOW \(Live\)](https://open.spotify.com/album/5Lb0gOpbCIBXzU6MtRPe89) | 10:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Inu ndi Ine \- Live](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 9:24 |
 | 100 | [Sogi Dinma \- Live](https://open.spotify.com/track/0GfWb4fY2yBqw68W9plG4e) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Timeless Worship](https://open.spotify.com/album/4BkFAoxcGeg7I3wQpsrY8I) | 14:55 |
 
-Snapshot ID: `AAAAAJxQft5qcVNg3bEKQ+eEOooXmWUh`
+Snapshot ID: `AAAAAGc/luX0n1ey7bfAlcClWY2gQger`

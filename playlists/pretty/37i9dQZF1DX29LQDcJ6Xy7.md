@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,444 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,505 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Feed Our Lie](https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Feed Our Lie](https://open.spotify.com/album/16ZUBw17hhLFdrWTDr94VP) | 4:06 |
 | 100 | [Drugged Dangerous & Damned \- Jagz Kooner Remix \- Edit](https://open.spotify.com/track/57RSLuRekrQmayp76jvrov) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0), [Jagz Kooner](https://open.spotify.com/artist/3SN6EWQeA35CQctMefRkcd) | [Pain Killer \(Remixes\)](https://open.spotify.com/album/6VEbUccU7tPRKcObK26kwe) | 4:16 |
 
-Snapshot ID: `AAAAAB0s4QuuYwFK937E8BheQcYJ2s1f`
+Snapshot ID: `AAAAABhnrQ5f/t2QMEHI09lexWfS26Ie`

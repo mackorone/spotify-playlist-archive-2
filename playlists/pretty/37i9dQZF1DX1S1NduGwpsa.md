@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Léon Phal
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,070 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,088 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
 | 60 | [Sun Showers](https://open.spotify.com/track/0ZhP7MAHSl4n3UBIjcbyqa) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Sun Showers](https://open.spotify.com/album/4B2Bga4grO8W0wnLxQbfY5) | 3:06 |
 
-Snapshot ID: `AAAAAPeXdfZRrttyuZAtLfiyuPIEFM0/`
+Snapshot ID: `AAAAACmFoSeu+b0pbUd3D1lh5rhq1/QP`

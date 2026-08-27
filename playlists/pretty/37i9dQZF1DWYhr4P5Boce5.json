@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210049,
+  "num_followers": 210050,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYHjLlpWs8E8fihWvihSgKnlYL9",
+  "snapshot_id": "AAAAAG1s1oMeQf050rMZokBoihs4ZdEF",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Capuchino de Amor",
+        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 298092,
+      "name": "Capuchino de Amor",
+      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Capuchino de Amor",
-        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 298092,
-      "name": "Capuchino de Amor",
-      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
     },
     {
       "added_at": "2026-07-29 15:15:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,019 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,033 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 74 | [A Country Heart Can](https://open.spotify.com/track/7HYok2NXE23LtYygubuvIO) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [A Country Heart Can](https://open.spotify.com/album/18ly6QslPPTJFkE5XBwjmS) | 3:43 |
 | 75 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 
-Snapshot ID: `AAAAAC4f+IoVZw3lpPrwDHA+Wf9LKGgn`
+Snapshot ID: `AAAAAB2p/+5znaF5NWOju+7Mh/lengne`

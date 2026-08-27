@@ -16,4 +16,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7B4HyZbWHdY.md) - [plain]
 | 6 | [Reading your Delulu moments](https://open.spotify.com/episode/7qnSJotFYaYp1gdcDuVla8) | [Gift Podcast](https://open.spotify.com/show/27mE8nd1Fi2hpQ5piapX98) | [Gift Podcast](https://open.spotify.com/album/27mE8nd1Fi2hpQ5piapX98) | 20:45 |
 | 7 | [Ep 7: The 3 Kinds of Love](https://open.spotify.com/episode/5YHiXUKjhnj0hVSH3YMdyR) | [Love TONIght](https://open.spotify.com/show/7g00qHYPnnZzPgobjZX3qU) | [Love TONIght](https://open.spotify.com/album/7g00qHYPnnZzPgobjZX3qU) | 15:53 |
 
-Snapshot ID: `AAAAABrw5styYeCj41sc+P8Hj30THz3r`
+Snapshot ID: `AAAAANQlZMDbcHzvf1IYzKNZUwrV34nO`
