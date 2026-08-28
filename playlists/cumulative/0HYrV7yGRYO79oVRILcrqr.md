@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-694 songs - 1 day 19 hr 8 min
+697 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [All Alone \- Went to the Bone Solo Version](https://open.spotify.com/track/5RnLoAlp8H4oKl15MGtM4y) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf) | [Back of the Wreck](https://open.spotify.com/album/1UeyVHTtupC0nBL7fr8H9V) | 2:37 | 2026-03-24 | 2026-04-21 |
 | [All Night Long](https://open.spotify.com/track/6MaZOeeOYizaXQMHJ4odyR) | [Katarina & Her Poor Fellas](https://open.spotify.com/artist/5Wj6JuGomnb8EWEma2yWoU) | [All Night Long](https://open.spotify.com/album/6HMXhjubwIBkJUV9YZxD2H) | 2:43 | 2026-02-24 | 2026-03-18 |
 | [All The Light](https://open.spotify.com/track/3jcjiSz3CQHyVLNbWcVKpo) | [Lotus Grove](https://open.spotify.com/artist/26mBaP2fnwi2GnYNRWn9vR) | [All The Light](https://open.spotify.com/album/64HqU069ukivftqhZQIigS) | 3:22 | 2026-03-28 | 2026-07-12 |
+| [Alone](https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Alone](https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y) | 8:09 | 2026-08-27 |  |
 | [Alone \- Cover](https://open.spotify.com/track/6WApzR1hWPqV4BQSyr5ETL) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Alone \(Cover\)](https://open.spotify.com/album/5B5G82hCzSMXhA5szT7Lez) | 3:39 | 2026-01-13 | 2026-03-18 |
 | [Already Dead](https://open.spotify.com/track/3n4PvbhuuoXGuM302ireyT) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [Already Dead](https://open.spotify.com/album/58tbeoyvoEMqd0IltpXGUe) | 3:11 | 2026-07-25 |  |
 | [Altisuono in Vibro](https://open.spotify.com/track/4za819jKTj1J19tNGaN5Zu) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 3:25 | 2026-01-22 | 2026-03-18 |
@@ -354,6 +355,7 @@
 | [Lobotomia](https://open.spotify.com/track/0st98mLoOQ50DNdxG10UKB) | [Promécio](https://open.spotify.com/artist/0XtSb6CHFV5dI9qGIHlLBc) | [Lobotomia](https://open.spotify.com/album/68Kj6bvoCsCieVjMoULkpi) | 3:24 | 2026-07-19 | 2026-08-01 |
 | [Longshot](https://open.spotify.com/track/3IxtfCiLl7sC5ahyoWysnk) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1), [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Longshot](https://open.spotify.com/album/43uhiAyZZF1ftlgHaDMKZX) | 3:33 | 2026-07-19 | 2026-08-01 |
 | [Lost and Found](https://open.spotify.com/track/3qmTYEoQo7IwEsajEfFxfn) | [Cane Rouge](https://open.spotify.com/artist/1uiVgmOdSFSlgDfbJx1rJw) | [Lost and Found](https://open.spotify.com/album/1YRH642XRDebs2vrnsxw4k) | 3:30 | 2026-07-25 |  |
+| [Lost Inside The Sound](https://open.spotify.com/track/5hvZynQUpMYVnKV0H6yM5C) | [Beyond Disdain](https://open.spotify.com/artist/2MpVNPYFczBeNjPXePyVB4), [Selene Calder](https://open.spotify.com/artist/6ol142WWS5UFXOVXQ6hRs3) | [Till Death Parts Us](https://open.spotify.com/album/6I9dVel8cyK5qwEhjq5BIb) | 4:19 | 2026-08-27 |  |
 | [Love](https://open.spotify.com/track/0ApKAgVZmOG6DdfjO9BQHR) | [David McKnight](https://open.spotify.com/artist/6ok5d7uaATSwly0SKtNZ2Z) | [Love](https://open.spotify.com/album/0zXTGKTKT4ascu8laqtbsN) | 2:43 | 2026-05-12 | 2026-05-26 |
 | [Love Bomb Me](https://open.spotify.com/track/7qZgGW3dEySJaU9aXgQmn9) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [Love Bomb Me](https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a) | 4:02 | 2025-10-04 | 2025-12-17 |
 | [LOVE CRY](https://open.spotify.com/track/1jZitmjNQnvi4bIAMaa6ED) | [The Morning Sons](https://open.spotify.com/artist/5Q0x4IVSxDcFgOwgyikTwD) | [LOVE CRY](https://open.spotify.com/album/1igVBGMLk0OiqaWjhFp1uV) | 5:15 | 2026-03-01 | 2026-07-12 |
@@ -670,6 +672,7 @@
 | [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 | 2026-05-26 |
 | [When I Try](https://open.spotify.com/track/5dLLViRjSxKkkjJsfRBJ3i) | [Phil Headway](https://open.spotify.com/artist/6tpCZkSzWlh8GvohFl8zhe) | [The Answers](https://open.spotify.com/album/4mWlq6c2crzdg8Il3iV570) | 2:59 | 2026-05-21 | 2026-06-18 |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 | 2026-03-18 |
+| [Where Is She Now?](https://open.spotify.com/track/6jBBodGWMRO6tVI5I9obrq) | [Jaded Memory](https://open.spotify.com/artist/0alnEO2EJlIGozaDXc2VxQ) | [Where Is She Now?](https://open.spotify.com/album/5UJjRl7i07a3XG1sAgcy72) | 3:51 | 2026-08-27 |  |
 | [Whiskey Remedy](https://open.spotify.com/track/3BMOQfSYaoW1kgIMBFsUCF) | [Rough Gentlemen](https://open.spotify.com/artist/331U9UePKu1XpfKgNBkIa1) | [Whiskey Remedy](https://open.spotify.com/album/5ShE4NiWzqc5ss7NpT8xMe) | 4:31 | 2026-03-25 | 2026-04-21 |
 | [Whisky na Mesa](https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM) | [Nathan Duarte](https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim) | [Whisky na Mesa](https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b) | 2:12 | 2026-04-18 | 2026-06-25 |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 | 2026-04-21 |

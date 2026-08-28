@@ -2059,6 +2059,28 @@
     },
     {
       "album": {
+        "name": "DRAMA club: Emotions",
+        "url": "https://open.spotify.com/album/6nKjXMaiUZZ84U4JrX9J5X"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177582,
+      "name": "DRAMA club: Emotions",
+      "url": "https://open.spotify.com/track/3tkrLOFeELGNtNUcfZKICg"
+    },
+    {
+      "album": {
         "name": "Dream Out Loud",
         "url": "https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX"
       },
@@ -2158,6 +2180,24 @@
       "duration_ms": 160011,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4Pj5AyBWoQ6moElFpWK4Bk"
+    },
+    {
+      "album": {
+        "name": "Eurostar",
+        "url": "https://open.spotify.com/album/6lbU1o3CHtj0JPmRlTqdfB"
+      },
+      "artists": [
+        {
+          "name": "Else",
+          "url": "https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "Eurostar",
+      "url": "https://open.spotify.com/track/2rnkbP3jhohDd9XtdOlOy1"
     },
     {
       "album": {
@@ -8622,7 +8662,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 128571,
       "name": "Until The Night Is Gone",
       "url": "https://open.spotify.com/track/2Spj0Gxc2qhPb8OnERxxl5"

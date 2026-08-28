@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: SMJ",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: JIREH",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 144421,
       "name": "2 SEATER (ft. ANYCIA)",
       "url": "https://open.spotify.com/track/5BY0pykWVfDWGGdzgMFHRz"
@@ -1468,6 +1468,24 @@
       "duration_ms": 262593,
       "name": "80's Flow",
       "url": "https://open.spotify.com/track/6QEQfTuCDMrva7NJnNuOac"
+    },
+    {
+      "album": {
+        "name": "803 to STL",
+        "url": "https://open.spotify.com/album/5uH70rnGT01mpBCiCS8JxC"
+      },
+      "artists": [
+        {
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "803 to STL",
+      "url": "https://open.spotify.com/track/7IHXKn16VRMA4vOYw6TdOg"
     },
     {
       "album": {
@@ -3382,6 +3400,28 @@
       "duration_ms": 133386,
       "name": "ATM",
       "url": "https://open.spotify.com/track/5LDfQCmBF4gkFtjzNWCKDS"
+    },
+    {
+      "album": {
+        "name": "ROPE BURN",
+        "url": "https://open.spotify.com/album/0GteknooF28InvAmZjGUx9"
+      },
+      "artists": [
+        {
+          "name": "JIREH",
+          "url": "https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K"
+        },
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/2xe8h51aM8cjFSTeGoPXkW"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133954,
+      "name": "AUCTION BLOCK (BONUS)",
+      "url": "https://open.spotify.com/track/176epegtPc44XSfD8WkWZc"
     },
     {
       "album": {
@@ -8069,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "DIAMOND IN THE ROUGH",
+        "url": "https://open.spotify.com/album/6rStDTnzxpcoR9VvMdcSRc"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Keaton",
+          "url": "https://open.spotify.com/artist/5VCyCGOVZRtmoVRv9vHlO5"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/0I7vBe5aPWxwQpiNMbM8W0"
+    },
+    {
+      "album": {
         "name": "I AM WHO I AM",
         "url": "https://open.spotify.com/album/7k3r0F7QmHGWRP3dNBcF46"
       },
@@ -12672,7 +12730,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 124596,
       "name": "Epstein Files",
       "url": "https://open.spotify.com/track/33txpsNMpvNgxiATW1BBGa"
@@ -17487,6 +17545,32 @@
     },
     {
       "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/6XaENMR9ucEVXp8OoTNDJB"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "Jay5ive",
+          "url": "https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/4UemlmLeh8OtPaZVo9ivmP"
+    },
+    {
+      "album": {
         "name": "Happy New Year",
         "url": "https://open.spotify.com/album/7zUcDimGsVU8YH4MzkmQSe"
       },
@@ -19166,7 +19250,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 128010,
       "name": "HURT NOBODY",
       "url": "https://open.spotify.com/track/3uStGep9LAwL3mXvzGE8m2"
@@ -27538,7 +27622,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 123695,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv"
@@ -28820,7 +28904,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 111958,
       "name": "No Bad Grades",
       "url": "https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA"
@@ -36500,7 +36584,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 90045,
       "name": "SGA",
       "url": "https://open.spotify.com/track/17vu0Ttn2ArNqfX1pnNNYW"
@@ -38768,6 +38852,24 @@
       "duration_ms": 156342,
       "name": "STEP 2K25 (with BabyChiefDoit)",
       "url": "https://open.spotify.com/track/642qULKEwp9AJQ6YTxqrxj"
+    },
+    {
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1xwAMdh9fzoeiBqhxsIpDg"
+      },
+      "artists": [
+        {
+          "name": "Tri Nohbi",
+          "url": "https://open.spotify.com/artist/2tPmjMNVuAnXsdnLoWlHBm"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/4vqKP9vS75RuqQx3Q7mHEU"
     },
     {
       "album": {
@@ -41794,6 +41896,28 @@
       "duration_ms": 138666,
       "name": "too many distractions",
       "url": "https://open.spotify.com/track/3y3FcLdVM3pmRcxCr1ZvEM"
+    },
+    {
+      "album": {
+        "name": "Access Denied",
+        "url": "https://open.spotify.com/album/5zKKdUDu85E7gEVjXiTIkE"
+      },
+      "artists": [
+        {
+          "name": "Gudda Brvckin",
+          "url": "https://open.spotify.com/artist/1uBM3OueZouNJbNhutkJXm"
+        },
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139964,
+      "name": "TOO MANY GLOCKS",
+      "url": "https://open.spotify.com/track/6YlWqblTwHi1knbGlHXqh1"
     },
     {
       "album": {

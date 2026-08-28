@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Loud, proud, and free to be. Bops on repeat from LGBTQIA+ artists only. Cover: Sami Landri ",
+  "description": "Loud, proud, and free to be. Bops on repeat from LGBTQIA+ artists only. Cover: Zolita",
   "name": "GLOW US & Canada",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 156181,
       "name": "As-tu des cigarettes",
       "url": "https://open.spotify.com/track/2RKK7gsT1oGk4Ftdmn2nMZ"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 217200,
       "name": "Dimestore Jesus",
       "url": "https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn"
@@ -6731,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Make It Rain",
+        "url": "https://open.spotify.com/album/16ff3pBtVlIQixTs71nP6Q"
+      },
+      "artists": [
+        {
+          "name": "katie MAC",
+          "url": "https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/5ta5ePNdJgwIANO9Dwuau3"
+    },
+    {
+      "album": {
         "name": "Make Me Cry",
         "url": "https://open.spotify.com/album/2IUQaiz4lIh3g3J57hQ4xh"
       },
@@ -7028,6 +7046,24 @@
       "duration_ms": 179866,
       "name": "Miss Congeniality",
       "url": "https://open.spotify.com/track/2AxudteZqvoRrxLL6PiWpE"
+    },
+    {
+      "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Miss Misunderstood",
+      "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
     },
     {
       "album": {

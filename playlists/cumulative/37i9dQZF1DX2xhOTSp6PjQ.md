@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Feza
+> Khuphuka lapho… seku\-late! Cover: Zwide
 
-311 songs - 1 day 0 hr 27 min
+312 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Lashona Ilanga \(feat\. Limit Nala & Sne Ntuli\)](https://open.spotify.com/track/78YEoqc9oi4boGnlLh4IPI) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY), [Sne Ntuli](https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc) | [Lashona Ilanga \(feat\. Limit Nala & Sne Ntuli\)](https://open.spotify.com/album/3byuEJ13QvTb8z0TVNzhWy) | 4:46 | 2026-08-13 | 2026-08-18 |
 | [Life After Matric](https://open.spotify.com/track/069gnXnIJUwibeufW3sq71) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Life After Matric](https://open.spotify.com/album/264Wchcs0Hh6DpxvhXNVwp) | 4:37 | 2025-11-04 | 2025-11-15 |
 | [Luyazenzela](https://open.spotify.com/track/18z13CvLX9wuxVfbE3Lhnv) | [Phangandawo](https://open.spotify.com/artist/3irECGtZGGBOARaZElSiLb), [Shenge](https://open.spotify.com/artist/1xIivPK6sC42jpYgBl45v4), [Mjabulisi](https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS) | [Luyazenzela](https://open.spotify.com/album/5UOGjj9wPp6u69IHy1vVaP) | 4:00 | 2025-08-29 |  |
-| [Ma\-Afrika](https://open.spotify.com/track/1mUHR6Q0gxFJgQaVSKnfGk) | [Ihhashi Elimhlophe](https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21) | [Ma\-Afrika](https://open.spotify.com/album/1OJEDA2DBUQqHu42ZJBYpw) | 4:07 | 2025-08-29 |  |
+| [Ma\-Afrika](https://open.spotify.com/track/1mUHR6Q0gxFJgQaVSKnfGk) | [Ihhashi Elimhlophe](https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21) | [Ma\-Afrika](https://open.spotify.com/album/1OJEDA2DBUQqHu42ZJBYpw) | 4:07 | 2025-08-29 | 2026-08-28 |
 | [Masiyeke](https://open.spotify.com/track/01fXzOTgIyzNwWTBahteZB) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Sipho](https://open.spotify.com/album/16QKAhgay0amx5AgBIwFo0) | 4:21 | 2023-01-30 | 2023-11-24 |
 | [Masiyembo](https://open.spotify.com/track/0G4iC2UTqq0dE65KRqqhC9) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U), [Sihle Kona](https://open.spotify.com/artist/0UJaLaZkvRM9B91fxW4GDa) | [Kuyabongwa](https://open.spotify.com/album/5ZEowNb3KsMZfmMCnOW8b8) | 3:10 | 2023-02-23 | 2023-03-25 |
 | [Mawalawala](https://open.spotify.com/track/0ehYWFeYfsH3S4dSuPj1zL) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [NO CHANCE](https://open.spotify.com/album/6te22nhwMSwD2mlRwqLXhL) | 6:12 | 2023-11-23 | 2026-07-24 |
@@ -218,6 +218,7 @@
 | [Palamente e kgopela merapelo](https://open.spotify.com/track/3PzDhMFbGUSpVWWcBTRJWW) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Palamente e Kgopela Merapelo](https://open.spotify.com/album/6H2nsddvfVyGIagH72T4RF) | 5:08 | 2020-08-28 | 2023-02-01 |
 | [Paris](https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Lwah Ndlunkulu](https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs) | [Paris](https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM) | 4:17 | 2023-08-11 |  |
 | [Phakathi Komhlane nembeleko](https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:18 | 2021-10-12 | 2023-04-30 |
+| [Phez' komuntu \(feat\. Limit Nala & Saliwa\)](https://open.spotify.com/track/60q8bPLtN7gLTrpm5JZP7G) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY), [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8) | [Phez' komuntu \(feat\. Limit Nala & Saliwa\)](https://open.spotify.com/album/3vrEVzUKWBYLL8qIKs0185) | 4:56 | 2026-08-27 |  |
 | [Phumani Ematarven](https://open.spotify.com/track/78eZeVX1CsiqZ3aD10HjhT) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [iPolotiki](https://open.spotify.com/album/7fVwjMqcNty3YMad1n9BIg) | 4:34 | 2024-11-14 | 2025-01-25 |
 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 | 2018-09-25 | 2023-02-17 |
 | [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 | 2025-05-23 |

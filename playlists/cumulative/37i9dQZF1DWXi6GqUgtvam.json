@@ -71,6 +71,32 @@
     },
     {
       "album": {
+        "name": "Hadewijch: Grote Minne - Spirituality of Love",
+        "url": "https://open.spotify.com/album/14sA2CVJitDWtRCi7T5xpX"
+      },
+      "artists": [
+        {
+          "name": "Hadewijch",
+          "url": "https://open.spotify.com/artist/48wXR9SwidvbtjOlea3idX"
+        },
+        {
+          "name": "VocaMe",
+          "url": "https://open.spotify.com/artist/1gQX84r2BTuCaK8ipf6x40"
+        },
+        {
+          "name": "Michael Popp",
+          "url": "https://open.spotify.com/artist/182lzPpCwe5K2Zyoq68hKL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259119,
+      "name": "Altoes mach men van minnen singhen",
+      "url": "https://open.spotify.com/track/0R10kjyRXi5oJi3NesLOcT"
+    },
+    {
+      "album": {
         "name": "Amours amours amours",
         "url": "https://open.spotify.com/album/1f7BJCIRNGrA0C9RPRwplS"
       },
@@ -878,6 +904,28 @@
       "duration_ms": 140413,
       "name": "Kingdom Dance",
       "url": "https://open.spotify.com/track/0KbACwf5LFPSQqJJ3LNQXs"
+    },
+    {
+      "album": {
+        "name": "La Seste Estampie [Royal]",
+        "url": "https://open.spotify.com/album/4pqatAJwUHZdmAQKC1OVPO"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "La Seste Estampie [Royal]",
+      "url": "https://open.spotify.com/track/0nAldPMil6A6aQ44d0ugKg"
     },
     {
       "album": {

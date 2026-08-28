@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
   "name": "R&Bae",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153290,
       "name": "2 min",
       "url": "https://open.spotify.com/track/7J8OTRdXb6noyWoKwlnjk6"
@@ -4852,7 +4852,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 163500,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/63LswPK31jvNEjlhtKFzaK"
@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172171,
       "name": "JAMAIS CHANG\u00c9",
       "url": "https://open.spotify.com/track/5Dp27TXunm7jCjeKU2tyPL"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 147469,
       "name": "Jardin Secret",
       "url": "https://open.spotify.com/track/63PQgMOafR6hOapRhxe9n1"
@@ -6330,6 +6330,24 @@
       "duration_ms": 229312,
       "name": "Je pensais",
       "url": "https://open.spotify.com/track/6BvOKn9i8YnEl5rTVS5XB7"
+    },
+    {
+      "album": {
+        "name": "Je Signe",
+        "url": "https://open.spotify.com/album/1IKV6gVee5o4w6LITwlvzU"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Je Signe",
+      "url": "https://open.spotify.com/track/5bQ2c0NXFMuo0bhO0OU68i"
     },
     {
       "album": {
@@ -7667,6 +7685,28 @@
     },
     {
       "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/44mjqsKAd1z0AFtInne50Z"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197499,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
+    },
+    {
+      "album": {
         "name": "Ma Raison",
         "url": "https://open.spotify.com/album/7lQCobvDKnOpjMiLG7I4Vx"
       },
@@ -8148,6 +8188,24 @@
       "duration_ms": 135790,
       "name": "Mauvaise id\u00e9e - Au pays des Merveilles",
       "url": "https://open.spotify.com/track/2VF9CftZC0nOKYiN7lJ6ks"
+    },
+    {
+      "album": {
+        "name": "MAUVE",
+        "url": "https://open.spotify.com/album/6Zx1VT4h2mctVu4SWrV6eQ"
+      },
+      "artists": [
+        {
+          "name": "DYHA",
+          "url": "https://open.spotify.com/artist/4BLEPYJzLGmGV3Y4jkXBIS"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129359,
+      "name": "MAUVE",
+      "url": "https://open.spotify.com/track/0E6fJwEOJBagm5FnTfHgA5"
     },
     {
       "album": {
@@ -8889,6 +8947,24 @@
     },
     {
       "album": {
+        "name": "M\u00c9LANG\u00c9",
+        "url": "https://open.spotify.com/album/08oPslm1X7q3yZxPTbGXbp"
+      },
+      "artists": [
+        {
+          "name": "Sassy",
+          "url": "https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151248,
+      "name": "M\u00c9LANG\u00c9",
+      "url": "https://open.spotify.com/track/41lNUNNATNWnW44H3QG0VN"
+    },
+    {
+      "album": {
         "name": "M\u00c9LANIE",
         "url": "https://open.spotify.com/album/4MP67w6tmJ0QH7LtII43cP"
       },
@@ -9008,7 +9084,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187840,
       "name": "Need It",
       "url": "https://open.spotify.com/track/3l2roH53b5ZenJ0NlqZBA5"
@@ -9712,6 +9788,24 @@
       "duration_ms": 171986,
       "name": "Ouvre-moi ton c\u0153ur",
       "url": "https://open.spotify.com/track/65NSfsg411qIZOBSLOKhls"
+    },
+    {
+      "album": {
+        "name": "OVER",
+        "url": "https://open.spotify.com/album/5CKTlquXhFwVQIobBgfpyH"
+      },
+      "artists": [
+        {
+          "name": "Holy",
+          "url": "https://open.spotify.com/artist/0W8m2g2n1fFTBC22ZovGEk"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158743,
+      "name": "OVER",
+      "url": "https://open.spotify.com/track/18nUcRgG9TPNieS0SL5uij"
     },
     {
       "album": {

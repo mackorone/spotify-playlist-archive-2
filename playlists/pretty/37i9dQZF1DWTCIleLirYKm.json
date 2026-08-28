@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 226264,
+  "num_followers": 226338,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Bitin' List",
-      "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Mama Tried",
         "url": "https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 132626,
       "name": "Mama Tried - Remastered 2001",
       "url": "https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Bitin' List",
+      "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -447,6 +447,22 @@
       "duration_ms": 247239,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "With Heaven On Top",
         "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Dreaming My Dreams",
-        "url": "https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 178717,
-      "name": "Are You Sure Hank Done It This Way",
-      "url": "https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 216128,
       "name": "I Could Drive You Crazy",
       "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Dreaming My Dreams",
+        "url": "https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 178717,
+      "name": "Are You Sure Hank Done It This Way",
+      "url": "https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "The Ramblin' Man",
-        "url": "https://open.spotify.com/album/353z5yWoQlug84akazanpg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 170166,
-      "name": "I'm a Ramblin' Man",
-      "url": "https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Montana Caf\u00e9",
         "url": "https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 237866,
       "name": "Country State Of Mind",
       "url": "https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "The Ramblin' Man",
+        "url": "https://open.spotify.com/album/353z5yWoQlug84akazanpg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 170166,
+      "name": "I'm a Ramblin' Man",
+      "url": "https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
+        "name": "Take This Job And Shove It",
+        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 232493,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
-        "name": "Take This Job And Shove It",
-        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
+        "name": "Fried Chicken & Evil Women",
+        "url": "https://open.spotify.com/album/1kdQ7i7iGL2yCMKV87m7ls"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "25 & Wastin' Time",
+      "url": "https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
         "name": "They Call Us The Lucky Ones",
         "url": "https://open.spotify.com/album/3DZjgdx3sRIqhPDgz16A7B"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Fried Chicken & Evil Women",
-        "url": "https://open.spotify.com/album/1kdQ7i7iGL2yCMKV87m7ls"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "25 & Wastin' Time",
-      "url": "https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Age of the Ram",
         "url": "https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Them Dirty Roses",
-        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
+        "name": "I'm Jessi Colter",
+        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
       },
       "artists": [
         {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
         }
       ],
-      "duration_ms": 240744,
-      "name": "Whiskey in My Cup",
-      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
+      "duration_ms": 203106,
+      "name": "I'm Not Lisa",
+      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "I'm Jessi Colter",
-        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+        "name": "Them Dirty Roses",
+        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
       },
       "artists": [
         {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
         }
       ],
-      "duration_ms": 203106,
-      "name": "I'm Not Lisa",
-      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
+      "duration_ms": 240744,
+      "name": "Whiskey in My Cup",
+      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
     },
     {
       "added_at": "2026-08-21 04:01:33",

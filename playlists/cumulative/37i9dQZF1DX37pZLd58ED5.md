@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-382 songs - 19 hr 26 min
+383 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Gravità \(feat\. Latrelle\)](https://open.spotify.com/track/1cz6WntXGLT6hDJmgZ6GsI) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:36 | 2026-05-21 | 2026-07-31 |
 | [Grazie, Addio](https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:36 | 2025-04-24 | 2025-08-01 |
 | [Guardare Sotto](https://open.spotify.com/track/0XziCMIyt5YkZSxMFrxKdi) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Guardare Sotto](https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM) | 2:46 | 2022-09-01 | 2022-09-30 |
+| [Hai mai?](https://open.spotify.com/track/7yVsKau8TBSfmjvcsN9FFF) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [Hai mai?](https://open.spotify.com/album/3ildD9tG7YNONEKsgonGWk) | 2:25 | 2026-08-27 |  |
 | [HENTAI](https://open.spotify.com/track/78flthd91SpUADZy5PwNRS) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [HENTAI](https://open.spotify.com/album/42ShFYmtP5FERkIYZOrMPq) | 2:43 | 2026-05-08 |  |
 | [HERMES](https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:56 | 2023-04-06 | 2024-07-05 |
 | [High](https://open.spotify.com/track/7oEFfGNfbiHusPpnakn3xC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [High](https://open.spotify.com/album/0xDVS2VYlF5I16H8kQ7FwY) | 2:49 | 2024-07-04 | 2024-08-23 |
@@ -389,6 +390,6 @@
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-10-05 |  |
 | [X Sempre](https://open.spotify.com/track/00r1JkjftpDP9sToJsHypT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 3:10 | 2026-02-13 |  |
 | [È FINITA LA PACE](https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 2:58 | 2024-12-13 | 2025-03-28 |
-| [つづく\(passerà\) \(feat\. Silent Bob\)](https://open.spotify.com/track/231agvY1iOEF1ghofx1lrx) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [²Geeeeked](https://open.spotify.com/album/2F3INNy442zZb28Nxb8klD) | 3:08 | 2026-05-14 |  |
+| [つづく\(passerà\) \(feat\. Silent Bob\)](https://open.spotify.com/track/231agvY1iOEF1ghofx1lrx) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [²Geeeeked](https://open.spotify.com/album/2F3INNy442zZb28Nxb8klD) | 3:08 | 2026-05-14 | 2026-08-28 |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

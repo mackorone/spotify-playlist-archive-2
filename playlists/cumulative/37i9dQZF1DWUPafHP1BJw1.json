@@ -4803,6 +4803,28 @@
     },
     {
       "album": {
+        "name": "Spread Your Wings (Symphonic)",
+        "url": "https://open.spotify.com/album/58EVAxa7z2TvujWOQDs5RI"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 del Mundo",
+          "url": "https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Spread Your Wings - Symphonic",
+      "url": "https://open.spotify.com/track/5DBG1c5VD7grie25xC10UT"
+    },
+    {
+      "album": {
         "name": "Dress Code",
         "url": "https://open.spotify.com/album/6PgAziFSFpBCXwuoHW7LhT"
       },

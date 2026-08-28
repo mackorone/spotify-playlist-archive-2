@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7p9vfYXtARc.md) - [plain]
 
 > The official music from the Battlefield franchise
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,245 likes - 62 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,297 likes - 62 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

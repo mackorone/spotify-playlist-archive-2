@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring moonvine. Curated with love by human Spotify editors. \n",
-  "num_followers": 215668,
+  "num_followers": 215686,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN7mKnMPRuN7ALeItrIetYKMv9Mk",
+  "snapshot_id": "AAAAANZoW1fOvHtiPKjmH4tZmwjK4w2B",
   "tracks": [
     {
       "added_at": "2026-08-19 21:18:18",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
     },
     {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Body Movin'",
+        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
+      },
+      "artists": [
+        {
+          "name": "Fede Aliprandi",
+          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Body Movin'",
+      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
+    },
+    {
       "added_at": "2026-08-19 21:18:18",
       "album": {
         "name": "Vortex",
@@ -89,6 +105,42 @@
       "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
     },
     {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/07KWdd7cL7c9ND8ejvm8Dd"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "duration_ms": 191484,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/3Mvx9wNXSzt0n6TEkpUpEv"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
+      },
+      "artists": [
+        {
+          "name": "Paqu\u00e9",
+          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
+        },
+        {
+          "name": "Sebastian Wibe",
+          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
+    },
+    {
       "added_at": "2026-08-26 04:00:40",
       "album": {
         "name": "tell me",
@@ -119,6 +171,38 @@
       "duration_ms": 153159,
       "name": "Friction",
       "url": "https://open.spotify.com/track/0Gsa1ebyIITbwDHamhnpu2"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Luire",
+        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Luire",
+      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "fast lane",
+        "url": "https://open.spotify.com/album/1V95zWe9SNVNBe8TnGjwiC"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "duration_ms": 188769,
+      "name": "fast lane",
+      "url": "https://open.spotify.com/track/6Ve4d45O3jQpGvnTcStJpQ"
     },
     {
       "added_at": "2026-07-17 17:46:34",
@@ -613,22 +697,6 @@
       "url": "https://open.spotify.com/track/3ININm5AqJvi1qwVowzosN"
     },
     {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "JELLY + OPTION",
-        "url": "https://open.spotify.com/album/0FDQD9ZnmThaUNfSjB07JN"
-      },
-      "artists": [
-        {
-          "name": "Ineffekt",
-          "url": "https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "OPTION",
-      "url": "https://open.spotify.com/track/6UgJhklY5LNzaRUHyFPKwD"
-    },
-    {
       "added_at": "2026-08-14 04:02:31",
       "album": {
         "name": "Are U Ready?",
@@ -707,22 +775,6 @@
       "duration_ms": 213893,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6EAKZOdXVffeCjp4uWH02J"
-    },
-    {
-      "added_at": "2026-07-17 17:46:34",
-      "album": {
-        "name": "Freak Me Baby",
-        "url": "https://open.spotify.com/album/33F8KBBE7P9cbuvLAFmpW7"
-      },
-      "artists": [
-        {
-          "name": "Luke DuBose",
-          "url": "https://open.spotify.com/artist/0fAIJgZWvKYPsitqdWWXDi"
-        }
-      ],
-      "duration_ms": 187942,
-      "name": "Freak Me Baby",
-      "url": "https://open.spotify.com/track/2zF9giZoXV6FeaYIIMVC9D"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -889,46 +941,6 @@
       "url": "https://open.spotify.com/track/4l6xxixodubRsZCvbsTu9o"
     },
     {
-      "added_at": "2026-07-23 15:59:02",
-      "album": {
-        "name": "KR.UK",
-        "url": "https://open.spotify.com/album/0aqn84YpT0iDIIow1PgkpP"
-      },
-      "artists": [
-        {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        },
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1Qy5cXiRHxH8VrxeQeI2VV"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Face Lift",
-      "url": "https://open.spotify.com/track/3bxAXuXzrq03AMokEBj90O"
-    },
-    {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/0WJY1WNQRG2SwtnqmsYFl8"
-      },
-      "artists": [
-        {
-          "name": "Isaac Carter",
-          "url": "https://open.spotify.com/artist/1wp5fYOou3912NRzGN28E8"
-        }
-      ],
-      "duration_ms": 169464,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/6N0sG1DDBF1q8X0VRs5nNm"
-    },
-    {
       "added_at": "2026-07-17 17:46:34",
       "album": {
         "name": "Entropy",
@@ -983,22 +995,6 @@
       "duration_ms": 198750,
       "name": "Disco Baile - Radio Edit",
       "url": "https://open.spotify.com/track/6kjj7HgnXX9oIxeNQ3MOSC"
-    },
-    {
-      "added_at": "2026-06-24 20:42:31",
-      "album": {
-        "name": "Look What You Started",
-        "url": "https://open.spotify.com/album/76iMqKiknAKfmhD9AoHTBu"
-      },
-      "artists": [
-        {
-          "name": "Sasha GiGi",
-          "url": "https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Look What You Started",
-      "url": "https://open.spotify.com/track/29nMOoXKrQpc7OJKJME9aV"
     },
     {
       "added_at": "2026-07-02 15:36:57",

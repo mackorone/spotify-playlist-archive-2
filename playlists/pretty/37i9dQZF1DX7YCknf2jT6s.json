@@ -1,13 +1,157 @@
 {
-  "description": "New jazz for open minds. Cover: Kiefer",
-  "num_followers": 1049700,
+  "description": "New jazz for open minds. Cover: Ezra Collective",
+  "num_followers": 1049717,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL0hOr5EHAAkceWBr7fHEPEqIePQ",
+  "snapshot_id": "AAAAAImxVz5ypf2pBER7Y5qcxKtANlgp",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:01:31",
+      "album": {
+        "name": "Jubilee Feeling",
+        "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Jubilee Feeling",
+      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
+    },
+    {
+      "added_at": "2026-08-28 04:01:31",
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 256590,
+      "name": "Black Box - feat. Kamasi Washington",
+      "url": "https://open.spotify.com/track/0fv00pOf3fObPKjVHk1K5Y"
+    },
+    {
+      "added_at": "2026-08-28 04:01:31",
+      "album": {
+        "name": "Q Theory - Quantum Leap, Vol. 2",
+        "url": "https://open.spotify.com/album/16Pa2BiwPMuCOtLsilI5uv"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Godwin Louis",
+          "url": "https://open.spotify.com/artist/55fpW8TiyXHPkUDHyHtzzS"
+        },
+        {
+          "name": "Patrick Pelissier",
+          "url": "https://open.spotify.com/artist/3pebHrhpzvEqRFEQEBuaZZ"
+        }
+      ],
+      "duration_ms": 363216,
+      "name": "Rocinha (feat. Robert Glasper, Godwin Louis and Patrick Pelissier)",
+      "url": "https://open.spotify.com/track/4oZtsxBqLVYJOlUwJOdcmA"
+    },
+    {
+      "added_at": "2026-08-28 04:01:31",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/1CQxvYL6X6OVUwOO7aBKJ5"
+      },
+      "artists": [
+        {
+          "name": "Dexter Story",
+          "url": "https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq"
+        },
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0pUqnKg1SUbfWciG9TW6jw"
+    },
+    {
+      "added_at": "2026-08-28 04:01:31",
+      "album": {
+        "name": "Wide Eyes",
+        "url": "https://open.spotify.com/album/5oLNLaAZGgeBdLd2hCOllY"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 391386,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/5vSVVvlLiU7EBMU1hRXieV"
+    },
+    {
+      "added_at": "2026-08-28 04:01:31",
+      "album": {
+        "name": "The Wise Ones",
+        "url": "https://open.spotify.com/album/3udwsH8ccObgP7T3K5l0fg"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/20CpGtjnNhin6QYpJ4ry03"
+    },
+    {
+      "added_at": "2026-08-28 04:01:31",
+      "album": {
+        "name": "Paintbox",
+        "url": "https://open.spotify.com/album/0JV1XQClRLvBqWzpazsuV1"
+      },
+      "artists": [
+        {
+          "name": "Emma Rawicz",
+          "url": "https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl"
+        }
+      ],
+      "duration_ms": 384200,
+      "name": "The Oak Tree",
+      "url": "https://open.spotify.com/track/24HShANBRAbdMiefuhtOsX"
+    },
     {
       "added_at": "2026-08-21 04:00:22",
       "album": {
@@ -285,26 +429,6 @@
       "url": "https://open.spotify.com/track/5z5RjpwWizbV3KB7ofC9Gp"
     },
     {
-      "added_at": "2026-08-07 04:01:37",
-      "album": {
-        "name": "The Wise Ones",
-        "url": "https://open.spotify.com/album/055cTPGuEo3P8fAMmEPFoK"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Parlato",
-          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
-        }
-      ],
-      "duration_ms": 329453,
-      "name": "The Wise Ones",
-      "url": "https://open.spotify.com/track/4eUcQGWAFhoYcKsLuFMroj"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "Monsters",
@@ -323,22 +447,6 @@
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
-    },
-    {
-      "added_at": "2026-07-17 04:00:49",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/24uo5KRoLMnZUSlCSlDGdw"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6"
     },
     {
       "added_at": "2026-07-17 04:00:49",
@@ -463,22 +571,6 @@
       "duration_ms": 486226,
       "name": "Bharati\u2019s Dance, Tempo Divine",
       "url": "https://open.spotify.com/track/5ttXh7cGOjCE8QxPK3bI5u"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Bright Sparkling Light",
-        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 603920,
-      "name": "The Tide and the Moon",
-      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
     },
     {
       "added_at": "2026-05-15 04:01:09",
@@ -959,22 +1051,6 @@
       "duration_ms": 160586,
       "name": "Feeling The Pressure",
       "url": "https://open.spotify.com/track/2jwqf5LH5a3jHMN5oXZYcf"
-    },
-    {
-      "added_at": "2026-01-09 05:00:24",
-      "album": {
-        "name": "Saturday Spin",
-        "url": "https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 245260,
-      "name": "Saturday Spin",
-      "url": "https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF"
     },
     {
       "added_at": "2026-04-24 04:01:10",
@@ -1557,42 +1633,6 @@
       "url": "https://open.spotify.com/track/6sMujJDUsHX85VV9fCJdAx"
     },
     {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Motion II",
-        "url": "https://open.spotify.com/album/32sjyqbMI1JdpJoKXOuWVk"
-      },
-      "artists": [
-        {
-          "name": "Out Of/Into",
-          "url": "https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT"
-        },
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        },
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Kendrick Scott",
-          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
-        },
-        {
-          "name": "Matt Brewer",
-          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
-        }
-      ],
-      "duration_ms": 280986,
-      "name": "Finding Ways",
-      "url": "https://open.spotify.com/track/0AfHjDkvsE4aCDIg2wZsBa"
-    },
-    {
       "added_at": "2026-04-24 04:01:10",
       "album": {
         "name": "Touch The Sky",
@@ -1691,22 +1731,6 @@
       "duration_ms": 130532,
       "name": "play (feat. kamasi washington)",
       "url": "https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Not Everyone Can Go (Deluxe)",
-        "url": "https://open.spotify.com/album/6iieFjF7ntXUDXDCZo0YGW"
-      },
-      "artists": [
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        }
-      ],
-      "duration_ms": 236519,
-      "name": "Idea #5",
-      "url": "https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL"
     },
     {
       "added_at": "2026-04-17 04:03:56",
@@ -1875,22 +1899,6 @@
       "duration_ms": 476360,
       "name": "The Heavens In Scarlet",
       "url": "https://open.spotify.com/track/6nPLUM3kANBVz1KIBcjlOs"
-    },
-    {
-      "added_at": "2025-11-21 05:47:14",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/6JodNfSzz5bpb1lTEYJSnC"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        }
-      ],
-      "duration_ms": 180572,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/1mFAWXLDMxV7j9fsZPSoDG"
     },
     {
       "added_at": "2026-05-15 04:01:09",

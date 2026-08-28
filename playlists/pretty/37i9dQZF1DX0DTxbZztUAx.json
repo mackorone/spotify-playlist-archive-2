@@ -1,13 +1,537 @@
 {
   "description": "Survival takes everything. Listen to the music from Beauty in Black, now streaming on Netflix. ",
-  "num_followers": 22463,
+  "num_followers": 22566,
   "original_name": "Tyler Perry's Beauty in Black Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJyE4jCVvG2re5ck7zc9Jd/QQ9jb",
+  "snapshot_id": "AAAAAN498qsxHfPec8oijV8yUxba0cKk",
   "tracks": [
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Hold Up Wait",
+        "url": "https://open.spotify.com/album/3W0OrUKkeQUQBoAl0VNAIT"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Hold Up Wait",
+      "url": "https://open.spotify.com/track/7eHdOYkwh8OvpgRJlcMzCB"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Be Kind",
+        "url": "https://open.spotify.com/album/7j4yVvolt5GXB1HCHlSN75"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 307373,
+      "name": "Be Kind",
+      "url": "https://open.spotify.com/track/1xdcPg5hOtjG52oCXblIlE"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "24-7",
+        "url": "https://open.spotify.com/album/1cuN1DVeN1v0NXlXNVs1nj"
+      },
+      "artists": [
+        {
+          "name": "Anna Mvze",
+          "url": "https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw"
+        }
+      ],
+      "duration_ms": 137002,
+      "name": "Check Me",
+      "url": "https://open.spotify.com/track/39AVKe2L1pGWR4y9IsvoYk"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Trending Hip Hop 3",
+        "url": "https://open.spotify.com/album/02aHAz6cd0QIGNMRBuMMpj"
+      },
+      "artists": [
+        {
+          "name": "Andre Writer",
+          "url": "https://open.spotify.com/artist/3Zeeeqy0xX8CNxfVho2w5V"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Make it Shake",
+      "url": "https://open.spotify.com/track/1aDq3Kiq8myLBTwCcOG3Y5"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "NOTHING NEW",
+        "url": "https://open.spotify.com/album/1zhYYPqWwrfoaIorl1bQZW"
+      },
+      "artists": [
+        {
+          "name": "Gnarly",
+          "url": "https://open.spotify.com/artist/7LYSxmcXooAtd9MjfxgAxO"
+        },
+        {
+          "name": "AP Faleap",
+          "url": "https://open.spotify.com/artist/0jlpRBcc4hYpQJdpiqvINi"
+        }
+      ],
+      "duration_ms": 136541,
+      "name": "LAST OF US",
+      "url": "https://open.spotify.com/track/64zz6jNWECUNAN1ca11jpn"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "50 (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/71QeEVbsm4ZKiO4Ko8gNIh"
+      },
+      "artists": [
+        {
+          "name": "Zelly Ocho",
+          "url": "https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 158889,
+      "name": "50 (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/6Bak4P2wNJRx8jAIoDZm6M"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "What Do You Mean?",
+        "url": "https://open.spotify.com/album/78msrCYJbdSBic8QqluqcX"
+      },
+      "artists": [
+        {
+          "name": "Life\u2019s Luckii",
+          "url": "https://open.spotify.com/artist/5dkqkpnwx0sBxGGLrkRYQf"
+        },
+        {
+          "name": "Jay Sino",
+          "url": "https://open.spotify.com/artist/49DRbDidKn14Fkr2keNxeQ"
+        }
+      ],
+      "duration_ms": 161221,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/3Cj2l05RHy7iEGo9vIdSMQ"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Hip Hop Fire",
+        "url": "https://open.spotify.com/album/28aiTiLhCuOGaN95EmvRFF"
+      },
+      "artists": [
+        {
+          "name": "Sum GRL",
+          "url": "https://open.spotify.com/artist/4noPRPizt5Jq1uyJbUJV1E"
+        },
+        {
+          "name": "DDJP",
+          "url": "https://open.spotify.com/artist/1SJ6JAHc4PLp3klEqT7Dof"
+        },
+        {
+          "name": "Bonzai85",
+          "url": "https://open.spotify.com/artist/75JMRkgl4icWOS49uXEwo9"
+        },
+        {
+          "name": "Lillie Lewis",
+          "url": "https://open.spotify.com/artist/0rR2SpkEAGrv2tYODYxFwW"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Per Usual",
+      "url": "https://open.spotify.com/track/2PqGjGrJZj1iqNsxBRlnxj"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Trending Hip Hop 6",
+        "url": "https://open.spotify.com/album/0hoWIAS77hm5VD0iQFSwBm"
+      },
+      "artists": [
+        {
+          "name": "Judy Drama",
+          "url": "https://open.spotify.com/artist/28WjrfHusVhcAmjUYu83XT"
+        }
+      ],
+      "duration_ms": 207456,
+      "name": "How You Do That Twin",
+      "url": "https://open.spotify.com/track/3ivswqet3kn8iRC55jHsaU"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Hip Hop Fire",
+        "url": "https://open.spotify.com/album/28aiTiLhCuOGaN95EmvRFF"
+      },
+      "artists": [
+        {
+          "name": "Sum GRL",
+          "url": "https://open.spotify.com/artist/4noPRPizt5Jq1uyJbUJV1E"
+        },
+        {
+          "name": "DDJP",
+          "url": "https://open.spotify.com/artist/1SJ6JAHc4PLp3klEqT7Dof"
+        },
+        {
+          "name": "Bonzai85",
+          "url": "https://open.spotify.com/artist/75JMRkgl4icWOS49uXEwo9"
+        },
+        {
+          "name": "Lillie Lewis",
+          "url": "https://open.spotify.com/artist/0rR2SpkEAGrv2tYODYxFwW"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Wanna Be Just Like Me",
+      "url": "https://open.spotify.com/track/5WBkrrOuiiqTGEdlNJSzsa"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Hip Hop Deluxe 3",
+        "url": "https://open.spotify.com/album/6UyQ5AqgmLY7g5QYrYj6Cb"
+      },
+      "artists": [
+        {
+          "name": "Jonathan James Johnson",
+          "url": "https://open.spotify.com/artist/3IifBaLsXCS4ySyhvv7HoO"
+        },
+        {
+          "name": "Knight Ryder",
+          "url": "https://open.spotify.com/artist/14kn0iqOeKIGFBi8uup4BD"
+        },
+        {
+          "name": "Jermain Brown",
+          "url": "https://open.spotify.com/artist/7i6T5Bu8DrCw9RIfLsBTNL"
+        }
+      ],
+      "duration_ms": 166744,
+      "name": "Diamonds And Bands",
+      "url": "https://open.spotify.com/track/3vYidD2qL4698EBOOkeUmM"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/0OXFnwT1sMtvk0gHFvBunz"
+      },
+      "artists": [
+        {
+          "name": "Universal Production Music",
+          "url": "https://open.spotify.com/artist/04mwHdsbf5QYDOpktMFpSa"
+        }
+      ],
+      "duration_ms": 154685,
+      "name": "WORST BEHAVIOR",
+      "url": "https://open.spotify.com/track/0xsRttI3DvFAHbVNQMdSjW"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/0OXFnwT1sMtvk0gHFvBunz"
+      },
+      "artists": [
+        {
+          "name": "Universal Production Music",
+          "url": "https://open.spotify.com/artist/04mwHdsbf5QYDOpktMFpSa"
+        }
+      ],
+      "duration_ms": 134006,
+      "name": "LET EM' KNOW",
+      "url": "https://open.spotify.com/track/2F5QPFbtTl5tnpVD9hLvLP"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Female Rap",
+        "url": "https://open.spotify.com/album/4ANdmfm4gpaQjKydDEHTvv"
+      },
+      "artists": [
+        {
+          "name": "NicXIX",
+          "url": "https://open.spotify.com/artist/0UYjsWUsTzw0uDuwsOafzG"
+        },
+        {
+          "name": "Onassis Morris",
+          "url": "https://open.spotify.com/artist/4LcCmvYPrmtn1v5zT8JvLJ"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "For Some Paper",
+      "url": "https://open.spotify.com/track/6LEhRjoPPLzQVohf85FIck"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Money in the Air",
+        "url": "https://open.spotify.com/album/5pgOXquxy46JYTgV4tGjiF"
+      },
+      "artists": [
+        {
+          "name": "Lili Ray",
+          "url": "https://open.spotify.com/artist/15P3PIlyO4uYmlfsVJQbYo"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/2ZHFX8XfA1wwuekYN9fgTO"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Lavish",
+        "url": "https://open.spotify.com/album/4ZDhZ6acHrbsQOcFn35Pgu"
+      },
+      "artists": [
+        {
+          "name": "Max Mill",
+          "url": "https://open.spotify.com/artist/7IDjHlFsyvjBRPRDscvL7J"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Tko",
+      "url": "https://open.spotify.com/track/4fA9agqu4VEMG3c5xofPqy"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "SHAKE A LIL SOMETHIN'",
+        "url": "https://open.spotify.com/album/2Dim9Pdu43W6nfDTjWg2Q4"
+      },
+      "artists": [
+        {
+          "name": "TANGELA",
+          "url": "https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU"
+        }
+      ],
+      "duration_ms": 91071,
+      "name": "SHAKE A LIL SOMETHIN'",
+      "url": "https://open.spotify.com/track/098TDSigxkR7TsvsopOMzX"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "NOTHING NEW",
+        "url": "https://open.spotify.com/album/1zhYYPqWwrfoaIorl1bQZW"
+      },
+      "artists": [
+        {
+          "name": "Gnarly",
+          "url": "https://open.spotify.com/artist/7LYSxmcXooAtd9MjfxgAxO"
+        },
+        {
+          "name": "AP Faleap",
+          "url": "https://open.spotify.com/artist/0jlpRBcc4hYpQJdpiqvINi"
+        }
+      ],
+      "duration_ms": 217608,
+      "name": "RADIOACTIVE",
+      "url": "https://open.spotify.com/track/6gD8dvw59NsM26gYgpPXbS"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Female Rap",
+        "url": "https://open.spotify.com/album/4ANdmfm4gpaQjKydDEHTvv"
+      },
+      "artists": [
+        {
+          "name": "Mayila Jones",
+          "url": "https://open.spotify.com/artist/46XkYHP3P8CTOHtFcFZt7B"
+        },
+        {
+          "name": "Onassis Morris",
+          "url": "https://open.spotify.com/artist/4LcCmvYPrmtn1v5zT8JvLJ"
+        }
+      ],
+      "duration_ms": 138314,
+      "name": "Boss Do",
+      "url": "https://open.spotify.com/track/23ZxHG8rXXD3csPLz4utCD"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Out The A: ATL Trap",
+        "url": "https://open.spotify.com/album/2qOUt8HV3A3861UoWbxkR7"
+      },
+      "artists": [
+        {
+          "name": "Pablo DeLao",
+          "url": "https://open.spotify.com/artist/2n0VzWWmg7yJovmmqK3LmM"
+        },
+        {
+          "name": "Tyhiera Taylor",
+          "url": "https://open.spotify.com/artist/2nIYI4b3wLP4Rc7Y9GlSvx"
+        },
+        {
+          "name": "Kyle Campbell",
+          "url": "https://open.spotify.com/artist/0KG3Yw0p93dUUHfGxecVJ7"
+        },
+        {
+          "name": "Daniel Tuggerson",
+          "url": "https://open.spotify.com/artist/2WWDL1banRTp3kxTyg5BHO"
+        },
+        {
+          "name": "Derek Long",
+          "url": "https://open.spotify.com/artist/5xJiiKiEDhJYn6Z3EdCZPt"
+        },
+        {
+          "name": "Jaron Takach",
+          "url": "https://open.spotify.com/artist/36bLfgFkAodzzHCeG45Jtm"
+        }
+      ],
+      "duration_ms": 142485,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/66yziyIeiNTg0WTFtKzRz6"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "DAMN",
+        "url": "https://open.spotify.com/album/4uDNoA7mZnXjhNaKe8noOw"
+      },
+      "artists": [
+        {
+          "name": "BAHA BANK$",
+          "url": "https://open.spotify.com/artist/0RCAPjosUl0X0PehJ5GKJz"
+        }
+      ],
+      "duration_ms": 145384,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/7DuYGOsvzetpjXiNZTMsS1"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Trap Songz",
+        "url": "https://open.spotify.com/album/72hzbNsYDOhsJtFitXDwTO"
+      },
+      "artists": [
+        {
+          "name": "D.Cope",
+          "url": "https://open.spotify.com/artist/0lDU50nqn4j5BzA6Vhrf8W"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/2HJaFkhmpTBqqaWlRGy3rJ"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "LOOKING FOR PEOPLE TO UNFOLLOW",
+        "url": "https://open.spotify.com/album/6S7mwrc4FXlG4MmuBaDGAA"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 148071,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/2ueiBDZUzMUvQGAA8CMFiI"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2rM0B8sQyf2CxWVnTEsjPw"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        },
+        {
+          "name": "Gnarly",
+          "url": "https://open.spotify.com/artist/7LYSxmcXooAtd9MjfxgAxO"
+        }
+      ],
+      "duration_ms": 77744,
+      "name": "I Need That Money",
+      "url": "https://open.spotify.com/track/2KVrymkNuIKqHtYKj7ElkE"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2rM0B8sQyf2CxWVnTEsjPw"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        },
+        {
+          "name": "Gnarly",
+          "url": "https://open.spotify.com/artist/7LYSxmcXooAtd9MjfxgAxO"
+        }
+      ],
+      "duration_ms": 69816,
+      "name": "Angel Is Playing The Wrong Game",
+      "url": "https://open.spotify.com/track/44w2kipAV4yn8MLMAEkCgV"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2rM0B8sQyf2CxWVnTEsjPw"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        },
+        {
+          "name": "Lambert 'Stereo' Waldrip",
+          "url": "https://open.spotify.com/artist/7fYRvGjEjpBZSvLcQACP1Q"
+        }
+      ],
+      "duration_ms": 41899,
+      "name": "Are You Happy Now?",
+      "url": "https://open.spotify.com/track/3QS0LWEjIRtlSecp8gb2AH"
+    },
+    {
+      "added_at": "2026-08-27 13:00:09",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2rM0B8sQyf2CxWVnTEsjPw"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        },
+        {
+          "name": "Tony Ozier",
+          "url": "https://open.spotify.com/artist/2gwpYnNIKxyEIQW3mOF2Yx"
+        }
+      ],
+      "duration_ms": 89708,
+      "name": "The Most Important Thing Is Us",
+      "url": "https://open.spotify.com/track/5btF4S44bY8HnMXKFkuDMA"
+    },
     {
       "added_at": "2026-03-19 14:20:12",
       "album": {

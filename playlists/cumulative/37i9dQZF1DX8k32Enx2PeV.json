@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 202770,
       "name": "Capul\u00ed",
       "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
@@ -2220,6 +2220,24 @@
       "duration_ms": 170454,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/570cF2dEppbenkihxtlisz"
+    },
+    {
+      "album": {
+        "name": "Me Enamor\u00f3",
+        "url": "https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf"
+      },
+      "artists": [
+        {
+          "name": "Osman M\u00fasica",
+          "url": "https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154411,
+      "name": "Me Enamor\u00f3",
+      "url": "https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8"
     },
     {
       "album": {
@@ -3468,6 +3486,28 @@
       "duration_ms": 194734,
       "name": "TATTUU",
       "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
+    },
+    {
+      "album": {
+        "name": "TE LO ADVERT\u00cd",
+        "url": "https://open.spotify.com/album/3k5sKzriLrzq46FcLccPZK"
+      },
+      "artists": [
+        {
+          "name": "Dos Rayos",
+          "url": "https://open.spotify.com/artist/6oW8mrGWf9Hy3Q5sFr71Pc"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199388,
+      "name": "TE LO ADVERT\u00cd",
+      "url": "https://open.spotify.com/track/65obf6PsnYTQk4votV4aA3"
     },
     {
       "album": {

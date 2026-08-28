@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,433 songs - 3 day 11 hr 20 min
+1,436 songs - 3 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 | 2026-06-05 | 2026-07-03 |
 | [Drug Infused Love](https://open.spotify.com/track/0zvHPpFftBopYcKXTexcjm) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Drug Infused Love](https://open.spotify.com/album/7falbSgkPHlEQ8WfjnRhPf) | 2:45 | 2026-02-25 | 2026-03-25 |
 | [Dry Land](https://open.spotify.com/track/1serZjuQxClBxPTGcUqaVa) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Dry Land](https://open.spotify.com/album/0xo0hP4MfnRfOlnMAuLD9p) | 6:18 | 2026-06-04 | 2026-07-03 |
+| [DU BIST WILD](https://open.spotify.com/track/2pAAKvqH7VTBde8kQ1UEPH) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [DU BIST WILD](https://open.spotify.com/album/0xruuJobmDpHM0auPUh4uh) | 3:00 | 2026-08-27 |  |
 | [Du är fri](https://open.spotify.com/track/53Vdv4GR4yCrBTA9ufhGjk) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [Du är fri](https://open.spotify.com/album/2CZgO1nVD6zL1MuAKHbJl5) | 3:09 | 2026-06-29 | 2026-08-10 |
 | [Dual](https://open.spotify.com/track/5vN9W5CbFtWYv17mp6bzLR) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Dual](https://open.spotify.com/album/15P2VvizUmctB7VhJ6Obk2) | 2:59 | 2025-12-09 | 2026-01-05 |
 | [Dubious](https://open.spotify.com/track/17H9H9krGfGb05FxunN5E0) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Dubious](https://open.spotify.com/album/1WSDHaH9sCm0ALywxpys1E) | 1:55 | 2026-02-02 | 2026-02-28 |
@@ -684,6 +685,7 @@
 | [Like Pulling A Push Door](https://open.spotify.com/track/0mrTVSHYd6kRWZtQLbhqGp) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Like Pulling A Push Door](https://open.spotify.com/album/6kUbqWznpOf8umUS1EHmSq) | 3:24 | 2026-04-15 | 2026-05-14 |
 | [Lilac Oil](https://open.spotify.com/track/2SckxctBDFyfpZbgpsKwJN) | [Cameron Esther](https://open.spotify.com/artist/1xTdRNp6vqtCup5YoVSfWE) | [Lilac Oil](https://open.spotify.com/album/3zZDJbH4uW4KA0kbdPTDxF) | 4:25 | 2026-04-28 | 2026-06-05 |
 | [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 | 2026-03-30 | 2026-05-03 |
+| [Liminal](https://open.spotify.com/track/6CJ2xNbKYZlqSXRqsbSYa1) | [N.A.S.P.](https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl) | [Liminal](https://open.spotify.com/album/3bE2XhnjfOTbFBc82oIkjK) | 4:22 | 2026-08-27 |  |
 | [Limérence](https://open.spotify.com/track/2bHWqW5Z7yI8D8FgyJ3mgU) | [UDU](https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp) | [Tabarden](https://open.spotify.com/album/20V1o95entpLF5IsVZkE2t) | 3:45 | 2025-12-17 | 2026-01-15 |
 | [Little Rays Of Sunshine](https://open.spotify.com/track/5Vr2F37pEJJF5Bh98wiIPR) | [The Haze](https://open.spotify.com/artist/6iUcuJFopb8XcXduZjuGJe) | [Little Rays Of Sunshine](https://open.spotify.com/album/5369DhLq6cl4u04Vr5hxZE) | 4:37 | 2026-06-23 | 2026-07-19 |
 | [Little Wonders](https://open.spotify.com/track/0uEZXhpxqigo36E5NMQETt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Little Wonders](https://open.spotify.com/album/4mVtkDM3Bf02KEege14QMx) | 3:38 | 2026-04-21 | 2026-06-05 |
@@ -1361,6 +1363,7 @@
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2026-02-17 | 2026-03-25 |
 | [Weisst du noch ?](https://open.spotify.com/track/4huYzPzA8X4qbVEy68KjLD) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Weisst du noch ?](https://open.spotify.com/album/2GcaJ26qd0XxJOdVhd6yqu) | 2:56 | 2026-01-20 | 2026-02-20 |
 | [Weizenwetter](https://open.spotify.com/track/6zWKGR8Rn1EGib9mOP2jxf) | [LEEZE](https://open.spotify.com/artist/2IiWnyqGW4BZHM8THRSFpe) | [Weizenwetter](https://open.spotify.com/album/1HLwzEgafWcvuhsJqaIYgb) | 3:09 | 2026-05-29 | 2026-07-03 |
+| [Wenn ich nachts nicht schlafen kann](https://open.spotify.com/track/7popSOnP1uS3C7v0ortVPM) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 3:22 | 2026-08-27 |  |
 | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU) | 3:12 | 2026-02-21 | 2026-03-25 |
 | [What are you doing the rest of your life?](https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [What are you doing the rest of your life?](https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr) | 5:37 | 2025-07-18 | 2026-01-05 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-12-23 | 2026-01-24 |

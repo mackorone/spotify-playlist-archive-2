@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: maya ongaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,990 likes - 182 songs - 13 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,045 likes - 182 songs - 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 10 | [Apparition](https://open.spotify.com/track/1ddZqlrZuRnfwPk0bw5iRg) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Melting Days](https://open.spotify.com/album/1tLBaM7LWJkX1zi3K6wuLu) | 5:10 |
 | 11 | [Note of Mothership](https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Note of Mothership](https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf) | 2:58 |
 | 12 | [Nervion](https://open.spotify.com/track/2iuazD4rbwPw1JdBRvXX44) | [Allison De Groot](https://open.spotify.com/artist/0LVLU0MXmJ1GfWczl4i2MY), [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Nervion](https://open.spotify.com/album/2yOENcZGFrJBYEpVgWTOyE) | 4:13 |
-| 13 | [Conversation 3](https://open.spotify.com/track/0nIbSZ4o2L2gtwWtKwmnZP) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Conversation 3](https://open.spotify.com/album/2k5HAjy3uCMwKkWWs5nu9Z) | 5:53 |
+| 13 | [Conversation 3](https://open.spotify.com/track/0nIbSZ4o2L2gtwWtKwmnZP) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Conversation 3](https://open.spotify.com/album/2k5HAjy3uCMwKkWWs5nu9Z) | 5:53 |
 | 14 | [Blue Ba\-Ya \- Excerpt](https://open.spotify.com/track/6GeMx5tMFsp1Qs877S8PKp) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Blue Ba\-Ya](https://open.spotify.com/album/6Ps1Xm23r3hQ16Wh9cEWir) | 4:35 |
 | 15 | [TOKYO MELODY](https://open.spotify.com/track/2JwiPmg07aX6L9cTD31tvM) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [Limehouse](https://open.spotify.com/album/22QLr7co3tJtPbJriydddM) | 3:03 |
 | 16 | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 |

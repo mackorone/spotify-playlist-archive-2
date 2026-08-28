@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-199 songs - 8 hr 58 min
+200 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Survival](https://open.spotify.com/track/0IHOkJ0NcDJRPBoCJJbyij) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Job's Still Not Done](https://open.spotify.com/album/30PhAtPiYPW8roxkSYjA0J) | 2:20 | 2026-05-01 | 2026-06-06 |
 | [Tartan](https://open.spotify.com/track/4DqqqrFeVbMvhE54x7a3fh) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Tartan](https://open.spotify.com/album/2FV1lA9pyE4Enw8k4Dp642) | 1:49 | 2025-10-03 | 2026-06-27 |
 | [Ten \(feat\. Skepta\)](https://open.spotify.com/track/2Zej1ZTJJNDcRj8e8iWUUo) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:02 | 2026-03-13 | 2026-04-11 |
-| [THE SHOWTIME INTRO](https://open.spotify.com/track/7nR9J9jzO2FsXHHZx6gBVQ) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 1:08 | 2026-07-24 |  |
+| [THE SHOWTIME INTRO](https://open.spotify.com/track/7nR9J9jzO2FsXHHZx6gBVQ) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 1:08 | 2026-07-24 | 2026-08-28 |
 | [this isn’t a sohng its a statement](https://open.spotify.com/track/3n9pykmorDYCDYYpd3YVs1) | [Ohmien](https://open.spotify.com/artist/3tlq4OIIUWp6VbyYhdWmX1) | [8oh8](https://open.spotify.com/album/4RjgLwy81UcGeVlj4MQR1R) | 1:12 | 2026-06-05 | 2026-07-11 |
 | [Thug With Me \(feat\. Mozzy\)](https://open.spotify.com/track/6FwxOkqxFE4jfdlhwZHQee) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Thug With Me \(feat\. Mozzy\)](https://open.spotify.com/album/07RvxP2fujZX30ogCsHPel) | 2:53 | 2025-10-03 | 2026-05-23 |
 | [Time For Your Love](https://open.spotify.com/track/0568qTqmTSwgtkJOHaFVP8) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Time For Your Love](https://open.spotify.com/album/7n7gYfWWF2OpFJfQTpUL2U) | 2:40 | 2025-10-03 |  |
@@ -198,6 +198,7 @@
 | [Vogue](https://open.spotify.com/track/0hFOvvRqlEX99Q2EnZuHGL) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Vogue](https://open.spotify.com/album/6RbeP5pqg2LotoXpHd3TKq) | 1:34 | 2025-10-03 |  |
 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 | 2026-04-10 | 2026-05-09 |
 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 | 2025-10-03 | 2026-03-14 |
+| [Which One](https://open.spotify.com/track/3URpUsUUv4Kr7l1hVnWy1K) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Which One](https://open.spotify.com/album/3AipAgLfi9mnI0hFewZvUx) | 3:01 | 2026-08-27 |  |
 | [WIDE AWAKE](https://open.spotify.com/track/6VhPOYMWWuuXCiEs50vdru) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WIDE AWAKE](https://open.spotify.com/album/5SzpXBNjQZMQ3JlGeHOd3C) | 2:48 | 2025-10-03 | 2026-05-30 |
 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 | 2025-10-03 | 2026-03-14 |
 | [WIZARD OF OZ](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [WIZARD OF OZ](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 | 2026-04-28 | 2026-08-01 |

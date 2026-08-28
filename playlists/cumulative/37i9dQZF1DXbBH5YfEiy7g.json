@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "27:27",
+        "url": "https://open.spotify.com/album/1Ec0jVUUxyahw0pQRpR04T"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "Thami Mthabela",
+          "url": "https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Buyelekhaya (feat. Thami Mthabela)",
+      "url": "https://open.spotify.com/track/5pVeDbjv2a1VivRNiOc5j5"
+    },
+    {
+      "album": {
         "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
         "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
       },
@@ -3032,6 +3054,24 @@
       "duration_ms": 470600,
       "name": "Nothing Without You - Live",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
+    },
+    {
+      "album": {
+        "name": "Nsovo Moment (Live)",
+        "url": "https://open.spotify.com/album/4kmuvjCmGtxm62swhicrrc"
+      },
+      "artists": [
+        {
+          "name": "Collen Maluleke",
+          "url": "https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178338,
+      "name": "Nsovo Moment - Live",
+      "url": "https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr"
     },
     {
       "album": {

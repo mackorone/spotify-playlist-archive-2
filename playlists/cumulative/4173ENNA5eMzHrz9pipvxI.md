@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: unfazed
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: CYRIL
 
-2,061 songs - 4 day 3 hr 17 min
+2,063 songs - 4 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Best Thing \(Ookay Remix\)](https://open.spotify.com/track/74rfuKHlzDShJjxrVqfpxy) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Best Thing \(Ookay Remix\)](https://open.spotify.com/album/2opphly3r07PFASpEKxXam) | 2:52 | 2024-03-01 | 2024-03-09 |
 | [Best Thing \(Sonny Wern Remix\)](https://open.spotify.com/track/48jcfIa26aL4f8DxmIgNze) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Best Thing \(Sonny Wern Remix\)](https://open.spotify.com/album/1le9RxUAB0Pwv8e1wJNadG) | 2:24 | 2024-03-01 | 2024-03-09 |
 | [Best Thing \(THNDERZ Remix\)](https://open.spotify.com/track/3n7eGaNMcYT3sAK1mq4jtO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [THNDERZ](https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23) | [Best Thing \(THNDERZ Remix\)](https://open.spotify.com/album/2o9ywXvHdB5s6WMIZPAcvF) | 2:16 | 2024-03-01 | 2024-03-09 |
+| [Bette Davis Eyes](https://open.spotify.com/track/1kq25Me0b361sS3GRyVfgD) | [Chase Maverix](https://open.spotify.com/artist/5yBWt5sObZOnI1XCsNCWfC) | [Bette Davis Eyes](https://open.spotify.com/album/0IhNrkbGWOmyNjD78KedX4) | 2:57 | 2026-08-28 |  |
 | [Better](https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Better](https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM) | 2:55 | 2022-09-09 | 2022-10-07 |
 | [Better \- NOME\. Remix](https://open.spotify.com/track/6djAxx7QLbeo6rYspJMMGB) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Better \(NOME\. Remix\)](https://open.spotify.com/album/0PutZEJ2lnuSqY44H5tj1c) | 2:55 | 2022-12-15 | 2023-01-06 |
 | [Better \- Thomas Nan Remix](https://open.spotify.com/track/0CnvGfoI06Ler4vjNbOX4d) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Thomas Nan](https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v) | [Better \(Thomas Nan Remix\)](https://open.spotify.com/album/0bjpwExXJogU8mWRlvyw8L) | 3:34 | 2022-12-15 | 2023-01-06 |
@@ -238,6 +239,7 @@
 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 | 2024-02-09 | 2024-02-23 |
 | [Breathe \(with Jerome\)](https://open.spotify.com/track/2MNq4nkmeFTj6YOF4xu4F6) | [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Breathe \(with Jerome\)](https://open.spotify.com/album/2y7vu7uO0GjDfN5OzLPOVY) | 2:28 | 2025-05-08 | 2025-05-31 |
 | [Breathe Again](https://open.spotify.com/track/2LndWB1qY0YA7zHFhbnKzi) | [Ted Troll](https://open.spotify.com/artist/55DoCb0V8igBBz16WCz2tD) | [Breathe Again](https://open.spotify.com/album/2iaYMbYWTBGQw47OVUbl1C) | 4:00 | 2022-09-30 | 2022-10-14 |
+| [Breathless](https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Breathless](https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO) | 2:26 | 2026-08-28 |  |
 | [Breezer](https://open.spotify.com/track/6RAUnMjeXUG6BnHz7EaQNh) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42) | [Breezer](https://open.spotify.com/album/28XobgtVsOWzrn0KKCur28) | 2:49 | 2023-03-09 | 2023-03-25 |
 | [Bring It](https://open.spotify.com/track/6seHytVZJPtJyH5X6QUKqJ) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bring It](https://open.spotify.com/album/06ylSMA5HfHGtXAkGrC1Hf) | 2:20 | 2023-07-13 | 2023-07-29 |
 | [Bring It Back](https://open.spotify.com/track/2O97OMWIHjOF5dqVYQMOX1) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Bring It Back](https://open.spotify.com/album/6N9ITWVJx76I2La3Q32Wop) | 3:06 | 2023-02-09 | 2023-02-18 |

@@ -1,28 +1,32 @@
 {
   "description": "Dans pisti haz\u0131r! Mix yaln\u0131zca Premium'da. Kapak: Bora Uzer",
-  "num_followers": 189302,
+  "num_followers": 189291,
   "original_name": "DANS 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGN1NoIgzgGoo2zSKBPGTYGx3jDw",
+  "snapshot_id": "AAAAAKrQJEHod9DM9csmyNzsZkodzjW+",
   "tracks": [
     {
-      "added_at": "2026-08-21 05:34:47",
+      "added_at": "2026-08-28 07:44:45",
       "album": {
-        "name": "That\u2019s The Law / Secret",
-        "url": "https://open.spotify.com/album/42dCSRwur2TayTo3MB2VLz"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3rRRiDr7Z47Lv2DTZRIuGV"
       },
       "artists": [
         {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 210909,
-      "name": "That's The Law",
-      "url": "https://open.spotify.com/track/6ULT3vNg9a45Ag9TpLOZn6"
+      "duration_ms": 179678,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -47,6 +51,22 @@
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
+    },
+    {
+      "added_at": "2026-08-21 05:34:47",
+      "album": {
+        "name": "That\u2019s The Law / Secret",
+        "url": "https://open.spotify.com/album/42dCSRwur2TayTo3MB2VLz"
+      },
+      "artists": [
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "That's The Law",
+      "url": "https://open.spotify.com/track/6ULT3vNg9a45Ag9TpLOZn6"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -83,22 +103,6 @@
       "duration_ms": 255080,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/5rSkTcePXM5wBURKo1tj56"
-    },
-    {
-      "added_at": "2026-08-21 05:34:47",
-      "album": {
-        "name": "Italian Job",
-        "url": "https://open.spotify.com/album/5YtEeaQfwFhZZpfxgzjiVT"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 175424,
-      "name": "Italian Job",
-      "url": "https://open.spotify.com/track/2AYebbKenqjmq5pOsn7L2o"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -261,6 +265,30 @@
       "url": "https://open.spotify.com/track/4elJSQuePRtrSVcz7oYVaz"
     },
     {
+      "added_at": "2026-08-28 07:44:45",
+      "album": {
+        "name": "Estarabim",
+        "url": "https://open.spotify.com/album/4tywLCONJrsysWAMemzlgH"
+      },
+      "artists": [
+        {
+          "name": "HVMZA",
+          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
+        },
+        {
+          "name": "Burak Cilt",
+          "url": "https://open.spotify.com/artist/7M7oTl8MZ69Y0fwL4cgoSn"
+        },
+        {
+          "name": "Erkin Koray",
+          "url": "https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Estarabim",
+      "url": "https://open.spotify.com/track/5lc0lINgFMCSY0bDhKpniP"
+    },
+    {
       "added_at": "2026-08-21 05:34:47",
       "album": {
         "name": "Supersonic",
@@ -275,26 +303,6 @@
       "duration_ms": 342295,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx"
-    },
-    {
-      "added_at": "2026-08-21 05:34:47",
-      "album": {
-        "name": "Can I Have It Like That",
-        "url": "https://open.spotify.com/album/6BtQuj0SvmvS7jVMbcez69"
-      },
-      "artists": [
-        {
-          "name": "Ben Hims",
-          "url": "https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6"
-        },
-        {
-          "name": "Baris Turna",
-          "url": "https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Can I Have It Like That",
-      "url": "https://open.spotify.com/track/4rdhy4UAiowaK6E8uzQ4R4"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -343,46 +351,6 @@
     {
       "added_at": "2026-08-21 05:34:47",
       "album": {
-        "name": "What da Funk (German Brigante Remix)",
-        "url": "https://open.spotify.com/album/52Zs7M3SMGg4YlbvfgJh9a"
-      },
-      "artists": [
-        {
-          "name": "Deniz Tekin (TR)",
-          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
-        },
-        {
-          "name": "Aliot",
-          "url": "https://open.spotify.com/artist/0fwRN0FvddmSkK5x3iDFSg"
-        },
-        {
-          "name": "German Brigante",
-          "url": "https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm"
-        }
-      ],
-      "duration_ms": 308592,
-      "name": "What da Funk - German Brigante Remix",
-      "url": "https://open.spotify.com/track/2sJALKQ60UKUYnWbxapVrY"
-    },
-    {
-      "added_at": "2026-08-21 05:34:47",
-      "album": {
-        "name": "Bleedin'",
-        "url": "https://open.spotify.com/album/0ukTh0JMilzhqBYbRXoDlj"
-      },
-      "artists": [
-        {
-          "name": "Ediz",
-          "url": "https://open.spotify.com/artist/6HNYrHKf5sk93pAkZj9LSp"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Bleedin'",
-      "url": "https://open.spotify.com/track/7usTSsPgCNJRasC6heEHui"
-    },
-    {
-      "added_at": "2026-08-21 05:34:47",
-      "album": {
         "name": "SUMMER PACK",
         "url": "https://open.spotify.com/album/4XJxEn4PAL9kdHPmxqjwno"
       },
@@ -395,26 +363,6 @@
       "duration_ms": 218571,
       "name": "ZEN",
       "url": "https://open.spotify.com/track/2Lip43pi4yeIRm16bIzcaa"
-    },
-    {
-      "added_at": "2026-08-21 05:34:47",
-      "album": {
-        "name": "Ikigai (Timo Maas Remix)",
-        "url": "https://open.spotify.com/album/4Cj5acTie11YqD9N8NVz7F"
-      },
-      "artists": [
-        {
-          "name": "Sezer Uysal",
-          "url": "https://open.spotify.com/artist/4y0Bho33I93MMxrgsRwMOj"
-        },
-        {
-          "name": "Timo Maas",
-          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
-        }
-      ],
-      "duration_ms": 399360,
-      "name": "Ikigai - Timo Maas Remix",
-      "url": "https://open.spotify.com/track/0q1CLObixSEskNuzcUFtMP"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -435,26 +383,6 @@
       "duration_ms": 197705,
       "name": "Dance Floor DNA",
       "url": "https://open.spotify.com/track/37mHvuXH3cz2Dkl23ypqbc"
-    },
-    {
-      "added_at": "2026-08-21 05:34:47",
-      "album": {
-        "name": "No Gravity (Yuv\u00e8e Remix)",
-        "url": "https://open.spotify.com/album/3Y2kg4C4aQ9mB5bb4UQ72x"
-      },
-      "artists": [
-        {
-          "name": "Sezer Uysal",
-          "url": "https://open.spotify.com/artist/4y0Bho33I93MMxrgsRwMOj"
-        },
-        {
-          "name": "Yuv\u00e8e",
-          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
-        }
-      ],
-      "duration_ms": 337440,
-      "name": "No Gravity - Yuv\u00e8e Remix",
-      "url": "https://open.spotify.com/track/1xhYYjVZSIKgMLxQXcTXWE"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -629,6 +557,26 @@
       "url": "https://open.spotify.com/track/3W8mAmdDUA9jHe3RxXxiol"
     },
     {
+      "added_at": "2026-08-28 07:44:45",
+      "album": {
+        "name": "ran away \ud83c\udfc3",
+        "url": "https://open.spotify.com/album/5TLbIN6xsKQFuKaLYVIHbC"
+      },
+      "artists": [
+        {
+          "name": "Canosonik",
+          "url": "https://open.spotify.com/artist/3q8fOws9q7XKPlc33rJ2Xd"
+        },
+        {
+          "name": "Deniz Tekin (TR)",
+          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
+        }
+      ],
+      "duration_ms": 212682,
+      "name": "ran away \ud83c\udfc3",
+      "url": "https://open.spotify.com/track/5BysfLsWlfApkOLWK1gRTA"
+    },
+    {
       "added_at": "2026-08-21 05:34:47",
       "album": {
         "name": "Offcuts",
@@ -793,6 +741,22 @@
       "url": "https://open.spotify.com/track/5rdbyZKtaVeEKtRwUwnmKj"
     },
     {
+      "added_at": "2026-08-28 07:44:45",
+      "album": {
+        "name": "303 Reasons to Live",
+        "url": "https://open.spotify.com/album/6MbVaNRfhkRL4vktS26zZL"
+      },
+      "artists": [
+        {
+          "name": "Valfi",
+          "url": "https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "303 Reasons to Live",
+      "url": "https://open.spotify.com/track/31jbcT4YAYhLj6wUXcxh2X"
+    },
+    {
       "added_at": "2026-08-21 05:34:47",
       "album": {
         "name": "YO DJ!",
@@ -809,20 +773,20 @@
       "url": "https://open.spotify.com/track/0azjekivc46pZrwn1z4vnY"
     },
     {
-      "added_at": "2026-08-21 05:34:47",
+      "added_at": "2026-08-28 07:44:45",
       "album": {
-        "name": "Prudy",
-        "url": "https://open.spotify.com/album/5TK5YTfodg13j2iO3Hzgyc"
+        "name": "Jonasclean",
+        "url": "https://open.spotify.com/album/2Rn1pYP56wegs3AvD5XejX"
       },
       "artists": [
         {
-          "name": "Murteza",
-          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
+          "name": "Jonasclean",
+          "url": "https://open.spotify.com/artist/3O6O1853emF2Xcrr2ing5N"
         }
       ],
-      "duration_ms": 224839,
-      "name": "Prudy",
-      "url": "https://open.spotify.com/track/79GlDO9RsJwZBIuaX0IBjp"
+      "duration_ms": 320000,
+      "name": "A.h.",
+      "url": "https://open.spotify.com/track/71vjKkdzjP25WMtSXIBmWh"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -863,6 +827,22 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "added_at": "2026-08-21 05:34:47",
+      "album": {
+        "name": "Prudy",
+        "url": "https://open.spotify.com/album/5TK5YTfodg13j2iO3Hzgyc"
+      },
+      "artists": [
+        {
+          "name": "Murteza",
+          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
+        }
+      ],
+      "duration_ms": 224839,
+      "name": "Prudy",
+      "url": "https://open.spotify.com/track/79GlDO9RsJwZBIuaX0IBjp"
     },
     {
       "added_at": "2026-08-21 05:34:47",
@@ -971,6 +951,22 @@
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+    },
+    {
+      "added_at": "2026-08-28 07:44:45",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5nS0sCJUWnextYkGXuKfKn"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/64aXxgrtA3T2gYdxzJhIA4"
     },
     {
       "added_at": "2026-08-21 05:34:47",

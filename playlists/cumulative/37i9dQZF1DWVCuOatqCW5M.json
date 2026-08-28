@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Goldie Sohel, Asees Kaur, Anurag Saikia and more.",
+  "description": "Latest music from Rito Riba, Hansika Pareek, Shekhar Ravjiani, Swanand Kirkire and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 244900,
       "name": "Apni Uljhan (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
       "url": "https://open.spotify.com/track/0SLWCkL2Fh4DPi8C16Unuk"
@@ -2894,6 +2894,32 @@
       "duration_ms": 127821,
       "name": "Awara",
       "url": "https://open.spotify.com/track/5mX2aKNEOmBVMwLb6WknfL"
+    },
+    {
+      "album": {
+        "name": "Ayanam (Mi Amore)",
+        "url": "https://open.spotify.com/album/65k7fIybeZDMuIn5UMUSB9"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Ayanam - Mi Amore",
+      "url": "https://open.spotify.com/track/2HD5NXN92J0hkWggGassHs"
     },
     {
       "album": {
@@ -4826,7 +4852,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187800,
       "name": "Batiya",
       "url": "https://open.spotify.com/track/0wF6dcueSIQLOfujm4fZzy"
@@ -10182,7 +10208,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180224,
       "name": "Dildara",
       "url": "https://open.spotify.com/track/095pFHXkCWgzymchos38GA"
@@ -11134,7 +11160,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194317,
       "name": "Ehsaas",
       "url": "https://open.spotify.com/track/0yO5d2QDT5SE7kgML0xtIl"
@@ -13216,7 +13242,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 204000,
       "name": "Haare",
       "url": "https://open.spotify.com/track/6gNBwLDbm1KaQZRRzCJYWu"
@@ -14147,6 +14173,24 @@
     },
     {
       "album": {
+        "name": "Heer Ranjha",
+        "url": "https://open.spotify.com/album/2lG37NkKV1sJuN4xcfdfPR"
+      },
+      "artists": [
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Heer Ranjha",
+      "url": "https://open.spotify.com/track/6Nnj2zqGabTZN0Ky0iRCyG"
+    },
+    {
+      "album": {
         "name": "Heer Ranjha (Reprise)",
         "url": "https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7"
       },
@@ -14340,6 +14384,32 @@
       "duration_ms": 163764,
       "name": "HIIR",
       "url": "https://open.spotify.com/track/0LVplQ76aGSnnggq9IbP5b"
+    },
+    {
+      "album": {
+        "name": "Hivde Ro Haar | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/3DOlp04Y5nBBznc2d0alTX"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266769,
+      "name": "Hivde Ro Haar | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/1irqvsFOQElxcUdU8ekzYG"
     },
     {
       "album": {
@@ -16704,7 +16774,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 159391,
       "name": "Jaan Nisar",
       "url": "https://open.spotify.com/track/4VRCFJuM93O7XU8oppf2w2"
@@ -17928,7 +17998,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177600,
       "name": "Jhoom",
       "url": "https://open.spotify.com/track/2ubWqBb3Ohw422pJGJX2wy"
@@ -21580,7 +21650,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 384000,
       "name": "Kitni Dafaa",
       "url": "https://open.spotify.com/track/55X7yrhGv7sJ3oWG3GlGl3"
@@ -28277,6 +28347,24 @@
     },
     {
       "album": {
+        "name": "O Sajani Re (From \"Chindi Pakad\")",
+        "url": "https://open.spotify.com/album/56uE6dUGrJkdxrwv5sh4Mw"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211390,
+      "name": "O Sajani Re (From \"Chindi Pakad\")",
+      "url": "https://open.spotify.com/track/7cf1DV5UxRneahZ63Kf2GK"
+    },
+    {
+      "album": {
         "name": "O Sanam",
         "url": "https://open.spotify.com/album/7mKLdhcfnDbk8D0G2RfECd"
       },
@@ -29911,6 +29999,28 @@
     },
     {
       "album": {
+        "name": "Piyarva",
+        "url": "https://open.spotify.com/album/12U91OBAaVIP2XfWprzpST"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236764,
+      "name": "Piyarva",
+      "url": "https://open.spotify.com/track/3BYmaVffF1sarxYWDzG4HG"
+    },
+    {
+      "album": {
         "name": "Preet",
         "url": "https://open.spotify.com/album/67ZHnnFQrnlLrB7UJhAoN5"
       },
@@ -30522,7 +30632,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 191381,
       "name": "Qinniya Soni",
       "url": "https://open.spotify.com/track/7EsWEd2s6hUUNw3I2QqKrn"
@@ -30874,6 +30984,32 @@
       "duration_ms": 181856,
       "name": "Raazdaariyan",
       "url": "https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw"
+    },
+    {
+      "album": {
+        "name": "Late Night In The Living Room",
+        "url": "https://open.spotify.com/album/0aRozipSX2QwhzssRkEb0B"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144118,
+      "name": "Raazi",
+      "url": "https://open.spotify.com/track/0ExOAhgB6vv1ldXym9yI7B"
     },
     {
       "album": {
@@ -35199,6 +35335,28 @@
     },
     {
       "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5RpTeTpXGtf49NoG9nI9w0"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/6JDHJPtUGGacZxwNbDI0wy"
+    },
+    {
+      "album": {
         "name": "Subha Shaam",
         "url": "https://open.spotify.com/album/78LRDU6OxRTofDogmeU6ZN"
       },
@@ -36302,6 +36460,32 @@
       "duration_ms": 219120,
       "name": "Tera Ban Gaya Hoon",
       "url": "https://open.spotify.com/track/11yeBYanvSAQndJ8ZEgbqd"
+    },
+    {
+      "album": {
+        "name": "Tera Banke Rehna",
+        "url": "https://open.spotify.com/album/0VNLjvavfTggCLKZhLqOC0"
+      },
+      "artists": [
+        {
+          "name": "Ishan Krishan",
+          "url": "https://open.spotify.com/artist/3a00s1dpBoSxGDi1tiVcTD"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213068,
+      "name": "Tera Banke Rehna",
+      "url": "https://open.spotify.com/track/1HbqCu3MoFVDELnc2cOHv4"
     },
     {
       "album": {
@@ -39746,7 +39930,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186067,
       "name": "Tu Rehnuma",
       "url": "https://open.spotify.com/track/52NZDQHctUWcoa5MvgoTru"
@@ -42246,6 +42430,28 @@
       "duration_ms": 195463,
       "name": "Yanta (feat. Nawazuddin Siddiqui)",
       "url": "https://open.spotify.com/track/1oGW2lfQoMf6NCh0vuO5Wr"
+    },
+    {
+      "album": {
+        "name": "Ye Baarish Roz Aa Jaye",
+        "url": "https://open.spotify.com/album/6SlLYzcXn2iuFNUtHeGKRU"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Munish Yadav",
+          "url": "https://open.spotify.com/artist/0mIyU10g7VEXx3FAu88H1F"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ye Baarish Roz Aa Jaye",
+      "url": "https://open.spotify.com/track/1aaxX5gLKPBhZmgJqRwT7I"
     },
     {
       "album": {

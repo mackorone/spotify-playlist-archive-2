@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192500,
       "name": "Ansaittu",
       "url": "https://open.spotify.com/track/02cd1qYwQL3ioXBu8vWq32"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 129635,
       "name": "BL\u00c4K",
       "url": "https://open.spotify.com/track/4txqZx15jCKZ4XlUZdudmU"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 139233,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1bWFDfgwOMhiYGUeBKjMRZ"
@@ -4344,6 +4344,28 @@
     {
       "album": {
         "name": "ENEMM\u00c4",
+        "url": "https://open.spotify.com/album/0nCEctgDzvWHJIXCXijDOG"
+      },
+      "artists": [
+        {
+          "name": "Dw",
+          "url": "https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158142,
+      "name": "ENEMM\u00c4",
+      "url": "https://open.spotify.com/track/4Scfek8VyWiZaME1vaLcXl"
+    },
+    {
+      "album": {
+        "name": "ENEMM\u00c4",
         "url": "https://open.spotify.com/album/3TofQnqhTDizHyQhJmzs1J"
       },
       "artists": [
@@ -5366,7 +5388,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 163404,
       "name": "GETTO BBY",
       "url": "https://open.spotify.com/track/1SoNb1FSuzCTPthPrwEBuR"
@@ -5818,7 +5840,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 152470,
       "name": "HAZAA!!! (I Did It)",
       "url": "https://open.spotify.com/track/6xQyztcXykKO1njwxWBWS4"
@@ -7236,7 +7258,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 210000,
       "name": "IS\u00c4",
       "url": "https://open.spotify.com/track/4uuLINly6RjczYYTdDBSE5"
@@ -9909,6 +9931,32 @@
     },
     {
       "album": {
+        "name": "kotiin",
+        "url": "https://open.spotify.com/album/48G2Tb32082V6NZaGWfg2h"
+      },
+      "artists": [
+        {
+          "name": "D1 DANI",
+          "url": "https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx"
+        },
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        },
+        {
+          "name": "ROSLUV",
+          "url": "https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229809,
+      "name": "kotiin",
+      "url": "https://open.spotify.com/track/48wZjnUfe8stNZrg7m89f1"
+    },
+    {
+      "album": {
         "name": "Koukus",
         "url": "https://open.spotify.com/album/4Sd6GNkbQZ6tpZWhKX7wh7"
       },
@@ -10382,7 +10430,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 158571,
       "name": "Kumppani",
       "url": "https://open.spotify.com/track/1q92Q4x7wWdwF3JwYvEwSf"
@@ -10602,7 +10650,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 262714,
       "name": "Kuus Kuus Kuus",
       "url": "https://open.spotify.com/track/30SBwD6nmh6RUGcoTUbLnw"
@@ -13893,6 +13941,32 @@
     },
     {
       "album": {
+        "name": "mist\u00e4 alottasin",
+        "url": "https://open.spotify.com/album/58NVaJOI254URQle798uAH"
+      },
+      "artists": [
+        {
+          "name": "D1 DANI",
+          "url": "https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx"
+        },
+        {
+          "name": "internet soulja",
+          "url": "https://open.spotify.com/artist/0TqMPPXrgPRlyk2wEXdqLj"
+        },
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207727,
+      "name": "mist\u00e4 alottasin",
+      "url": "https://open.spotify.com/track/3u0l9pznpQbqwN11aVjbEx"
+    },
+    {
+      "album": {
         "name": "Mit vit sit?",
         "url": "https://open.spotify.com/album/3y2n3anuLGpHB43xyWGZnL"
       },
@@ -14114,6 +14188,24 @@
       "duration_ms": 147807,
       "name": "Mit\u00e4 vaan",
       "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
+    },
+    {
+      "album": {
+        "name": "MJ",
+        "url": "https://open.spotify.com/album/1or2nUDUdv4esoKpePtOUz"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6ge",
+          "url": "https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191905,
+      "name": "MJ",
+      "url": "https://open.spotify.com/track/6yvTJPOY2hm8tF0W19TirA"
     },
     {
       "album": {
@@ -15095,6 +15187,28 @@
     },
     {
       "album": {
+        "name": "HYMYPOIKA",
+        "url": "https://open.spotify.com/album/4ks50z254PsyCTOJVTrrxE"
+      },
+      "artists": [
+        {
+          "name": "Pyzze",
+          "url": "https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ"
+        },
+        {
+          "name": "breakingbonezz",
+          "url": "https://open.spotify.com/artist/1omCdf39B5rEwVTs7Dg116"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121111,
+      "name": "M\u00e4 muistan",
+      "url": "https://open.spotify.com/track/79e33EikBq4sdC1CiY53T7"
+    },
+    {
+      "album": {
         "name": "M\u00e4 oon",
         "url": "https://open.spotify.com/album/5F5Ww70Fnrl2fDKmSg3TuZ"
       },
@@ -15132,7 +15246,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 136222,
       "name": "M\u00e4 oon kylilt\u00e4",
       "url": "https://open.spotify.com/track/5PWSkaeTZoAe5SzJ0RhiWR"
@@ -15898,7 +16012,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155870,
       "name": "NYKY\u00c4\u00c4",
       "url": "https://open.spotify.com/track/3memWToT3B5cosxTG6NbsQ"
@@ -17302,7 +17416,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 132495,
       "name": "pelastusveneit\u00e4",
       "url": "https://open.spotify.com/track/24rHylPxYGwelMR5cKcYub"
@@ -17940,7 +18054,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 236000,
       "name": "Poutaa",
       "url": "https://open.spotify.com/track/0s3FUWUSs2fVCMFq7ZFf51"
@@ -21704,7 +21818,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172682,
       "name": "S\u00e4 et vaan n\u00e4\u00e4",
       "url": "https://open.spotify.com/track/0JYTKr8rjieG1tuYVQggwE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1khK3JafpRo.md) - [plain]
 
 > <a href="spotify:artist:6RsLLSkSTcL4YrvgRcBTQd">Jimi Jules</a>' favorite tracks\. Curated by Jimi Jules\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195 likes - 67 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209 likes - 67 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

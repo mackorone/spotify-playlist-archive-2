@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: Kidd Carder ",
+  "description": "The future hits of today. Up Next: Muyeez",
   "name": "NXT",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155428,
       "name": "10 MINUTES",
       "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
+    },
+    {
+      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0"
       },
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 166736,
       "name": "ARISE",
       "url": "https://open.spotify.com/track/6p1qrgCy5epVwjlbUXdps4"
@@ -3118,7 +3136,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 152079,
       "name": "CATALYST",
       "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
@@ -3281,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Chaser",
+        "url": "https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Chaser",
+      "url": "https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H"
+    },
+    {
+      "album": {
         "name": "Check Your Available",
         "url": "https://open.spotify.com/album/7GMC4r2NSt9pNcH8Ifq8Ub"
       },
@@ -3402,6 +3438,28 @@
       "duration_ms": 161684,
       "name": "Chocolate & Caramel",
       "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
+    },
+    {
+      "album": {
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76"
+      },
+      "artists": [
+        {
+          "name": "Rhythm Vault",
+          "url": "https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh"
     },
     {
       "album": {
@@ -4202,7 +4260,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 163968,
       "name": "Dem No Really Send Us",
       "url": "https://open.spotify.com/track/3Kk709eDcov8y78T2niFDP"
@@ -5960,7 +6018,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 156279,
       "name": "Formular 1 (feat. PsychoYP)",
       "url": "https://open.spotify.com/track/18EzbRHZ0XiENnxheh2cBu"
@@ -6004,6 +6062,28 @@
       "duration_ms": 140973,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6NfV8y0AyagUxnv1WTA5O2"
+    },
+    {
+      "album": {
+        "name": "From Far",
+        "url": "https://open.spotify.com/album/2Ah3LuqCLuFZzBVrY60wGr"
+      },
+      "artists": [
+        {
+          "name": "Alorman",
+          "url": "https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8"
+        },
+        {
+          "name": "Global boga",
+          "url": "https://open.spotify.com/artist/3BRuJOY9IHkCagNPOjEvVV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "From Far",
+      "url": "https://open.spotify.com/track/203RUz4pnlsKiefaRFPnyy"
     },
     {
       "album": {
@@ -8216,7 +8296,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 138208,
       "name": "Jembe",
       "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
@@ -9913,6 +9993,50 @@
     },
     {
       "album": {
+        "name": "MAMA M'A DIT",
+        "url": "https://open.spotify.com/album/5QoAq8GQ6D8VnEjseSqhm5"
+      },
+      "artists": [
+        {
+          "name": "Tony Dickson",
+          "url": "https://open.spotify.com/artist/4qhx4nld1OSU7j2YCNHvBb"
+        },
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "Allan Harvey",
+          "url": "https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212617,
+      "name": "MAMA M'A DIT",
+      "url": "https://open.spotify.com/track/0JXIZtw9eaKvCf31Ckno76"
+    },
+    {
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm"
+    },
+    {
+      "album": {
         "name": "Man Not God",
         "url": "https://open.spotify.com/album/7pqhzzJiTABC6QZJkrLfZf"
       },
@@ -11356,7 +11480,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 149446,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
@@ -12617,6 +12741,32 @@
     },
     {
       "album": {
+        "name": "Perspe",
+        "url": "https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF"
+      },
+      "artists": [
+        {
+          "name": "Young Legend",
+          "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Fxrtune",
+          "url": "https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Perspe",
+      "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
+    },
+    {
+      "album": {
         "name": "Piano II",
         "url": "https://open.spotify.com/album/3aAhU8LCGTuDJromnvVZwR"
       },
@@ -13172,7 +13322,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 130285,
       "name": "Realize",
       "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
@@ -13636,6 +13786,24 @@
       "duration_ms": 193043,
       "name": "Salam",
       "url": "https://open.spotify.com/track/1vLStnc9ynBzPihr218WfT"
+    },
+    {
+      "album": {
+        "name": "Salama",
+        "url": "https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA"
+      },
+      "artists": [
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281025,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL"
     },
     {
       "album": {
@@ -14958,7 +15126,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 293877,
       "name": "Suppressed Desires",
       "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
@@ -16456,6 +16624,24 @@
       "duration_ms": 158181,
       "name": "WasteMan",
       "url": "https://open.spotify.com/track/4ZuCGfG79sCaHLKrRKy6yj"
+    },
+    {
+      "album": {
+        "name": "All Hail Muyeez",
+        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
     },
     {
       "album": {

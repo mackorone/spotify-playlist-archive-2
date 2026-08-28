@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAAA/7N4BTjrTeFx2sekF5QXW",
+  "snapshot_id": "ao4sgAAAAABycyKgqUVUHuU2C0Zy63+w",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It Now (Agbanilagbatan)",
-        "url": "https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw"
+        "name": "Will Be Done",
+        "url": "https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd"
       },
       "artists": [
+        {
+          "name": "Trendsetter Sense",
+          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
+        },
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Nathan Davis Jr",
+          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Do It Now (Agbanilagbatan)",
-      "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
+      "duration_ms": 221874,
+      "name": "Will Be Done",
+      "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
     },
     {
       "added_at": null,
@@ -407,26 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Will Be Done",
-        "url": "https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd"
+        "name": "Do It Now (Agbanilagbatan)",
+        "url": "https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw"
       },
       "artists": [
-        {
-          "name": "Trendsetter Sense",
-          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
-        },
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Nathan Davis Jr",
-          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 221874,
-      "name": "Will Be Done",
-      "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
+      "duration_ms": 279000,
+      "name": "Do It Now (Agbanilagbatan)",
+      "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
     },
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afrobeats Rap and Jesus",
+        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/5TqxvD1kSyPkFDMF6pV4uY"
+        }
+      ],
+      "duration_ms": 224208,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4rEp8rVONwpPNdFyYzRw0H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rest II",
         "url": "https://open.spotify.com/album/1qqLgq6Zh9ADm1jo5UgKia"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 167731,
       "name": "Rest II",
       "url": "https://open.spotify.com/track/68wMgpA5SOUrxgPxYDLmdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afrobeats Rap and Jesus",
-        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/5TqxvD1kSyPkFDMF6pV4uY"
-        }
-      ],
-      "duration_ms": 224208,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/4rEp8rVONwpPNdFyYzRw0H"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afrobeats Rap and Jesus",
+        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 194063,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/6lnXNuAixFoNuoEe2dXb6d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7"
       },
@@ -687,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrobeats Rap and Jesus",
-        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 194063,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/6lnXNuAixFoNuoEe2dXb6d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young & Chosen",
         "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
@@ -719,30 +719,6 @@
       "duration_ms": 165543,
       "name": "Rest",
       "url": "https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otua",
-        "url": "https://open.spotify.com/album/1P7mBPZyfXzz0S5AxXDfMq"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 382824,
-      "name": "Otua",
-      "url": "https://open.spotify.com/track/0j7SDzXYdMozTH5uB1fgln"
     },
     {
       "added_at": null,
@@ -791,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 154865,
+      "name": "Super Power",
+      "url": "https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young & Chosen",
         "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
@@ -831,18 +823,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+        "name": "Otua",
+        "url": "https://open.spotify.com/album/1P7mBPZyfXzz0S5AxXDfMq"
       },
       "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 154865,
-      "name": "Super Power",
-      "url": "https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl"
+      "duration_ms": 382824,
+      "name": "Otua",
+      "url": "https://open.spotify.com/track/0j7SDzXYdMozTH5uB1fgln"
     },
     {
       "added_at": null,
@@ -939,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/5o934KiJcvWwFhhPbPINvz"
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
       "artists": [
         {
@@ -948,13 +948,17 @@
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 177599,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1pscjrBlPPkzYwNgOmSj1T"
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": null,
@@ -979,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/5o934KiJcvWwFhhPbPINvz"
       },
       "artists": [
         {
@@ -988,17 +992,13 @@
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
         }
       ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+      "duration_ms": 177599,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1pscjrBlPPkzYwNgOmSj1T"
     },
     {
       "added_at": null,

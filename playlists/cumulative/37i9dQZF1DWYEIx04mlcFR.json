@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 123809,
       "name": "05 quientedioflores",
       "url": "https://open.spotify.com/track/6hJhcYe60OY6kZfMpwXaFw"
@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Celibato",
+        "url": "https://open.spotify.com/album/4527PtwkeZ42bE6g5on6mr"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Celibato",
+      "url": "https://open.spotify.com/track/4UbOCSASPnm7PWdfsrkrTe"
+    },
+    {
+      "album": {
         "name": "chairo",
         "url": "https://open.spotify.com/album/6gMXlYP55Wcn2sLKKInBFW"
       },
@@ -4474,7 +4492,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 255602,
       "name": "donde?",
       "url": "https://open.spotify.com/track/6BauPq5gd9icib7tfc4lE0"
@@ -7430,6 +7448,28 @@
       "duration_ms": 186666,
       "name": "la excepci\u00f3n",
       "url": "https://open.spotify.com/track/1tzpt29Q92h8gJBOgMoYXu"
+    },
+    {
+      "album": {
+        "name": "La gravedad y el tiempo.",
+        "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "La gravedad y el tiempo.",
+      "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
     },
     {
       "album": {
@@ -12998,7 +13038,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 114893,
       "name": "raxets",
       "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
@@ -16418,6 +16458,24 @@
       "duration_ms": 29048,
       "name": "Ven",
       "url": "https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1"
+    },
+    {
+      "album": {
+        "name": "venus & romeo",
+        "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123045,
+      "name": "venus & romeo",
+      "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
     },
     {
       "album": {

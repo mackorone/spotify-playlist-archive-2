@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Bunga Citra Lestari, Josh Florentino",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Pamungkas",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 257452,
       "name": "Ada Untukmu",
       "url": "https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw"
+    },
+    {
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/4BE9BCipCOJ3URXXyWUTNo"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/3GDr3vHPxSJT75J3r6JRlY"
     },
     {
       "album": {
@@ -1325,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Belum Selesai",
+        "url": "https://open.spotify.com/album/5GwuQps4Q7M2SFtqJwvK4B"
+      },
+      "artists": [
+        {
+          "name": "Difki Khalif",
+          "url": "https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Belum Selesai",
+      "url": "https://open.spotify.com/track/7KUUUllWusWxI6Ijoegw0L"
+    },
+    {
+      "album": {
         "name": "Benar Salah",
         "url": "https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN"
       },
@@ -2189,6 +2225,32 @@
     },
     {
       "album": {
+        "name": "Bukan Kendalimu",
+        "url": "https://open.spotify.com/album/5bltAoUwUanz6p1i1NLXNX"
+      },
+      "artists": [
+        {
+          "name": "Lafa Pratomo",
+          "url": "https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        },
+        {
+          "name": "Hursa",
+          "url": "https://open.spotify.com/artist/1h9rmVUlTld8HUdnsALwZa"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285182,
+      "name": "Bukan Kendalimu",
+      "url": "https://open.spotify.com/track/0Ix6FtbIwpVxsHdp0WjKLH"
+    },
+    {
+      "album": {
         "name": "Bukan Lagi Rumahmu (Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2zs39r5aMSz13iNaaqeTlH"
       },
@@ -2229,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Hati dan Perasaan",
+        "url": "https://open.spotify.com/album/0DrZHy9hdQBge6NPOgDqtk"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253509,
+      "name": "Bukan Sulap Tapi Nyata",
+      "url": "https://open.spotify.com/track/2Ih2dpDB9zOHJeMWevR0jx"
+    },
+    {
+      "album": {
         "name": "bukan tentangmu",
         "url": "https://open.spotify.com/album/1mdmuZ24c1v292h8LAodRr"
       },
@@ -2240,7 +2320,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 234967,
       "name": "bukan tentangmu",
       "url": "https://open.spotify.com/track/7dbtgxZtAZPHsqAHATSWmu"
@@ -2524,7 +2604,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 258461,
       "name": "Cahaya Hati",
       "url": "https://open.spotify.com/track/50DXcMbkazPLcD8gL0068O"
@@ -5002,7 +5082,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213000,
       "name": "Inspirasi Diri",
       "url": "https://open.spotify.com/track/7DjJQmK7TD8UETEMKVUiNV"
@@ -5244,7 +5324,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 259159,
       "name": "Jalan Jalan",
       "url": "https://open.spotify.com/track/6Ce38kJe62UN5vIzMp7SiS"
@@ -6648,7 +6728,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 226820,
       "name": "Kronologi",
       "url": "https://open.spotify.com/track/6TOnrelpkUjGrChFF9KLME"
@@ -7032,6 +7112,24 @@
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
+    },
+    {
+      "album": {
+        "name": "Langit Merah Muda (Original Soundtrack from 'Agensi Rumah Tangga')",
+        "url": "https://open.spotify.com/album/5oEY7qOdeJPvB02EwK4Jvp"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200487,
+      "name": "Langit Merah Muda - Original Soundtrack from 'Agensi Rumah Tangga'",
+      "url": "https://open.spotify.com/track/2INmDiSugzBjib2TWP7Odd"
     },
     {
       "album": {
@@ -7430,7 +7528,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 247760,
       "name": "Main",
       "url": "https://open.spotify.com/track/0QVIgEAf6L2jHs9RNSue2W"
@@ -7778,7 +7876,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 243789,
       "name": "Masalahnya",
       "url": "https://open.spotify.com/track/4SVmhidgqzqXEsqp1wkTIS"
@@ -9430,7 +9528,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 287700,
       "name": "Pelindungmu - Ayah, Aku Mau Cerita Original Soundtrack",
       "url": "https://open.spotify.com/track/5KzSxY3ZSFtC6C0rVIs6jq"
@@ -9589,6 +9687,24 @@
     },
     {
       "album": {
+        "name": "Percuma",
+        "url": "https://open.spotify.com/album/5DqqBHhwbOrT754X7zIc5H"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266805,
+      "name": "Percuma",
+      "url": "https://open.spotify.com/track/5DvWURTD6NDpr1xT9PA2jk"
+    },
+    {
+      "album": {
         "name": "Pergilah Kasih",
         "url": "https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv"
       },
@@ -9658,7 +9774,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 238419,
       "name": "Permainanmu",
       "url": "https://open.spotify.com/track/03YnKTGyxVrcJ0Bj7ut9em"
@@ -9810,7 +9926,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 200738,
       "name": "Pura-Pura Hidup Lagi",
       "url": "https://open.spotify.com/track/0ZMycZdRRy0k621iSxOJgC"
@@ -10037,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "Laika, Yang Ditinggalkan",
+        "url": "https://open.spotify.com/album/2YnDdq86RHVb2CvkS2qHxA"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259190,
+      "name": "Reservasi Untuk Dua",
+      "url": "https://open.spotify.com/track/7KkycouTGBRhpSle5hPXyA"
+    },
+    {
+      "album": {
         "name": "Rindu Tak Berujung (Rindu Tak Berujung Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4555EkSU9FLrOsj7G8TM91"
       },
@@ -10052,6 +10186,28 @@
       "duration_ms": 256875,
       "name": "Rindu Tak Berujung (Rindu Tak Berujung Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4O9cZFm3ct1G8HApq3ZNan"
+    },
+    {
+      "album": {
+        "name": "Riuh",
+        "url": "https://open.spotify.com/album/1xtLxh5zzljVud8P8J73eT"
+      },
+      "artists": [
+        {
+          "name": "Mario G klau",
+          "url": "https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v"
+        },
+        {
+          "name": "Grace Kaitlin",
+          "url": "https://open.spotify.com/artist/2aZrqM2hPUmc2dIJgLhfSd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247365,
+      "name": "Riuh",
+      "url": "https://open.spotify.com/track/6ByJhYUimSniZZg76gUDVp"
     },
     {
       "album": {
@@ -11086,7 +11242,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 242769,
       "name": "Selesai",
       "url": "https://open.spotify.com/track/2M07OYOk4VNaOI7rEwtKND"
@@ -11314,7 +11470,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 243409,
       "name": "Semoga Lagu Ini Jadi Kenyataan",
       "url": "https://open.spotify.com/track/6NX6dLzojPPb5uJc6Y8jDF"
@@ -12380,7 +12536,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 199626,
       "name": "STECU PICA",
       "url": "https://open.spotify.com/track/0tLaFXKyOtbUlkqAnrClUy"
@@ -12794,6 +12950,28 @@
       "duration_ms": 237798,
       "name": "Tak Kan Terganti",
       "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
+    },
+    {
+      "album": {
+        "name": "Map of Feelings",
+        "url": "https://open.spotify.com/album/0lbVLDfKJoLbXuKV5aY9y4"
+      },
+      "artists": [
+        {
+          "name": "Whisnu Santika",
+          "url": "https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh"
+        },
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Tak Mendua",
+      "url": "https://open.spotify.com/track/6ywy8b8wdRVJxhIzcwNtS2"
     },
     {
       "album": {
@@ -13918,7 +14096,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 199252,
       "name": "Tidur Siang",
       "url": "https://open.spotify.com/track/3eWvcOqcl6Q9EUSRs5KlrG"

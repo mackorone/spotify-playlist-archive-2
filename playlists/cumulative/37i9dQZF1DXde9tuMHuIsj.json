@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: FANTA ROSARIO, Jon Z, Hades66, \u00d1engo Flow, Luar La L",
+  "description": "The best of Latin Trap. Cover: Brray",
   "name": "Trap Land",
   "tracks": [
     {
@@ -2155,6 +2155,32 @@
     },
     {
       "album": {
+        "name": "Biling\u00fce",
+        "url": "https://open.spotify.com/album/4FzXXDKnRpJpQA4AZUlrFS"
+      },
+      "artists": [
+        {
+          "name": "JEYYFF",
+          "url": "https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA"
+        },
+        {
+          "name": "Chal 777",
+          "url": "https://open.spotify.com/artist/3mK7sIlefqaAHtpWNiCqyJ"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243789,
+      "name": "Biling\u00fce",
+      "url": "https://open.spotify.com/track/4q2NvHIzfkndvIfRo5yGwy"
+    },
+    {
+      "album": {
         "name": "Trap Vibes",
         "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
       },
@@ -2666,7 +2692,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172000,
       "name": "CASH",
       "url": "https://open.spotify.com/track/4IvlVLN58TPN1gNnCx5iLJ"
@@ -3704,7 +3730,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183187,
       "name": "DFWE",
       "url": "https://open.spotify.com/track/1xAs0WBZBD8wItZIuGJWRs"
@@ -7080,6 +7106,24 @@
       "duration_ms": 310000,
       "name": "KITH - Remix",
       "url": "https://open.spotify.com/track/3i9eHCORnOqaZvVkHnroli"
+    },
+    {
+      "album": {
+        "name": "Kobe Brray",
+        "url": "https://open.spotify.com/album/2lvkKE5JBo1gYjoc8cFPgu"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Kobe Brray",
+      "url": "https://open.spotify.com/track/7l0P7PKi5SjdOyln7vWgN1"
     },
     {
       "album": {

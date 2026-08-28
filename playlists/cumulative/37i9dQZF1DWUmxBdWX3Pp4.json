@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  Mr Plata, Maluma y El Americano 4KT\n",
+  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  Brray\n",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 139020,
       "name": "1.ROCHO TURRO - BONUS TRACK",
       "url": "https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 124299,
       "name": "A.M.G",
       "url": "https://open.spotify.com/track/40eKmjNpGYakjySuwdfmkI"
@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "BOOMERANG",
+        "url": "https://open.spotify.com/album/6miZafs98dYRCuKHl8L4rS"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "BOOMERANG",
+      "url": "https://open.spotify.com/track/3B8goaIeHjjLTjfE5YR8b7"
+    },
+    {
+      "album": {
         "name": "Booty Up",
         "url": "https://open.spotify.com/album/5xg3yykXiT8izmmQy4LHCM"
       },
@@ -2304,6 +2322,28 @@
       "duration_ms": 665532,
       "name": "Burlao - Remix",
       "url": "https://open.spotify.com/track/577ECdNQYB6JPIPk1FdPBW"
+    },
+    {
+      "album": {
+        "name": "CA$H MONEY",
+        "url": "https://open.spotify.com/album/4b9wXCwBHZVOKdffbpnXD1"
+      },
+      "artists": [
+        {
+          "name": "Kail BRL",
+          "url": "https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223691,
+      "name": "CA$H MONEY",
+      "url": "https://open.spotify.com/track/7FS7H7SqUoLzSv6gqbqnrK"
     },
     {
       "album": {
@@ -3966,7 +4006,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 151311,
       "name": "Edificios y 0 Presos",
       "url": "https://open.spotify.com/track/2iMNDiAbFBrkEm5oPy7QYe"
@@ -4964,6 +5004,32 @@
       "duration_ms": 128007,
       "name": "FORTY",
       "url": "https://open.spotify.com/track/6jeD3gK27dyfg6rK3yeJAM"
+    },
+    {
+      "album": {
+        "name": "Frontea (Remix)",
+        "url": "https://open.spotify.com/album/4yQbT63yBeOUPkzTwfGuVX"
+      },
+      "artists": [
+        {
+          "name": "Blackinny",
+          "url": "https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248104,
+      "name": "Frontea (Remix)",
+      "url": "https://open.spotify.com/track/175yFGZ5VXeHrMHptXQ87x"
     },
     {
       "album": {
@@ -6641,6 +6707,24 @@
     },
     {
       "album": {
+        "name": "Kobe Brray",
+        "url": "https://open.spotify.com/album/2lvkKE5JBo1gYjoc8cFPgu"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Kobe Brray",
+      "url": "https://open.spotify.com/track/7l0P7PKi5SjdOyln7vWgN1"
+    },
+    {
+      "album": {
         "name": "Kobe En LA",
         "url": "https://open.spotify.com/album/31op15nAweoWywt7aBkY4z"
       },
@@ -6966,6 +7050,28 @@
       "duration_ms": 189994,
       "name": "La Peli",
       "url": "https://open.spotify.com/track/3YiKMAFJjSF88ZM0kPhJyQ"
+    },
+    {
+      "album": {
+        "name": "La Perlita",
+        "url": "https://open.spotify.com/album/72ePILJ69fHPvY6ae6uMoC"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219759,
+      "name": "La Perlita",
+      "url": "https://open.spotify.com/track/1gSIXZsZI1GskABhPMpwGE"
     },
     {
       "album": {
@@ -9159,6 +9265,32 @@
     },
     {
       "album": {
+        "name": "Mala Vida",
+        "url": "https://open.spotify.com/album/3HXMdLBIbYp1pgpKvQ9ikZ"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/2VcHb0GYyRpoBEotMidlFW"
+    },
+    {
+      "album": {
         "name": "Narcotics (with Bryant Myers)",
         "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
       },
@@ -9882,7 +10014,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 134237,
       "name": "Nunca Voy a Morir",
       "url": "https://open.spotify.com/track/4C9ZJp0ykJ0ZvNUaMwdLZZ"
@@ -11045,6 +11177,32 @@
     },
     {
       "album": {
+        "name": "Por el Money",
+        "url": "https://open.spotify.com/album/3WtdhnstmXM12UUmld0k0N"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "SwaggGlock",
+          "url": "https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr"
+        },
+        {
+          "name": "Jeddy Brown",
+          "url": "https://open.spotify.com/artist/10kEuhZcSwjiwK8kqrP43f"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276165,
+      "name": "Por el Money",
+      "url": "https://open.spotify.com/track/3QZGHvvTvvW7R04Yt3rIrp"
+    },
+    {
+      "album": {
         "name": "Porsche",
         "url": "https://open.spotify.com/album/4HztiO4eBWAJHWLAUQMFCN"
       },
@@ -12096,7 +12254,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157666,
       "name": "Saquen Las Botellas",
       "url": "https://open.spotify.com/track/1q1uYNdwVkXXyow2EN6m5S"
@@ -13006,7 +13164,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 151022,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/7ECZDvkJnCqlTbNzGrBBRq"
@@ -14972,6 +15130,28 @@
       "duration_ms": 188143,
       "name": "\u00bfCUANTAS VECES?",
       "url": "https://open.spotify.com/track/1akpNpmjtTlLxwTnkM8uvC"
+    },
+    {
+      "album": {
+        "name": "\u00bfQU\u00c9 PUEDO HACER?",
+        "url": "https://open.spotify.com/album/1M6wBHv2fah2KUoQkKW6rL"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "\u00bfQU\u00c9 PUEDO HACER?",
+      "url": "https://open.spotify.com/track/2ftp3fI7p68670n4lHyPDo"
     },
     {
       "album": {

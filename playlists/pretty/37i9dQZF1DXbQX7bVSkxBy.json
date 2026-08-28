@@ -1,13 +1,33 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Joepraize",
-  "num_followers": 60410,
+  "num_followers": 60442,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHs2yfGuQo3n69cN5sFryUitK6Jj",
+  "snapshot_id": "AAAAAPUEKL6rJPi8XwL24qPIHCD6CPdi",
   "tracks": [
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Kaestrings",
+          "url": "https://open.spotify.com/artist/37mTlIE0aRZXs97rBa4DVX"
+        }
+      ],
+      "duration_ms": 943500,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4"
+    },
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
@@ -53,6 +73,22 @@
       "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
     },
     {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "YAHWEH",
+        "url": "https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 156964,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "What A Beautiful Name",
@@ -71,6 +107,42 @@
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
+    },
+    {
+      "added_at": "2026-08-07 00:01:01",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/3sOlsUQdc0pjldeZERnZIQ"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "duration_ms": 151327,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4Q6nJI4EWgreJiMmRIinky"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/42WGv4UQdCZiqo8JFVoAG3"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        }
+      ],
+      "duration_ms": 111676,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i"
     },
     {
       "added_at": "2025-06-06 00:01:28",
@@ -129,62 +201,6 @@
       "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
     },
     {
-      "added_at": "2026-08-07 00:01:01",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/3sOlsUQdc0pjldeZERnZIQ"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        }
-      ],
-      "duration_ms": 151327,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/4Q6nJI4EWgreJiMmRIinky"
-    },
-    {
-      "added_at": "2026-08-21 00:01:31",
-      "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/3Q9SYILIcHt4a6RrHXT9Xb"
-      },
-      "artists": [
-        {
-          "name": "Millicent Yankey",
-          "url": "https://open.spotify.com/artist/3deqTqS9xbjPEQ92Dy5teL"
-        },
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 323750,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/0nlo6pL1ZqwDmQ9rXctMl9"
-    },
-    {
-      "added_at": "2026-08-07 00:01:01",
-      "album": {
-        "name": "Glorified",
-        "url": "https://open.spotify.com/album/43uCot5puRm6FRYsaBnsCe"
-      },
-      "artists": [
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        },
-        {
-          "name": "Churemi",
-          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "Glorified",
-      "url": "https://open.spotify.com/track/6Lldkt5PhRsKWQ5zelEZbg"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Holy Forever",
@@ -229,26 +245,6 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
       "added_at": "2026-08-21 00:01:31",
       "album": {
         "name": "Testimony",
@@ -269,6 +265,26 @@
       "url": "https://open.spotify.com/track/74OEPLqHeAn21dI8oyHESh"
     },
     {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Believe For It",
@@ -283,6 +299,22 @@
       "duration_ms": 297693,
       "name": "Goodness Of God - Live",
       "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+    },
+    {
+      "added_at": "2026-08-21 00:01:31",
+      "album": {
+        "name": "Your Promises Stands",
+        "url": "https://open.spotify.com/album/18rYNMkjf1JGJSAFhvMqHR"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Your Promises Stands",
+      "url": "https://open.spotify.com/track/3G03XoRjcxZuDPVA6q6Dv3"
     },
     {
       "added_at": "2025-02-21 00:01:28",
@@ -305,40 +337,28 @@
       "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
     },
     {
-      "added_at": "2026-08-21 00:01:31",
+      "added_at": "2026-08-28 00:01:38",
       "album": {
-        "name": "Your Promises Stands",
-        "url": "https://open.spotify.com/album/18rYNMkjf1JGJSAFhvMqHR"
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/42cOT2VvLDnNObb0oZ63FU"
       },
       "artists": [
         {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Your Promises Stands",
-      "url": "https://open.spotify.com/track/3G03XoRjcxZuDPVA6q6Dv3"
-    },
-    {
-      "added_at": "2026-08-21 00:01:31",
-      "album": {
-        "name": "Dey With Me",
-        "url": "https://open.spotify.com/album/5MksVoxutqJuEPoUqW191D"
-      },
-      "artists": [
-        {
-          "name": "NW.FRGVN",
-          "url": "https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu"
+          "name": "GOYE Universe",
+          "url": "https://open.spotify.com/artist/6ShGkA7DBJXJR8YlQp1hSa"
         },
         {
-          "name": "Blesside",
-          "url": "https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32"
+          "name": "Verity Haruna",
+          "url": "https://open.spotify.com/artist/0ZEzTZbA2DCKVqMvvatUPd"
+        },
+        {
+          "name": "Itohan",
+          "url": "https://open.spotify.com/artist/20fyD4LblbtXAouj5h8IT1"
         }
       ],
-      "duration_ms": 109518,
-      "name": "Dey With Me",
-      "url": "https://open.spotify.com/track/3RsuXvFRSdYeQJP4nUHyit"
+      "duration_ms": 195144,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/4YGcNSgcjves8AoCXoWT6p"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -405,26 +425,6 @@
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
-      "added_at": "2026-08-21 00:01:31",
-      "album": {
-        "name": "I Dey Grateful",
-        "url": "https://open.spotify.com/album/6eq6DuwWtkH3H6YfW6wkcu"
-      },
-      "artists": [
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 173676,
-      "name": "I Dey Grateful",
-      "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "No Longer Bound (I'm Free)",
@@ -447,6 +447,22 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "Mod\u00fap\u1eb9\u0301",
+        "url": "https://open.spotify.com/album/5n7hHoCPVVPyju2TFmYRp1"
+      },
+      "artists": [
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Mod\u00fap\u1eb9\u0301",
+      "url": "https://open.spotify.com/track/1xgEfJmlLupisDWHBGPA6d"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -533,22 +549,6 @@
       "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 370131,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Spirit Chant",
@@ -563,6 +563,22 @@
       "duration_ms": 610103,
       "name": "Spirit Chant",
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 370131,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -617,22 +633,6 @@
       "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
-      "added_at": "2026-05-01 00:02:19",
-      "album": {
-        "name": "I have escaped (Main Version)",
-        "url": "https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "I have escaped",
-      "url": "https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K"
-    },
-    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "GOD IS GOOD",
@@ -651,6 +651,22 @@
       "duration_ms": 207529,
       "name": "GOD IS GOOD",
       "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
+    },
+    {
+      "added_at": "2026-05-01 00:02:19",
+      "album": {
+        "name": "I have escaped (Main Version)",
+        "url": "https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "I have escaped",
+      "url": "https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -729,22 +745,6 @@
       "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "I Believe It (The Life of Jesus)",
@@ -759,6 +759,22 @@
       "duration_ms": 225941,
       "name": "I Believe It (The Life of Jesus)",
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -865,6 +881,22 @@
       "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
     },
     {
+      "added_at": "2026-08-14 00:01:27",
+      "album": {
+        "name": "The Life Recording",
+        "url": "https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 814591,
+      "name": "Glory to God in the Highest",
+      "url": "https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Truth in Sounds",
@@ -905,22 +937,6 @@
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Reckless Lover",
-        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 537386,
-      "name": "Reckless Lover",
-      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "SATISFIED",
@@ -937,20 +953,20 @@
       "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
     },
     {
-      "added_at": "2025-10-10 00:01:08",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "Halleluyah",
-        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
+        "name": "Reckless Lover",
+        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
         }
       ],
-      "duration_ms": 416232,
-      "name": "Halleluyah",
-      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
+      "duration_ms": 537386,
+      "name": "Reckless Lover",
+      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -971,22 +987,6 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
-    },
-    {
-      "added_at": "2026-08-14 00:01:27",
-      "album": {
-        "name": "The Life Recording",
-        "url": "https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 814591,
-      "name": "Glory to God in the Highest",
-      "url": "https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI"
     }
   ],
   "unique_name": "Testify",

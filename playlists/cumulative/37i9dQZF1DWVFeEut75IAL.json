@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Osborne: Improvisation on Keith Jarrett's Vienna Concert",
+        "url": "https://open.spotify.com/album/3YePdyQYxLrBy0Co6Sw4kj"
+      },
+      "artists": [
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Improvisation on Keith Jarrett's Vienna Concert",
+      "url": "https://open.spotify.com/track/5zKy7lrziRoXOuXFlNVtmk"
+    },
+    {
+      "album": {
         "name": "Sonic Apothecary",
         "url": "https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb"
       },
@@ -4120,6 +4138,28 @@
       "duration_ms": 116960,
       "name": "The Lily - Piano Version",
       "url": "https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9"
+    },
+    {
+      "album": {
+        "name": "The Man I Love, Mirage in E-Flat",
+        "url": "https://open.spotify.com/album/1Yzh9vvNXhR0PyI9skuryi"
+      },
+      "artists": [
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173813,
+      "name": "The Man I Love, Mirage in E-Flat",
+      "url": "https://open.spotify.com/track/6o1Tw94q7SX5AwwY8b2kD4"
     },
     {
       "album": {

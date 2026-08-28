@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131681,
+  "num_followers": 131668,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 183533,
-      "name": "El Eco de Tu Voz",
-      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
+      "duration_ms": 306840,
+      "name": "El Tiempo de Ti",
+      "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -440,41 +440,9 @@
           "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 306840,
-      "name": "El Tiempo de Ti",
-      "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "16 Reales hits",
-        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/3RqQrOBQkraszNm11qGTEP"
+      "duration_ms": 183533,
+      "name": "El Eco de Tu Voz",
+      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -495,18 +463,34 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Globoscopio",
-        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
       "artists": [
         {
-          "name": "Azul Violeta",
-          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 273266,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
+      "duration_ms": 188706,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/3RqQrOBQkraszNm11qGTEP"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -523,6 +507,22 @@
       "duration_ms": 202617,
       "name": "Extra\u00f1os",
       "url": "https://open.spotify.com/track/1ZlBHkvF6NgMuoXTbAvJT9"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Globoscopio",
+        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
+      },
+      "artists": [
+        {
+          "name": "Azul Violeta",
+          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -727,22 +727,18 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Radiolatina",
-        "url": "https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1"
+        "name": "Mermaid Sashimi",
+        "url": "https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X"
       },
       "artists": [
         {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
         }
       ],
-      "duration_ms": 246906,
-      "name": "Mucho Coraz\u00f3n - Versi\u00f3n Radio",
-      "url": "https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj"
+      "duration_ms": 292733,
+      "name": "Mermaid Sashimi",
+      "url": "https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -783,18 +779,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Mermaid Sashimi",
-        "url": "https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X"
+        "name": "Radiolatina",
+        "url": "https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1"
       },
       "artists": [
         {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 292733,
-      "name": "Mermaid Sashimi",
-      "url": "https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw"
+      "duration_ms": 246906,
+      "name": "Mucho Coraz\u00f3n - Versi\u00f3n Radio",
+      "url": "https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Red Album",
-        "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Can U Feel Me?",
-      "url": "https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Y si tuviera disquera",
         "url": "https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 274440,
       "name": "Zenit",
       "url": "https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Red Album",
+        "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Can U Feel Me?",
+      "url": "https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk"
     },
     {
       "added_at": "2026-06-08 22:39:48",

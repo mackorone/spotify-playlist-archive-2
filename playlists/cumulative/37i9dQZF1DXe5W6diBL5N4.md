@@ -2,9 +2,9 @@
 
 ### [All New K\-Pop \(국내 최신 가요\)](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: CORTIS\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
+> Enjoy the freshest K\-Pop new releases \(Cover: NCT127\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,772 songs - 39 day 18 hr 19 min
+16,775 songs - 39 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7417,6 +7417,7 @@
 | [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 | 2023-02-16 | 2023-02-28 |
 | [KOCAINE CASTLE](https://open.spotify.com/track/5ke7oRMl6To09sHJ9JzWfc) | [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [HIRA](https://open.spotify.com/artist/6kCvzOe6ifaAA9wkFmKLa2) | [KC3](https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G) | 3:27 | 2025-11-27 | 2025-12-14 |
 | [Koi](https://open.spotify.com/track/43nyP68GKT0fDa6ftbmvr1) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Forever’s Not Enough](https://open.spotify.com/album/5uYqh7FXvk3jvyUEM1L88b) | 3:01 | 2025-10-14 | 2025-10-25 |
+| [KoK](https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [KoK](https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU) | 8:26 | 2026-08-28 |  |
 | [KOKKIO](https://open.spotify.com/track/02US7uFkBFRJ7RkpT7AznC) | [황민우](https://open.spotify.com/artist/3sq7PsKRDZ1hR7TFn8rq8b) | [KOKKIO](https://open.spotify.com/album/1JzWWscIKFNDlURlIGfUNb) | 3:12 | 2025-11-07 | 2025-11-18 |
 | [KOOL](https://open.spotify.com/track/3XoEW3l9g6ZQbK5mSb2WAi) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [KOOL](https://open.spotify.com/album/05UbMrmLRwhJFCNh9OBFC6) | 3:15 | 2023-09-08 | 2023-09-19 |
 | [KOONG](https://open.spotify.com/track/4rArZUmRkk1xhCd88yw6hk) | [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [LONER](https://open.spotify.com/album/31ZbQ075WLvMlKPX1DXrE7) | 3:09 | 2022-11-10 | 2022-12-22 |
@@ -12441,6 +12442,7 @@
 | [Special story](https://open.spotify.com/track/59e4kkex1JAk7m5eIrrMfK) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Special story](https://open.spotify.com/album/29KMdq1rnQyNkIyftowcop) | 4:03 | 2025-04-18 | 2025-04-30 |
 | [SPECTRUM](https://open.spotify.com/track/1aqzOnOSVRaqmAYxi3HaDA) | [RISABAE](https://open.spotify.com/artist/2kF6DD4v95a3q494v0iVMJ) | [SPECTRUM](https://open.spotify.com/album/5gIjNezAQ1aVSrpY48PEHc) | 2:40 | 2026-04-09 | 2026-04-21 |
 | [Speed Of Everything \- Radio Edit](https://open.spotify.com/track/2tiuPCM2PddioExkiG0qkS) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You’re On Camera \(Special Edition\)](https://open.spotify.com/album/5gYX4UWYqOXMMjPz6qS5wt) | 3:30 | 2025-02-12 | 2025-03-09 |
+| [Speed of Summer](https://open.spotify.com/track/3Aljxc4MlI98oUcPJrBwUD) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Speed of Summer](https://open.spotify.com/album/1lCKw8BHHZTJTz5C676KSg) | 3:54 | 2026-08-28 |  |
 | [Speed Up Losers \(Core Tech\-XI Remix\)](https://open.spotify.com/track/2X77zWB6VRDyt8eomxtj7x) | [D'scoTech\-XI](https://open.spotify.com/artist/3FWym5aKInnu807CBuJhGA), [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [DTX 2nd : Speed Up Losers ride](https://open.spotify.com/album/37BzfXyIYxiVhGiPLfjDYf) | 3:11 | 2024-12-10 | 2025-01-02 |
 | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero) | [Copychu](https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH), [JEON WON JU](https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK) | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X) | 3:46 | 2022-07-14 | 2022-07-28 |
 | [SPF](https://open.spotify.com/track/1sahSmH3EeJivtDILAciVk) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [SPF](https://open.spotify.com/album/2Wczf7pRRFOveAqvYRJxmk) | 3:28 | 2023-03-06 | 2023-03-28 |
@@ -13017,6 +13019,7 @@
 | [Sunbed](https://open.spotify.com/track/2pFNMWxBsSKlcP8SCvSJt4) | [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [0back](https://open.spotify.com/artist/1InkOzOwqLs08nQX7CBF6D), [Daowl](https://open.spotify.com/artist/4WPFhx8ElqJFBsfc5y4jPv) | [Sunbed](https://open.spotify.com/album/11eWvGHmwE3x1KRUGKjogc) | 3:10 | 2022-04-19 | 2022-05-03 |
 | [Sunbed](https://open.spotify.com/track/6IoGyWorMf9VWq8jzCMh9G) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Sunbed](https://open.spotify.com/album/5bUB20XzixElq7N7lIcL1L) | 2:51 | 2024-06-24 | 2024-08-09 |
 | [Sunburn](https://open.spotify.com/track/0bu7PlYH1oG9HNDFqKuj7x) | [WhiteUsedSocks](https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY) | [Sunburn](https://open.spotify.com/album/4NopJoIie2kGycobjMxg1u) | 3:59 | 2024-04-01 | 2024-05-01 |
+| [Sunburst](https://open.spotify.com/track/7erjjY5wHoWFTmDoV3Mktq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/4kFqiNriweCHTcIFTxnrqO) | 3:16 | 2026-08-28 |  |
 | [SUNCREAM](https://open.spotify.com/track/0EdcMqGtgRNN6qaJkt1fhm) | [suvi](https://open.spotify.com/artist/7LL9jFoJ9wdQYIst4Z5e8v) | [SUNCREAM](https://open.spotify.com/album/6MTiFtlWaHxaIuDXgxUAPc) | 3:19 | 2024-07-11 | 2024-07-23 |
 | [Sunday](https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc) | [BEAT SOMEONE](https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Sunday](https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny) | 3:16 | 2022-12-16 | 2022-12-28 |
 | [Sunday](https://open.spotify.com/track/5OYu2gZDLzCGEYgeNvcmO2) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Oz](https://open.spotify.com/artist/4qSDffaAMImvr2UHN5iqi5) | [Sunday](https://open.spotify.com/album/6Rdcr8uhBhaNFbuH4LVD2U) | 2:34 | 2022-04-19 | 2022-04-23 |

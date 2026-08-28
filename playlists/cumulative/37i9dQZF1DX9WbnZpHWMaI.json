@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7MQyHCtUXSal94VBIfIQwX"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177615,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/6h24FgXlNWcEPH5cwynJL2"
+    },
+    {
+      "album": {
         "name": "Ayana",
         "url": "https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 207300,
       "name": "Baewatch",
       "url": "https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168706,
       "name": "Bigger Than Techno",
       "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172153,
       "name": "both be happier",
       "url": "https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T"
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
@@ -3726,6 +3744,24 @@
       "duration_ms": 158409,
       "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7"
+    },
+    {
+      "album": {
+        "name": "DOVE",
+        "url": "https://open.spotify.com/album/46W4gZ3GCp2yD8QxDS7QON"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273207,
+      "name": "DOVE",
+      "url": "https://open.spotify.com/track/6oJZecdLiadeMKLqxCRdUj"
     },
     {
       "album": {
@@ -5412,7 +5448,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 207089,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/4CmdvI4QzrhPscIcthDgOL"
@@ -6784,6 +6820,24 @@
       "duration_ms": 230400,
       "name": "Hey Maria",
       "url": "https://open.spotify.com/track/7ng0n3GkYq5hojwGgpy7oH"
+    },
+    {
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/43agWeNDQeBlQBR2gZqHA6"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147466,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/5BPMItTjAsSOhOlDdftmhV"
     },
     {
       "album": {
@@ -8542,7 +8596,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213956,
       "name": "KITE",
       "url": "https://open.spotify.com/track/6WjC2Xc4cA3zRnZVmgnyGS"
@@ -8738,6 +8792,24 @@
       "duration_ms": 205522,
       "name": "Let's Get Used",
       "url": "https://open.spotify.com/track/1klFcXa2McpHASwTWZbSsy"
+    },
+    {
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156015,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
     },
     {
       "album": {
@@ -10956,7 +11028,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 162352,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0zlkI2TtbVQf3gGMDTZYWs"
@@ -11120,6 +11192,24 @@
       "duration_ms": 147106,
       "name": "One One",
       "url": "https://open.spotify.com/track/0InW8UfcfL2ASQnPFwquDh"
+    },
+    {
+      "album": {
+        "name": "One Step Closer",
+        "url": "https://open.spotify.com/album/2HDRyES8JovTZkVajVDzCC"
+      },
+      "artists": [
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273103,
+      "name": "One Step Closer",
+      "url": "https://open.spotify.com/track/3HOmYNAbH84PTSo2027OUs"
     },
     {
       "album": {
@@ -11604,7 +11694,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172000,
       "name": "PLEASER",
       "url": "https://open.spotify.com/track/6DXup87vjnmJNDXqeLwPtD"
@@ -13252,6 +13342,24 @@
       "duration_ms": 157179,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/1SsL6M9twrTldU3p98mhU3"
+    },
+    {
+      "album": {
+        "name": "SINGLE",
+        "url": "https://open.spotify.com/album/598sjhaMmTac7ppCBtJV8K"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215444,
+      "name": "SINGLE",
+      "url": "https://open.spotify.com/track/4nSL7tFJiTFgswlAtfTfn1"
     },
     {
       "album": {
@@ -15333,6 +15441,24 @@
     },
     {
       "album": {
+        "name": "Bangs N Braces",
+        "url": "https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt"
+      },
+      "artists": [
+        {
+          "name": "iKeda",
+          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165708,
+      "name": "Tiger Tiger",
+      "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
+    },
+    {
+      "album": {
         "name": "Timbu Limbu And Her War Bass",
         "url": "https://open.spotify.com/album/3d9j0nWCz8AjqgBwuZ0ZUb"
       },
@@ -15844,6 +15970,24 @@
       "duration_ms": 196133,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c"
+    },
+    {
+      "album": {
+        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252461,
+      "name": "Unlimited Love",
+      "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
     },
     {
       "album": {

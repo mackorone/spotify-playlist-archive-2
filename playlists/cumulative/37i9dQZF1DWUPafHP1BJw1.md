@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-317 songs - 18 hr 8 min
+318 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Song 2 \(Woo Hoo\)](https://open.spotify.com/track/1AftiFHwqBqCwlVinYwPmK) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Song 2 \(Woo Hoo\)](https://open.spotify.com/album/6Hb2alu2sB62badqv0pC1F) | 1:55 | 2022-09-23 | 2023-09-30 |
 | [Sour Times \(arr\. Metcalfe, Assad\)](https://open.spotify.com/track/7hK2z7ph7UHY5kcY0qeBUT) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sour Times](https://open.spotify.com/album/2qOwHnB9gPok5Bp5qLtBef) | 3:17 | 2021-11-19 | 2022-05-14 |
 | [Space Oddity](https://open.spotify.com/track/2BZkZHf4HRzWQtQQefZIRm) | [Metropole Orkest Cellos](https://open.spotify.com/artist/6wyZZfsz3SxmQZCFA7Tsh1) | [Space Oddity](https://open.spotify.com/album/2hAI9RiMftw5OiaLNOdhhm) | 6:35 | 2021-11-19 | 2022-05-07 |
+| [Spread Your Wings \- Symphonic](https://open.spotify.com/track/5DBG1c5VD7grie25xC10UT) | [Café del Mundo](https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Spread Your Wings \(Symphonic\)](https://open.spotify.com/album/58EVAxa7z2TvujWOQDs5RI) | 4:53 | 2026-08-28 |  |
 | [Stand by Me \(Arr\. Z\. Reaves for String Quartet\)](https://open.spotify.com/track/4RlXEaBtwr5yLWKoR5XbAF) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3), [Jerry Leiber](https://open.spotify.com/artist/3oL5CpaC5cBSVmERMXuV7d), [Mike Stoller](https://open.spotify.com/artist/1wsgQOJMWtqd2GF0sGSRUm), [Zachary Reaves](https://open.spotify.com/artist/3PvJOPfvRASwmEQTvNxEdK), [Altius Quartet](https://open.spotify.com/artist/2LLcwkbqzJrcotABcvnktN) | [Dress Code](https://open.spotify.com/album/6PgAziFSFpBCXwuoHW7LhT) | 2:54 | 2021-11-19 | 2023-01-10 |
 | [Stay with Me \- Piano Version](https://open.spotify.com/track/2pR4qxDdRpHfQduAg1NDS1) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Stay with Me \(Piano Version\)](https://open.spotify.com/album/2MnSnUp1uwPOJTarD1hZoW) | 2:51 | 2021-11-19 |  |
 | [Sting: Fields of Gold](https://open.spotify.com/track/0tff2M3lq7L6nrKzSsF0mR) | [Camille Berthollet](https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI) | [Legends](https://open.spotify.com/album/3jURDnNQgzOyAgfe6rzUjO) | 3:15 | 2025-11-26 |  |

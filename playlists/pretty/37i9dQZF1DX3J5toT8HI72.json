@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 828598,
+  "num_followers": 828568,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 210889,
-      "name": "Ouvi Dizer",
-      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 210889,
+      "name": "Ouvi Dizer",
+      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
       },
@@ -395,18 +379,34 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
       "artists": [
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 131426,
-      "name": "Devolva-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "V\u00e1rias Queixas",
+        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156970,
+      "name": "Vento Alecrim",
+      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -427,18 +427,18 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "V\u00e1rias Queixas",
-        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
         }
       ],
-      "duration_ms": 156970,
-      "name": "Vento Alecrim",
-      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
+      "duration_ms": 131426,
+      "name": "Devolva-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -823,30 +823,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Era Uma Vez o Amanh\u00e3",
-        "url": "https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
-          "name": "BIONE",
-          "url": "https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz"
-        }
-      ],
-      "duration_ms": 228317,
-      "name": "Can\u00e7\u00e3o pra Te Amar no Fim do Mundo",
-      "url": "https://open.spotify.com/track/6JiZHun6ZdLLqAoSg5znG7"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -875,6 +851,30 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "Era Uma Vez o Amanh\u00e3",
+        "url": "https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "BIONE",
+          "url": "https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz"
+        }
+      ],
+      "duration_ms": 228317,
+      "name": "Can\u00e7\u00e3o pra Te Amar no Fim do Mundo",
+      "url": "https://open.spotify.com/track/6JiZHun6ZdLLqAoSg5znG7"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 186000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -923,6 +907,22 @@
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Outono",
-        "url": "https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 219257,
-      "name": "Anjo Protetor",
-      "url": "https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Replay - Exagerado",
         "url": "https://open.spotify.com/album/1f5BuZlEvSS9C39pkyVG2S"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 184500,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/2HB3UIxBLv2Uu1Vxwsoz8H"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "Outono",
+        "url": "https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 219257,
+      "name": "Anjo Protetor",
+      "url": "https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu"
     },
     {
       "added_at": "2026-08-07 03:00:32",

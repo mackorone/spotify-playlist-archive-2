@@ -1,6 +1,6 @@
 {
   "description": "Oficjalna playlista Great September Festival 2026. Pos\u0142uchaj wyj\u0105tkowych artyst\u00f3w, kt\u00f3rzy wyst\u0105pi\u0105 na festiwalu. ",
-  "num_followers": 2521,
+  "num_followers": 2519,
   "original_name": "Great September Festival",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-08-11 08:14:10",
       "album": {
-        "name": "Piosenki z filmu Szko\u0142a uwodzenia Czes\u0142awa M.",
-        "url": "https://open.spotify.com/album/4anTtHvOEhkz1PUghJP5vB"
-      },
-      "artists": [
-        {
-          "name": "Czes\u0142aw Mozil",
-          "url": "https://open.spotify.com/artist/7gD7vK5I74g7nikQQg7VMJ"
-        }
-      ],
-      "duration_ms": 195745,
-      "name": "Lubi\u0119 m\u00f3wi\u0107 z Tob\u0105",
-      "url": "https://open.spotify.com/track/51FNEd2Pp5oHrGSWBSbJX6"
-    },
-    {
-      "added_at": "2026-08-11 08:14:10",
-      "album": {
         "name": "\u015awiat\u0142ocienie",
         "url": "https://open.spotify.com/album/5dSS0GeF843KrF4YFiaVNC"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 146016,
       "name": "Nie B\u0119dziemy T\u0119skni\u0107",
       "url": "https://open.spotify.com/track/5UqDA0e3NwQzoEbnHb04JW"
+    },
+    {
+      "added_at": "2026-08-11 08:14:10",
+      "album": {
+        "name": "Piosenki z filmu Szko\u0142a uwodzenia Czes\u0142awa M.",
+        "url": "https://open.spotify.com/album/4anTtHvOEhkz1PUghJP5vB"
+      },
+      "artists": [
+        {
+          "name": "Czes\u0142aw Mozil",
+          "url": "https://open.spotify.com/artist/7gD7vK5I74g7nikQQg7VMJ"
+        }
+      ],
+      "duration_ms": 195745,
+      "name": "Lubi\u0119 m\u00f3wi\u0107 z Tob\u0105",
+      "url": "https://open.spotify.com/track/51FNEd2Pp5oHrGSWBSbJX6"
     },
     {
       "added_at": "2026-08-11 08:14:10",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-08-11 08:14:10",
       "album": {
-        "name": "KOI-4427.01",
-        "url": "https://open.spotify.com/album/1iJ8EaRAE5jmHjJOZuDzh0"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        },
-        {
-          "name": "Lordofon",
-          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
-        }
-      ],
-      "duration_ms": 207140,
-      "name": "KOI",
-      "url": "https://open.spotify.com/track/5EzBwodBNd3LX4a9mxnBvE"
-    },
-    {
-      "added_at": "2026-08-11 08:14:10",
-      "album": {
         "name": "HYPNOZIZ",
         "url": "https://open.spotify.com/album/6DO0B8AfRy8bsEX2Svr5OP"
       },
@@ -571,6 +551,26 @@
     {
       "added_at": "2026-08-11 08:14:10",
       "album": {
+        "name": "KOI-4427.01",
+        "url": "https://open.spotify.com/album/1iJ8EaRAE5jmHjJOZuDzh0"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        },
+        {
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+        }
+      ],
+      "duration_ms": 207140,
+      "name": "KOI",
+      "url": "https://open.spotify.com/track/5EzBwodBNd3LX4a9mxnBvE"
+    },
+    {
+      "added_at": "2026-08-11 08:14:10",
+      "album": {
         "name": "Zabawa",
         "url": "https://open.spotify.com/album/69P6A4sgR1vwKps6xprLYx"
       },
@@ -583,6 +583,26 @@
       "duration_ms": 262880,
       "name": "Zabawa",
       "url": "https://open.spotify.com/track/3vJqr87yAixbaLiJwFA9qd"
+    },
+    {
+      "added_at": "2026-08-11 08:14:10",
+      "album": {
+        "name": "Czu\u0142y punkt",
+        "url": "https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Czu\u0142y punkt",
+      "url": "https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S"
     },
     {
       "added_at": "2026-08-11 08:14:10",
@@ -631,22 +651,18 @@
     {
       "added_at": "2026-08-11 08:14:10",
       "album": {
-        "name": "Czu\u0142y punkt",
-        "url": "https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ"
+        "name": "Jedno S\u0142owo",
+        "url": "https://open.spotify.com/album/54Y0ASqr8MrSIFYE2XcHlT"
       },
       "artists": [
         {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+          "name": "Leo!",
+          "url": "https://open.spotify.com/artist/0TZCx2GaYxn8AZLSy7ZEod"
         }
       ],
-      "duration_ms": 194880,
-      "name": "Czu\u0142y punkt",
-      "url": "https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S"
+      "duration_ms": 136898,
+      "name": "Jedno S\u0142owo",
+      "url": "https://open.spotify.com/track/4vXUsBRUtLE13IGJyJ9sPh"
     },
     {
       "added_at": "2026-08-11 08:14:10",
@@ -663,22 +679,6 @@
       "duration_ms": 134720,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/4vz42hFeIlWdx0r0gK1lZh"
-    },
-    {
-      "added_at": "2026-08-11 08:14:10",
-      "album": {
-        "name": "Jedno S\u0142owo",
-        "url": "https://open.spotify.com/album/54Y0ASqr8MrSIFYE2XcHlT"
-      },
-      "artists": [
-        {
-          "name": "Leo!",
-          "url": "https://open.spotify.com/artist/0TZCx2GaYxn8AZLSy7ZEod"
-        }
-      ],
-      "duration_ms": 136898,
-      "name": "Jedno S\u0142owo",
-      "url": "https://open.spotify.com/track/4vXUsBRUtLE13IGJyJ9sPh"
     },
     {
       "added_at": "2026-08-11 08:14:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-11 08:14:10",
       "album": {
-        "name": "serce z lukru",
-        "url": "https://open.spotify.com/album/4XHuTMZrWSIKCKIQlLFBYl"
-      },
-      "artists": [
-        {
-          "name": "misia horbatowska",
-          "url": "https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI"
-        }
-      ],
-      "duration_ms": 171415,
-      "name": "serce z lukru",
-      "url": "https://open.spotify.com/track/1vRzVC1jw74OZ6oLJKeKdz"
-    },
-    {
-      "added_at": "2026-08-11 08:14:10",
-      "album": {
         "name": "Pah!",
         "url": "https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 186542,
       "name": "Ho\u0142d",
       "url": "https://open.spotify.com/track/5jLdyd6SjMdhKNTbBfWFgG"
+    },
+    {
+      "added_at": "2026-08-11 08:14:10",
+      "album": {
+        "name": "serce z lukru",
+        "url": "https://open.spotify.com/album/4XHuTMZrWSIKCKIQlLFBYl"
+      },
+      "artists": [
+        {
+          "name": "misia horbatowska",
+          "url": "https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI"
+        }
+      ],
+      "duration_ms": 171415,
+      "name": "serce z lukru",
+      "url": "https://open.spotify.com/track/1vRzVC1jw74OZ6oLJKeKdz"
     },
     {
       "added_at": "2026-08-11 08:14:10",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-11 08:14:10",
       "album": {
-        "name": "Lawmaker",
-        "url": "https://open.spotify.com/album/1qAcXwnEag4BOCl4zhCHNY"
-      },
-      "artists": [
-        {
-          "name": "YARD",
-          "url": "https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Lawmaker",
-      "url": "https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu"
-    },
-    {
-      "added_at": "2026-08-11 08:14:10",
-      "album": {
         "name": "Atmosfera",
         "url": "https://open.spotify.com/album/0Dzo5zOZHOuKF2uSHjHjDh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 212195,
       "name": "Swawola / Dezm\u0103\u021b",
       "url": "https://open.spotify.com/track/4tmP0adlLBy5z1s4eDAhxT"
+    },
+    {
+      "added_at": "2026-08-11 08:14:10",
+      "album": {
+        "name": "Lawmaker",
+        "url": "https://open.spotify.com/album/1qAcXwnEag4BOCl4zhCHNY"
+      },
+      "artists": [
+        {
+          "name": "YARD",
+          "url": "https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Lawmaker",
+      "url": "https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu"
     },
     {
       "added_at": "2026-08-11 08:14:10",

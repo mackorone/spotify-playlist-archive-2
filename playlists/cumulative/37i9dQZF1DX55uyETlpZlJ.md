@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rosh
 
-713 songs - 1 day 16 hr 22 min
+714 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [KROORI](https://open.spotify.com/track/4nBYuzv6x8EFJlTH4yfEvL) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [KROORI](https://open.spotify.com/album/4t2v1ZA58LliehMMdEqhgj) | 2:41 | 2025-10-18 | 2026-03-14 |
 | [Kurudu Preeti](https://open.spotify.com/track/2GRyvZlIc2OcyrJdHAE0p9) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2) | [Kurudu Preeti](https://open.spotify.com/album/1GtZYToHUreZ3WnY3j3rq3) | 3:13 | 2024-03-14 | 2024-07-30 |
 | [Laka Laka Holital](https://open.spotify.com/track/2xV18yzxS5hKV6Deyw8H6C) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Laka Laka Holital](https://open.spotify.com/album/3UY814OvTq1TeUJExox6g5) | 5:08 | 2025-08-11 | 2026-07-18 |
+| [Layla](https://open.spotify.com/track/1N7dpeEYjjMsvWg6tmoGYS) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Layla](https://open.spotify.com/album/3QlI4Zt9wXlcMNVyRgrvyF) | 2:21 | 2026-08-27 |  |
 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 | 2022-09-16 | 2023-08-06 |
 | [Legini Legini](https://open.spotify.com/track/2TXoPenrvYt9Uir0fWxC2y) | [Prasanna Bhoojashettar](https://open.spotify.com/artist/4OhmZdanQ6mk5jNgVuI0cy) | [Legini Legini](https://open.spotify.com/album/5shEBUWgQZ9JsHBZ2yQpRF) | 3:39 | 2023-01-04 | 2023-06-08 |
 | [Lekka](https://open.spotify.com/track/6WAjdVHT9iOqpmDDqXwDri) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Lekka](https://open.spotify.com/album/0Ylf2B2m39ZjB00Sv5rQrd) | 1:50 | 2024-11-04 | 2025-02-12 |
@@ -652,7 +653,7 @@
 | [Summer Girl](https://open.spotify.com/track/1YsFy6IbkzjJTKtFm7U0uA) | [HARIX](https://open.spotify.com/artist/0QfMaP5vyOlUIsqvRhLOOG) | [Summer Girl](https://open.spotify.com/album/4fqdz5PhrYqVdsmCCQiF5U) | 2:26 | 2025-03-26 | 2025-09-07 |
 | [Sundari](https://open.spotify.com/track/7oI2ZmyMSqwDP9Kzxb6S39) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sundari](https://open.spotify.com/album/5JslBdBMzBts4MAd4RzafE) | 3:15 | 2024-11-05 | 2025-03-26 |
 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 | 2023-07-10 | 2023-07-29 |
-| [Sword of Betrayal](https://open.spotify.com/track/7LA81aLtQNsl9HArKZruZz) | [M S Vikram](https://open.spotify.com/artist/1P5xT9GQiGoLq3ImHOP2QZ) | [Sword of Betrayal](https://open.spotify.com/album/0sOSMoUxmpFLvnkG8DjN6H) | 1:51 | 2026-01-20 |  |
+| [Sword of Betrayal](https://open.spotify.com/track/7LA81aLtQNsl9HArKZruZz) | [M S Vikram](https://open.spotify.com/artist/1P5xT9GQiGoLq3ImHOP2QZ) | [Sword of Betrayal](https://open.spotify.com/album/0sOSMoUxmpFLvnkG8DjN6H) | 1:51 | 2026-01-20 | 2026-08-28 |
 | [Taare](https://open.spotify.com/track/3Djy0T9KXRU1qISYUMhb9e) | [Nishada](https://open.spotify.com/artist/7qK4oglXTmjgWuZQOowdnI), [Prinson Monthero](https://open.spotify.com/artist/1CoXgwrfT8V2fJwMwnuXd1), [Padani Tales](https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3) | [Taare](https://open.spotify.com/album/5RuYzy62dLsXOwHHgqi1hk) | 2:33 | 2026-02-03 |  |
 | [Taare Bindigeya](https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Taare Bindigeya](https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL) | 5:06 | 2025-10-15 | 2026-03-24 |
 | [Taare Neenu](https://open.spotify.com/track/6fwzw7TvfN2Ie65lLdOjl8) | [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [Taare Neenu](https://open.spotify.com/album/3IYmgzpr8PD2dDKtUGtkLt) | 3:02 | 2026-07-24 |  |

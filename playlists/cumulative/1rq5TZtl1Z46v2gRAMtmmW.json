@@ -6969,6 +6969,24 @@
     },
     {
       "album": {
+        "name": "Moolah",
+        "url": "https://open.spotify.com/album/0tC2FmOHihuaP0etL7qcDq"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167929,
+      "name": "Moolah",
+      "url": "https://open.spotify.com/track/1IDjawg5grNIwe6xfacsFw"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/4OIdvBzdQNmzqZOYZ7dHJ4"
       },

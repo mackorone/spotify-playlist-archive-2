@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-276 songs - 15 hr 46 min
+278 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Healing](https://open.spotify.com/track/3elQqKon4DoPytJDJLDNnG) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Kindrid](https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Healing](https://open.spotify.com/album/3Qabx7eEI7BWPv7OXonGZa) | 4:37 | 2026-07-17 |  |
 | [Hear Me Out \- Hel:sløwed Remix](https://open.spotify.com/track/2jjk9eOpncsrixFwuTUisI) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Hear Me Out \(Hel:sløwed Remix\)](https://open.spotify.com/album/4oqPBZ0tn7Toj5CtOJZJk1) | 3:13 | 2025-07-11 |  |
 | [Heart Starts Beating](https://open.spotify.com/track/4dWriJSpVzVOECD8GNDxxb) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Jas.](https://open.spotify.com/artist/3ueCEKtgkcjy2YxGPjCobz) | [Heart Starts Beating](https://open.spotify.com/album/6xSJEP1rHuCNRscd1YQVs7) | 3:10 | 2025-07-11 |  |
+| [Heartbeat \- Estiva Remix](https://open.spotify.com/track/18LJyRPtECmqZNxYWrhiZS) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV), [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Heartbeat \(Estiva Remix\)](https://open.spotify.com/album/6daUDDSdvVnXGaDOxRoZnC) | 4:06 | 2026-08-28 |  |
 | [Hero](https://open.spotify.com/track/5CQ4pHqibilSqbAxvMxOq3) | [Louis Bekk](https://open.spotify.com/artist/3vhqjjDY5CvxhFjuHGi5WC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Hero](https://open.spotify.com/album/0Q4FZ1rx5FSM1bfyEN3BE8) | 3:53 | 2026-04-10 | 2026-08-01 |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 | 2025-07-11 | 2025-11-29 |
 | [Hide and Seek](https://open.spotify.com/track/0SlhHeNYhm4I1EjqaPZ7pc) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ) | [Hide and Seek](https://open.spotify.com/album/6YrM7hgBq4ZIogV7ebUt4V) | 2:54 | 2026-01-12 | 2026-02-15 |
@@ -110,6 +111,7 @@
 | [How Do I Feel](https://open.spotify.com/track/3TeYNx4ZZIml9wjRIImer3) | [Arielle](https://open.spotify.com/artist/6KltnIwOSDC583jsI2wxgE) | [How Do I Feel](https://open.spotify.com/album/0cqiyTJdZNVIrfoeGC7C0M) | 6:26 | 2025-07-11 | 2025-09-27 |
 | [How Does It Feel](https://open.spotify.com/track/3JuScXVzkJTODvJJFfqeM2) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [How Does It Feel](https://open.spotify.com/album/0rn3JcTCtYffK0hBvEvYFc) | 3:13 | 2025-07-11 |  |
 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 | 2026-02-27 | 2026-07-11 |
+| [I Can't Breathe](https://open.spotify.com/track/1YJiWChlHmYTT26LkODLQk) | [Leon Lour](https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw) | [I Can't Breathe](https://open.spotify.com/album/2dhOB9eWlUoQoTS1Z8Zm0I) | 3:28 | 2026-08-28 |  |
 | [I Can't Sleep](https://open.spotify.com/track/32gqaII6dwZwNKbZcctExs) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [I Can't Sleep](https://open.spotify.com/album/5c7Y8DKzjiUj53aEvcpssi) | 3:54 | 2026-02-27 | 2026-04-11 |
 | [I Don't Trust A Soul](https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [I Don't Trust A Soul](https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP) | 2:26 | 2025-08-08 |  |
 | [I Got The Gas](https://open.spotify.com/track/64cHiZ9v6Ke1TCKPWZMPuC) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv) | [I Got The Gas](https://open.spotify.com/album/4lojIUpOSpgDWi99qmBeX2) | 3:41 | 2025-10-31 | 2026-02-28 |

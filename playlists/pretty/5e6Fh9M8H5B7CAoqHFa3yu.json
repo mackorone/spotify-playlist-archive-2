@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 353,
+  "num_followers": 354,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAK+dWx2+J/+yqD+wG+hdiU8x9Q6h+y",
+  "snapshot_id": "AAAK/DdDuWpbHPcta3S+NBV0q2fOh02K",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -43297,7 +43297,7 @@
       "artists": [
         {
           "name": "Los Amigos",
-          "url": "https://open.spotify.com/artist/0r5bcdtdDTvbKqzgicuo84"
+          "url": "https://open.spotify.com/artist/2tZ5WLSncaSlhmRkBuILPu"
         },
         {
           "name": "Prova MI",
@@ -43445,7 +43445,7 @@
       "artists": [
         {
           "name": "Los Amigos",
-          "url": "https://open.spotify.com/artist/0r5bcdtdDTvbKqzgicuo84"
+          "url": "https://open.spotify.com/artist/2tZ5WLSncaSlhmRkBuILPu"
         },
         {
           "name": "Prova MI",
@@ -43623,6 +43623,54 @@
       "duration_ms": 203040,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/2pvxqf7svdVW4lsEDInBgL"
+    },
+    {
+      "added_at": "2026-08-27 18:07:14",
+      "album": {
+        "name": "BOUDICCA'S THEME",
+        "url": "https://open.spotify.com/album/0UlXd4zHKvweA828vg6f8c"
+      },
+      "artists": [
+        {
+          "name": "Omega Horizon",
+          "url": "https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "BOUDICCA'S THEME",
+      "url": "https://open.spotify.com/track/0BmDv4ru9o2f8EdEmpXtLV"
+    },
+    {
+      "added_at": "2026-08-27 20:32:03",
+      "album": {
+        "name": "Hampir Saja",
+        "url": "https://open.spotify.com/album/0KTMY3iGT5MDmK35lWJdph"
+      },
+      "artists": [
+        {
+          "name": "Eklyra",
+          "url": "https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V"
+        }
+      ],
+      "duration_ms": 203201,
+      "name": "Hampir Saja",
+      "url": "https://open.spotify.com/track/402MPYl6n9BtEVH8xvjro6"
+    },
+    {
+      "added_at": "2026-08-28 00:04:36",
+      "album": {
+        "name": "Il Pinguino all'Equatore",
+        "url": "https://open.spotify.com/album/6XyjAUoOY30MSNAimNl0nT"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 179955,
+      "name": "Il Pinguino all'Equatore",
+      "url": "https://open.spotify.com/track/3bt8vxAIbEphRxnfnoYGCu"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

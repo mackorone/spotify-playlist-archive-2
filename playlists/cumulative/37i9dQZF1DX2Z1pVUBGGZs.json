@@ -941,6 +941,28 @@
     },
     {
       "album": {
+        "name": "Everything's Perfect",
+        "url": "https://open.spotify.com/album/2j6ORl0SqQawFEVR1Hidrr"
+      },
+      "artists": [
+        {
+          "name": "Ella More",
+          "url": "https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/1phXdDX3DPtMKhFR7mSWZF"
+    },
+    {
+      "album": {
         "name": "engine heartbreak",
         "url": "https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC"
       },
@@ -6573,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "Fruit In The Sun",
+        "url": "https://open.spotify.com/album/4G7NNw0u3UhylBWTeOwNhd"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164743,
+      "name": "Fruit In The Sun",
+      "url": "https://open.spotify.com/track/2Bqcr5Q2EIV88wdfGAxPPf"
+    },
+    {
+      "album": {
         "name": "fruit machine",
         "url": "https://open.spotify.com/album/6Db83GXGxNuhXnMoYnM3Lj"
       },
@@ -7910,7 +7950,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 156890,
       "name": "headphones",
       "url": "https://open.spotify.com/track/74fIR7F4zvefPt8910BCjC"
@@ -11341,6 +11381,24 @@
     },
     {
       "album": {
+        "name": "Love Ruins Everything",
+        "url": "https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Love Ruins Everything",
+      "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
+    },
+    {
+      "album": {
         "name": "Love You So",
         "url": "https://open.spotify.com/album/41lHK0vbDNXHAHTKDt9fcl"
       },
@@ -11666,7 +11724,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 240100,
       "name": "maggots for brains",
       "url": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K"
@@ -11836,6 +11894,24 @@
       "duration_ms": 213083,
       "name": "marry me to dopamine",
       "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
+    },
+    {
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "album": {
@@ -12146,6 +12222,24 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "album": {
+        "name": "mitcham mint",
+        "url": "https://open.spotify.com/album/3LE08B4y2oliaeEaXVKEih"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "mitcham mint",
+      "url": "https://open.spotify.com/track/2CaXYXIyrhAVT0LFoQfftL"
     },
     {
       "album": {
@@ -12988,6 +13082,24 @@
       "duration_ms": 168020,
       "name": "Not Care (feat. Kuan)",
       "url": "https://open.spotify.com/track/3Cx1NfSZ7g4HjvIRtkWagw"
+    },
+    {
+      "album": {
+        "name": "Not Cool",
+        "url": "https://open.spotify.com/album/10K90z7u4oN08wiwIeWrQX"
+      },
+      "artists": [
+        {
+          "name": "Disgusting Sisters",
+          "url": "https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176810,
+      "name": "Not Cool",
+      "url": "https://open.spotify.com/track/6ZfXGI85ZmI5PV9sNAmwV1"
     },
     {
       "album": {
@@ -14168,7 +14280,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 216607,
       "name": "Prettier Things",
       "url": "https://open.spotify.com/track/1Y5MdLY2r5PmrRUzcl2dIw"
@@ -15158,7 +15270,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192383,
       "name": "SALTWATER",
       "url": "https://open.spotify.com/track/5CHvP9nFiNzupJfoQoA3VO"
@@ -15198,6 +15310,24 @@
       "duration_ms": 156165,
       "name": "Same Mouth",
       "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
+    },
+    {
+      "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/69h2bmvRVSUIywx8nklkph"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/2CD6eVHtGD6hewLHZJm6Lg"
     },
     {
       "album": {
@@ -16718,7 +16848,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173538,
       "name": "SPLINTER",
       "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
@@ -17161,6 +17291,24 @@
     },
     {
       "album": {
+        "name": "I can't bring myself to care/Stuck between",
+        "url": "https://open.spotify.com/album/6EOAT6pr3KTQI9Nrtus1ry"
+      },
+      "artists": [
+        {
+          "name": "Tailtiu",
+          "url": "https://open.spotify.com/artist/2qgofxtIkqevnfRyeOSQio"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Stuck between",
+      "url": "https://open.spotify.com/track/3WeP2oTlRLOgQOCI6iPPEo"
+    },
+    {
+      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/1yaH7AEnH9Bg5bqEwS6AQN"
       },
@@ -17410,7 +17558,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 182933,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/3KnNRJwe3Vzv3cyjNaS4Bd"
@@ -17652,6 +17800,32 @@
       "duration_ms": 229933,
       "name": "Take A Sexy Picture Of Me",
       "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
+    },
+    {
+      "album": {
+        "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
+        "url": "https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        },
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        },
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
+      "url": "https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq"
     },
     {
       "album": {
@@ -18510,7 +18684,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 243287,
       "name": "Through generations",
       "url": "https://open.spotify.com/track/6hM2tgX36Cd8zCq3hIpo1p"
@@ -18662,7 +18836,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 206030,
       "name": "tokyo",
       "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
@@ -19782,7 +19956,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 241781,
       "name": "we fall",
       "url": "https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS"
@@ -20388,7 +20562,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 166439,
       "name": "Word Vomit",
       "url": "https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4"

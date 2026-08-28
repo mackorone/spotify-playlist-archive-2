@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 31973,
+  "num_followers": 32023,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -239,58 +239,6 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
-        "name": "coincidence",
-        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
-      },
-      "artists": [
-        {
-          "name": "RUI HAYAKAWA",
-          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
-        }
-      ],
-      "duration_ms": 383351,
-      "name": "coincidence",
-      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
-        "name": "TRUE MAGIC",
-        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
-          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
-        }
-      ],
-      "duration_ms": 131054,
-      "name": "go!",
-      "url": "https://open.spotify.com/track/5t2y268snYiNava21XWxMZ"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
-        "name": "IN THE RAIN",
-        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 194452,
-      "name": "IN THE RAIN x XDM",
-      "url": "https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
         "name": "Attracted to you",
         "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
       },
@@ -315,6 +263,58 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
+        "name": "coincidence",
+        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
+      },
+      "artists": [
+        {
+          "name": "RUI HAYAKAWA",
+          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
+        }
+      ],
+      "duration_ms": 383351,
+      "name": "coincidence",
+      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
+        "name": "IN THE RAIN",
+        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 194452,
+      "name": "IN THE RAIN x XDM",
+      "url": "https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
+        "name": "TRUE MAGIC",
+        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
+          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
+        }
+      ],
+      "duration_ms": 131054,
+      "name": "go!",
+      "url": "https://open.spotify.com/track/5t2y268snYiNava21XWxMZ"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
         "name": "higher",
         "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 214733,
       "name": "higher",
       "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
+        "name": "WANDALAND",
+        "url": "https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "WANDALAND",
+      "url": "https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx"
     },
     {
       "added_at": "2026-08-07 11:28:33",
@@ -347,22 +363,6 @@
       "duration_ms": 289880,
       "name": "Odoriko",
       "url": "https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
-        "name": "WANDALAND",
-        "url": "https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "WANDALAND",
-      "url": "https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx"
     },
     {
       "added_at": "2026-08-07 11:28:33",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
+        "name": "Sounds Good",
+        "url": "https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sounds Good",
+      "url": "https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
         "name": "Full Train / Light on the Hill",
         "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 259400,
       "name": "Dry Action Pump",
       "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
-        "name": "Sounds Good",
-        "url": "https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sounds Good",
-      "url": "https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU"
     },
     {
       "added_at": "2026-08-07 11:28:33",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
-        "name": "ON-Netoh",
-        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
-      },
-      "artists": [
-        {
-          "name": "DJ Nobu",
-          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
-        }
-      ],
-      "duration_ms": 375875,
-      "name": "Wwww",
-      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
         "name": "DONGRHYTHM",
         "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 146867,
       "name": "Let's go",
       "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
+        "name": "ON-Netoh",
+        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
+      },
+      "artists": [
+        {
+          "name": "DJ Nobu",
+          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
+        }
+      ],
+      "duration_ms": 375875,
+      "name": "Wwww",
+      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
     },
     {
       "added_at": "2026-08-07 11:28:33",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
-        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
-          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
-        }
-      ],
-      "duration_ms": 159700,
-      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
-      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
         "name": "Lost City Archives, Vol. 4",
         "url": "https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
+        "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+        "url": "https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7\u30fb\u6709\u6a5f\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe"
+        }
+      ],
+      "duration_ms": 159700,
+      "name": "me\u30fb\u611b\u30fb\u30e9\u30fbsun\u30fb\u866b",
+      "url": "https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
+        "name": "DONGURI ZOO",
+        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "duration_ms": 139384,
+      "name": "GORILLA",
+      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
         "name": "SESSIONS COLLECTION VOL.4 / Side-C",
         "url": "https://open.spotify.com/album/2ANmbwwbrXJXb98ibaJTtY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 252631,
       "name": "Swell",
       "url": "https://open.spotify.com/track/22kEQCoIdTOp6hnYmXTaoD"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
-        "name": "DONGURI ZOO",
-        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 139384,
-      "name": "GORILLA",
-      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
     },
     {
       "added_at": "2026-08-07 11:28:33",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-07 11:28:33",
       "album": {
-        "name": "OB PKWY",
-        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
-      },
-      "artists": [
-        {
-          "name": "banvox",
-          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "OB PKWY",
-      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
-    },
-    {
-      "added_at": "2026-08-07 11:28:33",
-      "album": {
         "name": "Stomping Riddim",
         "url": "https://open.spotify.com/album/4paQJa1Sq0JCcMnvimE9Ke"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 207761,
       "name": "Stomping Riddim",
       "url": "https://open.spotify.com/track/2sVZqXvh2wHA83q7IkWCYg"
+    },
+    {
+      "added_at": "2026-08-07 11:28:33",
+      "album": {
+        "name": "OB PKWY",
+        "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
+      },
+      "artists": [
+        {
+          "name": "banvox",
+          "url": "https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY"
+        }
+      ],
+      "duration_ms": 235312,
+      "name": "OB PKWY",
+      "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
     }
   ],
   "unique_name": "Tokyo Club Beat",

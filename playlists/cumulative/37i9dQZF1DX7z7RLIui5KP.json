@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Njerae",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Mwana, Collo Blue",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 188368,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/5uI9DcWHmOPifqHvprR9mC"
@@ -2228,6 +2228,32 @@
       "duration_ms": 321417,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5DALMIl0HFU351kCmSBbbY"
+    },
+    {
+      "album": {
+        "name": "Hotuhoru (Thay\u00fb)",
+        "url": "https://open.spotify.com/album/5dRpzwfkIPpm3T369f0fUq"
+      },
+      "artists": [
+        {
+          "name": "Mwanaa",
+          "url": "https://open.spotify.com/artist/5pzU5EVVWksqPwGvuA2oDa"
+        },
+        {
+          "name": "Collo Blue",
+          "url": "https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3"
+        },
+        {
+          "name": "ADDEH PRINCE",
+          "url": "https://open.spotify.com/artist/1sieF11qgHWWtegoskP98m"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199164,
+      "name": "Hotuhoru (Thay\u00fb)",
+      "url": "https://open.spotify.com/track/0xFnVu67ccRcoxaM9nNBZg"
     },
     {
       "album": {

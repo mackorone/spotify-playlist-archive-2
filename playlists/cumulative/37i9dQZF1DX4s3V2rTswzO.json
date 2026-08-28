@@ -2917,6 +2917,32 @@
     },
     {
       "album": {
+        "name": "Theme from Samson and Delilah (arr. Nina Simone)",
+        "url": "https://open.spotify.com/album/6KXmXf0AHeN8DOSxzTi4kQ"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306401,
+      "name": "Theme from Samson and Delilah - arr. Nina Simone",
+      "url": "https://open.spotify.com/track/6pphfcdaEUbRc4EuMCurNW"
+    },
+    {
+      "album": {
         "name": "Theme of Love (Arr. Lawson for Harp & String Quartet) [From \"Final Fantasy IV\"]",
         "url": "https://open.spotify.com/album/0O0MI4TSfNiAUijlkb4anL"
       },

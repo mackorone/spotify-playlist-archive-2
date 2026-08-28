@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2940,
+  "num_followers": 2941,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aozbAAAAAADXf+VkRvS25dmeYMnSTBXH",
+  "snapshot_id": "ao4sgAAAAADe8PeLjeoJkhAnEpvcoobK",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEAST",
-        "url": "https://open.spotify.com/album/76l5VtzukIjvfZ28GYdx5n"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 125100,
-      "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
-      "url": "https://open.spotify.com/track/7HZdpMX26OZywTZphD6K3H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nympho",
         "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
       },
@@ -127,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
+        "name": "FEAST",
+        "url": "https://open.spotify.com/album/76l5VtzukIjvfZ28GYdx5n"
       },
       "artists": [
         {
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 137647,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
+      "duration_ms": 125100,
+      "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
+      "url": "https://open.spotify.com/track/7HZdpMX26OZywTZphD6K3H"
     },
     {
       "added_at": null,
@@ -159,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DROOL",
-        "url": "https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI"
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
       },
       "artists": [
         {
@@ -168,9 +152,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 169655,
-      "name": "Personal Pornstar",
-      "url": "https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb"
+      "duration_ms": 137647,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
     },
     {
       "added_at": null,
@@ -187,6 +171,22 @@
       "duration_ms": 156578,
       "name": "would you ever?",
       "url": "https://open.spotify.com/track/4wzwrE1M4cFGWgZ0Hm8Xy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DROOL",
+        "url": "https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Personal Pornstar",
+      "url": "https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "polyam\u00f3re",
-        "url": "https://open.spotify.com/album/5duXJIxJ2tM7ARjibBSZeo"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 185851,
-      "name": "polyam\u00f3re",
-      "url": "https://open.spotify.com/track/53cmIX8FN9o7hMd6Vog75D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Things I Do For Love",
         "url": "https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 160588,
       "name": "The Things I Do For Love",
       "url": "https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "polyam\u00f3re",
+        "url": "https://open.spotify.com/album/5duXJIxJ2tM7ARjibBSZeo"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 185851,
+      "name": "polyam\u00f3re",
+      "url": "https://open.spotify.com/track/53cmIX8FN9o7hMd6Vog75D"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "nice guys finish last",
-        "url": "https://open.spotify.com/album/6PsR7WXN0RyaSq6bEzB6ao"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 154225,
-      "name": "nice guys finish last",
-      "url": "https://open.spotify.com/track/0cPG85mJX8UUJenoqerayV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEX MACHINA",
         "url": "https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0"
       },
@@ -291,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODY PARTS (Full Frontal)",
-        "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
+        "name": "nice guys finish last",
+        "url": "https://open.spotify.com/album/6PsR7WXN0RyaSq6bEzB6ao"
       },
       "artists": [
         {
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 192881,
-      "name": "BODY PARTS",
-      "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
+      "duration_ms": 154225,
+      "name": "nice guys finish last",
+      "url": "https://open.spotify.com/track/0cPG85mJX8UUJenoqerayV"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 152418,
       "name": "bubblegum pink",
       "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BODY PARTS (Full Frontal)",
+        "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 192881,
+      "name": "BODY PARTS",
+      "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
-        "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nympho",
         "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 140743,
       "name": "sex toy",
       "url": "https://open.spotify.com/track/19ksJ9fzQYvTQjRR6o743N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
+        "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
     },
     {
       "added_at": null,

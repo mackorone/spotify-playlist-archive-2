@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Nada Mais Importa",
+        "url": "https://open.spotify.com/album/3VncXc1LWVDOFpHN8kfMZt"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234736,
+      "name": "Nada Mais Importa",
+      "url": "https://open.spotify.com/track/4bcOnlOqTKCvaL4QTk4T88"
+    },
+    {
+      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 416842,
       "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/1kLk2OUiRwaZa5zJgCjO6H"

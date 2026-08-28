@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Brandon Flowers",
+  "description": "A new shade of Country. Cover: Billy Strings",
   "name": "Indigo",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160708,
       "name": "Airpark",
       "url": "https://open.spotify.com/track/0EhC9Gs7lTaptKF92NR40k"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 220226,
       "name": "Before The Soul Goes To Waste",
       "url": "https://open.spotify.com/track/5wlp24waiNLMRFxMZQKd9f"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 242686,
       "name": "Bird's Eye View",
       "url": "https://open.spotify.com/track/15a3bWOhOjKVolcyykcBpK"
@@ -2759,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "So Much For Goodbyes",
+        "url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251073,
+      "name": "Carry Us Home",
+      "url": "https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt"
+    },
+    {
+      "album": {
         "name": "South of Here",
         "url": "https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN"
       },
@@ -3077,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Clothesline",
+        "url": "https://open.spotify.com/album/3i1x3kgu16jQJlXV2jwfrB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207778,
+      "name": "Clothesline",
+      "url": "https://open.spotify.com/track/1fj3OcoKr7IVemETrPCFdO"
+    },
+    {
+      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -3164,6 +3200,24 @@
       "duration_ms": 157080,
       "name": "Colorado Blues",
       "url": "https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO"
+    },
+    {
+      "album": {
+        "name": "Colorado Sun",
+        "url": "https://open.spotify.com/album/572MA6CRlXAEZ7OUNhgRwM"
+      },
+      "artists": [
+        {
+          "name": "Noah James",
+          "url": "https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215067,
+      "name": "Colorado Sun",
+      "url": "https://open.spotify.com/track/5Q3F0836AAEoz3QkBSB6bD"
     },
     {
       "album": {
@@ -6533,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Hi-Fi",
+        "url": "https://open.spotify.com/album/6Yj0yHeoiGgmvW82Gjv7xA"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "Hi-Fi",
+      "url": "https://open.spotify.com/track/2W7L5fyCkI84EsUiffADwj"
+    },
+    {
+      "album": {
         "name": "High Enough",
         "url": "https://open.spotify.com/album/5cS3PA8OnTrSvvqUmbQqtx"
       },
@@ -8134,7 +8206,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 196406,
       "name": "Keep My Mind Off You - Acoustic",
       "url": "https://open.spotify.com/track/7aN2uLp7ZAcKfUEfj5VgzZ"
@@ -8304,6 +8376,24 @@
       "duration_ms": 208942,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4wmBYAdQdhpMERTwop1PwW"
+    },
+    {
+      "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6NOxCCvMWszIKAcwxthf7j"
+      },
+      "artists": [
+        {
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230108,
+      "name": "Last Chance for Dancin\u2019",
+      "url": "https://open.spotify.com/track/0Q7AG1SsnEZFW3JcTWDuJ1"
     },
     {
       "album": {
@@ -9020,6 +9110,24 @@
       "duration_ms": 249870,
       "name": "Losing Streak",
       "url": "https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G"
+    },
+    {
+      "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "album": {
@@ -10172,7 +10280,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 253561,
       "name": "Normal Man",
       "url": "https://open.spotify.com/track/6G9FbzVLpaO11tdbF695bw"
@@ -11924,7 +12032,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 191627,
       "name": "Same Boat",
       "url": "https://open.spotify.com/track/2KLopwL757aSIWjiMeeYL1"
@@ -12332,7 +12440,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 185566,
       "name": "Sink Like A Stone",
       "url": "https://open.spotify.com/track/5Lh4Jegm6wKQ6cudAx8IbN"
@@ -12676,6 +12784,24 @@
       "duration_ms": 202690,
       "name": "Something on Your Mind (Alternate Take)",
       "url": "https://open.spotify.com/track/4Kx8inK6bc9CZzeMek9egh"
+    },
+    {
+      "album": {
+        "name": "On My Way Deluxe",
+        "url": "https://open.spotify.com/album/6iUGwnDT7JmyXqeNpPb2tE"
+      },
+      "artists": [
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287547,
+      "name": "Something Sweet",
+      "url": "https://open.spotify.com/track/2tMxUf9aBITYOYmGRM0U8G"
     },
     {
       "album": {
@@ -13919,6 +14045,28 @@
     },
     {
       "album": {
+        "name": "The Illusion Of Love (feat. Lukas Nelson)",
+        "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283427,
+      "name": "The Illusion Of Love (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
+    },
+    {
+      "album": {
         "name": "The Last Resort",
         "url": "https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew"
       },
@@ -14574,7 +14722,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172725,
       "name": "Too Little, Too Late",
       "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
@@ -15252,7 +15400,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 302720,
       "name": "Weed By The Wall",
       "url": "https://open.spotify.com/track/76cRFvpMO29Xn4lBou91MN"
@@ -15742,6 +15890,24 @@
       "duration_ms": 186346,
       "name": "Wild And Blue",
       "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
+    },
+    {
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
     },
     {
       "album": {

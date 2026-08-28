@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Été avec toi" d'Adèle Castillon est le Grand Hit de la semaine.
+> "La lune" de Christophe Maé est le Grand Hit de la semaine.
 
 348 songs - 17 hr 47 min
 

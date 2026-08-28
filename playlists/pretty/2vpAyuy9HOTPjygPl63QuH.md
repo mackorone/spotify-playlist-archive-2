@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > 
 
-[CLUB SUPPLY](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,231 likes - 60 songs - 3 hr 16 min
+[CLUB SUPPLY](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,234 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 58 | [Bow Down](https://open.spotify.com/track/4fmVAGdkTqr54qzFtb2ZOB) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm), [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Bow Down](https://open.spotify.com/album/5iEXOYgssW3uniETbypS7t) | 4:56 |
 | 59 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
 | 60 | [Talking To Myself](https://open.spotify.com/track/2IoYR7dZzXRwnYkULlTRae) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Talking To Myself](https://open.spotify.com/album/1pYdfqXGZQlgXz2jnUwrpi) | 7:52 |
+| 61 | [1997 \- Radio Edit](https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [1997](https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7) | 2:40 |
 
-Snapshot ID: `AAAoesN2UZwM2tBiCzZE0bq4CntoqCX9`
+Snapshot ID: `AAAoe5+jhetc/iym/0BbJvHFzgH7d8E8`

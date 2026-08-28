@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193600,
       "name": "BEL GUFO",
       "url": "https://open.spotify.com/track/2UsjiS9rXoXE856prwo2v4"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 195176,
       "name": "Bot\u00e2o",
       "url": "https://open.spotify.com/track/1j4oumpV7hK79TVfUsp6hd"
@@ -4362,7 +4362,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 353444,
       "name": "Cold at the Top - Shanti Celeste Remix",
       "url": "https://open.spotify.com/track/68Y4z8FEhHDStugmExZpuB"
@@ -5536,7 +5536,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 428530,
       "name": "Direction",
       "url": "https://open.spotify.com/track/7ukS7TQfYq7h6DCeCHxT9N"
@@ -6452,6 +6452,24 @@
       "duration_ms": 214285,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg"
+    },
+    {
+      "album": {
+        "name": "Emerald Web",
+        "url": "https://open.spotify.com/album/1giV4u6ARwOSNz4dcrP7qJ"
+      },
+      "artists": [
+        {
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Emerald Web",
+      "url": "https://open.spotify.com/track/1oR5NzGJ9L4PSZcexlhFr4"
     },
     {
       "album": {
@@ -8917,6 +8935,24 @@
     },
     {
       "album": {
+        "name": "Heart Burned",
+        "url": "https://open.spotify.com/album/0KsAo1ewGMwiNYMMcMZgNx"
+      },
+      "artists": [
+        {
+          "name": "Aasthma",
+          "url": "https://open.spotify.com/artist/0oWDC2Rq9mbNIzMxoRpdoc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "Heart Burned",
+      "url": "https://open.spotify.com/track/3oVlCx70yVXe0uDZWs7tgh"
+    },
+    {
+      "album": {
         "name": "Heartbreaka",
         "url": "https://open.spotify.com/album/49nKa7qfHd0F4m4ypFGSSP"
       },
@@ -11003,6 +11039,28 @@
     },
     {
       "album": {
+        "name": "The Equation",
+        "url": "https://open.spotify.com/album/32b1TLhQkUD4Sxw0BSe9tI"
+      },
+      "artists": [
+        {
+          "name": "AceMo",
+          "url": "https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX"
+        },
+        {
+          "name": "Swami Sound",
+          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306940,
+      "name": "Kelly Criterion",
+      "url": "https://open.spotify.com/track/0Irv1oQnVpFPwa53gk7EZI"
+    },
+    {
+      "album": {
         "name": "KIBO\u2019S BLEEP TEST",
         "url": "https://open.spotify.com/album/4radscA5YlIWeI0Rc7nbiA"
       },
@@ -12758,7 +12816,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 231181,
       "name": "Move Down Low",
       "url": "https://open.spotify.com/track/7zS9lv0hVMGYvsSHKvwkqb"
@@ -12928,6 +12986,24 @@
       "duration_ms": 217152,
       "name": "Must Be Dead",
       "url": "https://open.spotify.com/track/1FhLIR9IcnuE5CRgugkvr2"
+    },
+    {
+      "album": {
+        "name": "Mwaki",
+        "url": "https://open.spotify.com/album/7lBPjJsd2AOBNfc0eleaGM"
+      },
+      "artists": [
+        {
+          "name": "Cepaque",
+          "url": "https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157674,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/1dOmFu6b2NQS8vrmhsTdTf"
     },
     {
       "album": {
@@ -15440,6 +15516,28 @@
       "duration_ms": 196480,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
+    },
+    {
+      "album": {
+        "name": "TAPE CANAVARI 3000",
+        "url": "https://open.spotify.com/album/5KcNY6Ov2qhRl8PGejXY4c"
+      },
+      "artists": [
+        {
+          "name": "Project Ene",
+          "url": "https://open.spotify.com/artist/7inXARrENrqcADJkp7PEmS"
+        },
+        {
+          "name": "Se7en of 34",
+          "url": "https://open.spotify.com/artist/4VWtUQLESlV8ViRhKF3IwZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "pull.awp",
+      "url": "https://open.spotify.com/track/5Z6vzaDNpDBYP0tjNfmyco"
     },
     {
       "album": {
@@ -18551,6 +18649,36 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3BniYseVeFgP3VRlbS4j7U"
+      },
+      "artists": [
+        {
+          "name": "Lady Shaka",
+          "url": "https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt"
+        },
+        {
+          "name": "DJ PGZ",
+          "url": "https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX"
+        },
+        {
+          "name": "DoloRRes",
+          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
+        },
+        {
+          "name": "Zaila",
+          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210702,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5DXWCJDhpdGHI2oq5CEGDr"
+    },
+    {
+      "album": {
         "name": "Sweatboxx Party",
         "url": "https://open.spotify.com/album/4tDTCxxvngWUbH5v4afmrQ"
       },
@@ -20414,7 +20542,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 253000,
       "name": "u know me",
       "url": "https://open.spotify.com/track/2W4XDbRhkH726agskYOUS1"

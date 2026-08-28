@@ -7092,7 +7092,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 222511,
       "name": "APART",
       "url": "https://open.spotify.com/track/0fQuF7iMOAsgV0QTrp42tp"
@@ -9776,7 +9776,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177348,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/7xzld1tbn93d7weuxuxqUL"
@@ -44956,7 +44956,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 152019,
       "name": "hayley williams",
       "url": "https://open.spotify.com/track/2aurs0k9UhS5TqiywFuFV8"
@@ -61536,7 +61536,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 210419,
       "name": "LIQUID GOLD",
       "url": "https://open.spotify.com/track/2QoAc8B8g4HpMThWSPuhLc"
@@ -64352,6 +64352,24 @@
       "duration_ms": 185755,
       "name": "Love or War",
       "url": "https://open.spotify.com/track/4HqKrJh3wMmGzoSaPk9noG"
+    },
+    {
+      "album": {
+        "name": "Love Patrol",
+        "url": "https://open.spotify.com/album/33B9eVBEEC812ztMI4ow4H"
+      },
+      "artists": [
+        {
+          "name": "st. art",
+          "url": "https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249756,
+      "name": "Love Patrol - Extended Version",
+      "url": "https://open.spotify.com/track/2oT7yjx5O9wS4fcY0zryF2"
     },
     {
       "album": {
@@ -68756,7 +68774,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 184875,
       "name": "Mind Ya Business",
       "url": "https://open.spotify.com/track/4i63WxDpDaiM3MePsocQT6"
@@ -70654,7 +70672,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 258285,
       "name": "Movie Store",
       "url": "https://open.spotify.com/track/37aU07tSwMlMM0jyVQmTf6"
@@ -73984,7 +74002,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 178944,
       "name": "NO HALO",
       "url": "https://open.spotify.com/track/4ASIujPxCr1c9Jj1JapaZ4"
@@ -77386,7 +77404,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197698,
       "name": "On The Run",
       "url": "https://open.spotify.com/track/5bwM95sqRHhcbWTTToJVlV"
@@ -79620,7 +79638,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213382,
       "name": "Overwhelmed",
       "url": "https://open.spotify.com/track/4bXnExYvK0SSqtqJ0C6ljB"
@@ -99902,7 +99920,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 200593,
       "name": "Summer Girl",
       "url": "https://open.spotify.com/track/59rxBajiuPYow9oKIVsEDe"
@@ -115224,7 +115242,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 273574,
       "name": "WAR",
       "url": "https://open.spotify.com/track/5XxKgObC368TePCloikYoT"

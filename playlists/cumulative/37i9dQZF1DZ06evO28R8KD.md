@@ -4,7 +4,7 @@
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-33 songs - 3 hr 26 min
+34 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 | 2026-03-27 |  |
 | [Nagoya](https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:26 | 2026-03-27 |  |
 | [New \(Part 1\)](https://open.spotify.com/track/4xPbiTndGD1qA52NsXSova) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 15:40 | 2026-04-24 | 2026-06-26 |
+| [Noon Liquid Ore](https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Noon Liquid Ore](https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8) | 4:25 | 2026-08-28 |  |
 | [Osaka](https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:26 | 2026-03-27 |  |
 | [Piano 1](https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:23 | 2026-03-27 |  |
 | [Piano 2 \(Mount Vision\)](https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:41 | 2026-03-27 |  |

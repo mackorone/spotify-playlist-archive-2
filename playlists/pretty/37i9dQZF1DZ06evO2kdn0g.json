@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 5961,
+  "num_followers": 5968,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAAA4GkQYMriZlmq9IOhhL+GB",
+  "snapshot_id": "ao4sgAAAAAAYNrsKY4fUlwfnuEZdJPZO",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TMW",
+        "url": "https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 128919,
+      "name": "TMW",
+      "url": "https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'02",
         "url": "https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 213413,
       "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
       "url": "https://open.spotify.com/track/3bGfuGWywg85koHG8nturm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TMW",
-        "url": "https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 128919,
-      "name": "TMW",
-      "url": "https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 230560,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM"
     },
     {
       "added_at": null,

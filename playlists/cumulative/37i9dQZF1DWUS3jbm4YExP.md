@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-914 songs - 2 day 16 hr 24 min
+915 songs - 2 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Limpio y Puro](https://open.spotify.com/track/0U6OFaJvJvmLLSlA3pbZoZ) | [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Limpio y Puro](https://open.spotify.com/album/0GFNTdbAcpPmdTXPlAtoMg) | 3:38 | 2023-05-22 | 2023-07-22 |
 | [Lion's Roar](https://open.spotify.com/track/2ivzpUIo5dl90YTmxOryOq) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TIMBO PROGRESSION](https://open.spotify.com/album/70u6cm5Wp983688TTctIGW) | 2:46 | 2025-03-28 | 2025-07-09 |
 | [Liquid Love](https://open.spotify.com/track/0gPlSsAiRoaX2Wu2mrsmQH) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Liquid Love](https://open.spotify.com/album/3eCRbDscbTBwDRc70kPbtW) | 5:28 | 2022-12-07 | 2023-01-03 |
+| [Litter in Japan](https://open.spotify.com/track/5Gwq6Oefxhub81prd9Ib00) | [Cindy](https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI) | [Litter in Japan](https://open.spotify.com/album/6P5cUz4tpCK6b1uCnSrgE5) | 4:10 | 2026-08-28 |  |
 | [Little Mouse](https://open.spotify.com/track/6PLmTnJIHb22SXrQRr29fg) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP), [Mr\. Morski](https://open.spotify.com/artist/0RJTUTPE6jdu7i23X79GEi) | [Music Sun Love](https://open.spotify.com/album/4k9DC9Gc7OhaBBEfuPM1fV) | 4:52 | 2021-10-06 | 2022-06-18 |
 | [Little Mouse](https://open.spotify.com/track/7t6GNNQEDkMQrxkk0o6XRd) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP), [Mr\. Morski](https://open.spotify.com/artist/0RJTUTPE6jdu7i23X79GEi) | [Music Sun Love](https://open.spotify.com/album/5seX7glfEyKrtPLLCmm8Zo) | 4:52 | 2023-11-03 | 2023-11-07 |
 | [Liver Detox](https://open.spotify.com/track/2J4GTXRKVK31IfUDQp7phB) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Liver Detox](https://open.spotify.com/album/0Z5nviwBvakgusyWOTdZF9) | 5:04 | 2021-10-06 | 2022-04-09 |
@@ -536,7 +537,7 @@
 | [Metaphors](https://open.spotify.com/track/3VKv346IPntZiz24FT9aK4) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Metaphors](https://open.spotify.com/album/2SK7bkRYmMLyI5qHQ3DvME) | 3:11 | 2024-10-04 | 2025-06-10 |
 | [Meu Balanço](https://open.spotify.com/track/5XT5YRzZKfZJiiGa93P7rG) | [Waltel Branco](https://open.spotify.com/artist/7xTnElN1hw1D3tPHy1axOw) | [Meu Balanço](https://open.spotify.com/album/438qLiFxIdKhMT1BRLPDqN) | 3:18 | 2025-01-31 | 2025-03-04 |
 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 | 2021-10-06 | 2022-07-02 |
-| [Microdosing](https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [A Trip To Bolgatanga](https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14) | 3:43 | 2024-05-22 |  |
+| [Microdosing](https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [A Trip To Bolgatanga](https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14) | 3:43 | 2024-05-22 | 2026-08-28 |
 | [Mientras Unos Mueren](https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Mientras Unos Mueren](https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ) | 3:44 | 2021-10-06 | 2022-07-21 |
 | [Migratória](https://open.spotify.com/track/7EMTn98ICuKFU3mOEFvAGP) | [Club Makumba](https://open.spotify.com/artist/0JEcPoUdVr4MDQr7AdMzcJ) | [Migratória](https://open.spotify.com/album/5FxxNLPupv3yklUOItLt2e) | 3:46 | 2022-01-18 | 2022-07-15 |
 | [Mil Navajas](https://open.spotify.com/track/25kqGABvosRP3lNla8dnT6) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Miércoles Picante](https://open.spotify.com/album/0jZaVY51WJvyIAx7tA3X3r) | 5:00 | 2023-05-12 | 2023-06-08 |

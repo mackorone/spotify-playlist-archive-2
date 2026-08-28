@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-638 songs - 1 day 13 hr 56 min
+640 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Je retourne à la maison](https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Je retourne à la maison](https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl) | 3:20 | 2022-11-11 | 2023-05-05 |
 | [Je reviens chez nous](https://open.spotify.com/track/172zakucirQMrMR8t0rFci) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3), [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Je n'veux pas dormir ce soir](https://open.spotify.com/album/46bZg3CYLTULjGp4tSevVX) | 3:24 | 2021-04-03 | 2021-10-02 |
 | [Je rêve](https://open.spotify.com/track/399nIYTpN4745fwu3mTUzP) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:32 | 2021-01-07 | 2021-04-30 |
-| [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 | 2026-06-05 |  |
+| [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 | 2026-06-05 | 2026-08-28 |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2021-06-23 | 2022-01-08 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2026-05-02 |
 | [JVTPM](https://open.spotify.com/track/0MLcOFQ1tFQwXuJZTO03O4) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Portrait de l'invisible](https://open.spotify.com/album/71PkjAcz0cvoAMtcMTwgfG) | 3:50 | 2026-07-03 | 2026-08-08 |
@@ -265,7 +265,7 @@
 | [L'oeil de la tempête](https://open.spotify.com/track/6hqZ7Gse9RLqbLl8SItu0s) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [L'oeil de la tempête](https://open.spotify.com/album/1G3KTeszRhkqwK5oK4QVZ8) | 3:34 | 2022-05-20 | 2022-07-19 |
 | [L'oiseau\-vitre](https://open.spotify.com/track/5hdcCZUXf2kunkOwbPBujv) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:55 | 2021-01-15 | 2021-10-02 |
 | [L'échafaud](https://open.spotify.com/track/4rfqSbkpuX1LFT0urfeGi8) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Dans la seconde](https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx) | 4:33 | 2023-09-08 | 2023-10-24 |
-| [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 | 2021-01-03\* |  |
+| [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 | 2021-01-03\* | 2026-08-28 |
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/3MnFHWYVWEZjkfU58VgZrz) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [L'île à vingt\-cinq sous](https://open.spotify.com/album/4CMheRrzMJZI0bp7HBaBpB) | 3:33 | 2021-01-03\* | 2022-01-08 |
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 | 2022-01-07 |  |
 | [La cabane \- Édit radio 2019](https://open.spotify.com/track/5kjI0AyV7R5B1zpEULRmGx) | [Soul & Sister](https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh) | [Soul & Sister \- EP](https://open.spotify.com/album/4gMf584x1lIKpnPrs7xHOK) | 3:12 | 2021-01-15 | 2022-07-28 |
@@ -294,6 +294,7 @@
 | [Lac miroir](https://open.spotify.com/track/6cMjdLFH2xlLi6Yya62FzM) | [Joli\-Bois](https://open.spotify.com/artist/1hYaIQ0aeDjFM7nDP6hxcl) | [Lac miroir](https://open.spotify.com/album/2voRn55rWwSBUOOBv5zb2a) | 3:55 | 2021-01-03\* | 2021-01-23 |
 | [Laisse tomber](https://open.spotify.com/track/708gV8gsUkKJh6YeNubcZR) | [Cédric Vieno](https://open.spotify.com/artist/3BlVrNmJQj2ZfgFYDs3iNv) | [Maltempête](https://open.spotify.com/album/07L0z3wBeykMe72aSurnci) | 3:09 | 2021-01-03\* | 2021-05-07 |
 | [Laissez\-Moi](https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Rosier](https://open.spotify.com/album/0vQeuOk0tohIHflikV8jWg) | 3:35 | 2021-01-03\* | 2022-07-26 |
+| [Laughter \- Bouquet Version](https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Laughter \(Bouquet Version\)](https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc) | 3:41 | 2026-08-28 |  |
 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 | 2025-07-08 |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
@@ -542,6 +543,7 @@
 | [TABLE DU FOND](https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj) | [Marc\-Antoine Delage](https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS) | [TABLE DU FOND](https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82) | 2:37 | 2026-06-05 |  |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:13 | 2023-10-20 | 2025-03-13 |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-04-28 | 2023-10-24 |
+| [Take the time](https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6) | [Muhoza](https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG), [Carson](https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn) | [Take the time](https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ) | 2:57 | 2026-08-28 |  |
 | [Talk of the town \(feat\. Sophia Bel\)](https://open.spotify.com/track/7cnJEGjMIKOSxcpFnENxZJ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Cicada](https://open.spotify.com/album/2gWBjcvwjEUALOhl1PKYwQ) | 2:37 | 2026-05-15 | 2026-06-12 |
 | [Talk To Me](https://open.spotify.com/track/02Az1ZPrTOeWjvc20ZveFT) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Talk To Me](https://open.spotify.com/album/6AzAxH3QhnCCYaA0k1LXDK) | 2:53 | 2023-09-15 | 2023-10-24 |
 | [Tant étrange](https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Tant étrange](https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2) | 3:29 | 2025-06-13 | 2026-01-31 |

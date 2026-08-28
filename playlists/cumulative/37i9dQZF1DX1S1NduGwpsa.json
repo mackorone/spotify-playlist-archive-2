@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: L\u00e9on Phal",
+  "description": "The best jazz new releases. Cover: Bolden.",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 287516,
       "name": "A Kiss A Kill",
       "url": "https://open.spotify.com/track/2FoduzDx5BvoN9MMwA9CYO"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 198650,
       "name": "Best Cards",
       "url": "https://open.spotify.com/track/1ybF1NglLJBBGDCtG7d1gn"
@@ -4922,6 +4922,28 @@
       "duration_ms": 177042,
       "name": "DON\u2019T LISTEN",
       "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Look Any Further",
+        "url": "https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242842,
+      "name": "Don\u2019t Look Any Further (with Lianne La Havas)",
+      "url": "https://open.spotify.com/track/0AjcjeMsxzUWPh0dQcYMyW"
     },
     {
       "album": {
@@ -8487,6 +8509,28 @@
     },
     {
       "album": {
+        "name": "The Wise Ones",
+        "url": "https://open.spotify.com/album/3udwsH8ccObgP7T3K5l0fg"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265533,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/20CpGtjnNhin6QYpJ4ry03"
+    },
+    {
+      "album": {
         "name": "If You Go Away / Ne me quitte pas",
         "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
       },
@@ -8942,7 +8986,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197122,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
@@ -9323,6 +9367,24 @@
     },
     {
       "album": {
+        "name": "Jubilee Feeling",
+        "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255227,
+      "name": "Jubilee Feeling",
+      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
+    },
+    {
+      "album": {
         "name": "JUKE JOINT",
         "url": "https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt"
       },
@@ -9672,7 +9734,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197800,
       "name": "L'absence",
       "url": "https://open.spotify.com/track/52FCKsApUgPGcKzCtXinE9"
@@ -10016,6 +10078,32 @@
       "duration_ms": 182214,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6SDFVOLzOD6E38hrY967am"
+    },
+    {
+      "album": {
+        "name": "Lawns",
+        "url": "https://open.spotify.com/album/2m4grKXk7ezZMAPnFRtceJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        },
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Michel Benita",
+          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387734,
+      "name": "Lawns",
+      "url": "https://open.spotify.com/track/5pbhLARny6tF7BEg7Nb4Gf"
     },
     {
       "album": {
@@ -10658,7 +10746,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 182519,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/4RpdyfAKcnqusgdFgA2nEq"
@@ -13919,6 +14007,28 @@
     },
     {
       "album": {
+        "name": "Only When I Lose Myself",
+        "url": "https://open.spotify.com/album/6tSpci4GvxsbQ0rAz8mWp4"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "M\u00e9lanie Pain",
+          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Only When I Lose Myself",
+      "url": "https://open.spotify.com/track/0qLNTKzDvt2s2srGjZBM7y"
+    },
+    {
+      "album": {
         "name": "Open Borders",
         "url": "https://open.spotify.com/album/3HsEEhi6skWH5BGny7tuVK"
       },
@@ -16447,6 +16557,24 @@
     },
     {
       "album": {
+        "name": "Singin' In The Rain",
+        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Singin\u2019 In The Rain",
+      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
+    },
+    {
+      "album": {
         "name": "Skylark",
         "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
       },
@@ -17486,7 +17614,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186400,
       "name": "Sun Showers",
       "url": "https://open.spotify.com/track/0ZhP7MAHSl4n3UBIjcbyqa"
@@ -18102,7 +18230,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 319853,
       "name": "Terra Em Transe",
       "url": "https://open.spotify.com/track/68vvcDQhNxv2QTNr7cZu81"
@@ -21030,6 +21158,24 @@
       "duration_ms": 203300,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
+    },
+    {
+      "album": {
+        "name": "Who you really are.",
+        "url": "https://open.spotify.com/album/65M2XC0TOKe2goDmaepIUN"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134051,
+      "name": "Where to.",
+      "url": "https://open.spotify.com/track/0YSkkL3kKYYFG8C8tvpuOn"
     },
     {
       "album": {

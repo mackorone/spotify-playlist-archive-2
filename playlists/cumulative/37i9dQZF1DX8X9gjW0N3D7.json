@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: P'tit Beliveau x kinji00",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Colin L\u00e9o",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 223134,
       "name": "Amour \u00e9cran",
       "url": "https://open.spotify.com/track/754XP3sRRI7DXaSC75ROxN"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 182961,
       "name": "Courtside",
       "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Elle est mon homme",
+        "url": "https://open.spotify.com/album/6tdZ0jqwb3Goqa1I86DPvy"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239694,
+      "name": "Elle est mon homme",
+      "url": "https://open.spotify.com/track/3J6JCgQMuNZVe0HQ292wHW"
+    },
+    {
+      "album": {
         "name": "Les amours de seconde main",
         "url": "https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob"
       },
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197145,
       "name": "Excuse-moi",
       "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q"
@@ -4088,6 +4106,24 @@
       "duration_ms": 175528,
       "name": "Je ne sais quoi",
       "url": "https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA"
+    },
+    {
+      "album": {
+        "name": "Je pense \u00e0 toi",
+        "url": "https://open.spotify.com/album/0lYT8x7PdiY7aPGLP30PVO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275235,
+      "name": "Je pense \u00e0 toi",
+      "url": "https://open.spotify.com/track/7v3PIiiX4shJwvsXVQH3XM"
     },
     {
       "album": {
@@ -5102,6 +5138,24 @@
       "duration_ms": 188875,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/7fHldbxnhn9KhxvT9yaZZh"
+    },
+    {
+      "album": {
+        "name": "Laughter (Bouquet Version)",
+        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221245,
+      "name": "Laughter - Bouquet Version",
+      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
     },
     {
       "album": {
@@ -6749,6 +6803,24 @@
     },
     {
       "album": {
+        "name": "M\u00eames habitudes",
+        "url": "https://open.spotify.com/album/7EygLRx5y2tVfilyuhYOuJ"
+      },
+      "artists": [
+        {
+          "name": "Colin L\u00e9o",
+          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229481,
+      "name": "M\u00eames habitudes",
+      "url": "https://open.spotify.com/track/3cFVT6MhGbiaK89AcVKquo"
+    },
+    {
+      "album": {
         "name": "n'as-tu jamais vu d'oiseaux",
         "url": "https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK"
       },
@@ -7275,6 +7347,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Funny Without Me",
+        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Otherwise, I'm Fine",
+      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
+    },
+    {
+      "album": {
         "name": "Oublier encore",
         "url": "https://open.spotify.com/album/7iBfcEwa9oigXuvMn06Gsd"
       },
@@ -7434,7 +7524,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177106,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"
@@ -9521,6 +9611,24 @@
     },
     {
       "album": {
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205794,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
+    },
+    {
+      "album": {
         "name": "Tenir debout",
         "url": "https://open.spotify.com/album/125ZnohcXIhDHR9q9T1Z35"
       },
@@ -9908,7 +10016,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 117333,
       "name": "Tout c\u2019qui faut",
       "url": "https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff"

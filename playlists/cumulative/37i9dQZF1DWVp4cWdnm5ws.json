@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4AfgAiFkuF6qJWK0MLW7XT"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4nDBJNQsLbxNxwQxnj1gSy"
+    },
+    {
+      "album": {
         "name": "Playaz & Pimps",
         "url": "https://open.spotify.com/album/5bGjTqPu5sDi3EjZhkNn0Y"
       },

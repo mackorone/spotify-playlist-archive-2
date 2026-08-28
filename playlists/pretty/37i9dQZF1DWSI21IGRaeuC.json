@@ -1,13 +1,33 @@
 {
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Jamback",
-  "num_followers": 89110,
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
+  "num_followers": 89160,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2RXz4DV07uSpdjL1ss6JezB9jU",
+  "snapshot_id": "AAAAAElmWoENw9TWwZ7Oz+/MUAMCeOWa",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "duration_ms": 185423,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
+    },
     {
       "added_at": "2026-08-21 04:01:27",
       "album": {
@@ -23,6 +43,30 @@
       "duration_ms": 174924,
       "name": "Sun is Shining (Lovelee Dae)",
       "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Another Night (Ranger Trucco Remix)",
+        "url": "https://open.spotify.com/album/7p61COsWZOhuyy36degfBX"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Chesster",
+          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
+        },
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 223550,
+      "name": "Another Night - Ranger Trucco Remix",
+      "url": "https://open.spotify.com/track/29Ryx73SRQjFLovbWRuG57"
     },
     {
       "added_at": "2026-08-14 04:01:21",
@@ -41,20 +85,120 @@
       "url": "https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8"
     },
     {
-      "added_at": "2026-07-24 04:01:33",
+      "added_at": "2026-07-31 04:01:09",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0ljxqMO4RtUbN3XXyoDsUU"
+        "name": "Back To Funk",
+        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
       },
       "artists": [
         {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
+      "duration_ms": 219111,
+      "name": "Back To Funk",
+      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/3eISzBDmXKKLPaQOIPWqg9"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        },
+        {
+          "name": "Alex Lynch",
+          "url": "https://open.spotify.com/artist/4fCuFai2RGjsA7ptG5ZDxF"
+        }
+      ],
+      "duration_ms": 206616,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1ACxe83zCuJVNcuWaxC5M9"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "U know me",
+        "url": "https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Marz Fay",
+          "url": "https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i"
+        }
+      ],
+      "duration_ms": 194910,
+      "name": "U know me",
+      "url": "https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq"
+    },
+    {
+      "added_at": "2026-07-17 15:05:04",
+      "album": {
+        "name": "Hey Everybody",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Hey Everybody",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "added_at": "2026-08-21 16:29:30",
+      "album": {
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/2LOT7MBxlcI6jAp9OTv6qK"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "duration_ms": 343342,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/2lnybFoHZJxJVkYwXXrNd2"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Echoes From The 90s",
+        "url": "https://open.spotify.com/album/7mOkoTACtQ51YEOlW2Rv0D"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Summum",
+          "url": "https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw"
+        },
+        {
+          "name": "Atlantic Ocean",
+          "url": "https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Echoes From The 90s",
+      "url": "https://open.spotify.com/track/7ImUOhb1xKibBXXJVZ7PK5"
     },
     {
       "added_at": "2026-08-14 04:01:21",
@@ -81,40 +225,72 @@
       "url": "https://open.spotify.com/track/5r0GbOsD3zxVvmlLcpSeGD"
     },
     {
-      "added_at": "2026-07-31 04:01:09",
+      "added_at": "2026-08-28 04:01:45",
       "album": {
-        "name": "Back To Funk",
-        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
+        "name": "Body Movin'",
+        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+          "name": "Fede Aliprandi",
+          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
         }
       ],
-      "duration_ms": 219111,
-      "name": "Back To Funk",
-      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
+      "duration_ms": 194000,
+      "name": "Body Movin'",
+      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
     },
     {
-      "added_at": "2026-07-17 15:05:04",
+      "added_at": "2026-07-24 04:01:33",
       "album": {
-        "name": "Hey Everybody",
-        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0ljxqMO4RtUbN3XXyoDsUU"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
         }
       ],
-      "duration_ms": 156498,
-      "name": "Hey Everybody",
-      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+      "duration_ms": 182000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
+    },
+    {
+      "added_at": "2026-08-25 19:57:18",
+      "album": {
+        "name": "Bring That Beat Back EP",
+        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
+      },
+      "artists": [
+        {
+          "name": "AMMIL",
+          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Bring That Beat Back",
+      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
     },
     {
       "added_at": "2026-08-21 04:01:27",
@@ -131,6 +307,22 @@
       "duration_ms": 165581,
       "name": "Work Your Body",
       "url": "https://open.spotify.com/track/7Myxv15uekMkWTvGZqmDsB"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 168334,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
     },
     {
       "added_at": "2026-07-24 04:01:33",
@@ -185,6 +377,22 @@
       "url": "https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi"
     },
     {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "1997 - Radio Edit",
+      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+    },
+    {
       "added_at": "2026-08-21 04:01:27",
       "album": {
         "name": "Best Of Relax, Vol. 1 (Club Hits)",
@@ -201,20 +409,24 @@
       "url": "https://open.spotify.com/track/77HCn8EcJjL3j6goI3N39E"
     },
     {
-      "added_at": "2026-08-25 19:57:18",
+      "added_at": "2026-08-28 04:01:45",
       "album": {
-        "name": "Bring That Beat Back EP",
-        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
+        "name": "RMS007",
+        "url": "https://open.spotify.com/album/4Gg3XrcqT7JCTPKCR7iTxG"
       },
       "artists": [
         {
-          "name": "AMMIL",
-          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
+          "name": "Owen Andrews",
+          "url": "https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s"
+        },
+        {
+          "name": "Luke Andrews",
+          "url": "https://open.spotify.com/artist/4HXTQukv28KsVXxf1uXQoA"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Bring That Beat Back",
-      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
+      "duration_ms": 185750,
+      "name": "Record Stepper - Radio Edit",
+      "url": "https://open.spotify.com/track/1SuM7xpxqMZANsOqdCTAj1"
     },
     {
       "added_at": "2026-08-07 04:01:14",
@@ -235,22 +447,6 @@
       "duration_ms": 134767,
       "name": "Weight of House",
       "url": "https://open.spotify.com/track/5yPZbV61vFlV8WqPps3Q2p"
-    },
-    {
-      "added_at": "2026-08-21 16:29:30",
-      "album": {
-        "name": "No No No",
-        "url": "https://open.spotify.com/album/2LOT7MBxlcI6jAp9OTv6qK"
-      },
-      "artists": [
-        {
-          "name": "J.K. Rollin",
-          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
-        }
-      ],
-      "duration_ms": 343342,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/2lnybFoHZJxJVkYwXXrNd2"
     },
     {
       "added_at": "2026-08-21 04:01:27",
@@ -769,22 +965,6 @@
       "url": "https://open.spotify.com/track/611R0EsLJLrZzjNZYQ06C0"
     },
     {
-      "added_at": "2026-07-10 04:02:04",
-      "album": {
-        "name": "Move Shake",
-        "url": "https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg"
-      },
-      "artists": [
-        {
-          "name": "Jeff Sorkowitz",
-          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Move Shake",
-      "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
-    },
-    {
       "added_at": "2026-08-07 04:01:14",
       "album": {
         "name": "Undercover",
@@ -819,22 +999,6 @@
       "duration_ms": 212093,
       "name": "Look In Your Eyes",
       "url": "https://open.spotify.com/track/7cFo5KHNgCQUYmXXvPObHD"
-    },
-    {
-      "added_at": "2026-07-31 04:01:09",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6zA6Sn0WKT2nulnkFE6cAq"
-      },
-      "artists": [
-        {
-          "name": "DumitrEscu",
-          "url": "https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ"
-        }
-      ],
-      "duration_ms": 190107,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/6jbkf149SUyfKC61XXhAd7"
     },
     {
       "added_at": "2026-07-24 04:01:33",
@@ -1023,30 +1187,6 @@
     {
       "added_at": "2026-07-31 04:01:09",
       "album": {
-        "name": "Poppy Pill",
-        "url": "https://open.spotify.com/album/6sOlicdKcFuv3MEFQjZ5K2"
-      },
-      "artists": [
-        {
-          "name": "AG Swifty",
-          "url": "https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2"
-        },
-        {
-          "name": "Brad Brunner",
-          "url": "https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL"
-        },
-        {
-          "name": "Sapte",
-          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
-        }
-      ],
-      "duration_ms": 186870,
-      "name": "Poppy Pill",
-      "url": "https://open.spotify.com/track/5vzilsnm2ht0puswLrtdHe"
-    },
-    {
-      "added_at": "2026-07-31 04:01:09",
-      "album": {
         "name": "Bring The Beat Back",
         "url": "https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR"
       },
@@ -1095,22 +1235,6 @@
       "duration_ms": 190909,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
-    },
-    {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "If Its Real",
-        "url": "https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "If Its Real",
-      "url": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
     },
     {
       "added_at": "2026-07-17 04:01:06",
@@ -1305,26 +1429,6 @@
       "url": "https://open.spotify.com/track/5eABSV4aDk5irs5DVz9VIG"
     },
     {
-      "added_at": "2026-07-10 04:02:04",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/4ASgCVfuiXn2z4Jj6OJb0X"
-      },
-      "artists": [
-        {
-          "name": "CROSS CITY",
-          "url": "https://open.spotify.com/artist/2YEX28QkrNloZQR3SgVXMh"
-        },
-        {
-          "name": "Yung Ta",
-          "url": "https://open.spotify.com/artist/0BtWJZaHgSsVOp71L14leH"
-        }
-      ],
-      "duration_ms": 146564,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
-    },
-    {
       "added_at": "2026-03-20 04:00:44",
       "album": {
         "name": "Shinjuku",
@@ -1437,22 +1541,6 @@
       "url": "https://open.spotify.com/track/5KBUE75BEZMGmDnfW8y2gd"
     },
     {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "GANGSTA",
-        "url": "https://open.spotify.com/album/2FkZgqzJkucGubEC2Zw76l"
-      },
-      "artists": [
-        {
-          "name": "Joss Dean",
-          "url": "https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf"
-        }
-      ],
-      "duration_ms": 180451,
-      "name": "GANGSTA",
-      "url": "https://open.spotify.com/track/5w2J3jCuxhCKXSeAKooytB"
-    },
-    {
       "added_at": "2026-03-27 04:00:16",
       "album": {
         "name": "Believe In Yourself",
@@ -1555,26 +1643,6 @@
       "duration_ms": 190789,
       "name": "Senses",
       "url": "https://open.spotify.com/track/2fAALriwTxIDo9tOSLeCIh"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Face Bass",
-        "url": "https://open.spotify.com/album/0zVP42K9yiy36j8i6J1XIb"
-      },
-      "artists": [
-        {
-          "name": "East End Dubs",
-          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
-        },
-        {
-          "name": "Di Chiara Brothers",
-          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Face Bass",
-      "url": "https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -1763,22 +1831,6 @@
       "duration_ms": 187796,
       "name": "Passion",
       "url": "https://open.spotify.com/track/1OlS7vWAKZEeoNgIp3JvE2"
-    },
-    {
-      "added_at": "2026-03-27 04:00:16",
-      "album": {
-        "name": "Talking To Myself",
-        "url": "https://open.spotify.com/album/1pYdfqXGZQlgXz2jnUwrpi"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 472835,
-      "name": "Talking To Myself",
-      "url": "https://open.spotify.com/track/2IoYR7dZzXRwnYkULlTRae"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -2115,38 +2167,6 @@
       "duration_ms": 183953,
       "name": "The Way I Are - Max Dean Remix",
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Love to Love",
-        "url": "https://open.spotify.com/album/6jyJWetHgENZW5U0LpIvBF"
-      },
-      "artists": [
-        {
-          "name": "Justin Rabin",
-          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "Love to Love",
-      "url": "https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q"
-    },
-    {
-      "added_at": "2025-08-20 19:16:02",
-      "album": {
-        "name": "Do You Like Bass",
-        "url": "https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO"
-      },
-      "artists": [
-        {
-          "name": "Aitor Astiz",
-          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Do You Like Bass",
-      "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
     }
   ],
   "unique_name": "Deep & Minimal",

@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 70s.
 
-173 songs - 11 hr 13 min
+174 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,11 +48,11 @@
 | [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 | 2022-02-08 |  |
 | [Fooled Around And Fell In Love](https://open.spotify.com/track/6BJTagJUFeUxHpVWxTmatw) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 4:34 | 2022-03-28 | 2022-04-21 |
 | [Get Closer](https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Get Closer](https://open.spotify.com/album/2qAVfqCoOj2OStHvKrEPqM) | 3:58 | 2022-03-28 | 2022-04-21 |
-| [Goodbye Girl](https://open.spotify.com/track/3c6vdiLeV9DUbTMWk5H3se) | [David Gates](https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW) | [Goodbye Girl](https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd) | 2:48 | 2021-12-27 |  |
+| [Goodbye Girl](https://open.spotify.com/track/3c6vdiLeV9DUbTMWk5H3se) | [David Gates](https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW) | [Goodbye Girl](https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd) | 2:48 | 2021-12-27 | 2026-08-28 |
 | [He Don't Love You \(Like I Love You\)](https://open.spotify.com/track/0XaaoZUWQFzcFiQbXKhABU) | [Tony Orlando & Dawn](https://open.spotify.com/artist/72NXpYBIaTfEeAAsxXLs0P) | [He Don't Love You](https://open.spotify.com/album/7KmJicIwOmhICUqD1ndi6V) | 3:39 | 2022-03-28 | 2022-04-17 |
 | [Hello It's Me](https://open.spotify.com/track/2ckXnzyvgva2oE9FWjb405) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [The Very Best of Todd Rundgren](https://open.spotify.com/album/5vsHuXiqwQZYT6AD5NKYsd) | 4:24 | 2022-03-28 | 2022-04-18 |
-| [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 | 2022-03-28 | 2025-10-24 |
-| [Hopelessly Devoted To You](https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:06 | 2024-05-16 |  |
+| [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 | 2022-03-28 |  |
+| [Hopelessly Devoted To You](https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:06 | 2024-05-16 | 2026-08-28 |
 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 | 2021-12-27 |  |
 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 | 2022-03-28 |  |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 | 2022-03-28 | 2022-04-21 |
@@ -67,6 +67,7 @@
 | [I Need You](https://open.spotify.com/track/0XkEJVrj7XSUQbRovPVspD) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Moments Forever](https://open.spotify.com/album/56Z1vHAlgUADsL9lgQXDcc) | 2:15 | 2022-03-28 | 2022-04-19 |
 | [I Need You](https://open.spotify.com/track/0XqYPJHJWsILA84jOjOVER) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Greatest 70s Love Songs](https://open.spotify.com/album/4PvbIvA75pGxF6I8RbESXu) | 3:03 | 2021-12-27 | 2022-06-23 |
 | [I Need You](https://open.spotify.com/track/4Anh5Ti55P6SXG3H94QLqV) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 3:03 | 2021-12-27 | 2022-07-27 |
+| [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 | 2024-05-16 |  |
 | [I Write the Songs](https://open.spotify.com/track/12FZTFRyd4RBzvKf8RB0zO) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Tryin' To Get The Feeling](https://open.spotify.com/album/4vjtUQKNvFUftabjdTONcJ) | 3:55 | 2022-03-28 | 2022-07-15 |
 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 | 2021-12-27 |  |
 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 | 2021-12-27 |  |

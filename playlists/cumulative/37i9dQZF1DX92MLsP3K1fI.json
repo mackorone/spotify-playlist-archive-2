@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "A la vuelta de la esquina",
+        "url": "https://open.spotify.com/album/6ZXB48MFQv8ktkF4hUqxUm"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205792,
+      "name": "A la vuelta de la esquina",
+      "url": "https://open.spotify.com/track/3MBSF4rlQOkcli0OsZO1zQ"
+    },
+    {
+      "album": {
         "name": "A Las 3",
         "url": "https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge"
       },
@@ -781,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Amor Bonito",
+        "url": "https://open.spotify.com/album/27bXuM6iDeGGMD3DsMoMps"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/3yUUfNCfcFUL9zMVCaB3Y9"
+    },
+    {
+      "album": {
         "name": "Amores de un Rato",
         "url": "https://open.spotify.com/album/0G4FinS64IBlUJVGE1pAYS"
       },
@@ -810,7 +846,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193714,
       "name": "Angustia Existencial",
       "url": "https://open.spotify.com/track/6yFWnK67fl1pRxB9ne24lu"
@@ -3175,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166104,
+      "name": "Desde Antes De Nacer",
+      "url": "https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
       },
@@ -3630,7 +3684,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
@@ -4572,7 +4626,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183157,
       "name": "Est\u00fapida Inocente",
       "url": "https://open.spotify.com/track/7K1xys7lxKtsUDvzNzvcVi"
@@ -6462,6 +6516,24 @@
       "duration_ms": 298051,
       "name": "Ll\u00e1mame Si Me Necesitas",
       "url": "https://open.spotify.com/track/7jOSpyFVMO1W6fLwqSfE9u"
+    },
+    {
+      "album": {
+        "name": "Lo Nuestro Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/675MhAK1X2KUHcUODtAUyT"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196829,
+      "name": "Lo Nuestro Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/3clgHCFjmDz5MLr7XhQ58Y"
     },
     {
       "album": {
@@ -11592,7 +11664,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155609,
       "name": "Te Am\u00e9 +",
       "url": "https://open.spotify.com/track/6afTXhyxiBpokGmbeCtWCO"

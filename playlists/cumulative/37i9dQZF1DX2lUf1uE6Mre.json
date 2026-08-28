@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
+    },
+    {
+      "album": {
         "name": "Eurosport",
         "url": "https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8"
       },
@@ -4298,7 +4316,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 95049,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
@@ -5706,6 +5724,24 @@
       "duration_ms": 102101,
       "name": "LOVESICK",
       "url": "https://open.spotify.com/track/7qXSKKlhTiO1pgD0JFUKhs"
+    },
+    {
+      "album": {
+        "name": "Luftkuss",
+        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113761,
+      "name": "Luftkuss",
+      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
     },
     {
       "album": {
@@ -7642,7 +7678,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 152195,
       "name": "Planet",
       "url": "https://open.spotify.com/track/3jqrkCLNToczOkUbutDK2B"
@@ -7920,6 +7956,24 @@
       "duration_ms": 147226,
       "name": "Rauch",
       "url": "https://open.spotify.com/track/6v1b9nidriM4UBfN7KToko"
+    },
+    {
+      "album": {
+        "name": "Red Bull Weiss",
+        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110363,
+      "name": "Red Bull Weiss",
+      "url": "https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa"
     },
     {
       "album": {
@@ -9306,7 +9360,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 149232,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35"

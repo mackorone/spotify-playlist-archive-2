@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Christian Ortega
 
-693 songs - 1 day 11 hr 46 min
+695 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [ARRE PUE$](https://open.spotify.com/track/09xwLaPAHW1zPqPkNxUkOe) | [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7) | [ARRE PUE$](https://open.spotify.com/album/2Hv2DWtLV17H4iorxmeKaF) | 2:10 | 2026-07-15 |  |
 | [Asi Me Toco](https://open.spotify.com/track/2eF9QAwZQpvC4W7W64oHF4) | [AMØRA G](https://open.spotify.com/artist/3zwogaMnI4Vtdoa9Oz9Slx) | [Asi Me Toco](https://open.spotify.com/album/4zbwx3GVYdEXLxgtgjb1oG) | 3:32 | 2026-05-13 | 2026-07-16 |
 | [Aun No Te Conozco](https://open.spotify.com/track/1aHyyCNyANLrjdK5pEMw8B) | [Luis Fernando](https://open.spotify.com/artist/75kK7bcib3UtEB4Vn5lUtY) | [Aun No Te Conozco](https://open.spotify.com/album/6IcSqEjAZd8z9LBGOu0pdR) | 2:50 | 2025-08-06 | 2025-11-08 |
+| [AURA](https://open.spotify.com/track/6qEyO87lphVYGPhecy2doX) | [Grupo Ajedrez](https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor) | [Moviendo Piezas](https://open.spotify.com/album/09reBj08UjkKD37W1Ckr5l) | 3:05 | 2026-08-28 |  |
 | [AVECES](https://open.spotify.com/track/3fxf7hDl4b9knVTVaY375k) | [Grupo En Califas](https://open.spotify.com/artist/2XD1avUsri0Gkf2IMX65wg), [Nuevo Instinto](https://open.spotify.com/artist/2wdVVyXvOHTQUVNGoa6svx) | [AVECES](https://open.spotify.com/album/0haRdZZiZmNiGVNsobpzrc) | 2:55 | 2026-04-03 | 2026-07-02 |
 | [Ay ay ay ay](https://open.spotify.com/track/2OuMgu1VHufFQ5O6rlAZp7) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Ay ay ay ay](https://open.spotify.com/album/5GHjQwbu3PxwXvL1y9nGIo) | 2:25 | 2024-11-08 | 2025-01-16 |
 | [Ay Corazon!](https://open.spotify.com/track/5gfMx3vviWcWPSRtoQYMX3) | [Kike Hernandez Y Su Dubai Norteño Banda](https://open.spotify.com/artist/56wFsanhJwb01r59rDTSFq) | [Ay Corazon!](https://open.spotify.com/album/4SIpc7JruiJB9ZyXTf14tK) | 2:50 | 2024-10-02 | 2025-01-16 |
@@ -195,7 +196,7 @@
 | [Donde Estás](https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás](https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb) | 4:09 | 2023-11-24 | 2024-04-24 |
 | [Donde Quedo](https://open.spotify.com/track/0dzmj4pj5TwDT0XLKTYhGh) | [Dorian Guerra](https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP), [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [Donde Quedo](https://open.spotify.com/album/7LtJMYubiIFSeKCpkghUiu) | 3:14 | 2025-01-15 | 2025-03-08 |
 | [dopa<3](https://open.spotify.com/track/78Ge5VisQAoe9pmfBpVHpM) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [dopa<3](https://open.spotify.com/album/46FijPCGXGk6RcDo6teQwj) | 3:21 | 2026-04-03 | 2026-04-25 |
-| [Dopamina](https://open.spotify.com/track/1zQFcUouiipsiuEfFimYsj) | [JJ](https://open.spotify.com/artist/2ZYToKsFXeLSnFSXMT35TD) | [Dopamina](https://open.spotify.com/album/1CJ9iPPbZUfJvRFGr6eFp6) | 2:16 | 2026-07-15 |  |
+| [Dopamina](https://open.spotify.com/track/1zQFcUouiipsiuEfFimYsj) | [JJ](https://open.spotify.com/artist/2ZYToKsFXeLSnFSXMT35TD) | [Dopamina](https://open.spotify.com/album/1CJ9iPPbZUfJvRFGr6eFp6) | 2:16 | 2026-07-15 | 2026-08-28 |
 | [Dos Días](https://open.spotify.com/track/5ZHhv2O4wkHFvAAHCN6qLK) | [Clave H3](https://open.spotify.com/artist/5Tpqlk5QURsE0t6JagFJOb) | [Dos Días](https://open.spotify.com/album/6xpfpTxmipwkLdvZMyJ6v7) | 2:52 | 2025-03-07 | 2025-05-31 |
 | [Dos Personalidades](https://open.spotify.com/track/4hxYhpt4TkZud1A8la5Rv7) | [Omar Martinez](https://open.spotify.com/artist/2C9WjeeVpbB6gcgJV6mDuS) | [Dos Personalidades](https://open.spotify.com/album/7kx3sd1RXfsJbOFLlNR5Eg) | 2:51 | 2026-04-03 | 2026-04-25 |
 | [Dos Uno Nueve \(219\)](https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:07 | 2022-05-13 | 2024-04-24 |
@@ -473,6 +474,7 @@
 | [Pacas](https://open.spotify.com/track/5Nw18lTAxikcxe7ejez64Q) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Pacas](https://open.spotify.com/album/6roohFaJt4zSikTAwN9N23) | 3:29 | 2025-01-15 | 2025-05-03 |
 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 | 2022-05-13 | 2024-04-24 |
 | [Palma Salazar](https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 3:00 | 2024-04-24 | 2024-08-08 |
+| [Panamá](https://open.spotify.com/track/016d9Tv8P3fuANlhZgpQK1) | [Axel Rodriguez](https://open.spotify.com/artist/7cXRTpLEXOagaIbnw0J0cB), [Luis Sandoval](https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0) | [Panamá](https://open.spotify.com/album/3ftm9tPAZLYpkECIkeVVwV) | 2:38 | 2026-08-28 |  |
 | [PAPA](https://open.spotify.com/track/1qC6lXfkDiC1Z0c44VB6PD) | [Eddie Lopez](https://open.spotify.com/artist/78lwxNkpmf48Md5SLVm3ib) | [PAPA](https://open.spotify.com/album/6o7vcr3hyVkGhDAg5cDY6G) | 3:31 | 2025-04-03 | 2025-06-21 |
 | [Para Qué Lastimarme](https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 2:55 | 2024-04-24 | 2024-08-08 |
 | [Para Todos Mis Paisanos](https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [La Maxima Banda de Mazatlan Sinaloa](https://open.spotify.com/artist/1jrlmT3OMCawrjyH20uoHf) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:13 | 2022-05-13 | 2024-04-24 |
@@ -490,7 +492,7 @@
 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 | 2026-06-10 | 2026-08-15 |
 | [Phantom](https://open.spotify.com/track/7BzapBrltAxadCwlj9uZke) | [Ian Ojeda](https://open.spotify.com/artist/3vCDzBP1fanLfEruKv9jtf) | [Phantom](https://open.spotify.com/album/6AvCG00VKzpSITzXm1LNoS) | 3:02 | 2024-09-18 | 2025-01-16 |
 | [Pharrel](https://open.spotify.com/track/4OIVWgXFkFU0mKBmOculnm) | [Danny Talavera](https://open.spotify.com/artist/3b60jobuT1yYigdrBhVlFV) | [Pharrel](https://open.spotify.com/album/0pmanb2jccrOzcOVSKSlzq) | 3:23 | 2024-08-07 | 2025-01-16 |
-| [PLACAS DE CHIHUAHUA](https://open.spotify.com/track/6ClYRRmCpeBOKasL9HIHMu) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [PLACAS DE CHIHUAHUA](https://open.spotify.com/album/3QDD3b5cwWQo5LMnWhG8SB) | 3:29 | 2026-07-15 |  |
+| [PLACAS DE CHIHUAHUA](https://open.spotify.com/track/6ClYRRmCpeBOKasL9HIHMu) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [PLACAS DE CHIHUAHUA](https://open.spotify.com/album/3QDD3b5cwWQo5LMnWhG8SB) | 3:29 | 2026-07-15 | 2026-08-28 |
 | [Placas de Sinaloa](https://open.spotify.com/track/6vHDKDSUO5RediqId3pMhm) | [Segunda Generacion](https://open.spotify.com/artist/3yV4XvqkbtSACqTZcp6uux) | [Placas de Sinaloa](https://open.spotify.com/album/1kwSCCnu3rMAGhWsMfSyGl) | 2:45 | 2024-09-18 | 2025-01-16 |
 | [Plan B](https://open.spotify.com/track/6prLB64chLph5L7FSiYsiV) | [ENANO](https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz) | [Plan B](https://open.spotify.com/album/3pljduvYLW3gKVATmAGx3i) | 2:51 | 2024-08-07 | 2024-10-03 |
 | [PLH \(Pa' los Haters\)](https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [PLH \(Pa' los Haters\)](https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA) | 2:43 | 2025-03-07 | 2025-05-31 |

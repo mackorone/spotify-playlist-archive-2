@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd cover: Fontaines D.C.",
+  "description": "The best new Irish music in one place \ud83d\udccd cover: Amble",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 209000,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/0zDh3nGjdZQUw4NVTVJiGe"
+    },
+    {
+      "album": {
+        "name": "Adam (Pacing in the Park)",
+        "url": "https://open.spotify.com/album/5ZH2K3pjPE3KZN0nBYHdMR"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141056,
+      "name": "Adam (Pacing in the Park)",
+      "url": "https://open.spotify.com/track/0GrsKde64dw2iX6Kqic29l"
     },
     {
       "album": {
@@ -878,7 +896,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 210152,
       "name": "Best of My Life",
       "url": "https://open.spotify.com/track/3QtC8qwynQY5foKoVKUOPE"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 227859,
       "name": "Blisters",
       "url": "https://open.spotify.com/track/1bUfw1HJqLmIA7CvDgN5kN"
@@ -2793,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "EURO-COUNTRY (Live at St Anne's)",
+        "url": "https://open.spotify.com/album/3CYWpfmNx4W5ESAWpIIJu6"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378773,
+      "name": "EURO-COUNTRY - Live at St Anne's",
+      "url": "https://open.spotify.com/track/6kuYdbZydyPC70IPBzx6XJ"
+    },
+    {
+      "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/6cIlRgrzjXGyTwSibBrvrZ"
       },
@@ -3138,6 +3174,24 @@
       "duration_ms": 262493,
       "name": "Fix Your Heart For Free",
       "url": "https://open.spotify.com/track/4vFwTZPdreC3ErXLKkOmKy"
+    },
+    {
+      "album": {
+        "name": "Focus On Me",
+        "url": "https://open.spotify.com/album/0iVG1pezIrWUPeBY9atrVt"
+      },
+      "artists": [
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Focus On Me",
+      "url": "https://open.spotify.com/track/1LoHme3aHFjg6nVP41BZoU"
     },
     {
       "album": {
@@ -4858,7 +4912,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213356,
       "name": "Life I Chose",
       "url": "https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0"
@@ -5384,7 +5438,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174750,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/3t9iaqvxjbVEcUMvKEux9X"
@@ -7872,7 +7926,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173538,
       "name": "SPLINTER",
       "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
@@ -8146,7 +8200,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 166285,
       "name": "Stushhh",
       "url": "https://open.spotify.com/track/4Y4fz9BQS9r9o78KCwlT4g"
@@ -8244,6 +8298,32 @@
       "duration_ms": 196700,
       "name": "Supermum!",
       "url": "https://open.spotify.com/track/02CaCPaW8wzDT10YbkueCG"
+    },
+    {
+      "album": {
+        "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
+        "url": "https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        },
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        },
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
+      "url": "https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq"
     },
     {
       "album": {
@@ -8946,6 +9026,24 @@
       "duration_ms": 183480,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/771HRrgwxTS63wbwsEvi9r"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/0wjHuD4BZvjbYugs3PduLv"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166497,
+      "name": "Told Ya So",
+      "url": "https://open.spotify.com/track/6AseZHOFyTDDnIyI2gqq9S"
     },
     {
       "album": {
@@ -9852,6 +9950,28 @@
       "duration_ms": 216610,
       "name": "Wretched",
       "url": "https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ"
+    },
+    {
+      "album": {
+        "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+        "url": "https://open.spotify.com/album/4NG6QjqKiqupWuhAarIetU"
+      },
+      "artists": [
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204690,
+      "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+      "url": "https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf"
     },
     {
       "album": {

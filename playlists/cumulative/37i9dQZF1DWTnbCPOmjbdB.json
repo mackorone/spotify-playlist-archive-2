@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: sanah",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Mrozu, Kacperczyk",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155076,
       "name": "Bez ko\u0144ca",
       "url": "https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194331,
       "name": "By\u0142y momenty",
       "url": "https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172852,
       "name": "Cztery pory roku",
       "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
@@ -4995,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "GirlZ",
+        "url": "https://open.spotify.com/album/5H1nqK1v6gQjpyHinbdK0i"
+      },
+      "artists": [
+        {
+          "name": "GirlZ",
+          "url": "https://open.spotify.com/artist/43wtvko5zeW4a9FIu7T6Ms"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "GirlZ",
+      "url": "https://open.spotify.com/track/5SYWhF4CbPIYDRxh4S6Aor"
+    },
+    {
+      "album": {
         "name": "GOD DAMN",
         "url": "https://open.spotify.com/album/1T2xXdMigMZQ2ANvVwdkWh"
       },
@@ -5090,7 +5108,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 175364,
       "name": "Gotham",
       "url": "https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe"
@@ -5276,7 +5294,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 230547,
       "name": "Halina",
       "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
@@ -7821,6 +7839,24 @@
     },
     {
       "album": {
+        "name": "LOT",
+        "url": "https://open.spotify.com/album/6MiCXhjKttU1iurCMYMc7S"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169008,
+      "name": "LOT",
+      "url": "https://open.spotify.com/track/0A9VVbdNzuSBsBm2XoQEEr"
+    },
+    {
+      "album": {
         "name": "love song sad",
         "url": "https://open.spotify.com/album/6Hh6nEb6skP7BkO3bZ0caO"
       },
@@ -8438,6 +8474,24 @@
       "duration_ms": 202263,
       "name": "Ma\u0142go\u015bka",
       "url": "https://open.spotify.com/track/1rTIdJlLHR60adzUKtjjAr"
+    },
+    {
+      "album": {
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/36PV8B8bq0qrzQucOInK7Q"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132368,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/7n4pSiLCu98jkAHzH1zYoM"
     },
     {
       "album": {
@@ -10111,6 +10165,28 @@
     },
     {
       "album": {
+        "name": "NIC NA P\u00d3\u0141",
+        "url": "https://open.spotify.com/album/6bykYkyjOhAIYxsKQ4iLBV"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kara\u015b",
+          "url": "https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I"
+        },
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181640,
+      "name": "NIC NA P\u00d3\u0141",
+      "url": "https://open.spotify.com/track/26xxuDJUOIpOSqODQDhf8b"
+    },
+    {
+      "album": {
         "name": "Nic Nie Czuj\u0119",
         "url": "https://open.spotify.com/album/6NiyA1EKIlMdYeV7v7jXiz"
       },
@@ -10430,6 +10506,32 @@
       "duration_ms": 145555,
       "name": "Nie musisz si\u0119 ba\u0107",
       "url": "https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2"
+    },
+    {
+      "album": {
+        "name": "Nie musz\u0119 udawa\u0107",
+        "url": "https://open.spotify.com/album/7fOwMj9KZEaaq6iAn4MPtW"
+      },
+      "artists": [
+        {
+          "name": "Zuzia Ma\u0142aj",
+          "url": "https://open.spotify.com/artist/0eTrgCpiEtWyaQ5sR73h8L"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        },
+        {
+          "name": "Krystian Piotrak",
+          "url": "https://open.spotify.com/artist/4kBiE0S3ecFv46gWbLDwjf"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146766,
+      "name": "Nie musz\u0119 udawa\u0107",
+      "url": "https://open.spotify.com/track/0wN4h1bIlVY2a3ID4ty7DM"
     },
     {
       "album": {
@@ -10838,7 +10940,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 237000,
       "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
       "url": "https://open.spotify.com/track/3FdtNDLwfHRaStWQzCdXsQ"
@@ -11002,7 +11104,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153823,
       "name": "NIEWINNA",
       "url": "https://open.spotify.com/track/5euzxxwtFMHFIzL1PXbuEs"
@@ -15135,6 +15237,28 @@
     },
     {
       "album": {
+        "name": "SYRENY",
+        "url": "https://open.spotify.com/album/3ayp6W3sexpcTIMl7RhBRU"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176554,
+      "name": "SYRENY",
+      "url": "https://open.spotify.com/track/2moIgh6lTs6D6kICWX8370"
+    },
+    {
+      "album": {
         "name": "Szach i mat",
         "url": "https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh"
       },
@@ -15484,6 +15608,24 @@
       "duration_ms": 157528,
       "name": "s\u0142owa na K",
       "url": "https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K"
+    },
+    {
+      "album": {
+        "name": "S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/3s8WqPOFJ7RVFH0apHDV35"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145589,
+      "name": "S\u0142o\u0144ca",
+      "url": "https://open.spotify.com/track/2ftSQAOTflSTjSYs3GUpw0"
     },
     {
       "album": {
@@ -15911,6 +16053,24 @@
     },
     {
       "album": {
+        "name": "Ta\u0144cz i kochaj",
+        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173454,
+      "name": "Ta\u0144cz i kochaj",
+      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
+    },
+    {
+      "album": {
         "name": "Ta\u0144cz Jak Ci Zagram",
         "url": "https://open.spotify.com/album/5YvtzlS00KhxShFbbM5EEi"
       },
@@ -16112,7 +16272,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 241395,
       "name": "Terapia dla par",
       "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
@@ -18153,6 +18313,28 @@
     },
     {
       "album": {
+        "name": "Wszystko czego chcia\u0142em",
+        "url": "https://open.spotify.com/album/5yhKIde9TfIEagW0vGit7k"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196848,
+      "name": "Wszystko czego chcia\u0142em",
+      "url": "https://open.spotify.com/track/3xdcxFoFWwEUVpobxZz8wG"
+    },
+    {
+      "album": {
         "name": "pele-mele",
         "url": "https://open.spotify.com/album/445NbCN6D81ShHmKjbmFiz"
       },
@@ -18266,7 +18448,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192765,
       "name": "Wychowany W Polsce",
       "url": "https://open.spotify.com/track/0LP4AQrZa67uS5rV8XgFlg"

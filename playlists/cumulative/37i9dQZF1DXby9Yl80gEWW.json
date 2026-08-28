@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "No words, just chops. Cover: Matt Combs",
+  "description": "No words, just chops. Cover: Bryan Sutton",
   "name": "Instrumental Bluegrass",
   "tracks": [
     {
@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 217733,
       "name": "Live Rosin",
       "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
@@ -4142,6 +4142,24 @@
       "duration_ms": 214840,
       "name": "Neighbor Mike",
       "url": "https://open.spotify.com/track/4KtXTRp1LjJxyno1sAK49G"
+    },
+    {
+      "album": {
+        "name": "New Horse and Buggy",
+        "url": "https://open.spotify.com/album/3RUN8CLFsX4DqiLDj2KQwe"
+      },
+      "artists": [
+        {
+          "name": "Section House",
+          "url": "https://open.spotify.com/artist/0xa4Lsbu38MiMoIQYk9Quv"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246106,
+      "name": "New Horse and Buggy",
+      "url": "https://open.spotify.com/track/3RvZrR6xrKxejArqUPke4o"
     },
     {
       "album": {
@@ -4806,7 +4824,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 250133,
       "name": "Road Mode",
       "url": "https://open.spotify.com/track/3oXtpqFucWUkXUmL36PNA0"
@@ -5562,6 +5580,28 @@
       "duration_ms": 212457,
       "name": "Stoppin' and a Startin'",
       "url": "https://open.spotify.com/track/6JCSEYNAnG1E4UzHRmKhQP"
+    },
+    {
+      "album": {
+        "name": "From Roots to Branches (Vol. 1)",
+        "url": "https://open.spotify.com/album/5dtXyF3i411ErXlefCN46Z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Storms Are On the Ocean",
+      "url": "https://open.spotify.com/track/5Czg7jSVpQMl6TCTshJ6Ev"
     },
     {
       "album": {

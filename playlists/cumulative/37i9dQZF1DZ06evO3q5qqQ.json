@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 179733,
       "name": "El Rey Del Desierto",
       "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
@@ -1904,6 +1904,24 @@
       "duration_ms": 184957,
       "name": "Jimenez",
       "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
+    },
+    {
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184957,
+      "name": "Jim\u00e9nez",
+      "url": "https://open.spotify.com/track/2dSA46CcqwT2jtXZPWjVak"
     },
     {
       "album": {

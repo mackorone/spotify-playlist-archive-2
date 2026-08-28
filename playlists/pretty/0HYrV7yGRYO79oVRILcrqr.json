@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMTINFnKrCnGq29PL+tMlqSF9hYfxl",
+  "snapshot_id": "AAAMT0lRAvIvdVzW/B0Dl2Jr5GK6P05F",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/0G74mEK1JrsmXCElWi2Juv"
     },
     {
+      "added_at": "2026-08-27 14:26:30",
+      "album": {
+        "name": "Where Is She Now?",
+        "url": "https://open.spotify.com/album/5UJjRl7i07a3XG1sAgcy72"
+      },
+      "artists": [
+        {
+          "name": "Jaded Memory",
+          "url": "https://open.spotify.com/artist/0alnEO2EJlIGozaDXc2VxQ"
+        }
+      ],
+      "duration_ms": 231223,
+      "name": "Where Is She Now?",
+      "url": "https://open.spotify.com/track/6jBBodGWMRO6tVI5I9obrq"
+    },
+    {
       "added_at": "2026-07-25 08:15:53",
       "album": {
         "name": "God Complex",
@@ -331,6 +347,26 @@
       "duration_ms": 321703,
       "name": "Red Sea",
       "url": "https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB"
+    },
+    {
+      "added_at": "2026-08-27 14:27:26",
+      "album": {
+        "name": "Till Death Parts Us",
+        "url": "https://open.spotify.com/album/6I9dVel8cyK5qwEhjq5BIb"
+      },
+      "artists": [
+        {
+          "name": "Beyond Disdain",
+          "url": "https://open.spotify.com/artist/2MpVNPYFczBeNjPXePyVB4"
+        },
+        {
+          "name": "Selene Calder",
+          "url": "https://open.spotify.com/artist/6ol142WWS5UFXOVXQ6hRs3"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Lost Inside The Sound",
+      "url": "https://open.spotify.com/track/5hvZynQUpMYVnKV0H6yM5C"
     },
     {
       "added_at": "2026-03-15 14:35:45",
@@ -1323,6 +1359,22 @@
       "duration_ms": 203855,
       "name": "THE ROAR",
       "url": "https://open.spotify.com/track/6Xv112AXvwY5Mo5dzvVSLS"
+    },
+    {
+      "added_at": "2026-08-27 11:01:45",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y"
+      },
+      "artists": [
+        {
+          "name": "The Dark Wave",
+          "url": "https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr"
+        }
+      ],
+      "duration_ms": 489770,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

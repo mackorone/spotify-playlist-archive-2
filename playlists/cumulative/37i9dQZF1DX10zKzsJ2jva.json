@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: KAROL G, Judeline, rusowsky",
+  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Natanael Cano",
   "name": "Viva Latino",
   "tracks": [
     {
@@ -12719,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
+    },
+    {
+      "album": {
         "name": "Marbella",
         "url": "https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX"
       },
@@ -12932,7 +12950,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 167812,
       "name": "Matcha Latte",
       "url": "https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY"

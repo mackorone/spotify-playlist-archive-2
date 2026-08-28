@@ -6325,6 +6325,28 @@
     },
     {
       "album": {
+        "name": "Perd\u00ed la Fe",
+        "url": "https://open.spotify.com/album/7kxJkGQIAqaYuXy2PBGCpN"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        },
+        {
+          "name": "Walas",
+          "url": "https://open.spotify.com/artist/1vn1P4IIBrr7MB0glpcYJc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235756,
+      "name": "Perd\u00ed la Fe",
+      "url": "https://open.spotify.com/track/4c4Zc4mLY8pgv6dSjAFvfL"
+    },
+    {
+      "album": {
         "name": "Covers en Fase 1",
         "url": "https://open.spotify.com/album/6QgdtzyhmigYYMh5ZiMiuc"
       },
@@ -8682,7 +8704,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 243570,
       "name": "Una Vida M\u00e1s",
       "url": "https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y"

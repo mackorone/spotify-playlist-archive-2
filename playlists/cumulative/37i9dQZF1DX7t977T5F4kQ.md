@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover:   Lasmid
+> The hottest and recent Ghana party starters\. Cover:   KiDi
 
-708 songs - 1 day 11 hr 56 min
+712 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 | 2024-05-03 | 2026-05-08 |
 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 | 2022-11-04 | 2024-03-15 |
 | [Friends](https://open.spotify.com/track/0n01Jo84IjPVepCtZ6ZFnr) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Friends](https://open.spotify.com/album/6sgJbJLPVdIEMOw1xVivHN) | 2:54 | 2024-02-23 | 2024-09-07 |
+| [From Far](https://open.spotify.com/track/203RUz4pnlsKiefaRFPnyy) | [Alorman](https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8), [Global boga](https://open.spotify.com/artist/3BRuJOY9IHkCagNPOjEvVV) | [From Far](https://open.spotify.com/album/2Ah3LuqCLuFZzBVrY60wGr) | 2:22 | 2026-08-28 |  |
 | [From Osu](https://open.spotify.com/track/6V6uaUFRJD73rWx5bjujan) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [From Osu](https://open.spotify.com/album/1qEx9aEwX3lrz0EX3Oro8z) | 3:24 | 2023-02-09 | 2023-02-24 |
 | [Game Over](https://open.spotify.com/track/2Nhk8yilokkaKKgWX1FtTL) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Game Over](https://open.spotify.com/album/2IKB7t0Km4iR0YCxHihynL) | 3:03 | 2026-03-27 | 2026-04-03 |
 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 | 2022-11-04 | 2023-01-28 |
@@ -310,6 +311,7 @@
 | [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 | 2025-01-31 | 2025-02-22 |
 | [I Want](https://open.spotify.com/track/3D2zP0zJA2GbpMlxBPfQWy) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [I Want](https://open.spotify.com/album/2Ij6kBFCbkv5u0U9xDqoNg) | 3:28 | 2024-12-13 | 2025-08-09 |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-02-24 |
+| [IDK \(with Sarkodie\)](https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:23 | 2026-08-28 |  |
 | [Insecure](https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Adwoa](https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Insecure](https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp) | 3:53 | 2024-08-02 | 2024-10-05 |
 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 | 2023-11-17 | 2023-11-24 |
 | [Instagram](https://open.spotify.com/track/20CAgdje1ZVFOWVfbmcfKz) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Instagram](https://open.spotify.com/album/1tsVClrlI60hyL2C9kBpMZ) | 2:39 | 2025-10-24 | 2025-11-28 |
@@ -666,6 +668,7 @@
 | [Waiting](https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Waiting](https://open.spotify.com/album/6pAQ4Fxuk9b4uymswdIJ3z) | 3:23 | 2022-11-04 | 2023-05-13 |
 | [Walk & Move](https://open.spotify.com/track/7MMmZ6Ja9JmKyFSKZhziPh) | [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT), [Medikal](https://open.spotify.com/artist/2wpnYzhgnEsbHSgrtKZAgN) | [Walk & Move](https://open.spotify.com/album/5EBU07bXqlYhKWtwmZ4Wa6) | 3:36 | 2023-12-22 | 2024-01-13 |
 | [Wash](https://open.spotify.com/track/68oHERGzh4T91Po4WYjz2k) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Wash](https://open.spotify.com/album/5L4ALYCh557ihUVxHiG27b) | 2:43 | 2024-11-15 | 2025-07-11 |
+| [We Go](https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [We Go](https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba) | 2:53 | 2026-08-28 |  |
 | [WEATHER FOR 2](https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [WEATHER FOR 2](https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX) | 2:55 | 2026-04-03 |  |
 | [Webkid \(Shatta Music\)](https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Webkid \(Shatta Music\)](https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh) | 2:17 | 2026-05-29 | 2026-06-19 |
 | [WELCOME TO AFRICA](https://open.spotify.com/track/5I9E9qA5slBlMRZDruIsoG) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [WELCOME TO AFRICA](https://open.spotify.com/album/7CNEJPuvPvESDraHQv1o4l) | 3:02 | 2025-04-07 | 2025-06-06 |
@@ -686,6 +689,7 @@
 | [Woman](https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Woman](https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA) | 2:00 | 2023-03-17 | 2023-04-21 |
 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 | 2024-08-02 | 2026-08-21 |
 | [Wonderful Time](https://open.spotify.com/track/6014ETfFg8Xc1tlxZSaCMc) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm), [Benty](https://open.spotify.com/artist/3gJSud2qrIBrwHCKHP6A0S) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 2:50 | 2023-11-10 | 2023-12-02 |
+| [Wonti](https://open.spotify.com/track/2dlsncrlurYOmMHgBdftN4) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Wonti](https://open.spotify.com/album/5nlI5sQed4837qKtGrODtl) | 2:51 | 2026-08-28 |  |
 | [Work Before You Marry](https://open.spotify.com/track/5aTWchFSWm5MPwa9YrOHNd) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Work Before You Marry](https://open.spotify.com/album/5p01llKUtN4M8TKLnc7yty) | 4:49 | 2026-07-31 | 2026-08-07 |
 | [Wossop](https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KWW](https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:50 | 2023-09-14 | 2023-10-27 |
 | [Wotowei](https://open.spotify.com/track/5WogbNJtB9CgpD4T0zGpmj) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Wotowei](https://open.spotify.com/album/07CaU9TdU8Yl3mRkwLH1w4) | 3:27 | 2024-04-26 | 2024-10-26 |

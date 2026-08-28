@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Noon Liquid Ore",
+        "url": "https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265312,
+      "name": "Noon Liquid Ore",
+      "url": "https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw"
+    },
+    {
+      "album": {
         "name": "Cloud Time",
         "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },

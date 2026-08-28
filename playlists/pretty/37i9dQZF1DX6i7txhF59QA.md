@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,974 likes - 133 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,976 likes - 133 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 19 | [Drink Makgeolli](https://open.spotify.com/track/1RwZWVU3f6L0votFsPZ6Sc) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Music source of Mr\. Trot Death match Part1](https://open.spotify.com/album/5GuLmPGu6HMl6uyKVYTDE2) | 3:20 |
 | 20 | [한잔해](https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [한잔해](https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q) | 3:19 |
 | 21 | [내 나이가 어때서](https://open.spotify.com/track/7ESq2ZGhHOdvtuA96W2e6E) | [오승근](https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg) | [오승근 Special \`내 나이가 어때서\`](https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be) | 3:19 |
-| 22 | [아파트](https://open.spotify.com/track/4zmR4uqdTzqAU2tkifS0p8) | [Yoon Sooil](https://open.spotify.com/artist/4EbQDafTmGSL1mVsnlqu99) | [윤수일 35주년 기념 라이브 앨범](https://open.spotify.com/album/7tgP00py7iogjjccONQgmT) | 3:57 |
+| 22 | [You know my name.](https://open.spotify.com/track/4yAQHHovFyOgA3gdX21joV) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Drama](https://open.spotify.com/album/5hpSrG3EM6R71oRuoVcc7B) | 3:34 |
 | 23 | [Girl next door](https://open.spotify.com/track/3HdLXpJla7NJE6mPATwjdu) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Cho young soo All star \- Jang yoon joeng](https://open.spotify.com/album/18KzXcZdFUA6NjfFLp38Bt) | 2:53 |
-| 24 | [You know my name.](https://open.spotify.com/track/4yAQHHovFyOgA3gdX21joV) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Drama](https://open.spotify.com/album/5hpSrG3EM6R71oRuoVcc7B) | 3:34 |
+| 24 | [아파트](https://open.spotify.com/track/4zmR4uqdTzqAU2tkifS0p8) | [Yoon Sooil](https://open.spotify.com/artist/4EbQDafTmGSL1mVsnlqu99) | [윤수일 35주년 기념 라이브 앨범](https://open.spotify.com/album/7tgP00py7iogjjccONQgmT) | 3:57 |
 | 25 | [테스형!](https://open.spotify.com/track/57oDPVvNldgc6setk832Ev) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [아홉 이야기](https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2) | 4:38 |
-| 26 | [Unconditional Love](https://open.spotify.com/track/3cT2vpdepdJ35CXTu1MrHV) | [Park Sang\-Chul](https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt) | [Bang Bang](https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ) | 3:35 |
-| 27 | [The Sound of the Hidden Wind](https://open.spotify.com/track/59oLwdB70Dl1fzqhk7Ilkg) | [Jeon Yu Jin](https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G) | [Queen of Diva Final 1 Round](https://open.spotify.com/album/3Er2afCA1SMJY7pJEgUlzW) | 4:39 |
-| 28 | [Story of old couple in their 60s](https://open.spotify.com/track/3Qdv7Uffc3UG3IarM9RhzD) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 4:52 |
-| 29 | [The man says](https://open.spotify.com/track/0eq6UmvJKyuyfC2hrqgd6t) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Drama](https://open.spotify.com/album/5hpSrG3EM6R71oRuoVcc7B) | 3:17 |
+| 26 | [The Sound of the Hidden Wind](https://open.spotify.com/track/59oLwdB70Dl1fzqhk7Ilkg) | [Jeon Yu Jin](https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G) | [Queen of Diva Final 1 Round](https://open.spotify.com/album/3Er2afCA1SMJY7pJEgUlzW) | 4:39 |
+| 27 | [Unconditional Love](https://open.spotify.com/track/3cT2vpdepdJ35CXTu1MrHV) | [Park Sang\-Chul](https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt) | [Bang Bang](https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ) | 3:35 |
+| 28 | [The man says](https://open.spotify.com/track/0eq6UmvJKyuyfC2hrqgd6t) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Drama](https://open.spotify.com/album/5hpSrG3EM6R71oRuoVcc7B) | 3:17 |
+| 29 | [Story of old couple in their 60s](https://open.spotify.com/track/3Qdv7Uffc3UG3IarM9RhzD) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 4:52 |
 | 30 | [White space](https://open.spotify.com/track/2bquds3iXdFCEdb1BOJp1D) | [JD1](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 4:32 |
 | 31 | [Journey of Life](https://open.spotify.com/track/4yFYLVqyx0MBBAfDhXqnN8) | [김범룡](https://open.spotify.com/artist/3MZvm7q6VKYUPElvBNeZt5) | [Kim Bum Ryoung 9th](https://open.spotify.com/album/5rxhwvD2QQ58xXFDG2UC4M) | 3:48 |
 | 32 | [녹아 버려요](https://open.spotify.com/track/1qbYnqgwQiZF7SrxJhXilC) | [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q) | [녹아 버려요](https://open.spotify.com/album/2UYDfIKtw0jCCy4KnfIjWY) | 3:00 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 35 | [Together in the rain](https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb) | [Oh Seungeun](https://open.spotify.com/artist/7nCfLz9ZdOnTkH5PW4IWqy), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:19 |
 | 36 | [당신이 좋아](https://open.spotify.com/track/2QgR7TCIRFXFfqOCwGOg0Q) | [Nam Jin](https://open.spotify.com/artist/5XrrlC9b4hEqTo4nCyPQMD), [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [당신이 좋아](https://open.spotify.com/album/09b7s2lilqVaExzzpQK2DK) | 3:12 |
 | 37 | [Hongsi](https://open.spotify.com/track/3DsnqqxQK6ZIDNDzT0EBdv) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [Na Hoon\-A\- 40th Anniverary Special Project Album](https://open.spotify.com/album/0gkUK3I9PqrIwOMwPX2hS2) | 4:22 |
-| 38 | [이 오빠 뭐야](https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:38 |
+| 38 | [나 아직도](https://open.spotify.com/track/79IoiksWQGZ9rycottA25F) | [김용빈](https://open.spotify.com/artist/2d95bgFYINWNTT3Xlog8Wq) | [나 아직도 / 사랑은 어떻게 생겼을까](https://open.spotify.com/album/3yOUdYvwbmf9PpFoqn0G3I) | 3:35 |
 | 39 | [LOVE IS A FLOWER OF LIFE](https://open.spotify.com/track/1TncfbVa7r8xGksPcOYAEp) | [Jeon Yu Jin](https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 3:06 |
-| 40 | [나 아직도](https://open.spotify.com/track/79IoiksWQGZ9rycottA25F) | [김용빈](https://open.spotify.com/artist/2d95bgFYINWNTT3Xlog8Wq) | [나 아직도 / 사랑은 어떻게 생겼을까](https://open.spotify.com/album/3yOUdYvwbmf9PpFoqn0G3I) | 3:35 |
+| 40 | [이 오빠 뭐야](https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:38 |
 | 41 | [Star Star](https://open.spotify.com/track/1VsJ7Bc2Q83Mhz4LyYMmbK) | [Park Seo Jin](https://open.spotify.com/artist/0mnHyTjHaxIAHVlAidU4tH) | ['It Turned out to be a Coma' Music Festival Winner's Benefit Song](https://open.spotify.com/album/44I1HV1oISN0sgjWy6Fol7) | 3:36 |
 | 42 | [Farewell](https://open.spotify.com/track/2cmTmBKmHym9ZAobuY4U3o) | [Kim Yong Bin](https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l) | [Music Source of Mr\. Trot3 1:1 Death Match Best PART1](https://open.spotify.com/album/4GvjlvojwEYSC6njbEdJo3) | 4:52 |
 | 43 | [Gijang\`s Seagull](https://open.spotify.com/track/6ZQa2BoO4nbOpgBSUdzrAF) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [DAWN \(SIX STORIES\)](https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE) | 3:20 |

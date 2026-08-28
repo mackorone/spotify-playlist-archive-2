@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,872 songs - 3 day 10 hr 57 min
+1,873 songs - 3 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1205,6 +1205,7 @@
 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 | 2020-08-04 | 2020-09-22 |
 | [Places](https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Places](https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI) | 2:34 | 2022-02-23 | 2022-12-21 |
 | [Plana](https://open.spotify.com/track/5EgicUflBxJWed0lriJNBz) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Plana](https://open.spotify.com/album/1h4kOi7wn2tcW8O4sMRbwg) | 2:25 | 2019-11-05 | 2019-11-19 |
+| [Playthings](https://open.spotify.com/track/2OyKrptIfiqSpCHwA7ACq6) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Playthings](https://open.spotify.com/album/15kxzNNlRkyD7CXozThaLm) | 2:51 | 2026-08-28 |  |
 | [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 | 2025-08-11 |  |
 | [Plus tôt](https://open.spotify.com/track/3ODEuZjfxec5fYnzVhxANv) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Plus tôt](https://open.spotify.com/album/4ukvU27yDBfmArCFR3tY2C) | 2:59 | 2019-05-26\* | 2020-09-30 |
 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 | 2023-01-27 |  |

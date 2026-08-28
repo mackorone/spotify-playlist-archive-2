@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "nate sib debut album let's goooooooo",
+  "description": "i just want a bit of your unlimited love",
   "name": "hyperpop",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 196346,
       "name": "!holyshitohmygod!",
       "url": "https://open.spotify.com/track/1g4MzzjfEXfWMYm3ps5KrI"
+    },
+    {
+      "album": {
+        "name": "#BirminghamBloodPop",
+        "url": "https://open.spotify.com/album/1kcT2lT9SeMrznYdiudp4s"
+      },
+      "artists": [
+        {
+          "name": "soma",
+          "url": "https://open.spotify.com/artist/4tRJBnwPRhJ4BHHJBN3sAE"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100699,
+      "name": "#BirminghamBloodPop",
+      "url": "https://open.spotify.com/track/19LKgK2s53p3tvrAGO1ZAd"
     },
     {
       "album": {
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172561,
       "name": "Anatom\u00eda de una Estrella",
       "url": "https://open.spotify.com/track/3ZTSAooAGNyzUenM5HywI3"
@@ -4556,7 +4574,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 163506,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
@@ -4870,6 +4888,24 @@
       "duration_ms": 168989,
       "name": "Barbie Boy (feat. Sega Bodega)",
       "url": "https://open.spotify.com/track/4De1jeFZD6rnQ6USCrh6jT"
+    },
+    {
+      "album": {
+        "name": "Basic",
+        "url": "https://open.spotify.com/album/0QHMpKv0f9MNQQZW5Y6xkx"
+      },
+      "artists": [
+        {
+          "name": "Isla Den",
+          "url": "https://open.spotify.com/artist/2kF8VjhAZ6auoV6JTzIhDJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168752,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/41PiHjimowyh2xomHlzHx0"
     },
     {
       "album": {
@@ -14544,7 +14580,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174000,
       "name": "electrolove",
       "url": "https://open.spotify.com/track/3zC7QYV0nUVz6kpXG8TkDH"
@@ -15810,7 +15846,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 207434,
       "name": "Fail-safe",
       "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
@@ -21720,7 +21756,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 127843,
       "name": "Heels broke = died",
       "url": "https://open.spotify.com/track/1nVg0Xk8QSIQZQHuHRrTaU"
@@ -21792,7 +21828,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 114433,
       "name": "Help yourself",
       "url": "https://open.spotify.com/track/3JgghBKxODNtJObyjENI4S"
@@ -24502,6 +24538,24 @@
       "duration_ms": 186638,
       "name": "i'm alright",
       "url": "https://open.spotify.com/track/7hm5iC3jHriPEtqQtyn6BX"
+    },
+    {
+      "album": {
+        "name": "Everyday, Everything Is At Stake",
+        "url": "https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj"
+      },
+      "artists": [
+        {
+          "name": "Thoom",
+          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "I'm Going Back to Lebanon",
+      "url": "https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ"
     },
     {
       "album": {
@@ -28537,6 +28591,28 @@
     },
     {
       "album": {
+        "name": "Let Luv",
+        "url": "https://open.spotify.com/album/5etvJRZCUzllfosHMGPWGz"
+      },
+      "artists": [
+        {
+          "name": "Kenan Ki\u00e1n",
+          "url": "https://open.spotify.com/artist/0BAXn33cmNZb3pgDJx4cuO"
+        },
+        {
+          "name": "Meg Ward",
+          "url": "https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182686,
+      "name": "Let Luv",
+      "url": "https://open.spotify.com/track/51ZNNmfiqlXdNdXCaOPUK0"
+    },
+    {
+      "album": {
         "name": "the long halloween",
         "url": "https://open.spotify.com/album/1AKwe9Ib9H2xHAr9K3Wr52"
       },
@@ -29052,7 +29128,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 122538,
       "name": "Like, all night",
       "url": "https://open.spotify.com/track/7qUs4oO95iIyAezE3qUirS"
@@ -29860,7 +29936,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 159313,
       "name": "LOVE ME HATE ME",
       "url": "https://open.spotify.com/track/7yzqOucDjWGlL3Zsjd6YxW"
@@ -30116,6 +30192,24 @@
       "duration_ms": 169865,
       "name": "lucifer",
       "url": "https://open.spotify.com/track/3uDLnvGX8VXZ2RcIAR686F"
+    },
+    {
+      "album": {
+        "name": "Lucky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "Lucky - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
     },
     {
       "album": {
@@ -30760,6 +30854,24 @@
       "duration_ms": 152523,
       "name": "MAKE IT DROP!",
       "url": "https://open.spotify.com/track/3Nx1EaVXgNSGSLeQ3nHb87"
+    },
+    {
+      "album": {
+        "name": "Make It Rain",
+        "url": "https://open.spotify.com/album/16ff3pBtVlIQixTs71nP6Q"
+      },
+      "artists": [
+        {
+          "name": "katie MAC",
+          "url": "https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/5ta5ePNdJgwIANO9Dwuau3"
     },
     {
       "album": {
@@ -33391,6 +33503,24 @@
     },
     {
       "album": {
+        "name": "Myriad Reflector",
+        "url": "https://open.spotify.com/album/7JEEAscH1dvsz0dr6lCEXV"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198509,
+      "name": "Myriad Reflector",
+      "url": "https://open.spotify.com/track/3IHVJz2gCt9U9goWpG4hcb"
+    },
+    {
+      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -34144,7 +34274,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 135446,
       "name": "niterush",
       "url": "https://open.spotify.com/track/1xQMe8qRq31Sklgh9CukHd"
@@ -41452,7 +41582,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 136875,
       "name": "SADDLE",
       "url": "https://open.spotify.com/track/2pnjtDco9oQZZyokWM7Nue"
@@ -43416,7 +43546,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 161502,
       "name": "Shutting Up",
       "url": "https://open.spotify.com/track/6Nv3YIAjAcakczsJafMv0C"
@@ -46590,7 +46720,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 164636,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb"
@@ -48791,6 +48921,28 @@
     },
     {
       "album": {
+        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236043,
+      "name": "The Peace - Frost Children Remix",
+      "url": "https://open.spotify.com/track/5JYnDZ4TbzXbWeKu7gkVTj"
+    },
+    {
+      "album": {
         "name": "THE PPL I'VE BEEN",
         "url": "https://open.spotify.com/album/1cjPQ1igIHWCB7SiL30fXW"
       },
@@ -49452,6 +49604,24 @@
       "duration_ms": 178971,
       "name": "Tic Tac Toe",
       "url": "https://open.spotify.com/track/3pLV6EZ231JaaLWjkB6m02"
+    },
+    {
+      "album": {
+        "name": "Bangs N Braces",
+        "url": "https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt"
+      },
+      "artists": [
+        {
+          "name": "iKeda",
+          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165708,
+      "name": "Tiger Tiger",
+      "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
     },
     {
       "album": {
@@ -51235,6 +51405,24 @@
     },
     {
       "album": {
+        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252461,
+      "name": "Unlimited Love",
+      "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
+    },
+    {
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -51568,6 +51756,28 @@
       "duration_ms": 136050,
       "name": "urgent",
       "url": "https://open.spotify.com/track/2PgYKZXLezQxPJmfPOuL9r"
+    },
+    {
+      "album": {
+        "name": "ustala",
+        "url": "https://open.spotify.com/album/3Z45jEDqc11ohiqoXQVnzD"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108250,
+      "name": "ustala",
+      "url": "https://open.spotify.com/track/295wKPUbb60XIRdXA3AvcA"
     },
     {
       "album": {
@@ -53366,6 +53576,24 @@
       "duration_ms": 189051,
       "name": "Whole Ride",
       "url": "https://open.spotify.com/track/2yzcgUVoSdZxakgaETRX3r"
+    },
+    {
+      "album": {
+        "name": "WHOLE WORLD",
+        "url": "https://open.spotify.com/album/18nctK7LxAanfBKYNhl7lM"
+      },
+      "artists": [
+        {
+          "name": "Angel Rider",
+          "url": "https://open.spotify.com/artist/1Hg3ptKN8VnSAC5TQ5MlEA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188294,
+      "name": "WHOLE WORLD",
+      "url": "https://open.spotify.com/track/5V0MbUqdi6rSRbJMn8Crrv"
     },
     {
       "album": {

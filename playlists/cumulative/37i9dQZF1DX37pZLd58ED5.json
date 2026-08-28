@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Hai mai?",
+        "url": "https://open.spotify.com/album/3ildD9tG7YNONEKsgonGWk"
+      },
+      "artists": [
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145499,
+      "name": "Hai mai?",
+      "url": "https://open.spotify.com/track/7yVsKau8TBSfmjvcsN9FFF"
+    },
+    {
+      "album": {
         "name": "HENTAI",
         "url": "https://open.spotify.com/album/42ShFYmtP5FERkIYZOrMPq"
       },
@@ -8238,7 +8256,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 188500,
       "name": "\u3064\u3065\u304f(passer\u00e0) (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/231agvY1iOEF1ghofx1lrx"

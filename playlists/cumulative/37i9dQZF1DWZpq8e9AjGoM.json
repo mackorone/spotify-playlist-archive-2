@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/3Cuew0chHA8uHODwEJ39JC"
+      },
+      "artists": [
+        {
+          "name": "Axel Valmar",
+          "url": "https://open.spotify.com/artist/2glUgYpeC3L6GwWdp8mlro"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/5rMu1dEf2YloNmqki0EAhB"
+    },
+    {
+      "album": {
         "name": "Time Line",
         "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
       },
@@ -4518,6 +4536,24 @@
       "duration_ms": 137510,
       "name": "Waltz For Nala",
       "url": "https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ"
+    },
+    {
+      "album": {
+        "name": "Warm Spring",
+        "url": "https://open.spotify.com/album/5JfmlVScLrJcr2SqmVZXby"
+      },
+      "artists": [
+        {
+          "name": "Rosenkalla",
+          "url": "https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Warm Spring",
+      "url": "https://open.spotify.com/track/0DHfnVVuIcJSSSpiuJEB2v"
     },
     {
       "album": {

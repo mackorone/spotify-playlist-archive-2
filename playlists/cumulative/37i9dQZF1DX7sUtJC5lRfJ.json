@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "l\u1ea1c b\u01b0\u1edbc trong ng\u1ea7n m\u1eaft em",
+        "url": "https://open.spotify.com/album/2HSpr3SP4kZTxouuyofhXo"
+      },
+      "artists": [
+        {
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        },
+        {
+          "name": "Ho\u00e0ng T\u00f4n",
+          "url": "https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "l\u1ea1c b\u01b0\u1edbc trong ng\u1ea7n m\u1eaft em",
+      "url": "https://open.spotify.com/track/4hFOmgvcPbobvPKnsAQIVh"
+    },
+    {
+      "album": {
         "name": "L\u1ea7n N\u00e0y Anh Bu\u00f4ng",
         "url": "https://open.spotify.com/album/5ntuRevdW8bKKqax6WiwVi"
       },

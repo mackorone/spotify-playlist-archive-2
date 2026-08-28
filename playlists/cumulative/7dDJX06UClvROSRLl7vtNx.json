@@ -16697,6 +16697,32 @@
     },
     {
       "album": {
+        "name": "Lola Ya",
+        "url": "https://open.spotify.com/album/1Q13XjcU5KSWZnvvEkTOvh"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        },
+        {
+          "name": "idyllic",
+          "url": "https://open.spotify.com/artist/2GIbW7hY6JPKZAO2INUYIL"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lola Ya",
+      "url": "https://open.spotify.com/track/1pLaKXDFHlaWnUkpSFNGx7"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
@@ -26126,6 +26152,24 @@
       "duration_ms": 132000,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/1qURUt7ViVFIeRfcVlCDE2"
+    },
+    {
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/31HwEVcSZbw5u4KVSl8wCZ"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7KypjWAC5OKoR2kYgti6ky"
     },
     {
       "album": {

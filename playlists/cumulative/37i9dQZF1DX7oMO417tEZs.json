@@ -8678,7 +8678,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 139867,
       "name": "Danger",
       "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
@@ -8910,7 +8910,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 135211,
       "name": "DEAD INSIDE",
       "url": "https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV"
@@ -10590,6 +10590,28 @@
       "duration_ms": 406829,
       "name": "Duke Silver's Place",
       "url": "https://open.spotify.com/track/66Dg7wIo6UsTDA4NJEBpZE"
+    },
+    {
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "DULL: A. G. COOK VERSION",
+      "url": "https://open.spotify.com/track/7g3ZKDD8F9QbS3CzoWs5wW"
     },
     {
       "album": {
@@ -14196,6 +14218,24 @@
       "duration_ms": 200118,
       "name": "GO WITH GUT",
       "url": "https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV"
+    },
+    {
+      "album": {
+        "name": "Go!",
+        "url": "https://open.spotify.com/album/59ILYFRxCcj72Q2QW4JLZl"
+      },
+      "artists": [
+        {
+          "name": "iKeda",
+          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170912,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4lCIrVa8wxC1ItHo7iUpc5"
     },
     {
       "album": {
@@ -19534,7 +19574,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 176114,
       "name": "lake city quiet pills",
       "url": "https://open.spotify.com/track/4fal8qAulk5kh5LQuyevmy"
@@ -26765,6 +26805,28 @@
     },
     {
       "album": {
+        "name": "Piano (feat. Glenn Gould)",
+        "url": "https://open.spotify.com/album/2Uhn7mroGpoaWKb8xQmXv7"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217980,
+      "name": "Piano (feat. Glenn Gould)",
+      "url": "https://open.spotify.com/track/2RP10Jwt6qUGcqIizirlwi"
+    },
+    {
+      "album": {
         "name": "Picture in my mind",
         "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
@@ -27721,6 +27783,24 @@
     },
     {
       "album": {
+        "name": "PROTOTYPE",
+        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
+      },
+      "artists": [
+        {
+          "name": "Madior",
+          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "PROTOTYPE",
+      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
+    },
+    {
+      "album": {
         "name": "Small Songs, Vol.1",
         "url": "https://open.spotify.com/album/3Lnoqo011bimuBXxjBSuh7"
       },
@@ -28364,6 +28444,24 @@
       "duration_ms": 155380,
       "name": "Razz",
       "url": "https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v"
+    },
+    {
+      "album": {
+        "name": "Divinement Guid\u00e9",
+        "url": "https://open.spotify.com/album/5t4ZZJHrHu80p9wGNiBZrM"
+      },
+      "artists": [
+        {
+          "name": "Divinely Guided",
+          "url": "https://open.spotify.com/artist/510DfJ1niG4PgG0Vl2P2cO"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102193,
+      "name": "real eyes realize real lies",
+      "url": "https://open.spotify.com/track/3G80qonrJfqyVwLgmc2FuW"
     },
     {
       "album": {
@@ -29956,7 +30054,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 196270,
       "name": "Selah",
       "url": "https://open.spotify.com/track/0WaUbPVESJGPPtQvJtSAwm"
@@ -36613,6 +36711,24 @@
     },
     {
       "album": {
+        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252461,
+      "name": "Unlimited Love",
+      "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
+    },
+    {
+      "album": {
         "name": "unmasked society",
         "url": "https://open.spotify.com/album/5Ye2p8CnGmAfahUTvcAyiL"
       },
@@ -36852,7 +36968,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 65242,
       "name": "usd freestyle",
       "url": "https://open.spotify.com/track/1pQXbtBuFBl9Mh6okzbCOO"
@@ -39021,6 +39137,28 @@
     },
     {
       "album": {
+        "name": "Yes&No",
+        "url": "https://open.spotify.com/album/6P87mtnmwSPohs9JdgAWWN"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Yes&No",
+      "url": "https://open.spotify.com/track/4kg8yix9vYc7mM5iTr2Jym"
+    },
+    {
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
       },
@@ -39050,7 +39188,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194516,
       "name": "Yotentha",
       "url": "https://open.spotify.com/track/4EfOdhYGclvxHSQy6RfBl0"

@@ -4481,6 +4481,46 @@
     },
     {
       "album": {
+        "name": "NSO (Live)",
+        "url": "https://open.spotify.com/album/3QHokGNotqKag2PySA54cW"
+      },
+      "artists": [
+        {
+          "name": "King Solomon",
+          "url": "https://open.spotify.com/artist/6vN7iPK95U67VZhM4nXKe6"
+        },
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451569,
+      "name": "NSO - Live",
+      "url": "https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0"
+    },
+    {
+      "album": {
+        "name": "Nsovo Moment (Live)",
+        "url": "https://open.spotify.com/album/4kmuvjCmGtxm62swhicrrc"
+      },
+      "artists": [
+        {
+          "name": "Collen Maluleke",
+          "url": "https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178338,
+      "name": "Nsovo Moment - Live",
+      "url": "https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr"
+    },
+    {
+      "album": {
         "name": "Songs From Spirit Of Praise (Live)",
         "url": "https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK"
       },
@@ -6342,6 +6382,24 @@
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
+    },
+    {
+      "album": {
+        "name": "The Message (Live at De stanley Brothers Campus Tour)",
+        "url": "https://open.spotify.com/album/2gNOh25kMUnKpxfPg19rV8"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488264,
+      "name": "we gonna change the world - Live at De Stanley Brothers Campus Tour",
+      "url": "https://open.spotify.com/track/1wT4dgUWS2ZE6e5kuBHlal"
     },
     {
       "album": {

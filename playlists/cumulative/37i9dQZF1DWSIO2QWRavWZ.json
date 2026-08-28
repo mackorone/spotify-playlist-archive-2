@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: Jorja Smith",
+  "description": "New music from your favorite women.  Cover: Tiana Major9",
   "name": "Queen",
   "tracks": [
     {
@@ -826,6 +826,24 @@
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "album": {
+        "name": "November Scorpio: Deluxe",
+        "url": "https://open.spotify.com/album/0baOQZc9GTxkGrC1Qjk6RQ"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169787,
+      "name": "alright!",
+      "url": "https://open.spotify.com/track/3gWG5JKs18gevvk3pckDj5"
     },
     {
       "album": {
@@ -2478,10 +2496,28 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177478,
       "name": "Can't Hear Ya!",
       "url": "https://open.spotify.com/track/3DV9YH3OZsg27CJPTNcnPm"
+    },
+    {
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/5yQofV6X9hJFJIAQmcpXuv"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239750,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/1e6b8Vinqx518KdGAw6pEk"
     },
     {
       "album": {
@@ -2840,6 +2876,28 @@
       "duration_ms": 236670,
       "name": "Choose",
       "url": "https://open.spotify.com/track/0H9Zh0k1DLrjYpipQu7bYg"
+    },
+    {
+      "album": {
+        "name": "chuuuuurch",
+        "url": "https://open.spotify.com/album/5XKNU7jguaD5jb8nzCdokL"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Anjelika Jelly Joseph",
+          "url": "https://open.spotify.com/artist/2nuE9rQG1CdFcI2VtoEFJt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231627,
+      "name": "chuuuuurch",
+      "url": "https://open.spotify.com/track/2EcLXurcaewiQzrUXi7L0F"
     },
     {
       "album": {
@@ -4506,7 +4564,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 201123,
       "name": "enough",
       "url": "https://open.spotify.com/track/1FjTCllP7nZXcMqasi874T"
@@ -5092,7 +5150,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 169639,
       "name": "Forever?",
       "url": "https://open.spotify.com/track/0OLpEmmNPKsUXry0qIRKLt"
@@ -6206,10 +6264,32 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 189059,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3hYN2nB4eiDKm2Wtan60Pb"
+    },
+    {
+      "album": {
+        "name": "Here They Come II",
+        "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Here They Come II",
+      "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
     },
     {
       "album": {
@@ -11145,6 +11225,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girls Love R&B",
+        "url": "https://open.spotify.com/album/59THGDP4DwSFTmQTEHBKv1"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Simone",
+          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176967,
+      "name": "Pretty Girls Love R&B",
+      "url": "https://open.spotify.com/track/2jgRcwgXWvNcbL9cPA2Vu5"
+    },
+    {
+      "album": {
         "name": "Pretty Picture",
         "url": "https://open.spotify.com/album/3psteoEO7jYMdkbf6NE3s6"
       },
@@ -12480,7 +12578,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171375,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT"
@@ -13666,7 +13764,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213333,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/0MKqFbQ0w3zuXO2KiBmHhY"
@@ -14104,6 +14202,32 @@
       "duration_ms": 202800,
       "name": "There You Go",
       "url": "https://open.spotify.com/track/6dJ2mSRaKE9ctYw9qWNGWQ"
+    },
+    {
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289071,
+      "name": "They Ain't You - feat. Thundercat",
+      "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
     },
     {
       "album": {
@@ -15618,7 +15742,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 386020,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
@@ -15784,10 +15908,32 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 188661,
       "name": "Yes",
       "url": "https://open.spotify.com/track/14sopbixI4sBWQdifhzEXJ"
+    },
+    {
+      "album": {
+        "name": "YES PACK",
+        "url": "https://open.spotify.com/album/1yPZ41sfu744I58MTflsuS"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Akeem Ali",
+          "url": "https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234156,
+      "name": "Yes (Unfinished Business)",
+      "url": "https://open.spotify.com/track/6MbYmJ1oLDZ34LkqnyRrS2"
     },
     {
       "album": {

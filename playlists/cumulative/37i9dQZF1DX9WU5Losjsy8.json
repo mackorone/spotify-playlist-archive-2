@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 239466,
       "name": "7 S\u00fcnden - Party Mix",
       "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
@@ -348,6 +348,24 @@
       "duration_ms": 150400,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6UIUcD7wYoQEPOZSXuz5Hv"
+    },
+    {
+      "album": {
+        "name": "AREHNAL",
+        "url": "https://open.spotify.com/album/1yLWqFcaSt3hVXqfNEdqUT"
+      },
+      "artists": [
+        {
+          "name": "Nina Reh",
+          "url": "https://open.spotify.com/artist/01AXkPvzFjXcjsUQu3JcHB"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125171,
+      "name": "AREHNAL",
+      "url": "https://open.spotify.com/track/3rzGEMkx06lgRlz1Jb3ANU"
     },
     {
       "album": {

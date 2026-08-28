@@ -338,6 +338,24 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3ojTA16TS3Mcb0ZGO4x9Xg"
+    },
+    {
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 211840,
       "name": "Dinosaurs",
       "url": "https://open.spotify.com/track/0kNvVLZsEgWBzhfYwboY70"

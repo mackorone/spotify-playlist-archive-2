@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: HEY JUNE!
 
-354 songs - 20 hr 58 min
+355 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Binibini](https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 3:41 | 2025-09-08 | 2025-10-06 |
 | [Blah Blah](https://open.spotify.com/track/3keEpyhWEE4FCAEHXZDcPb) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Blah Blah](https://open.spotify.com/album/31kpkJ759PVIOlUOZEONrR) | 3:27 | 2022-04-27 | 2022-12-01 |
 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-04-25 | 2024-04-03 |
+| [Blue](https://open.spotify.com/track/4nDBJNQsLbxNxwQxnj1gSy) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Blue](https://open.spotify.com/album/4AfgAiFkuF6qJWK0MLW7XT) | 3:00 | 2026-08-28 |  |
 | [BLUE FACES](https://open.spotify.com/track/1zG7po8N1VOewaIHK1G4iN) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [Playaz & Pimps](https://open.spotify.com/album/5bGjTqPu5sDi3EjZhkNn0Y) | 2:36 | 2025-03-27 | 2025-03-29 |
 | [Boomerang](https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Boomerang](https://open.spotify.com/album/4KkEOyGVcLebFsX1ZjfyJ2) | 3:16 | 2023-04-13 | 2024-04-03 |
 | [Born To Win](https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 2:53 | 2022-03-24 | 2022-12-01 |

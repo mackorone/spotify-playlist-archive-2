@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-609 songs - 1 day 16 hr 4 min
+610 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5bZlKUqFIf0uM3MW03bhlG) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4K0AuBe1Mhq8ocmC0bDn6T) | 3:16 | 2021-12-03 | 2022-07-28 |
 | [One More Chance](https://open.spotify.com/track/2fs9HGUstxf0r1nbUsX9pr) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [One More Chance](https://open.spotify.com/album/0Br04dEwKsxbvjQnBKqKC5) | 4:09 | 2022-05-30 | 2023-05-23 |
 | [One Vibration](https://open.spotify.com/track/2ku7migGjaTOkQYqmvdRgT) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [One Vibration](https://open.spotify.com/album/6gvcrUj0kq14QNxEgKTLak) | 3:45 | 2022-04-15 | 2022-04-18 |
-| [Only For Tonight](https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [m.O.N.R.O.E.](https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Only For Tonight](https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo) | 3:16 | 2025-06-19 |  |
+| [Only For Tonight](https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [m.O.N.R.O.E.](https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Only For Tonight](https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo) | 3:16 | 2025-06-19 | 2026-08-28 |
 | [OnlyL](https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG) | 3:47 | 2021-12-03 | 2022-07-29 |
 | [Opening Night](https://open.spotify.com/track/5yytwVZPUCRxeXPSTPdCUX) | [NZCA LINES](https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP) | [Pure Luxury](https://open.spotify.com/album/5YZgkuAej9Cn6hgEbg31k6) | 3:28 | 2021-12-03 | 2022-07-29 |
 | [Out Of Love \- Harrison Remix](https://open.spotify.com/track/5mLNQKGpnYtEVAWmrpSwoK) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Out Of Love \(Remix\)](https://open.spotify.com/album/069dlAukWgJsBmJ33TstHA) | 3:19 | 2022-03-11 | 2022-07-10 |
@@ -585,6 +585,7 @@
 | [Voices \- Radio Edit](https://open.spotify.com/track/72WFynWVWjULoDYfMDfQC9) | [LPM](https://open.spotify.com/artist/6SZaG5f8hDpHsA3dGEXrKC) | [Voices EP](https://open.spotify.com/album/5i584zaE3hqWDyTST8qCVk) | 4:35 | 2022-04-06 | 2022-04-13 |
 | [Volar La Pluma \- Edit](https://open.spotify.com/track/7qISE4GxZiKBAE9HLdXuif) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Volar La Pluma](https://open.spotify.com/album/23uAUN70iMGlrLpfkkioED) | 4:54 | 2022-04-15 | 2022-04-20 |
 | [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 | 2025-12-12 | 2026-04-24 |
+| [Waiting4luv](https://open.spotify.com/track/6HMKMe4k5nUCpZRZhCAGTa) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Waiting4luv](https://open.spotify.com/album/3CzNN5bkRKzWWkI7JvZXCn) | 2:31 | 2026-08-27 |  |
 | [Walk With Me](https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO) | [Harry Wolfman](https://open.spotify.com/artist/3IUdSUxRiKdLL7e7BJgzYv) | [Sly Contrast EP](https://open.spotify.com/album/2TMRfy0J0nW0n4kIVhVAjy) | 5:21 | 2021-12-03 | 2022-07-07 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-01-14 | 2022-08-16 |
 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 | 2022-01-14 | 2022-04-19 |

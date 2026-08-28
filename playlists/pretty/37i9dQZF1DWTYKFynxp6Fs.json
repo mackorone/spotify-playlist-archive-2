@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: ARJN, KDS, FIFTY4, Shreya Ghoshal",
-  "num_followers": 724205,
+  "num_followers": 724783,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3zinRp/3Rm0a8CFgSx7nUHzxLe",
+  "snapshot_id": "AAAAACU7YzJfbfsyTsQJvJW8k7yJA0F4",
   "tracks": [
     {
       "added_at": "2026-07-07 04:33:21",
@@ -239,6 +239,34 @@
       "duration_ms": 278750,
       "name": "Thooki",
       "url": "https://open.spotify.com/track/53Zl4vhN9gqxdF7NQ2zOzf"
+    },
+    {
+      "added_at": "2026-08-27 12:23:35",
+      "album": {
+        "name": "Khalifa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5gYZ5RbAYv3N6Xrdf9NQOs"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "K C Balasarangan",
+          "url": "https://open.spotify.com/artist/7b5pJ3sqgxxD2BYEQKl9eQ"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 252251,
+      "name": "Mathara",
+      "url": "https://open.spotify.com/track/3zH9aistSo96IOTfjl35tw"
     },
     {
       "added_at": "2026-04-17 11:39:21",
@@ -1199,26 +1227,6 @@
       "duration_ms": 234428,
       "name": "Munthirichar",
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
-    },
-    {
-      "added_at": "2024-10-07 11:42:17",
-      "album": {
-        "name": "Kondal Vedan Song (From \"Kondal\")",
-        "url": "https://open.spotify.com/album/2QofMPxSLCWnxlKpDWVOeV"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        }
-      ],
-      "duration_ms": 247164,
-      "name": "Kondal Vedan Song (From \"Kondal\")",
-      "url": "https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz"
     }
   ],
   "unique_name": "Trending Now Malayalam",

@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193669,
       "name": "A Team Spirit",
       "url": "https://open.spotify.com/track/2jh6C7wU122Jh3RgbT2RIa"
@@ -376,6 +376,24 @@
       "duration_ms": 213095,
       "name": "All For You",
       "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
+    },
+    {
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/07KWdd7cL7c9ND8ejvm8Dd"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191484,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/3Mvx9wNXSzt0n6TEkpUpEv"
     },
     {
       "album": {
@@ -1113,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/0XKKJUpcfajpKYDomXHI1L"
+      },
+      "artists": [
+        {
+          "name": "FRASER",
+          "url": "https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/4qySsqBpDD8x5iR8Rq9QoR"
+    },
+    {
+      "album": {
         "name": "Back On My Love",
         "url": "https://open.spotify.com/album/78D8SFKK4qDNTwsn4mDBuv"
       },
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 182213,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/5VfSqIjgPD3oC2McPl5qDi"

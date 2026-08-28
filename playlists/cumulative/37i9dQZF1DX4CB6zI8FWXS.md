@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Erykah Badu, The Alchemist
 
-1,430 songs - 3 day 5 hr 42 min
+1,431 songs - 3 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [I Pray](https://open.spotify.com/track/2fAI3SPRCSXmR8rplvuPg9) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P) | 3:22 | 2024-01-11 | 2024-03-15 |
 | [I Pray](https://open.spotify.com/track/7s73dy8hEJ4XACgmLvFihH) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [I Pray](https://open.spotify.com/album/3pVHetK0LEUch1zA8AELGV) | 3:22 | 2024-01-11 | 2024-01-13 |
 | [I Try So Hard](https://open.spotify.com/track/5KZjnGM9r0dU4R7hrUGAYG) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Quantum Entanglement](https://open.spotify.com/album/6NI72BX5OxbCwfKlqMg4SK) | 4:26 | 2026-06-24 | 2026-08-08 |
+| [I Want U](https://open.spotify.com/track/4K5rlQ6RVXRj6YdjnzSdTV) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [I Want U](https://open.spotify.com/album/66zinMdb5QXAXZ15bbzFpB) | 3:33 | 2026-08-26 |  |
 | [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 | 2023-03-16 | 2023-05-26 |
 | [I Want You Now](https://open.spotify.com/track/4DTcVyrT0du8tj6269X34o) | [TJ Jackson](https://open.spotify.com/artist/7vznzOtCXE8ZlP7E8ipg2T), [Melanie Pfirrman](https://open.spotify.com/artist/0uioawxHyc6pgvbUCq510I), [Que Parks](https://open.spotify.com/artist/4dAfBjRmZ3v6kakh2NgWpW) | [I Want You Now](https://open.spotify.com/album/5P8fMpytwAMtik2cGzjOdn) | 3:18 | 2023-10-19 | 2023-11-03 |
 | [I Win](https://open.spotify.com/track/3YQIq2JBC6qk3NgABjxrMO) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [I Win](https://open.spotify.com/album/1DTSQOWzN1AjizgQ505HrM) | 2:13 | 2025-11-20 | 2026-04-24 |

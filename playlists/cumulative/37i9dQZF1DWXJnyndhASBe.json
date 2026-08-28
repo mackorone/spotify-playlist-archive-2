@@ -35,6 +35,28 @@
     },
     {
       "album": {
+        "name": "1 na 1 000 000",
+        "url": "https://open.spotify.com/album/2N9diFOgmVEzRSkLQoDsBB"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "1 na 1 000 000",
+      "url": "https://open.spotify.com/track/7jMU2K9PjmI1tW0mG67Xqq"
+    },
+    {
+      "album": {
         "name": "1 na 100",
         "url": "https://open.spotify.com/album/1eMRkYLNzESSOcItnPYyvW"
       },
@@ -854,6 +876,24 @@
       "duration_ms": 196313,
       "name": "50 ko\u0142a",
       "url": "https://open.spotify.com/track/6KVbv9CcdBQJSYiO6Iq7LO"
+    },
+    {
+      "album": {
+        "name": "5980",
+        "url": "https://open.spotify.com/album/3azCHDvuNqb7KmO3JHh2gg"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149189,
+      "name": "5980",
+      "url": "https://open.spotify.com/track/7ouervSACfkmuk5vnLARzo"
     },
     {
       "album": {
@@ -3602,7 +3642,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213559,
       "name": "CALIFORNIA LOVE",
       "url": "https://open.spotify.com/track/4PNf3DmIcyblyYK4hfklGu"
@@ -4972,7 +5012,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160000,
       "name": "CZARNA GODZINA",
       "url": "https://open.spotify.com/track/4vf3GbwkHt915od6hhsNP8"
@@ -5188,7 +5228,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 154434,
       "name": "CZEMPION 2",
       "url": "https://open.spotify.com/track/1Ymguhxs4YAwklSsDUnUin"
@@ -8293,6 +8333,28 @@
     },
     {
       "album": {
+        "name": "GI\u0143 ZA MNIE",
+        "url": "https://open.spotify.com/album/7EHjqv4Eu3nt81MgZoNh9Y"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "GI\u0143 ZA MNIE",
+      "url": "https://open.spotify.com/track/2eJYQ014VhXL8AWclsMxqk"
+    },
+    {
+      "album": {
         "name": "GLOBAL",
         "url": "https://open.spotify.com/album/3mOaQWXMW7YjPNMef7HZDm"
       },
@@ -9374,6 +9436,32 @@
       "duration_ms": 169427,
       "name": "Huh",
       "url": "https://open.spotify.com/track/7yhY5F0dllWamLosxYSPZt"
+    },
+    {
+      "album": {
+        "name": "HUSTLER",
+        "url": "https://open.spotify.com/album/0mP2RCwfQjdpCEqU4Coxwa"
+      },
+      "artists": [
+        {
+          "name": "VVSimon",
+          "url": "https://open.spotify.com/artist/4qKXfc0gl62ImELchh15HY"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "PMBTZ",
+          "url": "https://open.spotify.com/artist/4fcXi70KndQt7IIKn9327O"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226456,
+      "name": "HUSTLER",
+      "url": "https://open.spotify.com/track/00hqhOTwJqUDgvUua2v7Xc"
     },
     {
       "album": {
@@ -11880,6 +11968,32 @@
       "duration_ms": 166256,
       "name": "Latamy",
       "url": "https://open.spotify.com/track/0tC7avt8CixFIGIpR2uJaV"
+    },
+    {
+      "album": {
+        "name": "Lato w Mie\u015bcie",
+        "url": "https://open.spotify.com/album/72u0xcD1bIskUYaFJBgs5E"
+      },
+      "artists": [
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122460,
+      "name": "Lato w Mie\u015bcie",
+      "url": "https://open.spotify.com/track/0T02E8lkDyF5gdweCuMNYL"
     },
     {
       "album": {
@@ -18006,7 +18120,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 138360,
       "name": "PAY ME",
       "url": "https://open.spotify.com/track/5xWlIg1Ymp9mGxvwayG5Lv"
@@ -18776,7 +18890,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155875,
       "name": "Pogwarzymy",
       "url": "https://open.spotify.com/track/6zE62W5LPURESCtDGL3eZi"
@@ -24875,6 +24989,32 @@
     },
     {
       "album": {
+        "name": "Wolne popo\u0142udnia w Polsce",
+        "url": "https://open.spotify.com/album/0JW48Ni0H9RvCi1VfnHz8I"
+      },
+      "artists": [
+        {
+          "name": "Szczyl",
+          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
+        },
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        },
+        {
+          "name": "Nolyrics Beats",
+          "url": "https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Wolne popo\u0142udnia w Polsce",
+      "url": "https://open.spotify.com/track/4Po0aFEMfZiWyZQXRXHByI"
+    },
+    {
+      "album": {
         "name": "WORKI KABONY",
         "url": "https://open.spotify.com/album/5XE857TAkpP34Kj44J2hiV"
       },
@@ -25504,7 +25644,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 140000,
       "name": "ZA KOGO MNIE MASZ?",
       "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"

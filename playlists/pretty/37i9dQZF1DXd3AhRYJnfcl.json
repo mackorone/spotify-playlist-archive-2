@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u0639\u0627\u0634\u0648\u0631",
-  "num_followers": 466025,
+  "num_followers": 466295,
   "original_name": "\u0627\u0644\u062a\u0648\u0628",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfTYB4JgwUNS9npBSGGpStTsss0",
+  "snapshot_id": "AAAAALQQnKTARMJC47mR3ezV1i9IeG4j",
   "tracks": [
     {
       "added_at": "2026-08-24 14:58:37",
@@ -151,6 +151,26 @@
       "duration_ms": 158502,
       "name": "Garee2a Awy - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC"
+    },
+    {
+      "added_at": "2026-08-28 09:01:03",
+      "album": {
+        "name": "AFANDI / \u0627\u0641\u0646\u062f\u064a",
+        "url": "https://open.spotify.com/album/1cZ2pTAd5EIarfnB2JGaUE"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Mohammed Assaf",
+          "url": "https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk"
+        }
+      ],
+      "duration_ms": 175455,
+      "name": "MASKARA / \u0645\u0633\u0643\u0631\u0629",
+      "url": "https://open.spotify.com/track/0doV1IQwKHcjQPOynrbgH9"
     },
     {
       "added_at": "2026-08-24 14:58:37",
@@ -871,22 +891,6 @@
       "duration_ms": 196563,
       "name": "\u062d\u0628\u064a\u0628\u064a \u0648\u0627\u0628\u0646 \u062d\u0628\u064a\u0628\u064a - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0643\u0627\u0645\u0644 \u0627\u0644\u0639\u062f\u062f ++",
       "url": "https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF"
-    },
-    {
-      "added_at": "2026-08-24 14:58:37",
-      "album": {
-        "name": "Ahla Rasma",
-        "url": "https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Ahla Rasma",
-      "url": "https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp"
     },
     {
       "added_at": "2026-08-24 14:58:37",

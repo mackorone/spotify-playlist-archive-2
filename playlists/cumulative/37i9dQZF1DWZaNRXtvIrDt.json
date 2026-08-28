@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: RONA",
+  "description": "A new world of alternative electronic music. Cover: Lady Shaka",
   "name": "Portal",
   "tracks": [
     {
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 200000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1jTYIQTzD0eDoaZ6jdrXFf"
@@ -6479,6 +6479,24 @@
     },
     {
       "album": {
+        "name": "Emerald Web",
+        "url": "https://open.spotify.com/album/1giV4u6ARwOSNz4dcrP7qJ"
+      },
+      "artists": [
+        {
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Emerald Web",
+      "url": "https://open.spotify.com/track/1oR5NzGJ9L4PSZcexlhFr4"
+    },
+    {
+      "album": {
         "name": "encore",
         "url": "https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k"
       },
@@ -10468,6 +10486,28 @@
       "duration_ms": 257142,
       "name": "Indisputable",
       "url": "https://open.spotify.com/track/2WUxBzMk1HOoVRGyBXPJH7"
+    },
+    {
+      "album": {
+        "name": "Syphon Filter",
+        "url": "https://open.spotify.com/album/6hfBgi826jO7SEMDhSvTsG"
+      },
+      "artists": [
+        {
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        },
+        {
+          "name": "Mosam Howieson",
+          "url": "https://open.spotify.com/artist/2G2XO6kbdZXsI1uprXIdMx"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440888,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/13ADKoNailGRb5y2CpzUYf"
     },
     {
       "album": {
@@ -18905,6 +18945,36 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3BniYseVeFgP3VRlbS4j7U"
+      },
+      "artists": [
+        {
+          "name": "Lady Shaka",
+          "url": "https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt"
+        },
+        {
+          "name": "DJ PGZ",
+          "url": "https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX"
+        },
+        {
+          "name": "DoloRRes",
+          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
+        },
+        {
+          "name": "Zaila",
+          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210702,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5DXWCJDhpdGHI2oq5CEGDr"
+    },
+    {
+      "album": {
         "name": "Eternal Reverie Remixes, Pt. 2",
         "url": "https://open.spotify.com/album/4xuZ2yWGAvpFcSL66oCAmX"
       },
@@ -19004,7 +19074,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 336741,
       "name": "Syphon Filter",
       "url": "https://open.spotify.com/track/1Jw1iEp4UdK3i3U5eGJeHz"
@@ -20292,10 +20362,28 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 321984,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/0AT5v0rYHbno8CqsX0wvsT"
+    },
+    {
+      "album": {
+        "name": "To The Ground",
+        "url": "https://open.spotify.com/album/7DKGiduBb7Yi8CSmp0YXgB"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321984,
+      "name": "To The Ground",
+      "url": "https://open.spotify.com/track/6hFJ2Ih17ZrZnTgrVymX7T"
     },
     {
       "album": {
@@ -21666,7 +21754,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"

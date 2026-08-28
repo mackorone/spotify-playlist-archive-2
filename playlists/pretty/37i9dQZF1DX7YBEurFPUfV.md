@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,226 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,228 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 14 | [Menich Lehi](https://open.spotify.com/track/3qxIKGYa8kqg86g9A8J0YG) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Menich Lehi](https://open.spotify.com/album/2ZFm9tfNs364OuzTfVIn5H) | 2:36 |
 | 15 | [ken w ken](https://open.spotify.com/track/787ew6ljH49JY4p38wsBY1) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Rehla](https://open.spotify.com/album/11TOgqAu4RWGpmpzady4y2) | 3:21 |
 | 16 | [Amir Al Bihar](https://open.spotify.com/track/4eDl7rpLj1JCSLaqbIQ6h5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Amir Al Bihar](https://open.spotify.com/album/3ZzxEG1zKE7kq372gxXgyG) | 3:02 |
-| 17 | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/track/1CbUpKk52t8R0bzxTFHJdH) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/album/1GkVd8003ojeJAId0GohK5) | 4:00 |
+| 17 | [Lili Wala Sbe7 \- Demo](https://open.spotify.com/track/1CbUpKk52t8R0bzxTFHJdH) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/album/1GkVd8003ojeJAId0GohK5) | 4:00 |
 | 18 | [Mafiosa](https://open.spotify.com/track/4QZeQw28rvYnILQ9VXT1Te) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Rapina](https://open.spotify.com/album/4Yqia46OeHW5T6iQicQCCU) | 3:28 |
 | 19 | [Ma7abounech](https://open.spotify.com/track/2MmpGn3sHmxSRG8GIyLkMe) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Ma7abounech](https://open.spotify.com/album/53uh6KHa3EmTcykX6s8m0s) | 3:22 |
 | 20 | [N.L.R](https://open.spotify.com/track/4ixz7G5AHCGw8rAwMKCSVc) | [SC Papi](https://open.spotify.com/artist/50km3N5wwVlGJvZYqIrAoK) | [N.L.R](https://open.spotify.com/album/52yALrfVF4I4TBZJn75jxW) | 2:38 |

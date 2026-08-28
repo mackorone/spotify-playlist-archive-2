@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Evil Is a Corporation",
+        "url": "https://open.spotify.com/album/1XrnxEdb5uBnq06fw5xX5u"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Evil Is a Corporation",
+      "url": "https://open.spotify.com/track/1blW8N8bhFYbgurRHB9EnG"
+    },
+    {
+      "album": {
         "name": "Feeling Lucky",
         "url": "https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW"
       },
@@ -2196,6 +2214,24 @@
       "duration_ms": 199288,
       "name": "Future Soul",
       "url": "https://open.spotify.com/track/41QtY7hxoAFWC8yMIzxu43"
+    },
+    {
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7mbqzYaU8GmuoGr3Vp9iVv"
+      },
+      "artists": [
+        {
+          "name": "Ian Elliott",
+          "url": "https://open.spotify.com/artist/2JgNh1CalUUnBExShZ7nQe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247590,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5bHseWHA6zofdrsWEl8jWC"
     },
     {
       "album": {
@@ -5386,7 +5422,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 223000,
       "name": "Red Gorilla",
       "url": "https://open.spotify.com/track/1y4lKMU8Ie4ajVLfJha9Yk"
@@ -6150,7 +6186,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9"

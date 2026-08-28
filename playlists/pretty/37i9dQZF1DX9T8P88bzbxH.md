@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,496 likes - 14 songs - 41 min 15 sec
+[Spotify](https://open.spotify.com/user/spotify) - 53,490 likes - 14 songs - 41 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

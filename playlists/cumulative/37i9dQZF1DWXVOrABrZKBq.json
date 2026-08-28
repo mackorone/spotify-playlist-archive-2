@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Bello&Dallas",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: La Mano 1.9, PLK",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 153333,
       "name": "20 MILLIONS",
       "url": "https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt"
+    },
+    {
+      "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218176,
+      "name": "2026",
+      "url": "https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke"
     },
     {
       "album": {
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160542,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5snMfEYZCwQBGsqlpB6cis"
@@ -2713,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "CAM\u00c9RA 4K",
+        "url": "https://open.spotify.com/album/5YOeIoUhJtYTtErUw399CK"
+      },
+      "artists": [
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168579,
+      "name": "CAM\u00c9RA 4K",
+      "url": "https://open.spotify.com/track/2XTxgS3m7CvcDrvrx48a1i"
+    },
+    {
+      "album": {
         "name": "ARR\u00caTEZ-LE ! (Vol.2)",
         "url": "https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy"
       },
@@ -3312,7 +3348,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 164571,
       "name": "CLAP 3X",
       "url": "https://open.spotify.com/track/6dKZNUSGlhRcm2vUJ5HA3G"
@@ -4198,7 +4234,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 204331,
       "name": "DIS MOI (feat. Nekfeu)",
       "url": "https://open.spotify.com/track/7siTckJKPsmo26zJ45mBWW"
@@ -6179,6 +6215,28 @@
     },
     {
       "album": {
+        "name": "How Much",
+        "url": "https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "How Much",
+      "url": "https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ"
+    },
+    {
+      "album": {
         "name": "BYAKUGAN",
         "url": "https://open.spotify.com/album/6HQt23uDVxzyucxDtqRSKI"
       },
@@ -6536,7 +6594,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 161690,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/4OzXMWmpGN62KLfdy6jAxF"
@@ -7588,7 +7646,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 102352,
       "name": "LA VAR",
       "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
@@ -8383,6 +8441,24 @@
     },
     {
       "album": {
+        "name": "Lululemon",
+        "url": "https://open.spotify.com/album/2Apc6tczxlwREDpRKW7q1P"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171392,
+      "name": "Lululemon",
+      "url": "https://open.spotify.com/track/4NUbhcdKi2nfq6RUUgKyWV"
+    },
+    {
+      "album": {
         "name": "ROSE NOIRE",
         "url": "https://open.spotify.com/album/4jAc7IOMjbr9b4EeQfPZtO"
       },
@@ -8500,6 +8576,28 @@
       "duration_ms": 120000,
       "name": "Magie",
       "url": "https://open.spotify.com/track/05NRh1joeSvBf4qL0d0ib6"
+    },
+    {
+      "album": {
+        "name": "Des pieds et des mains",
+        "url": "https://open.spotify.com/album/7dBBG1s3qXPeKeINXhlF9X"
+      },
+      "artists": [
+        {
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+        },
+        {
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202581,
+      "name": "MAIS T KI",
+      "url": "https://open.spotify.com/track/2rwwnE0y8rhyTdpUrDLAIb"
     },
     {
       "album": {
@@ -9488,7 +9586,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 226666,
       "name": "MURDER #4",
       "url": "https://open.spotify.com/track/1XoMvAcsQprKifICAMmae3"
@@ -9867,6 +9965,24 @@
     },
     {
       "album": {
+        "name": "No System (GRM x Yard)",
+        "url": "https://open.spotify.com/album/0fIlnmUUpG121cI02RAfnU"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94080,
+      "name": "No System - GRM x Yard",
+      "url": "https://open.spotify.com/track/7IBdt4u2zCDiMMCzwNb0NG"
+    },
+    {
+      "album": {
         "name": "Noche",
         "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
       },
@@ -10174,6 +10290,28 @@
       "duration_ms": 251212,
       "name": "Omerta 19",
       "url": "https://open.spotify.com/track/3BRQQ4IGg4kZPY4EOBwmQj"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/44h8EPVFXg9DgoYe7nf9v5"
+      },
+      "artists": [
+        {
+          "name": "WhoJiggi",
+          "url": "https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY"
+        },
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161048,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/0kTOcgNY8VaX0hFvdAjJTk"
     },
     {
       "album": {
@@ -11779,6 +11917,32 @@
     },
     {
       "album": {
+        "name": "Remember / Platine",
+        "url": "https://open.spotify.com/album/43aLObxsLbh6guqvGGhgDA"
+      },
+      "artists": [
+        {
+          "name": "Jeune Morty",
+          "url": "https://open.spotify.com/artist/0j88iwyJrnRpKBhiJtG0je"
+        },
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6zUPIHnHKSe2HUu3EcwG3l"
+    },
+    {
+      "album": {
         "name": "Remontada",
         "url": "https://open.spotify.com/album/0QmCrblGmEeExx2iV0YrSv"
       },
@@ -12986,10 +13150,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 204664,
       "name": "Soleil levant",
       "url": "https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1"
+    },
+    {
+      "album": {
+        "name": "SOLIDE",
+        "url": "https://open.spotify.com/album/5XFfuWZKrakFaMtKIkMTwc"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "SOLIDE",
+      "url": "https://open.spotify.com/track/7Mmk8oRfhvJcyM80vvYI9o"
     },
     {
       "album": {
@@ -13584,7 +13766,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 156190,
       "name": "TENTATION",
       "url": "https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk"
@@ -14332,7 +14514,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174135,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/73ze5SmdVM4nzTtp9O37Jf"

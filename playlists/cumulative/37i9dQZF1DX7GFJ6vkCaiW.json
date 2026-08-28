@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Kunto Aji",
+  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Difki Khalif",
   "name": "Video Musik Indonesia ",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 215373,
       "name": "Alasan Klasik",
       "url": "https://open.spotify.com/track/6Y8uDRZYlEkVABLmtjfLlu"
@@ -244,6 +244,24 @@
       "duration_ms": 252000,
       "name": "Bahagia Tanpaku",
       "url": "https://open.spotify.com/track/6TIPNTCl2RcQTJtp88AjXZ"
+    },
+    {
+      "album": {
+        "name": "Belum Selesai",
+        "url": "https://open.spotify.com/album/5GwuQps4Q7M2SFtqJwvK4B"
+      },
+      "artists": [
+        {
+          "name": "Difki Khalif",
+          "url": "https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Belum Selesai",
+      "url": "https://open.spotify.com/track/7KUUUllWusWxI6Ijoegw0L"
     },
     {
       "album": {

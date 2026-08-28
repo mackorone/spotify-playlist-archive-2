@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 762031,
+  "num_followers": 762071,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJP9LpbOhi9UgarQu2KFV8RNvalc",
+  "snapshot_id": "AAAAADn/RUHPuqY+SRU7P8Iu8dLXlyul",
   "tracks": [
     {
       "added_at": "2026-08-14 13:34:48",
@@ -107,6 +107,26 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Um Pe\u00e3o Desse",
+        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 127161,
+      "name": "Um Pe\u00e3o Desse",
+      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
       },
@@ -155,22 +175,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 147456,
-      "name": "Champanhe - Ao Vivo",
-      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "EQUILIBRIVM II",
         "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
       },
@@ -187,6 +191,22 @@
       "duration_ms": 151596,
       "name": "Sal Grosso",
       "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 147456,
+      "name": "Champanhe - Ao Vivo",
+      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -211,26 +231,6 @@
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Um Pe\u00e3o Desse",
-        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
-      },
-      "artists": [
-        {
-          "name": "CountryBeat",
-          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 127161,
-      "name": "Um Pe\u00e3o Desse",
-      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -263,22 +263,18 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "P do Pecado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3"
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 192367,
-      "name": "P do Pecado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D"
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -303,18 +299,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+        "name": "P do Pecado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
         }
       ],
-      "duration_ms": 180832,
-      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
-      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
+      "duration_ms": 192367,
+      "name": "P do Pecado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
-        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
-      },
-      "artists": [
-        {
-          "name": "Filho do Piseiro",
-          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Raparigas",
-      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
         "url": "https://open.spotify.com/album/3FjxQlpQrfjpwIcb410U50"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Deixa o Barulho, Completo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OW2pM2MEy4Iw8rdeg4onm"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Ancorado - Ao Vivo",
-      "url": "https://open.spotify.com/track/1fcwyeBBJ9VnZAKcgc7GRf"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Na Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 114044,
       "name": "Na Imagina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Deixa o Barulho, Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OW2pM2MEy4Iw8rdeg4onm"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Ancorado - Ao Vivo",
+      "url": "https://open.spotify.com/track/1fcwyeBBJ9VnZAKcgc7GRf"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Deixa Alagar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Deixa Alagar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 341722,
       "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
       "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Deixa Alagar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Deixa Alagar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Resenha de Ex-love 2.0",
+        "url": "https://open.spotify.com/album/11tjGHVazW6qqxhWiEcUDB"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Resenha de Ex-love 2.0",
+      "url": "https://open.spotify.com/track/5W5X1peSN7er7ZIEMZBI3H"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Ama Um Maloqueiro",
         "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
       },
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Resenha de Ex-love 2.0",
-        "url": "https://open.spotify.com/album/11tjGHVazW6qqxhWiEcUDB"
-      },
-      "artists": [
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Resenha de Ex-love 2.0",
-      "url": "https://open.spotify.com/track/5W5X1peSN7er7ZIEMZBI3H"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Esse \u00e9 o Meu Forr\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3crirzaSmwNGPurObvejJM"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 169891,
       "name": "Se N\u00e3o Valorizar (Umbrella) - Ao Vivo",
       "url": "https://open.spotify.com/track/1Xe8atEzhJ9xOMCGq5CV5c"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Na Liga em Sampa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RmjfeUd6VTJNB4PJr2v3I"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 188409,
-      "name": "At\u00e9 Quando - Ao Vivo",
-      "url": "https://open.spotify.com/track/1XVbPUw5TejRT1IZHd7bOh"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -1143,6 +1127,22 @@
       "duration_ms": 171428,
       "name": "Eu Me Apaixonei (Bregadeira)",
       "url": "https://open.spotify.com/track/1lynMVa4JcCtCQVC9bi8ib"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Na Liga em Sampa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RmjfeUd6VTJNB4PJr2v3I"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 188409,
+      "name": "At\u00e9 Quando - Ao Vivo",
+      "url": "https://open.spotify.com/track/1XVbPUw5TejRT1IZHd7bOh"
     },
     {
       "added_at": "2026-08-14 13:34:48",

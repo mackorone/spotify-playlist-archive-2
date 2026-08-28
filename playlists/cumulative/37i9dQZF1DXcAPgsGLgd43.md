@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-569 songs - 1 day 6 hr 24 min
+570 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Dale Rollo](https://open.spotify.com/track/7lhmeGlNcF564eSIMy0s3A) | [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9), [Javi Torres](https://open.spotify.com/artist/6gwn4wp5Ijys81aawipD8r) | [Dale Rollo](https://open.spotify.com/album/3qjHc9hdrgxfyPqylnIJJY) | 3:32 | 2025-01-24 | 2025-05-24 |
 | [Dame](https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [Marocco](https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt) | [Dame](https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7) | 3:34 | 2021-10-08 | 2023-11-11 |
 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 | 2024-06-28 | 2025-11-24 |
-| [Dame Fuego](https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [MVRIN](https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo) | [Dame Fuego](https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ) | 3:48 | 2026-02-13 |  |
+| [Dame Fuego](https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [MVRIN](https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo) | [Dame Fuego](https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ) | 3:48 | 2026-02-13 | 2026-08-28 |
 | [Dame Mas](https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [Dame Mas](https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B) | 3:05 | 2024-04-12 | 2026-04-25 |
 | [Dame Más \(Gasolina\)](https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Dame Más \(Gasolina\)](https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf) | 3:01 | 2025-01-24 |  |
 | [Dame Un Grrr \- Provi Remix Radio Edit](https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Provi](https://open.spotify.com/artist/09WKhhJl9OZwZEKXRoSnOo) | [Dame Un Grrr \(Provi Remix\)](https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq) | 2:00 | 2025-08-29 |  |
@@ -541,6 +541,7 @@
 | [Tócate](https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq) | [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Tócate](https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX) | 3:10 | 2023-12-01 | 2024-05-18 |
 | [Uh uh balançou!](https://open.spotify.com/track/01UIAgXk4KLXPuiFcMyu0j) | [Rici Moraes](https://open.spotify.com/artist/5GMXs8hniPbARi5xshwOns), [DJ RODRIGO GERMANY](https://open.spotify.com/artist/2JimYCbOLIhMFxEHNZlHsX) | [Uh uh balançou!](https://open.spotify.com/album/0qv2aMq8nmRb52CDlI5qiY) | 3:18 | 2025-01-24 | 2025-05-24 |
 | [Ulalala](https://open.spotify.com/track/4EMLCdqC0BXgpr42Op96a0) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Modurap](https://open.spotify.com/album/5OLIjX9kVgj00JxlvX5PkD) | 3:46 | 2023-12-01 | 2024-01-27 |
+| [Umami](https://open.spotify.com/track/17icVfibca9F7l88wcXzrs) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [La Criminal EP](https://open.spotify.com/album/3CbdSetzq97CEk0MRfHliP) | 2:38 | 2026-08-28 |  |
 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 | 2021-10-08 | 2023-11-11 |
 | [Una Copa Más](https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [LVGA](https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty) | [Una Copa Más](https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk) | 2:49 | 2024-04-26 | 2024-09-17 |
 | [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 | 2025-03-14 |  |

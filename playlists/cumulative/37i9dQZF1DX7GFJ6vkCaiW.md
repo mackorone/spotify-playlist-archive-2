@@ -2,9 +2,9 @@
 
 ### [Video Musik Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DX7GFJ6vkCaiW)
 
-> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Kunto Aji
+> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Difki Khalif
 
-120 songs - 7 hr 39 min
+121 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,13 +14,14 @@
 | [akankah aku sampai kesana?](https://open.spotify.com/track/1DSAGMCAHhKihNoge4QlCX) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 3:14 | 2026-04-24 |  |
 | [Aku Bukan Untukmu](https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Bukan Untukmu](https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD) | 3:52 | 2026-04-24 |  |
 | [Aku Harus Pergi](https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Aku Harus Pergi](https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe) | 3:52 | 2026-06-29 |  |
-| [Alasan Klasik](https://open.spotify.com/track/6Y8uDRZYlEkVABLmtjfLlu) | [Clara Riva](https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J) | [Alasan Klasik](https://open.spotify.com/album/1vuWUheHHacrEfeziXf3O2) | 3:35 | 2026-04-24 |  |
+| [Alasan Klasik](https://open.spotify.com/track/6Y8uDRZYlEkVABLmtjfLlu) | [Clara Riva](https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J) | [Alasan Klasik](https://open.spotify.com/album/1vuWUheHHacrEfeziXf3O2) | 3:35 | 2026-04-24 | 2026-08-28 |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2026-04-24 |  |
 | [Anything You Want](https://open.spotify.com/track/0EDgUNdoWnRslGw6epuJY9) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 3:56 | 2026-04-24 |  |
 | [Asumsi](https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [HARAP\-HARAP EMAS](https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB) | 4:21 | 2026-04-24 |  |
 | [Backburner](https://open.spotify.com/track/4kkWvBCT6wq5NHoJjYRaPU) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:56 | 2026-04-24 |  |
 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 | 2026-04-24 |  |
 | [Bahagia Tanpaku](https://open.spotify.com/track/6TIPNTCl2RcQTJtp88AjXZ) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Bahagia Tanpaku](https://open.spotify.com/album/1QYQnNJBkDHf7evDaUGsQK) | 4:12 | 2026-04-24 |  |
+| [Belum Selesai](https://open.spotify.com/track/7KUUUllWusWxI6Ijoegw0L) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Belum Selesai](https://open.spotify.com/album/5GwuQps4Q7M2SFtqJwvK4B) | 3:25 | 2026-08-27 |  |
 | [bERANI](https://open.spotify.com/track/48oUGcXdLlGztCA0u0gqNI) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [bERANI](https://open.spotify.com/album/1SJCHC92mK2v7frrmWXFCf) | 3:30 | 2026-08-22 |  |
 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 | 2026-04-24 |  |
 | [Berharap Kau Kembali](https://open.spotify.com/track/7tPwtI9qBY7yoZtz35UYsN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 4:18 | 2026-04-24 |  |

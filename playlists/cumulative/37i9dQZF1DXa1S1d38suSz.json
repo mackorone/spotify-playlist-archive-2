@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "ciclos",
+        "url": "https://open.spotify.com/album/6t2HxVOXaO4TFEVZtqM2jG"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "desamarte",
+      "url": "https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC"
+    },
+    {
+      "album": {
         "name": "Mujer",
         "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
       },
@@ -720,6 +738,28 @@
       "duration_ms": 251359,
       "name": "El D\u00eda Que Me Quieras",
       "url": "https://open.spotify.com/track/2tYXqOwmOs1Lx6lUQaM2Mc"
+    },
+    {
+      "album": {
+        "name": "El Sombrero y La Camisa",
+        "url": "https://open.spotify.com/album/3wC46e6BTDk2qPyiwIOu45"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157478,
+      "name": "El Sombrero y La Camisa",
+      "url": "https://open.spotify.com/track/4p6fcGUvYftongzpzjTrN9"
     },
     {
       "album": {
@@ -1602,7 +1642,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 236694,
       "name": "Seguradetodo - Spotify Sessions",
       "url": "https://open.spotify.com/track/4IcTF2Ojx7XbnuDbcwQmHC"
@@ -1962,7 +2002,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 308389,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"

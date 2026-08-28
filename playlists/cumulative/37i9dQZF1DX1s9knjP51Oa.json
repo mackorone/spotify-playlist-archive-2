@@ -10023,6 +10023,24 @@
     },
     {
       "album": {
+        "name": "Paper Walls",
+        "url": "https://open.spotify.com/album/2SSMa7IHqQBiKCB8epfAte"
+      },
+      "artists": [
+        {
+          "name": "SoftKey",
+          "url": "https://open.spotify.com/artist/73P22uwEYwcNzLZhc63iFX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142773,
+      "name": "Paper Walls",
+      "url": "https://open.spotify.com/track/7gcF93jJYQ8THRGNCOzto2"
+    },
+    {
+      "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF"
       },

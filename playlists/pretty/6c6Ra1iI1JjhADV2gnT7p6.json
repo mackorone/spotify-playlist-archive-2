@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60496,
+  "num_followers": 60503,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABU5y1CyJXj/fnkDtFz9y2Ate9nXi0g",
+  "snapshot_id": "AABU/HOkSHLHmKfZ1G7WsNaTw/A4hvOE",
   "tracks": [
     {
       "added_at": "2026-08-23 11:47:28",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-08-23 11:47:28",
       "album": {
-        "name": "catch me if you can",
-        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
-      },
-      "artists": [
-        {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "catch me if you can",
-      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
-    },
-    {
-      "added_at": "2026-08-23 11:47:28",
-      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/6UiXsffeceFbIvVcxaAK5V"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 257857,
       "name": "Backseat - Birthday in Texas Remix",
       "url": "https://open.spotify.com/track/3o0q6n6BYzFk2zHeTMH2GX"
+    },
+    {
+      "added_at": "2026-08-23 11:47:28",
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
       "added_at": "2026-08-23 11:47:28",
@@ -20007,22 +20007,6 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "The Audio Of Being",
-        "url": "https://open.spotify.com/album/0UYOqMcFOC8Pm4PPqgkUK6"
-      },
-      "artists": [
-        {
-          "name": "Matthew Good Band",
-          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Anti-pop",
-      "url": "https://open.spotify.com/track/3JcQljp6ng4aPv17V1XKmz"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
         "name": "1331",
         "url": "https://open.spotify.com/album/5z015dWdJkUF0ngJM9s1O4"
       },
@@ -21616,7 +21600,7 @@
           "url": "https://open.spotify.com/artist/38qRQG1qLJ6nfK9xo8Om3R"
         }
       ],
-      "duration_ms": 187819,
+      "duration_ms": 188076,
       "name": "I Was On Fire (But Now I'm Fine)",
       "url": "https://open.spotify.com/track/4IKE1nwMh5RdeOW2Af0oNn"
     },
@@ -26651,86 +26635,6 @@
     {
       "added_at": "2026-06-21 08:55:18",
       "album": {
-        "name": "BONNIE 8 CLYDE",
-        "url": "https://open.spotify.com/album/0uFwHK6X7b81QhxQu7CCCr"
-      },
-      "artists": [
-        {
-          "name": "GLA88",
-          "url": "https://open.spotify.com/artist/1B35Cbcgm5BRj9aorm0AyK"
-        }
-      ],
-      "duration_ms": 162249,
-      "name": "BONNIE 8 CLYDE",
-      "url": "https://open.spotify.com/track/4vD4GQbsjlqt5Ngm3UTpU4"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "AFRAID TO DIE",
-        "url": "https://open.spotify.com/album/6FMYxT1o4zfHEsas7nb1t9"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 240163,
-      "name": "AFRAID TO DIE",
-      "url": "https://open.spotify.com/track/6GiHYoRbplk9wYZ4TL3uw5"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Make the Measure",
-        "url": "https://open.spotify.com/album/6hjuJZOm5LkP40Fht4hag4"
-      },
-      "artists": [
-        {
-          "name": "Strange Devotion",
-          "url": "https://open.spotify.com/artist/3xatkBuEmetoMeItd2Ngek"
-        }
-      ],
-      "duration_ms": 261118,
-      "name": "Make the Measure",
-      "url": "https://open.spotify.com/track/3z82mpCwDQuM3m96ukXpzw"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "More Than What He Was",
-        "url": "https://open.spotify.com/album/6mWIvNWn1j0U71dpxalcAT"
-      },
-      "artists": [
-        {
-          "name": "Das Birthday Girl",
-          "url": "https://open.spotify.com/artist/0rDlHN73QBEzBwQYyBOLQQ"
-        }
-      ],
-      "duration_ms": 240642,
-      "name": "More Than What He Was",
-      "url": "https://open.spotify.com/track/0vOYX8Gqle8OTWv9BEk4mX"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Gift Shop",
-        "url": "https://open.spotify.com/album/0CtNfHD0FJI466oQgDtPzv"
-      },
-      "artists": [
-        {
-          "name": "Gizmo",
-          "url": "https://open.spotify.com/artist/1I6pHbGqoXTc1bpXOqhj7o"
-        }
-      ],
-      "duration_ms": 139546,
-      "name": "Gift Shop",
-      "url": "https://open.spotify.com/track/7ijcvI1YVaxpjQy3yFZt0U"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7kSloKKn8BkFF4ixNSNaDP"
       },
@@ -26743,38 +26647,6 @@
       "duration_ms": 351232,
       "name": "Home",
       "url": "https://open.spotify.com/track/4f4CPphvi7sjYKdUD3rxbN"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Caretaker",
-        "url": "https://open.spotify.com/album/16Mgb30h4hRGmw5ZJ2qmkj"
-      },
-      "artists": [
-        {
-          "name": "Mallory Hawk",
-          "url": "https://open.spotify.com/artist/54v01c74ZMDG5AsKmVQcvD"
-        }
-      ],
-      "duration_ms": 166137,
-      "name": "Caretaker",
-      "url": "https://open.spotify.com/track/3dxyObqUcYjk5gEuyjSHlp"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z"
-      },
-      "artists": [
-        {
-          "name": "Trimmo",
-          "url": "https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW"
-        }
-      ],
-      "duration_ms": 204456,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/1TqrTGETvJKUcynPVX73Mo"
     },
     {
       "added_at": "2026-06-21 08:55:18",
@@ -26795,82 +26667,18 @@
     {
       "added_at": "2026-06-21 08:55:18",
       "album": {
-        "name": "Simulacra",
-        "url": "https://open.spotify.com/album/5RdpwUfIvh0hrydpclVlLI"
+        "name": "White Fumata",
+        "url": "https://open.spotify.com/album/77AmsfY47vZrNoLLpJQsKt"
       },
       "artists": [
         {
-          "name": "Eric Demuro",
-          "url": "https://open.spotify.com/artist/7LyTuBEf2GcMkptZDzWlbj"
+          "name": "HEAL",
+          "url": "https://open.spotify.com/artist/7rRrZGZrULvbOHLIwsvz2H"
         }
       ],
-      "duration_ms": 250001,
-      "name": "Hau",
-      "url": "https://open.spotify.com/track/67NQmdOFSPcLcYrK0VvWcI"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Ideas for Branching in United States",
-        "url": "https://open.spotify.com/album/27rwJHxBRU1NEpEwCjipwg"
-      },
-      "artists": [
-        {
-          "name": "ideasforconversations",
-          "url": "https://open.spotify.com/artist/6cxOz8rz1Gk492H9DDbVtD"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6fCNBG2r0hspxgQ2Z2Om4m"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Swollen Eyes",
-        "url": "https://open.spotify.com/album/4xDLx9frxvwTTTL3sau12V"
-      },
-      "artists": [
-        {
-          "name": "BendreTheGiant",
-          "url": "https://open.spotify.com/artist/0shIMtgnKC8fYwBUPyXUiw"
-        }
-      ],
-      "duration_ms": 209205,
-      "name": "I went to jump in front of a train but a couple was making out and I didn't want to ruin the mood so I went home",
-      "url": "https://open.spotify.com/track/6LFdOvCod5TiepcU1OuvEz"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "The Wanting Chemical",
-        "url": "https://open.spotify.com/album/5YdZYf2h7mQcu7vjYY3CCj"
-      },
-      "artists": [
-        {
-          "name": "miscellaneous owl",
-          "url": "https://open.spotify.com/artist/305iwXOZ4wwlnWnrr3jfuh"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Walling up the Train",
-      "url": "https://open.spotify.com/track/6GPXAhWuOWChlVul8bWcPo"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Triple Ones",
-        "url": "https://open.spotify.com/album/3If1yiQnyrz6toTQgJ7gEo"
-      },
-      "artists": [
-        {
-          "name": "Artificial Go",
-          "url": "https://open.spotify.com/artist/6XBGmjpy9vfSmarlFHppRU"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "Jane Ate the Apple Seed",
-      "url": "https://open.spotify.com/track/6RijF0WY5gYZ8VnWUGVqes"
+      "duration_ms": 256392,
+      "name": "White Fumata",
+      "url": "https://open.spotify.com/track/5JDj5ZHHgK7dl3KbUyXoWo"
     },
     {
       "added_at": "2026-06-21 08:55:18",
@@ -26907,6 +26715,22 @@
     {
       "added_at": "2026-06-21 08:55:18",
       "album": {
+        "name": "The Imagined Life",
+        "url": "https://open.spotify.com/album/26bETVtbCRjYIbnvI7HqfA"
+      },
+      "artists": [
+        {
+          "name": "Blanco Tranco",
+          "url": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
+        }
+      ],
+      "duration_ms": 205364,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/6AK4s6f1gaZB82k7Xf20d6"
+    },
+    {
+      "added_at": "2026-06-21 08:55:18",
+      "album": {
         "name": "Immortal",
         "url": "https://open.spotify.com/album/0WrZnF3dHq0VNT0ZCUQIdC"
       },
@@ -26935,54 +26759,6 @@
       "duration_ms": 166250,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/1gBtGlJ2xsRON7PoZu6slp"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "The Imagined Life",
-        "url": "https://open.spotify.com/album/26bETVtbCRjYIbnvI7HqfA"
-      },
-      "artists": [
-        {
-          "name": "Blanco Tranco",
-          "url": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
-        }
-      ],
-      "duration_ms": 205364,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/6AK4s6f1gaZB82k7Xf20d6"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "White Fumata",
-        "url": "https://open.spotify.com/album/77AmsfY47vZrNoLLpJQsKt"
-      },
-      "artists": [
-        {
-          "name": "HEAL",
-          "url": "https://open.spotify.com/artist/7rRrZGZrULvbOHLIwsvz2H"
-        }
-      ],
-      "duration_ms": 256392,
-      "name": "White Fumata",
-      "url": "https://open.spotify.com/track/5JDj5ZHHgK7dl3KbUyXoWo"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Songs from an Empty Orchestra",
-        "url": "https://open.spotify.com/album/0EvoL4CodiPmqaXIXMsddW"
-      },
-      "artists": [
-        {
-          "name": "S.F. Johnson",
-          "url": "https://open.spotify.com/artist/0EudqBbdt4HSD0gK7ijpMI"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Asphyxiation",
-      "url": "https://open.spotify.com/track/4kqBxvga3dddMGN9pNedt4"
     },
     {
       "added_at": "2026-06-14 09:15:50",
@@ -27359,22 +27135,6 @@
     {
       "added_at": "2026-06-14 09:15:50",
       "album": {
-        "name": "Unexpected Violence",
-        "url": "https://open.spotify.com/album/218ocNVkMKsrahZGNHP5sJ"
-      },
-      "artists": [
-        {
-          "name": "School Fair",
-          "url": "https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Outside Looking In",
-      "url": "https://open.spotify.com/track/16fC9u5rAOIAtu480m9niw"
-    },
-    {
-      "added_at": "2026-06-14 09:15:50",
-      "album": {
         "name": "Over the Moon",
         "url": "https://open.spotify.com/album/12W4FBKsvbBcjyqBXDNqmX"
       },
@@ -27387,38 +27147,6 @@
       "duration_ms": 182112,
       "name": "Over the Moon",
       "url": "https://open.spotify.com/track/1xLd6I8ZSZAT4hjJf6uzEy"
-    },
-    {
-      "added_at": "2026-06-14 09:15:50",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/1ha3wVdtpaglJ3equxDtDi"
-      },
-      "artists": [
-        {
-          "name": "Private Lines",
-          "url": "https://open.spotify.com/artist/5Vu7BbC7ABaTmktPLWYEun"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2gyvzXCfiHwUvoAFBkcpkO"
-    },
-    {
-      "added_at": "2026-06-14 09:15:50",
-      "album": {
-        "name": "Venus is ur star",
-        "url": "https://open.spotify.com/album/2AgTJQhc4Z0FZDhOQGQPB6"
-      },
-      "artists": [
-        {
-          "name": "Turquoise Sun",
-          "url": "https://open.spotify.com/artist/2nOQAiVGoRfFKokcBhMI0K"
-        }
-      ],
-      "duration_ms": 194125,
-      "name": "Venus is ur Star",
-      "url": "https://open.spotify.com/track/3zndyiVjIhGMaanYtwuCvy"
     },
     {
       "added_at": "2026-06-14 09:15:50",

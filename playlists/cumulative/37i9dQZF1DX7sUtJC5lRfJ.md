@@ -4,7 +4,7 @@
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-68 songs - 4 hr 19 min
+69 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [let me go](https://open.spotify.com/track/2cWeuIH1VFqhBdm88oFtCm) | [KIMLONG](https://open.spotify.com/artist/26GpU9jkhwkZCyWBw6Prbf) | [bittersweet](https://open.spotify.com/album/0DcvcMfRccgIZI9bQSjOp5) | 2:56 | 2026-07-31 |  |
 | [Lovetamin](https://open.spotify.com/track/0anwIFefRjv4KNZq9gB3po) | [Hanzi](https://open.spotify.com/artist/15ZgV0muEsLwegqv0NlmHU) | [Lovetamin](https://open.spotify.com/album/0vkzo5HhcdJBJvnycrIcBi) | 3:05 | 2026-06-25 | 2026-07-06 |
 | [Lá Ngọc Cành Vàng](https://open.spotify.com/track/0vbmSk6huZt5H6vhpfI6BX) | [Kiều Anh](https://open.spotify.com/artist/3hlJ2qli6WvQaJ1FqyTP02) | [Lá Ngọc Cành Vàng](https://open.spotify.com/album/0PudQio1QykKKekRWXfEdm) | 3:42 | 2026-07-05 |  |
+| [lạc bước trong ngần mắt em](https://open.spotify.com/track/4hFOmgvcPbobvPKnsAQIVh) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [lạc bước trong ngần mắt em](https://open.spotify.com/album/2HSpr3SP4kZTxouuyofhXo) | 3:12 | 2026-08-28 |  |
 | [Lần Này Anh Buông](https://open.spotify.com/track/2ztGQMgFRzsMDdP20cAayq) | [Anh Tú](https://open.spotify.com/artist/7LLfmKhGZI11XO0dO4xDI7) | [Lần Này Anh Buông](https://open.spotify.com/album/5ntuRevdW8bKKqax6WiwVi) | 5:02 | 2026-07-13 |  |
 | [Lửa Gần Rơm](https://open.spotify.com/track/3AF1fXVAtkscCkW7mEVxUY) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Lửa Gần Rơm](https://open.spotify.com/album/3hObjbuaDU4N1o5IGO6yXx) | 3:11 | 2026-04-23 | 2026-05-04 |
 | [MAY KIN THANH DO](https://open.spotify.com/track/6o7CaOFyXiBSSkl8jHW5ou) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [TONoise](https://open.spotify.com/artist/2cobR2qFaGjfuIfxAXJXUo) | [MAY KIN THANH DO](https://open.spotify.com/album/5zRaeewm22BfnosVLVUtLx) | 2:37 | 2026-04-23 | 2026-06-11 |

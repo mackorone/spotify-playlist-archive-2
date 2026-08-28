@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-589 songs - 1 day 15 hr 32 min
+590 songs - 1 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Take Me Back](https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [New Morning](https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh) | 5:36 | 2021-04-23 | 2022-04-23 |
 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 | 2023-09-15 | 2025-07-19 |
 | [Talkin' To Myself](https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Broken](https://open.spotify.com/album/3XXt7jo30yi07AseATCdby) | 4:15 | 2024-03-01 | 2025-06-07 |
-| [Tangled](https://open.spotify.com/track/4qZ9hEAVbeTAt3oNXDhs9O) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Tangled](https://open.spotify.com/album/0HQDRy8vbeapUnpqSfbq9p) | 4:14 | 2026-07-31 |  |
+| [Tangled](https://open.spotify.com/track/4qZ9hEAVbeTAt3oNXDhs9O) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Tangled](https://open.spotify.com/album/0HQDRy8vbeapUnpqSfbq9p) | 4:14 | 2026-07-31 | 2026-08-28 |
 | [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 | 2023-03-24 | 2023-07-01 |
 | [Tell Mamala](https://open.spotify.com/track/3jq1QrrDci8STyApQBHLft) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Tell Mamala](https://open.spotify.com/album/2GuHcm724OD7ANh9ZAKLdW) | 3:05 | 2021-10-22 | 2022-04-23 |
 | [Tenere Den](https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Tenere Den](https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei) | 3:32 | 2023-03-17 | 2023-05-13 |
@@ -579,6 +579,7 @@
 | [Woman Like You](https://open.spotify.com/track/2LAwa7amti4xehvCeWBRQ7) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 4:19 | 2020-12-14 | 2022-02-26 |
 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 | 2023-07-21 | 2025-06-21 |
 | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 | 2024-08-09 |  |
+| [Yes](https://open.spotify.com/track/7gcP4n7Rqy4n2qFKpWu2bc) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Just Say Yes](https://open.spotify.com/album/4llPdQko8nRGK12QcHWs3N) | 4:07 | 2026-08-28 |  |
 | [You Can't Heal What You Hide](https://open.spotify.com/track/4Utooqc94lpk1RfWT2jSJu) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Roots & Wings](https://open.spotify.com/album/2E7yNO54IXDhJwDdRZ5ZM0) | 3:55 | 2026-05-29 |  |
 | [You Can't Judge A Book By The Cover](https://open.spotify.com/track/1xhhf7JXO9lq5FBdXfu2GR) | [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Rayne Castiglia](https://open.spotify.com/artist/1QPQ9prc4vsQsLI6xlqBwt), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [You Can’t Judge a Book By the Cover](https://open.spotify.com/album/5EanQoKPT2EZ2HBIM5tDig) | 4:34 | 2024-07-12 | 2026-05-16 |
 | [You Don't Know The Blues](https://open.spotify.com/track/3uYWtoQd5lPBrE8OhBP2Wg) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [You Don't Know The Blues](https://open.spotify.com/album/0aC5fduz5FiAQiuKrsQhjM) | 4:34 | 2021-12-10 | 2022-07-29 |

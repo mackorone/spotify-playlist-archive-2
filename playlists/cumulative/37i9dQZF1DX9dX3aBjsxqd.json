@@ -1891,6 +1891,32 @@
     },
     {
       "album": {
+        "name": "In Luce Gratiae",
+        "url": "https://open.spotify.com/album/4g0YssVJuDpqZya7TyaqxJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Goldmund Quartet",
+          "url": "https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235003,
+      "name": "In Luce Gratiae",
+      "url": "https://open.spotify.com/track/4mRFXmLKlkX23U4uPhW80p"
+    },
+    {
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9"
       },

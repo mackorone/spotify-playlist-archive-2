@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Vapor Cloud",
+        "url": "https://open.spotify.com/album/41FPKRCtST0yaiWeHc6zwM"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190753,
+      "name": "Vapor Cloud",
+      "url": "https://open.spotify.com/track/796tohSUErTI6MUojnv4Rc"
+    },
+    {
+      "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
       },

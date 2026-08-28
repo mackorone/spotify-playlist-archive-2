@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
@@ -3287,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Billets",
+        "url": "https://open.spotify.com/album/1o09JinG9gz1tJ4HIqu6dw"
+      },
+      "artists": [
+        {
+          "name": "Drippy14",
+          "url": "https://open.spotify.com/artist/4zraSx4BemM0PKO5tQQUDE"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Billets",
+      "url": "https://open.spotify.com/track/1qU308QRfBdcsnE2YL57Kz"
+    },
+    {
+      "album": {
         "name": "Billie",
         "url": "https://open.spotify.com/album/2sorTEePV03yWplyfjgs8e"
       },
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 123497,
       "name": "BLADE IT",
       "url": "https://open.spotify.com/track/1mVGqHDMtAYb1j2ragmVDU"
@@ -3542,6 +3560,24 @@
       "duration_ms": 172808,
       "name": "BLESSING",
       "url": "https://open.spotify.com/track/3fng6KlG6hdYYkzNiayByV"
+    },
+    {
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/4C0IIEMCwgYFcdIxBXO2cW"
+      },
+      "artists": [
+        {
+          "name": "FRE5H",
+          "url": "https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/42opmrLruSHb2uj2ofkHiW"
     },
     {
       "album": {
@@ -9827,6 +9863,36 @@
     },
     {
       "album": {
+        "name": "FRANKENSTEIN",
+        "url": "https://open.spotify.com/album/3LgbKd2VgrctdCjlZgLCGy"
+      },
+      "artists": [
+        {
+          "name": "Dr. Stein",
+          "url": "https://open.spotify.com/artist/2VJPQYs4oCE20tmtcXcVuR"
+        },
+        {
+          "name": "Badmninto",
+          "url": "https://open.spotify.com/artist/5dgiez7ImVf3X4JMS1LPvy"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Loe Pesci",
+          "url": "https://open.spotify.com/artist/2l1Bypi6TgHeGIItOPAmm6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "FUMED'LADOPE",
+      "url": "https://open.spotify.com/track/01099yMrsoUzVIKLC9R1ac"
+    },
+    {
+      "album": {
         "name": "Funambule",
         "url": "https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2"
       },
@@ -11658,7 +11724,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 179076,
       "name": "Ill\u00e9gal",
       "url": "https://open.spotify.com/track/6xjGT0wCJvMU77T9SQUOlo"
@@ -12236,7 +12302,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 163368,
       "name": "Jamais Faire",
       "url": "https://open.spotify.com/track/1xwtcVHOoBKJImvrpLTe0r"
@@ -14108,7 +14174,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157616,
       "name": "LEFFETDUGWAP",
       "url": "https://open.spotify.com/track/7i8VNYioePOaPTa7Oapkrn"
@@ -14817,6 +14883,24 @@
     },
     {
       "album": {
+        "name": "L\u00c0 TU C",
+        "url": "https://open.spotify.com/album/4DhASEp9gKTol6JO067CEC"
+      },
+      "artists": [
+        {
+          "name": "Rose Duke",
+          "url": "https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "L\u00c0 TU C",
+      "url": "https://open.spotify.com/track/0SjxnsjYxT0HWKi1zVflOU"
+    },
+    {
+      "album": {
         "name": "L\u00e0-Haut",
         "url": "https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP"
       },
@@ -15262,6 +15346,24 @@
       "duration_ms": 139623,
       "name": "Mal au coeur",
       "url": "https://open.spotify.com/track/4pM6aTuzZvjWAM1rV5aTsn"
+    },
+    {
+      "album": {
+        "name": "Divinement Guid\u00e9",
+        "url": "https://open.spotify.com/album/5t4ZZJHrHu80p9wGNiBZrM"
+      },
+      "artists": [
+        {
+          "name": "Divinely Guided",
+          "url": "https://open.spotify.com/artist/510DfJ1niG4PgG0Vl2P2cO"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137857,
+      "name": "Malaise",
+      "url": "https://open.spotify.com/track/1xE9OgNkWeWdTqOj6HC83J"
     },
     {
       "album": {
@@ -19237,6 +19339,32 @@
     },
     {
       "album": {
+        "name": "Picture this",
+        "url": "https://open.spotify.com/album/2Gye0J5B02LQ2Dbn07yBzS"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9kent",
+          "url": "https://open.spotify.com/artist/3wJOLOQPnVI6dkmAUZZPuw"
+        },
+        {
+          "name": "St-Saoul",
+          "url": "https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ"
+        },
+        {
+          "name": "DJ Horg",
+          "url": "https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "Picture this",
+      "url": "https://open.spotify.com/track/7f3OsbhS77aaQdOdIAPYRU"
+    },
+    {
+      "album": {
         "name": "Pied dans porte",
         "url": "https://open.spotify.com/album/6x6OekiM0f0XxsoUx6ET6H"
       },
@@ -22834,7 +22962,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 178075,
       "name": "Smoothie aux bleuets",
       "url": "https://open.spotify.com/track/6EWPlzxSNjswZzV3PPeN4H"

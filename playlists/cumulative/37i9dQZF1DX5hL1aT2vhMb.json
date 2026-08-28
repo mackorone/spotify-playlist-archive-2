@@ -347,6 +347,28 @@
     },
     {
       "album": {
+        "name": "Fanny Mendelssohn: Abschied von Rom, H-U. 352",
+        "url": "https://open.spotify.com/album/4S2g8tTeeWT20ErQID1uAX"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Susan Tomes",
+          "url": "https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Abschied von Rom, H-U. 352",
+      "url": "https://open.spotify.com/track/26oPDLAmOYJjyMxNNYkTRF"
+    },
+    {
+      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/69XO9zYV3p6p26fjMExO3G"
       },
@@ -5010,6 +5032,32 @@
       "duration_ms": 254524,
       "name": "The Unfortunate Traveller: III. Interlude. Quasi lento",
       "url": "https://open.spotify.com/track/4LmsCGzs7hK1RGozzK2omJ"
+    },
+    {
+      "album": {
+        "name": "Theme from Samson and Delilah (arr. Nina Simone)",
+        "url": "https://open.spotify.com/album/6KXmXf0AHeN8DOSxzTi4kQ"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306401,
+      "name": "Theme from Samson and Delilah - arr. Nina Simone",
+      "url": "https://open.spotify.com/track/6pphfcdaEUbRc4EuMCurNW"
     },
     {
       "album": {

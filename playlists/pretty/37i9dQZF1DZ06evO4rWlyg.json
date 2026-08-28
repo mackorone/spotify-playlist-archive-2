@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 156307,
+  "num_followers": 156324,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAAC1G+xhjEkKBlKX4m3fwNNU",
+  "snapshot_id": "ao4sgAAAAAA+eNiqtZqK46aPDs+KGWX8",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Army Of Me",
+      "url": "https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Venus As A Boy",
+      "url": "https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play Dead",
         "url": "https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R"
       },
@@ -83,6 +115,118 @@
     {
       "added_at": null,
       "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 286333,
+      "name": "All Is Full Of Love",
+      "url": "https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Human Behaviour",
+      "url": "https://open.spotify.com/track/6MYYN85MjM7TARWshRwjyW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00f3ga",
+        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "J\u00f3ga",
+      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "Hyper-ballad",
+      "url": "https://open.spotify.com/track/2w0wVOiydK5a5e5UqffWwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
@@ -92,9 +236,73 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 101506,
-      "name": "Frosti",
-      "url": "https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v"
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 306773,
+      "name": "Possibly Maybe",
+      "url": "https://open.spotify.com/track/104n46NrvCQ2qXoBWY35ch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Big Time Sensuality",
+      "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 329360,
+      "name": "Hidden Place",
+      "url": "https://open.spotify.com/track/1Y4aFRwAwE5Ghm24vaYrnR"
     },
     {
       "added_at": null,
@@ -115,6 +323,70 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/2zBiGZhXWueCpKqIeKAssH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 347026,
+      "name": "Isobel",
+      "url": "https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 290906,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/1R2UhZCSxL1N4kcwa929Fu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 101506,
+      "name": "Frosti",
+      "url": "https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk"
     },
     {
       "added_at": null,
@@ -144,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 324266,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/1k9y7iGRJvg5Kdvd94SGTi"
+      "duration_ms": 201533,
+      "name": "There's More To Life Than This - Live At The Milk Bar Toilets",
+      "url": "https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL"
     },
     {
       "added_at": null,
@@ -160,25 +432,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 338400,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Time Sensuality (Remixes)",
-        "url": "https://open.spotify.com/album/7jAZPZHYJENusfHTugn3eO"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Big Time Sensuality - The Fluke Minimix",
-      "url": "https://open.spotify.com/track/7ACtwM3CUL1vgvuso8j182"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -192,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 243800,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2pDMVFdeAsFI73DDekyvDf"
+      "duration_ms": 237000,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/4N4qSX4RpU7U5TW6PMg84a"
     },
     {
       "added_at": null,
@@ -208,41 +464,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 186266,
-      "name": "Immature - Mark Bell's Version",
-      "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 407600,
-      "name": "Unison",
-      "url": "https://open.spotify.com/track/7qaI6YnDKWOblDUwa6b5jQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/1iBP7S79utGK7w8ud2GwwD"
+      "duration_ms": 199293,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
     },
     {
       "added_at": null,
@@ -263,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "All Neon Like",
-      "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
@@ -288,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Harm Of Will",
-      "url": "https://open.spotify.com/track/1IPwLXziyeuNfp63Dz6ePj"
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "added_at": null,
@@ -311,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "You've Been Flirting Again",
-      "url": "https://open.spotify.com/track/6YoNajB4BxG971cu0Q1BoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homogenic",
         "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
@@ -336,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 269066,
-      "name": "5 Years",
-      "url": "https://open.spotify.com/track/3mmB2OL6YP2FwMR6eQ5mp5"
+      "duration_ms": 186266,
+      "name": "Immature - Mark Bell's Version",
+      "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
     },
     {
       "added_at": null,
@@ -359,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Biophilia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
@@ -371,6 +579,22 @@
       "duration_ms": 308053,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/3PfdVg6wGFvUYdGrrUJNQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "All Neon Like",
+      "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
     },
     {
       "added_at": null,
@@ -391,22 +615,6 @@
       "duration_ms": 321440,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Alarm Call",
-      "url": "https://open.spotify.com/track/5ghdg3LmJ6u8SQNDAXQ58T"
     },
     {
       "added_at": null,
@@ -495,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
       "artists": [
         {
@@ -504,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 340373,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/3DwWbiYkm7oZ2nUnNO1Jcx"
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
     },
     {
       "added_at": null,
@@ -547,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's In Our Hands, Vol. 1",
+        "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Biophilia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
@@ -563,26 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venus As A Boy",
-        "url": "https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m"
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Mick Hucknall",
-          "url": "https://open.spotify.com/artist/1zxmHkQCUfZYDjwV6MYjZN"
-        },
-        {
-          "name": "Gota Yashaki",
-          "url": "https://open.spotify.com/artist/0REdMhvkyUL1SkEEftZwjN"
         }
       ],
-      "duration_ms": 242360,
-      "name": "Venus As A Boy - 7\" Dream Mix",
-      "url": "https://open.spotify.com/track/2fUyusW13ZVB1s8rMl1isz"
+      "duration_ms": 261826,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
     },
     {
       "added_at": null,
@@ -623,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 44405,
-      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Biophilia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
@@ -651,226 +851,6 @@
       "duration_ms": 319600,
       "name": "Virus",
       "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 608766,
-      "name": "Black Lake",
-      "url": "https://open.spotify.com/track/5qfJSItAIEndephCzfQ6Nu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "I Go Humble",
-      "url": "https://open.spotify.com/track/6ZFL4BVfffzTLr90l7iehN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 218154,
-      "name": "Ovule",
-      "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 340893,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/2Q0qzMak3O7uDVZrDO9RDN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isobel",
-        "url": "https://open.spotify.com/album/10JHcYPElCXAZiyygOZ0F4"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/2F2qfvrwmKykv9w2cUkhZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ex:el",
-        "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "Ooops",
-      "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 351013,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/6IhJzTzeoY4Cddxhfs1998"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/3NAxXFxc3F9TkgNdf5p5ud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Army Of Me",
-        "url": "https://open.spotify.com/album/2SR6dfeg9xDYreJJctI7XF"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 279426,
-      "name": "Army Of Me - Sucker Punch Remix",
-      "url": "https://open.spotify.com/track/4GlINJTlEq7g9diy5dJ9an"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "Thunderbolt",
-      "url": "https://open.spotify.com/track/4BNIUgqAdOrAWNELDE97nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 393579,
-      "name": "The Gate",
-      "url": "https://open.spotify.com/track/2nJuqrzE0TOYxxUmKKU7jN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 386556,
-      "name": "Notget",
-      "url": "https://open.spotify.com/track/0NdYYigNfQqzL0k0ZxAlPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venus As A Boy",
-        "url": "https://open.spotify.com/album/69mBgDMGzJ3tBdhnUZ3I2d"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "There's More To Life Than This - Non Toilet",
-      "url": "https://open.spotify.com/track/3Wfx9iSEruzM6sYpwtFVmc"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

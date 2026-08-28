@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Sumérgete en un panorama imaginario de paisajes sonoros atmosféricos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,584 likes - 125 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,618 likes - 125 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [\#7](https://open.spotify.com/track/4Rjz6GjnEtG9upOBj6vGKK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 8:51 |
 | 2 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 |
 | 3 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
-| 4 | [A Forest](https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [A Forest](https://open.spotify.com/album/3eUWleWNULYMRFI2noRZnT) | 9:59 |
+| 4 | [A Forest](https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [A Forest](https://open.spotify.com/album/3eUWleWNULYMRFI2noRZnT) | 9:59 |
 | 5 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
 | 6 | [Four Hands](https://open.spotify.com/track/1L3X99PpfBZtUaPXDN2Lte) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/1pvK662Ezwrn0ofOxHZOcP) | 5:19 |
 | 7 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 108 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 109 | [Bike](https://open.spotify.com/track/4v9rHzCDgQXbDdB7t4Nwcz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 8:00 |
 | 110 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 |
-| 111 | [Opto File 1](https://open.spotify.com/track/3yaMB8ZCRhTpqW5qfOHgns) | [Opto](https://open.spotify.com/artist/0mdVUK3zymRXiPGQPWw8KX), [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Opto Files](https://open.spotify.com/album/5XRjps58rLCNTGovm1dqJt) | 5:08 |
+| 111 | [Opto File 1](https://open.spotify.com/track/3yaMB8ZCRhTpqW5qfOHgns) | [Opto](https://open.spotify.com/artist/0mdVUK3zymRXiPGQPWw8KX), [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O), [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Opto Files](https://open.spotify.com/album/5XRjps58rLCNTGovm1dqJt) | 5:08 |
 | 112 | [X22RME](https://open.spotify.com/track/3xQTGuuLdG90idrVMyCrTC) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [AZD](https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt) | 5:04 |
 | 113 | [Tears in the Rain](https://open.spotify.com/track/1SZ5Q4PdUbdgm8Mwl6KOmq) | [Zomby](https://open.spotify.com/artist/0e1hn6R8UCfLkpHINwAyXR) | [Where Were U In '92 ?](https://open.spotify.com/album/13kdisn8Z6lbNJbzq3a1Fh) | 4:34 |
 | 114 | [Only 1 Way 2 Know](https://open.spotify.com/track/2SO9x0h9oe8SjWmVEA9neh) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Vapor City Archives](https://open.spotify.com/album/72QLdpWUJtgAnbp56k35E5) | 4:38 |

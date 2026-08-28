@@ -12447,6 +12447,28 @@
     },
     {
       "album": {
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
+    },
+    {
+      "album": {
         "name": "Piditha Kirukey",
         "url": "https://open.spotify.com/album/4wAIGTaU0n7NzD23QeqoWr"
       },
@@ -12738,7 +12760,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 208252,
       "name": "Poi Kadhal",
       "url": "https://open.spotify.com/track/3dLhDLdUwUFeiDquvenigi"
@@ -14322,7 +14344,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 205000,
       "name": "Smitas Bhimavaram Beat (Tamil)",
       "url": "https://open.spotify.com/track/1tgTCP9Cc6mIqaLrJftNmT"
@@ -16818,6 +16840,28 @@
       "duration_ms": 116225,
       "name": "Vanakkam Vandhanam",
       "url": "https://open.spotify.com/track/15RGFYJ7lf651jySnXVPjS"
+    },
+    {
+      "album": {
+        "name": "Vazhimuzhudhum Varuvayaa??",
+        "url": "https://open.spotify.com/album/6erPePAHfE3MikkhqshzGG"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arun Gautham",
+          "url": "https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Vazhimuzhudhum Varuvayaa??",
+      "url": "https://open.spotify.com/track/3ZQGf9VkV4AiDIaLNBFHoi"
     },
     {
       "album": {

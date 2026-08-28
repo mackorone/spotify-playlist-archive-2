@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Aestas",
+        "url": "https://open.spotify.com/album/7i29jkDW1bBNuywyZv0gKq"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165044,
+      "name": "Aestas",
+      "url": "https://open.spotify.com/track/0nstm4UbxYaYfMbcJ2gX9Q"
+    },
+    {
+      "album": {
         "name": "Afgangurinn",
         "url": "https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x"
       },
@@ -1554,6 +1572,24 @@
       "duration_ms": 166683,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7cfJKQ5Lmy9zbVJAA6Q4cC"
+      },
+      "artists": [
+        {
+          "name": "Tayquin",
+          "url": "https://open.spotify.com/artist/17JNf1PaC48Jb70g0kR4xR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137247,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5ta5bcyFASmvyCFzlHWVBR"
     },
     {
       "album": {
@@ -5407,6 +5443,24 @@
     },
     {
       "album": {
+        "name": "Future Self",
+        "url": "https://open.spotify.com/album/0KfPyb6I21bSjL1IQeF9h6"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153241,
+      "name": "Future Self",
+      "url": "https://open.spotify.com/track/64wmyHnHM3jYBNXN7QGsam"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time (Great Movie Melodies by Ennio Morricone)",
         "url": "https://open.spotify.com/album/3oAzWbsDHCeNDd4GlBzusG"
       },
@@ -8076,6 +8130,24 @@
       "duration_ms": 141717,
       "name": "Less Than Before",
       "url": "https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG"
+    },
+    {
+      "album": {
+        "name": "Less Traveled",
+        "url": "https://open.spotify.com/album/0HG4M2MHd3WoTl7RHaSFrf"
+      },
+      "artists": [
+        {
+          "name": "Matthew Kaff",
+          "url": "https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137137,
+      "name": "Less Traveled",
+      "url": "https://open.spotify.com/track/7bagfki3iYVWPxrr6ymtTO"
     },
     {
       "album": {

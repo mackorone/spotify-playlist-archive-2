@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover:   Lasmid",
+  "description": "The hottest and recent Ghana party starters. Cover:   KiDi",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -5073,6 +5073,28 @@
     },
     {
       "album": {
+        "name": "From Far",
+        "url": "https://open.spotify.com/album/2Ah3LuqCLuFZzBVrY60wGr"
+      },
+      "artists": [
+        {
+          "name": "Alorman",
+          "url": "https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8"
+        },
+        {
+          "name": "Global boga",
+          "url": "https://open.spotify.com/artist/3BRuJOY9IHkCagNPOjEvVV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "From Far",
+      "url": "https://open.spotify.com/track/203RUz4pnlsKiefaRFPnyy"
+    },
+    {
+      "album": {
         "name": "From Osu",
         "url": "https://open.spotify.com/album/1qEx9aEwX3lrz0EX3Oro8z"
       },
@@ -6226,6 +6248,28 @@
       "duration_ms": 131219,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143119,
+      "name": "IDK (with Sarkodie)",
+      "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
     },
     {
       "album": {
@@ -13717,6 +13761,24 @@
     },
     {
       "album": {
+        "name": "We Go",
+        "url": "https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT"
+    },
+    {
+      "album": {
         "name": "WEATHER FOR 2",
         "url": "https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX"
       },
@@ -14106,6 +14168,24 @@
       "duration_ms": 170097,
       "name": "Wonderful Time",
       "url": "https://open.spotify.com/track/6014ETfFg8Xc1tlxZSaCMc"
+    },
+    {
+      "album": {
+        "name": "Wonti",
+        "url": "https://open.spotify.com/album/5nlI5sQed4837qKtGrODtl"
+      },
+      "artists": [
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Wonti",
+      "url": "https://open.spotify.com/track/2dlsncrlurYOmMHgBdftN4"
     },
     {
       "album": {

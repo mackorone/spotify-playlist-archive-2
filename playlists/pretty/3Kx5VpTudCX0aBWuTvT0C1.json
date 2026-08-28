@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 2090,
+  "num_followers": 2101,
   "original_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAACz1aLoOafaQ0vIeUlnfwBTPu5aFQ1",
+  "snapshot_id": "AAAC0Z22twvxWtHEVTs88tmCFwUdFgbB",
   "tracks": [
     {
       "added_at": "2026-01-04 15:06:22",
@@ -1487,6 +1487,46 @@
       "duration_ms": 192920,
       "name": "You Raise Me Up",
       "url": "https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md"
+    },
+    {
+      "added_at": "2026-08-27 08:34:11",
+      "album": {
+        "name": "Summer Day",
+        "url": "https://open.spotify.com/album/0fnzIsdIhhd0q1myqvLnZT"
+      },
+      "artists": [
+        {
+          "name": "Elephant Ears",
+          "url": "https://open.spotify.com/artist/3JRhJwWeTZXJhIQMTxiYyn"
+        },
+        {
+          "name": "Roi Aknin",
+          "url": "https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u"
+        },
+        {
+          "name": "Rowan Hart",
+          "url": "https://open.spotify.com/artist/73Ciwf8umkqK3w1TaDnNaU"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Summer Day",
+      "url": "https://open.spotify.com/track/4OimWd0lRxKaH4MQ3MKupL"
+    },
+    {
+      "added_at": "2026-08-27 10:15:41",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM"
+      },
+      "artists": [
+        {
+          "name": "Gary.D.Pearson and the Distance",
+          "url": "https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd"
     }
   ],
   "unique_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",

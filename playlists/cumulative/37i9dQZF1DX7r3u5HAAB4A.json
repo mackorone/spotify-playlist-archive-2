@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture. Cover: Destin Conrad\n",
+  "description": "A melting pot of Caribbean culture. Cover: Yung Miami\n",
   "name": "Fever",
   "tracks": [
     {
@@ -6131,6 +6131,36 @@
     },
     {
       "album": {
+        "name": "Spend Dat (International Remix)",
+        "url": "https://open.spotify.com/album/6ZY5l8FY38pEjlSGw7bZ1f"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258666,
+      "name": "Spend Dat (feat. Davido, Shenseea, Vybz Kartel) - International Remix",
+      "url": "https://open.spotify.com/track/1LAxyuzqEkzDfW0FwNsL5f"
+    },
+    {
+      "album": {
         "name": "Stay For The Night",
         "url": "https://open.spotify.com/album/0B2rHpRTIHDl4EtsqMy1bc"
       },
@@ -6750,7 +6780,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 219960,
       "name": "Time & Place",
       "url": "https://open.spotify.com/track/02Dt8MN0EAyUeqWnOJdppv"

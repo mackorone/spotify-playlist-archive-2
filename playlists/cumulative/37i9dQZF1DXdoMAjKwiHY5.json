@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Mad Dog in the Fog",
+        "url": "https://open.spotify.com/album/0O2BBZ5P4ljzLyyYfSVedH"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195512,
+      "name": "Blue Brush-Footed Butterfly",
+      "url": "https://open.spotify.com/track/2QVpQ3lEaAuOOnhZRffYh3"
+    },
+    {
+      "album": {
         "name": "All The Stars and Boulevards",
         "url": "https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 227098,
       "name": "Mad Dog in the Fog",
       "url": "https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ"

@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan gems in one playlist\. Cover: Gloria Bugie
+> Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-616 songs - 1 day 7 hr 14 min
+617 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 | 2024-02-03 |
 | [Your Sky Has No Limit\(Remix\)](https://open.spotify.com/track/5w5nAChJ1GYZbZkG7KmBKS) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Chase Bell](https://open.spotify.com/artist/57Y3Yk8FH0HglxHzvuCQn5) | [Your Sky Has No Limit\(Remix\)](https://open.spotify.com/album/7ecsebsRRk5R1JITUMUcrG) | 3:34 | 2024-05-03 | 2024-06-08 |
 | [Your Ways](https://open.spotify.com/track/50b953jkgOie1y0tkm7cnf) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [The One And Only](https://open.spotify.com/album/4G28LtW2pvuNwhrjLMKXcp) | 2:54 | 2025-07-24 | 2026-04-25 |
+| [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 | 2026-08-28 |  |
 | [Zabike](https://open.spotify.com/track/6dswDeHWQ4JBmus8dVk1wF) | [Brian Beats](https://open.spotify.com/artist/7eeOBOq3qvFtGnCgl6Fxw2), [Chosen Becky](https://open.spotify.com/artist/7biE5oHnPv23DEVweLAS5D) | [Zabike](https://open.spotify.com/album/7yBxQ6P5MEylMLiygKqp6f) | 2:50 | 2026-07-31 |  |
 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 | 2022-11-10 | 2023-03-25 |
 | [Zonto](https://open.spotify.com/track/2sE11WlM7FqWxMunI6qFyz) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea), [Deejay LL](https://open.spotify.com/artist/3atlFtpYb4W0UMNdJn4J3w) | [Zonto](https://open.spotify.com/album/6m7ZgmWVJG4fHv7RwdKjih) | 3:02 | 2024-12-20 | 2025-07-04 |

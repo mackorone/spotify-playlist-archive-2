@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,237 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,245 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,21 +20,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 10 | [mu](https://open.spotify.com/track/0rb6rmOrFFqq35QYjWuFrt) | [SEAPOOL](https://open.spotify.com/artist/0iuh3bi0fF2wlYvZG01vZn) | [スイート Q ラブ](https://open.spotify.com/album/0fZRULe28oLLCVJPrwoUXw) | 2:38 |
 | 11 | [no one else](https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Alys](https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [no one else](https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG) | 2:18 |
 | 12 | [outset](https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO) | [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [January](https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ) | 2:16 |
-| 13 | [Stray Cat](https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:39 |
-| 14 | [Somnolent Nova](https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Somnolent Nova](https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv) | 3:03 |
+| 13 | [Somnolent Nova](https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Somnolent Nova](https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv) | 3:03 |
+| 14 | [Stray Cat](https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:39 |
 | 15 | [Maru](https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Maru](https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr) | 2:47 |
 | 16 | [The Perks of Being a Wallflower](https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:12 |
 | 17 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 |
-| 18 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 |
-| 19 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 |
+| 18 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 |
+| 19 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 |
 | 20 | [Greens](https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Greens](https://open.spotify.com/album/13irODzikOapHKbxYIj42v) | 4:10 |
 | 21 | [three](https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [three](https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl) | 3:07 |
 | 22 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 |
 | 23 | [School](https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu) | [BLYNE](https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD), [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO) | [This is Our First EP](https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9) | 3:32 |
 | 24 | [Namikimichi](https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Namikimichi](https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs) | 1:59 |
-| 25 | [Home](https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Home](https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ) | 2:36 |
-| 26 | [Shin](https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Shin](https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf) | 3:45 |
-| 27 | [BEAU PAYSAGE](https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J) | [BEAU PAYSAGE](https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT) | 5:48 |
+| 25 | [BEAU PAYSAGE](https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J) | [BEAU PAYSAGE](https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT) | 5:48 |
+| 26 | [Home](https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Home](https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ) | 2:36 |
+| 27 | [Shin](https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Shin](https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf) | 3:45 |
 | 28 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 |
 | 29 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 30 | [Two Breath](https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Two Breath EP](https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 |
 | 100 | [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 |
 
-Snapshot ID: `AAAAAAamf9umIWbNH/Xr/njkp3CP9m6a`
+Snapshot ID: `AAAAADD9Ijj8JQFvDYaJAkXjZr3nm7vp`

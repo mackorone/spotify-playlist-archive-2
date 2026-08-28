@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 
 > Uma seleção especial do jazz nacional\. Foto: Azymuth
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,312 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,307 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 | 3 | [Quatro ventos](https://open.spotify.com/track/3HVG8CTd0WHObo3If84GMW) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Nicolas Correa](https://open.spotify.com/artist/02nidPTL0cY85yB3Ojlcer), [Gabriel Amargant](https://open.spotify.com/artist/2MITjJfnWX6uewrMB3go3h), [Horacio Fumero](https://open.spotify.com/artist/5lAHWc2DhtCr5W1ELS4Sf7) | [Quatro Ventos](https://open.spotify.com/album/1BRjs5bpPjk75LwjzDPqbH) | 3:50 |
 | 4 | [Deixa \- Ao Vivo](https://open.spotify.com/track/06urYdNnVIzkCaYOS05Hrv) | [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Deixa](https://open.spotify.com/album/6Z5mTNFF8JrMNAiUoIVPZZ) | 5:18 |
 | 5 | [Suite norte, sul, leste, oeste](https://open.spotify.com/track/4kGkjdNxSkx31r2c4HXnKs) | [Hermeto Pascoal](https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s) | [Zabumbe\-Bum\-A \(Remasterizado\)](https://open.spotify.com/album/62BT0ckrJPXXb3CCEkRryj) | 3:48 |
-| 6 | [Coisa Nº 10](https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK) | 3:03 |
-| 7 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 |
+| 6 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 |
+| 7 | [Coisa Nº 10](https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK) | 3:03 |
 | 8 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 |
 | 9 | [Clube da Esquina No\. 2](https://open.spotify.com/track/4vIRje27r7P2HMoZFGucH5) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Hamilton De Holanda Quinteto](https://open.spotify.com/artist/2skIu2semP0UdBPDstqYA6) | [Casa de Bituca](https://open.spotify.com/album/1JREFC3PoEC0VWaBIPzTQF) | 3:58 |
 | 10 | [Iroko](https://open.spotify.com/track/2L6d9EyLMB8pkSu7SLAffi) | [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Iroko](https://open.spotify.com/album/72mgXHO7Alutf2hyR6ZGUi) | 7:48 |

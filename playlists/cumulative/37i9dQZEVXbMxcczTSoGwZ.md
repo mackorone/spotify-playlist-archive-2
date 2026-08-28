@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,419 songs - 7 day 11 hr 29 min
+3,420 songs - 7 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [André \(feat\. Kerkkogabriel\)](https://open.spotify.com/track/0tllMoxGZzPJ00wPRVGV5A) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Kerkkogabriel](https://open.spotify.com/artist/5GL3CCJkNN8qRqXRkhFrfw) | [André \(feat\. Kerkkogabriel\)](https://open.spotify.com/album/3CsFnRuZrMDDWYDEAOHZTN) | 2:27 | 2025-07-12 | 2025-08-12 |
 | [Angelito](https://open.spotify.com/track/7ozJ4D8Cy4DtoFRmoRZFVJ) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Angelito](https://open.spotify.com/album/5ppxmUR9iGaKld3k4ZLISH) | 3:23 | 2022-06-20 | 2022-07-24 |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-04-30 | 2022-05-08 |
-| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-25 |  |
+| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-25 | 2026-08-28 |
 | [Ankeet tanssiaiset](https://open.spotify.com/track/2ZmVdWCM1jnwYFzaipAsQ2) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Ankeet tanssiaiset](https://open.spotify.com/album/4BMTPntPLK8gMjnMNANGDH) | 2:17 | 2025-02-01 | 2025-02-06 |
 | [Anna Aikaa](https://open.spotify.com/track/52LOSyYuFWS6PnKHkWQds1) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Trapskelmä](https://open.spotify.com/album/1q5KbSiezzQjQyE5lfIpFe) | 2:48 | 2026-08-15 |  |
 | [Anna armoo](https://open.spotify.com/track/639MLWuV3iPulpKiOmkabk) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 2:59 | 2025-06-14 | 2025-07-06 |
@@ -274,7 +274,7 @@
 | [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 | 2025-11-29 | 2026-02-22 |
 | [Best For You](https://open.spotify.com/track/6wtE2YHOjHTn8MvE0lFJzM) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 2:30 | 2026-02-21 |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-13 |
-| [Beyonce](https://open.spotify.com/track/6Pa8w6Q4C7lNunjgtqxBkh) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 2:58 | 2025-10-18 | 2026-08-27 |
+| [Beyonce](https://open.spotify.com/track/6Pa8w6Q4C7lNunjgtqxBkh) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 2:58 | 2025-10-18 |  |
 | [Bezos I](https://open.spotify.com/track/0Kdj7nwaYQmvhxnqZaIQuW) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 0:58 | 2021-07-22 | 2021-08-08 |
 | [Bier over hier](https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Bier over hier](https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl) | 2:59 | 2026-01-31 | 2026-02-02 |
 | [Big Boy](https://open.spotify.com/track/69XT7iriFi7iuDz5nkIXYe) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Shakespeare 2](https://open.spotify.com/album/1Imbnq0xCkuFKWt3joj2TF) | 2:42 | 2026-03-23 | 2026-03-26 |
@@ -1116,6 +1116,7 @@
 | [Joku raja](https://open.spotify.com/track/6fz0TsXHzc9TQUDqnavSTT) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Leskiäidin Tyttäret](https://open.spotify.com/album/3Dg34pXyk5kxqPwRsAr6mE) | 4:55 | 2024-08-27 | 2024-08-29 |
 | [Joku raja](https://open.spotify.com/track/7meQV8OcOf9ZWYpK01JOqk) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Leskiäidin Tyttäret](https://open.spotify.com/album/7l1F0i4LbAJue0fFcg9m0x) | 4:55 | 2024-08-25 | 2024-08-31 |
 | [joku toinen](https://open.spotify.com/track/4dZIiWYJQCyu9EDt4NzDTZ) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [joku toinen](https://open.spotify.com/album/2A6rbMqQY2nxKZ1gOrbQzQ) | 2:32 | 2025-11-29 | 2025-12-01 |
+| [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 | 2026-08-27 |  |
 | [Jolene \(Vain elämää kausi 14\)](https://open.spotify.com/track/4KEFAyyRyGuoHNUZGQiuZA) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Jolene \(Vain elämää kausi 14\)](https://open.spotify.com/album/5ECoVo35ip0qhFXD72sxPZ) | 3:00 | 2023-10-15 | 2023-10-19 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-04 |
 | [Joo joo](https://open.spotify.com/track/1VScZBWYSs6lzVnxJgh4SE) | [Paperi T](https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu) | [Joo joo](https://open.spotify.com/album/7EKhY6oUZaGrydLwiRXzjj) | 3:08 | 2023-05-06 | 2023-05-08 |
@@ -2099,7 +2100,7 @@
 | [OnlyFans \(feat\. ibe\)](https://open.spotify.com/track/04ajBAZ4nicx6flU5D6PdB) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [OnlyFans \(feat\. ibe\)](https://open.spotify.com/album/3618K79xLO8Nm7PSfnEXEF) | 2:54 | 2023-03-25 | 2023-07-23 |
 | [OnlyFans \(feat\. ibe\)](https://open.spotify.com/track/07K7Kam6iLBOjnWzAaey1s) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [W1NDY SEASON](https://open.spotify.com/album/0AMQd51PmhVYbnM3M35dBL) | 2:54 | 2023-08-12 | 2023-08-14 |
 | [Onnea matkaan](https://open.spotify.com/track/2SbVrYGU6Jt0MLc4nz7LBF) | [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Onnea matkaan](https://open.spotify.com/album/2fZ1zMWE5iVrZCy2DrosSK) | 2:54 | 2023-07-08 | 2023-07-11 |
-| [Onneks](https://open.spotify.com/track/0V4UHvcAjBu1kaYbIETEVP) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:40 | 2026-01-24 |  |
+| [Onneks](https://open.spotify.com/track/0V4UHvcAjBu1kaYbIETEVP) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:40 | 2026-01-24 | 2026-08-28 |
 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 | 2025-04-26 | 2025-12-14 |
 | [Onnellinen](https://open.spotify.com/track/6ijRGBGzjwl5pyBVUIfXWL) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Onnellinen](https://open.spotify.com/album/69WNFlAX1YidDaMfZcAYUh) | 2:30 | 2023-07-01 | 2023-08-20 |
 | [Onnellinen](https://open.spotify.com/track/0jxQIOQm8Ixeko2AxhC1z8) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 2:49 | 2022-03-12 | 2022-03-21 |

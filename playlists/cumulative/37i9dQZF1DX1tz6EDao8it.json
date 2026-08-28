@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "The Odyssey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521461,
+      "name": "Odysseus",
+      "url": "https://open.spotify.com/track/4cNfcmyCGw53tOSOsRI3z8"
+    },
+    {
+      "album": {
         "name": "Once Upon a Time in the West - Ennio Morricone Music Collection (The Complete Edition)",
         "url": "https://open.spotify.com/album/2tEHkzwQcKi1B0h0QXVv7P"
       },

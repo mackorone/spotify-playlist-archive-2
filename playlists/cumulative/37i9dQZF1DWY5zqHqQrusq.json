@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Chill, take a long walk and clear your mind. Cover: Altair Sa\u00efd",
+  "description": "Chill, take a long walk and clear your mind. Cover: Matt Ngesa",
   "name": "Barefoot and Free",
   "tracks": [
     {
@@ -1334,6 +1334,28 @@
       "duration_ms": 212571,
       "name": "Kidege",
       "url": "https://open.spotify.com/track/2WbEO8DRGaGuZUiawdVoDZ"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/4vu181bUd7mYi5D91kPANP"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        },
+        {
+          "name": "Joy Ocholla",
+          "url": "https://open.spotify.com/artist/3GxqbV62T1CqHa0fuXFMY7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400874,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7zrkhUdY5gbNlkvR11aWYb"
     },
     {
       "album": {

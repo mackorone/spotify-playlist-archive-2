@@ -1,13 +1,33 @@
 {
-  "description": "Chill r&b. Cover: Lucky Daye",
-  "num_followers": 2370621,
+  "description": "Chill r&b. Cover: Destin Conrad",
+  "num_followers": 2370638,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrGNh0dcLprJbf2bTVR4ASw0dQq",
+  "snapshot_id": "AAAAAAJ2YU7Pw0XRv06VrKzUPGhvl/wM",
   "tracks": [
+    {
+      "added_at": "2026-08-28 05:35:46",
+      "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "DADAMAN",
+      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
+    },
     {
       "added_at": "2026-08-21 04:40:58",
       "album": {
@@ -43,6 +63,30 @@
       "duration_ms": 174282,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
+      "added_at": "2026-08-28 05:35:46",
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 289071,
+      "name": "They Ain't You - feat. Thundercat",
+      "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
     },
     {
       "added_at": "2026-07-31 06:18:01",
@@ -261,22 +305,6 @@
       "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
     },
     {
-      "added_at": "2026-08-21 04:40:58",
-      "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 168302,
-      "name": "NO MORE",
-      "url": "https://open.spotify.com/track/7I7sp3NMMwIkcQTdwQLoAF"
-    },
-    {
       "added_at": "2026-06-05 04:01:35",
       "album": {
         "name": "Elements",
@@ -291,6 +319,26 @@
       "duration_ms": 207138,
       "name": "Elements",
       "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+    },
+    {
+      "added_at": "2026-08-28 05:35:46",
+      "album": {
+        "name": "Black Boy (Alternative)",
+        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1tReRTFnKKUh7nhVYg9d3L"
     },
     {
       "added_at": "2026-08-21 04:40:58",
@@ -325,10 +373,10 @@
       "url": "https://open.spotify.com/track/12mCbpKjekdI0eFiOHtxsx"
     },
     {
-      "added_at": "2026-08-14 04:39:15",
+      "added_at": "2026-08-28 05:35:46",
       "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm"
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
       "artists": [
         {
@@ -340,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 386020,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
+      "duration_ms": 442506,
+      "name": "Echos",
+      "url": "https://open.spotify.com/track/3dcWjxOpSeOkaXt8bECN8i"
     },
     {
       "added_at": "2026-06-26 07:26:59",
@@ -413,6 +461,22 @@
       "url": "https://open.spotify.com/track/2ryhtkGQue7aDgW6yvd3IY"
     },
     {
+      "added_at": "2026-08-28 05:35:46",
+      "album": {
+        "name": "November Scorpio: Deluxe",
+        "url": "https://open.spotify.com/album/0baOQZc9GTxkGrC1Qjk6RQ"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "alright!",
+      "url": "https://open.spotify.com/track/3gWG5JKs18gevvk3pckDj5"
+    },
+    {
       "added_at": "2026-08-21 04:40:58",
       "album": {
         "name": "Eric Bellinger",
@@ -443,6 +507,26 @@
       "duration_ms": 178702,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
+    },
+    {
+      "added_at": "2026-08-28 05:35:46",
+      "album": {
+        "name": "I Want U",
+        "url": "https://open.spotify.com/album/0cmel8MlOfabznNse6LrTJ"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "I Want U",
+      "url": "https://open.spotify.com/track/6wcqflUBDVLwvt1j3yv0hN"
     },
     {
       "added_at": "2026-08-07 04:02:07",
@@ -479,6 +563,26 @@
       "duration_ms": 205000,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-08-28 05:35:46",
+      "album": {
+        "name": "Here They Come II",
+        "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Here They Come II",
+      "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
     },
     {
       "added_at": "2026-07-24 06:54:12",
@@ -535,6 +639,26 @@
       "duration_ms": 269028,
       "name": "Any Time (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
+    },
+    {
+      "added_at": "2026-08-28 05:35:46",
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 253145,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/5jM84z7GdWJ7Ce6O3iySgQ"
     },
     {
       "added_at": "2026-06-29 00:00:48",
@@ -1143,26 +1267,6 @@
       "duration_ms": 252144,
       "name": "Barii",
       "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
-    },
-    {
-      "added_at": "2026-07-10 06:53:21",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu"
     },
     {
       "added_at": "2026-06-20 04:00:17",

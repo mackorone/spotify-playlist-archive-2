@@ -21651,6 +21651,24 @@
     },
     {
       "album": {
+        "name": "Playthings",
+        "url": "https://open.spotify.com/album/15kxzNNlRkyD7CXozThaLm"
+      },
+      "artists": [
+        {
+          "name": "Silvenna",
+          "url": "https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171090,
+      "name": "Playthings",
+      "url": "https://open.spotify.com/track/2OyKrptIfiqSpCHwA7ACq6"
+    },
+    {
+      "album": {
         "name": "plein de coeur",
         "url": "https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy"
       },

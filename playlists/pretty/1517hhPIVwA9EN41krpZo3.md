@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 
 > Check out the top streamed indie tracks of 2016!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,288 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,287 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 | 27 | [Painting Greys](https://open.spotify.com/track/6kUohQ7py1XEcQAhUgf2Zz) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Painting Greys](https://open.spotify.com/album/3HR8LNAashzW2CdEpW0Pct) | 3:47 |
 | 28 | [Tilted](https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine And The Queens](https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG) | 3:53 |
 | 29 | [Never Going Home](https://open.spotify.com/track/4owKdwOIG7qs89ZfGv2PZg) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Never Going Home](https://open.spotify.com/album/5MwSzgWD4kNy3X3xijLbuV) | 3:55 |
-| 30 | [Powers](https://open.spotify.com/track/0xlg27g9OXI2PHvwLJSCoo) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Powers](https://open.spotify.com/album/2IY1loevJOdlnP5ECpjpgm) | 3:22 |
+| 30 | [Powers](https://open.spotify.com/track/0xlg27g9OXI2PHvwLJSCoo) | [Christopher Blair](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Powers](https://open.spotify.com/album/2IY1loevJOdlnP5ECpjpgm) | 3:22 |
 | 31 | [Feeling Ok](https://open.spotify.com/track/0hgsUnkawqDllP4OF4g9MN) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/1JIhBE54vvyvz6yqqKKJ1A) | 3:16 |
 | 32 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 33 | [Don't Pull Away](https://open.spotify.com/track/7KAGU3dUQ6YuubQWQ1bMws) | [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Don't Pull Away](https://open.spotify.com/album/5dyjXNMqxOArNhfNsFecZK) | 4:01 |

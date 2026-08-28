@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Ela Taubert
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Elsay Elmar
 
-361 songs - 18 hr 56 min
+363 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,13 +83,14 @@
 | [De Regreso](https://open.spotify.com/track/1JkOVjgqHcsGIsGAnzPF1N) | [Ilona](https://open.spotify.com/artist/26maRQ2rFqGC9vHNB39a6Z) | [Desde Mi Ventana](https://open.spotify.com/album/5UX026UHSbkr5fOSpygdyT) | 3:43 | 2026-03-18 | 2026-03-27 |
 | [Dejarlos Entrar](https://open.spotify.com/track/5CesWiJGZ2pHlNYik6FBHz) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Antonia Jones](https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt) | 3:03 | 2024-04-19 | 2024-06-01 |
 | [Demasiado Lejos](https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Demasiado Lejos](https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA) | 2:59 | 2023-10-27 | 2024-04-13 |
+| [desamarte](https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ciclos](https://open.spotify.com/album/6t2HxVOXaO4TFEVZtqM2jG) | 3:21 | 2026-08-28 |  |
 | [Desde Hola](https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Desde Hola](https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf) | 3:11 | 2023-11-10 | 2025-11-22 |
 | [Despiértate](https://open.spotify.com/track/22MQ0pbfNdWPBtHJXU4Eml) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Las q no te canté](https://open.spotify.com/album/0sFHRjSIqcxiPNlw9Jr04g) | 2:19 | 2025-11-21 | 2026-05-02 |
 | [Después de la Tormenta](https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Después de la Tormenta](https://open.spotify.com/album/7brGiRbMHwI4ZuhmXKxuyy) | 3:25 | 2023-02-17 | 2023-03-10 |
 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 | 2023-12-15 | 2024-03-16 |
 | [DIFERENTE](https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:01 | 2024-05-17 | 2024-06-15 |
 | [Dime](https://open.spotify.com/track/3mq9BJmdUNG39U0DVrf9km) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Dime](https://open.spotify.com/album/5KRqUy0ZONlpvDgWJmq17n) | 2:30 | 2026-03-18 | 2026-03-27 |
-| [Diosa de Cien Colores](https://open.spotify.com/track/3xFMTGwwMZdfmdQBPClrVf) | [Penelope Robin](https://open.spotify.com/artist/6sglnBv6ujltPtZ5gXvMXg) | [Diosa de Cien Colores](https://open.spotify.com/album/6vtHmoJPYT17O8nbBzmIDF) | 3:21 | 2026-06-19 |  |
+| [Diosa de Cien Colores](https://open.spotify.com/track/3xFMTGwwMZdfmdQBPClrVf) | [Penelope Robin](https://open.spotify.com/artist/6sglnBv6ujltPtZ5gXvMXg) | [Diosa de Cien Colores](https://open.spotify.com/album/6vtHmoJPYT17O8nbBzmIDF) | 3:21 | 2026-06-19 | 2026-08-28 |
 | [Disco Rayado](https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Disco Rayado](https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu) | 2:31 | 2025-05-09 |  |
 | [Discoteca](https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Discoteca](https://open.spotify.com/album/1gVXO4KetZZupnhcN9zBxQ) | 3:05 | 2023-11-24 | 2024-08-03 |
 | [Donde Acaba Esto](https://open.spotify.com/track/3hAZxAPi8rJ4Tk9dIx850Z) | [Ela Conem](https://open.spotify.com/artist/6j3TVnrOKJQYWcX5YKLMkV) | [Donde Acaba Esto](https://open.spotify.com/album/4M8SQLv0LeixwSewmFaK3s) | 2:00 | 2026-05-29 |  |
@@ -105,7 +106,7 @@
 | [Eclipse](https://open.spotify.com/track/3TsGo10L6SoXNZUVxabxIZ) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC), [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Eclipse](https://open.spotify.com/album/38lYPyZ8I8dh6ait2uWoH8) | 2:21 | 2026-05-08 |  |
 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 | 2026-02-27 |  |
 | [El Amor Es Perfecto](https://open.spotify.com/track/69cAqCB2QFhKkmmDmkYc9A) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [El Amor Es Perfecto](https://open.spotify.com/album/3jvv2aafvKHKZGuq0EfqFa) | 2:58 | 2023-02-17 | 2024-05-04 |
-| [El Avión](https://open.spotify.com/track/20Mt9BQVdMWNSyekweMvrc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Avión](https://open.spotify.com/album/67356fVytMStWRzKLej6bl) | 3:22 | 2026-03-27 |  |
+| [El Avión](https://open.spotify.com/track/20Mt9BQVdMWNSyekweMvrc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Avión](https://open.spotify.com/album/67356fVytMStWRzKLej6bl) | 3:22 | 2026-03-27 | 2026-08-28 |
 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 | 2024-07-27 |
 | [El Canto Del Olvido](https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [El Canto Del Olvido](https://open.spotify.com/album/5T3G2Kr0ilp4lZ7TRrvFIH) | 2:52 | 2024-09-06 | 2024-10-12 |
 | [El Equivocado](https://open.spotify.com/track/25Qow1XsQiXi0v2C8cxhwL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [El Equivocado](https://open.spotify.com/album/0DKMuyi55HlxjQONKbt1xl) | 3:39 | 2023-02-17 |  |
@@ -226,6 +227,7 @@
 | [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-02-17 | 2024-09-07 |
 | [No Sé Si Volverá](https://open.spotify.com/track/4KZrzzj4Js25wBYhmUBRNr) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [X Revisitado](https://open.spotify.com/album/0VHJPkZR0bh3dOE67Fog6v) | 4:22 | 2023-04-28 | 2023-11-04 |
 | [No Te Esperaba](https://open.spotify.com/track/39VpoxiF5HN43Hkc9flyGa) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 3:12 | 2026-05-08 |  |
+| [No Vivirías Igual](https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [No vivirías igual](https://open.spotify.com/album/0PK4vZ49RHea4vSJqD5r42) | 2:54 | 2026-08-28 |  |
 | [Noche Eterna](https://open.spotify.com/track/3qaKKH1lf9vp3InT2wDBiS) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Noche Eterna](https://open.spotify.com/album/12XCMP9FULSvpLDBozulb6) | 2:48 | 2025-05-23 | 2025-05-31 |
 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 | 2023-03-09 | 2025-05-31 |
 | [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 | 2024-03-15 | 2024-11-27 |

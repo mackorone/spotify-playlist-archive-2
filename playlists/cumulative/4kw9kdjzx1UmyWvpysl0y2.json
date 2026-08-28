@@ -13495,6 +13495,24 @@
     },
     {
       "album": {
+        "name": "Lonely / Whatever Brought Us Here",
+        "url": "https://open.spotify.com/album/2i3vlZ4eKY8onPTB9MyxoJ"
+      },
+      "artists": [
+        {
+          "name": "Aether",
+          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180235,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1DV7TkWJatSTo5rbihHYVu"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/7qqThyYgtFmqIzhTKbVHRe"
       },

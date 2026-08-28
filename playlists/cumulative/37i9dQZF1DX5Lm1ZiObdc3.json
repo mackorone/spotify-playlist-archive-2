@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Osborne: Improvisation on Keith Jarrett's Vienna Concert",
+        "url": "https://open.spotify.com/album/3YePdyQYxLrBy0Co6Sw4kj"
+      },
+      "artists": [
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Improvisation on Keith Jarrett's Vienna Concert",
+      "url": "https://open.spotify.com/track/5zKy7lrziRoXOuXFlNVtmk"
+    },
+    {
+      "album": {
         "name": "In Flight",
         "url": "https://open.spotify.com/album/0nkGH1t4qg6esTbB3nVke9"
       },

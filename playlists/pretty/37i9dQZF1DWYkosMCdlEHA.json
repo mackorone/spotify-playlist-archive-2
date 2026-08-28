@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 154718,
+  "num_followers": 154738,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Roots Dance",
+      "url": "https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "De Tanto Sol (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 320653,
       "name": "N\u00e3o basta ser rasta - Ao vivo",
       "url": "https://open.spotify.com/track/15jmXHjWm3K2yvgVqSEcLe"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Roots Dance",
-      "url": "https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB"
     },
     {
       "added_at": "2026-07-02 21:47:25",

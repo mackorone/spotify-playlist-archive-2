@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: NCT 127
 
-1,092 songs - 2 day 11 hr 4 min
+1,093 songs - 2 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [DESTINY](https://open.spotify.com/track/4ppJbW0jaHdRCqfJW8VIJf) | [EXILE TAKAHIRO](https://open.spotify.com/artist/4cW96mgPlmNlWAQyHJNzS4) | [DESTINY](https://open.spotify.com/album/0FXu3ayLqHqxUsXNdJMO2g) | 3:40 | 2024-09-24 | 2024-10-09 |
 | [DEVELOP](https://open.spotify.com/track/5dvsyYP94wdRjSVDEWKFVT) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [DEVELOP](https://open.spotify.com/album/0v9iDTHwXwJGpowSttAH89) | 2:44 | 2024-11-05 | 2024-11-13 |
 | [Diamonds](https://open.spotify.com/track/6ePcctSJw3azgink6S2QTw) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Diamonds](https://open.spotify.com/album/75ST1ttxNj07ds4erJcPV2) | 3:26 | 2024-01-02 | 2024-05-01 |
+| [Die Another Day](https://open.spotify.com/track/4LZ2T2AtRf9EdsVFpaE9gN) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Die Another Day](https://open.spotify.com/album/1FvtY5v0GJX10OwNrLIHba) | 2:50 | 2026-08-25 |  |
 | [Dirty Shoes Swag](https://open.spotify.com/track/3liBCaxGAOOCFo3IIfUND6) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [MATCH UP](https://open.spotify.com/album/7xUrbdyZf1Vky1E8vXbeqW) | 3:20 | 2024-02-13 | 2024-03-06 |
 | [Disco Baby](https://open.spotify.com/track/4Lvm9SuwemRTnzWcJ8YflI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Disco Baby](https://open.spotify.com/album/07deGkma8dlmxOvB9wvhY0) | 3:46 | 2025-10-26 | 2025-11-08 |
 | [Do Don PA!!](https://open.spotify.com/track/6CFDDU2je7z8G8ZUKFe3im) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Do Don PA!!](https://open.spotify.com/album/6Ikoqvn9ZEHgygFWKTEO0E) | 3:27 | 2026-07-07 | 2026-08-05 |

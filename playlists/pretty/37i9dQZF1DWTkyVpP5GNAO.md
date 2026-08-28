@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,658 likes - 80 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,740 likes - 80 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

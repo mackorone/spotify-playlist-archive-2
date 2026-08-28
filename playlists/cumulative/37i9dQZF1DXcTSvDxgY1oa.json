@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4"
+      },
+      "artists": [
+        {
+          "name": "L\u00d6NA",
+          "url": "https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140275,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB"
+    },
+    {
+      "album": {
         "name": "TIME MACHINE",
         "url": "https://open.spotify.com/album/2XWYh2by9h93BMGIbaf9H2"
       },
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 207556,
       "name": "I Never Wanna Be In Love",
       "url": "https://open.spotify.com/track/0qQ5LD2CBmsGYbGFMXHr9h"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 262224,
       "name": "Mad Again",
       "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
@@ -5188,6 +5206,24 @@
       "duration_ms": 213945,
       "name": "Sands of Time",
       "url": "https://open.spotify.com/track/4DGK9HTjDWoL6uO0LWkOFU"
+    },
+    {
+      "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H"
+      },
+      "artists": [
+        {
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226117,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Zyanya en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. The Warning en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 170271,
       "name": "171 (\u2205 \u2286 A)",
       "url": "https://open.spotify.com/track/3hbV7NHutvElS1q2tNb4z7"
@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Everything\u2019s Falling",
+        "url": "https://open.spotify.com/album/0YJACBRXuL7jthY9RBtlS5"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Bite My Tongue",
+      "url": "https://open.spotify.com/track/414NTfPwNeMYTPLIICa2CH"
+    },
+    {
+      "album": {
         "name": "Bomba Casera",
         "url": "https://open.spotify.com/album/7EmUyHOzD1wAvPkn6wDQ21"
       },
@@ -1692,6 +1710,24 @@
       "duration_ms": 271336,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
+    },
+    {
+      "album": {
+        "name": "Brillo",
+        "url": "https://open.spotify.com/album/6h7t8wiDlspxKimFFN5oZc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250588,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/4m5waMEB1vT7WYjEAZRXgF"
     },
     {
       "album": {
@@ -5532,7 +5568,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 241941,
       "name": "Estado 03",
       "url": "https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX"
@@ -7239,6 +7275,28 @@
     },
     {
       "album": {
+        "name": "La gente me detesta",
+        "url": "https://open.spotify.com/album/36W1clp0b2imUXjcLWiYNv"
+      },
+      "artists": [
+        {
+          "name": "Q69k",
+          "url": "https://open.spotify.com/artist/1Mg8WSoSk3WhU7ohjk6uEO"
+        },
+        {
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182700,
+      "name": "La gente me detesta",
+      "url": "https://open.spotify.com/track/6J1LDZdBHem2VrfERFvsRu"
+    },
+    {
+      "album": {
         "name": "La Herida",
         "url": "https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG"
       },
@@ -8692,7 +8750,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 179993,
       "name": "Manzanas Doradas",
       "url": "https://open.spotify.com/track/0RvNYdN5NYYS5vXxPqCZDh"
@@ -10512,7 +10570,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183484,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/3RhLrxsia3OIbcmXr77Uoh"
@@ -11401,6 +11459,24 @@
     },
     {
       "album": {
+        "name": "Arriba La L",
+        "url": "https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238758,
+      "name": "Pa Mis Carnales",
+      "url": "https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf"
+    },
+    {
+      "album": {
         "name": "Para llegar hasta aqu\u00ed",
         "url": "https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV"
       },
@@ -11496,6 +11572,28 @@
       "duration_ms": 179024,
       "name": "Paradoja",
       "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
+    },
+    {
+      "album": {
+        "name": "PARAMICORAZON:",
+        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "PARAMICORAZON:",
+      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
     },
     {
       "album": {
@@ -12606,7 +12704,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 164306,
       "name": "Reptilio",
       "url": "https://open.spotify.com/track/632SSSYdqwYXtqBSEC6yPx"

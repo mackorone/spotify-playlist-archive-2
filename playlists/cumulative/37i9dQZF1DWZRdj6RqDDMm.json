@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/6ncylqbI9Uxpd8hEy6Mya5"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176299,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/69H77ocZO6UYHvNxUWP83K"
+    },
+    {
+      "album": {
         "name": "Awimayehun",
         "url": "https://open.spotify.com/album/4wZmEQkWtxvOb5iTAwkN55"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 152559,
       "name": "Close",
       "url": "https://open.spotify.com/track/1JJJY7vww2I5Dvu42gWv16"
@@ -2252,6 +2270,28 @@
       "duration_ms": 133333,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1FIXPJdrNcRfiQzOiT39T4"
+      },
+      "artists": [
+        {
+          "name": "ODIEE.",
+          "url": "https://open.spotify.com/artist/4jcRZ8psDOUv12GBF3qV3Q"
+        },
+        {
+          "name": "Beulah Land Music",
+          "url": "https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140044,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2rv8ncxSVRpeexJhuKiybk"
     },
     {
       "album": {
@@ -4118,7 +4158,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183834,
       "name": "Forgotten - Live",
       "url": "https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm"
@@ -5436,7 +5476,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 150648,
       "name": "Holy Pressure",
       "url": "https://open.spotify.com/track/5y7Ok74m78xZLLkdgulUzb"
@@ -5484,6 +5524,24 @@
       "duration_ms": 154759,
       "name": "Hossana",
       "url": "https://open.spotify.com/track/3rGzoZemU63QFPr0pNwxwy"
+    },
+    {
+      "album": {
+        "name": "how can it be?",
+        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "how can it be?",
+      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
       "album": {
@@ -5840,7 +5898,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 106111,
       "name": "Ikeze",
       "url": "https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j"
@@ -6472,7 +6530,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173142,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/3tHGAJ7o4UchiipMRmF7Cf"
@@ -6762,6 +6820,24 @@
       "duration_ms": 129800,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6bvkN6XCvEIBoqOGVqqCTX"
+    },
+    {
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/5MO5T6Bpxd3kYionNtBwWO"
+      },
+      "artists": [
+        {
+          "name": "Keptah",
+          "url": "https://open.spotify.com/artist/3BLBdRyLyibc3aKdZ6ZdcJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/1sgZaOTCDVQJeaJIvBRKQd"
     },
     {
       "album": {
@@ -9168,7 +9244,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193781,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/6H9ykVIRifCHXS7iCMTtqi"
@@ -9430,7 +9506,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173222,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/37AU6cbBejKoEQNcvWNP89"
@@ -9554,7 +9630,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 96521,
       "name": "On a connu Hallelujah - Album Tr\u00f4ne disponible",
       "url": "https://open.spotify.com/track/7IvoUeXcHYKOs3hQ42wpKW"
@@ -11042,7 +11118,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 146527,
       "name": "safe space",
       "url": "https://open.spotify.com/track/4hvt3Xo7N2waCMaH7E7Mn7"
@@ -11144,7 +11220,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 175968,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
@@ -14156,6 +14232,28 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
+    },
+    {
+      "album": {
+        "name": "Yesu Zo",
+        "url": "https://open.spotify.com/album/1kuzURR3iwERa90A2D5Vgn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ahonen",
+          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
+        },
+        {
+          "name": "Amasah",
+          "url": "https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244976,
+      "name": "Yesu Zo",
+      "url": "https://open.spotify.com/track/2H1NNsPwGDt9yHJ3Unt3KR"
     },
     {
       "album": {

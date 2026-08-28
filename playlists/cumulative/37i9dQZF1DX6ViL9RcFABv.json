@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Chico da Tina",
+  "description": "Uma playlist de pura alma pop! Foto: Calema e L\u00e9o Santana",
   "name": "Pop PT",
   "tracks": [
     {
@@ -462,6 +462,24 @@
       "duration_ms": 210645,
       "name": "Algu\u00e9m Real A\u00ed?",
       "url": "https://open.spotify.com/track/69WLTpCM5wiPAIctk3Hv3X"
+    },
+    {
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/22nkGF7OSbEjSgn7SPIi6t"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133374,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/7JdsUzY1xoVeADZq2n3Qpj"
     },
     {
       "album": {
@@ -3450,7 +3468,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 206573,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/26G0JFPqGFhNo5fSnFNwaf"
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 189729,
       "name": "Estou Bem",
       "url": "https://open.spotify.com/track/7fXQwWPbTEWRF9D8pW0yEq"
@@ -5483,6 +5501,28 @@
     },
     {
       "album": {
+        "name": "Love You",
+        "url": "https://open.spotify.com/album/4AMCdCVpClNrLEdvGaodsT"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        },
+        {
+          "name": "3 Finer",
+          "url": "https://open.spotify.com/artist/0gGg41vqYrv92MZmSt6pT5"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Love You",
+      "url": "https://open.spotify.com/track/4UGXHpeSlyTtIyCOv9UppH"
+    },
+    {
+      "album": {
         "name": "Ma Ch\u00e9rie",
         "url": "https://open.spotify.com/album/0LZKMs9mwAGp3NXqsUpieg"
       },
@@ -6732,7 +6772,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 145102,
       "name": "N\u00e3o V\u00e1s Embora",
       "url": "https://open.spotify.com/track/6B3weyBaUjPLzNIbYfSjDM"
@@ -7021,6 +7061,28 @@
     },
     {
       "album": {
+        "name": "Oi Amor ?",
+        "url": "https://open.spotify.com/album/6QsbyYsAVvVIeTiXbsbkkD"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Oi Amor ?",
+      "url": "https://open.spotify.com/track/3XYsJ2rdHRwnZjZVDi3qML"
+    },
+    {
+      "album": {
         "name": "Oj\u00e9 Oj\u00e9",
         "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
       },
@@ -7192,7 +7254,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 195000,
       "name": "OURO",
       "url": "https://open.spotify.com/track/7KAJgeuLZSZoWoId8G9CAs"
@@ -7392,6 +7454,28 @@
       "duration_ms": 170000,
       "name": "Patroa",
       "url": "https://open.spotify.com/track/3uSTx9xWkf7RTHdxRefuQ2"
+    },
+    {
+      "album": {
+        "name": "Pau Santo",
+        "url": "https://open.spotify.com/album/3Ys89CQDcWhNNJCd4LqiPl"
+      },
+      "artists": [
+        {
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+        },
+        {
+          "name": "Manga Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/7mlFrFKSmpTpHUynE3sXkB"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173749,
+      "name": "Pau Santo",
+      "url": "https://open.spotify.com/track/4t40RekrJA3S2N3vnrzBuc"
     },
     {
       "album": {
@@ -8520,7 +8604,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 190550,
       "name": "Relembra",
       "url": "https://open.spotify.com/track/7rThep6X0qtgvdw96kkMnw"
@@ -8984,6 +9068,24 @@
       "duration_ms": 190886,
       "name": "saudades tuas.",
       "url": "https://open.spotify.com/track/32DNY9XRdDPwL6jWufOGcj"
+    },
+    {
+      "album": {
+        "name": "Sauvignon Blanc - Spotify Singles",
+        "url": "https://open.spotify.com/album/2N3MmfURyFjmBP8ysx6dkM"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Sauvignon Blanc - Spotify Singles",
+      "url": "https://open.spotify.com/track/4JxrT2o1nmMFOZZr85fJFH"
     },
     {
       "album": {

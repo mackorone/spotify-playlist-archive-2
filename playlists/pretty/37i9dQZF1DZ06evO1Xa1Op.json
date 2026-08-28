@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22425,
+  "num_followers": 22424,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAACpTzypMO7dZWL2VhfyEWjg",
+  "snapshot_id": "ao4sgAAAAACMwTYqy+i8GMtnd5/FZDpe",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 238906,
-      "name": "Monsieur le Maire de Niafunk\u00e9",
-      "url": "https://open.spotify.com/track/0504BmZ0EdVRO4faj6q0Yc"
+      "duration_ms": 274453,
+      "name": "Ai Ga Bani",
+      "url": "https://open.spotify.com/track/4SyLJdsiZNIU6TS6xJckgU"
     },
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 274453,
-      "name": "Ai Ga Bani",
-      "url": "https://open.spotify.com/track/4SyLJdsiZNIU6TS6xJckgU"
+      "duration_ms": 238906,
+      "name": "Monsieur le Maire de Niafunk\u00e9",
+      "url": "https://open.spotify.com/track/0504BmZ0EdVRO4faj6q0Yc"
     },
     {
       "added_at": null,
@@ -494,11 +494,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
         }
       ],
-      "duration_ms": 451106,
-      "name": "Dofana",
-      "url": "https://open.spotify.com/track/5j7YPAa4Dbn0RBTNxiuGRo"
+      "duration_ms": 313760,
+      "name": "Inchana Massina - feat. Nitin Sawhney",
+      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
     },
     {
       "added_at": null,
@@ -558,15 +562,11 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Nitin Sawhney",
-          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
         }
       ],
-      "duration_ms": 313760,
-      "name": "Inchana Massina - feat. Nitin Sawhney",
-      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
+      "duration_ms": 451106,
+      "name": "Dofana",
+      "url": "https://open.spotify.com/track/5j7YPAa4Dbn0RBTNxiuGRo"
     },
     {
       "added_at": null,

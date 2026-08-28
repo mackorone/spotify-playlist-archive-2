@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Pas Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,034 likes - 128 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,043 likes - 128 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

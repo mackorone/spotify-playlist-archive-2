@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: For Revenge
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Dinda Ghania
 
-709 songs - 1 day 17 hr 33 min
+714 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Anti ∞ Hero](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero](https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6) | 3:30 | 2024-10-24 | 2025-01-24 |
 | [Aphrodite Blues, Part 2](https://open.spotify.com/track/0Kq1LwAKrwEH85mKxGapsn) | [notyourwife](https://open.spotify.com/artist/6hd9tFRIzVJ5nuZwrosbNL) | [Aphrodite Blues](https://open.spotify.com/album/5eOhKfzXhT0LdWmcJIlG4Y) | 3:40 | 2026-04-23 | 2026-07-31 |
 | [april](https://open.spotify.com/track/2zoT19GQEv6XsZsINsMlc9) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [april](https://open.spotify.com/album/22f6AxI0IyIyqd4qiMOKiB) | 4:03 | 2026-04-23 |  |
+| [Are We Done Yet?](https://open.spotify.com/track/1Cl2Nztb0qb0WaohrFXEYA) | [Cherrywise](https://open.spotify.com/artist/13xE8mPO7yhIBKSbZ1XfC8) | [Are We Done Yet?](https://open.spotify.com/album/4ef45grgObTNMIQnqvE4qa) | 3:13 | 2026-08-27 |  |
 | [Are You Ready?](https://open.spotify.com/track/5aKdwua6dUc5tanuER7jDM) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Akeey](https://open.spotify.com/artist/57pK9aeCJdlHlCEcGQ4kzI), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Are You Ready?](https://open.spotify.com/album/07eS3tozCxCPmz79QDdzrm) | 3:01 | 2025-05-01 | 2025-10-31 |
 | [Artificial Grass](https://open.spotify.com/track/3J5r1YebSC4fW4R14Zgf72) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Artificial Grass](https://open.spotify.com/album/6zrKX85vdTchx5H2oSMDhU) | 3:02 | 2025-10-23 | 2026-04-24 |
 | [ASMR](https://open.spotify.com/track/1ylVyukbCICBWuJkn1yECY) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [ASMR](https://open.spotify.com/album/6SuUI7PvgHMDTpFLXvWgiK) | 2:18 | 2024-10-31 | 2025-01-24 |
@@ -81,6 +82,7 @@
 | [Be With You](https://open.spotify.com/track/195BQNAlavPubYDUfFIqPu) | [El Michael](https://open.spotify.com/artist/0zaGFZuyRciaCL3GQWApUS) | [Be With You](https://open.spotify.com/album/4gzmxaEfuzHzbLpVBh1BHD) | 4:17 | 2025-07-10 | 2026-04-24 |
 | [be you!](https://open.spotify.com/track/4KBf2A1ArfnffhKl0qkygj) | [Hezki](https://open.spotify.com/artist/20cCgx6phklJ86okkQr5zp) | [be you!](https://open.spotify.com/album/4xVNvePxYZlIL38quLzIyc) | 4:56 | 2026-07-02 |  |
 | [Be Your Lover](https://open.spotify.com/track/3sRQutpCOD2gzfjlgrt9Cu) | [The Public Service](https://open.spotify.com/artist/08ZFsKiZID7MsOWnXGcLRS) | [Be Your Lover](https://open.spotify.com/album/01hJL0Q7gbF57TOcmZxQTI) | 3:10 | 2024-06-27 | 2024-07-27 |
+| [Because She Paints Too](https://open.spotify.com/track/47zpgV1TFI0ecwQqynLsIj) | [Zoe Levana](https://open.spotify.com/artist/1aLaLpiiViPxD3Ztbar9WH) | [Because She Paints Too](https://open.spotify.com/album/7CXQr6drBSmQStg3Z5hsyD) | 3:36 | 2026-08-27 |  |
 | [Believe it](https://open.spotify.com/track/5SPuz6cC7Qcn1j1htEVaij) | [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3), [Melly Mono](https://open.spotify.com/artist/4ASFLx9FJ0YNGRKGzwSoxR) | [Believe it](https://open.spotify.com/album/5to9qOocIatxWQSK40CJqQ) | 3:41 | 2026-05-21 | 2026-08-07 |
 | [Best](https://open.spotify.com/track/2M7OFg3jM19RdwxklwGTJX) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Best](https://open.spotify.com/album/2c3ThUXQqr0g60q53w7Vod) | 3:43 | 2025-10-16 | 2025-12-06 |
 | [best kinda trouble](https://open.spotify.com/track/0e7WrKOm6GlayjDBGC361H) | [Vania Abby](https://open.spotify.com/artist/1uCsUNBbx78pkgx2k5OxlA) | [best kinda trouble](https://open.spotify.com/album/5yk9p20PhUaoNMjhVSGDgd) | 3:58 | 2025-04-24 | 2025-05-30 |
@@ -494,6 +496,7 @@
 | [Ontime](https://open.spotify.com/track/00cKHPOFw2rOoYsKCwMmye) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Ontime](https://open.spotify.com/album/3krCAjtsQ42SfF4Y73GZ3Z) | 3:28 | 2024-10-10 | 2024-11-16 |
 | [Orange Sky](https://open.spotify.com/track/2hnCmeTzmvaZEjVcgSG5yf) | [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [Orange](https://open.spotify.com/album/22GiVLqzKD3p7bS683KIW2) | 4:17 | 2025-10-23 | 2026-01-15 |
 | [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 | 2025-09-11 | 2025-12-06 |
+| [Out of Breath](https://open.spotify.com/track/68uvU2I6BWeqUWxrDo7oSL) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [Out of Breath](https://open.spotify.com/album/5231nAnqPTaY8Cu7iUAZ1a) | 2:58 | 2026-08-27 |  |
 | [PAPER](https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PAPER](https://open.spotify.com/album/7iT5ZXlI7R2YYFgfeO9DCP) | 2:19 | 2024-07-25 | 2024-09-27 |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-23 | 2025-01-24 |
 | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 | 2024-11-16 |
@@ -519,6 +522,7 @@
 | [Ready](https://open.spotify.com/track/2pCns6U2LU4gmRROcWQJiJ) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Ready](https://open.spotify.com/album/60wk0LODQ3wy8v82CLoR3d) | 2:26 | 2025-08-21 | 2025-12-06 |
 | [REAL](https://open.spotify.com/track/5awnj3tCy0UnuIZrehuK0l) | [VVYND](https://open.spotify.com/artist/0hDWNMM9BA6hluuxoqDWwQ) | [REAL](https://open.spotify.com/album/7KaYlccq2L1eWKhXMRlLGl) | 4:22 | 2026-07-02 |  |
 | [real love](https://open.spotify.com/track/0WuMGn0d7SRWBJi7CQ6HIO) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [real love](https://open.spotify.com/album/3TZyFrXEWXtyrNPGprdBMB) | 3:49 | 2025-08-01 |  |
+| [Reborn](https://open.spotify.com/track/19lj8puyqwoG2cusG9nAG4) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Reborn](https://open.spotify.com/album/3VTQ9iF0HB1hkWhGYkBQ7J) | 4:42 | 2026-08-27 |  |
 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 | 2024-10-03 | 2025-01-24 |
 | [Red Flag](https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Cerita Kita](https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d) | 2:46 | 2025-10-16 | 2026-02-13 |
 | [Renaissance Man](https://open.spotify.com/track/3kkrXydZaaor24348eYbIp) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Renaissance Man](https://open.spotify.com/album/3fiZhTVA6QGTc7Xw0uSXom) | 2:22 | 2024-08-23 | 2024-11-29 |
@@ -689,6 +693,7 @@
 | [what about we.](https://open.spotify.com/track/29500ynLp5KW47YhREJGF1) | [beenmind](https://open.spotify.com/artist/1XZvnhUO8BhpPo6P3q3zba) | [lovexickal](https://open.spotify.com/album/5l2ra1zglhLBDTxwvnTCoa) | 2:48 | 2024-06-27 | 2024-07-27 |
 | [What are We?](https://open.spotify.com/track/4huTFGlzP6EZIDgwxuGXT6) | [Stanley Hao](https://open.spotify.com/artist/2zyCIsZHG0cCF3ttinGHVz), [Pelin](https://open.spotify.com/artist/2K4c57tnoM6U3Oy7b5KFUB) | [What are We?](https://open.spotify.com/album/0TGO3NpFcVGaAjKSIN88EW) | 3:24 | 2025-03-27 | 2025-12-06 |
 | [What I Feel](https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [What I Feel](https://open.spotify.com/album/5at426bQhyBfRE6SoOf3X8) | 4:26 | 2025-11-06 | 2026-02-13 |
+| [What If I'm Never Enough](https://open.spotify.com/track/0DhuK61PpmcB44lF0OAD3i) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [What If I'm Never Enough](https://open.spotify.com/album/7APsFWdpNICMriF3nAMb17) | 3:40 | 2026-08-27 |  |
 | [what if we both loved each other still?](https://open.spotify.com/track/7bTrKXKGFsfzBbFyEw1z5g) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [PISCEE](https://open.spotify.com/artist/0pLM4IyW9R8mqxe9t36ikW) | [what if we both loved each other still?](https://open.spotify.com/album/1h5jJC1l85dOW2UTXULsZ4) | 3:55 | 2025-12-04 | 2026-06-26 |
 | [WHAT U WANT](https://open.spotify.com/track/3eSwtFQuAz2PcfHVZCIIyL) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [WHAT U WANT](https://open.spotify.com/album/10KM8rJzZR3CdlbNzNNEUD) | 5:40 | 2026-05-07 | 2026-08-14 |
 | [WHEN THE HOLIDAY ENDS](https://open.spotify.com/track/6XaXYV0PYsyfV4CWtesfdX) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [WHEN THE HOLIDAY ENDS](https://open.spotify.com/album/1pIv34xqSRrsrSuXhXWsbn) | 3:25 | 2026-07-30 |  |

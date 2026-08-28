@@ -1,12 +1,12 @@
 {
   "description": "This is Arushi Jain. The essential tracks, all in one playlist.",
-  "num_followers": 90,
+  "num_followers": 91,
   "original_name": "This Is Arushi Jain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAADdTskM4BtQn8pbyjOqdJKe",
+  "snapshot_id": "ao4sgAAAAAAV3Xn8qHM3gGD5vrlPzFeO",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friend Remixes",
+        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
+      },
+      "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 313129,
+      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
+      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
     },
     {
       "added_at": null,
@@ -63,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friend Remixes",
-        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
-      },
-      "artists": [
-        {
-          "name": "james K",
-          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
-        },
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 313129,
-      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
-      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Under the Lilac Sky",
         "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 207042,
-      "name": "Imagine An Orchestra",
-      "url": "https://open.spotify.com/track/4msagC3KOrVzslYGCCiGeq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "vari/ations - Ode to Oram",
         "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 245106,
       "name": "Electronic Music Is Loud",
       "url": "https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 207042,
+      "name": "Imagine An Orchestra",
+      "url": "https://open.spotify.com/track/4msagC3KOrVzslYGCCiGeq"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bravespace (Presented by the Smithsonian Asian Pacific American Center)",
+        "url": "https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 306548,
+      "name": "A Salve That Travels Time",
+      "url": "https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delight",
         "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
       },
@@ -199,26 +215,6 @@
       "duration_ms": 240905,
       "name": "Play In The Void",
       "url": "https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 338546,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS"
     },
     {
       "added_at": null,
@@ -259,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
+        }
+      ],
+      "duration_ms": 338546,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delight",
         "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
       },
@@ -268,25 +284,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 308876,
-      "name": "Our Touching Tongues",
-      "url": "https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bravespace (Presented by the Smithsonian Asian Pacific American Center)",
-        "url": "https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 306548,
-      "name": "A Salve That Travels Time",
-      "url": "https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN"
+      "duration_ms": 266429,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
       "duration_ms": 763311,
       "name": "Under The Lilac Sky",
       "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Shall Overcome / Hum Honge Kaamyaab",
+        "url": "https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 332464,
+      "name": "Hum Honge Kaamyab / We Shall Overcome",
+      "url": "https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT"
     },
     {
       "added_at": null,
@@ -336,25 +352,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 266429,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "connected #1",
-        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 412636,
-      "name": "Moksha",
-      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
+      "duration_ms": 308876,
+      "name": "Our Touching Tongues",
+      "url": "https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
       "duration_ms": 581964,
       "name": "Cultivating Self Love",
       "url": "https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "connected #1",
+        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 412636,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
     },
     {
       "added_at": null,
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 371917,
-      "name": "Infinite Delight",
-      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
+      "duration_ms": 267665,
+      "name": "Exquisite Portraiture",
+      "url": "https://open.spotify.com/track/5NLnkoYHzOSQwvdpCAUOqN"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
       "duration_ms": 329363,
       "name": "Shanti",
       "url": "https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Shall Overcome / Hum Honge Kaamyaab",
-        "url": "https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 332464,
-      "name": "Hum Honge Kaamyab / We Shall Overcome",
-      "url": "https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT"
     },
     {
       "added_at": null,

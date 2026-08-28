@@ -4,7 +4,7 @@
 
 > Relax to the sound of classical guitar.
 
-72 songs - 4 hr 49 min
+73 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [The Deer Hunter: Cavatina](https://open.spotify.com/track/0OjeJ8wBPo0AYTMbFp1QBI) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Jason Vieaux](https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO) | [Play](https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h) | 3:45 | 2021-06-28 |  |
 | [The Frog Galliard](https://open.spotify.com/track/3vAlgcCLgVr6VpYzIdwffA) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Christoph Denoth](https://open.spotify.com/artist/4mROVpgaeFTNmKG7dpsg8B) | [Mister Dowland's Midnight](https://open.spotify.com/album/57ywLala59SjhhaFuqHiNd) | 2:10 | 2021-06-28 |  |
 | [The Last of Us Theme \(Arr\. Mugi for Guitar\) \- From "The Last of Us"](https://open.spotify.com/track/7za0zJlaihHwzp5Q0FDnro) | [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [The Last of Us Theme \(Arr\. Mugi for Guitar\) \[From "The Last of Us"\]](https://open.spotify.com/album/6wbBTOzLh7vP3J6OkjDbfy) | 4:26 | 2025-08-22 |  |
+| [The Park Bench](https://open.spotify.com/track/4dtrV6Tcga0pwfiPyrxk8P) | [Nathan Stade](https://open.spotify.com/artist/77Egfx3NIgMXywP0ywmi6m), [An Tran](https://open.spotify.com/artist/4zcI1nMuObqx7zEzZf0qxi) | [Ilumina](https://open.spotify.com/album/3qUCGLswiZwsi0EGL5mG15) | 3:57 | 2026-08-28 |  |
 | [The Well\-Tempered Clavier, Book 1, BWV 846\-869 / Prelude & Fugue in C Major, BWV 846: I\. Prelude \(Transcr\. for Guitar\)](https://open.spotify.com/track/79TcGoLB19MBED0O2YZLtn) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [J.S\. Bach: The Well\-Tempered Clavier / Book 1, BWV 846\-869 / Prelude & Fugue in C Major, BWV 846: I\. Prelude \(Transcr\. for Guitar\)](https://open.spotify.com/album/5NZeobdPF0gjjynPpSLf3d) | 1:55 | 2023-01-27 |  |
 | [The Yellow Cake Review, Farewell to Stromness \(Excerpt\)](https://open.spotify.com/track/4rFxf3jRHH8YoOEh7opTli) | [Peter Maxwell Davies](https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR), [Los Angeles Guitar Quartet](https://open.spotify.com/artist/6HNEnXVjt13cvaZ9HN4tu5), [Jim Walker](https://open.spotify.com/artist/6smVDGOdX1vySleLfcVDXR) | [LAGQ](https://open.spotify.com/album/0I5t5uzRPaDKjYdj2dowcO) | 4:18 | 2021-06-28 |  |
 | [Trois Gymnopédies: No\. 1, Lent et douloureux \(Arr\. for Lute by Toby Carr\)](https://open.spotify.com/track/2X1XKEjg51ASNDqtxeWLn2) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Toby Carr](https://open.spotify.com/artist/5zNhfoSYfBlwIffqIExoB3) | [Trois Gymnopédies: No\. 1, Lent et douloureux \(Arr\. for Lute by Toby Carr\)](https://open.spotify.com/album/2xJAVK71aHkD3dZTx3RHja) | 3:26 | 2026-08-07 |  |

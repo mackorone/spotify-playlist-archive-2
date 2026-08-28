@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "Bloody Paradise (English Ver.) (Feat. Lu\u00edsa Sonza)",
+        "url": "https://open.spotify.com/album/0pmGnlSL15kAFrftVmfPsx"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bloody Paradise - English Ver.",
+      "url": "https://open.spotify.com/track/51UYkvG8KWU4RkD9fFoyER"
+    },
+    {
+      "album": {
         "name": "Boa Menina",
         "url": "https://open.spotify.com/album/26VwJ4TnjQYdkTe7LTcFQP"
       },

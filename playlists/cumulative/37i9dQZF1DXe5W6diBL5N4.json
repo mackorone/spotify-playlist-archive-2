@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: CORTIS) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: NCT127) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -142563,6 +142563,28 @@
     },
     {
       "album": {
+        "name": "KoK",
+        "url": "https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506773,
+      "name": "KoK",
+      "url": "https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef"
+    },
+    {
+      "album": {
         "name": "KOKKIO",
         "url": "https://open.spotify.com/album/1JzWWscIKFNDlURlIGfUNb"
       },
@@ -239347,6 +239369,24 @@
     },
     {
       "album": {
+        "name": "Speed of Summer",
+        "url": "https://open.spotify.com/album/1lCKw8BHHZTJTz5C676KSg"
+      },
+      "artists": [
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234279,
+      "name": "Speed of Summer",
+      "url": "https://open.spotify.com/track/3Aljxc4MlI98oUcPJrBwUD"
+    },
+    {
+      "album": {
         "name": "DTX 2nd : Speed Up Losers ride",
         "url": "https://open.spotify.com/album/37BzfXyIYxiVhGiPLfjDYf"
       },
@@ -250316,6 +250356,24 @@
       "duration_ms": 239332,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/0bu7PlYH1oG9HNDFqKuj7x"
+    },
+    {
+      "album": {
+        "name": "Sunburst",
+        "url": "https://open.spotify.com/album/4kFqiNriweCHTcIFTxnrqO"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sunburst",
+      "url": "https://open.spotify.com/track/7erjjY5wHoWFTmDoV3Mktq"
     },
     {
       "album": {

@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Aaja Re Piya",
+        "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Khushi Pareek",
+          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "Aaja Re Piya",
+      "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
+    },
+    {
+      "album": {
         "name": "Bemisaal",
         "url": "https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2"
       },
@@ -812,7 +834,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Baanancha Daati",
       "url": "https://open.spotify.com/track/61CgDKF7g0c07IsD5uF6QT"
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 206088,
       "name": "Barsa",
       "url": "https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA"
@@ -1686,6 +1708,24 @@
       "duration_ms": 103340,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0vaPHw608M1jHif7kO2TSc"
+    },
+    {
+      "album": {
+        "name": "Chandni",
+        "url": "https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chandak",
+          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Chandni",
+      "url": "https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao"
     },
     {
       "album": {
@@ -3165,6 +3205,28 @@
     },
     {
       "album": {
+        "name": "Idhar Zara Sa Dekh Lo",
+        "url": "https://open.spotify.com/album/75W6MsVbgjJm9n5Mk3WKNB"
+      },
+      "artists": [
+        {
+          "name": "Shikhar",
+          "url": "https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171035,
+      "name": "Idhar Zara Sa Dekh Lo",
+      "url": "https://open.spotify.com/track/04sAXlM1Lxu1k6Yqr1hTHf"
+    },
+    {
+      "album": {
         "name": "idk",
         "url": "https://open.spotify.com/album/0tO2P9QpZ0QeVTojBuQ9Yw"
       },
@@ -3398,7 +3460,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 190000,
       "name": "Jaa Tujhe Ishq Ho",
       "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
@@ -3464,7 +3526,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173597,
       "name": "Jaan Se Zyada",
       "url": "https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP"
@@ -3512,6 +3574,32 @@
       "duration_ms": 161586,
       "name": "Jaane Anjaane",
       "url": "https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr"
+    },
+    {
+      "album": {
+        "name": "Jaane Bhi Do",
+        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170890,
+      "name": "Jaane Bhi Do",
+      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
     },
     {
       "album": {
@@ -4212,7 +4300,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 149927,
       "name": "Kehndi Hai",
       "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
@@ -4792,7 +4880,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187342,
       "name": "Kya Kahein",
       "url": "https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg"
@@ -5038,7 +5126,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
@@ -5078,6 +5166,28 @@
       "duration_ms": 206285,
       "name": "Main Heer Teri",
       "url": "https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq"
+    },
+    {
+      "album": {
+        "name": "Main Khadya",
+        "url": "https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4"
+      },
+      "artists": [
+        {
+          "name": "Naveen Chaudhary",
+          "url": "https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Main Khadya",
+      "url": "https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ"
     },
     {
       "album": {
@@ -5301,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "Meena Bazaar",
+        "url": "https://open.spotify.com/album/5qpD2yDln9a0BopzZGefKR"
+      },
+      "artists": [
+        {
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137474,
+      "name": "Meena Bazaar",
+      "url": "https://open.spotify.com/track/6zbiXI7GAeG23AIG7ocSdC"
+    },
+    {
+      "album": {
         "name": "Meherbaan",
         "url": "https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6"
       },
@@ -5360,7 +5488,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 224284,
       "name": "Mere Qareeb",
       "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
@@ -5670,6 +5798,28 @@
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
+    },
+    {
+      "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/16u0hCKXEmbfM66kvDOhjM"
+      },
+      "artists": [
+        {
+          "name": "Anand S Bajpai",
+          "url": "https://open.spotify.com/artist/3vcJ5Hy223Tc24058Ei5lw"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121442,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg"
     },
     {
       "album": {
@@ -6548,7 +6698,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Ramba Urvasi Menaka",
       "url": "https://open.spotify.com/track/63D9vDB9RFoteyS2AgM0Jw"
@@ -7042,7 +7192,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 240870,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO"
@@ -8242,7 +8392,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183071,
       "name": "Thirinjin",
       "url": "https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX"
@@ -8520,7 +8670,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 190000,
       "name": "Tuu",
       "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
@@ -8662,7 +8812,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "URDU ME GEETA",
       "url": "https://open.spotify.com/track/0OJmfTfnwwj02W7TNi9COo"

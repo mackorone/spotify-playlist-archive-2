@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀 YAWO på cover!!
+> kun det nyeste danske rap 👀 Cizzo på cover!!
 
-599 songs - 1 day 1 hr 38 min
+604 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [ALTERDETSAMME](https://open.spotify.com/track/27VeZeRcdqQRu6LqMAZz8u) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw) | [ALTERDETSAMME](https://open.spotify.com/album/2MnLoYFWPddbSN9GU1Q83m) | 2:17 | 2025-03-27 | 2025-04-18 |
 | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/track/5od1j7k88aLQoLJdj4xdoq) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/album/5D5P9ieuXW4WEtprfjCj4M) | 3:11 | 2024-02-22 | 2024-05-14 |
 | [AMAL PT\. 2](https://open.spotify.com/track/7zH44zeRQPJdkNmKJyNvrL) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [AMAL PT\. 2](https://open.spotify.com/album/1fxN0kfZA3pus0HH1LfCJi) | 3:14 | 2024-01-11 | 2024-09-13 |
+| [Amira](https://open.spotify.com/track/6GpCoUl3H52mKyepmWMQya) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Amira](https://open.spotify.com/album/00brwhGxxVji3sWi8ACisb) | 2:03 | 2026-08-27 |  |
 | [ANDERLEDES](https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw) | [MEMZ](https://open.spotify.com/artist/6XvIKkATarRkAZppLCdLVY) | [ANDERLEDES](https://open.spotify.com/album/7azznQEPvB5GM2olU0M8X2) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [ANTISOCIAL](https://open.spotify.com/track/5tAFJmTuNNrCnNbjWM2KAR) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [ANTISOCIAL](https://open.spotify.com/album/32akYgu4MkrCHLkOEi0XAv) | 2:35 | 2025-02-06 | 2025-06-27 |
 | [Astralis](https://open.spotify.com/track/7C7PFBbwFC3e0XQF4utbQX) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [ASTRALIS](https://open.spotify.com/album/5IN3zS8PZ2uabDDKzVqJtS) | 2:36 | 2024-07-11 | 2024-09-13 |
@@ -127,6 +128,7 @@
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-03 | 2026-04-10 |
 | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/track/7mUPCop88z8A4mTP1Rxrvq) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/album/6ODopWPSC73RjkK0bN3UjL) | 2:41 | 2026-01-08 | 2026-04-17 |
 | [Coconut Dreams](https://open.spotify.com/track/6s5fTvO1t80qZ61xjeCv9m) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Coconut Dreams](https://open.spotify.com/album/3RmzF1NpJTdGoBcHHg9WYF) | 2:54 | 2024-06-06 | 2024-11-08 |
+| [COGNAC](https://open.spotify.com/track/4tbFTazzCGUll4DaUXSAp9) | [Tyrees](https://open.spotify.com/artist/7FXMEeXMVK0qPi84nttz1o) | [COGNAC](https://open.spotify.com/album/3Jy1JIJ3Fr5kCxWj8jwlBL) | 2:06 | 2026-08-27 |  |
 | [Coldplay](https://open.spotify.com/track/6p8SQMxYN2i8MZJv7VI9YW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Coldplay](https://open.spotify.com/album/3wDJPueYov5F4sMDQE66UC) | 2:30 | 2025-09-04 | 2025-10-03 |
 | [Company](https://open.spotify.com/track/6Nb9knmY0K5SXDU0IZRcGK) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Company](https://open.spotify.com/album/0wiQ5yItDLDmfKBxPlBFhR) | 2:24 | 2023-11-10 | 2024-05-14 |
 | [Copenhagen](https://open.spotify.com/track/1ic0b3srMKuadfg4z9TSLK) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:46 | 2023-10-12 | 2023-12-14 |
@@ -274,6 +276,7 @@
 | [Holddamagle](https://open.spotify.com/track/6mCX1dL0vG71HxcI1OdRBe) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PÅ GEN5YN](https://open.spotify.com/album/1UwgdrQVaJBueo48c2GM8x) | 1:52 | 2024-06-27 | 2024-09-13 |
 | [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-09-21 | 2023-12-14 |
 | [Hop Ind I](https://open.spotify.com/track/7eo5owFb9jeDNyuSe0ivlE) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Hop Ind I](https://open.spotify.com/album/1NbdMZC0KBEFK75XRQWmE5) | 2:09 | 2026-07-02 | 2026-07-17 |
+| [Hunger 4 Livet](https://open.spotify.com/track/1ZlFVKqb3s2X5ypaaWxqXL) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Hunger 4 Livet](https://open.spotify.com/album/3BNM9RBUkdo2dnnmMhEHwi) | 2:39 | 2026-08-27 |  |
 | [Hustlers Ambition](https://open.spotify.com/track/4XdCz4OmpJG8boHyXaeg7v) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Hustlers Ambition](https://open.spotify.com/album/2UHksnhp9qVmHqXM8GKPCS) | 2:01 | 2024-10-24 | 2024-11-08 |
 | [Hva Du På \(feat\. Gilli\)](https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:38 | 2024-05-30 | 2025-02-28 |
 | [hva fuck mener du](https://open.spotify.com/track/06lfv6CwYPnlpXfguvYiCA) | [Speedy](https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB) | [hva fuck mener du](https://open.spotify.com/album/3x6kS96DcexsPthxCIVvo6) | 2:40 | 2026-06-19 | 2026-06-26 |
@@ -330,6 +333,7 @@
 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 | 2025-05-30 | 2025-11-14 |
 | [Kender Mig](https://open.spotify.com/track/7dtKlZ5IQpWG1rtFzMqyif) | [Ferslev](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Kender Mig](https://open.spotify.com/album/2Otx30Zt8boiKM1vIlQmPR) | 2:18 | 2026-06-25 | 2026-06-30 |
 | [Kensington](https://open.spotify.com/track/3F9G0gY3LFkHhUSnHTmidi) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Kensington](https://open.spotify.com/album/2aWaeRcrVIT3M4oeEYbzpH) | 1:50 | 2025-10-16 | 2025-10-31 |
+| [KIKI](https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [KIKI](https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p) | 2:46 | 2026-08-27 |  |
 | [King Of Lions](https://open.spotify.com/track/78Wcn0KtwtcSk3AFZLCnsZ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [King Of Lions](https://open.spotify.com/album/06xP6kjRPNSpaPDKhRT9AD) | 2:11 | 2024-06-20 | 2024-09-13 |
 | [Kirsebær](https://open.spotify.com/track/5dCLDvxvL4TPhcj43hsTBu) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Kirsebær](https://open.spotify.com/album/2GvNkzQVVOI3WxUyE1GPi5) | 2:13 | 2025-09-18 | 2025-10-10 |
 | [KITTY \(feat\. Tessa\)](https://open.spotify.com/track/0L8mArFgQMunWP6qip3U7k) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [KITTY \(feat\. Tessa\)](https://open.spotify.com/album/2o4OKDnYbLOXp9md43Nqnt) | 2:16 | 2024-06-06 | 2024-11-08 |
@@ -551,6 +555,7 @@
 | [Tyngdekraft](https://open.spotify.com/track/4nCRvkSXJBJ6vdIO52HIqa) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Tyngdekraft](https://open.spotify.com/album/3ffwxtrr0EThRigHNcVynp) | 2:31 | 2025-06-12 | 2025-07-11 |
 | [Tænker kun på dig](https://open.spotify.com/track/4syzZJggRLGCfMObzdHetH) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Tænker kun på dig](https://open.spotify.com/album/5QyQvg7bFnxt61jwtS03a0) | 2:00 | 2025-10-09 | 2025-10-31 |
 | [U\-vending](https://open.spotify.com/track/3DPZCTa94K2A68GAevOqsI) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [U\-vending](https://open.spotify.com/album/7xwLK7e8YAeFYXwUoqv8Dy) | 2:26 | 2024-02-08 | 2024-03-08 |
+| [Ud Af Boksen](https://open.spotify.com/track/6k510Mf6Qz34GVfYLx81W9) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Ud Af Boksen](https://open.spotify.com/album/31eba2dt9qS1Q3d82G2uCX) | 2:26 | 2026-08-27 |  |
 | [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 | 2024-02-01 | 2024-10-04 |
 | [Udenlands](https://open.spotify.com/track/36LhHBZSbY7Z1BKqQQpI6M) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Udenlands](https://open.spotify.com/album/6MdVTllUWzvSPF6JSOrEYx) | 2:07 | 2026-03-05 | 2026-06-26 |
 | [UDØDELIG](https://open.spotify.com/track/0FyCLGRnLuYNSQvsMTaLNb) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [UDØDELIG](https://open.spotify.com/album/4XmsleiLDfq75f5Gmz3eWf) | 2:03 | 2024-06-27 | 2024-09-13 |

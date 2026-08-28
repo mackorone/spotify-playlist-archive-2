@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Find the space",
+        "url": "https://open.spotify.com/album/5qSBWYEk8cGwU2qDRax2IN"
+      },
+      "artists": [
+        {
+          "name": "Perry Goldfish",
+          "url": "https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100615,
+      "name": "Find the space",
+      "url": "https://open.spotify.com/track/1cwv5WHepUOktBPgy1X7Hi"
+    },
+    {
+      "album": {
         "name": "Finding Hope",
         "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
       },
@@ -6572,6 +6590,24 @@
       "duration_ms": 144625,
       "name": "Ninon",
       "url": "https://open.spotify.com/track/5zt7kPSoNPqnMh5J7qyl8f"
+    },
+    {
+      "album": {
+        "name": "Nivalune",
+        "url": "https://open.spotify.com/album/6xfQHmkTAk3uBSznzGC5aq"
+      },
+      "artists": [
+        {
+          "name": "Petit Lilou",
+          "url": "https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136374,
+      "name": "Nivalune",
+      "url": "https://open.spotify.com/track/6zFSGG2BH79eIeI1NblUQQ"
     },
     {
       "album": {

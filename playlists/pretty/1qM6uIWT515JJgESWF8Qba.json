@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 554,
+  "num_followers": 556,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACHDNzLrvLqCtTxzK/nJtJd1XJ2dot",
+  "snapshot_id": "AAACHdI6IkKKJto4bz/Omnd2zjX4P1GB",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -987,6 +987,22 @@
       "duration_ms": 239000,
       "name": "Bar Flies",
       "url": "https://open.spotify.com/track/7BnfRSLTfFgOgvXD7ibXeZ"
+    },
+    {
+      "added_at": "2026-08-27 23:30:14",
+      "album": {
+        "name": "Ante Todo",
+        "url": "https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC"
+      },
+      "artists": [
+        {
+          "name": "Danel",
+          "url": "https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo"
+        }
+      ],
+      "duration_ms": 225094,
+      "name": "Bajo Llave",
+      "url": "https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8"
     }
   ],
   "unique_name": "Local Rock Bands",

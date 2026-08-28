@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Khontkar, Motive",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Allame, Sagopa Kajmer",
   "name": "NKVT",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 146170,
       "name": "3 PARMAK",
       "url": "https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 110769,
       "name": "59",
       "url": "https://open.spotify.com/track/4CPddNJjMP8T0R68FyJ2Rx"
@@ -1374,6 +1374,28 @@
       "duration_ms": 206769,
       "name": "Anakonda",
       "url": "https://open.spotify.com/track/5zhOvr9rLo3e29nhLDWSsm"
+    },
+    {
+      "album": {
+        "name": "ANAKONDA'S",
+        "url": "https://open.spotify.com/album/4YkDU6Y6AlIQmi1G3a7Cgx"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "ANAKONDA'S",
+      "url": "https://open.spotify.com/track/1vCWBRKA0y6lN8iw9J7PFt"
     },
     {
       "album": {
@@ -2703,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "BALLERINA",
+        "url": "https://open.spotify.com/album/3nUQlluhh3O5fG4QpCfauQ"
+      },
+      "artists": [
+        {
+          "name": "JEFF",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "BALLERINA",
+      "url": "https://open.spotify.com/track/4BsA2RgQ4RDsrj27Lj0LFB"
+    },
+    {
+      "album": {
         "name": "BALMAIN",
         "url": "https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM"
       },
@@ -3418,7 +3458,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160004,
       "name": "BEN\u0130 KANDIRMI\u015eSIN",
       "url": "https://open.spotify.com/track/2oGsuMmPVfmAw48ILSjcsc"
@@ -3724,6 +3764,28 @@
       "duration_ms": 144000,
       "name": "Bir \u00d6l\u00fcm Ismarlad\u0131m",
       "url": "https://open.spotify.com/track/5Ho0TR7VKKn9uqmgrNXLty"
+    },
+    {
+      "album": {
+        "name": "Bir \u015eans\u0131m Daha Olsa",
+        "url": "https://open.spotify.com/album/51sR6pNnpgV0uYkBzrJqAf"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        },
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170673,
+      "name": "Bir \u015eans\u0131m Daha Olsa",
+      "url": "https://open.spotify.com/track/0QhAsknTdlHJnx0YCgteDg"
     },
     {
       "album": {
@@ -4511,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "BUSTA RHYMES",
+        "url": "https://open.spotify.com/album/3Jn25fwGq33cgnn3ZSGg8k"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99555,
+      "name": "BUSTA RHYMES",
+      "url": "https://open.spotify.com/track/1p73rJ30qdPJqzQkPkyQbg"
+    },
+    {
+      "album": {
         "name": "B\u00f6l\u00fcm Sonu",
         "url": "https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0"
       },
@@ -4540,7 +4624,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 111941,
       "name": "B\u00dcLB\u00dcL",
       "url": "https://open.spotify.com/track/1cg9gqKweXLFRMxcIjtxBK"
@@ -6712,7 +6796,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173000,
       "name": "Everyone Is A Murderer - Sagopa Kajmer Remix",
       "url": "https://open.spotify.com/track/17bbJR1MzComBHweaFpbof"
@@ -7043,6 +7127,24 @@
     },
     {
       "album": {
+        "name": "SES",
+        "url": "https://open.spotify.com/album/7DJy7OjpsP7aQLpzviQqID"
+      },
+      "artists": [
+        {
+          "name": "\u00d6TE",
+          "url": "https://open.spotify.com/artist/49z6dTtf30rgYZ6qkvPbkD"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140298,
+      "name": "FLA\u015e!",
+      "url": "https://open.spotify.com/track/7DvJYWBoGx4fSuw1IG4IK2"
+    },
+    {
+      "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/4bAamQMysxekb1UJ7nGR7G"
       },
@@ -7194,7 +7296,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 57103,
       "name": "G6",
       "url": "https://open.spotify.com/track/26T7zRicGkSunlTfrpE2qK"
@@ -8680,7 +8782,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 196000,
       "name": "Hannibal Lecter",
       "url": "https://open.spotify.com/track/0NX9KIumXJHyPBjTgFDv8y"
@@ -9254,7 +9356,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 234375,
       "name": "Herkes \u00d6ld\u00fc Kimsenin Haberi Yok",
       "url": "https://open.spotify.com/track/3bQtLI9JmUhy6gUHuMYrjy"
@@ -11497,6 +11599,40 @@
     },
     {
       "album": {
+        "name": "KATL\u0130FEST 2",
+        "url": "https://open.spotify.com/album/098xbvqWdw0hOD7TZOqvPV"
+      },
+      "artists": [
+        {
+          "name": "Baran",
+          "url": "https://open.spotify.com/artist/4giQsqcdNT5dvxPORJCeLp"
+        },
+        {
+          "name": "Kava",
+          "url": "https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f"
+        },
+        {
+          "name": "Kadir Firat",
+          "url": "https://open.spotify.com/artist/0dcpDWP0OhZxl8akToLfFF"
+        },
+        {
+          "name": "Ebonivon",
+          "url": "https://open.spotify.com/artist/4yeRT7Z5iGmgIrKytJvHh3"
+        },
+        {
+          "name": "ERAY",
+          "url": "https://open.spotify.com/artist/6rGAm3azcnE8X1ExmxRFqV"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "KATL\u0130FEST 2",
+      "url": "https://open.spotify.com/track/1K1OilI9GF55U7cKAhHkp7"
+    },
+    {
+      "album": {
         "name": "Kaybeden",
         "url": "https://open.spotify.com/album/7Ae3Ud9M6m2hyK00CIT0U5"
       },
@@ -11508,7 +11644,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 137000,
       "name": "Kaybeden",
       "url": "https://open.spotify.com/track/6XtYVT7q73CjAsHTLNrqkd"
@@ -11953,6 +12089,32 @@
     },
     {
       "album": {
+        "name": "KIRMIZI NOKTA (SESH)",
+        "url": "https://open.spotify.com/album/4zy55a7yMRQmY1Nvywm5zE"
+      },
+      "artists": [
+        {
+          "name": "13 Killoki",
+          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
+        },
+        {
+          "name": "SWIRF",
+          "url": "https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG"
+        },
+        {
+          "name": "Tetha",
+          "url": "https://open.spotify.com/artist/1b8FYP79bFIjf86NKvTOdp"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160004,
+      "name": "KIRMIZI NOKTA (SESH)",
+      "url": "https://open.spotify.com/track/2yjBaenNzRxraAITNQczBa"
+    },
+    {
+      "album": {
         "name": "Kirpi",
         "url": "https://open.spotify.com/album/0iY8ijcXQXknNULmy098z5"
       },
@@ -12328,6 +12490,28 @@
       "duration_ms": 166379,
       "name": "kozzy",
       "url": "https://open.spotify.com/track/04d7aMynHFsfWOhJo4gFIf"
+    },
+    {
+      "album": {
+        "name": "kozzy (remix)",
+        "url": "https://open.spotify.com/album/5UvmjkCpOdV7r0buVcAEbR"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166226,
+      "name": "kozzy - remix",
+      "url": "https://open.spotify.com/track/7vXyH1Bu98yNPOHTTXCwNx"
     },
     {
       "album": {
@@ -13740,7 +13924,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 132480,
       "name": "Makaray\u0131z",
       "url": "https://open.spotify.com/track/4SoLtactNAdSZxshUZne6a"
@@ -18060,7 +18244,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 110769,
       "name": "Selamu Aleykum",
       "url": "https://open.spotify.com/track/2qNIKS5GYqhRQs5Man9vm5"
@@ -18643,6 +18827,24 @@
     },
     {
       "album": {
+        "name": "RAPSTAR GAMES",
+        "url": "https://open.spotify.com/album/6NXIRG3MkRuicasLuS0Zd2"
+      },
+      "artists": [
+        {
+          "name": "Orchi",
+          "url": "https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "SHORTY",
+      "url": "https://open.spotify.com/track/783XpYqgTyjBeOlnxZTRMj"
+    },
+    {
+      "album": {
         "name": "SHOT",
         "url": "https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn"
       },
@@ -18930,6 +19132,36 @@
       "duration_ms": 153610,
       "name": "skici",
       "url": "https://open.spotify.com/track/1Oxysfnv85iKglnjGdoVID"
+    },
+    {
+      "album": {
+        "name": "SKYSCANNER",
+        "url": "https://open.spotify.com/album/56y9qdqCRBJ3dC1stnccVn"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "SKYSCANNER",
+      "url": "https://open.spotify.com/track/3lVpPucfQUECv2msRDkurb"
     },
     {
       "album": {
@@ -20356,7 +20588,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 100179,
       "name": "tsk saol",
       "url": "https://open.spotify.com/track/72nLX1dJcZQbtLPVcO8ghS"
@@ -20868,6 +21100,24 @@
       "duration_ms": 192064,
       "name": "Uzayda A\u015fk",
       "url": "https://open.spotify.com/track/4GNt6Ymyb6ld5lZgN0HbKp"
+    },
+    {
+      "album": {
+        "name": "uzayl\u0131lar bile dinliyo",
+        "url": "https://open.spotify.com/album/4s53i9yTjSXfQvkgy6CbR5"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103222,
+      "name": "uzayl\u0131lar bile dinliyo",
+      "url": "https://open.spotify.com/track/2QuYeqwgiI6HNYWhITTFAG"
     },
     {
       "album": {
@@ -23304,6 +23554,28 @@
       "duration_ms": 175143,
       "name": "\u015eark\u0131lar Sokaklara Ait",
       "url": "https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo"
+    },
+    {
+      "album": {
+        "name": "\u015ea\u015fk\u0131n",
+        "url": "https://open.spotify.com/album/6bEnmtSkiWPLpYX4T57GP6"
+      },
+      "artists": [
+        {
+          "name": "Can Demir",
+          "url": "https://open.spotify.com/artist/00UK1NIitQXRyJKMh5tJhV"
+        },
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123495,
+      "name": "\u015ea\u015fk\u0131n",
+      "url": "https://open.spotify.com/track/00enQAwyeXJ0hvZZzn98lT"
     },
     {
       "album": {

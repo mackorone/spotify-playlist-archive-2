@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯<br/>Photo : Jahïem Solo
 
-632 songs - 1 day 7 hr 8 min
+633 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [bien avant les fleurs](https://open.spotify.com/track/5v9DxlvXjly6nOs5dUnu9O) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [Avant les fleurs](https://open.spotify.com/album/0PFGUOD2ohvtzuhUBaaZPX) | 2:55 | 2024-06-20 | 2025-04-11 |
 | [Bijoux](https://open.spotify.com/track/1yCn9NNBPCJRud3aE5su7d) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Bijoux](https://open.spotify.com/album/5u6lSDCLRY04TFacwR6fkI) | 3:05 | 2023-11-09 | 2024-01-19 |
 | [Blesser](https://open.spotify.com/track/6XDK7YGkWyAruPneoLrkzQ) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Softboy Actif](https://open.spotify.com/album/1o4Tjn32VoMfSs1epfrX8y) | 2:48 | 2024-10-24 | 2025-03-14 |
+| [Boom](https://open.spotify.com/track/4bXEC4bKdmoVJMkZH3ShK3) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Boom](https://open.spotify.com/album/1gk3oGD4YnYUro6nUEPRLq) | 2:44 | 2026-08-27 |  |
 | [Boomerang](https://open.spotify.com/track/7pBtMjYw5KJROQpkFZL6Ta) | [nassím](https://open.spotify.com/artist/2Ck4xqhvgQlBJtUxVPGCIn) | [Boomerang](https://open.spotify.com/album/3cDMxOkv64VsVCaw6XJbnx) | 3:51 | 2024-05-23 | 2024-11-08 |
 | [Bora Bora](https://open.spotify.com/track/1UoAVUm5PahShviEuM8tlP) | [Haïlé Dästa](https://open.spotify.com/artist/38WuES2LwGfbLssRdC8TPG) | [Médecine](https://open.spotify.com/album/2Pqy1T1VeYIfW4dbegcu0P) | 3:44 | 2025-09-18 | 2025-11-21 |
 | [Bora Bora \- Live](https://open.spotify.com/track/0PCHGATqzgupul3FMMQR6u) | [Haïlé Dästa](https://open.spotify.com/artist/38WuES2LwGfbLssRdC8TPG) | [Médecine](https://open.spotify.com/album/4o5V3Q9xJqwYtUIILCfsFf) | 3:49 | 2025-11-20 | 2026-01-30 |
@@ -262,7 +263,7 @@
 | [INTUITION](https://open.spotify.com/track/5BoIGwh0ZRKnayGvo0HA2D) | [Jahïem Solo](https://open.spotify.com/artist/5XN9cJro2ndaoRsUaS7huS), [Joe Mambo](https://open.spotify.com/artist/09swwlqrjYXfuZlrsrbNKD), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [INTUITION](https://open.spotify.com/album/0oCiYki0bGhzpQG3YeOioz) | 2:24 | 2026-07-30 |  |
 | [J'achète ça](https://open.spotify.com/track/0HxQNxcKHotTLxOq8YSwhH) | [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d), [Nadjee](https://open.spotify.com/artist/3bOlMjhZuCsFt1dKkPCGAK), [Serenity Haes](https://open.spotify.com/artist/5mkiRDKsIg1f65xpo8LaKB) | [J'achète ça](https://open.spotify.com/album/1w4OAYC5ux28WTXEbvmZHq) | 2:52 | 2024-12-05 | 2025-01-24 |
 | [J'ai besoin](https://open.spotify.com/track/3wTpzExItAtgXSMop0iXTO) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q), [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Avant que tout soit beau](https://open.spotify.com/album/2rMxGQNNLGjUcKIuMYeCwO) | 3:33 | 2024-12-19 | 2025-02-14 |
-| [J'AI MENTI](https://open.spotify.com/track/42XRRXMKMt5I8Naxmrp2LY) | [lylystarr33](https://open.spotify.com/artist/6ygjcSPi7vdKg3erCjj28X), [Keight](https://open.spotify.com/artist/1LlvXuLeenj8ooAvYpOXt8) | [UNFINISHED MUSIC ONLY](https://open.spotify.com/album/5I2XbMShjBtYGFf7tACrZq) | 4:02 | 2026-04-16 |  |
+| [J'AI MENTI](https://open.spotify.com/track/42XRRXMKMt5I8Naxmrp2LY) | [lylystarr33](https://open.spotify.com/artist/6ygjcSPi7vdKg3erCjj28X), [Keight](https://open.spotify.com/artist/1LlvXuLeenj8ooAvYpOXt8) | [UNFINISHED MUSIC ONLY](https://open.spotify.com/album/5I2XbMShjBtYGFf7tACrZq) | 4:02 | 2026-04-16 | 2026-08-28 |
 | [J'ai merdé](https://open.spotify.com/track/3SxZzsVNK8VjabXJphHYPo) | [Vaik](https://open.spotify.com/artist/4TDkhCbk461mCCeION8atB), [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr), [Jeremy Lior](https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm) | [J'ai merdé](https://open.spotify.com/album/1SRs8XIRRpOe2g4Y4pAoIA) | 3:25 | 2026-02-12 | 2026-05-22 |
 | [J'ai voulu](https://open.spotify.com/track/6AaotUGcQSPfdkGbgNcP3Y) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [HIGH SCHOOL \(Réédition\)](https://open.spotify.com/album/3OPPPqo5gekMagH8KLjxQT) | 2:38 | 2024-12-19 | 2025-02-28 |
 | [J'apaise](https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [J'apaise](https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E) | 3:48 | 2023-09-28 | 2024-01-26 |

@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Everybody Celebrate",
+        "url": "https://open.spotify.com/album/0Br7GhLMD0H1FQtT9vUJIv"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147598,
+      "name": "Everybody Celebrate",
+      "url": "https://open.spotify.com/track/3xjW7CDh9Mvzq2Ve5l3lhS"
+    },
+    {
+      "album": {
         "name": "Five Little Dinosaurs Jumping On The Bed",
         "url": "https://open.spotify.com/album/0iu5RcG2cRjZBiDWwntcSn"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Am\u00e9lia",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Berq",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 138200,
       "name": "1 gegen 10",
       "url": "https://open.spotify.com/track/2P7mN7eIOHs83LQbn13QNA"
@@ -1314,6 +1314,24 @@
       "duration_ms": 190792,
       "name": "Achterbahn",
       "url": "https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L"
+    },
+    {
+      "album": {
+        "name": "ADRENALIN",
+        "url": "https://open.spotify.com/album/6TcsPvdHUQdmVwsl6ASGBJ"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147880,
+      "name": "ADRENALIN",
+      "url": "https://open.spotify.com/track/40uLIxGcvydremPOVvcasV"
     },
     {
       "album": {
@@ -4057,6 +4075,24 @@
     },
     {
       "album": {
+        "name": "Beste Zeit",
+        "url": "https://open.spotify.com/album/3AVMrVokG7c4btxmkb3W11"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156848,
+      "name": "Beste Zeit",
+      "url": "https://open.spotify.com/track/4vzBBHlLFSONFmAvYWKMUu"
+    },
+    {
+      "album": {
         "name": "Betty Boop",
         "url": "https://open.spotify.com/album/51OMAQdFVd7LXbNRDUIMvl"
       },
@@ -4166,7 +4202,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 137250,
       "name": "bikini body",
       "url": "https://open.spotify.com/track/2twXnIDIRD4XIx4OEMx80z"
@@ -7115,6 +7151,24 @@
     },
     {
       "album": {
+        "name": "um's nicht zu teilen",
+        "url": "https://open.spotify.com/album/3UY7trHPPcP5KGlNrkmqu0"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156876,
+      "name": "die sch\u00f6nsten dinge",
+      "url": "https://open.spotify.com/track/1SpfQqkvbKFMvxeKVJmn1E"
+    },
+    {
+      "album": {
         "name": "Gute Nachtmusik",
         "url": "https://open.spotify.com/album/6Z3TLUyt59JRTj6lM91rbp"
       },
@@ -7538,7 +7592,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 232155,
       "name": "Druck Auf Meiner Lunge",
       "url": "https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K"
@@ -9297,6 +9351,28 @@
     },
     {
       "album": {
+        "name": "Hotel Tiavo",
+        "url": "https://open.spotify.com/album/70GnJrkPYkbFQb7vHzpQYG"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        },
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196136,
+      "name": "erz\u00e4hl mir nichts von liebe",
+      "url": "https://open.spotify.com/track/6qHAO1ilxL66iOPEuXkAZL"
+    },
+    {
+      "album": {
         "name": "Es bleibt spannend",
         "url": "https://open.spotify.com/album/13enGCel0CjCAUoo2fvQX4"
       },
@@ -10923,6 +10999,28 @@
     },
     {
       "album": {
+        "name": "Freunde bleiben?",
+        "url": "https://open.spotify.com/album/74daJ3neTDpZsPFHe9ctkx"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        },
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177037,
+      "name": "Freunde bleiben?",
+      "url": "https://open.spotify.com/track/1FSLIvBRk3h3MbRhPGjDwu"
+    },
+    {
+      "album": {
         "name": "DUNKLSCHWARZ",
         "url": "https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW"
       },
@@ -11672,7 +11770,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157942,
       "name": "ganz egal",
       "url": "https://open.spotify.com/track/5mYxmx18pW25tP2tySMdf9"
@@ -12924,7 +13022,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174900,
       "name": "Gute Dinge",
       "url": "https://open.spotify.com/track/3xZMv0ZLRV46V9dC64NDmD"
@@ -15702,7 +15800,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 200000,
       "name": "immernoch",
       "url": "https://open.spotify.com/track/2L4r4b64I3PVKOB1eVKUjF"
@@ -17381,6 +17479,24 @@
     },
     {
       "album": {
+        "name": "keine manieren",
+        "url": "https://open.spotify.com/album/71HHiiT6iL3juFzVMlmb4K"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110205,
+      "name": "keine manieren",
+      "url": "https://open.spotify.com/track/0swWPizsf6eDzg3TNPAMGr"
+    },
+    {
+      "album": {
         "name": "keine Panik EP",
         "url": "https://open.spotify.com/album/4KjEU82iAamT0BqNRrVaPT"
       },
@@ -17428,7 +17544,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 205094,
       "name": "Keine Sorgen",
       "url": "https://open.spotify.com/track/2pQVXKRtNAdRzk2jukS1jH"
@@ -18292,7 +18408,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 115000,
       "name": "Koordinaten",
       "url": "https://open.spotify.com/track/2reYk915PXk53jAiSnd2GS"
@@ -18704,6 +18820,24 @@
       "duration_ms": 137076,
       "name": "Lala",
       "url": "https://open.spotify.com/track/1JKg6fNYI2MvettB4UoV4q"
+    },
+    {
+      "album": {
+        "name": "Lamia",
+        "url": "https://open.spotify.com/album/2aFt4GLLecHtEEp0iZDSXZ"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184545,
+      "name": "Lamia",
+      "url": "https://open.spotify.com/track/4P6y5weDdwdXOkqD1FDLyT"
     },
     {
       "album": {
@@ -19310,7 +19444,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 132000,
       "name": "letzter tag",
       "url": "https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD"
@@ -24754,7 +24888,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 140960,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf"
@@ -26514,7 +26648,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 144000,
       "name": "SCHLOSS UND EIN PFERD",
       "url": "https://open.spotify.com/track/068MEtVXL2nmvpOYCMcxA7"
@@ -29695,6 +29829,24 @@
     },
     {
       "album": {
+        "name": "Sucker Punch",
+        "url": "https://open.spotify.com/album/3zvb7GVvCk9ecMd4BqCc83"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147115,
+      "name": "Sucker Punch",
+      "url": "https://open.spotify.com/track/70pIqegEtsCh9xjQ98v3sa"
+    },
+    {
+      "album": {
         "name": "summer vibe",
         "url": "https://open.spotify.com/album/7iK4bUkVRsjJAb4gB890Bg"
       },
@@ -31026,6 +31178,32 @@
       "duration_ms": 132402,
       "name": "Turin",
       "url": "https://open.spotify.com/track/71iQu9ijhijAGati5rLn6O"
+    },
+    {
+      "album": {
+        "name": "tussis > macker",
+        "url": "https://open.spotify.com/album/5l86jPGB4QmojWidLpzAeH"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "Eli Preiss",
+          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121749,
+      "name": "tussis > macker",
+      "url": "https://open.spotify.com/track/2WcQomRjWTCIonoSWNaNVC"
     },
     {
       "album": {
@@ -35471,6 +35649,24 @@
     },
     {
       "album": {
+        "name": "zimmer umgestellt",
+        "url": "https://open.spotify.com/album/5YhN8wtgPRAwZXCU35DM1R"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "zimmer umgestellt",
+      "url": "https://open.spotify.com/track/2XEfhTS1B1KkQAJE7d1h8j"
+    },
+    {
+      "album": {
         "name": "Verwandtschaftstreffen EP",
         "url": "https://open.spotify.com/album/5jcd2yl20EAgbf9th5JM8Q"
       },
@@ -35967,6 +36163,24 @@
     },
     {
       "album": {
+        "name": "zwei Fremde (mit Erinnerung)",
+        "url": "https://open.spotify.com/album/5A5S1nGiBCxHbxqQ4cusEH"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "zwei Fremde (mit Erinnerung)",
+      "url": "https://open.spotify.com/track/25wNwVq89F62rH4m4sEU7V"
+    },
+    {
+      "album": {
         "name": "Zorn & Liebe",
         "url": "https://open.spotify.com/album/5seerIZ96Tknor62ygW3on"
       },
@@ -35985,6 +36199,24 @@
     },
     {
       "album": {
+        "name": "zwei Punkte",
+        "url": "https://open.spotify.com/album/3r9tv3JtPKKbJd6Hxp7omI"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "zwei Punkte",
+      "url": "https://open.spotify.com/track/3BPBWV7zlW6uxSl3PESNGM"
+    },
+    {
+      "album": {
         "name": "nichtsmehrda",
         "url": "https://open.spotify.com/album/1YrS2Sc2QxV834GEaGrEAU"
       },
@@ -35996,7 +36228,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187652,
       "name": "zweitausendachtzehn",
       "url": "https://open.spotify.com/track/6H7MtXHQWeGqOOZ04BM7Q1"

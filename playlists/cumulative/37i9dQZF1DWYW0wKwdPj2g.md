@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-357 songs - 2 day 0 hr 54 min
+360 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,8 @@
 | [Not My Will \( Live \)](https://open.spotify.com/track/2SKJFXD7b31nX4yD8W41ZT) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Not My Will \( Live \)](https://open.spotify.com/album/2MC1vGGqfZWGLBFKnIIYPd) | 9:44 | 2025-01-24 | 2025-04-18 |
 | [Nothing But The Blood \- Live](https://open.spotify.com/track/0QWtBHKR8yLhA2H55TyB2h) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Kymberli Joye](https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy) | [Nothing But The Blood \(Live\)](https://open.spotify.com/album/73k5ivCtC4hKJeeTKuZM2n) | 7:25 | 2024-07-12 | 2025-01-17 |
 | [Nothing Outside](https://open.spotify.com/track/2pDMt6YdKO1W45ub3W1VJ0) | [Wale Kay](https://open.spotify.com/artist/7iSAqyAGF55lyoBkUqU6TO), [Benny Bkoye](https://open.spotify.com/artist/1QwHSj7gSmgHfs1v4J8R0q) | [Nothing Outside](https://open.spotify.com/album/0UtueVIfoIhK6d4oivPNbx) | 9:27 | 2025-01-24 | 2025-02-28 |
+| [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/6vN7iPK95U67VZhM4nXKe6), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 | 2026-08-28 |  |
+| [Nsovo Moment \- Live](https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Nsovo Moment \(Live\)](https://open.spotify.com/album/4kmuvjCmGtxm62swhicrrc) | 2:58 | 2026-08-28 |  |
 | [Ntate Kemang \- Live](https://open.spotify.com/track/6PeraA6oM2pDVWXRLbKx8t) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p), [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa) | [Songs From Spirit Of Praise \(Live\)](https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK) | 4:29 | 2024-02-23 | 2025-10-31 |
 | [O a Ntwanela](https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG), [Mapula Phaho](https://open.spotify.com/artist/4YPCvpnbif4gubfTUCCK8K) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 9:33 | 2025-04-18 |  |
 | [O Ti Mu Wa Ye \(Live\)](https://open.spotify.com/track/3QQNpV4ibRElGVP2sP3rC7) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb) | [O Ti Mu Wa Ye \(Live\)](https://open.spotify.com/album/5aghmvJXRrVci1JuxgJ9r4) | 8:17 | 2024-09-13 | 2025-04-18 |
@@ -326,6 +328,7 @@
 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2024-02-23 |  |
 | [Waymaker \(Live\)](https://open.spotify.com/track/3RyfHmCpx6cbO7QJURmc4G) | [Adaora](https://open.spotify.com/artist/7e3HIWUyDU1SSC2ougAFJ6) | [Waymaker \(Live\)](https://open.spotify.com/album/3SK8rXnFsaprE5GWjiyTWr) | 6:31 | 2025-03-28 | 2025-05-09 |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 | 2024-11-22 |
+| [we gonna change the world \- Live at De Stanley Brothers Campus Tour](https://open.spotify.com/track/1wT4dgUWS2ZE6e5kuBHlal) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [The Message \(Live at De stanley Brothers Campus Tour\)](https://open.spotify.com/album/2gNOh25kMUnKpxfPg19rV8) | 8:08 | 2026-08-28 |  |
 | [We Lift You High \- Live](https://open.spotify.com/track/6rm0BbPPEKc9vYvdBIdrS7) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Eunice Ojo](https://open.spotify.com/artist/4NNB6zlRndbf7fkwBix5Un) | [We Lift You High \(Live\)](https://open.spotify.com/album/1Or8OQZyIuEaftRgQAMaaj) | 6:54 | 2024-12-20 | 2025-04-11 |
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Want More](https://open.spotify.com/track/5N9pjQ7A0Jb37wjAquMCYD) | [Tony Richie](https://open.spotify.com/artist/3rWOkbS2stonIeXCFKZ9wm), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [We Want More](https://open.spotify.com/album/1AiXWLmThkIw2jF9e1RPWd) | 17:03 | 2024-09-06 | 2024-12-20 |

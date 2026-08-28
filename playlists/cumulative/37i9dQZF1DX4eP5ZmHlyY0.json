@@ -3999,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Die Another Day",
+        "url": "https://open.spotify.com/album/1FvtY5v0GJX10OwNrLIHba"
+      },
+      "artists": [
+        {
+          "name": "TNX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Die Another Day",
+      "url": "https://open.spotify.com/track/4LZ2T2AtRf9EdsVFpaE9gN"
+    },
+    {
+      "album": {
         "name": "MATCH UP",
         "url": "https://open.spotify.com/album/7xUrbdyZf1Vky1E8vXbeqW"
       },

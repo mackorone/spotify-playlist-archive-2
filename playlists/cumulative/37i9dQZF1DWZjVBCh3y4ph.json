@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Mik L",
+  "description": "Les hits zouk & kompa du moment. Photo : SenSey'",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -3024,7 +3024,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157000,
       "name": "GRAV\u00c9",
       "url": "https://open.spotify.com/track/70puvfYeWuVer3WfhkWg2E"
@@ -4066,7 +4066,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 190684,
       "name": "LA PLUS BELLE",
       "url": "https://open.spotify.com/track/4MaknY8prcoOslpnvOSgNF"
@@ -4092,6 +4092,28 @@
       "duration_ms": 231000,
       "name": "La temp\u00e9rature",
       "url": "https://open.spotify.com/track/27BWRLH34mfG5wvAA1Leij"
+    },
+    {
+      "album": {
+        "name": "LA-BAS",
+        "url": "https://open.spotify.com/album/71U0C6QeADlFFj4HOIe9eK"
+      },
+      "artists": [
+        {
+          "name": "Phoebe",
+          "url": "https://open.spotify.com/artist/2i8wpH6aMemNE7fvIpQ1MH"
+        },
+        {
+          "name": "Shyma",
+          "url": "https://open.spotify.com/artist/5QioOBDHM2rKb7DO4IsGUv"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221204,
+      "name": "LA-BAS",
+      "url": "https://open.spotify.com/track/0QAqI8PoZE2aqU8A9OgXFw"
     },
     {
       "album": {
@@ -4446,7 +4468,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 148636,
       "name": "M'en Aller",
       "url": "https://open.spotify.com/track/4yMKFwzdBXs7sH9zvOVeAA"
@@ -4522,6 +4544,28 @@
       "duration_ms": 215774,
       "name": "Ma partition",
       "url": "https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat"
+    },
+    {
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/44mjqsKAd1z0AFtInne50Z"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197499,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
     },
     {
       "album": {
@@ -5066,7 +5110,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 188414,
       "name": "Mon soleil",
       "url": "https://open.spotify.com/track/4Hcq1O14u8ratqdfs7mWjS"
@@ -6711,6 +6755,28 @@
     },
     {
       "album": {
+        "name": "Pran Swen Dew",
+        "url": "https://open.spotify.com/album/1QqcDRvtivVDpfH5TAkdIT"
+      },
+      "artists": [
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        },
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217155,
+      "name": "Pran Swen Dew",
+      "url": "https://open.spotify.com/track/4JebHIKOj21wmr7iB63IXZ"
+    },
+    {
+      "album": {
         "name": "Premi\u00e8re fois",
         "url": "https://open.spotify.com/album/6eVXFgGVMGfa7z7YE72L6q"
       },
@@ -7078,6 +7144,24 @@
       "duration_ms": 192164,
       "name": "Saison 2",
       "url": "https://open.spotify.com/track/61zhgBrll0JcbZdhaYQ16i"
+    },
+    {
+      "album": {
+        "name": "Jusqu'\u00e0 ce que l'amour nous s\u00e9pare",
+        "url": "https://open.spotify.com/album/2TzC8h6AIeNmbO9Op5W710"
+      },
+      "artists": [
+        {
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195498,
+      "name": "Sale entre nous",
+      "url": "https://open.spotify.com/track/0qKd2Zuta92bPxhxpJgluL"
     },
     {
       "album": {

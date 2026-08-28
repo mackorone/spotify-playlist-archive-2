@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Ezhel
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Burak Bulut
 
 355 songs - 17 hr 20 min
 

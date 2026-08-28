@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: CARI",
+  "description": "Discover your new favourite artists from UK&IE. Cover: TR Gobrazy",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3844,6 +3844,24 @@
       "duration_ms": 228303,
       "name": "More",
       "url": "https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz"
+    },
+    {
+      "album": {
+        "name": "MUM SAID",
+        "url": "https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8"
+      },
+      "artists": [
+        {
+          "name": "TR Gobrazy",
+          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113337,
+      "name": "MUM SAID",
+      "url": "https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z"
     },
     {
       "album": {

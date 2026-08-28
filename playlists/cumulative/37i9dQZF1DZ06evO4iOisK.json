@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 196066,
       "name": "STILL ON FIRE",
       "url": "https://open.spotify.com/track/5blRKN8WIFG3WXUzNytf5B"
@@ -1302,6 +1302,24 @@
       "duration_ms": 191800,
       "name": "Turning Point",
       "url": "https://open.spotify.com/track/7tBqFwuUYa2t6b8i3B5FYV"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/1npt0QjEzaC9751wWLpoVV"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/7HZlCNH4f8zM60D9RpIpIA"
     },
     {
       "album": {

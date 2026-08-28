@@ -4,7 +4,7 @@
 
 > se pò spezzà nu ciore 'mmiez'ô viento, 'o viento senza ciore addora 'e niente 🩵
 
-598 songs - 1 day 7 hr 58 min
+599 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [MEZZ’ORA D’AMORE \(S1 E3\)](https://open.spotify.com/track/3RwhBeek2bz0mrGHbgl5Q8) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [FINO ALL'ULTIMO RESPIRO](https://open.spotify.com/album/37kkhjamTEmKobW3xX1OGU) | 2:54 | 2024-11-21 | 2025-01-17 |
 | [Mi arrendo \(con Brunori Sas\)](https://open.spotify.com/track/5kxpGaL0c3qfrls4riTdNm) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Anatomia di uno schianto prolungato](https://open.spotify.com/album/7MC6hKYPdD8osqbRbLF2kN) | 4:16 | 2026-05-14 |  |
 | [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 | 2025-12-04 | 2026-03-13 |
-| [Mia nonna non si sposerà mai](https://open.spotify.com/track/6AmrSKgbadD1vvMWJIS8nR) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Mia nonna non si sposerà mai](https://open.spotify.com/album/4d187YmVmtKgGxiOxfRAsB) | 2:12 | 2026-07-09 |  |
+| [Mia nonna non si sposerà mai](https://open.spotify.com/track/6AmrSKgbadD1vvMWJIS8nR) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Mia nonna non si sposerà mai](https://open.spotify.com/album/4d187YmVmtKgGxiOxfRAsB) | 2:12 | 2026-07-09 | 2026-08-28 |
 | [Miao](https://open.spotify.com/track/1bA1XFvz1mmii9x6uOCsD4) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Miao](https://open.spotify.com/album/2VvvpSZiSHD6t2lhXdBkqo) | 3:35 | 2025-07-17 | 2025-08-29 |
 | [Midnight Light](https://open.spotify.com/track/57dXFliDUK856PYFVT8vJg) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Midnight Light](https://open.spotify.com/album/0JnjMb9y6vskoDmOCUUknB) | 4:35 | 2025-05-01 | 2025-05-30 |
 | [MIELE \(scusa\)](https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [MIELE \(Scusa\)](https://open.spotify.com/album/3tzuzJ0IlYtGy2IWfONuSo) | 2:27 | 2024-11-14 | 2025-01-03 |
@@ -396,7 +396,7 @@
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-06-27 | 2025-04-18 |
 | [Oui oui](https://open.spotify.com/track/6uEWAOhBeu31oFNNCT31Ic) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [OFIUCO](https://open.spotify.com/album/1K4inLkkXbxqHDE8JIznCD) | 3:15 | 2024-10-17 | 2024-11-08 |
 | [Ovvio](https://open.spotify.com/track/4hIUJZRIS0NRWUkyy0dZlJ) | [Asp126](https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G) | [Ovvio](https://open.spotify.com/album/1QsAEN4NfCjcacRT8cpqwW) | 2:47 | 2024-10-24 | 2024-11-29 |
-| [Padova Dream](https://open.spotify.com/track/03YjOA1fBy8Wg43XUHUCHb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Pier Danio Forni](https://open.spotify.com/artist/3Qo8e6LA95lPX2U1wjHXLk) | [Dream Samples](https://open.spotify.com/album/13ZEli9typ84vO0t0ZZcOn) | 4:49 | 2026-06-25 |  |
+| [Padova Dream](https://open.spotify.com/track/03YjOA1fBy8Wg43XUHUCHb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Pier Danio Forni](https://open.spotify.com/artist/3Qo8e6LA95lPX2U1wjHXLk) | [Dream Samples](https://open.spotify.com/album/13ZEli9typ84vO0t0ZZcOn) | 4:49 | 2026-06-25 | 2026-08-28 |
 | [Palo Santo](https://open.spotify.com/track/5yOjKt8JhWfNKSIFIZAxB5) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Palo Santo](https://open.spotify.com/album/5VPlNVcBojccua6dSW2bes) | 2:55 | 2024-10-03 | 2024-11-22 |
 | [Panico](https://open.spotify.com/track/55qzd1RyoS4A9BxmMTk7Zr) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Panico](https://open.spotify.com/album/4aWVRvuSmJJSFDBKqZpllx) | 3:10 | 2026-04-23 | 2026-05-15 |
 | [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt) | [GattoToro](https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg), [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX) | 2:23 | 2025-01-30 | 2025-03-07 |
@@ -458,6 +458,7 @@
 | [quasi all'improvviso](https://open.spotify.com/track/6eocEEZLEKEArXqydsMZHO) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [quasi all'improvviso](https://open.spotify.com/album/61uYbqtTTArI1YrkNkDUiE) | 3:17 | 2025-07-03 | 2025-08-29 |
 | [Quelli come me](https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Quelli come me](https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS) | 3:20 | 2026-03-19 | 2026-05-08 |
 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 | 2025-11-20 |  |
+| [Questa canzone non è per nessuno](https://open.spotify.com/track/092opaQXfnpLrcLvG33jJH) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Questa canzone non è per nessuno](https://open.spotify.com/album/3gDxDIzfZW6M49cnC67Sr9) | 2:47 | 2026-08-27 |  |
 | [ragnatela](https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [ragnatela](https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5) | 3:00 | 2025-11-13 | 2026-01-15 |
 | [REPLAY](https://open.spotify.com/track/5pz1YEoos6C9R2CNOTGjcx) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [REPLAY](https://open.spotify.com/album/5dm3wk4h6JCZzM46lImPIP) | 2:07 | 2025-11-27 | 2026-01-15 |
 | [Rey Mysterio](https://open.spotify.com/track/0jFXK09KbehR0Ycc09fgWU) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [Rey Mysterio](https://open.spotify.com/album/2QxPncmtj8rwUvT28k5KEo) | 3:06 | 2024-09-26 | 2024-10-18 |

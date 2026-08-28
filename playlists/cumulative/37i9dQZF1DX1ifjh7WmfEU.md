@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-328 songs - 14 hr 25 min
+329 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-05-27 | 2025-04-24 |
 | [Glimmer](https://open.spotify.com/track/5WaTDAXIvIZiOPiBnNsbaK) | [XY Axis](https://open.spotify.com/artist/4CMKdXXiXli9kQn5yVXRkz) | [Glimmer](https://open.spotify.com/album/5DUTiOmGglDpfONHfNCViI) | 2:39 | 2026-06-12 |  |
 | [Glourious](https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Glourious](https://open.spotify.com/album/4iUd5XDXgicUS1gLzfYCIK) | 2:23 | 2022-05-27 | 2024-04-04 |
+| [Golden Evening](https://open.spotify.com/track/1ea4EhpqnvMSHWN4RFRtsR) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Golden Evening](https://open.spotify.com/album/7y9iapXr3WnXyJB6UIHQFd) | 2:15 | 2026-08-28 |  |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2022-05-27 | 2025-04-24 |
 | [Harmony](https://open.spotify.com/track/6I3wMGZNIGwGvjPfzIyq01) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Harmony](https://open.spotify.com/album/2GsLI3ZuRTI5GyktudCsBd) | 2:43 | 2024-04-09 |  |
 | [Haven](https://open.spotify.com/track/4GJSed45B1222Uy3jY5NNr) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Haven](https://open.spotify.com/album/0H5QTuTm9ADsvHDlIONIMH) | 2:23 | 2022-05-27 | 2022-09-16 |

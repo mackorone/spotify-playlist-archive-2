@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IzpUBoP2We.md) - [plain]
 
 > Sunny days start here! Listen to the classics from Sesame Street featuring everyone's favorite furry friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218 likes - 71 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 71 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

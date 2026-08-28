@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Love as Punishment",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Jinan Lakeisha",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 236200,
       "name": "Bermusik Sampai Mati - 2018 Demo",
       "url": "https://open.spotify.com/track/5PB5m6REEF93mahAacFcby"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 286117,
       "name": "DALAM TERANG",
       "url": "https://open.spotify.com/track/4iEqtH7U9TaqBiZDb5axN7"
@@ -3437,6 +3437,28 @@
     },
     {
       "album": {
+        "name": "Suzan",
+        "url": "https://open.spotify.com/album/0bStmsFsiBHflrBAxTFQJ5"
+      },
+      "artists": [
+        {
+          "name": "WUSS",
+          "url": "https://open.spotify.com/artist/768QsG9por6IIHVGIy51Z2"
+        },
+        {
+          "name": "Christabel Annora",
+          "url": "https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173342,
+      "name": "Hazeheart August",
+      "url": "https://open.spotify.com/track/5Gd83RNZwA3kCB4Gfzn9bd"
+    },
+    {
+      "album": {
         "name": "heart:burn",
         "url": "https://open.spotify.com/album/2tKJWI9aI9MQdBYklfAdpi"
       },
@@ -3816,7 +3838,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186086,
       "name": "i choose myself rather than falling for you",
       "url": "https://open.spotify.com/track/1ibuDU6AJGxCFpspvYpWGO"
@@ -6179,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Merana di Atas Cahaya",
+        "url": "https://open.spotify.com/album/2bh4MKagV99uaiEIbVllhK"
+      },
+      "artists": [
+        {
+          "name": "Jinan Lakeisha",
+          "url": "https://open.spotify.com/artist/17UKpIvi7bklML7iJa2q3b"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Merana di Atas Cahaya",
+      "url": "https://open.spotify.com/track/6mqPpg5suvfUEIuiMV6TJd"
+    },
+    {
+      "album": {
         "name": "Merangkai Gundah Gulana",
         "url": "https://open.spotify.com/album/0esDD2wKp1IX3kSefJIvNz"
       },
@@ -6634,6 +6674,24 @@
       "duration_ms": 285430,
       "name": "Nelangsa Pasar Turi",
       "url": "https://open.spotify.com/track/0DhgjYNtV0bchCToeFwRpv"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/0rkFQTJJ7o4KQzLzqvI7w8"
+      },
+      "artists": [
+        {
+          "name": "Manaditara",
+          "url": "https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/1CYA0sjUbOedyoFjpCW973"
     },
     {
       "album": {
@@ -7190,6 +7248,24 @@
       "duration_ms": 267000,
       "name": "Peregrine",
       "url": "https://open.spotify.com/track/6FntfEUHdD3iSalrst6MdB"
+    },
+    {
+      "album": {
+        "name": "Perempuan di Garis Perlawanan",
+        "url": "https://open.spotify.com/album/6Kygcd3UKH4vGzUENIh4aG"
+      },
+      "artists": [
+        {
+          "name": "Aldy Amis",
+          "url": "https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253250,
+      "name": "Perempuan di Garis Perlawanan",
+      "url": "https://open.spotify.com/track/02ECKyPMGZjNZ8NB21FXac"
     },
     {
       "album": {
@@ -7750,7 +7826,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 195217,
       "name": "Ridin' in My Car",
       "url": "https://open.spotify.com/track/1Al0oRPSWznrW4EWyLsKRR"

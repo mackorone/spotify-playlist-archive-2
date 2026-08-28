@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 257106,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx"
@@ -4908,6 +4908,40 @@
       "duration_ms": 338733,
       "name": "Line Of Fire (feat. Sharon Van Etten)",
       "url": "https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3"
+    },
+    {
+      "album": {
+        "name": "Line of Fire (feat. Sharon Van Etten)",
+        "url": "https://open.spotify.com/album/4pgWogA2n0iyzIGREcGy0Y"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Tobias Winterkorn",
+          "url": "https://open.spotify.com/artist/1Gok9BYzGUUKO0fD5nL1Ze"
+        },
+        {
+          "name": "Elias Araya",
+          "url": "https://open.spotify.com/artist/14nHNjH8ioxKccZ2u6AA1z"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338733,
+      "name": "Line of Fire (feat. Sharon Van Etten)",
+      "url": "https://open.spotify.com/track/7gaEtTnfbMI7xjqbc0VQeS"
     },
     {
       "album": {

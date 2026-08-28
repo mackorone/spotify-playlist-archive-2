@@ -4,13 +4,15 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-167 songs - 10 hr 37 min
+173 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A blaze of light](https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [A blaze of light](https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr) | 2:50 | 2026-08-17 |  |
 | [A Ghost](https://open.spotify.com/track/3iqVEqY5MhqWWnefad3AAr) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [A Ghost](https://open.spotify.com/album/1Q7KenxMx2VIjtfAIoZh1R) | 3:01 | 2026-02-06 | 2026-04-05 |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-11-04 | 2025-12-08 |
+| [Alive \- Radio Mix](https://open.spotify.com/track/7pBej7hqxOtuJLTOFPhtjU) | [Mousik](https://open.spotify.com/artist/3IcHQz5yyO1XOXcBJv7Ng8) | [Alive](https://open.spotify.com/album/3beMNU6D4T0tGCafy9ogHl) | 3:14 | 2026-08-27 |  |
+| [All of the Secrets](https://open.spotify.com/track/75I2z8EnpgGZE5aNz7ELhf) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [J.D\. Minor](https://open.spotify.com/artist/7vtyibQSoRMsbVnvOcjgiQ) | [All of the Secrets](https://open.spotify.com/album/7DvcV1EG6EegUMmJ2HjzhM) | 4:36 | 2026-08-27 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-10 | 2026-02-07 |
 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 | 2026-01-15 | 2026-05-16 |
 | [Alone Time](https://open.spotify.com/track/6IiYq1kRLnP1NyIEmsQWOg) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:16 | 2025-12-17 | 2026-02-07 |
@@ -50,6 +52,7 @@
 | [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-04 | 2026-05-16 |
 | [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 | 2026-07-07 |  |
 | [Doomed](https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Doomed](https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd) | 7:22 | 2026-07-15 |  |
+| [Dove sei](https://open.spotify.com/track/0yBrHsqwQG773gOSftp06o) | [Nicil](https://open.spotify.com/artist/7LdO6BQKunnD0d7kdszVh2) | [Estate Italiana for Dummies](https://open.spotify.com/album/5r6cFIfyGFRVE2BZJuqOpx) | 2:37 | 2026-08-27 |  |
 | [Drain You](https://open.spotify.com/track/2aIcXOu6wc7yNtviwbqp7A) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Drain You](https://open.spotify.com/album/7lKrZsFDSZpSHOEYTT23G3) | 3:42 | 2025-12-17 | 2026-02-07 |
 | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/track/4DkFtR711mWQSXJO3PApXa) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/album/3jAPjP3mXAIslhjF2szkO2) | 2:55 | 2025-11-02 | 2026-02-07 |
 | [Durango 99](https://open.spotify.com/track/6VDuKcHNgUY77G5ySWOFIX) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Durango 99](https://open.spotify.com/album/6fC5Q1eFDunGgY2BSUpUfZ) | 1:35 | 2025-11-02 |  |
@@ -111,6 +114,7 @@
 | [No Way Out](https://open.spotify.com/track/7bqpJArivuugIHtOWnPWPf) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [No Way Out](https://open.spotify.com/album/7xObv5MyYgaSJirgoBPmDa) | 3:08 | 2026-08-06 |  |
 | [Non ho niente d'intelligente da dire](https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Non ho niente d'intelligente da dire](https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ) | 3:02 | 2026-08-19 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 | 2026-02-07 |
+| [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 | 2026-08-27 |  |
 | [One More Second](https://open.spotify.com/track/7GMHFVwsXtccxFVa90ORkY) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Alice Gerschpacher](https://open.spotify.com/artist/5S2264Wy4QpAv1NEXn2Boy) | [One More Second](https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk) | 5:20 | 2025-05-04 |  |
 | [Open Mind \- Radio Edit](https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY) | [Pol Sembrano](https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00) | [Open Mind \(Radio Edit\)](https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh) | 3:40 | 2026-03-11 | 2026-05-16 |
 | [Out The Zip](https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [A Million and A Half Ways](https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc) | 2:55 | 2025-12-11 | 2026-02-07 |
@@ -121,6 +125,7 @@
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-11-04 | 2025-12-08 |
 | [Quando Sorridi](https://open.spotify.com/track/0IfTiyMes24Nb7f2W3YTU1) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Quando Sorridi](https://open.spotify.com/album/5dR0HWZxbT0b8ySI0Hve9s) | 3:37 | 2026-07-07 |  |
 | [Quiet Mirror](https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:58 | 2025-12-17 | 2026-02-07 |
+| [quiver with a scream](https://open.spotify.com/track/2SxsblFeKWRPVWjy51Gmdb) | [Fatbird Finch](https://open.spotify.com/artist/7yZ5D7yiDIZdp49aGOcere) | [trilogy III](https://open.spotify.com/album/3HaR4aWTZ7rkqi2Fu4xT0Z) | 3:38 | 2026-08-27 |  |
 | [Red Suitcase \- Single Version](https://open.spotify.com/track/5tgpVpdkGL7IgayCLRTTra) | [Amos Ender](https://open.spotify.com/artist/2Nt0gG43vrYBQiPAZMUUuw) | [Into The World Of Man](https://open.spotify.com/album/1yj0CWxvKoB4c02hrtIb3Y) | 3:37 | 2026-01-19 | 2026-02-07 |
 | [Relations](https://open.spotify.com/track/3z4yeBOZWcnC8xn95osAPC) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Relations](https://open.spotify.com/album/6UkWcFTCAGuD1EbbaQhNBM) | 5:16 | 2025-11-24 | 2026-02-07 |
 | [Run](https://open.spotify.com/track/2c2Quhm8fF8MlFmiRFJ8I9) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:35 | 2026-07-22 |  |
@@ -173,6 +178,7 @@
 | [When The Train Leaves The Last Station](https://open.spotify.com/track/6ykYdFOsPrZ6jzZVHOXoOb) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [When The Train Leaves The Last Station](https://open.spotify.com/album/6o9WRu4pCJtArDhsVCJyGQ) | 3:12 | 2025-11-12 | 2025-12-08 |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2025-11-04 | 2025-12-08 |
 | [You Got The Chops](https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [You Got The Chops](https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I) | 4:00 | 2025-12-17 | 2026-02-07 |
+| [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 | 2026-08-27 |  |
 | [You See It There](https://open.spotify.com/track/6UVPIQHfGmR7N0IAYalkr6) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:30 | 2026-02-06 |  |
 | [Youth in the Rearview](https://open.spotify.com/track/4EH6QCKty7zmXSv6kbUPIk) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [Youth in the Rearview](https://open.spotify.com/album/3e8PYfNC7bwlzMPO8OdLul) | 4:30 | 2026-08-19 |  |
 

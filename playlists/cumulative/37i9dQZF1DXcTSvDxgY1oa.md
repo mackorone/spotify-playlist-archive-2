@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Jim Gardner
 
-377 songs - 20 hr 24 min
+379 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Duizend Volle Manen](https://open.spotify.com/track/7EZ45ylqoplWkFJpN3lxkd) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd), [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Duizend Volle Manen](https://open.spotify.com/album/4xJmuGamirTFgurCtUQfoU) | 3:46 | 2025-07-16 | 2026-05-12 |
 | [Easy Lovin'](https://open.spotify.com/track/7ljd7fa0Up3ecJjNRKnDdA) | [SYOT](https://open.spotify.com/artist/6V6o5XTZuofACOywfTHsim) | [Easy Lovin'](https://open.spotify.com/album/75KVbGHUgVEAMHmxFCso8X) | 3:15 | 2025-05-07 | 2025-09-05 |
 | [Elusive](https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo) | [Lucy Fabienne](https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv) | [Elusive](https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5) | 3:07 | 2026-05-11 |  |
+| [Emotionally Unavailable](https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Emotionally Unavailable](https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4) | 2:20 | 2026-08-27 |  |
 | [ENDLESS MIDNIGHT](https://open.spotify.com/track/6VaYPf8IANIn5dIqoampcK) | [KAGAMI](https://open.spotify.com/artist/3WWBjOsF2LWEct6GxZHxRo), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [TIME MACHINE](https://open.spotify.com/album/2XWYh2by9h93BMGIbaf9H2) | 3:42 | 2025-05-07 | 2026-05-12 |
 | [Endless Sunsets](https://open.spotify.com/track/0oR0oAx0sc4avheiGZeyHV) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Hannah Young](https://open.spotify.com/artist/02Vjcy8yd6eHu8QMYNMIAf) | [Endless Sunsets](https://open.spotify.com/album/3WtQZdMCYqKBpzMRj7SDy0) | 2:26 | 2024-07-01 | 2025-05-08 |
 | [Even later in de tuin](https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA) | [Misprint](https://open.spotify.com/artist/7KWqIJRyiEqmjguook7ypX) | [Even later in de tuin](https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9) | 2:40 | 2024-07-01 | 2024-09-17 |
@@ -153,7 +154,7 @@
 | [I Can't See You Cry](https://open.spotify.com/track/13ygd4WBVxsQBgSz3yVX5j) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [I Can't See You Cry](https://open.spotify.com/album/4woyrDlazhtMd3HRTTPkw0) | 2:46 | 2025-05-07 | 2025-07-17 |
 | [I Don't See You Anymore](https://open.spotify.com/track/2fy3i79pKzIAfuagk7lHPj) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks), [Chris Sigl](https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot) | [I Don't See You Anymore](https://open.spotify.com/album/3IrIOwX7joYPa1AAP6HmJG) | 2:12 | 2025-05-07 | 2025-09-05 |
 | [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 | 2024-10-21 | 2025-05-08 |
-| [I Never Wanna Be In Love](https://open.spotify.com/track/0qQ5LD2CBmsGYbGFMXHr9h) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [I Never Wanna Be In Love](https://open.spotify.com/album/2hZg4yKNAzAVIPJZmBhMtz) | 3:27 | 2026-05-15 |  |
+| [I Never Wanna Be In Love](https://open.spotify.com/track/0qQ5LD2CBmsGYbGFMXHr9h) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [I Never Wanna Be In Love](https://open.spotify.com/album/2hZg4yKNAzAVIPJZmBhMtz) | 3:27 | 2026-05-15 | 2026-08-28 |
 | [I Won't Back Down](https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF) | [Lisa Ploeger](https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh) | [I Won't Back Down](https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu) | 3:19 | 2025-05-07 | 2026-05-12 |
 | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/track/2canotovAtInnPJgPbLiz2) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun), [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/album/1yvkYyLKmZpYNYqBIRbq30) | 2:28 | 2026-08-18 |  |
 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 | 2025-05-07 | 2026-05-12 |
@@ -214,7 +215,7 @@
 | [Low Fire](https://open.spotify.com/track/39XFyZJzw07vyuQqKgKsFA) | [Mazis](https://open.spotify.com/artist/2EreMe8NHDgvfRNBGO2hbg) | [Low Fire](https://open.spotify.com/album/7t5PZLfWVbr5mYP1Xwlluh) | 4:20 | 2025-09-16 | 2026-05-12 |
 | [Machine \(Radio Edit\)](https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4) | [The Robots Are Coming](https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i) | [Machine \(Radio Edit\)](https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1) | 3:33 | 2026-05-11 |  |
 | [Mad About It](https://open.spotify.com/track/2T7nowCi5AVBsTmVU7bdJH) | [Jackie & The Facts](https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf) | [Mad About It](https://open.spotify.com/album/1cczf9zTFA283TWE5BDF9y) | 2:20 | 2025-05-07 | 2025-07-17 |
-| [Mad Again](https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Mad Again](https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV) | 4:22 | 2026-05-11 |  |
+| [Mad Again](https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Mad Again](https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV) | 4:22 | 2026-05-11 | 2026-08-28 |
 | [Made My Bed](https://open.spotify.com/track/61se2TEKS2myqja428hKjI) | [plonki](https://open.spotify.com/artist/34zf3havia33k7jVO7Na6g) | [Made My Bed](https://open.spotify.com/album/3rCsZcGjiyKBjsesMqtbok) | 3:30 | 2025-05-07 | 2025-07-17 |
 | [Magnum Opus](https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1) | [Keely Westwood](https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC) | [Magnum Opus](https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu) | 4:36 | 2026-05-11 |  |
 | [Mama Dankjewel](https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Mama Dankjewel](https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC) | 2:50 | 2024-07-01 | 2024-10-22 |
@@ -287,6 +288,7 @@
 | [Running](https://open.spotify.com/track/5jYAixv8fA6tj5fspUIEjB) | [Gus Walker](https://open.spotify.com/artist/1gSwhX1NwBba7xxXkKRvrU) | [Running](https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki) | 3:31 | 2026-05-11 |  |
 | [Salty Birthday Cake](https://open.spotify.com/track/50WEt08laklxMpDofqIZ16) | [Death Sells](https://open.spotify.com/artist/46RqXRTuw8zLluwycbGQG7) | [Salty Birthday Cake](https://open.spotify.com/album/0b3EXHtJqyKt2hoXtyFn3k) | 3:52 | 2025-11-28 | 2026-05-12 |
 | [Sands of Time](https://open.spotify.com/track/4DGK9HTjDWoL6uO0LWkOFU) | [Changing Tides](https://open.spotify.com/artist/4FDVjqH3XqrmfVpB4N5Hqu), [ADAM ON EARTH](https://open.spotify.com/artist/4M3WL2gwGr5CeUGdklBGZa) | [Sands of Time](https://open.spotify.com/album/2orqYnVf0wqW9L9VBTU50v) | 3:33 | 2024-10-21 | 2025-05-08 |
+| [Sanguine](https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Sanguine](https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H) | 3:46 | 2026-08-27 |  |
 | [Satellite](https://open.spotify.com/track/0oadjfzZvkbgP7ob0T9ul1) | [Hana Fatur](https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX) | [Satellite](https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj) | 4:06 | 2024-07-01 | 2024-10-22 |
 | [Scherpe Knuffels](https://open.spotify.com/track/6nMiI4b5K0CvI2Rk0Eo0YP) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [VOLGEND WATER](https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil) | 2:40 | 2024-07-01 | 2025-05-08 |
 | [see\-through](https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK) | [NEBULA](https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ) | [see\-through](https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z) | 3:56 | 2026-05-11 |  |

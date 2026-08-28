@@ -5431,6 +5431,24 @@
     },
     {
       "album": {
+        "name": "Summer In Manila (Oakland Pt.3)",
+        "url": "https://open.spotify.com/album/5WPRPijy7MYvpPvblrR24N"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Summer In Manila (Oakland Pt.3)",
+      "url": "https://open.spotify.com/track/1E762OhcI2jkcahPlMaKiv"
+    },
+    {
+      "album": {
         "name": "NIVA",
         "url": "https://open.spotify.com/album/1VUKae81QX1lng1x78e8yp"
       },

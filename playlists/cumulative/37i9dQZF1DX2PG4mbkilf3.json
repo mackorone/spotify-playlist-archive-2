@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Zenesoul from Brampton, ON.",
+  "description": "Your guide to R&B in Canada, with Maz B from Winnipeg, MB.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -3109,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "besos",
+        "url": "https://open.spotify.com/album/5BG3kXRJyADl7DrzjRlCSn"
+      },
+      "artists": [
+        {
+          "name": "k.alcordo",
+          "url": "https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153704,
+      "name": "besos",
+      "url": "https://open.spotify.com/track/2M2cm5qcAtBZm3JanZeuw0"
+    },
+    {
+      "album": {
         "name": "Best Feature (feat. Devin Morrison)",
         "url": "https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3"
       },
@@ -5382,6 +5400,24 @@
       "duration_ms": 235035,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+    },
+    {
+      "album": {
+        "name": "Coast To Coast",
+        "url": "https://open.spotify.com/album/6tIHvfACrMFovOE6eOT8Em"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166573,
+      "name": "Coast To Coast",
+      "url": "https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S"
     },
     {
       "album": {
@@ -8357,6 +8393,24 @@
     },
     {
       "album": {
+        "name": "Ember (Remind Me)",
+        "url": "https://open.spotify.com/album/0CZeRZRYHLSRBZDPXsLNrT"
+      },
+      "artists": [
+        {
+          "name": "Kuzi Cee",
+          "url": "https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138318,
+      "name": "Ember (Remind Me)",
+      "url": "https://open.spotify.com/track/0190y3IO7OwDMqRZeYjB9P"
+    },
+    {
+      "album": {
         "name": "En deux mots",
         "url": "https://open.spotify.com/album/0HQJVt3EWi7nBnqinX8wIF"
       },
@@ -10837,6 +10891,24 @@
     },
     {
       "album": {
+        "name": "Phone Home",
+        "url": "https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173341,
+      "name": "God Is A Woman",
+      "url": "https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu"
+    },
+    {
+      "album": {
         "name": "SongBird, Vol. 1",
         "url": "https://open.spotify.com/album/5DIEF8x4r8KOnueyP4TDlq"
       },
@@ -13134,7 +13206,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 204303,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH"
@@ -14384,7 +14456,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 231874,
       "name": "JADED",
       "url": "https://open.spotify.com/track/4ySYjhVFFtn83HFhhQ1HKc"
@@ -17032,6 +17104,24 @@
       "duration_ms": 219761,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/5xB6db6Pcso3MzWv7p1g0L"
+    },
+    {
+      "album": {
+        "name": "Low Life",
+        "url": "https://open.spotify.com/album/7vQ7BWizf45LJtPzeKpwx0"
+      },
+      "artists": [
+        {
+          "name": "Teon Gibbs",
+          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/4BiqhVlA0hhnN64FjN5BCu"
     },
     {
       "album": {
@@ -19780,7 +19870,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157058,
       "name": "NOBODY ELSE",
       "url": "https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo"
@@ -20772,7 +20862,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 270000,
       "name": "On Your Time (Hold You Like It's Ice Cold)",
       "url": "https://open.spotify.com/track/4ZNfNWylpQtGsq3ALDUlnm"
@@ -21998,6 +22088,24 @@
       "duration_ms": 129130,
       "name": "Peace & Money",
       "url": "https://open.spotify.com/track/0DbxgVFpS8nVimTRfjodv6"
+    },
+    {
+      "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6z4I4En08REYpf0AAwbWjb"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/31W4eCwKBnMGLUAPEWKcjA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359500,
+      "name": "PEARLS & PLUMS",
+      "url": "https://open.spotify.com/track/1uXRu2YJVs5t6Gd3nGetD3"
     },
     {
       "album": {
@@ -23262,7 +23370,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 201742,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/3fJYRDmlYR4zfP24H5FGJJ"
@@ -24624,6 +24732,24 @@
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
+    },
+    {
+      "album": {
+        "name": "Same Old Games",
+        "url": "https://open.spotify.com/album/0Kzgi4E78BmvmNgI10JcIa"
+      },
+      "artists": [
+        {
+          "name": "Paradi$e",
+          "url": "https://open.spotify.com/artist/2tm8nTANMwZuGECwgumqc5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112121,
+      "name": "Same Old Games",
+      "url": "https://open.spotify.com/track/025PPGYXFWgJdyMYXX8jmM"
     },
     {
       "album": {
@@ -32524,7 +32650,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192095,
       "name": "WHIP",
       "url": "https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72"

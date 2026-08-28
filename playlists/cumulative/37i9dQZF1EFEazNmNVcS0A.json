@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "one of those happy people",
+        "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205911,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/5WWsBnrZ7vcjJSdvPJAVuO"
+    },
+    {
+      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },

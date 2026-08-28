@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Blasterjaxx",
+  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: CYRIL",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -1707,6 +1707,28 @@
     },
     {
       "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/2vkjBJyt4pgmayrms7U3mI"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Amber Revival",
+          "url": "https://open.spotify.com/artist/247Rddo3rzBu5bAtYyvov0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/74cij1qJyqvkFDhVd5flWh"
+    },
+    {
+      "album": {
         "name": "Awake Tonight",
         "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
       },
@@ -2539,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/0IhNrkbGWOmyNjD78KedX4"
+      },
+      "artists": [
+        {
+          "name": "Chase Maverix",
+          "url": "https://open.spotify.com/artist/5yBWt5sObZOnI1XCsNCWfC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/1kq25Me0b361sS3GRyVfgD"
+    },
+    {
+      "album": {
         "name": "Better Life (R3WIRE Remix)",
         "url": "https://open.spotify.com/album/6imadBRtGsoL8uNRSNNszZ"
       },
@@ -3148,6 +3188,24 @@
       "duration_ms": 148800,
       "name": "Breathe (with Jerome)",
       "url": "https://open.spotify.com/track/2MNq4nkmeFTj6YOF4xu4F6"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
     },
     {
       "album": {

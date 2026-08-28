@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 17725,
+  "num_followers": 17746,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAACJKwTwHkwFyImFLrb1cH/c",
+  "snapshot_id": "ao4sgAAAAACyGRZV02YU/s3F0bI4dRel",
   "tracks": [
     {
       "added_at": null,
@@ -242,11 +242,15 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Touch\u00e9",
-      "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
+      "duration_ms": 205000,
+      "name": "Sex In Peace (ft. kwn)",
+      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
     },
     {
       "added_at": null,
@@ -306,15 +310,11 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sex In Peace (ft. kwn)",
-      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
+      "duration_ms": 153000,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
     },
     {
       "added_at": null,

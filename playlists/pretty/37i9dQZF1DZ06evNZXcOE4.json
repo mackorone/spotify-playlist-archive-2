@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 45059,
+  "num_followers": 45061,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAACnC4hA6loDoEjnnSE5cQ4y",
+  "snapshot_id": "ao4sgAAAAADwfU4dTWMNK3+D4OtTRh7r",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 648506,
-      "name": "Three Days",
-      "url": "https://open.spotify.com/track/05AW0o01NVyzWn52uM9boY"
+      "duration_ms": 254839,
+      "name": "Stop!",
+      "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Ain't No Right",
-      "url": "https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7"
+      "duration_ms": 648506,
+      "name": "Three Days",
+      "url": "https://open.spotify.com/track/05AW0o01NVyzWn52uM9boY"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 344333,
-      "name": "The Riches",
-      "url": "https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL"
+      "duration_ms": 238106,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 355626,
-      "name": "Obvious",
-      "url": "https://open.spotify.com/track/0OY5dYogbCSH4zvzL1hrrG"
+      "duration_ms": 500266,
+      "name": "Then She Did...",
+      "url": "https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
+      "duration_ms": 344333,
+      "name": "The Riches",
+      "url": "https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 307733,
+      "name": "Classic Girl",
+      "url": "https://open.spotify.com/track/6Y6XXDCJsDYgde0FH6hlhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 269613,
       "name": "Twisted Tales",
       "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
-        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 326520,
-      "name": "Sympathy for the Devil - from Sons of Anarchy",
-      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
     },
     {
       "added_at": null,
@@ -343,6 +343,38 @@
       "duration_ms": 181000,
       "name": "Up the Beach",
       "url": "https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Ain't No Right",
+      "url": "https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
+        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 326520,
+      "name": "Sympathy for the Devil - from Sons of Anarchy",
+      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
     },
     {
       "added_at": null,
@@ -583,22 +615,6 @@
       "duration_ms": 150373,
       "name": "City - Soul Kiss 88",
       "url": "https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive at Twenty-Five - Ritual De Lo Habitual Live",
-        "url": "https://open.spotify.com/album/6XQRLJZqxADFmJYbDUOpGN"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 331928,
-      "name": "Of Course - Live",
-      "url": "https://open.spotify.com/track/2cat5jWLw4J4uASTAznex1"
     },
     {
       "added_at": null,

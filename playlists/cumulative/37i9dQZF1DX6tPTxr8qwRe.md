@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- James the Seventh on the cover
+> sweet\. sharp\. unbothered \- Zolita on the cover
 
-1,136 songs - 2 day 4 hr 35 min
+1,139 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
 | [drop the man](https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [drop the man](https://open.spotify.com/album/3zfhTxpvBj7scbiefWBTn3) | 2:37 | 2025-01-10 | 2025-02-22 |
 | [drunk enough](https://open.spotify.com/track/4u79u9PEua1NM34DzptsbP) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [drunk enough](https://open.spotify.com/album/5mgOs6BgA2ZsyfbULPfUOW) | 3:24 | 2026-08-07 |  |
-| [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 | 2026-04-17 |  |
+| [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 | 2026-04-17 | 2026-08-28 |
 | [dumb dumb dumb](https://open.spotify.com/track/7mUOGK2T7zONpDE0KwegZ0) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [still not ur girlfriend](https://open.spotify.com/album/3SxhS51jQH7FewYY5BY3CT) | 2:32 | 2025-05-09 | 2025-07-12 |
 | [dumbest girl in the world](https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [god forbid a girl spits out her feelings!](https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN) | 2:22 | 2026-04-17 |  |
 | [Dunes](https://open.spotify.com/track/4meDLFTdNbHqNuZ62xiKZz) | [Nomé Naku](https://open.spotify.com/artist/2Wssey2jP3QMFRsAFnCgXI) | [Naku](https://open.spotify.com/album/3w0DDYBr93G8h98dD4oJJS) | 3:56 | 2025-01-10 | 2025-05-03 |
@@ -662,8 +662,10 @@
 | [Miffy \- Halo Boy Remix](https://open.spotify.com/track/0YKWVQAAhWUdN2CHb2tBPW) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril), [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Miffy \(Halo Boy Remix\)](https://open.spotify.com/album/25YDnM7fzsHjxGWMtd0nxI) | 2:07 | 2026-01-09 | 2026-06-10 |
 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 | 2024-07-12 | 2024-12-21 |
 | [Mirror, Mirror](https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu) | [Mirror, Mirror](https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg) | 1:54 | 2023-11-10 | 2024-02-17 |
+| [Misbehave](https://open.spotify.com/track/4V5MKIbOWMNrMA63qDZzZD) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Misbehave](https://open.spotify.com/album/3wwtalcjQ2XkOYEVl8wGrp) | 2:52 | 2026-08-28 |  |
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2023-08-19 |
 | [Miss Misfortunately](https://open.spotify.com/track/5lB1flA93G6OiJFNBR1uE3) | [gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt) | [Miss Misfortunately](https://open.spotify.com/album/4JNe6LQPMjKvWPAZW7yJlG) | 4:03 | 2026-06-26 |  |
+| [Miss Misunderstood](https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:43 | 2026-08-28 |  |
 | [MISUNDERSTOOD](https://open.spotify.com/track/2bLvl13n5A23LeKggTrkTV) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Misunderstood EP](https://open.spotify.com/album/6Ep6pTjB74CbL3yiaTzikT) | 3:08 | 2025-09-12 | 2026-02-24 |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-02-25 | 2022-07-09 |
 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 | 2024-04-26 | 2024-06-29 |
@@ -699,7 +701,7 @@
 | [Nerve](https://open.spotify.com/track/31Q5vXemKsdpSBGEyNTNCx) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Nerve](https://open.spotify.com/album/6217G8cp3DohoFXef2elzd) | 2:32 | 2025-02-07 | 2025-05-24 |
 | [Nervous](https://open.spotify.com/track/0ycvaULgm8QZjmfu7NEq41) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [AIKONIC](https://open.spotify.com/album/3D3e4B1bGx5FWmCCWbHAYv) | 3:08 | 2024-06-28 | 2025-01-25 |
 | [Never Dated You](https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Never Dated You](https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU) | 2:01 | 2022-09-16 | 2023-02-04 |
-| [Next Girl](https://open.spotify.com/track/04nNCAclZY6SkkhAsyZvrg) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Next Girl](https://open.spotify.com/album/2rsNNclb3rLNdFgbrcSVRN) | 2:13 | 2026-06-26 |  |
+| [Next Girl](https://open.spotify.com/track/04nNCAclZY6SkkhAsyZvrg) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Next Girl](https://open.spotify.com/album/2rsNNclb3rLNdFgbrcSVRN) | 2:13 | 2026-06-26 | 2026-08-28 |
 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 | 2026-04-03 | 2026-06-13 |
 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 | 2024-01-12 | 2024-04-27 |
 | [NINE\-ONE\-ONE](https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7) | [insha](https://open.spotify.com/artist/1JK3iEviLgJX7BeMmBnKD9) | [NINE\-ONE\-ONE](https://open.spotify.com/album/50bkgKigPtMZSJNMxhBDO6) | 1:41 | 2026-07-17 |  |
@@ -851,6 +853,7 @@
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-07 | 2022-02-26 |
 | [Savage \(feat\. Kerser\)](https://open.spotify.com/track/3fr2OSg9CQPoMOTsILdJ6N) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln), [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Gothic Summer](https://open.spotify.com/album/2INYN4ZTJJk3DvxdODiYu8) | 3:13 | 2024-03-22 | 2024-04-27 |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2023-02-03 | 2023-03-04 |
+| [Scaring Everyone](https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Scaring Everyone](https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT) | 3:24 | 2026-08-28 |  |
 | [Scatterbrain](https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv) | 2:09 | 2023-02-03 | 2023-08-19 |
 | [Screw Loose](https://open.spotify.com/track/7sKxMRhdgtvoqaCI9AIrdu) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Screw Loose](https://open.spotify.com/album/6nMrYMhDpqGpFGhq0T2gnL) | 3:23 | 2023-08-25 | 2024-01-05 |
 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-20 | 2024-10-26 |
@@ -901,7 +904,7 @@
 | [SLOW DOWN](https://open.spotify.com/track/0RnKHcb6dnWIBBuiipNx2o) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [SLOW DOWN](https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx) | 2:28 | 2024-05-24 | 2024-07-27 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2021-09-10 | 2022-03-18 |
 | [smf](https://open.spotify.com/track/4puf4S5FOtHR4YRLCEIdOD) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [smf](https://open.spotify.com/album/270FPAyktre5aNsnX0tZQd) | 2:16 | 2026-08-07 |  |
-| [SMH](https://open.spotify.com/track/07I8k93iDfq3yZMZPyvUJ1) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [SMH](https://open.spotify.com/album/3KUImf8fghGXzP2YpmRWmy) | 2:13 | 2026-07-17 |  |
+| [SMH](https://open.spotify.com/track/07I8k93iDfq3yZMZPyvUJ1) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [SMH](https://open.spotify.com/album/3KUImf8fghGXzP2YpmRWmy) | 2:13 | 2026-07-17 | 2026-08-28 |
 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 | 2022-11-26 |
 | [Smoochie Girl](https://open.spotify.com/track/0nimVZc4NEpUO0qub6FZRk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3Xy6qL3ZmwqwOGjBkypnlJ) | 3:01 | 2025-09-19 | 2026-03-19 |
 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 | 2022-09-09 | 2022-11-12 |

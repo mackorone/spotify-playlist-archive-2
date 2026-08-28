@@ -4,7 +4,7 @@
 
 > Classical tunes to make you feel good.
 
-131 songs - 8 hr 44 min
+132 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Need You](https://open.spotify.com/track/47OLI4GLQAF2742fkKmq7Q) | [Pedro Eleftheriou](https://open.spotify.com/artist/7mI1CUUSOWZt4J1fFwIjsS), [Emmanuele Baldini](https://open.spotify.com/artist/2G4XEKxmESX6JSCK01oKEN), [Mariana Virgilli](https://open.spotify.com/artist/4xGRn3km9q7mSohO40q0S5) | [I Need You](https://open.spotify.com/album/12WmgXbbRCYMgruVWBKVgz) | 3:54 | 2026-08-21 |  |
 | [I\. Allegro](https://open.spotify.com/track/2pj4GiibjHoev36KPWCuxY) | [Johann Heinrich Rolle](https://open.spotify.com/artist/4f96JORRKkvRwz22xlzMur), [Kölner Akademie](https://open.spotify.com/artist/2EuaWz2LnVKvUcygvMhBnw), [Michael Alexander Willens](https://open.spotify.com/artist/57Gzkes3RHKDd60RYVEEGL) | [Johann Heinrich Rolle: Allegro \(from: Sinfonia in D major\)](https://open.spotify.com/album/6MrLQ8WD80lzFwhZelgKYr) | 4:07 | 2025-09-12 |  |
 | [Il Tempo delle Cose](https://open.spotify.com/track/6hIAiqwxWaqdCzm1KjxfGv) | [Alberto Giurioli](https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU), [Geoff Lawson](https://open.spotify.com/artist/0I31OVqRo3WbwwX6gBj6nm) | [Il Tempo delle Cose](https://open.spotify.com/album/3HN1KEM9HJuwZWRaq4pGmI) | 6:04 | 2022-06-10 |  |
+| [Improvisation on Keith Jarrett's Vienna Concert](https://open.spotify.com/track/5zKy7lrziRoXOuXFlNVtmk) | [Steven Osborne](https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK) | [Osborne: Improvisation on Keith Jarrett's Vienna Concert](https://open.spotify.com/album/3YePdyQYxLrBy0Co6Sw4kj) | 4:00 | 2026-08-28 |  |
 | [In Flight](https://open.spotify.com/track/6AtV5pSPVCvupoZV1e9JfI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [In Flight](https://open.spotify.com/album/0nkGH1t4qg6esTbB3nVke9) | 3:47 | 2026-07-24 |  |
 | [Jenůfa \(Její pastorkyňa\), JW I/4, Act III Scene 1: Prelude](https://open.spotify.com/track/2xuyyzPiDlUPZH9kJyVeO3) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Janáček: Jenůfa \(Její pastorkyňa\), JW I/4, Act III Scene 1: Prelude](https://open.spotify.com/album/2pACZH9nLzJVyBVkxvcJG6) | 1:43 | 2025-09-12 |  |
 | [Julie\-O](https://open.spotify.com/track/36JkWJ7xUPQXqGUOcnL05o) | [Mark Summer](https://open.spotify.com/artist/4dFOqKphNlCG3nR7J6WYx4), [Sharon Grigoryan](https://open.spotify.com/artist/1V7VCZHLtMbbG4CGitP9nq), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Julie\-O](https://open.spotify.com/album/1YyVWc7cAsrxh57bw6mbOi) | 4:43 | 2021-07-02 |  |

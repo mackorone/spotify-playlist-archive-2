@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "By Candlelight",
+        "url": "https://open.spotify.com/album/3QNN6QWM9lFR8E5tgEO5I4"
+      },
+      "artists": [
+        {
+          "name": "Ellis Rowan",
+          "url": "https://open.spotify.com/artist/66NCytVG8ndLxCamt4lRKu"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "By Candlelight",
+      "url": "https://open.spotify.com/track/5RozmyvmDtO0dxqo4jat5f"
+    },
+    {
+      "album": {
         "name": "By Lantern\u2019s Glow",
         "url": "https://open.spotify.com/album/2i7v1obeNGoTG9OoMmWOIS"
       },
@@ -3904,6 +3922,24 @@
       "duration_ms": 198484,
       "name": "Have Faith In What Will Be",
       "url": "https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX"
+    },
+    {
+      "album": {
+        "name": "Have You In My Mind",
+        "url": "https://open.spotify.com/album/04ZnoWc5O3AyU2t8wqpXNK"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "Have You In My Mind",
+      "url": "https://open.spotify.com/track/2m93Gefxr7mcnFk2fMbm68"
     },
     {
       "album": {
@@ -7411,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/6CXG66stl04xtIJ3RFjn43"
+      },
+      "artists": [
+        {
+          "name": "De Julia",
+          "url": "https://open.spotify.com/artist/5I7WRhVcELKm0JaNu6El3t"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135310,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/1pRAcfGwT01gV1VPgcuyNi"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/2MfDNepXa2wpt2hSy0Qfv6"
       },
@@ -9842,6 +9896,24 @@
       "duration_ms": 166333,
       "name": "Time and Place",
       "url": "https://open.spotify.com/track/465NurnKJ1EsWgaC22fcPF"
+    },
+    {
+      "album": {
+        "name": "Time Left Behind",
+        "url": "https://open.spotify.com/album/0q6sgi4SK0EcKpCCCymPjH"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158484,
+      "name": "Time Left Behind",
+      "url": "https://open.spotify.com/track/4bOtLUmHR4zgmL5BQGHuOP"
     },
     {
       "album": {

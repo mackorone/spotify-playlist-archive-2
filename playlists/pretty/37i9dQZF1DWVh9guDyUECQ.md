@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo mejor del Trap, Rap, R&B, Afrobeat y Reggaeton Cristiano\. Foto: Madiel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,140 likes - 69 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,188 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

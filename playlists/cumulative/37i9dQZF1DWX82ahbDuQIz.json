@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Les Miserables",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: EVITA",
   "name": "Broadway Hits",
   "tracks": [
     {
@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "EVITA",
+        "url": "https://open.spotify.com/album/6V0YxZgJfbiJJhAfyvuOWN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346569,
+      "name": "Don't Cry For Me Argentina",
+      "url": "https://open.spotify.com/track/2HzZBet4n0TF0ytHtxUjOG"
+    },
+    {
+      "album": {
         "name": "Evita",
         "url": "https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj"
       },
@@ -944,7 +966,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 285958,
       "name": "Don't Cry For Me Argentina - Studio Version",
       "url": "https://open.spotify.com/track/0YxsX38Xeeu127Qjuv57qc"
@@ -4024,7 +4046,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192346,
       "name": "Stick It to the Man",
       "url": "https://open.spotify.com/track/0Yyr78TLC2HEhcMFfuoKfZ"
@@ -4358,6 +4380,36 @@
       "duration_ms": 289599,
       "name": "The Lusty Month of May",
       "url": "https://open.spotify.com/track/24HEn0c2i2jgcGQAmdLuf2"
+    },
+    {
+      "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Michael Crawford",
+          "url": "https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG"
+        },
+        {
+          "name": "Phantom Of The Opera Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302533,
+      "name": "The Phantom of the Opera",
+      "url": "https://open.spotify.com/track/3EBPGmqpZTMfOPQtUxfCXj"
     },
     {
       "album": {
@@ -4765,6 +4817,32 @@
     },
     {
       "album": {
+        "name": "EVITA: The Full Album",
+        "url": "https://open.spotify.com/album/4yp4ryiYyXn4UuRE60TBns"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "Diego Andres Rodriguez",
+          "url": "https://open.spotify.com/artist/4cMuBfFAzJjMV4kyMIGON4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231096,
+      "name": "Waltz for Eva and Che",
+      "url": "https://open.spotify.com/track/5AXukxDAcPYUHWMriGH6E8"
+    },
+    {
+      "album": {
         "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
       },
@@ -4932,7 +5010,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 234313,
       "name": "Wheels of a Dream",
       "url": "https://open.spotify.com/track/62X1kCooEiwkCaptwW98w5"

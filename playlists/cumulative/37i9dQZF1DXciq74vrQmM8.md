@@ -2,13 +2,13 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. ivri
+> welcome to our universe ft\. lake malice
 
-1,328 songs - 2 day 17 hr 38 min
+1,331 songs - 2 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#N0rth4evr](https://open.spotify.com/track/7sBX5hbKBg2uN3bQoZ2prv) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [N0rth4evr](https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b) | 1:43 | 2026-04-30 |  |
+| [\#N0rth4evr](https://open.spotify.com/track/7sBX5hbKBg2uN3bQoZ2prv) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [N0rth4evr](https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b) | 1:43 | 2026-04-30 | 2026-08-28 |
 | [\(1\) incoming message from EVE:](https://open.spotify.com/track/0fR62OlYiett164jDMMs3I) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [\(1\) incoming message from EVE:](https://open.spotify.com/album/2R8LKi4p4fqOFmgb4Bjmjz) | 0:33 | 2024-05-28 | 2024-06-07 |
 | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp) | 3:21 | 2023-12-08 | 2024-02-23 |
 | [000memories](https://open.spotify.com/track/74pXDAWB08mft6AscgfYFZ) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [000memories](https://open.spotify.com/album/687mZ8VJg6fMZxV912KdeU) | 2:28 | 2024-04-11 | 2024-09-21 |
@@ -121,6 +121,7 @@
 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 | 2024-02-23 | 2024-09-06 |
 | [beTh aMpHeTamiNe](https://open.spotify.com/track/3jSBxsYABdrVQJe3e7HImp) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [tiLLieverse](https://open.spotify.com/album/6jg5wDpFY07qUl5IWwA58Z) | 2:05 | 2024-07-18 | 2025-03-07 |
 | [Bikinis and Trackies \(feat\. Frost Children\)](https://open.spotify.com/track/3UtjaTgFZxKN38AkoJ5tED) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bikinis and Trackies \(feat\. Frost Children\)](https://open.spotify.com/album/0kknMhut1ToMI0xpBAfnCl) | 2:43 | 2024-11-08 | 2025-01-10 |
+| [BIRDS: SLAYYYTER VERSION](https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 3:12 | 2026-08-27 |  |
 | [BIRTH OF VENUS](https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 3:12 | 2023-07-20 | 2024-02-16 |
 | [Bite My Tongue](https://open.spotify.com/track/5Z6ozBM8A44HtDAJLnBxER) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Bite My Tongue](https://open.spotify.com/album/5CTIYos4jNBhXm5zeJ7MyL) | 2:47 | 2022-10-13 | 2022-10-16 |
 | [Bite My Tongue](https://open.spotify.com/track/7ydKwZckvEIQNtb9kIsfwK) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Bite My Tongue](https://open.spotify.com/album/7MA35qubV4skem9OazOKup) | 2:47 | 2022-10-11 | 2022-10-28 |
@@ -932,7 +933,7 @@
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2024-10-11 |
 | [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 | 2025-05-15 | 2025-08-29 |
 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 | 2022-09-10 |
-| [Placeholder](https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Placeholder](https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp) | 4:14 | 2026-07-10 |  |
+| [Placeholder](https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Placeholder](https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp) | 4:14 | 2026-07-10 | 2026-08-28 |
 | [PLASTIC](https://open.spotify.com/track/7KF3yW2VZX7Ddu6gPREdUf) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [PLASTIC](https://open.spotify.com/album/3Mgup1DdHwGNSejCMZz5Et) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 | 2022-10-06 | 2022-12-01 |
 | [Platform Shoes](https://open.spotify.com/track/46TJdLSSO0fsKWOWgdQwb1) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Platform Shoes](https://open.spotify.com/album/1gxsz0IxDEDGzFOTjHxFAv) | 3:06 | 2025-09-04 | 2026-03-13 |
@@ -1001,6 +1002,7 @@
 | [revenant](https://open.spotify.com/track/2pm8U6asi671SteGMdoODm) | [sendflowrs](https://open.spotify.com/artist/1q9nag0IOu2TVLlHkwsWpY) | [revenant](https://open.spotify.com/album/25WnPXxjljgQEwcRaHRVfT) | 1:49 | 2022-01-28 | 2022-02-18 |
 | [Rich Bitch Juice \- Laura Les Remix](https://open.spotify.com/track/0hfjiQ13PQ4TcHOXyi1NWx) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Rich Bitch Juice \(Remixes\)](https://open.spotify.com/album/2I6rSGR9i4vBsefiCbN559) | 2:20 | 2022-08-27 | 2022-09-02 |
 | [Riot Room](https://open.spotify.com/track/7nsxiBMHJl35rMcajgkV7E) | [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Riot Room](https://open.spotify.com/album/7bjsqLStdEex5tESKxUlEA) | 3:16 | 2024-02-16 | 2024-02-17 |
+| [rly ok](https://open.spotify.com/track/1XPzvauZvwfBXFXXRBQc9T) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [rly ok](https://open.spotify.com/album/1sPjo4vrXpMzfq5wbIp0aY) | 4:13 | 2026-08-27 |  |
 | [Rock 'n' Roll Raver](https://open.spotify.com/track/68iPcJAmCqWPyfs9wPHwVT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Rock 'n' Roll Raver](https://open.spotify.com/album/1mP17eGU7BavBcaTGmnNbu) | 3:53 | 2021-12-27 | 2022-01-19 |
 | [Rockstar](https://open.spotify.com/track/1hiUjws67EtIOAIRVJgrlW) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Rockstar](https://open.spotify.com/album/4ccThge1HXXsxIKGuXCMlN) | 2:28 | 2022-10-13 | 2022-12-16 |
 | [Rocky Horror Show](https://open.spotify.com/track/7F28TsKLrF0HHTSKRcJLpP) | [LICK DROP](https://open.spotify.com/artist/2Z0A3tYHjY3X7NAWZKty3U), [Tyler Brash](https://open.spotify.com/artist/6o0VMx68dSG9qdroFMDXfN) | [Rocky Horror Show](https://open.spotify.com/album/63PqnuJhlpcQPQcnUiP5dW) | 2:28 | 2022-07-07 | 2022-08-19 |
@@ -1043,7 +1045,7 @@
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-08-17 | 2023-11-18 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-05-24 |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-01-12 | 2022-01-29 |
-| [Shoplifting](https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:02 | 2026-04-30 |  |
+| [Shoplifting](https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:02 | 2026-04-30 | 2026-08-28 |
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-08-04 | 2025-03-07 |
 | [SICK](https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [SICK](https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG) | 3:46 | 2025-04-24 | 2025-05-16 |
 | [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-09-29 | 2022-10-11 |
@@ -1332,6 +1334,7 @@
 | [ZERO FIVE STARS](https://open.spotify.com/track/2HXLC1alUzezTMoBM0Sxkb) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/6iEbn9hlgnnd9wa7qgemhO) | 2:36 | 2021-12-27 | 2022-02-18 |
 | [ZERO FIVE STARS](https://open.spotify.com/track/7pLPs5Yph0xTeEMAA4Heff) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/5nFvLGogWjDGiJ25xBknPG) | 2:36 | 2021-12-27 | 2022-01-12 |
 | [Zig](https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:28 | 2023-11-10 | 2024-04-12 |
+| [Zombie](https://open.spotify.com/track/5BiwgI8EvARjyeYrl0TTwa) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Zombie](https://open.spotify.com/album/3VddMbNgo0HnMehO6PjQer) | 2:48 | 2026-08-27 |  |
 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-06-20 | 2025-12-09 |
 | [Червь / Worm](https://open.spotify.com/track/3QxOyYp44vD7hkoOr5oslj) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Червь / Worm](https://open.spotify.com/album/0D0aIv3n85HJFtNuuXOxUc) | 2:54 | 2022-02-04 | 2022-04-01 |
 | [Яitual](https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Яitual](https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX) | 1:24 | 2023-04-27 | 2023-06-30 |

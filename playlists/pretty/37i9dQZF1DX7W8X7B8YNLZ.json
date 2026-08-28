@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 129529,
+  "num_followers": 129551,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "De l'autre c\u00f4t\u00e9 de mon r\u00eave (Remasteris\u00e9 en 2008)",
-        "url": "https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 161080,
-      "name": "Chanson sur ma dr\u00f4le de vie - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Les chemins de traverse (Remastered)",
         "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 165946,
       "name": "Je l'aime \u00e0 mourir - Remastered",
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "De l'autre c\u00f4t\u00e9 de mon r\u00eave (Remasteris\u00e9 en 2008)",
+        "url": "https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 161080,
+      "name": "Chanson sur ma dr\u00f4le de vie - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "La vieille",
-        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Message personnel (Version Deluxe)",
         "url": "https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 256506,
       "name": "Message personnel - Remasteris\u00e9 en 2013",
       "url": "https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "Baby Boy",
-        "url": "https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni"
-      },
-      "artists": [
-        {
-          "name": "C. J\u00e9r\u00f4me",
-          "url": "https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "C'est moi",
-      "url": "https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Les 50 Plus Belles Chansons De Barbara",
         "url": "https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 294813,
       "name": "L'aigle noir",
       "url": "https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "Baby Boy",
+        "url": "https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni"
+      },
+      "artists": [
+        {
+          "name": "C. J\u00e9r\u00f4me",
+          "url": "https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "C'est moi",
+      "url": "https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX"
     },
     {
       "added_at": "2025-12-28 17:29:00",

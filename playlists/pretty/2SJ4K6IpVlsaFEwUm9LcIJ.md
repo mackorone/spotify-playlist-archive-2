@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,511 likes - 42 songs - 2 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,520 likes - 44 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 40 | [Goldregen](https://open.spotify.com/track/1Ragk51wAgVQLMis5aMyLq) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wenn der Südwind weht](https://open.spotify.com/album/00bAjAIqUpoyE1TpJPjz14) | 1:04 |
 | 41 | [Lighthouses](https://open.spotify.com/track/6XQXL1fJFWHr78vRaWHh3i) | [Janet Beat](https://open.spotify.com/artist/1IQI6f8qnG9neMplw9Cs78) | [Pioneering Knob Twiddler](https://open.spotify.com/album/3zNaGrh7gOVmtuSwoEBlxs) | 1:10 |
 | 42 | [四面道歌 \- 2019 Remastering](https://open.spotify.com/track/2HDGtTkECiCygeSNYIH9RQ) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [イエロー・マジック・バンド](https://open.spotify.com/artist/5jbEAtH0taE3VOckheoojM) | [Paraiso](https://open.spotify.com/album/2WehoDdFUCXFkI1GPzNXsb) | 4:46 |
+| 43 | [Dino](https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 3:31 |
+| 44 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
 
-Snapshot ID: `AAAOrkBgX5oHr12FhrCcLtcsurq9Fu0p`
+Snapshot ID: `AAAOsJgpW48m7f44GxqRlbnS7Q19Ess9`

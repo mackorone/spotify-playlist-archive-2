@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-266 songs - 12 hr 58 min
+267 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Stuck In A Rave](https://open.spotify.com/track/6avcb5mdzwXwYhLSxKZoPb) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Georgi](https://open.spotify.com/artist/2c4RNY0rzMiJsdMio2FdS8) | [Stuck In A Rave](https://open.spotify.com/album/1Vk6pxxcZRWF3a7Dt47lXQ) | 3:03 | 2025-07-04 |  |
 | [Sunshine](https://open.spotify.com/track/56uJYp9LfVyVzQcmqYV0ax) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Sunshine](https://open.spotify.com/album/0uHA8ERU6GhdKwBtxa4NW3) | 2:49 | 2025-10-09 |  |
 | [Sweet Symphony](https://open.spotify.com/track/4piZuG5D7Krw2iUGk7PKYo) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Sweet Symphony](https://open.spotify.com/album/5ICeZU3A6DtzBKTmjTwLY3) | 2:22 | 2025-07-04 |  |
+| [Take Control](https://open.spotify.com/track/39teopoT5zuanjcPe2Fz1L) | [JUNIVERZ](https://open.spotify.com/artist/3hs1Se23yBdjgBPWtJm24T), [HEN1](https://open.spotify.com/artist/2UmE9ok19PHe6rJiPgCq90) | [Take Control](https://open.spotify.com/album/6CWVErviDtgoALVO6qo1ym) | 2:52 | 2026-08-28 |  |
 | [Take Control](https://open.spotify.com/track/6iqJCu5hhdKko7ywoQgiDW) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [XavieR](https://open.spotify.com/artist/4eo8DUa8wEP7Uc1MaZ5IVT), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Take Control](https://open.spotify.com/album/59YRIcCaPVKoZAcuoz7rmE) | 2:27 | 2025-07-04 |  |
 | [Take Me](https://open.spotify.com/track/7isvUC2QHP3TVOg4tW1Wjm) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Gaz Meeko](https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6) | [Take Me](https://open.spotify.com/album/5l5Xdas5QszdjRntzktuPH) | 2:34 | 2026-08-13 |  |
 | [Taki](https://open.spotify.com/track/2ozW9IStfgDQLx6hZgLoeT) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Taki](https://open.spotify.com/album/057nP3IX1e7Z6kZ4d2OTwX) | 2:07 | 2025-07-04 |  |

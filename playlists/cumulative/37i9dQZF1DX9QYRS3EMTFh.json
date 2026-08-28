@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Miimii KDS",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : DJ Kawest",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1312,6 +1312,28 @@
       "duration_ms": 114000,
       "name": "Ay kokel",
       "url": "https://open.spotify.com/track/5MLsZrCtCfcvZVdgEHPxhP"
+    },
+    {
+      "album": {
+        "name": "Ayen",
+        "url": "https://open.spotify.com/album/1v32T59izZoMpdesW6XcSJ"
+      },
+      "artists": [
+        {
+          "name": "LY-SUUN",
+          "url": "https://open.spotify.com/artist/5Jxf3JLbvHb2xOZQagRlxw"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174405,
+      "name": "Ayen",
+      "url": "https://open.spotify.com/track/1zBOP9UkeGWfjbuVtjbe7P"
     },
     {
       "album": {
@@ -7579,6 +7601,28 @@
     },
     {
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/5iGGJufnFytQitR99MkWDh"
+      },
+      "artists": [
+        {
+          "name": "Phxraon",
+          "url": "https://open.spotify.com/artist/3tUnRlUyujMAPx4u2QhVXi"
+        },
+        {
+          "name": "3Lettres",
+          "url": "https://open.spotify.com/artist/1bV39nWuL5NWO6NwjvsQll"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131650,
+      "name": "French Touch",
+      "url": "https://open.spotify.com/track/5RG5fRGUGyrC76QpvrGC0r"
+    },
+    {
+      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/1Kuj8UG83VKYtLPcuE7Ylr"
       },
@@ -7652,6 +7696,32 @@
       "duration_ms": 174719,
       "name": "Fr\u00e9quent & M\u00e9chant",
       "url": "https://open.spotify.com/track/4dh25SzzKslW9N7KkgvXOx"
+    },
+    {
+      "album": {
+        "name": "Full Baddies",
+        "url": "https://open.spotify.com/album/7kpcTaqIYNtlWszqLzvSvw"
+      },
+      "artists": [
+        {
+          "name": "Limitlezz",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "Tii Alexandre",
+          "url": "https://open.spotify.com/artist/4y5BekShl9otQUj6ikj7Ao"
+        },
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132692,
+      "name": "Full Baddies",
+      "url": "https://open.spotify.com/track/4UmBt7P9JnAdk1ECmGOA5u"
     },
     {
       "album": {
@@ -12092,7 +12162,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 113601,
       "name": "LUV GYAL",
       "url": "https://open.spotify.com/track/5spGDuxhDWsUpsyuWFbolm"
@@ -13567,6 +13637,32 @@
     },
     {
       "album": {
+        "name": "M\u00e9chant",
+        "url": "https://open.spotify.com/album/3fmAoZE95X8sFNr4SQ3JqK"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Tiitof",
+          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
+        },
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130289,
+      "name": "M\u00e9chant",
+      "url": "https://open.spotify.com/track/70isOAWcjtEI3olrMlS9u9"
+    },
+    {
+      "album": {
         "name": "M\u00e9t\u00e9 Kow",
         "url": "https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab"
       },
@@ -14608,7 +14704,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 149409,
       "name": "On pick, Pt. 2",
       "url": "https://open.spotify.com/track/0ilE7klIsZ1dXWkRDU9NB2"
@@ -17120,7 +17216,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153600,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/30peMmhPyRsPsdisYeG0qs"
@@ -18330,7 +18426,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 148800,
       "name": "Shoot\u00e8 la",
       "url": "https://open.spotify.com/track/5rgknJmtlHKyFLtLWZJbT7"

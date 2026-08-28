@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Adri\u00e1n Beltran en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. El Padrinito Toys, Celemente y su Elexion Privada en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193243,
       "name": "24/siete",
       "url": "https://open.spotify.com/track/3gJmHU5pw1Gi0sCsxXu1aw"
@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Anomalia",
+        "url": "https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Anomalia",
+      "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
+    },
+    {
+      "album": {
         "name": "Los de Encargo",
         "url": "https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9"
       },
@@ -2164,6 +2182,28 @@
       "duration_ms": 177519,
       "name": "Apache Para Los Amigos",
       "url": "https://open.spotify.com/track/4og2jZveOYty947rpZni9Y"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166052,
+      "name": "Apelativo",
+      "url": "https://open.spotify.com/track/0TptnLmHfkpcGOqNuzsiPi"
     },
     {
       "album": {
@@ -6677,6 +6717,24 @@
     },
     {
       "album": {
+        "name": "Dandy Hats",
+        "url": "https://open.spotify.com/album/2PaQhEbysv44gT3PRJ5XRs"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170736,
+      "name": "Dandy Hats",
+      "url": "https://open.spotify.com/track/0e3T2reBHLVK9ENgEg0WmH"
+    },
+    {
+      "album": {
         "name": "Dante",
         "url": "https://open.spotify.com/album/3RfvANcRyder97orXrfuBp"
       },
@@ -7038,7 +7096,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
@@ -15780,7 +15838,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 182506,
       "name": "El Sieteh",
       "url": "https://open.spotify.com/track/55VA0XDT9jc2sgHJht85xO"
@@ -18084,6 +18142,24 @@
       "duration_ms": 213604,
       "name": "Final Inesperado",
       "url": "https://open.spotify.com/track/6Yrf4DhnDffWxikZrsyxMM"
+    },
+    {
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/1Yk23LsU2ZPNScnJo2R9bn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/5bMcrPmz2hxyUpZzUiNych"
     },
     {
       "album": {
@@ -30634,7 +30710,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 200357,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
@@ -31546,6 +31622,24 @@
       "duration_ms": 165003,
       "name": "Plomo y Letra",
       "url": "https://open.spotify.com/track/3Cml07noHvReE1LyQIouig"
+    },
+    {
+      "album": {
+        "name": "Pluma Fina",
+        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172705,
+      "name": "Pluma Fina",
+      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
     },
     {
       "album": {
@@ -33466,7 +33560,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 161658,
       "name": "Rolex En La Mano",
       "url": "https://open.spotify.com/track/2msxK38yw1wEDNcJUd77Xv"
@@ -36052,7 +36146,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168923,
       "name": "Super R",
       "url": "https://open.spotify.com/track/28QjI3qK7K2AEfo1yIEb4Q"
@@ -36096,6 +36190,28 @@
       "duration_ms": 185856,
       "name": "SUPERCHARGED",
       "url": "https://open.spotify.com/track/58c33wvOVysB63tVyU28wB"
+    },
+    {
+      "album": {
+        "name": "Supersnake",
+        "url": "https://open.spotify.com/album/3nkt00vw3D63iJl8gvqr1I"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124732,
+      "name": "Supersnake",
+      "url": "https://open.spotify.com/track/5lqUcqnZ6hXUnXTo5jVuH0"
     },
     {
       "album": {

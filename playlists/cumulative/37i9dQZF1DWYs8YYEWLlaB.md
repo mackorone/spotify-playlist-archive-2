@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Burak Bulut
+> viral, trend ve yükselenler\. Kapak: Lvbel C5
 
 313 songs - 15 hr 50 min
 

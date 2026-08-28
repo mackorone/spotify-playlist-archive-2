@@ -409,6 +409,32 @@
     },
     {
       "album": {
+        "name": "Akata Nante3",
+        "url": "https://open.spotify.com/album/658OIf0j5dsgfnD2PRPnwq"
+      },
+      "artists": [
+        {
+          "name": "King Balance",
+          "url": "https://open.spotify.com/artist/0Kwx2ykCZkVldf9ULc4s8X"
+        },
+        {
+          "name": "KWESI AMEWUGA",
+          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
+        },
+        {
+          "name": "Droplord SAS",
+          "url": "https://open.spotify.com/artist/5tGScSAi5e4P3KCgnZt2zV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171884,
+      "name": "Akata Nante3",
+      "url": "https://open.spotify.com/track/1mDLimtdFvd0JvImqPdQAK"
+    },
+    {
+      "album": {
         "name": "Akatafoc",
         "url": "https://open.spotify.com/album/41IfG6m1JTCyYcuMswd6Gi"
       },
@@ -1088,7 +1114,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 154080,
       "name": "Baskata",
       "url": "https://open.spotify.com/track/4ruVHF2ffI8euRpA8LkSgi"
@@ -3634,7 +3660,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 216000,
       "name": "LIFE OF ECSTASY",
       "url": "https://open.spotify.com/track/6Gy016CZdGzVASU8Ijxs9Q"
@@ -3996,7 +4022,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 129650,
       "name": "Me Samba",
       "url": "https://open.spotify.com/track/1BuLMDIh0poLzzQC9nBvnV"
@@ -6577,6 +6603,24 @@
     },
     {
       "album": {
+        "name": "We Go",
+        "url": "https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT"
+    },
+    {
+      "album": {
         "name": "We Goofed",
         "url": "https://open.spotify.com/album/0kxiSbstlxUDwPdOVGnwxO"
       },
@@ -6746,6 +6790,28 @@
       "duration_ms": 168663,
       "name": "Wish I Had a Girlfriend",
       "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
+    },
+    {
+      "album": {
+        "name": "Wish Me Well",
+        "url": "https://open.spotify.com/album/7uF5Wy6kAwg86624wzRpyt"
+      },
+      "artists": [
+        {
+          "name": "Kennyice",
+          "url": "https://open.spotify.com/artist/36fj0UBiN4y4kx2H98ofdO"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254912,
+      "name": "Wish Me Well",
+      "url": "https://open.spotify.com/track/1ctQgHggWApZOZ9UBLFR4D"
     },
     {
       "album": {

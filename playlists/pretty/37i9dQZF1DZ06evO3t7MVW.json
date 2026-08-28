@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 99842,
+  "num_followers": 99867,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aozbAAAAAAD7XRi/4cnV5GbvxKFRJDNv",
+  "snapshot_id": "ao4sgAAAAADvYJCuCJEB/1JUaEHsMSuX",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restless Soul",
-        "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
+        "name": "Love Me Easy",
+        "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
       "artists": [
         {
-          "name": "Stay High",
-          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+          "name": "ANORA",
+          "url": "https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
         }
       ],
-      "duration_ms": 256878,
-      "name": "Restless Soul",
-      "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
+      "duration_ms": 170016,
+      "name": "Love Me Easy",
+      "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
     },
     {
       "added_at": null,
@@ -799,26 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Easy",
-        "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
+        "name": "Restless Soul",
+        "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
       },
       "artists": [
         {
-          "name": "ANORA",
-          "url": "https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo"
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Walshy Fire",
-          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
         }
       ],
-      "duration_ms": 170016,
-      "name": "Love Me Easy",
-      "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
+      "duration_ms": 256878,
+      "name": "Restless Soul",
+      "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
     }
   ],
   "unique_name": "This Is Stick Figure",

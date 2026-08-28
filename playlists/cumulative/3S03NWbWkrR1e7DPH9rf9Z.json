@@ -4604,6 +4604,28 @@
     {
       "album": {
         "name": "Take Control",
+        "url": "https://open.spotify.com/album/6CWVErviDtgoALVO6qo1ym"
+      },
+      "artists": [
+        {
+          "name": "JUNIVERZ",
+          "url": "https://open.spotify.com/artist/3hs1Se23yBdjgBPWtJm24T"
+        },
+        {
+          "name": "HEN1",
+          "url": "https://open.spotify.com/artist/2UmE9ok19PHe6rJiPgCq90"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172997,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/39teopoT5zuanjcPe2Fz1L"
+    },
+    {
+      "album": {
+        "name": "Take Control",
         "url": "https://open.spotify.com/album/59YRIcCaPVKoZAcuoz7rmE"
       },
       "artists": [

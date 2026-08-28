@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Moviendo Piezas",
+        "url": "https://open.spotify.com/album/09reBj08UjkKD37W1Ckr5l"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ajedrez",
+          "url": "https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185633,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/6qEyO87lphVYGPhecy2doX"
+    },
+    {
+      "album": {
         "name": "AVECES",
         "url": "https://open.spotify.com/album/0haRdZZiZmNiGVNsobpzrc"
       },
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 136112,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/1zQFcUouiipsiuEfFimYsj"
@@ -9007,6 +9025,28 @@
     },
     {
       "album": {
+        "name": "Panam\u00e1",
+        "url": "https://open.spotify.com/album/3ftm9tPAZLYpkECIkeVVwV"
+      },
+      "artists": [
+        {
+          "name": "Axel Rodriguez",
+          "url": "https://open.spotify.com/artist/7cXRTpLEXOagaIbnw0J0cB"
+        },
+        {
+          "name": "Luis Sandoval",
+          "url": "https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158142,
+      "name": "Panam\u00e1",
+      "url": "https://open.spotify.com/track/016d9Tv8P3fuANlhZgpQK1"
+    },
+    {
+      "album": {
         "name": "PAPA",
         "url": "https://open.spotify.com/album/6o7vcr3hyVkGhDAg5cDY6G"
       },
@@ -9340,7 +9380,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 209058,
       "name": "PLACAS DE CHIHUAHUA",
       "url": "https://open.spotify.com/track/6ClYRRmCpeBOKasL9HIHMu"

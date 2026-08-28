@@ -4,7 +4,7 @@
 
 > 
 
-8,830 songs - 22 day 11 hr 29 min
+8,831 songs - 22 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1145,6 +1145,7 @@
 | [Can't Tell Me Nothing](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:31 | 2025-01-03 |  |
 | [Canal St\. \(feat\. Bones\)](https://open.spotify.com/track/0rBMP6VVGRgwnzZCLpijyl) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:47 | 2024-12-05 |  |
 | [Cancer](https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:22 | 2025-01-04 |  |
+| [CANDLELIGHT](https://open.spotify.com/track/0EwNxEtIgDBkY697wTMB4h) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:46 | 2026-08-28 |  |
 | [Candlelight \(feat\. OHHYUK\)](https://open.spotify.com/track/70DYNbGc6SWqkUvhchYBo9) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [SOFT STORM](https://open.spotify.com/album/2G7WLFGIIcR1T3uRglH4cN) | 3:17 | 2025-01-15 |  |
 | [CANDY](https://open.spotify.com/track/0K25zmumCzn2kFmh9zcLWy) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 3:37 | 2025-01-03 |  |
 | [candy grapes \(feat\. Steve Lacy\)](https://open.spotify.com/track/4emJOvmhqWJAxpwB7c9JJw) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 7:30 | 2025-01-03 |  |
@@ -4726,7 +4727,7 @@
 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 | 2025-01-15 |  |
 | [NOSAE NOSAE](https://open.spotify.com/track/2SBnYX6QFYotZEeVgxr0nv) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [YAINS](https://open.spotify.com/album/2sdAsii9EScLqXidDLmMg5) | 2:48 | 2025-01-03 | 2026-04-30 |
 | [Nosetalgia](https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:36 | 2025-01-15 |  |
-| [Nostalgia](https://open.spotify.com/track/6Ntuk2d5uKOqjkQvcFiv4C) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Nostalgia](https://open.spotify.com/album/4bhVu8aLgW2TEPByex4reA) | 1:43 | 2024-12-14 |  |
+| [Nostalgia](https://open.spotify.com/track/6Ntuk2d5uKOqjkQvcFiv4C) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Nostalgia](https://open.spotify.com/album/4bhVu8aLgW2TEPByex4reA) | 1:43 | 2024-12-14 | 2026-08-28 |
 | [Nostalgia](https://open.spotify.com/track/5YOZ8dmRoBvdmtWcm74xKK) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Nostalgia](https://open.spotify.com/album/7IlffKtA9n50dRcdqueD6p) | 1:43 | 2025-03-08 |  |
 | [nostalgic breakdown](https://open.spotify.com/track/6CYMUrjy3Hkf67ez34ej3T) | [overscorn](https://open.spotify.com/artist/33C4sjncmXwLLmzNTQmG71) | [highfalutin](https://open.spotify.com/album/4NGiqjCYe06jtvUAfRuQgf) | 3:04 | 2025-05-17 |  |
 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 | 2025-01-03 |  |

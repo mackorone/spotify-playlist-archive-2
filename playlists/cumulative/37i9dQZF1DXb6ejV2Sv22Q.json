@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Jacinto en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Paloma Morphy en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 215257,
       "name": "11 esperono X.X",
       "url": "https://open.spotify.com/track/4sN0MTVxQhl9yt7EJXULCP"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 118549,
       "name": "BESOS DE MARIPOSA",
       "url": "https://open.spotify.com/track/3tM2miu8CGJUdazAiLw2ic"
@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 145919,
       "name": "Calma",
       "url": "https://open.spotify.com/track/3JTRyqyzp8GWl26odGnTRD"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 178852,
       "name": "CA\u00cd DE CARA AYER",
       "url": "https://open.spotify.com/track/2y2804DWFwtlb72KHAhLrm"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 152919,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/1ShklPH2en2S6e2LuDW514"
@@ -5763,6 +5763,28 @@
     },
     {
       "album": {
+        "name": "La gravedad y el tiempo.",
+        "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "La gravedad y el tiempo.",
+      "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
+    },
+    {
+      "album": {
         "name": "volverse densidad",
         "url": "https://open.spotify.com/album/6nI0GmKUsjMkpkbynvuyC1"
       },
@@ -6040,7 +6062,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 184897,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/6K3XrmEY2pTjgFLEP5CWpU"
@@ -6248,6 +6270,24 @@
       "duration_ms": 102009,
       "name": "Lo Ke Quieras\u2606\u2312(>\u3002<)",
       "url": "https://open.spotify.com/track/3kOn95SB1ZIu82XXsWcyI3"
+    },
+    {
+      "album": {
+        "name": "LOBO",
+        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147386,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
     },
     {
       "album": {
@@ -6906,7 +6946,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 233437,
       "name": "MI CUARTO",
       "url": "https://open.spotify.com/track/39B967YC8p8iAFzVXVCW9s"
@@ -7316,7 +7356,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 182564,
       "name": "Motorizado (dime as\u00ed)",
       "url": "https://open.spotify.com/track/4PupcpDxPP34zS2J2y2quX"
@@ -7776,7 +7816,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 148650,
       "name": "No",
       "url": "https://open.spotify.com/track/1ZjsmeCQsqlQt5bU8dC1pM"
@@ -8108,7 +8148,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 125607,
       "name": "Nos Damos 2024",
       "url": "https://open.spotify.com/track/5LTSwf1GSL1CwZSwhugCmb"
@@ -8612,6 +8652,46 @@
       "duration_ms": 171692,
       "name": "Para tii",
       "url": "https://open.spotify.com/track/3Omr8bcHAZtQoxJeaWCamU"
+    },
+    {
+      "album": {
+        "name": "PARAMICORAZON:",
+        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "PARAMICORAZON:",
+      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
+    },
+    {
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/4uvON3YWe2ToqAO3I0cCvB"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164378,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/4WDNXnX9auUjkd5kEhV726"
     },
     {
       "album": {
@@ -10022,7 +10102,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 200000,
       "name": "Se fueron los d\u00edas",
       "url": "https://open.spotify.com/track/1t42r5zWWDVXKAXZ4wzpiv"
@@ -10200,6 +10280,24 @@
       "duration_ms": 173868,
       "name": "si fuera t\u00fa",
       "url": "https://open.spotify.com/track/6hbA0j5LeGkUQC1VC0EMHF"
+    },
+    {
+      "album": {
+        "name": "si la ves",
+        "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177829,
+      "name": "si la ves",
+      "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
     },
     {
       "album": {
@@ -10854,7 +10952,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 161382,
       "name": "super coqueta",
       "url": "https://open.spotify.com/track/2VTPMGKa1ClU0rlhEyxBz8"
@@ -11356,7 +11454,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 149000,
       "name": "todo y nada",
       "url": "https://open.spotify.com/track/03vYoz1eo8oWZolWxYPKHC"
@@ -11382,7 +11480,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197435,
       "name": "TODOTERRENO",
       "url": "https://open.spotify.com/track/57bczw09mhiwNz2kpX7yJb"
@@ -12486,7 +12584,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 123478,
       "name": "\u00bfC\u00f3mo te fue hoy?",
       "url": "https://open.spotify.com/track/2JKyg4A5zmEJTBugXX77EQ"

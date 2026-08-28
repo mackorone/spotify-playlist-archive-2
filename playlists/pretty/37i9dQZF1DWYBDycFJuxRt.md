@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIX LOUNGE \*👉 <a href="https://spice.eplus.jp/articles/348490">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,168 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,174 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 57 | [Rise Over](https://open.spotify.com/track/6nUBP5czYLJIBTDfMkPhwd) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/0Yj7RAYDsGCcb06sm7sb3m) | 3:30 |
 | 58 | [BORN DIRE](https://open.spotify.com/track/3aLKpfvAgHYIP7DeMDMzX0) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/1zTHkPhapuXC3SvOEPM9YB) | 2:42 |
 | 59 | [Top of the top](https://open.spotify.com/track/4ZPjcGybdStFGEO3bsmg0F) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [Top of the top](https://open.spotify.com/album/01fpcOr683HpTukw5dUUCh) | 3:39 |
-| 60 | [i REVOLUTION](https://open.spotify.com/track/32wLkKG0V8UD8ipEuxoYPn) | [iLiFE!](https://open.spotify.com/artist/539GTPlYhFLCL6eh4jnbYy) | [i REVOLUTION](https://open.spotify.com/album/2ELCPcCQRvuC9cV4WMOBYG) | 3:18 |
+| 60 | [i REVOLUTION](https://open.spotify.com/track/32wLkKG0V8UD8ipEuxoYPn) | [iLiFE!](https://open.spotify.com/artist/539GTPlYhFLCL6eh4jnbYy), [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [i REVOLUTION](https://open.spotify.com/album/2ELCPcCQRvuC9cV4WMOBYG) | 3:18 |
 | 61 | [無 我 夢 中](https://open.spotify.com/track/4RAbg0zzGY6jXj4NjhTObG) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [無 我 夢 中](https://open.spotify.com/album/3ZarYGauyoRQYalv82Ab7X) | 3:32 |
 | 62 | [Late Show \- Writer's Cut](https://open.spotify.com/track/4Ikth4BHnAuDxDziAwkNtX) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Late Show \(Writer's Cut\)](https://open.spotify.com/album/4Ovvdui4tDA5WU2n2lFP9V) | 3:44 |
 | 63 | [メンタルヘルス・体温](https://open.spotify.com/track/3ihhcB3pJhi5XdES1WvyWq) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [メンタルヘルス・体温](https://open.spotify.com/album/4UIIFCGbH4P9LYXhEQ8Mhe) | 4:21 |

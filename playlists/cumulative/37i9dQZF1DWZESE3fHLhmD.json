@@ -1142,6 +1142,24 @@
     {
       "album": {
         "name": "Changes",
+        "url": "https://open.spotify.com/album/4nUBAtr9iFH2HhoLR9Cqjo"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164992,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4sBDf6o4mYWjmZjPn4TH9I"
+    },
+    {
+      "album": {
+        "name": "Changes",
         "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
       },
       "artists": [
@@ -1705,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Don't Ruin It",
+        "url": "https://open.spotify.com/album/5b4BR9vMYMWxfc3RTv5Mpe"
+      },
+      "artists": [
+        {
+          "name": "Cristina Hart",
+          "url": "https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "Don't Ruin It",
+      "url": "https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258"
+    },
+    {
+      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 230322,
       "name": "Epa",
       "url": "https://open.spotify.com/track/0WpXwIkHgil23gzYOEykR8"
@@ -2662,7 +2698,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -3344,7 +3380,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153000,
       "name": "IM NACHGANG",
       "url": "https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0"
@@ -3442,6 +3478,28 @@
       "duration_ms": 209787,
       "name": "Into Your Room",
       "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
+    },
+    {
+      "album": {
+        "name": "Inundauswendig",
+        "url": "https://open.spotify.com/album/0R7lKm7pMZHjdrY1UVcc02"
+      },
+      "artists": [
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Inundauswendig",
+      "url": "https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq"
     },
     {
       "album": {
@@ -3994,7 +4052,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "lieblingslied",
       "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
@@ -4968,7 +5026,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 128203,
       "name": "nach hause laufen",
       "url": "https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK"
@@ -6143,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Scaring Everyone",
+        "url": "https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204534,
+      "name": "Scaring Everyone",
+      "url": "https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV"
+    },
+    {
+      "album": {
         "name": "Sch\u00f6n",
         "url": "https://open.spotify.com/album/3p3CI9WVGwLGgEJUkzODow"
       },
@@ -7142,7 +7218,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"

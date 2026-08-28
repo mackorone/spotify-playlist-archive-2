@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 238302,
+  "num_followers": 238427,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "As The Deer",
-        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        },
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Not Hopeless (Rave Jesus Remix)",
         "url": "https://open.spotify.com/album/11xBnpvOL5i7FwezgVwsH9"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 184615,
       "name": "Not Hopeless - Rave Jesus Remix",
       "url": "https://open.spotify.com/track/4fv3X33MrT8sR3j2NFtOxd"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "As The Deer",
+        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "The Way, The Truth, The Life",
-        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
-      },
-      "artists": [
-        {
-          "name": "AndyG",
-          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "The Way, The Truth, The Life",
-      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Covenant",
         "url": "https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 162500,
       "name": "Covenant",
       "url": "https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "The Way, The Truth, The Life",
+        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
+      },
+      "artists": [
+        {
+          "name": "AndyG",
+          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "The Way, The Truth, The Life",
+      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/7w38vAO2LbUzzp7wIxNTIY"
-      },
-      "artists": [
-        {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
-        },
-        {
-          "name": "Bumerey",
-          "url": "https://open.spotify.com/artist/4ApBtcqa0zwteyosj177zu"
-        }
-      ],
-      "duration_ms": 203135,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/35T2hC2SKsxXfuh4Nz9U4G"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Every Move I Make",
         "url": "https://open.spotify.com/album/2awny9v4MKwfeiED5UoYcH"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 175653,
       "name": "Every Move I Make",
       "url": "https://open.spotify.com/track/3E5ME1nX4zRt1oI6tydLop"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/7w38vAO2LbUzzp7wIxNTIY"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        },
+        {
+          "name": "Bumerey",
+          "url": "https://open.spotify.com/artist/4ApBtcqa0zwteyosj177zu"
+        }
+      ],
+      "duration_ms": 203135,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/35T2hC2SKsxXfuh4Nz9U4G"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Praise (Reyer Remix)",
         "url": "https://open.spotify.com/album/7zXw7h3RkosuphJ9pKO3ov"
       },
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "My Prayer (Micky More & Andy Tee Mixes)",
-        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
       },
       "artists": [
         {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        },
-        {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
         }
       ],
-      "duration_ms": 228694,
-      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
-      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
+      "duration_ms": 456000,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1243,6 +1223,26 @@
       "duration_ms": 131250,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "My Prayer (Micky More & Andy Tee Mixes)",
+        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
+      },
+      "artists": [
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
+      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 293916,
       "name": "Love Is All I Know",
       "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
     },
     {
       "added_at": "2026-08-18 23:12:48",

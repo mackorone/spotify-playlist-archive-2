@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 175354,
       "name": "A passing season",
       "url": "https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 181913,
       "name": "Apart",
       "url": "https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 140247,
       "name": "Calolziocorte",
       "url": "https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 122476,
       "name": "Cotton Skies",
       "url": "https://open.spotify.com/track/3AiAQBP8sbljb3UYB9wE3s"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160064,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
@@ -4463,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Just One More Dance",
+        "url": "https://open.spotify.com/album/3FW98vXTT4YjwpZcNxHcig"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "Just One More Dance",
+      "url": "https://open.spotify.com/track/0dRLHyyudiR1BuYumB4PN0"
+    },
+    {
+      "album": {
         "name": "Just One More Time",
         "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
       },
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172180,
       "name": "Moving on",
       "url": "https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE"
@@ -6094,7 +6112,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 129239,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/6tygCoz3aJHIO7pV7aGg1G"
@@ -6422,7 +6440,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157574,
       "name": "Open",
       "url": "https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3"
@@ -6548,7 +6566,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180640,
       "name": "Outside Lit Windows With You",
       "url": "https://open.spotify.com/track/14QoAqrZEbEilcN1DVVKYn"
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 165494,
       "name": "The Past",
       "url": "https://open.spotify.com/track/6aQc204iPMcfjuozE4Zn3P"
@@ -8938,6 +8956,24 @@
       "duration_ms": 129817,
       "name": "The Still",
       "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
+    },
+    {
+      "album": {
+        "name": "The True Wonders",
+        "url": "https://open.spotify.com/album/2uIouFt8r2mRqdsWeKBrYS"
+      },
+      "artists": [
+        {
+          "name": "Phlox Sage",
+          "url": "https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137877,
+      "name": "The True Wonders",
+      "url": "https://open.spotify.com/track/1eTrWDAM6tgLw4NK501ovx"
     },
     {
       "album": {
@@ -9996,7 +10032,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 159466,
       "name": "Villa Cortese",
       "url": "https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu"
@@ -10270,6 +10306,24 @@
       "duration_ms": 140000,
       "name": "When the leaves start to fall",
       "url": "https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI"
+    },
+    {
+      "album": {
+        "name": "Where Light Remains",
+        "url": "https://open.spotify.com/album/78Qa6z5nq0qv2GnJrpCp0F"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Where Light Remains",
+      "url": "https://open.spotify.com/track/1jvVMp8vn8xRGSfPEa8yd0"
     },
     {
       "album": {

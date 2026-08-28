@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Proudly Kenyan gems made for the entire family\. Cover: Njerae
+> Proudly Kenyan gems made for the entire family\. Cover: Mwana, Collo Blue
 
-324 songs - 18 hr 52 min
+325 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alright](https://open.spotify.com/track/3BZwc29o0ltzvS5f4JytVw) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Alright](https://open.spotify.com/album/7G38ts49BsJ26h2pmCHR5j) | 2:25 | 2025-10-23 | 2026-03-06 |
 | [Always and Forever](https://open.spotify.com/track/0XMv0ICHDxBIgF5Kz9LyNC) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Always and Forever](https://open.spotify.com/album/4gxGNYvisC3t5DLMhMC8Oi) | 4:11 | 2026-07-23 | 2026-07-26 |
 | [Ananipenda](https://open.spotify.com/track/7DlpGg15iYFefrxW9Kd0tF) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Ananipenda](https://open.spotify.com/album/5FaG0EwHKRuPw28gL3bI20) | 3:00 | 2026-07-15 | 2026-07-26 |
-| [Angelina](https://open.spotify.com/track/5uI9DcWHmOPifqHvprR9mC) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Angelina](https://open.spotify.com/album/3h3bCGHVk3nfWmw9wRkSyw) | 3:08 | 2026-08-20 | 2026-08-22 |
+| [Angelina](https://open.spotify.com/track/5uI9DcWHmOPifqHvprR9mC) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Angelina](https://open.spotify.com/album/3h3bCGHVk3nfWmw9wRkSyw) | 3:08 | 2026-08-20 |  |
 | [Anguka Nayo](https://open.spotify.com/track/1l8IWe4LY8SqXnKv7M9OAv) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Timeless Noel](https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE), [Didi Man](https://open.spotify.com/artist/0u3gmLk5tQKe5RZ6Ace57A) | [Anguka Nayo](https://open.spotify.com/album/4ZsLMjoQDbA8Xg8UVqtqs8) | 3:23 | 2026-07-15 | 2026-07-21 |
 | [Anitah](https://open.spotify.com/track/6TTMF57Wiks0T8Z9tTvoLi) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Anitah](https://open.spotify.com/album/64M1BDnx2IoJyzziD0Bm6V) | 3:51 | 2026-03-19 | 2026-07-10 |
 | [Anticipate](https://open.spotify.com/track/6gv1a5OJZ46sscMzaMc8uL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:47 | 2026-07-15 | 2026-07-26 |
@@ -115,6 +115,7 @@
 | [Hell Of A Night](https://open.spotify.com/track/2T7mz68Ha96CFfYVhJ6Fiw) | [Domani Munga](https://open.spotify.com/artist/5QzkdCjCrO3OpfLTHvqnNb), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Hell Of A Night](https://open.spotify.com/album/0Lru0GcgdZnMcU3J1MgtVV) | 3:33 | 2026-06-19 |  |
 | [Hera](https://open.spotify.com/track/38MgM72A77LchiWCZ3ytlc) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Fweny \(Revelations\)](https://open.spotify.com/album/0S847GxnhGNoxKa7rhGHyf) | 2:54 | 2026-07-15 | 2026-07-21 |
 | [Hope](https://open.spotify.com/track/5DALMIl0HFU351kCmSBbbY) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwīhoko: Ûtheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 5:21 | 2026-07-25 | 2026-07-31 |
+| [Hotuhoru \(Thayû\)](https://open.spotify.com/track/0xFnVu67ccRcoxaM9nNBZg) | [Mwanaa](https://open.spotify.com/artist/5pzU5EVVWksqPwGvuA2oDa), [Collo Blue](https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3), [ADDEH PRINCE](https://open.spotify.com/artist/1sieF11qgHWWtegoskP98m) | [Hotuhoru \(Thayû\)](https://open.spotify.com/album/5dRpzwfkIPpm3T369f0fUq) | 3:19 | 2026-08-28 |  |
 | [Huyo](https://open.spotify.com/track/0RD4K03Z1EFKw1QzCETdTw) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 3:46 | 2026-07-25 | 2026-07-31 |
 | [I Got You](https://open.spotify.com/track/1TidyHnfWZJ2GcDMESuYUt) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Got You](https://open.spotify.com/album/0WeoxAxwZklVIPYUGE0mRf) | 2:54 | 2025-10-23 | 2026-01-16 |
 | [Ilomba](https://open.spotify.com/track/0CS0SYqgzGdq4rOO7pnW0y) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Ilomba](https://open.spotify.com/album/4kE7lbafVfIw6sE1jROXQK) | 5:23 | 2025-10-23 | 2025-12-12 |

@@ -626,6 +626,10 @@
       },
       "artists": [
         {
+          "name": "Mike Curb",
+          "url": "https://open.spotify.com/artist/3K03NMtKNyd0jemLuLYcLf"
+        },
+        {
           "name": "The Sidewalk Sounds",
           "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
         }
@@ -634,7 +638,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
+      "name": "Billy Jack's Theme - from the motion picture Born Losers",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {

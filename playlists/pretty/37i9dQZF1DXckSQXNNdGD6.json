@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Amor L\u00edquido.",
-  "num_followers": 22900,
+  "num_followers": 22893,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
+        "name": "Ave de Paso",
+        "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Ave de Paso",
+      "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
+    },
+    {
+      "added_at": "2026-08-10 22:00:36",
+      "album": {
         "name": "Ouineta Verificada",
         "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "Ave de Paso",
-        "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Ave de Paso",
-      "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
-    },
-    {
-      "added_at": "2026-08-10 22:00:36",
-      "album": {
         "name": "pop blandito",
         "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "La Insolaci\u00f3n",
-        "url": "https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j"
+        "name": "Soulost",
+        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
         }
       ],
-      "duration_ms": 187634,
-      "name": "D\u00e9jalo Ir",
-      "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
+      "duration_ms": 240498,
+      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
+      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
     },
     {
       "added_at": "2026-08-10 22:00:36",
@@ -671,18 +671,34 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "Soulost",
-        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
+        "name": "La Insolaci\u00f3n",
+        "url": "https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j"
       },
       "artists": [
         {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
         }
       ],
-      "duration_ms": 240498,
-      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
-      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
+      "duration_ms": 187634,
+      "name": "D\u00e9jalo Ir",
+      "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
+    },
+    {
+      "added_at": "2026-08-10 22:00:36",
+      "album": {
+        "name": "Yo quiero un affaire",
+        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Yo quiero un affaire",
+      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
     },
     {
       "added_at": "2026-08-10 22:00:36",
@@ -707,22 +723,6 @@
       "duration_ms": 137872,
       "name": "V.I.P",
       "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
-    },
-    {
-      "added_at": "2026-08-10 22:00:36",
-      "album": {
-        "name": "Yo quiero un affaire",
-        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Yo quiero un affaire",
-      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
     },
     {
       "added_at": "2026-08-10 22:00:36",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "NO ERES AS\u00cd",
-        "url": "https://open.spotify.com/album/16q6SR66jmXRvSURQO8WU7"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 163054,
-      "name": "NO ERES AS\u00cd",
-      "url": "https://open.spotify.com/track/5xvkvXiMv2dSALNCho2AoH"
-    },
-    {
-      "added_at": "2026-08-10 22:00:36",
-      "album": {
         "name": "Satisfacer Tu Deseo De Hombre",
         "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
       },
@@ -851,18 +835,34 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "Bomba de Amor",
-        "url": "https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv"
+        "name": "NO ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/16q6SR66jmXRvSURQO8WU7"
       },
       "artists": [
         {
-          "name": "Luna Ki",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
         }
       ],
-      "duration_ms": 174222,
-      "name": "Bomba de Amor",
-      "url": "https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry"
+      "duration_ms": 163054,
+      "name": "NO ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5xvkvXiMv2dSALNCho2AoH"
+    },
+    {
+      "added_at": "2026-08-10 22:00:36",
+      "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

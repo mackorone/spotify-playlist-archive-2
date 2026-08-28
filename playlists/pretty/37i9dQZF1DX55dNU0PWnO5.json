@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 580512,
+  "num_followers": 580513,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABg11o7BJT4t5cynH0Y336dOsFuQ",
+  "snapshot_id": "AAAAAM/tepUDpkMFulg7MQHNms2I8jIO",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:00:55",
+      "album": {
+        "name": "Never Gonna Be A Boxer (corto.alto remix)",
+        "url": "https://open.spotify.com/album/1B07h3poL9H0oJXULRDR3m"
+      },
+      "artists": [
+        {
+          "name": "Knats",
+          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
+        },
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 240595,
+      "name": "Never Gonna Be A Boxer - corto.alto Remix",
+      "url": "https://open.spotify.com/track/2ohovsTPwDzIc3l4wRxKm1"
+    },
     {
       "added_at": "2026-07-24 04:00:30",
       "album": {
@@ -407,26 +427,6 @@
       "duration_ms": 123750,
       "name": "Wild and Steady",
       "url": "https://open.spotify.com/track/4y5w91db336cCz1AwPCNna"
-    },
-    {
-      "added_at": "2025-03-21 04:00:38",
-      "album": {
-        "name": "In The Breaks (corto.alto remix)",
-        "url": "https://open.spotify.com/album/2kXrlL7fHH6fS3NMAR7oDN"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        },
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 286900,
-      "name": "In The Breaks (corto.alto remix)",
-      "url": "https://open.spotify.com/track/0eRkCKf80O2nSfTFg33OoV"
     },
     {
       "added_at": "2025-01-31 05:00:46",

@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-607 songs - 1 day 1 hr 59 min
+609 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Feuilles d'automne](https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Feuilles d'automne](https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ) | 2:09 | 2021-12-07 | 2022-12-24 |
 | [Ficelles](https://open.spotify.com/track/132Kp4GGfpNCDwiIOWygrg) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Ficelles](https://open.spotify.com/album/7FnU9q86zFuA6lmsgzs2H5) | 1:14 | 2023-03-06 | 2023-07-19 |
 | [Fields Of Blue](https://open.spotify.com/track/4CeQU71JXOt8Jk4HRqGsk3) | [Milo Gabriel](https://open.spotify.com/artist/6BSMI1xQvknMq0fzmUKF5o) | [Fields Of Blue](https://open.spotify.com/album/6a5Yzc2P6pV3k3KAxfpEIC) | 2:19 | 2026-03-20 |  |
+| [Find the space](https://open.spotify.com/track/1cwv5WHepUOktBPgy1X7Hi) | [Perry Goldfish](https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ) | [Find the space](https://open.spotify.com/album/5qSBWYEk8cGwU2qDRax2IN) | 1:40 | 2026-08-28 |  |
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2021-12-07 | 2022-09-21 |
 | [First Spring](https://open.spotify.com/track/6n9uzVOt588P3sYRa4Jq3L) | [Mino Monterosso](https://open.spotify.com/artist/528WOUREknwtSsfI7Nj7Zl) | [First Spring](https://open.spotify.com/album/1DerNu0a6pD4LBSbYm1sc8) | 2:04 | 2021-12-07 | 2022-02-16 |
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2021-12-07 | 2022-05-28 |
@@ -371,6 +372,7 @@
 | [Ninon](https://open.spotify.com/track/4U0kjpWXa1Jfr4Z54GjKNk) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [La Maison d’Isabelle](https://open.spotify.com/album/1U1oZuqZ1PCoVGbxfAMbU5) | 2:24 | 2023-09-11 | 2023-10-04 |
 | [Ninon](https://open.spotify.com/track/4aU56i4MAbvhNAjG1tRN2L) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Une belle journée](https://open.spotify.com/album/2Qa8hyOIHCYFsLtEujisZ9) | 2:24 | 2023-11-20 | 2024-04-19 |
 | [Ninon](https://open.spotify.com/track/5zt7kPSoNPqnMh5J7qyl8f) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Levinas](https://open.spotify.com/album/5qm4snvjWmMNhDZyBuGhDo) | 2:24 | 2023-09-26 | 2023-10-25 |
+| [Nivalune](https://open.spotify.com/track/6zFSGG2BH79eIeI1NblUQQ) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Nivalune](https://open.spotify.com/album/6xfQHmkTAk3uBSznzGC5aq) | 2:16 | 2026-08-28 |  |
 | [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 | 2023-09-26 | 2025-09-18 |
 | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/track/44stpzDXyTfG9LV97pHHP0) | [Matt Bettinson](https://open.spotify.com/artist/5MtYl3JKJxBUNtTo50XZcx) | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/album/6KxXL9mncQwzIz4SFtUVQF) | 2:30 | 2023-07-25 |  |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 | 2024-02-14 |

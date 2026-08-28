@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4gwCmuJDEayvcJxFz50SjB"
+      },
+      "artists": [
+        {
+          "name": "TSHIM'S",
+          "url": "https://open.spotify.com/artist/6KS9VSN0szolg3k7KYaAmX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/0iwxxGrk321aQjqa3zHVkV"
+    },
+    {
+      "album": {
         "name": "AYA BB",
         "url": "https://open.spotify.com/album/2cd2ZnghZC0gCcm3TCkUQa"
       },
@@ -1258,6 +1276,32 @@
       "duration_ms": 246921,
       "name": "Bana Mayele",
       "url": "https://open.spotify.com/track/05hMeUX51NRrehza8QCqn0"
+    },
+    {
+      "album": {
+        "name": "Bandela",
+        "url": "https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Armageddon",
+          "url": "https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6"
+        },
+        {
+          "name": "Anderson",
+          "url": "https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225745,
+      "name": "Bandela",
+      "url": "https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G"
     },
     {
       "album": {
@@ -1968,7 +2012,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 127152,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn"
@@ -8563,6 +8607,28 @@
     },
     {
       "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/44mjqsKAd1z0AFtInne50Z"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197499,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
+    },
+    {
+      "album": {
         "name": "MABE",
         "url": "https://open.spotify.com/album/4I7qHIfhIKCltAXoPiYtYD"
       },
@@ -9398,6 +9464,24 @@
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+    },
+    {
+      "album": {
+        "name": "MIAMI",
+        "url": "https://open.spotify.com/album/2sFm84e2DQ4AtMA2YmfJ0U"
+      },
+      "artists": [
+        {
+          "name": "DIMA DIMA",
+          "url": "https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147786,
+      "name": "MIAMI",
+      "url": "https://open.spotify.com/track/2OucHOGFJ6Os7FI900YJSC"
     },
     {
       "album": {
@@ -11126,6 +11210,24 @@
       "duration_ms": 492013,
       "name": "Nzinzi",
       "url": "https://open.spotify.com/track/2M7sghd8d1oYp9c2EJx73a"
+    },
+    {
+      "album": {
+        "name": "O tia nga wapi",
+        "url": "https://open.spotify.com/album/6ozhoPo4fcJE0S7n3tWCxg"
+      },
+      "artists": [
+        {
+          "name": "Nadia Yombisa",
+          "url": "https://open.spotify.com/artist/7FfKMO8iqb2FFZy5sAervI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192315,
+      "name": "O tia nga wapi",
+      "url": "https://open.spotify.com/track/4tEgD4w3eOzF8szPb2PShy"
     },
     {
       "album": {
@@ -13535,6 +13637,24 @@
     },
     {
       "album": {
+        "name": "ARENA WAY",
+        "url": "https://open.spotify.com/album/7kWNwBTQLWNuz7p33Veqgd"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259672,
+      "name": "SOKOLA",
+      "url": "https://open.spotify.com/track/01b7mf7yDnZNQ0vZSWq6qO"
+    },
+    {
+      "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp"
       },
@@ -13554,6 +13674,24 @@
       "duration_ms": 194285,
       "name": "Soldat",
       "url": "https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC"
+    },
+    {
+      "album": {
+        "name": "SOLIDE",
+        "url": "https://open.spotify.com/album/5XFfuWZKrakFaMtKIkMTwc"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "SOLIDE",
+      "url": "https://open.spotify.com/track/7Mmk8oRfhvJcyM80vvYI9o"
     },
     {
       "album": {
@@ -15760,7 +15898,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 103111,
       "name": "\u00c7A C'EST MON LOSSA",
       "url": "https://open.spotify.com/track/1Fo2PEiXKjPjpWsLibx8D0"

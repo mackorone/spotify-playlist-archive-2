@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 196403,
       "name": "(I Wanted) Summer With You",
       "url": "https://open.spotify.com/track/135gSL1GHbUICdWdzs2l1u"
@@ -5854,7 +5854,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171428,
       "name": "Love Me Wrong",
       "url": "https://open.spotify.com/track/0cKfcQ3ovHdK4hKMsPx7Yk"
@@ -6268,6 +6268,24 @@
       "duration_ms": 192823,
       "name": "Mixer",
       "url": "https://open.spotify.com/track/0fZaiLx3nhwBKWMNXgbM15"
+    },
+    {
+      "album": {
+        "name": "MOJO",
+        "url": "https://open.spotify.com/album/1FXvCtQ6mSlUBFqHBkI7QL"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "MOJO",
+      "url": "https://open.spotify.com/track/5rFT5IF7vo6R8XgZuUNnOh"
     },
     {
       "album": {
@@ -8464,6 +8482,24 @@
       "duration_ms": 215302,
       "name": "Somebody's Watching You - XL Middleton Remix",
       "url": "https://open.spotify.com/track/0JC1eqLPqwpTxTVURfBI1R"
+    },
+    {
+      "album": {
+        "name": "Someone I'm Not",
+        "url": "https://open.spotify.com/album/6HifPPGrgndV3ByzBcpqex"
+      },
+      "artists": [
+        {
+          "name": "Viuta",
+          "url": "https://open.spotify.com/artist/2qnb90128C5mziYwX3uMu2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209918,
+      "name": "Someone I'm Not",
+      "url": "https://open.spotify.com/track/0pMkyL8HKpp20wQji3O8cp"
     },
     {
       "album": {

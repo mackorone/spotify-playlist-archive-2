@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fNieuwe tracks: Eves Laurent, Jack, Langa en Siggy & D1ns. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
+  "description": "\u2757\ufe0fNieuwe tracks: Jack, Mula en Bokoesam. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "ALLO",
+        "url": "https://open.spotify.com/album/5A9KEJqZ7hJ5wrH4wMqCn6"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146184,
+      "name": "ALLO",
+      "url": "https://open.spotify.com/track/0I4CcgAofvofr7dxx9pE25"
+    },
+    {
+      "album": {
         "name": "Alo",
         "url": "https://open.spotify.com/album/5nbMRLAWtDojQ5fMkAJ2M4"
       },
@@ -766,6 +784,28 @@
       "duration_ms": 154285,
       "name": "Alo",
       "url": "https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD"
+    },
+    {
+      "album": {
+        "name": "Capuchon",
+        "url": "https://open.spotify.com/album/5t6AEx7uqhIDtYJVGjgeBW"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        },
+        {
+          "name": "Cor",
+          "url": "https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Altijd Koud",
+      "url": "https://open.spotify.com/track/5jSmpZ510PLKS25uL17NqH"
     },
     {
       "album": {
@@ -4117,6 +4157,40 @@
     },
     {
       "album": {
+        "name": "Gun Me",
+        "url": "https://open.spotify.com/album/4WMNReftTwjeDbLllr3ZXX"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Gun Me",
+      "url": "https://open.spotify.com/track/4Aeb37AXzOxqP25gPREyQH"
+    },
+    {
+      "album": {
         "name": "H!GHEST FLEX",
         "url": "https://open.spotify.com/album/1ftpqyyglLvXtaEZpY8wEw"
       },
@@ -4392,7 +4466,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 146994,
       "name": "HEART",
       "url": "https://open.spotify.com/track/5MExgHwOCLbBARAv74OCOA"
@@ -6562,6 +6636,28 @@
       "duration_ms": 167704,
       "name": "Mashakil",
       "url": "https://open.spotify.com/track/6h0dya6yxt7gPkD9uHEq4y"
+    },
+    {
+      "album": {
+        "name": "Masker af",
+        "url": "https://open.spotify.com/album/1iz2s2yrTLFu47ql6IJM0K"
+      },
+      "artists": [
+        {
+          "name": "DIKKE",
+          "url": "https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4"
+        },
+        {
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115245,
+      "name": "Masker af",
+      "url": "https://open.spotify.com/track/1iiFznOfOQgAAKczP5bwFb"
     },
     {
       "album": {
@@ -9104,7 +9200,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155712,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/0dGARoOkRILNgAHwnVAO0F"
@@ -9196,7 +9292,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 139291,
       "name": "Scooter",
       "url": "https://open.spotify.com/track/3QXkAZ6QmLTQp5s1M9F6FJ"
@@ -9446,7 +9542,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157377,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB"
@@ -9896,6 +9992,28 @@
       "duration_ms": 122004,
       "name": "Supaa Amazing",
       "url": "https://open.spotify.com/track/30WOm7yTjeQUHCCGx1JVuC"
+    },
+    {
+      "album": {
+        "name": "De Stem van MERLOT",
+        "url": "https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy"
+      },
+      "artists": [
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        },
+        {
+          "name": "Jordymone9",
+          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "SUPERMARiO",
+      "url": "https://open.spotify.com/track/1pTQZDfbEGesppVnjCbKmF"
     },
     {
       "album": {
@@ -10602,7 +10720,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 189938,
       "name": "UPSIDE DOWN",
       "url": "https://open.spotify.com/track/51PUb9m5TTwn8m5CPvLT6Z"
@@ -11296,7 +11414,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 131052,
       "name": "Wayne Rooney",
       "url": "https://open.spotify.com/track/1uJdbQ7DSdrL7qsqTn6M3y"
@@ -11744,6 +11862,24 @@
       "duration_ms": 110833,
       "name": "Zei ze dat echt?",
       "url": "https://open.spotify.com/track/7ftsUWwdE9GOExT9lRJ1GJ"
+    },
+    {
+      "album": {
+        "name": "Zet Het",
+        "url": "https://open.spotify.com/album/5W5U9O7xvg8ot6O5msC231"
+      },
+      "artists": [
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126620,
+      "name": "Zet Het",
+      "url": "https://open.spotify.com/track/7scwK2eRedF2TFHkxastTx"
     },
     {
       "album": {

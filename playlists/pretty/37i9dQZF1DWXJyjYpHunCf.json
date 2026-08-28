@@ -1,13 +1,45 @@
 {
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Briston Maroney",
-  "num_followers": 954704,
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Jonah Kagen\n",
+  "num_followers": 954722,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMLZwxbzNN8i/a5JGVUactFQpvie",
+  "snapshot_id": "AAAAAOAchLsEyBjlreeDzqWQ6b61dvFb",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "Don't Feel Right",
+        "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Don't Feel Right",
+      "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
+    },
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
@@ -39,6 +71,154 @@
       "duration_ms": 239405,
       "name": "Even If You Are Not Mine",
       "url": "https://open.spotify.com/track/6IenqsSKtJLesI3w0oJZZz"
+    },
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+    },
+    {
+      "added_at": "2026-07-03 04:01:35",
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
+    },
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO"
+    },
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/1Ju744dXpBffHJ2NqcpEZk"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "duration_ms": 178424,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/61ng94Niz1ZJUhjMyGHyx8"
+    },
+    {
+      "added_at": "2026-07-17 04:01:16",
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
+    {
+      "added_at": "2026-07-03 04:01:35",
+      "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "WHAT AM I DOING?",
+        "url": "https://open.spotify.com/album/0nBmW52mTtee3G8zPSTZgO"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 163966,
+      "name": "WHAT AM I DOING?",
+      "url": "https://open.spotify.com/track/5MbIQfHUzea4zbsnsDueEL"
+    },
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/77Bno2Cix1P9rp07V0QUSv"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lima",
+          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
+        }
+      ],
+      "duration_ms": 200477,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/0WkgsnVnEqLmwxRACbAu2V"
+    },
+    {
+      "added_at": "2026-08-28 04:02:07",
+      "album": {
+        "name": "Call Home",
+        "url": "https://open.spotify.com/album/5QAjN1HhovIP8FJUOT0AuN"
+      },
+      "artists": [
+        {
+          "name": "Vwillz",
+          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
+        },
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Call Home",
+      "url": "https://open.spotify.com/track/0E8KC0cKuIdj9NjaDBooVc"
     },
     {
       "added_at": "2026-07-03 04:01:35",
@@ -77,36 +257,20 @@
       "url": "https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ"
     },
     {
-      "added_at": "2026-07-17 04:01:16",
+      "added_at": "2026-07-31 04:02:25",
       "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+        "name": "Time Left",
+        "url": "https://open.spotify.com/album/5yS560meEehcwhuW4v3gaF"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "Jonny Stanback",
+          "url": "https://open.spotify.com/artist/30Zr45NzyCJSBqb30thWsL"
         }
       ],
-      "duration_ms": 197032,
-      "name": "i deserve better.",
-      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Kingdom of Fear",
-        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "Kingdom of Fear",
-      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+      "duration_ms": 190363,
+      "name": "Pretty Damn Close",
+      "url": "https://open.spotify.com/track/1CDxpulUDPixtiRA8NldFL"
     },
     {
       "added_at": "2026-07-31 04:02:25",
@@ -187,22 +351,6 @@
       "duration_ms": 205436,
       "name": "Hard to Find",
       "url": "https://open.spotify.com/track/13cZ4NgkcjBeJ63YoWvNHI"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "The Great Divide: The Last Of The Bugs",
-        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 286967,
-      "name": "Orbiter",
-      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
     },
     {
       "added_at": "2026-08-21 04:01:18",
@@ -289,22 +437,6 @@
       "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
     },
     {
-      "added_at": "2026-07-31 04:02:25",
-      "album": {
-        "name": "Time Left",
-        "url": "https://open.spotify.com/album/5yS560meEehcwhuW4v3gaF"
-      },
-      "artists": [
-        {
-          "name": "Jonny Stanback",
-          "url": "https://open.spotify.com/artist/30Zr45NzyCJSBqb30thWsL"
-        }
-      ],
-      "duration_ms": 190363,
-      "name": "Pretty Damn Close",
-      "url": "https://open.spotify.com/track/1CDxpulUDPixtiRA8NldFL"
-    },
-    {
       "added_at": "2026-07-03 04:01:35",
       "album": {
         "name": "Forever Right Now",
@@ -319,22 +451,6 @@
       "duration_ms": 152064,
       "name": "Forever Right Now",
       "url": "https://open.spotify.com/track/0pjTGFaKhQ7X5JEp1YbN28"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "How do I relate to you?",
-        "url": "https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 164486,
-      "name": "Relate to you",
-      "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
     },
     {
       "added_at": "2026-07-03 04:01:35",
@@ -387,22 +503,6 @@
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
-        "name": "Bleeding Heart",
-        "url": "https://open.spotify.com/album/0IZDP6dDvobyhgpnQGAM6p"
-      },
-      "artists": [
-        {
-          "name": "Emma Andersen",
-          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
-        }
-      ],
-      "duration_ms": 197539,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/00tvkuuXnJogx9XjxvPqOP"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
         "name": "Leaver",
         "url": "https://open.spotify.com/album/0B2nJVXaVM23uex5TgnS17"
       },
@@ -415,22 +515,6 @@
       "duration_ms": 194764,
       "name": "Regretter",
       "url": "https://open.spotify.com/track/66wXwbAyFAB0O0sHRpjkX1"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
     },
     {
       "added_at": "2026-07-03 04:01:35",
@@ -1399,22 +1483,6 @@
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/75BeAq4oBNfn6g3zN8lwfE"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/4psl72FmlFg9y711X88aEL"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
         "name": "Somebody Nobody Gets Over",
         "url": "https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf"
       },
@@ -1535,22 +1603,6 @@
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "hometown",
-      "url": "https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
         "name": "Fair To You",
         "url": "https://open.spotify.com/album/6nXMgFLI7FcMiDR9OHnLaQ"
       },
@@ -1567,22 +1619,6 @@
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
-        "name": "This Life",
-        "url": "https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy"
-      },
-      "artists": [
-        {
-          "name": "Michael Sanzone",
-          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
-        }
-      ],
-      "duration_ms": 182507,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
         "name": "DON'T WANNA GO HOME",
         "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
       },
@@ -1595,42 +1631,6 @@
       "duration_ms": 133560,
       "name": "DON'T WANNA GO HOME",
       "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "THE LOWS",
-        "url": "https://open.spotify.com/album/1TrL87Zds3BQz7cnullLL1"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 190025,
-      "name": "THE LOWS",
-      "url": "https://open.spotify.com/track/79mpJRScxPAmlIXqGhb70I"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Don't Put It All On Me (feat. Fleet Foxes)",
-        "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Don't Put It All On Me (feat. Fleet Foxes)",
-      "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
     },
     {
       "added_at": "2026-07-03 04:01:35",

@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. Frezza in cover.
 
-643 songs - 1 day 4 hr 56 min
+644 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 | 2022-10-27 | 2023-04-21 |
 | [BLUE MONDAY](https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [BLUE MONDAY](https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl) | 2:36 | 2023-05-25 | 2023-07-07 |
 | [Boogie Woogie](https://open.spotify.com/track/6L61wR8tqb2Y3Xcr3HY5DS) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [ANDROGINO \(Deluxe\)](https://open.spotify.com/album/5lwDT8qhYUuGUSGZLn72gj) | 2:28 | 2025-08-07 | 2025-08-29 |
+| [Boss](https://open.spotify.com/track/0yWtSeNfVQaF8CCvRD2aZM) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Boss](https://open.spotify.com/album/7amDPWNunB9RQnHSiMIhxm) | 2:11 | 2026-08-27 |  |
 | [BRATZ](https://open.spotify.com/track/5I3FJAEbsA6wHrCoNb5fhs) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [BRATZ](https://open.spotify.com/album/2Uyn21YkIpQLeBAeWyZZfX) | 2:12 | 2025-06-05 |  |
 | [BRUMOTTI](https://open.spotify.com/track/0A9r5sCaK9134x7wqeOrgX) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 2:25 | 2025-07-17 |  |
 | [Bye Bye](https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Bye Bye](https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U) | 2:18 | 2022-05-10 | 2022-07-29 |
@@ -542,7 +543,7 @@
 | [Skin](https://open.spotify.com/track/5xj75TS7YbhrniUeOwGh2p) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [Skin](https://open.spotify.com/album/4yGzgY9coSIFTc9WlF0ZeZ) | 2:21 | 2024-05-16 | 2024-07-27 |
 | [Skincare \(feat\. Guè & Yung Snapp\)](https://open.spotify.com/track/5zT1c5TS9rgUh2hcdG9cY0) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 2:47 | 2024-11-07 | 2025-02-21 |
 | [Skyline](https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Skyline](https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl) | 2:17 | 2022-09-15 | 2022-10-28 |
-| [SMITH 'N' WESSON](https://open.spotify.com/track/5ZcwLwtRfs9x5kbRhFhaCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:20 | 2024-11-21 |  |
+| [SMITH 'N' WESSON](https://open.spotify.com/track/5ZcwLwtRfs9x5kbRhFhaCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:20 | 2024-11-21 | 2026-08-28 |
 | [Smokin' Hot \- Feat\. Mooncler](https://open.spotify.com/track/3e46BzVsokW2rljCKPViG8) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [Smokin' Hot \(Feat\. Mooncler\)](https://open.spotify.com/album/5vkt5Cp1QPUXKd46n4vjjh) | 2:05 | 2024-02-29 | 2024-03-08 |
 | [So Fresh So Clean \(feat\. Vale Lambo\)](https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:00 | 2022-05-26 | 2022-07-22 |
 | [So' modelle](https://open.spotify.com/track/0LkhmgypJYiRMU6NC3lrAl) | [Awhon](https://open.spotify.com/artist/2dftGrrSw0rHzZOizviG0G) | [So' modelle](https://open.spotify.com/album/2UBHfDmK9TKkdeblSJFhYQ) | 2:14 | 2022-11-18 | 2023-02-09 |

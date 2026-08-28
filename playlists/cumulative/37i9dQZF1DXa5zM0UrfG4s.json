@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 166297,
       "name": "En gammal Amazon",
       "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
@@ -4312,6 +4312,28 @@
       "duration_ms": 233154,
       "name": "Hva skjedde n\u00e5?",
       "url": "https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej"
+    },
+    {
+      "album": {
+        "name": "Hvem faen tar en? (feat. Petter Baarli)",
+        "url": "https://open.spotify.com/album/2GurlgGhZL8f1auP7mlzXs"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        },
+        {
+          "name": "Petter Baarli",
+          "url": "https://open.spotify.com/artist/2LDcqNGv6FdJATvsek03Lp"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Hvem faen tar en? (feat. Petter Baarli)",
+      "url": "https://open.spotify.com/track/2eAugJaUoCtxeiFZQN3Vlw"
     },
     {
       "album": {
@@ -6562,7 +6584,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 204336,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
@@ -7188,6 +7210,24 @@
       "duration_ms": 167040,
       "name": "REDL\u00d6S",
       "url": "https://open.spotify.com/track/75mZ7bYRxnXKLYEfxsWg4U"
+    },
+    {
+      "album": {
+        "name": "Reise herifr\u00e5",
+        "url": "https://open.spotify.com/album/2zIyTWmQq64YUEsGDreQX4"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Reise herifr\u00e5",
+      "url": "https://open.spotify.com/track/0fRUwWOgIYB3yRT0VvXFkZ"
     },
     {
       "album": {
@@ -8222,7 +8262,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180720,
       "name": "S\u00e5 full eg ringe",
       "url": "https://open.spotify.com/track/5wUWIGWMsAi2krZqRdCkNm"

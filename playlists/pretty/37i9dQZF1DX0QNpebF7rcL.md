@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,335 likes - 101 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,380 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [They Don’t Make ’Em Like They Used to \(feat\. Take 6\)](https://open.spotify.com/track/4jLOt63posrIQXjap1muX3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [The Breakdown](https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM) | 4:42 |
-| 2 | [Traveling Riverside Blues](https://open.spotify.com/track/1q6a5AZllhZb7jIM7ToThW) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Mark Yacovone](https://open.spotify.com/artist/7CJGPqQhhAbOVVmhiJMPh4), [Ground Zero Blues Club Band](https://open.spotify.com/artist/03hSW2Ru3hyb1bADhUZYgT), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls), [Martin Gellner](https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR) | [Morgan Freeman's Symphonic Blues Experience](https://open.spotify.com/album/2pCUARTi6tBF0hMZtTz5ox) | 3:41 |
-| 3 | [Whole Lot Coming For You](https://open.spotify.com/track/7C56tIFtfPQbkaFPcYVweF) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Whole Lot Coming For You](https://open.spotify.com/album/3eI8CzsSKxTbW2NC1mUu5m) | 2:53 |
-| 4 | [Homeless](https://open.spotify.com/track/6WcWBarVaLWRR0PtASCdV2) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Homeless](https://open.spotify.com/album/7bVZAyerNqPFWxOJsYU8NX) | 3:57 |
-| 5 | [Tangled](https://open.spotify.com/track/4qZ9hEAVbeTAt3oNXDhs9O) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Tangled](https://open.spotify.com/album/0HQDRy8vbeapUnpqSfbq9p) | 4:14 |
+| 1 | [Yes](https://open.spotify.com/track/7gcP4n7Rqy4n2qFKpWu2bc) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Just Say Yes](https://open.spotify.com/album/4llPdQko8nRGK12QcHWs3N) | 4:07 |
+| 2 | [They Don’t Make ’Em Like They Used to \(feat\. Take 6\)](https://open.spotify.com/track/4jLOt63posrIQXjap1muX3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [The Breakdown](https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM) | 4:42 |
+| 3 | [Traveling Riverside Blues](https://open.spotify.com/track/1q6a5AZllhZb7jIM7ToThW) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Mark Yacovone](https://open.spotify.com/artist/7CJGPqQhhAbOVVmhiJMPh4), [Ground Zero Blues Club Band](https://open.spotify.com/artist/03hSW2Ru3hyb1bADhUZYgT), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls), [Martin Gellner](https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR) | [Morgan Freeman's Symphonic Blues Experience](https://open.spotify.com/album/2pCUARTi6tBF0hMZtTz5ox) | 3:41 |
+| 4 | [Whole Lot Coming For You](https://open.spotify.com/track/7C56tIFtfPQbkaFPcYVweF) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Whole Lot Coming For You](https://open.spotify.com/album/3eI8CzsSKxTbW2NC1mUu5m) | 2:53 |
+| 5 | [Homeless](https://open.spotify.com/track/6WcWBarVaLWRR0PtASCdV2) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Homeless](https://open.spotify.com/album/7bVZAyerNqPFWxOJsYU8NX) | 3:57 |
 | 6 | [Live Your Time](https://open.spotify.com/track/1fhP9kSniJqlSQl4xfRgq6) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Live Your Time](https://open.spotify.com/album/606k6pqLiEi6a8icCT8rf7) | 3:06 |
 | 7 | [Bad Reputation Blues](https://open.spotify.com/track/0IqQXIJ5QJVe9YjIYorlS4) | [Chris Tapp](https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN), [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Bad Reputation Blues](https://open.spotify.com/album/4FNaDWrG2O2bf0jEaV48WC) | 3:23 |
 | 8 | [When The Coin Came Callin'](https://open.spotify.com/track/3hyTIlz6yEKm4JJhlBxoGW) | [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Grits & Glory](https://open.spotify.com/album/1jQbijOk9xDeZvAhcUFon1) | 3:33 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 100 | [Come To Find Out](https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Chasing The Sun](https://open.spotify.com/album/3DYC4feYRD2asF8Hndk5E2) | 5:03 |
 | 101 | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 |
 
-Snapshot ID: `AAAAAMaExFrTSybK7IuxetQ5OzW9ouu2`
+Snapshot ID: `AAAAAIfMLqFCRemuUCCME0AzOSaOJQO/`

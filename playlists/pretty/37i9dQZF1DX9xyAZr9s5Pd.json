@@ -1,13 +1,45 @@
 {
-  "description": "\u00a1Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia",
-  "num_followers": 27270,
+  "description": "\u00a1Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Nezzah",
+  "num_followers": 27278,
   "original_name": "Indie Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEG9h3ZjvrjkO5dF2ZqFeSVb6MZ7",
+  "snapshot_id": "AAAAAMOXsrVyWVXZ2kHSz2AB+GtxoYuA",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:59:16",
+      "album": {
+        "name": "Las Notas Ser\u00e1n Besos",
+        "url": "https://open.spotify.com/album/4rEGPL1WSJCJn2ukxiNMw9"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        }
+      ],
+      "duration_ms": 172432,
+      "name": "Las Notas Ser\u00e1n Besos",
+      "url": "https://open.spotify.com/track/5DqzMGW2RiwZkSTOq99K8q"
+    },
+    {
+      "added_at": "2026-08-21 04:59:15",
+      "album": {
+        "name": "Ando (bye, ya me voy\u2026)",
+        "url": "https://open.spotify.com/album/13fYNWj8sbBb89e0xbMi1f"
+      },
+      "artists": [
+        {
+          "name": "Emyl Rusev",
+          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "Ando (bye, ya me voy\u2026)",
+      "url": "https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc"
+    },
     {
       "added_at": "2026-03-06 04:59:28",
       "album": {
@@ -39,22 +71,6 @@
       "duration_ms": 170056,
       "name": "Apartamento",
       "url": "https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds"
-    },
-    {
-      "added_at": "2026-08-21 04:59:15",
-      "album": {
-        "name": "Ando (bye, ya me voy\u2026)",
-        "url": "https://open.spotify.com/album/13fYNWj8sbBb89e0xbMi1f"
-      },
-      "artists": [
-        {
-          "name": "Emyl Rusev",
-          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Ando (bye, ya me voy\u2026)",
-      "url": "https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc"
     },
     {
       "added_at": "2026-05-22 04:59:42",

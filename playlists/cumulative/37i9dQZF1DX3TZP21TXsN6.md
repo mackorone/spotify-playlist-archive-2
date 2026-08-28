@@ -2,9 +2,9 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Jc, Romano Santino, BDLC en meer..
+> Manio, ENDS, DJK en meer…
 
-713 songs - 1 day 6 hr 39 min
+717 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [FATBIK](https://open.spotify.com/track/3t6Xr0PXqrkvuaxtys7SEa) | [Deppie](https://open.spotify.com/artist/63NP9fFNPIMmCCvSkS5eNj), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [FATBIK](https://open.spotify.com/album/0tsUY9PoLviETLyaYj7TTc) | 2:22 | 2025-11-20 | 2025-12-12 |
 | [Fatigué](https://open.spotify.com/track/4DiDLuE1RF7RYvLaBamtsE) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Fatigué](https://open.spotify.com/album/3WTZtM9ZrBbSjv3BYmQuPj) | 1:49 | 2026-05-28 | 2026-07-17 |
 | [FCK IT UP](https://open.spotify.com/track/0ySyl6wtLliJXqr5jBn2eU) | [Yung Papitos](https://open.spotify.com/artist/6dhoaoXwevhtauSmhDNkyX), [MC Lost](https://open.spotify.com/artist/3Tw31Sa6vnZHiyo4P39eQ5), [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go) | [FCK IT UP](https://open.spotify.com/album/51oYbFWAzfHTwGilc1Ip7o) | 2:21 | 2026-06-25 |  |
+| [Feds](https://open.spotify.com/track/3enT5lxDQxYMXuUzi0wz8C) | [Manio](https://open.spotify.com/artist/0WHCUAZSpyxMxMjF5qTtx8), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Feds](https://open.spotify.com/album/1QBVLdaLSlCIhnGTZmspb7) | 2:02 | 2026-08-27 |  |
 | [FEEG LEGIJK](https://open.spotify.com/track/1Ls0ikzMsdLUrXF7DYYx52) | [YB YB](https://open.spotify.com/artist/0BTt9oHCLaKlU9bK5gBqiR) | [FEEG LEGIJK](https://open.spotify.com/album/3pMWuTcZXTHX6WxlIjunOU) | 2:02 | 2025-11-27 | 2025-12-12 |
 | [Ferillis](https://open.spotify.com/track/7hbkeJXjNYwtvumREs7r7P) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Ferillis](https://open.spotify.com/album/2n20khJ5HMB2B7xEKgyiu9) | 1:57 | 2026-02-12 | 2026-03-27 |
 | [Fetty Wap](https://open.spotify.com/track/2jBxhanhlRzfYrqgPx4sxi) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Fetty Wap](https://open.spotify.com/album/1B1wHPS1h8wQM2M44Z4KmZ) | 2:30 | 2025-10-02 | 2025-11-07 |
@@ -425,6 +426,7 @@
 | [Mijn Meisje](https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [BNT Vol\. 1](https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE) | 2:33 | 2026-01-29 | 2026-02-06 |
 | [Mijn Moment](https://open.spotify.com/track/4ilkM2AihcyVe1MGlwzcxI) | [Marou](https://open.spotify.com/artist/6XKHfRztUtj98C92TgOr41) | [Mijn Moment](https://open.spotify.com/album/3DLbg6WnfQwDbyK3DwDZFI) | 3:01 | 2025-10-09 | 2025-11-21 |
 | [Millie](https://open.spotify.com/track/2MVDfx1jaCm8BGcR4QSMcD) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Millie](https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy) | 2:36 | 2025-11-20 | 2026-01-15 |
+| [Million Ways](https://open.spotify.com/track/1H22wMcjBmyZfiXFoluo0m) | [DJK](https://open.spotify.com/artist/770XrF16aAOwPaYMqMJ6bm) | [Million Ways](https://open.spotify.com/album/1PlzkOFgKk5WDolYIOSygG) | 1:56 | 2026-08-27 |  |
 | [Millionaire](https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey) | [LILO](https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millionaire](https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW) | 2:36 | 2025-11-13 | 2026-01-15 |
 | [Minimaal](https://open.spotify.com/track/1S1cjiIxxgSzpxlUeZrm8L) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Minimaal](https://open.spotify.com/album/24RKfzm8uBP62RhuuEVO3h) | 2:29 | 2026-05-14 | 2026-07-17 |
 | [Minimaal 5m](https://open.spotify.com/track/6Uh96Ysg3UNteyZQejyZpo) | [Lavinnio](https://open.spotify.com/artist/4iJcUwlYdqkwZNVEiCJAYt), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy) | [Minimaal 5m](https://open.spotify.com/album/32exJzhormqKITdYBX2U3E) | 2:52 | 2025-10-09 | 2025-11-21 |
@@ -482,6 +484,7 @@
 | [Normaal](https://open.spotify.com/track/7kHMmH3JteGTECU97dT4zZ) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV) | [Normaal](https://open.spotify.com/album/1dyv1QvKJwG0hO25rwwcH9) | 2:08 | 2026-05-21 | 2026-07-17 |
 | [NOS \(feat\. Louis Pedro\)](https://open.spotify.com/track/1jT2WIBLtT8X4uZsUYn6oK) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9), [Louis Pedro](https://open.spotify.com/artist/665UlaIvmBZMaVdl3mcMpt) | [NOS \(feat\. Louis Pedro\)](https://open.spotify.com/album/4MDNeubT7tDnAqSULvxOFz) | 2:20 | 2026-05-28 | 2026-07-17 |
 | [Nun 2 Prove](https://open.spotify.com/track/39qbvnwgoMaZAlW0H2dosg) | [NTT](https://open.spotify.com/artist/2aiK06FSZV8lWst1q1LKYQ), [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD) | [Nun 2 Prove](https://open.spotify.com/album/2ug6dqw6bwnJ7e7bSMnPmr) | 2:45 | 2026-01-29 | 2026-03-13 |
+| [Offline](https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM) | [ENDS](https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu), [Willybeatsz](https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p) | [Offline](https://open.spotify.com/album/0rCKeKhHd2PxT7t6WskOwB) | 1:55 | 2026-08-27 |  |
 | [Ofzo](https://open.spotify.com/track/6iDg9jyqam3WC6znZnZHtO) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [BNT Vol\. 1](https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE) | 2:22 | 2026-02-02 | 2026-03-13 |
 | [OGEN](https://open.spotify.com/track/1yn5wnbpgHZn75fkzgyESg) | [YGN KAMII](https://open.spotify.com/artist/4iMfjEfzdvY95eaxEAPar5), [Levi](https://open.spotify.com/artist/0grTUHdMZK7c9ruwhEAj4B) | [OGEN](https://open.spotify.com/album/1caG65QqjDaPHnTbU7ePm2) | 2:28 | 2026-06-18 | 2026-07-17 |
 | [Oh Damn](https://open.spotify.com/track/0wFSMz19jZtriXJOH4RH7W) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Oh Damn](https://open.spotify.com/album/1Z5G8vtHA6A2ks4Xdo1EcJ) | 2:18 | 2026-01-15 | 2026-02-20 |
@@ -704,6 +707,7 @@
 | [WWJD?](https://open.spotify.com/track/7gUIaQmO5Qd95Qs5AyuaYR) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE) | [WWJD?](https://open.spotify.com/album/3HF6zschFOLt0GrZGZ0NR9) | 2:16 | 2026-05-28 | 2026-08-15 |
 | [Yade Lauren](https://open.spotify.com/track/69ht6FNdOsRVTqKh0O0Iia) | [Jezz](https://open.spotify.com/artist/6zWmVW0Cn33S8IP0bw1JNJ) | [Yade Lauren](https://open.spotify.com/album/3d01JLmrEfwcTMoe5YaizH) | 2:00 | 2025-08-28 | 2025-09-26 |
 | [Yellow Stone](https://open.spotify.com/track/3Ccg18pGMSRh8W9hIVJ5aC) | [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU) | [Yellow Stone](https://open.spotify.com/album/0syF9d9pvP1T7z4DcY1R5R) | 2:26 | 2026-07-02 |  |
+| [YENKO](https://open.spotify.com/track/23Xd7RqTBt0LypahS7cRSP) | [Manio](https://open.spotify.com/artist/0WHCUAZSpyxMxMjF5qTtx8), [Dimmadims](https://open.spotify.com/artist/1AlHf9CIbtcxObnaToD1NC), [Devv Tenkay](https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5), [Kaijoeyy](https://open.spotify.com/artist/5Ibp4CHqfwCHUgpdKVHbZN) | [2C4B](https://open.spotify.com/album/4rdIwNTR0uZhNxfZKKRxdl) | 2:28 | 2026-08-27 |  |
 | [YES](https://open.spotify.com/track/5KfBJk28uTskDSe9Y6Y2BT) | [Dimmadims](https://open.spotify.com/artist/1AlHf9CIbtcxObnaToD1NC) | [YES](https://open.spotify.com/album/6PWoaWLr9Sdnb8ioZMe6XF) | 2:00 | 2026-04-09 | 2026-05-26 |
 | [Yusu](https://open.spotify.com/track/13LmE9mWU4T3GDUaQnhafs) | [Tamika Naomi](https://open.spotify.com/artist/2n1mMxsGOKnQ19vNJmoBW1) | [Yusu](https://open.spotify.com/album/2iCp4w7ubcdI3OyfdlODbr) | 2:45 | 2025-07-17 | 2025-08-15 |
 | [Ze Zeggen](https://open.spotify.com/track/3ubhnVdqf9T0RxMbbIRz3r) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb) | [Ze Zeggen](https://open.spotify.com/album/6iokToFfRT3G03piaXiLbf) | 2:28 | 2026-07-30 |  |

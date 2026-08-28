@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-358 songs - 19 hr 4 min
+361 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,8 @@
 | [Penumbra](https://open.spotify.com/track/1mYvQvMzQ8kyZ849kl7ddZ) | [Marta Cascales Alimbau](https://open.spotify.com/artist/5xXWh6pIT6H8NzENvUU9HN) | [Penumbra](https://open.spotify.com/album/2Hz5r0NbyjGT2H7VGyX5Vb) | 3:32 | 2025-03-26 |  |
 | [Playful \(variation\)](https://open.spotify.com/track/1I4cxChIWYjvltRLmCkSzS) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Playful \(variation\)](https://open.spotify.com/album/6fvp2YRouRDaQ1zHilukLA) | 3:17 | 2021-12-10 | 2025-03-27 |
 | [Playful \(variation\)](https://open.spotify.com/track/2vrY8qX7KWe8RGNQYLVix5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:17 | 2022-07-22 | 2024-04-19 |
+| [Poco Allegretto \(after Brahms\) \- Memories of a Symphony](https://open.spotify.com/track/1ikKKTO0Hr7XVkTP79s0gb) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Poco Allegretto \(after Brahms\) \- Memories of a Symphony](https://open.spotify.com/album/61o2xJRfCMVmEZIL2BbeO6) | 2:26 | 2026-08-28 |  |
+| [Portrait in Blue](https://open.spotify.com/track/23ShBU4Oyiknb2TqNSdwca) | [Gabriel Albuquerqüe](https://open.spotify.com/artist/2oA6iL2R3RUkHcmnC091P0), [Olexandr Ignatov](https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG) | [Portrait in Blue](https://open.spotify.com/album/016PuBM5FcC5JSSxL2LgHs) | 2:08 | 2026-08-28 |  |
 | [Prinsengracht](https://open.spotify.com/track/5X87KWuJMMu4mDRZKjWQnu) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Prinsengracht](https://open.spotify.com/album/46yAo5yaB2YU3VP2lCHiMK) | 1:54 | 2025-05-16 |  |
 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 | 2021-12-10 | 2025-05-17 |
 | [Pssst!](https://open.spotify.com/track/3A7x2fHEeuaNWDgoSgNsd8) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Schlafen](https://open.spotify.com/album/3oXSYZ0SMvcgvhTuWrgxEw) | 4:08 | 2021-12-10 | 2023-01-04 |
@@ -279,6 +281,7 @@
 | [saman](https://open.spotify.com/track/7iiOQHrIPuafVip6E9hIqZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [saman](https://open.spotify.com/album/4vBnwCup5n0lu4I8Az6lrS) | 2:11 | 2021-12-10 | 2025-03-27 |
 | [SCORPIO “The Mysterious”](https://open.spotify.com/track/5C5QA7wrrJguvgycFvTTia) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [SCORPIO “The Mysterious”](https://open.spotify.com/album/3hzc1uMqhq3HwYaQAY4hBb) | 3:14 | 2024-12-24 |  |
 | [Seasons Change](https://open.spotify.com/track/0izNvQzx7PGkgDFRypvjjt) | [George Hart](https://open.spotify.com/artist/6OxbaDDKrLN3DgWrl4JHS6) | [Seasons Change](https://open.spotify.com/album/4yrMoHNJp03d7pe7xQsi0K) | 2:00 | 2025-05-16 |  |
+| [she \(still\) \- solo piano](https://open.spotify.com/track/2xTZYeS9Rx54c1Zhe2tYEw) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [she \(still\)](https://open.spotify.com/album/5LgIZnYLK6WJTyjiN90a9M) | 2:16 | 2026-08-28 |  |
 | [Shimmerlight](https://open.spotify.com/track/2v1VwEQVjJxapFMKh71liq) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Shimmerlight](https://open.spotify.com/album/5G36D2m8UUQzpNMkmDcZUr) | 1:59 | 2025-05-23 |  |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-10 | 2023-01-04 |
 | [Silent Fields \- Upright Version](https://open.spotify.com/track/37HHQF6PxPmumZWsaxvtg1) | [Justus Eichhorn](https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY) | [Eichhorn: Silent Fields \(Upright Version\)](https://open.spotify.com/album/7qZ6kPUGniTnP4icsbT4zr) | 2:57 | 2026-07-31 |  |

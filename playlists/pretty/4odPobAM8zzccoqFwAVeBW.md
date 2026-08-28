@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 
 > Check out our latest Cargo digital distributed tracks! Updated weekly
 
-[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 640 likes - 80 songs - 7 hr 7 min
+[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 640 likes - 87 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,12 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 | 78 | [Factors Of Eight](https://open.spotify.com/track/7fb1EDdaYuWt18vQzrNZkH) | [Fupper](https://open.spotify.com/artist/6zVKUj1dH2xdKH9TpQZtav) | [Factors Of Eight](https://open.spotify.com/album/36kfqT6wN4IoDRr8cV4NB7) | 4:46 |
 | 79 | [Earth Song](https://open.spotify.com/track/2ShEyBFPKNW4ACwIFzvaUk) | [Ken Ueno](https://open.spotify.com/artist/1qXJ8mLxmIVUJbDOhT9vKW), [Wukir Suryadi](https://open.spotify.com/artist/58SljsWsn1SnpBcuAO12k1) | [Earth Song](https://open.spotify.com/album/1lsXXhSsynY9En7OALgEkn) | 59:03 |
 | 80 | [That Pale Lantern](https://open.spotify.com/track/0DBEQkXbw4wmleQlmYeoXU) | [John Hassall & The April Rainers](https://open.spotify.com/artist/3f8gYJ4wHhuPp6DlDSjOjy) | [John Hassall & The April Rainers](https://open.spotify.com/album/0Qz9icEbaLgXVKi1jK9Fx9) | 3:03 |
+| 81 | [Memory](https://open.spotify.com/track/2zlwaE3XqOkNAam42AZnBc) | [Laughter](https://open.spotify.com/artist/5zEmgwhR5Rha4crl1jW8HQ) | [Slime](https://open.spotify.com/album/63prNQIV0b0ZQsk1wG8dT0) | 2:18 |
+| 82 | [Cracks They Show](https://open.spotify.com/track/4vUE41Wu9mxu9huREAAsoL) | [Rat Cage](https://open.spotify.com/artist/3cL7KGXKM6HIest6nV0ZQK) | [Not Asking for Much](https://open.spotify.com/album/7kuaZ8QgFbTcATvb7zFjoK) | 2:57 |
+| 83 | [Risk Factor](https://open.spotify.com/track/4DxXINomctOpvNiqHDJHxn) | [Nekra](https://open.spotify.com/artist/58m7ayz4XwscODlKampXsw) | [Is It Really Living?](https://open.spotify.com/album/006bY9ekXV3y3HCFWVE04z) | 2:41 |
+| 84 | [Time Out](https://open.spotify.com/track/0mknb4LSg5Es50uDxPj2Ry) | [Starkey](https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK) | [Time Out](https://open.spotify.com/album/0HhF9CYk6418VxHXtH4eIN) | 5:38 |
+| 85 | [The Easy Eight](https://open.spotify.com/track/6HU9sWTk8u6i9QMfmajbky) | [The Easy Eight](https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo) | [The Easy Way Out](https://open.spotify.com/album/5719mCTwbdE3MbikXLuDMF) | 1:55 |
+| 86 | [Journey Beyond Death](https://open.spotify.com/track/71if5BAJHJDbqe9nWVwIJD) | [Unholy Redeemer](https://open.spotify.com/artist/68smJHSK2BRtfCjr7LeNt3) | [Journey Beyond Death](https://open.spotify.com/album/1js58hgLUAxlUhrgw3Tb5R) | 5:03 |
+| 87 | [White Clouds for Thousands of Miles](https://open.spotify.com/track/12DeBjN514EKPWbb5p26EN) | [Drew Gardner](https://open.spotify.com/artist/3JJqmB6SOGhTFEJPYSELgL) | [White Clouds for Thousands of Miles](https://open.spotify.com/album/6PIWtbdc3WPqrSox5Jx6aI) | 15:25 |
 
-Snapshot ID: `AABNu4FWbgg1euwMpS6nJ9rmqOS/hCTe`
+Snapshot ID: `AABNwrVzJeMp5/MpZKb9H9Ycsucegjz6`

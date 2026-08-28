@@ -1,13 +1,29 @@
 {
   "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium.",
-  "num_followers": 3386,
+  "num_followers": 3424,
   "original_name": "Kids Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkvo6hAry7fXG1LSSK5+iZ4iIEs",
+  "snapshot_id": "AAAAAGoV2cSdoDH/zpOqG+d+pqjYKQ2C",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:00:58",
+      "album": {
+        "name": "Everybody Celebrate",
+        "url": "https://open.spotify.com/album/0Br7GhLMD0H1FQtT9vUJIv"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Everybody Celebrate",
+      "url": "https://open.spotify.com/track/3xjW7CDh9Mvzq2Ve5l3lhS"
+    },
     {
       "added_at": "2026-08-07 04:00:57",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Juanpa Salazar \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Bohemio y Yng Lucas \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 224785,
       "name": "29:11",
       "url": "https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 202613,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/173OE8GbX0Q7HNVTQep4uS"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 195580,
       "name": "Agua Y Aceite",
       "url": "https://open.spotify.com/track/7JK4XXntoq78YKlas1Tqjx"
@@ -4072,7 +4072,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168234,
       "name": "Black Hat GZR",
       "url": "https://open.spotify.com/track/1WCPT1bF1rHd0pA9gYaRVq"
@@ -5460,7 +5460,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197485,
       "name": "Chanza",
       "url": "https://open.spotify.com/track/3MVcDjWjWVmaxNLfHqcm6G"
@@ -13156,7 +13156,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 134181,
       "name": "FERRARI",
       "url": "https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW"
@@ -13348,7 +13348,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 210260,
       "name": "Flicka",
       "url": "https://open.spotify.com/track/7qRV8RjurS5tMLbFprMuGH"
@@ -14770,6 +14770,28 @@
       "duration_ms": 159933,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m"
+    },
+    {
+      "album": {
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153745,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
     },
     {
       "album": {
@@ -17792,7 +17814,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155612,
       "name": "LO QUE QUIERAS DARME",
       "url": "https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53"
@@ -18750,7 +18772,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 151874,
       "name": "Mal De La Cabeza",
       "url": "https://open.spotify.com/track/1fPT4Z3jCcDxatn1OtPx70"
@@ -20674,7 +20696,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180415,
       "name": "Mi Todo Que Dar",
       "url": "https://open.spotify.com/track/10S72dKdPOOn7tWWUo4Mte"
@@ -21691,6 +21713,28 @@
     },
     {
       "album": {
+        "name": "Morrillo",
+        "url": "https://open.spotify.com/album/7rUEHmenWGCAYXDvC9ZEeT"
+      },
+      "artists": [
+        {
+          "name": "Yadir Torres",
+          "url": "https://open.spotify.com/artist/5BI7hVOCOQ2uuQf73NYGKZ"
+        },
+        {
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134808,
+      "name": "Morrillo",
+      "url": "https://open.spotify.com/track/0URiAI6CeHITFzLQaxUXBg"
+    },
+    {
+      "album": {
         "name": "Morro",
         "url": "https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K"
       },
@@ -22656,7 +22700,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213512,
       "name": "ni\u00f1a de CASA",
       "url": "https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu"
@@ -24912,7 +24956,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 156256,
       "name": "PANIKI",
       "url": "https://open.spotify.com/track/0fF5mK8NIiMOehvmg0Xqq9"
@@ -26824,7 +26868,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 204696,
       "name": "P\u00e1senla Bien",
       "url": "https://open.spotify.com/track/5RkfM28bk7ATeaBTwOBsDZ"
@@ -28148,6 +28192,28 @@
       "duration_ms": 166282,
       "name": "REPEAT",
       "url": "https://open.spotify.com/track/5gACvUnTFFFmKYMHMoVrGO"
+    },
+    {
+      "album": {
+        "name": "Repetimos",
+        "url": "https://open.spotify.com/album/7KxkbZmg6Vgb9qw6PWN2wQ"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212258,
+      "name": "Repetimos",
+      "url": "https://open.spotify.com/track/76ygErvy3Y0YwhLbbB6MvZ"
     },
     {
       "album": {
@@ -33614,7 +33680,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 203276,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
@@ -35394,6 +35460,24 @@
       "duration_ms": 234928,
       "name": "YRUZ",
       "url": "https://open.spotify.com/track/6NjXu49e6voDYvt1i4n4lk"
+    },
+    {
+      "album": {
+        "name": "YUANFEN",
+        "url": "https://open.spotify.com/album/4bKJDVogjI59jxSyJDW1NU"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178919,
+      "name": "YUANFEN",
+      "url": "https://open.spotify.com/track/6xXq5T9UCMdAobtSLm5sGG"
     },
     {
       "album": {

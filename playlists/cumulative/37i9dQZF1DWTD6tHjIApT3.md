@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 家入レオ
 
-3,864 songs - 10 day 5 hr 51 min
+3,865 songs - 10 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Gitai](https://open.spotify.com/track/10UqUYADXNPn7ycjvH2R6A) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [Gitai](https://open.spotify.com/album/0COJzOjpXjcBhQPZFgiRUx) | 3:02 | 2024-02-06 | 2024-02-14 |
 | [Give in](https://open.spotify.com/track/7qmM6bOZe3f3QzRvc5p0pT) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Give in](https://open.spotify.com/album/3LZqLkC948fJlfUv3eiK8H) | 4:06 | 2025-10-14 | 2025-10-22 |
 | [Glitch\*](https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Glitch\*](https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7) | 2:43 | 2026-03-31 | 2026-07-28 |
-| [Glitter Glide \- From "Stitch and Angel's Pop Star Party"/Japanese Version](https://open.spotify.com/track/35dupqlMFz5LtrkPfjXq5r) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"/Japanese Version\)](https://open.spotify.com/album/50upgjiv1doJrSi4U5da3Y) | 2:22 | 2026-08-04 |  |
+| [Glitter Glide \- From "Stitch and Angel's Pop Star Party"/Japanese Version](https://open.spotify.com/track/35dupqlMFz5LtrkPfjXq5r) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"/Japanese Version\)](https://open.spotify.com/album/50upgjiv1doJrSi4U5da3Y) | 2:22 | 2026-08-04 | 2026-08-28 |
 | [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-03-29 |
 | [Go Round feat.Daoko](https://open.spotify.com/track/7BSLbYEo3dZAFSRzpJqT3X) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y), [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [Homecoming](https://open.spotify.com/album/1DifKQp5ypPbb6xxpWsG1R) | 3:07 | 2025-09-16 | 2025-09-24 |
@@ -1677,6 +1677,7 @@
 | [Seventeen](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 | 2024-04-16 | 2024-07-13 |
 | [SEVENTH HEAVEN](https://open.spotify.com/track/6YK1jSYfYeUZybhXRnPKna) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 3:57 | 2022-05-29 | 2023-07-07 |
 | [Shadow Dance \- Prod\. MONDO GROSSO](https://open.spotify.com/track/7DMaLKXvfctMtkInTv05gL) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [Shadow Dance \(Prod\. MONDO GROSSO\)](https://open.spotify.com/album/2W8hYEwCHNGiUO01hIaHJ5) | 3:42 | 2023-08-08 | 2023-09-27 |
+| [Shadow Memory](https://open.spotify.com/track/4kvUC1OAvOPFjDZRF7etPN) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Shadow Memory](https://open.spotify.com/album/3bbvjPGgDD1p0pgoPEiYnQ) | 3:27 | 2026-08-25 |  |
 | [Shadows](https://open.spotify.com/track/0JlGsNUKNFpgga7TNM9Tgb) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Shadows](https://open.spotify.com/album/0P0YeSfK7e1GQyKlUMoBTM) | 3:54 | 2023-04-11 | 2023-04-19 |
 | [Shakunetsu](https://open.spotify.com/track/3TAh4W0UUVumuTLeAkYI70) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [Stupid Kozo](https://open.spotify.com/artist/3f012UB1Piib4r7kKfixDF), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Shakunetsu](https://open.spotify.com/album/1jspmxyL6zGY2czap5vk4s) | 2:50 | 2025-07-22 | 2025-08-20 |
 | [Shaky](https://open.spotify.com/track/1x7mMdiOrQlq0pjiqty68O) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 3:38 | 2025-12-16 | 2025-12-24 |

@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 152369,
       "name": "Go together.",
       "url": "https://open.spotify.com/track/0gmKaocfYGg1wq7fdURfas"
@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 94085,
       "name": "nine thirty (the glow)",
       "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
@@ -4471,6 +4471,24 @@
     },
     {
       "album": {
+        "name": "Sunday Morning Grease",
+        "url": "https://open.spotify.com/album/3Go9My997GOqY8UI47d0iE"
+      },
+      "artists": [
+        {
+          "name": "Soul Groove (UK)",
+          "url": "https://open.spotify.com/artist/1gzS3GxhP1GtkceSAwPhmU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330240,
+      "name": "Sunday Morning Grease",
+      "url": "https://open.spotify.com/track/3RpXPxrRRYZpKlPCTIxgBH"
+    },
+    {
+      "album": {
         "name": "Sundials EP",
         "url": "https://open.spotify.com/album/2gUTGkvfNNYhojlNAtGm29"
       },
@@ -5280,6 +5298,24 @@
       "duration_ms": 144250,
       "name": "Where are our voices.",
       "url": "https://open.spotify.com/track/20QuH7i9VEeBw9DpPvoCCA"
+    },
+    {
+      "album": {
+        "name": "Who you really are.",
+        "url": "https://open.spotify.com/album/65M2XC0TOKe2goDmaepIUN"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134051,
+      "name": "Where to.",
+      "url": "https://open.spotify.com/track/0YSkkL3kKYYFG8C8tvpuOn"
     },
     {
       "album": {

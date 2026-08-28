@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-262 songs - 1 day 4 hr 48 min
+264 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blessings \(feat\. Nontokozo Mkhize\)](https://open.spotify.com/track/2Q04f7HbmxalpjfrPhJMN4) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Nontokozo Mkhize](https://open.spotify.com/artist/1pGEcbHJvZ6u018SwuUtkK) | [Blessings \(feat\. Nontokozo Mkhize\)](https://open.spotify.com/album/5u2BLmpV0KIfiKo1okOuYW) | 4:14 | 2025-05-30 | 2025-07-25 |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2024-10-04 |  |
 | [Bulelani/Oh Give Thanks \(Psalm 107:1\) \- Live](https://open.spotify.com/track/6KGpgs31vrR8VA5OflfrQW) | [Ncebakazi Msomi](https://open.spotify.com/artist/51g9htpUzFdCV8GhceWMpX) | [The 37th Psalm \(Live at Emperors Palace\)](https://open.spotify.com/album/1qLHR4gDkXhHEkqnqYkoQ2) | 7:50 | 2025-10-31 | 2026-03-27 |
+| [Buyelekhaya \(feat\. Thami Mthabela\)](https://open.spotify.com/track/5pVeDbjv2a1VivRNiOc5j5) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Thami Mthabela](https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi) | [27:27](https://open.spotify.com/album/1Ec0jVUUxyahw0pQRpR04T) | 3:50 | 2026-08-28 |  |
 | [Consistent God \- Live At Cedarwoods of Sandton, 2023 / Reprise](https://open.spotify.com/track/77o0qLD9RE8sLkpbaPECLO) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 2:23 | 2025-08-01 | 2025-08-06 |
 | [Dibe Tsa Ka](https://open.spotify.com/track/3yoOd0mfYPoqhPlwGdRJ4Y) | [Sechaba](https://open.spotify.com/artist/1Dag9YPYj8w9Q67pn9qDa4) | [Jeso Oa Mamela](https://open.spotify.com/album/0yhYq8O1SAM2DnzYz9jDTn) | 4:55 | 2025-04-18 | 2025-06-06 |
 | [Dikgoro \- Live](https://open.spotify.com/track/4Zn1bgOiW8pCJ5K9tCbIDd) | [Kgaogelo Kekana](https://open.spotify.com/artist/5llKM2eYcbjemHTK9Nrew1) | [Dikgoro \(Live\)](https://open.spotify.com/album/5ex6ETHd1obPFwZ892s8Ki) | 8:48 | 2025-06-06 |  |
@@ -157,6 +158,7 @@
 | [Ngobekezela](https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 7:41 | 2024-10-11 |  |
 | [Ngu Jesu \(Bayede\) \- Live](https://open.spotify.com/track/45862d4xPNe3rlx7FBCajD) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Sindi Ntombela](https://open.spotify.com/artist/7cgnTBawtnmiIuatGdoQ0U) | [Ngu Jesu \(Bayede\) \(Live\)](https://open.spotify.com/album/1RF8MyVJzi0MrVWmS4ofih) | 19:39 | 2025-09-12 |  |
 | [Nothing Without You \- Live](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2024-10-04 |  |
+| [Nsovo Moment \- Live](https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Nsovo Moment \(Live\)](https://open.spotify.com/album/4kmuvjCmGtxm62swhicrrc) | 2:58 | 2026-08-28 |  |
 | [Ntate Kemang \- Live](https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 4:29 | 2024-10-11 |  |
 | [O a Ntwanela](https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG), [Mapula Phaho](https://open.spotify.com/artist/4YPCvpnbif4gubfTUCCK8K) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 9:33 | 2025-04-18 |  |
 | [O Tshepegile Morena \- Tsa Manyalo](https://open.spotify.com/track/75Lx8FKrcCbivpc1Ff541Y) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 5:38 | 2025-09-26 |  |

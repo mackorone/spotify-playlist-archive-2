@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-803 songs - 1 day 10 hr 22 min
+805 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2021-12-07 | 2023-08-16 |
 | [Dovidenja](https://open.spotify.com/track/71Hs7PGCNa1466R9Wiobo0) | [Darija Horvat](https://open.spotify.com/artist/2IHkcRcKQ3RLDY8KDtjmNv) | [Dovidenja](https://open.spotify.com/album/3rsw8cYvKE96H9ePkr2eOn) | 2:09 | 2021-12-07 | 2022-07-16 |
 | [Downstairs](https://open.spotify.com/track/5ULSZYu1E1CWT8wAQ6NnfW) | [Clouderr](https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw) | [Downstairs](https://open.spotify.com/album/0Zclpf48lKos6vY0bycvtI) | 3:25 | 2021-12-07 | 2022-12-24 |
+| [Dreaming Beyond The Horizon](https://open.spotify.com/track/1mWjGFUS6psBjRkCrdfqeu) | [Leyre Hart](https://open.spotify.com/artist/2h1jzXo7ckWedFcCtZxgYv) | [Dreaming Beyond The Horizon](https://open.spotify.com/album/1xL63vR9F4o3hKGbXqjYnD) | 2:31 | 2026-08-28 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2021-12-07 | 2022-07-16 |
 | [Driftwood](https://open.spotify.com/track/4FMvhK7BUYaGJbT8zOJ7LH) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Driftwood](https://open.spotify.com/album/04KRMNfUUJpcMRBpCBneKJ) | 3:12 | 2021-12-07 | 2024-04-19 |
 | [Dulcimer](https://open.spotify.com/track/0c5hNxzYagIuyNTjW4Fzux) | [Shira Joseph](https://open.spotify.com/artist/5X31MelGPpqOWS7WZu8n7F) | [Dulcimer](https://open.spotify.com/album/58ejRk8RGyGafjyWQQVE6o) | 3:00 | 2021-12-07 | 2023-08-16 |
@@ -195,6 +196,7 @@
 | [Etc...](https://open.spotify.com/track/5h4x9rXrsUALN1eYzY611B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Hymnus Faunus](https://open.spotify.com/album/3jKzoIOYPUKxduucDofbCh) | 2:42 | 2021-12-07 | 2023-01-27 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-12-07 | 2023-07-05 |
 | [Evanesce](https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Evanesce](https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy) | 2:16 | 2025-05-21 |  |
+| [Evangeline](https://open.spotify.com/track/008fjtDWw3Z6aHgd1HbyCu) | [Kaspar Riedenthal](https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu) | [Evangeline](https://open.spotify.com/album/6Ac6qjg6v8d9uwPhZiurha) | 2:26 | 2026-08-28 |  |
 | [Even So](https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Even So](https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU) | 2:30 | 2025-08-05 |  |
 | [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 | 2023-06-20 |  |
 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 | 2021-12-07 | 2025-02-27 |
@@ -483,7 +485,7 @@
 | [Nowhere](https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Nowhere](https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ) | 2:16 | 2025-01-06 |  |
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-03-01 | 2025-05-31 |
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-02-01 | 2025-05-31 |
-| [Ocean Breeze](https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Ocean Breeze](https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3) | 2:11 | 2025-01-15 |  |
+| [Ocean Breeze](https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Ocean Breeze](https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3) | 2:11 | 2025-01-15 | 2026-08-28 |
 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 | 2021-12-07 | 2023-05-04 |
 | [Ochre](https://open.spotify.com/track/1ok2qdsya4XD3WVu788K8F) | [Rupert Campanello](https://open.spotify.com/artist/73hYWj5hPBY80Q3pkaoQIe) | [Ochre](https://open.spotify.com/album/4vawgQ8IYqsZmoXWitakxq) | 1:54 | 2026-05-08 |  |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2021-12-07 | 2023-05-04 |

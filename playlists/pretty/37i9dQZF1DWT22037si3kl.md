@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,030 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,042 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 26 | [DE ONDE ELE VEM?](https://open.spotify.com/track/3uyEHWoyEXDadTBqN90wMn) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [Linguagem De Rua](https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH) | 2:08 |
 | 27 | [Próximo Passo](https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Unique](https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL) | 2:20 |
 | 28 | [Sentido Aranha](https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [ALAMO](https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Sentido Aranha](https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5) | 2:26 |
-| 29 | [Acha que Eu Não Sei](https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:37 |
-| 30 | [Sentido à Zona Leste](https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Sentido à Zona Leste](https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB) | 2:03 |
+| 29 | [Sentido à Zona Leste](https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Sentido à Zona Leste](https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB) | 2:03 |
+| 30 | [Acha que Eu Não Sei](https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:37 |
 | 31 | [Foco](https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [JECI](https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:20 |
 | 32 | [É Que os Menino É Bom](https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [É Que os Menino É Bom](https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE) | 2:25 |
 | 33 | [Eu Meto Bronca](https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Eu Meto Bronca](https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl) | 2:37 |

@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: ViVii
+> Det senaste och bästa från världen av indie\. Cover: garbagepink
 
-1,368 songs - 3 day 6 hr 47 min
+1,373 songs - 3 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [A thousand lies \- Fine EDIT](https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 3:37 | 2025-11-06 | 2026-05-01 |
 | [About the Heart](https://open.spotify.com/track/79o1dbP1lkUBeyI7Qwm9oq) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [About the Heart](https://open.spotify.com/album/0T3rfBkkPj2qWqz62sByLW) | 4:08 | 2025-05-15 | 2025-10-10 |
 | [Above Love](https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Above Love](https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj) | 2:42 | 2024-06-27 | 2024-08-16 |
+| [Acrobats](https://open.spotify.com/track/17v4Yif1l2JurwAELLWZWt) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Acrobats](https://open.spotify.com/album/4lWPhsAo2kN7JfqAug49B2) | 3:54 | 2026-08-27 |  |
 | [Adam](https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Please Like Me](https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC) | 3:29 | 2026-04-16 |  |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-25 | 2024-09-19 |
 | [ADELINE](https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [ADELINE](https://open.spotify.com/album/2DPQAfsy6KRE7WS6NTge8L) | 2:48 | 2024-06-27 | 2024-08-16 |
@@ -270,6 +271,7 @@
 | [Day Old Thoughts](https://open.spotify.com/track/583v2K47Y5S0CCxgPsg123) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Day Old Thoughts](https://open.spotify.com/album/0aKvdgaVLqfepvEv7evJ7S) | 3:43 | 2025-04-17 | 2025-07-25 |
 | [Daydreams](https://open.spotify.com/track/4P1v7B9pgk2LJdBNlw2r8F) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daydreams](https://open.spotify.com/album/1EKTr8EkYBwQUvCKknJGGn) | 2:10 | 2025-12-18 | 2026-05-01 |
 | [Days Like These](https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Days Like These](https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD) | 2:20 | 2024-06-27 | 2024-08-16 |
+| [Days of Heaven](https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Days of Heaven](https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN) | 2:14 | 2026-08-27 |  |
 | [De Lugnt](https://open.spotify.com/track/3907927k8xK0l0hZqU6A2I) | [sagafelicia](https://open.spotify.com/artist/4nI41LiBjkCiL6WO5fFcE5) | [De Lugnt](https://open.spotify.com/album/1dp7f1aewFrSlc1T8cbtLz) | 2:36 | 2025-08-07 | 2026-01-16 |
 | [deadweight](https://open.spotify.com/track/62REjGo4zteSwjoIb43D2e) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [deadweight](https://open.spotify.com/album/0A10OGdu6vkcW6eybVwZhO) | 1:25 | 2024-10-03 | 2024-12-06 |
 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-22 |  |
@@ -616,6 +618,7 @@
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2025-01-02 | 2025-04-18 |
 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 | 2024-11-14 | 2025-02-28 |
 | [infected](https://open.spotify.com/track/1xeZcisQssuBnwZzH78EYn) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [smeer](https://open.spotify.com/album/4Kc6K7ETGynINm5Kwhn9qa) | 2:42 | 2025-06-26 | 2025-10-17 |
+| [INFINITE SUMMER](https://open.spotify.com/track/5fmUi1YDDi6vTVjpwGGwDK) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [INFINITE SUMMER](https://open.spotify.com/album/1nup1cxvdRqRbjET5V2YuB) | 2:46 | 2026-08-27 |  |
 | [Ingen som du](https://open.spotify.com/track/7oQhh8xyDupOGqoC054BvA) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Ingen som du](https://open.spotify.com/album/1JFkKT8lMmA52sGU6wgi4t) | 3:18 | 2025-04-24 | 2025-10-10 |
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-08-30 |
 | [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 | 2026-01-16 |
@@ -700,6 +703,7 @@
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 | 2025-03-08 |
 | [Lifeblood](https://open.spotify.com/track/459OvBZpqLmHnZsHQRFhxv) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Lifeblood](https://open.spotify.com/album/48Dy2YJZijBp8YryxugacC) | 2:07 | 2025-06-12 | 2025-10-10 |
 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 | 2024-12-12 | 2025-02-21 |
+| [LIGHT DESIGN: BLOOD ORANGE VERSION](https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:48 | 2026-08-27 |  |
 | [lighthouse](https://open.spotify.com/track/6hiCPVvCIxq6K47DCN6IHR) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [lighthouse](https://open.spotify.com/album/2dFt7UbMmIh0xKyOMvp1JW) | 2:07 | 2026-03-05 |  |
 | [Like a Rolling Stone](https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Music From The Motion Picture\)](https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4) | 3:22 | 2024-12-05 | 2025-04-18 |
 | [Like No One Could](https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Like No One Could](https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF) | 2:47 | 2024-06-27 | 2024-07-27 |
@@ -1148,6 +1152,7 @@
 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-29 | 2025-10-10 |
 | [Take Me To The Altar](https://open.spotify.com/track/5wXG16j2RKCLN5QBTJdY8z) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take Me To The Altar](https://open.spotify.com/album/5XFYYQxyC5Rb5vtFGxhJVn) | 2:36 | 2025-10-09 | 2026-05-01 |
 | [Take you away](https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Take you away](https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR) | 3:54 | 2026-03-19 |  |
+| [Takes Me Back](https://open.spotify.com/track/7rOdqSnzvbcugXaCAsi2Wm) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Takes Me Back](https://open.spotify.com/album/1m7Ijp4PQTZRkrpA472S24) | 3:09 | 2026-08-27 |  |
 | [Talk To The Foot](https://open.spotify.com/track/10PckyDY29m5qRABg7jtAo) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [Talk To The Foot](https://open.spotify.com/album/3JR2ZdSJntgBtwS1zuJRXl) | 3:26 | 2026-06-25 |  |
 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 | 2025-10-16 | 2026-05-01 |
 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 | 2025-07-03 | 2026-01-16 |

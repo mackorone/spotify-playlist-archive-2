@@ -16291,6 +16291,32 @@
     },
     {
       "album": {
+        "name": "Strip For Me",
+        "url": "https://open.spotify.com/album/78gqUMvAgrlGflKiCGEBzq"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "Strip For Me",
+      "url": "https://open.spotify.com/track/5IxLvieYg1eXp4U7bD5aWx"
+    },
+    {
+      "album": {
         "name": "VITTORIO",
         "url": "https://open.spotify.com/album/5eO1el00cLdi0oDe9r5GIV"
       },

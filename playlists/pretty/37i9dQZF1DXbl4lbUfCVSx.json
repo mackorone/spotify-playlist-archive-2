@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 37574,
+  "num_followers": 37575,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-05-14 04:00:06",
       "album": {
-        "name": "Option",
-        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
       },
       "artists": [
         {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "J-BEATZ",
+          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
         }
       ],
-      "duration_ms": 274106,
-      "name": "Ti doudou",
-      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
+      "duration_ms": 293918,
+      "name": "It's Getting Late",
+      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
     },
     {
       "added_at": "2026-05-14 04:00:06",
@@ -419,22 +419,18 @@
     {
       "added_at": "2026-05-14 04:00:06",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
+        "name": "Option",
+        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
       },
       "artists": [
-        {
-          "name": "Vayb",
-          "url": "https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H"
-        },
         {
           "name": "Oswald",
           "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
         }
       ],
-      "duration_ms": 309907,
-      "name": "Ralanti",
-      "url": "https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu"
+      "duration_ms": 274106,
+      "name": "Ti doudou",
+      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
     },
     {
       "added_at": "2026-05-14 04:00:06",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-05-14 04:00:06",
       "album": {
-        "name": "Our Own World",
-        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
       },
       "artists": [
         {
-          "name": "J-BEATZ",
-          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
+          "name": "Vayb",
+          "url": "https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
         }
       ],
-      "duration_ms": 293918,
-      "name": "It's Getting Late",
-      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
+      "duration_ms": 309907,
+      "name": "Ralanti",
+      "url": "https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu"
     },
     {
       "added_at": "2026-05-14 04:00:06",

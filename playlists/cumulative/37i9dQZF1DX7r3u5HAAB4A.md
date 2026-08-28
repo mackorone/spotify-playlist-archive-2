@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Destin Conrad
+> A melting pot of Caribbean culture\. Cover: Yung Miami
 
-374 songs - 18 hr 20 min
+375 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-08-01 | 2025-08-09 |
 | [Soft Girl Era](https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Soft Girl Era](https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js) | 2:25 | 2026-01-23 |  |
 | [Somebody Else](https://open.spotify.com/track/73EFvcXi324GMUcE8MpGF3) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Somebody Else](https://open.spotify.com/album/5EuC78gfHomPZZ5ttmqdz3) | 3:11 | 2024-11-08 | 2025-08-02 |
+| [Spend Dat \(feat\. Davido, Shenseea, Vybz Kartel\) \- International Remix](https://open.spotify.com/track/1LAxyuzqEkzDfW0FwNsL5f) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Spend Dat \(International Remix\)](https://open.spotify.com/album/6ZY5l8FY38pEjlSGw7bZ1f) | 4:18 | 2026-08-28 |  |
 | [Stay For The Night](https://open.spotify.com/track/0HnPRaFlJqio55qp8fdX0g) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Stay For The Night](https://open.spotify.com/album/0B2rHpRTIHDl4EtsqMy1bc) | 2:32 | 2026-06-17 | 2026-08-15 |
 | [Step by Step](https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Step by Step](https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe) | 3:45 | 2024-08-29 |  |
 | [Still Alive](https://open.spotify.com/track/0cJBkXNp1ZtkFfzFD0YEPY) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Still Alive](https://open.spotify.com/album/3cwypMjr1OQjOzB0KQ8i2H) | 2:59 | 2025-06-20 | 2025-07-05 |
@@ -329,7 +330,7 @@
 | [The Greatest Bend Over \(Take It Easy\) \- Chlöe x MOLIY Remix](https://open.spotify.com/track/33LEmmSf7GIjngduAHQ8VF) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [The Greatest Bend Over \(Take It Easy\) \[Chlöe x MOLIY Remix\]](https://open.spotify.com/album/5odK6dmKpJWenZo10gOCMh) | 3:28 | 2025-08-15 |  |
 | [The Locusts \(with Pressure Busspipe\)](https://open.spotify.com/track/5MTwwtAnAHeqr4xuWOqMOC) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Locusts \(with Pressure Busspipe\)](https://open.spotify.com/album/1l85rEizeqiixFdZdzB4iL) | 4:34 | 2026-04-17 | 2026-07-25 |
 | [TIME](https://open.spotify.com/track/12U7ykhK1TZTzTGmDHWDGq) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [TIME](https://open.spotify.com/album/2FbMoqc0ksmsJqLqqoGJmB) | 2:31 | 2025-09-12 | 2025-12-20 |
-| [Time & Place](https://open.spotify.com/track/02Dt8MN0EAyUeqWnOJdppv) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:39 | 2026-08-14 |  |
+| [Time & Place](https://open.spotify.com/track/02Dt8MN0EAyUeqWnOJdppv) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:39 | 2026-08-14 | 2026-08-28 |
 | [Time For Me](https://open.spotify.com/track/5skKiMpQxIToG9KzAENiqR) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Time For Me](https://open.spotify.com/album/03Cxqr6VUjj11JsRR9Mx6x) | 3:36 | 2026-02-13 | 2026-02-28 |
 | [Ting Loud \(with Masicka\)](https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Ting Loud \(with Masicka\)](https://open.spotify.com/album/46RyBz5z8NqR7x7wCJuKPX) | 3:22 | 2026-04-10 | 2026-04-18 |
 | [Tomorrow Promised Us](https://open.spotify.com/track/7m5c8nJDfChDtqZQCaIFy1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lovers Till I'm Gone](https://open.spotify.com/album/4WAgGUPLsCdOqGpiJcbN52) | 3:18 | 2025-01-17 | 2025-03-08 |

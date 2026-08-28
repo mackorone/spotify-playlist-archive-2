@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Eloff en Ricus Nel
+> Net die beste Afrikaanse musiek! Omslag: JACOBUS
 
 405 songs - 22 hr 20 min
 

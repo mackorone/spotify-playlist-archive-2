@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Njerae
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Kahuti
 
-374 songs - 21 hr 7 min
+375 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Loving](https://open.spotify.com/track/0Abd1XZ93bQlvYWuF2lINl) | [Dj Mura K.E](https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Múrastar Vol\. 2](https://open.spotify.com/album/16ekfixG0xvVi5dhopbx0L) | 5:44 | 2025-02-13 | 2025-02-21 |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2021-12-28 | 2022-06-17 |
 | [Maisha](https://open.spotify.com/track/5ZkpQo8ETp8Vei3eiv3oM7) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Maisha](https://open.spotify.com/album/65o3bGR1inlQ6qqSQqu3c2) | 3:16 | 2024-09-26 | 2024-11-08 |
+| [Malaika](https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Malaika](https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds) | 3:10 | 2026-08-28 |  |
 | [Malaika](https://open.spotify.com/track/1JxCzcKgdKeGITvisTRzLh) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/7rSVI8tFIwuSbwmTkO3x8N) | 3:39 | 2026-07-15 | 2026-07-31 |
 | [Malaika](https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV) | 3:42 | 2021-12-28 | 2022-07-15 |
 | [MALIBU](https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [MAMBA.](https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp), [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [MALIBU](https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1) | 2:18 | 2026-05-29 |  |

@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Likeboss
 
-828 songs - 1 day 14 hr 17 min
+829 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [STON IDIO OURANO](https://open.spotify.com/track/4tMHv7PW2lL68DSfG03J5e) | [EKASTOS](https://open.spotify.com/artist/2cE76SEV51hNMQSKcvA1yM), [Lobo](https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [STON IDIO OURANO](https://open.spotify.com/album/6Oqy9CleNRYG3qfkprL80t) | 3:35 | 2024-09-05 | 2024-09-20 |
 | [Stoxos](https://open.spotify.com/track/5NexhGBdV6SagfdOGPFRik) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Stoxos](https://open.spotify.com/album/26Bx6GHXSUdUtYXUrUIJqX) | 2:00 | 2025-07-31 | 2025-08-15 |
 | [STRATOSFERA](https://open.spotify.com/track/5JYJrPJ9A0LiUsM3lrVJMx) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [DJ Waif](https://open.spotify.com/artist/34E7XSYuJQGWpBlVQS0jkv) | [CASUS BELLI](https://open.spotify.com/album/1aQnXfjBDbLVjdYf1kkAbe) | 2:25 | 2026-05-21 | 2026-06-26 |
+| [Strip For Me](https://open.spotify.com/track/5IxLvieYg1eXp4U7bD5aWx) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Strip For Me](https://open.spotify.com/album/78gqUMvAgrlGflKiCGEBzq) | 3:30 | 2026-08-27 |  |
 | [Strofes](https://open.spotify.com/track/0odGgIH0PF2HVa0uT40iAP) | [Hugo](https://open.spotify.com/artist/6MifNe0ruxhUoIom139UZU), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [VITTORIO](https://open.spotify.com/album/5eO1el00cLdi0oDe9r5GIV) | 2:06 | 2025-03-27 | 2025-04-25 |
 | [STUFF](https://open.spotify.com/track/01uh1vFxHx6tHAVslWrJdZ) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [STUFF](https://open.spotify.com/album/3GJurEoDAY9JbMuefeCuyU) | 2:51 | 2026-04-23 |  |
 | [Sukarie](https://open.spotify.com/track/3EDocnZVJedQToA6rv8v3p) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Thodoris Verlis](https://open.spotify.com/artist/37JMsuLMU91B5Poil5tMcz) | [Sukarie](https://open.spotify.com/album/4aykjh6AjljvE3AGMGnULZ) | 3:02 | 2024-06-27 | 2024-07-05 |

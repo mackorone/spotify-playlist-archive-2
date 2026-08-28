@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 irossa sui vostri schermi
 
-2,024 songs - 4 day 16 hr 59 min
+2,025 songs - 4 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [ALL'INFERNO C'È IL SOLE](https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [CARNE OSSA](https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX) | 4:20 | 2023-02-16 | 2023-05-12 |
 | [All'Ombra Dei Palazzi](https://open.spotify.com/track/6I3lbrxXHVx7i1O0b84VMc) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Via Briantea](https://open.spotify.com/album/6to4L28zGrellDt1u8HEt2) | 3:36 | 2024-03-14 | 2024-06-21 |
 | [Alme](https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Alme](https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h) | 3:16 | 2022-10-06 | 2022-11-11 |
+| [Almeno novembre](https://open.spotify.com/track/7hIHGPVf4sPm6PK1AXaG3W) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Pesci Abissali](https://open.spotify.com/album/6TOJHpYeCEjV8fWad198SW) | 4:09 | 2026-08-27 |  |
 | [Almeno Per Oggi](https://open.spotify.com/track/2ONMi8O0SHUejht1Hjh7JA) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Almeno Per Oggi](https://open.spotify.com/album/4LdIIWnRQIae3C15vupd7Z) | 2:27 | 2024-11-14 | 2025-01-17 |
 | [Alpha Centauri](https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Alpha Centauri](https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm) | 4:31 | 2025-11-13 | 2026-05-29 |
 | [Altitudine](https://open.spotify.com/track/5kmFvG3E2GZE1tU8C29DLM) | [novagorica](https://open.spotify.com/artist/17gE0o0AWJoCkHUrlJPjvu) | [Altitudine](https://open.spotify.com/album/34yOg5bWR1pVs7tnxseg0b) | 3:37 | 2025-03-06 | 2025-05-16 |
@@ -1304,7 +1305,7 @@
 | [ORO](https://open.spotify.com/track/5jxmXxbjrhua6qqWJz5aaX) | [Indianizer](https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp) | [ORO](https://open.spotify.com/album/48emxqDC2Klcb9rwrxZg8i) | 3:31 | 2024-02-22 | 2024-03-08 |
 | [orrido](https://open.spotify.com/track/6IGTR2RVFKm44mxjHmOAt8) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [ORRIDO](https://open.spotify.com/album/66wClrF2Fl6pGFQijvR7Hz) | 5:06 | 2025-03-06 | 2025-10-17 |
 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 | 2023-07-06 | 2023-11-10 |
-| [ossessione](https://open.spotify.com/track/7bUxWAFWleeooOv22uWg5f) | [OTTOBRE](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [ossessione](https://open.spotify.com/album/12VKjHRnV5Ir6aJ1978Ibr) | 3:11 | 2026-06-25 |  |
+| [ossessione](https://open.spotify.com/track/7bUxWAFWleeooOv22uWg5f) | [OTTOBRE](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [ossessione](https://open.spotify.com/album/12VKjHRnV5Ir6aJ1978Ibr) | 3:11 | 2026-06-25 | 2026-08-28 |
 | [Our Atoms](https://open.spotify.com/track/0GSQQqvJWQQUSoPkRD0oUt) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Our Atoms](https://open.spotify.com/album/3Bf3eD4nYH4G3KaHVnjtbO) | 4:04 | 2023-11-30 | 2024-01-26 |
 | [Our Fault](https://open.spotify.com/track/3vhIkibnn6c7RIoYwYCTvh) | [Trust The Mask](https://open.spotify.com/artist/4QzZ1csaFZmC5N2tOvtQR6) | [Our Fault](https://open.spotify.com/album/6ZmALkxIf4hVWPQR7LYSa9) | 3:56 | 2023-05-11 | 2023-06-15 |
 | [Oxygen](https://open.spotify.com/track/1huV0ZHHl6swbFdvj8lG0y) | [Marta Vega](https://open.spotify.com/artist/7KtHuw3e8j6LnA4PIHyhAr) | [Oxygen](https://open.spotify.com/album/2x8GoLkMrQZ9dgVS41fRK2) | 2:30 | 2024-08-29 | 2024-10-04 |

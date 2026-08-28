@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Paul Partohap
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,507 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,511 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 64 | [GODSENT](https://open.spotify.com/track/5yB61NwWlnkl4bhkSt9U58) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [GODSENT](https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1) | 3:04 |
 | 65 | [Rasa dan Rahasia](https://open.spotify.com/track/4tgp7eC73VwyHqpqugVIfd) | [Wizzow](https://open.spotify.com/artist/2AtpVBJtiIqNDKGyMJ1Kfq), [Anggun Dae](https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J) | [Rasa dan Rahasia](https://open.spotify.com/album/3AyTFDYzpvayXcBBtgjgEj) | 3:15 |
 | 66 | [Cantikkuuuuu](https://open.spotify.com/track/0Opos1749YAMnjC2htWzYV) | [William Sihombing](https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j) | [Cantikkuuuuu](https://open.spotify.com/album/0a50H8wn696CVLTOVn4zLY) | 3:16 |
-| 67 | [JANGAN JAUH](https://open.spotify.com/track/6U5ajYRHzwjtDquZ1yZFyq) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [JANGAN JAUH](https://open.spotify.com/album/6XrScvnCtCk6kmsp3BYtxT) | 2:06 |
+| 67 | [JANGAN JAUH](https://open.spotify.com/track/6U5ajYRHzwjtDquZ1yZFyq) | [Bex](https://open.spotify.com/artist/3OJng69eSBVRXyTrVDTKgV) | [JANGAN JAUH](https://open.spotify.com/album/6XrScvnCtCk6kmsp3BYtxT) | 2:06 |
 | 68 | [Ibukota](https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf) | [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Ibukota](https://open.spotify.com/album/1LhKzOU1Kxeg2HxrOm6TCS) | 3:30 |
 | 69 | [a feeling](https://open.spotify.com/track/6TPUbm9rVuawjfbbz88c58) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:05 |
 | 70 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 |

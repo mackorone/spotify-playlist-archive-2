@@ -2731,6 +2731,32 @@
     },
     {
       "album": {
+        "name": "Summer Day",
+        "url": "https://open.spotify.com/album/0fnzIsdIhhd0q1myqvLnZT"
+      },
+      "artists": [
+        {
+          "name": "Elephant Ears",
+          "url": "https://open.spotify.com/artist/3JRhJwWeTZXJhIQMTxiYyn"
+        },
+        {
+          "name": "Roi Aknin",
+          "url": "https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u"
+        },
+        {
+          "name": "Rowan Hart",
+          "url": "https://open.spotify.com/artist/73Ciwf8umkqK3w1TaDnNaU"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170626,
+      "name": "Summer Day",
+      "url": "https://open.spotify.com/track/4OimWd0lRxKaH4MQ3MKupL"
+    },
+    {
+      "album": {
         "name": "Sword And Shield",
         "url": "https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym"
       },
@@ -3454,6 +3480,24 @@
       "duration_ms": 220137,
       "name": "You Made Me Bad",
       "url": "https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL"
+    },
+    {
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM"
+      },
+      "artists": [
+        {
+          "name": "Gary.D.Pearson and the Distance",
+          "url": "https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239400,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd"
     },
     {
       "album": {

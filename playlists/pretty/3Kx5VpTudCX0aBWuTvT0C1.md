@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,090 likes - 91 songs - 5 hr 29 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,101 likes - 93 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 89 | [Circuiti e carne](https://open.spotify.com/track/2koWXf42GzdGzto78RLYjP) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Circuiti e carne](https://open.spotify.com/album/7gdakhmHT7wLc9e2eYakPi) | 2:58 |
 | 90 | [Scars](https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg), [Nick Barone](https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA) | [Scars](https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi) | 3:50 |
 | 91 | [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 |
+| 92 | [Summer Day](https://open.spotify.com/track/4OimWd0lRxKaH4MQ3MKupL) | [Elephant Ears](https://open.spotify.com/artist/3JRhJwWeTZXJhIQMTxiYyn), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u), [Rowan Hart](https://open.spotify.com/artist/73Ciwf8umkqK3w1TaDnNaU) | [Summer Day](https://open.spotify.com/album/0fnzIsdIhhd0q1myqvLnZT) | 2:50 |
+| 93 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 |
 
-Snapshot ID: `AAACz1aLoOafaQ0vIeUlnfwBTPu5aFQ1`
+Snapshot ID: `AAAC0Z22twvxWtHEVTs88tmCFwUdFgbB`

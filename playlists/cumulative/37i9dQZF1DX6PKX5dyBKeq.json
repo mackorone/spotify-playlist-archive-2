@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: K-Trap",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One",
   "name": "Rap UK",
   "tracks": [
     {
@@ -6548,7 +6548,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 201308,
       "name": "Blue Marlin",
       "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
@@ -11966,7 +11966,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 118356,
       "name": "DEM MAN",
       "url": "https://open.spotify.com/track/1oHfbYJxiJ87kidsNiuBmY"
@@ -17716,6 +17716,28 @@
       "duration_ms": 165000,
       "name": "GEEKIN (feat. AJ Tracey)",
       "url": "https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH"
+    },
+    {
+      "album": {
+        "name": "GEEKIN (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3p3rk95jqISXQf26v9cz3u"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "GEEKIN (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/0rGxIKdpNUy15kCLea8Woh"
     },
     {
       "album": {
@@ -25810,7 +25832,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 111480,
       "name": "LOST NOT FOUND",
       "url": "https://open.spotify.com/track/2v9YfrT7DxZpe8FpnF5I44"
@@ -28495,6 +28517,28 @@
     },
     {
       "album": {
+        "name": "Moneygram",
+        "url": "https://open.spotify.com/album/0RZrp52ozLtFIWJJtNfXT9"
+      },
+      "artists": [
+        {
+          "name": "Digga",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154552,
+      "name": "Moneygram",
+      "url": "https://open.spotify.com/track/63raMnrTzrCKwl2BPZreg8"
+    },
+    {
+      "album": {
         "name": "Monsta",
         "url": "https://open.spotify.com/album/4Y4yuKCQotPMY29Xo6hmry"
       },
@@ -29246,6 +29290,24 @@
       "duration_ms": 177272,
       "name": "Multifaceted",
       "url": "https://open.spotify.com/track/2ZTvseiCli9LgJrlll0Cwf"
+    },
+    {
+      "album": {
+        "name": "MUM SAID",
+        "url": "https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8"
+      },
+      "artists": [
+        {
+          "name": "TR Gobrazy",
+          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113337,
+      "name": "MUM SAID",
+      "url": "https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z"
     },
     {
       "album": {
@@ -30811,6 +30873,24 @@
     },
     {
       "album": {
+        "name": "No Way!",
+        "url": "https://open.spotify.com/album/29GItOjAqJHHOghnpjlJ4H"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182740,
+      "name": "No Way!",
+      "url": "https://open.spotify.com/track/3clsu0NXBjwPQ0KI0BunEv"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -32078,6 +32158,24 @@
       "duration_ms": 170958,
       "name": "One Take",
       "url": "https://open.spotify.com/track/2mqsbs01P5yuxd1jveySmt"
+    },
+    {
+      "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157104,
+      "name": "One Thousand Roses",
+      "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
     },
     {
       "album": {
@@ -36384,7 +36482,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186666,
       "name": "Rice Bowl",
       "url": "https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn"
@@ -44176,7 +44274,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 134766,
       "name": "Top 3",
       "url": "https://open.spotify.com/track/47E59ScAI4kEsAH6ELaIkA"

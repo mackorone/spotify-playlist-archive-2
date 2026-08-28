@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-august 2026 (previous playlists archived on my profile)",
-  "num_followers": 24511,
+  "num_followers": 24520,
   "original_name": "spacked out!!!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOrkBgX5oHr12FhrCcLtcsurq9Fu0p",
+  "snapshot_id": "AAAOsJgpW48m7f44GxqRlbnS7Q19Ess9",
   "tracks": [
     {
       "added_at": "2026-07-06 01:28:22",
@@ -707,6 +707,38 @@
       "duration_ms": 286120,
       "name": "\u56db\u9762\u9053\u6b4c - 2019 Remastering",
       "url": "https://open.spotify.com/track/2HDGtTkECiCygeSNYIH9RQ"
+    },
+    {
+      "added_at": "2026-08-27 23:05:08",
+      "album": {
+        "name": "Musik von Harmonia",
+        "url": "https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN"
+      },
+      "artists": [
+        {
+          "name": "Harmonia",
+          "url": "https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Dino",
+      "url": "https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH"
+    },
+    {
+      "added_at": "2026-08-27 23:08:05",
+      "album": {
+        "name": "Ghosts of the Great Highway",
+        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Carry Me Ohio",
+      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
     }
   ],
   "unique_name": "spacked out!!!",

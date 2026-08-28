@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 266194,
+  "num_followers": 266205,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAAC7JhwTvyRr42BIIL65q4n4",
+  "snapshot_id": "ao4sgAAAAACHDHwl3jH9pH2/MpVVDOC8",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 245973,
-      "name": "Wish I Had an Angel",
-      "url": "https://open.spotify.com/track/6IKk2Z7LO59UDnVEw8JCBj"
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 248706,
-      "name": "The Phantom Of The Opera",
-      "url": "https://open.spotify.com/track/6VOxRb9IAJQDDyHBlyEdPF"
+      "duration_ms": 245973,
+      "name": "Wish I Had an Angel",
+      "url": "https://open.spotify.com/track/6IKk2Z7LO59UDnVEw8JCBj"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "The Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/6VOxRb9IAJQDDyHBlyEdPF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Endless Forms Most Beautiful (Deluxe Version)",
         "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 289009,
       "name": "Alpenglow",
       "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Sleeping Sun",
+      "url": "https://open.spotify.com/track/64v7AaXu9qmbefvFwOtbvm"
     },
     {
       "added_at": null,
@@ -251,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
       "artists": [
         {
@@ -260,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 389013,
-      "name": "Shudder Before the Beautiful",
-      "url": "https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6"
+      "duration_ms": 264026,
+      "name": "Wishmaster",
+      "url": "https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa"
     },
     {
       "added_at": null,
@@ -279,6 +311,22 @@
       "duration_ms": 278760,
       "name": "Planet Hell",
       "url": "https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 389013,
+      "name": "Shudder Before the Beautiful",
+      "url": "https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6"
     },
     {
       "added_at": null,
@@ -315,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 308002,
-      "name": "Endless Forms Most Beautiful",
-      "url": "https://open.spotify.com/track/6HkXeYMyASSvLnPNeYDoCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
@@ -343,6 +375,22 @@
       "duration_ms": 285226,
       "name": "The Siren",
       "url": "https://open.spotify.com/track/0OVMtCCfQvkO1oXigmM2d8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 308002,
+      "name": "Endless Forms Most Beautiful",
+      "url": "https://open.spotify.com/track/6HkXeYMyASSvLnPNeYDoCD"
     },
     {
       "added_at": null,
@@ -363,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 236016,
+      "name": "For the Heart I Once Had",
+      "url": "https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yesterwynde",
         "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
@@ -379,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "She Is My Sin",
+      "url": "https://open.spotify.com/track/1Tct7I9Mwb2BUhFW5xsEy6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Century Child",
         "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
       },
@@ -391,6 +471,22 @@
       "duration_ms": 372560,
       "name": "Bless The Child",
       "url": "https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish I Had an Angel",
+        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Where Were You Last Night",
+      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
     },
     {
       "added_at": null,
@@ -523,6 +619,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Come Cover Me",
+      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 305972,
+      "name": "The Islander",
+      "url": "https://open.spotify.com/track/7DCLfDduecRwxLkcLUY2kQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Turn Loose the Mermaids",
+      "url": "https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Endless Forms Most Beautiful (Deluxe Version)",
         "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
       },
@@ -567,38 +727,6 @@
       "duration_ms": 340715,
       "name": "Last of the Wilds",
       "url": "https://open.spotify.com/track/6UN6xo95p2gTCmmFmwgKBw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imaginaerum",
-        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Turn Loose the Mermaids",
-      "url": "https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decades",
-        "url": "https://open.spotify.com/album/7maywFP1bQZyit0l9l0VHb"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 273127,
-      "name": "Sleeping Sun - Remastered",
-      "url": "https://open.spotify.com/track/6VVqOsdoqmEr6EUbtaCeSZ"
     },
     {
       "added_at": null,
@@ -651,38 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 347402,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/5BVCsSoPnMXwPeaK9Aexjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 355040,
-      "name": "The Antikythera Mechanism",
-      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -699,38 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Romanticide",
-      "url": "https://open.spotify.com/track/3GeHyNxwnptGh0yaq9xwSk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Ocean Soul",
-      "url": "https://open.spotify.com/track/4q3sAUULz1S77l4651FrTz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterwynde",
         "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
@@ -740,73 +804,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 366985,
-      "name": "Lanternlight",
-      "url": "https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 318305,
-      "name": "Pan",
-      "url": "https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imaginaerum",
-        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 324920,
-      "name": "Ghost River",
-      "url": "https://open.spotify.com/track/3sTZ4DxyZ4PcKxKj4MHLI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 290400,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/6SGgqQMil2EmJJvOlcgUkg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 337653,
-      "name": "The Children Of 'Ata",
-      "url": "https://open.spotify.com/track/0TEycmMBaj7UnZffKlTYkW"
+      "duration_ms": 355040,
+      "name": "The Antikythera Mechanism",
+      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
     }
   ],
   "unique_name": "This Is Nightwish",

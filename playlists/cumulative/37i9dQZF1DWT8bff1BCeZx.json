@@ -1141,6 +1141,32 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/42cOT2VvLDnNObb0oZ63FU"
+      },
+      "artists": [
+        {
+          "name": "GOYE Universe",
+          "url": "https://open.spotify.com/artist/6ShGkA7DBJXJR8YlQp1hSa"
+        },
+        {
+          "name": "Verity Haruna",
+          "url": "https://open.spotify.com/artist/0ZEzTZbA2DCKVqMvvatUPd"
+        },
+        {
+          "name": "Itohan",
+          "url": "https://open.spotify.com/artist/20fyD4LblbtXAouj5h8IT1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195144,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/4YGcNSgcjves8AoCXoWT6p"
+    },
+    {
+      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/7tIynKtMjFoojTrgk1ilKO"
       },
@@ -2030,7 +2056,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171790,
       "name": "Bac To Eden",
       "url": "https://open.spotify.com/track/1wH7HtPls8TwhkDmVs9GDW"
@@ -2262,7 +2288,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 128307,
       "name": "better dan",
       "url": "https://open.spotify.com/track/3j2dkGUtL5Y7MnuLkHdf3L"
@@ -2400,7 +2426,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180003,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/4LCwNO8WGdmwTqcpbZ9BCg"
@@ -4964,7 +4990,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 234526,
       "name": "E SE",
       "url": "https://open.spotify.com/track/2nqcUCdnFy6V8a1kAWmYmt"
@@ -5878,7 +5904,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 255529,
       "name": "Father's Love",
       "url": "https://open.spotify.com/track/251OKcN0KmMvHTaDDMxH3z"
@@ -6190,6 +6216,28 @@
       "duration_ms": 135111,
       "name": "Focus On Jesus",
       "url": "https://open.spotify.com/track/71WLJ3kKPA7yIw5XanKY2U"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/42WGv4UQdCZiqo8JFVoAG3"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111676,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i"
     },
     {
       "album": {
@@ -6660,7 +6708,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 421707,
       "name": "Give Am Praise",
       "url": "https://open.spotify.com/track/3PVoW55Hs6hfokXqnBc0u2"
@@ -7144,7 +7192,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 150312,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/5Bcvqq28rlCPy61XvClSQV"
@@ -9023,6 +9071,24 @@
     },
     {
       "album": {
+        "name": "I Choose Joy",
+        "url": "https://open.spotify.com/album/3y068coIwQHk5zWV9S1PB6"
+      },
+      "artists": [
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328750,
+      "name": "I Choose Joy",
+      "url": "https://open.spotify.com/track/45mxfVFTZFoCgKeR1LfSFi"
+    },
+    {
+      "album": {
         "name": "I Confess",
         "url": "https://open.spotify.com/album/12UCtEqgjy91xGvQrDVy34"
       },
@@ -9744,6 +9810,24 @@
       "duration_ms": 276192,
       "name": "Imisebenzi Yakho",
       "url": "https://open.spotify.com/track/0TUOxZgbRalGJJP9jbknEf"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/21svfpjtbQ5GzUYvN4lE9O"
+      },
+      "artists": [
+        {
+          "name": "Password",
+          "url": "https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/00MgvN112VJBZPoGRBvVYo"
     },
     {
       "album": {
@@ -12624,7 +12708,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194015,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4BZ7pMzJiBInFR5NPMbqGN"
@@ -12686,7 +12770,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 280714,
       "name": "More of you God",
       "url": "https://open.spotify.com/track/770Z9OGv4gVgzDIbClpWYm"
@@ -12868,7 +12952,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 234545,
       "name": "Mtoto Wa Mfalme",
       "url": "https://open.spotify.com/track/2MhzmEmdvQpmp9SXRgbofT"
@@ -12934,6 +13018,24 @@
       "duration_ms": 320296,
       "name": "My All (Never Let A Day) - Live",
       "url": "https://open.spotify.com/track/3TxvBwGgYfADeARypgo51n"
+    },
+    {
+      "album": {
+        "name": "My Defender",
+        "url": "https://open.spotify.com/album/0VIjNkuo2duzqnRQDt5haK"
+      },
+      "artists": [
+        {
+          "name": "Sini Dagana",
+          "url": "https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "My Defender",
+      "url": "https://open.spotify.com/track/5V0MIFd8VfOBSzO5AbEO0i"
     },
     {
       "album": {
@@ -13304,7 +13406,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 213430,
       "name": "My Thank You",
       "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
@@ -13566,6 +13668,32 @@
       "duration_ms": 209266,
       "name": "Neema Ya Mungu",
       "url": "https://open.spotify.com/track/6B8lSTs59tEbV5Bn7TnH9d"
+    },
+    {
+      "album": {
+        "name": "NEVER",
+        "url": "https://open.spotify.com/album/5hCf02rm3CLa0dY42Falzz"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "R-Scar",
+          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
+        },
+        {
+          "name": "Glitzbeatz",
+          "url": "https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "NEVER",
+      "url": "https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP"
     },
     {
       "album": {
@@ -13836,7 +13964,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 181377,
       "name": "No Balance",
       "url": "https://open.spotify.com/track/5iDtPuz9Is75l2jm8IfIcw"
@@ -16248,7 +16376,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 201935,
       "name": "POSSIBLE - YAHCASA' 26",
       "url": "https://open.spotify.com/track/1em3JiIYMoxVVGet6R5loZ"
@@ -16996,7 +17124,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 291291,
       "name": "Public Validation",
       "url": "https://open.spotify.com/track/63GmUOwpPzD2XWlRhQwRrM"
@@ -17816,7 +17944,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 118158,
       "name": "Shweet",
       "url": "https://open.spotify.com/track/2XvIroSkndc7ZnsNa9KHrN"
@@ -18911,6 +19039,24 @@
     },
     {
       "album": {
+        "name": "Tapasa",
+        "url": "https://open.spotify.com/album/5CCipfmthtZ4hhWHatwDmh"
+      },
+      "artists": [
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144185,
+      "name": "Tapasa",
+      "url": "https://open.spotify.com/track/7g0Mt4lSsJXGFP2cFYoXkR"
+    },
+    {
+      "album": {
         "name": "Highly Lifted",
         "url": "https://open.spotify.com/album/0lr2KKVfyzpkmoQkPccGtg"
       },
@@ -18922,7 +19068,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 319164,
       "name": "Tasted",
       "url": "https://open.spotify.com/track/0VSRo5qR7cP9PVtoFC9U3M"
@@ -19194,7 +19340,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 442423,
       "name": "Thank You for Answering Me - Live",
       "url": "https://open.spotify.com/track/5ohAamICIisi460hJ8dN29"
@@ -20582,7 +20728,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 333914,
       "name": "Walenga",
       "url": "https://open.spotify.com/track/54RArsacpBcRugU06Hc2v1"
@@ -21678,6 +21824,24 @@
     {
       "album": {
         "name": "YAHWEH",
+        "url": "https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156964,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
+    },
+    {
+      "album": {
+        "name": "YAHWEH",
         "url": "https://open.spotify.com/album/3adRog0czaXHA6Z2xCpfUD"
       },
       "artists": [
@@ -21762,6 +21926,24 @@
       "duration_ms": 181655,
       "name": "Yahweh Sabaoth",
       "url": "https://open.spotify.com/track/3tghupfyRKdv7wFyzzNd9b"
+    },
+    {
+      "album": {
+        "name": "Yahweh Yahweh",
+        "url": "https://open.spotify.com/album/2lvOK6RPapKVZJ3MdKK9D3"
+      },
+      "artists": [
+        {
+          "name": "K Praise",
+          "url": "https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200698,
+      "name": "Yahweh Yahweh",
+      "url": "https://open.spotify.com/track/5luPkXtktEKUxL2YLRVDiQ"
     },
     {
       "album": {
@@ -22072,7 +22254,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 571399,
       "name": "Yesu Hajasafiri - Remix",
       "url": "https://open.spotify.com/track/0uRvLghsiNvbQn56Co3xm0"

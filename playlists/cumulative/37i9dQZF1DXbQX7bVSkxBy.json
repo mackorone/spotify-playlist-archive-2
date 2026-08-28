@@ -595,6 +595,32 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/42cOT2VvLDnNObb0oZ63FU"
+      },
+      "artists": [
+        {
+          "name": "GOYE Universe",
+          "url": "https://open.spotify.com/artist/6ShGkA7DBJXJR8YlQp1hSa"
+        },
+        {
+          "name": "Verity Haruna",
+          "url": "https://open.spotify.com/artist/0ZEzTZbA2DCKVqMvvatUPd"
+        },
+        {
+          "name": "Itohan",
+          "url": "https://open.spotify.com/artist/20fyD4LblbtXAouj5h8IT1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195144,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/4YGcNSgcjves8AoCXoWT6p"
+    },
+    {
+      "album": {
         "name": "We Are Fire",
         "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
       },
@@ -2362,7 +2388,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 109518,
       "name": "Dey With Me",
       "url": "https://open.spotify.com/track/3RsuXvFRSdYeQJP4nUHyit"
@@ -3519,6 +3545,28 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/42WGv4UQdCZiqo8JFVoAG3"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111676,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4jSkRaRC8JJcnIlfXJNM1i"
+    },
+    {
+      "album": {
         "name": "Race To Peace",
         "url": "https://open.spotify.com/album/7AHEMgcR2t54t4jeXe1nwr"
       },
@@ -3894,7 +3942,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 169014,
       "name": "Glorified",
       "url": "https://open.spotify.com/track/6Lldkt5PhRsKWQ5zelEZbg"
@@ -4604,7 +4652,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 416232,
       "name": "Halleluyah",
       "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
@@ -5018,7 +5066,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173676,
       "name": "I Dey Grateful",
       "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
@@ -7194,6 +7242,24 @@
       "duration_ms": 161856,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
+    },
+    {
+      "album": {
+        "name": "Mod\u00fap\u1eb9\u0301",
+        "url": "https://open.spotify.com/album/5n7hHoCPVVPyju2TFmYRp1"
+      },
+      "artists": [
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Mod\u00fap\u1eb9\u0301",
+      "url": "https://open.spotify.com/track/1xgEfJmlLupisDWHBGPA6d"
     },
     {
       "album": {
@@ -11417,6 +11483,28 @@
     },
     {
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Kaestrings",
+          "url": "https://open.spotify.com/artist/37mTlIE0aRZXs97rBa4DVX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 943500,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4"
+    },
+    {
+      "album": {
         "name": "WONDERFUL",
         "url": "https://open.spotify.com/album/5axh27WducjLFbcRUyKHxe"
       },
@@ -11552,7 +11640,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 323750,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/0nlo6pL1ZqwDmQ9rXctMl9"
@@ -11574,6 +11662,24 @@
       "duration_ms": 175200,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6ZcTz36h42wamrZbhkkEHs"
+    },
+    {
+      "album": {
+        "name": "YAHWEH",
+        "url": "https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156964,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
     },
     {
       "album": {

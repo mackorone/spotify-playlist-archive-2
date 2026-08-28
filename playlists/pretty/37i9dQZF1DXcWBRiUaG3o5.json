@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1112788,
+  "num_followers": 1112648,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Still I Wait",
-        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Still I Wait",
-      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "All Night Pharmacy",
         "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 255760,
       "name": "The Dream Song",
       "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Still I Wait",
+        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
+      },
+      "artists": [
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Still I Wait",
+      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Song Spells, No.1: Cedarsmoke",
         "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 209266,
       "name": "Young Bodies",
       "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Campfire, Vol. 1",
-        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Let's Go Outside - Campfire Version",
-      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Last Line",
         "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Patchwork Heart",
-        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
+        "name": "Campfire, Vol. 1",
+        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
       },
       "artists": [
         {
-          "name": "Justin Wade Tam",
-          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
         }
       ],
-      "duration_ms": 239152,
-      "name": "Patchwork Heart",
-      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
+      "duration_ms": 205454,
+      "name": "Let's Go Outside - Campfire Version",
+      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -811,6 +795,22 @@
       "duration_ms": 284880,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/0Lrw2If9v68OrhrOw1FV3C"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Patchwork Heart",
+        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
+      },
+      "artists": [
+        {
+          "name": "Justin Wade Tam",
+          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
+        }
+      ],
+      "duration_ms": 239152,
+      "name": "Patchwork Heart",
+      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Some Kind of Heaven",
-        "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 310799,
-      "name": "Some Kind of Heaven",
-      "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Mary Glenn",
         "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 246920,
       "name": "Ballroom",
       "url": "https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Some Kind of Heaven",
+        "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 310799,
+      "name": "Some Kind of Heaven",
+      "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "I Wish I Knew",
-        "url": "https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 214013,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "I Wish I Knew",
+        "url": "https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
     },
     {
       "added_at": "2024-08-23 15:12:14",

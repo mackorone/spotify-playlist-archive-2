@@ -2,9 +2,9 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Zolita
 
-633 songs - 1 day 9 hr 50 min
+635 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Apartment A](https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Apartment A](https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx) | 3:12 | 2024-02-02 | 2024-07-13 |
 | [ARCADE](https://open.spotify.com/track/4So3jKLjCLUMWty6Ooa6IS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 2:52 | 2026-06-02 | 2026-08-08 |
 | [Armor](https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Armor](https://open.spotify.com/album/1zBqEegAnkQolF1pfCAjf4) | 2:42 | 2024-02-02 | 2025-05-31 |
-| [As\-tu des cigarettes](https://open.spotify.com/track/2RKK7gsT1oGk4Ftdmn2nMZ) | [Sami Landri](https://open.spotify.com/artist/6V2ZugS8D1vjYbyFy21EVq) | [As\-tu des cigarettes](https://open.spotify.com/album/7CwWoXviPTnEBBNHJMfkdY) | 2:36 | 2026-05-15 |  |
+| [As\-tu des cigarettes](https://open.spotify.com/track/2RKK7gsT1oGk4Ftdmn2nMZ) | [Sami Landri](https://open.spotify.com/artist/6V2ZugS8D1vjYbyFy21EVq) | [As\-tu des cigarettes](https://open.spotify.com/album/7CwWoXviPTnEBBNHJMfkdY) | 2:36 | 2026-05-15 | 2026-08-28 |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-05-30 | 2025-11-01 |
 | [ATTENTION!](https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [ATTENTION!](https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM) | 3:28 | 2025-08-01 | 2025-12-06 |
 | [August](https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [August](https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB) | 3:33 | 2026-08-14 |  |
@@ -135,7 +135,7 @@
 | [Diamond Eyes](https://open.spotify.com/track/0MNVHfB2u3cVfT4L2vXR86) | [Gregory Dillon](https://open.spotify.com/artist/2Tn88QCFtNhPRnqzwYtrP1), [Strange Talk](https://open.spotify.com/artist/0trBqRcZ4lXqh8FERL5ZMa) | [Diamond Eyes](https://open.spotify.com/album/3YhBNq6O4MOE42HRkc8JXa) | 3:17 | 2023-12-15 | 2024-06-01 |
 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 | 2026-06-16 |  |
 | [Dildo Machine](https://open.spotify.com/track/2I9x0XMsntFsDPpsR02KN4) | [ShyBoy](https://open.spotify.com/artist/7ffd31YbzS82DddmRc5p3v), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Queer for Fear: The History of Queer Horror \(Original Score and Soundtrack\)](https://open.spotify.com/album/2ipiLNbC5npVA1woNdCmJT) | 4:22 | 2023-12-15 | 2024-03-09 |
-| [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 | 2026-07-29 |  |
+| [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 | 2026-07-29 | 2026-08-28 |
 | [DIRTY LAUNDRY](https://open.spotify.com/track/0isHOpxX24hWVdpzAh3nFH) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [DIRTY LAUNDRY](https://open.spotify.com/album/4z0qOiQYbcoUY8RUYpx4DF) | 4:46 | 2026-08-21 |  |
 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-03-03 | 2026-03-28 |
 | [Dog](https://open.spotify.com/track/7EhOrPGj3Tfc4CPoDiA8rl) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Gentleman](https://open.spotify.com/album/1I82HtlqS1Fdb6zp7R0deo) | 3:08 | 2026-05-15 | 2026-07-04 |
@@ -367,6 +367,7 @@
 | [MAGNETIC](https://open.spotify.com/track/69d48Kbu4YBG3B1Erg4iNg) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [MAGNETIC](https://open.spotify.com/album/5vme92kLr1E7DEd9OjSsEv) | 3:32 | 2026-01-13 | 2026-04-04 |
 | [MAKE IT OUT ALIVE \- Choral Version](https://open.spotify.com/track/27pu3BRxnArxaFl3wGIX5I) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Nashville In Harmony](https://open.spotify.com/artist/3VCAaHo80nO3Uadwjdppfn) | [MAKE IT OUT ALIVE \(Versions\)](https://open.spotify.com/album/0Uw3H8ri1HNrAopsui8EoY) | 3:33 | 2026-06-02 | 2026-07-04 |
 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 | 2026-05-15 |  |
+| [Make It Rain](https://open.spotify.com/track/5ta5ePNdJgwIANO9Dwuau3) | [katie MAC](https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5) | [Make It Rain](https://open.spotify.com/album/16ff3pBtVlIQixTs71nP6Q) | 3:23 | 2026-08-28 |  |
 | [Make Me Cry](https://open.spotify.com/track/305s8gfZak0wZgzf0RWwm4) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Make Me Cry](https://open.spotify.com/album/2IUQaiz4lIh3g3J57hQ4xh) | 4:07 | 2023-12-15 | 2024-04-06 |
 | [Makeover](https://open.spotify.com/track/5jnYMwh1KAQrCyc6woj861) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Hold Onto Me Infinity](https://open.spotify.com/album/0rqMll4qDYKLlnYvqLPi4e) | 4:24 | 2026-05-22 | 2026-06-17 |
 | [MAMMA MIA!](https://open.spotify.com/track/2ypbjGPW86Ee6KTYkbM7fM) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [Lagoona Bloo](https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp) | [MAMMA MIA!](https://open.spotify.com/album/5PhphZfF1VJpMc3riwJDMb) | 3:26 | 2024-05-31 | 2025-08-09 |
@@ -383,6 +384,7 @@
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-09 | 2025-09-06 |
 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 | 2025-05-30 | 2025-11-29 |
 | [Miss Congeniality](https://open.spotify.com/track/2AxudteZqvoRrxLL6PiWpE) | [Rivkah Reyes](https://open.spotify.com/artist/5b77JnBZDTvUGNRCw5OdRw) | [Miss Congeniality](https://open.spotify.com/album/5fSptVKY5tMN0Cg8dLe0iq) | 2:59 | 2026-05-15 | 2026-07-04 |
+| [Miss Misunderstood](https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:43 | 2026-08-28 |  |
 | [mon chéri…](https://open.spotify.com/track/4BWRbNcTnJpHL47hlY8Ntl) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [CANINES](https://open.spotify.com/album/7jRVnXlOfv9qoj5nM4OBOC) | 3:18 | 2026-07-31 |  |
 | [MOSH★PIT](https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj) | 2:44 | 2026-05-22 | 2026-06-17 |
 | [move](https://open.spotify.com/track/1JKtH7QlufzDh3qbnudQG9) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [move](https://open.spotify.com/album/5FuHOjldh7S3B6W8Yb9C5N) | 5:24 | 2026-03-27 | 2026-04-18 |

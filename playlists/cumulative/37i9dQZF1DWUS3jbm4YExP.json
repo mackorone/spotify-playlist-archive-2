@@ -9217,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "Litter in Japan",
+        "url": "https://open.spotify.com/album/6P5cUz4tpCK6b1uCnSrgE5"
+      },
+      "artists": [
+        {
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250586,
+      "name": "Litter in Japan",
+      "url": "https://open.spotify.com/track/5Gwq6Oefxhub81prd9Ib00"
+    },
+    {
+      "album": {
         "name": "Music Sun Love",
         "url": "https://open.spotify.com/album/4k9DC9Gc7OhaBBEfuPM1fV"
       },
@@ -10428,7 +10446,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 223280,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm"

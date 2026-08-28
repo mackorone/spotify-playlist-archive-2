@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: MaWhoo, Lwah Ndlunkulu",
+  "description": "Proudly Southern African Afropop gems. Cover: Marcus Harvey",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -8527,6 +8527,24 @@
     },
     {
       "album": {
+        "name": "Son of Elvis",
+        "url": "https://open.spotify.com/album/4d2zcshoD27NGmfXUaiTlP"
+      },
+      "artists": [
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153119,
+      "name": "Mapula",
+      "url": "https://open.spotify.com/track/50VKji3mzRcgYlvKT2iMwv"
+    },
+    {
+      "album": {
         "name": "Otherwise, uRight?",
         "url": "https://open.spotify.com/album/6znV0z4e94CXQeSemVjlLI"
       },
@@ -16458,7 +16476,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 279300,
       "name": "X2",
       "url": "https://open.spotify.com/track/1XqzyXxiaThMnlzZTC1tSW"

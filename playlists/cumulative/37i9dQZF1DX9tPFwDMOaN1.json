@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover:  BIGBANG)",
+  "description": "The new & hottest K-Pop is here! (Cover:  JENNIE)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -6625,6 +6625,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel (Digital EP)",
+        "url": "https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/7eMboW65OkU9ebcSHV1PZf"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e"
       },
@@ -8506,7 +8524,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/1gK5uqArBDmAJSr0DwvJ1b"

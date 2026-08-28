@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kiefer",
+  "description": "New jazz for open minds. Cover: Ezra Collective",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -4900,6 +4900,32 @@
       "duration_ms": 360874,
       "name": "Black Alchemy/Hall of Mirrors",
       "url": "https://open.spotify.com/track/36tF6eoNw42PF9KsHV25wg"
+    },
+    {
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256590,
+      "name": "Black Box - feat. Kamasi Washington",
+      "url": "https://open.spotify.com/track/0fv00pOf3fObPKjVHk1K5Y"
     },
     {
       "album": {
@@ -13426,7 +13452,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 280986,
       "name": "Finding Ways",
       "url": "https://open.spotify.com/track/0AfHjDkvsE4aCDIg2wZsBa"
@@ -17784,7 +17810,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180572,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/1mFAWXLDMxV7j9fsZPSoDG"
@@ -18032,7 +18058,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 236519,
       "name": "Idea #5",
       "url": "https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL"
@@ -18156,6 +18182,28 @@
       "duration_ms": 209338,
       "name": "If It's Magic",
       "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
+    },
+    {
+      "album": {
+        "name": "The Wise Ones",
+        "url": "https://open.spotify.com/album/3udwsH8ccObgP7T3K5l0fg"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265533,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/20CpGtjnNhin6QYpJ4ry03"
     },
     {
       "album": {
@@ -20042,6 +20090,24 @@
       "duration_ms": 198500,
       "name": "joycelyn's dance",
       "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
+    },
+    {
+      "album": {
+        "name": "Jubilee Feeling",
+        "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255227,
+      "name": "Jubilee Feeling",
+      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
     },
     {
       "album": {
@@ -23462,6 +23528,32 @@
       "duration_ms": 305792,
       "name": "Malika",
       "url": "https://open.spotify.com/track/1GPBGZ4OVHXQ8YqVdcoKEm"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/1CQxvYL6X6OVUwOO7aBKJ5"
+      },
+      "artists": [
+        {
+          "name": "Dexter Story",
+          "url": "https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq"
+        },
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0pUqnKg1SUbfWciG9TW6jw"
     },
     {
       "album": {
@@ -32057,6 +32149,36 @@
     },
     {
       "album": {
+        "name": "Q Theory - Quantum Leap, Vol. 2",
+        "url": "https://open.spotify.com/album/16Pa2BiwPMuCOtLsilI5uv"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Godwin Louis",
+          "url": "https://open.spotify.com/artist/55fpW8TiyXHPkUDHyHtzzS"
+        },
+        {
+          "name": "Patrick Pelissier",
+          "url": "https://open.spotify.com/artist/3pebHrhpzvEqRFEQEBuaZZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363216,
+      "name": "Rocinha (feat. Robert Glasper, Godwin Louis and Patrick Pelissier)",
+      "url": "https://open.spotify.com/track/4oZtsxBqLVYJOlUwJOdcmA"
+    },
+    {
+      "album": {
         "name": "Romance Sans Paroles",
         "url": "https://open.spotify.com/album/3f6hrDWKOZpo0l1O75SYKc"
       },
@@ -32608,7 +32730,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 245260,
       "name": "Saturday Spin",
       "url": "https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF"
@@ -36282,7 +36404,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 209000,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6"
@@ -39163,6 +39285,24 @@
     },
     {
       "album": {
+        "name": "Paintbox",
+        "url": "https://open.spotify.com/album/0JV1XQClRLvBqWzpazsuV1"
+      },
+      "artists": [
+        {
+          "name": "Emma Rawicz",
+          "url": "https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384200,
+      "name": "The Oak Tree",
+      "url": "https://open.spotify.com/track/24HShANBRAbdMiefuhtOsX"
+    },
+    {
+      "album": {
         "name": "the ordinary is ordinary because it ordinarily repeats",
         "url": "https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv"
       },
@@ -39694,7 +39834,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 603920,
       "name": "The Tide and the Moon",
       "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
@@ -40016,7 +40156,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 329453,
       "name": "The Wise Ones",
       "url": "https://open.spotify.com/track/4eUcQGWAFhoYcKsLuFMroj"
@@ -44180,6 +44320,24 @@
       "duration_ms": 262653,
       "name": "Wichita Lineman (feat. Nick Cave)",
       "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
+    },
+    {
+      "album": {
+        "name": "Wide Eyes",
+        "url": "https://open.spotify.com/album/5oLNLaAZGgeBdLd2hCOllY"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391386,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/5vSVVvlLiU7EBMU1hRXieV"
     },
     {
       "album": {

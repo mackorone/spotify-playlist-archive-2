@@ -4,7 +4,7 @@
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop\-rock favorites.
 
-92 songs - 5 hr 53 min
+93 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Before I Loved You](https://open.spotify.com/track/2JxNmnMnMLO12m5l20x73G) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Before I Loved You](https://open.spotify.com/album/5oZROnjg2iP6afypIZyqFe) | 3:28 | 2023-06-08 |  |
 | [Best Days](https://open.spotify.com/track/5cgXkFQhH1Tku9S1gDVVIM) | [Matt White](https://open.spotify.com/artist/5nrKbDQoztn1qIZAwXvGUq) | [Do You Believe](https://open.spotify.com/album/3o7rcs3M0vvqtvEfQ79QHw) | 3:00 | 2023-06-08 |  |
 | [Better Days](https://open.spotify.com/track/2hiB8QxWic092OablwpoVC) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Let Love In](https://open.spotify.com/album/2EaUXdvwjATa08yxT8uGzR) | 3:33 | 2023-07-06 |  |
+| [Blue Brush\-Footed Butterfly](https://open.spotify.com/track/2QVpQ3lEaAuOOnhZRffYh3) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/0O2BBZ5P4ljzLyyYfSVedH) | 3:15 | 2026-08-28 |  |
 | [Boston](https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [All The Stars and Boulevards](https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK) | 4:05 | 2023-06-08 |  |
 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 | 2023-07-06 |  |
 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 | 2023-07-06 |  |
@@ -59,7 +60,7 @@
 | [Live Like We're Dying](https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Kris Allen](https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP) | 3:32 | 2023-07-06 |  |
 | [Lonely No More](https://open.spotify.com/track/4faFAhOflLzhfJECveRwva) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 3:46 | 2023-07-06 |  |
 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-04-26 | 2026-06-12 |
-| [Mad Dog in the Fog](https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/5k6bVjojHQOCux6plgLwia) | 3:47 | 2026-07-31 |  |
+| [Mad Dog in the Fog](https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/5k6bVjojHQOCux6plgLwia) | 3:47 | 2026-07-31 | 2026-08-28 |
 | [Manhattan From The Sky](https://open.spotify.com/track/523xr53yavDWpxl7etEdag) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [A Fine Mess \(Deluxe\)](https://open.spotify.com/album/46Kny4qy8FGd0AE0L3M4Lz) | 3:31 | 2023-06-08 |  |
 | [Miss California](https://open.spotify.com/track/48NtFCrBTfehbMhbZrkPGR) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Imperfect Circle](https://open.spotify.com/album/7pvoNsdHfd3MhBiV7CzUQV) | 3:11 | 2023-06-08 |  |
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2023-06-08 |  |

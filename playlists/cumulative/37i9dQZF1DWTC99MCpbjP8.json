@@ -9644,6 +9644,24 @@
     {
       "album": {
         "name": "Solace",
+        "url": "https://open.spotify.com/album/022d17fNu5mmhqcrsQ0mJA"
+      },
+      "artists": [
+        {
+          "name": "Freya Bagger",
+          "url": "https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167122,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/4Jsgy7qBam1hLdeGMSsjBZ"
+    },
+    {
+      "album": {
+        "name": "Solace",
         "url": "https://open.spotify.com/album/2bq4ptv6LwMRFnNedCAp5n"
       },
       "artists": [

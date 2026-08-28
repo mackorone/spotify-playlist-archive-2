@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: The Tullamarines",
+  "description": "New and local indie noise. Cover: Lucky",
   "name": "Local Noise",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 221772,
       "name": "10Tall",
       "url": "https://open.spotify.com/track/04LjJGH3w4RDrAbNki1nOx"
+    },
+    {
+      "album": {
+        "name": "13 Days",
+        "url": "https://open.spotify.com/album/6JwN2neVoggnAnb9zkryhB"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241280,
+      "name": "13 Days",
+      "url": "https://open.spotify.com/track/1FJ2qhndBNNmF1tMMOvxkP"
     },
     {
       "album": {
@@ -2109,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "HEAD NOISE",
+        "url": "https://open.spotify.com/album/6PZB7q0t1EnxqCzol3H3xZ"
+      },
+      "artists": [
+        {
+          "name": "Bugs",
+          "url": "https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299616,
+      "name": "Blushing",
+      "url": "https://open.spotify.com/track/1f6kL5n8crEcT4dI5iDjA7"
+    },
+    {
+      "album": {
         "name": "Dead Slow",
         "url": "https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC"
       },
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 240469,
       "name": "Broken Chair",
       "url": "https://open.spotify.com/track/5ExzxIsLEJ1yy1ycWdQkZj"
@@ -2466,6 +2502,24 @@
       "duration_ms": 165500,
       "name": "Burn My Scars",
       "url": "https://open.spotify.com/track/4WyuJ1Z4epLkuZn95CcZP4"
+    },
+    {
+      "album": {
+        "name": "No Chaser",
+        "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160618,
+      "name": "Burning Tide",
+      "url": "https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ"
     },
     {
       "album": {
@@ -2570,7 +2624,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 269666,
       "name": "Call Me For A Good Time",
       "url": "https://open.spotify.com/track/6p0yWILto6xr66MOta9gea"
@@ -3118,6 +3172,24 @@
       "duration_ms": 200240,
       "name": "Chewing Gum",
       "url": "https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg"
+    },
+    {
+      "album": {
+        "name": "Child's Play",
+        "url": "https://open.spotify.com/album/7cVt3reoLHx4qMduqyhUmW"
+      },
+      "artists": [
+        {
+          "name": "Maple's Pet Dinosaur",
+          "url": "https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206496,
+      "name": "Child's Play",
+      "url": "https://open.spotify.com/track/4STb9qQzJLKGzDJq5YVINx"
     },
     {
       "album": {
@@ -3787,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "Counting The Days",
+        "url": "https://open.spotify.com/album/0bc7blu6jKABTPGwbHDe41"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163465,
+      "name": "Counting The Days",
+      "url": "https://open.spotify.com/track/0LtfzO8EAU8xvrNl89H9Ci"
+    },
+    {
+      "album": {
         "name": "Coup De Gronk",
         "url": "https://open.spotify.com/album/3hD5HtmgNR8qDmw51vN42Z"
       },
@@ -3949,6 +4039,24 @@
     },
     {
       "album": {
+        "name": "Crying With You",
+        "url": "https://open.spotify.com/album/30vZZ5sJNDIHDpTkvsysWv"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240512,
+      "name": "Crying With You",
+      "url": "https://open.spotify.com/track/7KyzVX3EUJduoARu312p2Y"
+    },
+    {
+      "album": {
         "name": "Cut It Out",
         "url": "https://open.spotify.com/album/1n4mAv6vK1zXMfWyfse2Mp"
       },
@@ -4050,7 +4158,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187500,
       "name": "Darling",
       "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
@@ -4966,7 +5074,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 249626,
       "name": "EARSHOT",
       "url": "https://open.spotify.com/track/5cTTgOXYkVvfgDepX5QN6M"
@@ -5315,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Every Time You Say It's Love",
+        "url": "https://open.spotify.com/album/0nN1tLOPW8c5zQXmegldnW"
+      },
+      "artists": [
+        {
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172280,
+      "name": "Every Time You Say It's Love",
+      "url": "https://open.spotify.com/track/19gph0ghe3LLM1f9yNf0Yn"
+    },
+    {
+      "album": {
         "name": "Everybody's Listening to the Radio Now",
         "url": "https://open.spotify.com/album/6s6wa0VYsAWKXIsbmADS7R"
       },
@@ -5452,7 +5578,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 189533,
       "name": "F.M.D.",
       "url": "https://open.spotify.com/track/72VOW8X0ZgYdc9pQnIqur1"
@@ -7214,7 +7340,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 228571,
       "name": "hate u",
       "url": "https://open.spotify.com/track/6l1Np73Yo0vBx9Cpp3LS93"
@@ -7448,7 +7574,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 144883,
       "name": "Hell",
       "url": "https://open.spotify.com/track/5DbvjTHBLeDCtUyUXhBqsQ"
@@ -7690,6 +7816,28 @@
       "duration_ms": 190081,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn"
+    },
+    {
+      "album": {
+        "name": "Holding Cell",
+        "url": "https://open.spotify.com/album/55fuxVQfDxNfZSt22xoUwN"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Holding Cell",
+      "url": "https://open.spotify.com/track/3Eqllh5NI6t00WAlfgSrAo"
     },
     {
       "album": {
@@ -9282,7 +9430,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174395,
       "name": "Kill You Back",
       "url": "https://open.spotify.com/track/08FMKTqe5CUHAPSmUb9r4q"
@@ -11404,7 +11552,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 211077,
       "name": "My Room",
       "url": "https://open.spotify.com/track/1Gl5HxbU5pJIPPVsKzAoDj"
@@ -11991,6 +12139,24 @@
     },
     {
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/7Mjt7OtR5rXu9lQ5I46m0z"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225783,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/4ww9k36wWGrnkt0W5Y8Ra4"
+    },
+    {
+      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/3Qo53R8og4ekj42m8inWT6"
       },
@@ -12056,7 +12222,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 165883,
       "name": "On a Leash",
       "url": "https://open.spotify.com/track/0HWS6QborXQQIREj0KuaqF"
@@ -12708,6 +12874,24 @@
       "duration_ms": 218219,
       "name": "Patiently",
       "url": "https://open.spotify.com/track/4QpdSZceLLtEMBQPf1jKBB"
+    },
+    {
+      "album": {
+        "name": "Pay Rise",
+        "url": "https://open.spotify.com/album/2v30klwsdT9a3S8hbhhLTc"
+      },
+      "artists": [
+        {
+          "name": "Sweetie",
+          "url": "https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160520,
+      "name": "Pay Rise",
+      "url": "https://open.spotify.com/track/56Dhvl8ir98Xu0WkN6Fi09"
     },
     {
       "album": {
@@ -14307,6 +14491,24 @@
     },
     {
       "album": {
+        "name": "Sacrosaint",
+        "url": "https://open.spotify.com/album/4wSNLirnMjPbHvsxxDnLPU"
+      },
+      "artists": [
+        {
+          "name": "Slowly Slowly",
+          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233248,
+      "name": "Sacrosaint",
+      "url": "https://open.spotify.com/track/7L2h3bpDgcolzITQp6aX3h"
+    },
+    {
+      "album": {
         "name": "Safety Pin",
         "url": "https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C"
       },
@@ -15019,7 +15221,7 @@
       "artists": [
         {
           "name": "Mannequin Death Squad",
-          "url": "https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA"
+          "url": "https://open.spotify.com/artist/648xB9zyK7sYhzhOmGBFAr"
         }
       ],
       "date_added": "2026-07-30",
@@ -15424,7 +15626,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 215435,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5ebpFvMuxCpqkMb3KqWSWX"
@@ -16766,6 +16968,24 @@
       "duration_ms": 153766,
       "name": "Take Another Lap",
       "url": "https://open.spotify.com/track/5AIzVo1aeyqQLu3auFTzpg"
+    },
+    {
+      "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/7CgpfXAmpOnatUIqo3QfKY"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140384,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/18sbcV3RQ2wgP3CCz61cMe"
     },
     {
       "album": {
@@ -18334,7 +18554,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 239874,
       "name": "Tunnel To Our Bliss",
       "url": "https://open.spotify.com/track/2fXWdC9DOlJY4TE0d180L4"
@@ -18940,7 +19160,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 243229,
       "name": "We Had It All",
       "url": "https://open.spotify.com/track/0rg7gFOFJsUZDNbgBabTsG"
@@ -19708,6 +19928,24 @@
       "duration_ms": 216000,
       "name": "You're On Your Own This Time, Again",
       "url": "https://open.spotify.com/track/6refloGDPQzdncMkazz7ED"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/5b74C73rI1bggTx2n9e39i"
+      },
+      "artists": [
+        {
+          "name": "The Cheaks",
+          "url": "https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194196,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/4lS9bQHxi72SZVdlQBeGB1"
     },
     {
       "album": {

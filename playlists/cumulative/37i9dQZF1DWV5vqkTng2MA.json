@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Maggie Rose",
+  "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Josh Gilligan",
   "name": "the new retro",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 231729,
       "name": "Blind Ambition",
       "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 225098,
       "name": "Hang My Head in Shame",
       "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
@@ -3102,6 +3102,24 @@
       "duration_ms": 183080,
       "name": "Look It Here",
       "url": "https://open.spotify.com/track/6Xhqj29KSYBJSnlh7ZwXi2"
+    },
+    {
+      "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "album": {
@@ -4647,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "Sammy G's",
+      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
+    },
+    {
+      "album": {
         "name": "Little Neon Limelight",
         "url": "https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt"
       },
@@ -4818,6 +4854,24 @@
       "duration_ms": 176613,
       "name": "Shoot Me Straight",
       "url": "https://open.spotify.com/track/4XhaP2WsDqfIfEoP9pWRpP"
+    },
+    {
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203446,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
     },
     {
       "album": {
@@ -5432,6 +5486,24 @@
       "duration_ms": 197453,
       "name": "Swing That Thing",
       "url": "https://open.spotify.com/track/5oBGZryzl7e2wtNth9IHe0"
+    },
+    {
+      "album": {
+        "name": "Take It As It Is",
+        "url": "https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289313,
+      "name": "Take It As It Is",
+      "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
     },
     {
       "album": {
@@ -6272,7 +6344,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 219920,
       "name": "Who's Gonna Love You When I'm Gone",
       "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"

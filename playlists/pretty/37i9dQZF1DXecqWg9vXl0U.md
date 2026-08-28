@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,401 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,408 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 4 | [tu nombre](https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tu nombre](https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw) | 3:31 |
 | 5 | [el fin de los tiempos](https://open.spotify.com/track/78iQ5yHXGhIJD59QOFL3YW) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [el fin de los tiempos](https://open.spotify.com/album/4X13vjFX72SD9wUTWd2iYq) | 1:11 |
 | 6 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
-| 7 | [Astros](https://open.spotify.com/track/3efCwRP1EwuQOYPh5CD0dF) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Amante del Show](https://open.spotify.com/album/3Q8oyC6wThPVi6w84jqZVZ) | 3:23 |
+| 7 | [Eclipse](https://open.spotify.com/track/18U7HAw98r4jEMC2kce3SO) | [jere](https://open.spotify.com/artist/2pW3XFfc7CT0Uu9Ophy7zx) | [Pensamientos Violentos](https://open.spotify.com/album/5cHn5IrSpXnuyeRkacu0Al) | 3:28 |
 | 8 | [DUB COMPLEX](https://open.spotify.com/track/2rjP1QNx1liruVrTY9MlIS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 3:04 |
-| 9 | [Eclipse](https://open.spotify.com/track/18U7HAw98r4jEMC2kce3SO) | [jere](https://open.spotify.com/artist/2pW3XFfc7CT0Uu9Ophy7zx) | [Pensamientos Violentos](https://open.spotify.com/album/5cHn5IrSpXnuyeRkacu0Al) | 3:28 |
+| 9 | [Astros](https://open.spotify.com/track/3efCwRP1EwuQOYPh5CD0dF) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Amante del Show](https://open.spotify.com/album/3Q8oyC6wThPVi6w84jqZVZ) | 3:23 |
 | 10 | [Monterrey](https://open.spotify.com/track/75AZBKXYy52p3H7kU4bfJ1) | [Edgar Villarreal](https://open.spotify.com/artist/4Gs8OzUWnl7S6Zmdh7UwoK) | [Monterrey](https://open.spotify.com/album/1Xe894qEmBKCk0Nd7HMzga) | 3:13 |
 | 11 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
 | 12 | [Rumbos](https://open.spotify.com/track/0IIh65zsyhoEyOcoQWjBHl) | [Lulannie](https://open.spotify.com/artist/6oXyDpjRnLLErx7cflQk3O), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Delamatu](https://open.spotify.com/artist/0UyAWAMVxjvjbVr7liVO5j) | [Ficciones](https://open.spotify.com/album/4RyzdUqsoRHQ6840J4r9pT) | 3:53 |

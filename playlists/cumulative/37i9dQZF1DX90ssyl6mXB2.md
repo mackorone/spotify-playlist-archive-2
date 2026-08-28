@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off\. cover: Jaymin
 
-355 songs - 16 hr 18 min
+356 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Strangers](https://open.spotify.com/track/0hRGRX8FoVM6QiastWeO8u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Fuck, Marry, Kill](https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG) | 2:44 | 2026-04-17 |  |
 | [strip](https://open.spotify.com/track/2S8fy8xhBLcgbOq1TMGbwd) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [strip](https://open.spotify.com/album/0zY6ypwdZdLflCpWDwMCYb) | 2:02 | 2025-11-07 |  |
 | [strip](https://open.spotify.com/track/3o2Z9CRIir1qbr5eIxqxgn) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [SLIDER II](https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0) | 2:02 | 2025-11-07 | 2026-06-04 |
+| [Summer In Manila \(Oakland Pt.3\)](https://open.spotify.com/track/1E762OhcI2jkcahPlMaKiv) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Summer In Manila \(Oakland Pt.3\)](https://open.spotify.com/album/5WPRPijy7MYvpPvblrR24N) | 2:51 | 2026-08-28 |  |
 | [SUNRISE](https://open.spotify.com/track/2P6rt3bjK89diw8482QQt5) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [NIVA](https://open.spotify.com/album/1VUKae81QX1lng1x78e8yp) | 1:53 | 2025-04-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 | 2025-03-08 |
 | [sweet nothings](https://open.spotify.com/track/3rH8TjGLB7bOEF6tjrn0Yb) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [i'm not crying, u are](https://open.spotify.com/album/5XT2LoElBao7oO2l3bcJK5) | 3:55 | 2025-08-15 |  |

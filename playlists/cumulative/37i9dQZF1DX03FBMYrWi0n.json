@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: bombe",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: F\u00e9lix Collin",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 199582,
       "name": "(Trag\u00e9die)",
       "url": "https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V"
+    },
+    {
+      "album": {
+        "name": "1 000 000 de probl\u00e8mes",
+        "url": "https://open.spotify.com/album/1VbX4htOwGdywxsxLaeWwE"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136532,
+      "name": "1 000 000 de probl\u00e8mes",
+      "url": "https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov"
     },
     {
       "album": {
@@ -988,6 +1006,24 @@
       "duration_ms": 153161,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/09ldOu23gZPJYwH0QMw6pp"
+    },
+    {
+      "album": {
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
+      },
+      "artists": [
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
     },
     {
       "album": {
@@ -2936,7 +2972,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 223524,
       "name": "Dolbeau-Mistassini",
       "url": "https://open.spotify.com/track/5Ejwm3xvqMyuLM2btmlez3"
@@ -6675,6 +6711,24 @@
     },
     {
       "album": {
+        "name": "merci la vie",
+        "url": "https://open.spotify.com/album/0nNlOWs8MzEJT5bPa0JZjX"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9atoire",
+          "url": "https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175793,
+      "name": "merci la vie",
+      "url": "https://open.spotify.com/track/10cdEg6FXk3Ncj1YRCLjAS"
+    },
+    {
+      "album": {
         "name": "Messie",
         "url": "https://open.spotify.com/album/2iShXqWzIlmUbUFsjOB2kw"
       },
@@ -7675,6 +7729,24 @@
     },
     {
       "album": {
+        "name": "2TH",
+        "url": "https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O"
+      },
+      "artists": [
+        {
+          "name": "Bouvier Normal",
+          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
+    },
+    {
+      "album": {
         "name": "Oiseau de Nuit",
         "url": "https://open.spotify.com/album/07kOc70svJnWUYTRNkdHma"
       },
@@ -8439,6 +8511,24 @@
     },
     {
       "album": {
+        "name": "PROTOTYPE",
+        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
+      },
+      "artists": [
+        {
+          "name": "Madior",
+          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "PROTOTYPE",
+      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
+    },
+    {
+      "album": {
         "name": "PUSSY POP MUSIC",
         "url": "https://open.spotify.com/album/1rsuwlWAGPwjI9oF1RCUkX"
       },
@@ -8904,7 +8994,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 216868,
       "name": "Sad But Rad",
       "url": "https://open.spotify.com/track/2GIKdThTNB0oTiv0ZZCZqm"
@@ -9199,6 +9289,42 @@
     },
     {
       "album": {
+        "name": "sex & cigarettes",
+        "url": "https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Collin",
+          "url": "https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "sex & cigarettes",
+      "url": "https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27"
+    },
+    {
+      "album": {
+        "name": "SEXES",
+        "url": "https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T"
+      },
+      "artists": [
+        {
+          "name": "6ODEM3",
+          "url": "https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "SEXES",
+      "url": "https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf"
+    },
+    {
+      "album": {
         "name": "There\u2019s a Shadow in My Room and It Isn\u2019t Mine",
         "url": "https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6"
       },
@@ -9308,7 +9434,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 159688,
       "name": "Si j'te manque",
       "url": "https://open.spotify.com/track/1mlQyUkRTPTFqrDS3pyzfk"
@@ -9402,7 +9528,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 199500,
       "name": "skin 2 skin",
       "url": "https://open.spotify.com/track/4Q93NskCmmgXpkvANqNEQR"
@@ -9878,7 +10004,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 337719,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD"
@@ -10022,7 +10148,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 148000,
       "name": "TDPM",
       "url": "https://open.spotify.com/track/33OwyDNTDGGhbKdREipIva"
@@ -11280,7 +11406,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177973,
       "name": "\u00c0 chaque fois (PROBL\u00c8ME)",
       "url": "https://open.spotify.com/track/4DYxxONkSYlch0HiFc7gtD"

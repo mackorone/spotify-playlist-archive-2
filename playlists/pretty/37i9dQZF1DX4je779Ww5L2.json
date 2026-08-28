@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190281,
+  "num_followers": 190273,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox"
-      },
-      "artists": [
-        {
-          "name": "GOODWIN",
-          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 275686,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox"
+      },
+      "artists": [
+        {
+          "name": "GOODWIN",
+          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Homerun 2021",
-        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Homerun 2021",
-      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "i will be dead",
         "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
       },
@@ -431,22 +415,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Muddy Water",
-        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
-      },
-      "artists": [
-        {
-          "name": "DeNohr",
-          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Can",
         "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
       },
@@ -459,6 +427,38 @@
       "duration_ms": 201557,
       "name": "Can",
       "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Homerun 2021",
+        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Homerun 2021",
+      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Muddy Water",
+        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
+      },
+      "artists": [
+        {
+          "name": "DeNohr",
+          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Vacuum",
-      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Bright Belief",
         "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "sunflower boy",
-        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
       },
       "artists": [
         {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
         }
       ],
-      "duration_ms": 146605,
-      "name": "sunflower boy",
-      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+      "duration_ms": 215078,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -583,18 +567,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
+        "name": "sunflower boy",
+        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
         }
       ],
-      "duration_ms": 199542,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
+      "duration_ms": 146605,
+      "name": "sunflower boy",
+      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -611,6 +595,22 @@
       "duration_ms": 160523,
       "name": "Something Ain't Right - Acoustic",
       "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 199542,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "So do I",
-        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
-      },
-      "artists": [
-        {
-          "name": "PIMSKIN",
-          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "So do I",
-      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Mr. Beckett",
         "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "So do I",
+        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "So do I",
+      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "U&I",
         "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 153164,
       "name": "U&I",
       "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "love so blind (night tapes)",
-        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "love so blind - night tapes",
-      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -931,6 +915,22 @@
       "duration_ms": 183813,
       "name": "Silver Linings - Unplugged",
       "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "love so blind (night tapes)",
+        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "love so blind - night tapes",
+      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-07-17 14:00:09",

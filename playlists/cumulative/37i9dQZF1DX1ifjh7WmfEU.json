@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Golden Evening",
+        "url": "https://open.spotify.com/album/7y9iapXr3WnXyJB6UIHQFd"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135790,
+      "name": "Golden Evening",
+      "url": "https://open.spotify.com/track/1ea4EhpqnvMSHWN4RFRtsR"
+    },
+    {
+      "album": {
         "name": "Growing Old",
         "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
       },

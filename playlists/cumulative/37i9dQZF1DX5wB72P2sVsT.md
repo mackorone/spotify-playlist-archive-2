@@ -2,9 +2,9 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Jennifer Lopez x David Guetta au top des bangers dance/electro du moment !
+> Ofenbach au top des bangers dance/electro du moment !
 
-382 songs - 17 hr 37 min
+383 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 | 2026-03-12 |  |
 | [NO BATIDÃO](https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:29 | 2026-01-22 | 2026-07-17 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-24 | 2026-04-24 |
-| [No Good \(Start the Dance\)](https://open.spotify.com/track/3N8u196G4Gc0dPXRaUfpWZ) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [DJ Taylor & Flow](https://open.spotify.com/artist/77KIYjvvgejnj1RBYypiZm), [Hi:Fi](https://open.spotify.com/artist/6uV8YjBSp8HwmLzPYxfkUm) | [No Good \(Start the Dance\)](https://open.spotify.com/album/2SzL83c1puODCyxYV3mc2d) | 2:02 | 2026-04-02 |  |
+| [No Good \(Start the Dance\)](https://open.spotify.com/track/3N8u196G4Gc0dPXRaUfpWZ) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [DJ Taylor & Flow](https://open.spotify.com/artist/77KIYjvvgejnj1RBYypiZm), [Hi:Fi](https://open.spotify.com/artist/6uV8YjBSp8HwmLzPYxfkUm) | [No Good \(Start the Dance\)](https://open.spotify.com/album/2SzL83c1puODCyxYV3mc2d) | 2:02 | 2026-04-02 | 2026-08-28 |
 | [No Sleep](https://open.spotify.com/track/1Ksr48DhDi60pJSUcZfeUP) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [No Sleep](https://open.spotify.com/album/2Bw2hZirRV4JkOnaMMfUeq) | 3:36 | 2023-09-28 | 2023-11-24 |
 | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1) | 2:40 | 2026-04-30 | 2026-05-29 |
 | [Not Alone \(feat\. Diana Goldberg\)](https://open.spotify.com/track/1CLUWfqSXSvkjrE62Agg3e) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Not Alone \(feat\. Diana Goldberg\)](https://open.spotify.com/album/4qFbF1VvWyXUl2kK2MfDDU) | 2:45 | 2024-12-26 | 2025-02-14 |
@@ -373,6 +373,7 @@
 | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/track/4JQQF7uU5LEc5aubbkvA2K) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9) | 2:30 | 2024-03-22 | 2024-06-15 |
 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-11-20 | 2026-03-27 |
 | [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 | 2024-10-17 | 2025-02-21 |
+| [We Are Free](https://open.spotify.com/track/3mGfSQI27UpAM5eA4vOWSl) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [We Are Free](https://open.spotify.com/album/4wxgrEUkMIOL36WOVCrobR) | 2:28 | 2026-08-27 |  |
 | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/track/2HvoPXahbOrkzqDSkl8hkg) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/album/3n35KlA5opwtfkmK2XdC64) | 2:56 | 2023-11-02 | 2023-11-10 |
 | [Weak \- Nicolas Julian Remix](https://open.spotify.com/track/77rxRq4cs2HsaFiozPPt8d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/album/4Yhf7ybeRFrhCX6a8NsVha) | 2:56 | 2023-09-28 | 2023-11-05 |
 | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd) | 2:48 | 2023-12-28 | 2024-02-16 |

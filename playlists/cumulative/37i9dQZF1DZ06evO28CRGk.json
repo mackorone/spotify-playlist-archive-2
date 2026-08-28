@@ -138,7 +138,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 218600,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/2ASddVW0JXCecLbOcXrNV3"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 240301,
       "name": "Back To Work",
       "url": "https://open.spotify.com/track/4PhaYqAIRld4xnRk253ep3"
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 255093,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/5YBRtdtJzmPgtfjnkIARlr"
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 249666,
       "name": "Low Budget Allstar",
       "url": "https://open.spotify.com/track/7oyMGm1Jy02UDYgiyKjO4x"
@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 221626,
       "name": "Nonstante Tutto",
       "url": "https://open.spotify.com/track/5SB9INtcGjzZIkUCDv04Fm"
@@ -3616,6 +3616,36 @@
       "duration_ms": 264684,
       "name": "Ostatni Track",
       "url": "https://open.spotify.com/track/08qct5VN9lq7Rlj4vJTb2v"
+    },
+    {
+      "album": {
+        "name": "Out On The Streets",
+        "url": "https://open.spotify.com/album/0OXmC5bgkH92SWdLeq3SWl"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Dj Akrylik",
+          "url": "https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Out On The Streets",
+      "url": "https://open.spotify.com/track/5MUMaekhk7ijhLCKzFo0YR"
     },
     {
       "album": {

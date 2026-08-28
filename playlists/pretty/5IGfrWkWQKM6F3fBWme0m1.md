@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,485 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,486 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -280,7 +280,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 270 | [Earthbound II](https://open.spotify.com/track/76pZTg1ONU1hRpvAjbZZGn) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [Heart & Earth](https://open.spotify.com/album/4z6l1hnrwl1UlYcSMKu0mS) | 4:47 |
 | 271 | [Workout V1](https://open.spotify.com/track/6IyVkvHoRcJK0RjJnn0M2p) | [Omo Igi](https://open.spotify.com/artist/0vQynRdOSusKXht18K5fi3) | [Prone2](https://open.spotify.com/album/6Y2FhoIets5OySyUYuIExl) | 3:07 |
 | 272 | [Pulses of Light](https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Pulses of Light](https://open.spotify.com/album/4T0CTWKVRiKGjBs10feLYp) | 4:46 |
-| 273 | [Iano](https://open.spotify.com/track/6wQK08aHTFcBP42CUMYJZk) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/2EQuq6735uJj8T6xHZ1BPf) | 6:52 |
+| 273 | [Iano](https://open.spotify.com/track/6wQK08aHTFcBP42CUMYJZk) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/2EQuq6735uJj8T6xHZ1BPf) | 6:52 |
 | 274 | [Red Tarn](https://open.spotify.com/track/1UAdZy6TonYf48JXIa2ha9) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [In Cadence EP](https://open.spotify.com/album/41IdtO0ijNb8HTLtiKWr6E) | 5:22 |
 | 275 | [Backwards](https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Backwards](https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt) | 3:33 |
 | 276 | [Fuego \- Florentino Remix](https://open.spotify.com/track/1a7lH7Eee0FJuykoTTTEY0) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Fuego Remixes](https://open.spotify.com/album/2O6diItPqh4K24pp2tiDGk) | 3:13 |

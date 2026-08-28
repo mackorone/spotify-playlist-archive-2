@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,067 songs - 2 day 17 hr 7 min
+1,069 songs - 2 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [caravanas](https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [DOGA](https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY) | 4:06 | 2025-11-23 | 2026-01-15 |
 | [Carey](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:02 | 2025-12-24 | 2026-01-15 |
 | [Carnage](https://open.spotify.com/track/48Zr1JPrdjgbSFjNwpyqru) | [Political Asylum](https://open.spotify.com/artist/4vp78ch6qKQGJtcdnmlGuj) | [Winter](https://open.spotify.com/album/4KZkLwaHFDl5AQIueGeozH) | 2:01 | 2025-12-25 | 2026-01-15 |
+| [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 | 2026-08-27 |  |
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 | 2025-04-22 | 2025-05-09 |
 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 | 2025-10-26 | 2025-11-15 |
@@ -222,6 +223,7 @@
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-16 | 2025-07-04 |
 | [Devo](https://open.spotify.com/track/5gpvNp0THuMQEAkU1Kt0fB) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 1:40 | 2024-04-25 | 2024-05-16 |
 | [Diamonds and Gems](https://open.spotify.com/track/3W9d5rNGDNC3plYtX76Qy8) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:07 | 2025-04-02 | 2025-05-09 |
+| [Dino](https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 3:31 | 2026-08-27 |  |
 | [Disco Divina](https://open.spotify.com/track/0OaIzsNk36CofcdcdAZGam) | [Il Guardiano Del Faro](https://open.spotify.com/artist/4PmDAzACdkCCxw0Yt17db8) | [Oasis](https://open.spotify.com/album/7hEiLSzmYKkFggRKacZ4kH) | 4:06 | 2025-09-16 | 2025-10-14 |
 | [Disconnection Notice](https://open.spotify.com/track/04pdroSBYn8G41Z6RlweJb) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Murray St.](https://open.spotify.com/album/3jYv3H9FDiWyl8K0PMcsyp) | 6:24 | 2026-01-08 | 2026-03-13 |
 | [Distant Ships](https://open.spotify.com/track/7IhwT37vQe9IsXv51h9V7x) | [Rose Melberg](https://open.spotify.com/artist/3UArwiOs2JWYZ9oNxfTUBM) | [Distant Ships](https://open.spotify.com/album/5wWKCNj3559eqDbykB93CL) | 2:04 | 2026-03-24 | 2026-05-06 |

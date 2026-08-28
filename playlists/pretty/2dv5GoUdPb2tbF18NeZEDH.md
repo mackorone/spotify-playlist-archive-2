@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 
 > Desert queens, vintage california soul and dusty americana nights\. Featured genres: Americana, Desert Folk, Cosmic Country, Alt Country, Folk Rock, Singer\-Songwriter\. Follow insta @glitchandgoldmusic for interviews, Radar features and new discoveries\. Submit on glitchandgold.com
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 694 likes - 12 songs - 42 min 13 sec
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 696 likes - 12 songs - 42 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

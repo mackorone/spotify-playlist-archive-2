@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-4,468 songs - 9 day 1 hr 16 min
+4,470 songs - 9 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [80qm](https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [80qm](https://open.spotify.com/album/5nNXcTFibANjNbLye2jMLU) | 2:19 | 2024-05-25 | 2024-06-23 |
 | [9 bis 9](https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [9 bis 9](https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb) | 2:11 | 2023-05-06 | 2025-01-03 |
 | [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/track/5FmcqoKNe4pZqWrCVlVASl) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/album/5MjrVXkV1bRv2wxuYCdPgq) | 1:41 | 2023-08-28 | 2023-10-18 |
+| [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 | 2026-08-27 |  |
 | [90 Minuten](https://open.spotify.com/track/2Uqi7v6xVcIkAfsZYbnbym) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Lounge Musik](https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8) | 1:27 | 2026-07-25 | 2026-07-30 |
 | [90%](https://open.spotify.com/track/7CJmlOfMv7ZeuEFOPQp1gu) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [90%](https://open.spotify.com/album/2s9m37Y63Oiwln6btnBkUh) | 2:13 | 2026-05-16 | 2026-05-21 |
 | [90er Berlin](https://open.spotify.com/track/7A6fVgfo67mZkVAzEC3MRo) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [90er Berlin](https://open.spotify.com/album/5bwgOUZdynA5mQ7eBx5kiv) | 2:59 | 2021-12-12 | 2021-12-16 |
@@ -1156,7 +1157,7 @@
 | [Dónde](https://open.spotify.com/track/12WDhdA9LAn4FqiuPhOTWZ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Dónde](https://open.spotify.com/album/2dNSsIGrxlB0XPFbWccnwQ) | 2:40 | 2025-02-01 | 2025-02-03 |
 | [dünya garip](https://open.spotify.com/track/6bv6J8M5mqOgy2N84NMUJm) | [oddworld](https://open.spotify.com/artist/4moOyBAkXsIAbF3pplCtv8), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [dünya garip](https://open.spotify.com/album/7MvT4UVT7jEfiXvmpny0aB) | 1:52 | 2025-11-22 | 2025-11-24 |
 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-01-31 | 2026-02-02 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-06-10 |  |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-06-10 | 2026-08-28 |
 | [Easy $$$](https://open.spotify.com/track/2G99YdDTpC14MgMnMDUofU) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR) | [Grosse Freiheit](https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S) | 2:09 | 2022-01-15 | 2022-01-17 |
 | [Easy Go](https://open.spotify.com/track/0NXi2nJX9VbvQJWDeNEqZx) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Easy Go](https://open.spotify.com/album/0BEQQRwdZ7gh9HHTtLbUO5) | 2:42 | 2023-10-14 | 2023-10-19 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
@@ -1743,7 +1744,7 @@
 | [HIMALAYA](https://open.spotify.com/track/1YfKs14w8DF5Sp4QNyoyGK) | [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HIMALAYA](https://open.spotify.com/album/4wRBzrMgka3Pe1duiP8tgg) | 2:26 | 2022-05-21 | 2022-05-29 |
 | [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 | 2024-04-06 | 2024-04-14 |
 | [Hin und Her](https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [Hin und Her](https://open.spotify.com/album/0pvSH2gyRSweJqDSelxPNK) | 2:38 | 2026-06-13 |  |
-| [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5) | 3:40 | 2026-05-24 |  |
+| [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5) | 3:40 | 2026-05-24 | 2026-08-28 |
 | [His & Hers](https://open.spotify.com/track/1f0rQWHF836MhkHD09IOXK) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [His & Hers](https://open.spotify.com/album/3LWbU43VerDRvfofAUW0zs) | 2:31 | 2026-07-25 | 2026-07-27 |
 | [Hit One](https://open.spotify.com/track/5OeScOAa7LAx2jN11RRVJe) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Hit One](https://open.spotify.com/album/3z6CXw7UiNQKZ2ZRSN6wfi) | 2:51 | 2025-07-05 | 2025-07-21 |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-16 | 2026-05-18 |
@@ -2018,6 +2019,7 @@
 | [JLO](https://open.spotify.com/track/4wfRzIMj4H0mhJsKtcL7ec) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [JLO](https://open.spotify.com/album/6ktCpNGwAMLr6KLLrQ8aDI) | 2:42 | 2025-02-08 | 2025-02-14 |
 | [JOANA](https://open.spotify.com/track/4nT2ralpzn89lA4MDouBp7) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [JOANA](https://open.spotify.com/album/1ZAWqhsvBb2n9xtzhtaQAc) | 3:18 | 2025-11-08 | 2025-11-10 |
 | [Joga Bonito](https://open.spotify.com/track/7ofoABAenYVAmgfoJ7jxes) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Joga Bonito](https://open.spotify.com/album/0Hrb09HDSWjnvbLBaTSWdO) | 2:29 | 2026-05-23 | 2026-06-04 |
+| [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 | 2026-08-27 |  |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-03 |
 | [JORDAN BELFORT INTERLUDE](https://open.spotify.com/track/6auAD3lNnay9eA7yVgS7ot) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [JORDAN BELFORT INTERLUDE](https://open.spotify.com/album/5v1rBZVxgYRk0vVSZfSxDh) | 2:00 | 2026-06-06 | 2026-06-08 |
 | [Juana](https://open.spotify.com/track/1KaGQY8CNpAq1YjLWOxS39) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Juana](https://open.spotify.com/album/01jh0svzT8sxJuVxgVD1hF) | 2:07 | 2026-08-08 | 2026-08-10 |

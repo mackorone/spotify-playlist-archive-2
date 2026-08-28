@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 209356,
       "name": "Almost Being in Love",
       "url": "https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160000,
       "name": "Autumn in July (in the Rain)",
       "url": "https://open.spotify.com/track/7q1XudrT5XgrCPJXPaiIwf"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 149939,
       "name": "Behind The Curtain",
       "url": "https://open.spotify.com/track/6jQAq445MrrF0t8YYdR88Y"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 181038,
       "name": "Calm And Restore",
       "url": "https://open.spotify.com/track/0t714TKW801BuUy11qPX0K"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 126500,
       "name": "Cosima and the rain",
       "url": "https://open.spotify.com/track/2Vzx62MFkOGyi7wJxhsAIs"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 138124,
       "name": "Drizzly Dreams",
       "url": "https://open.spotify.com/track/6XFVOpb6c0gtKCkn4ig1ii"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 260548,
       "name": "End of Rain",
       "url": "https://open.spotify.com/track/2cyZXpEgr7kEqlma6gggmE"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 162000,
       "name": "Hide and Seek (in the Rain)",
       "url": "https://open.spotify.com/track/7ycUMyZqNAdT4ZnhMTYUmQ"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172000,
       "name": "In Between (in the Rain)",
       "url": "https://open.spotify.com/track/4oR35ovIVwpb9msSmCw7jt"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168000,
       "name": "Just Memories (in the Rain)",
       "url": "https://open.spotify.com/track/3Wpguh8CyPWrs7yfBqpNNx"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 150000,
       "name": "Mid Air Mirage",
       "url": "https://open.spotify.com/track/1oFsk31Tp2mzvW3nHdQYWr"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Midnight Moon (Rain)",
       "url": "https://open.spotify.com/track/1ZncqbnwCe7myD7JvsypVb"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 158748,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/6JJ7JnW8fJZLrAbMMBkttV"
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Otherwise Spring",
+        "url": "https://open.spotify.com/album/2l8UEAnF0U3tsfxOvqKD5m"
+      },
+      "artists": [
+        {
+          "name": "Agnes Klein",
+          "url": "https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Otherwise Spring",
+      "url": "https://open.spotify.com/track/0Yr2WFleQ074Hpy4HaczPr"
+    },
+    {
+      "album": {
         "name": "Outside your window",
         "url": "https://open.spotify.com/album/3MiUva5NWt51EzvXvNm9l2"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Pine Forest",
       "url": "https://open.spotify.com/track/4k2Y75YydpxSfennoQdqUc"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155260,
       "name": "Rain Without End",
       "url": "https://open.spotify.com/track/53jhRxRviXotxxsNuYeXPK"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 154000,
       "name": "Sacrifices (in the Rain)",
       "url": "https://open.spotify.com/track/6Adas3JxvCNS25fd0kkl1q"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Saudade (rain)",
       "url": "https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 220482,
       "name": "Soothing Raindrops",
       "url": "https://open.spotify.com/track/6U0aQFWE7BJj3WSxE0Q8oG"
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 138139,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 125500,
       "name": "Turquoise rain",
       "url": "https://open.spotify.com/track/28wzOAQIs9IhZuv4I0zLH6"
@@ -2709,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Velaria",
+        "url": "https://open.spotify.com/album/0jeA2YgoBwumYV7kjwCSnE"
+      },
+      "artists": [
+        {
+          "name": "Lunea Noire",
+          "url": "https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142007,
+      "name": "Velaria",
+      "url": "https://open.spotify.com/track/5xTEuQgLjj2JSEwQ6M2IGc"
+    },
+    {
+      "album": {
         "name": "Vivid (rain)",
         "url": "https://open.spotify.com/album/5bfwIagQQosmKHVYnTh9I6"
       },
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 153107,
       "name": "Whispers of Dawn (in the Rain)",
       "url": "https://open.spotify.com/track/3tnGrx6JehRtt1Ew0q5DUa"

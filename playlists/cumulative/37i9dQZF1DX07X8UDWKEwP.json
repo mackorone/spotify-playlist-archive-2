@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Los \u00c1ngeles Azules y TINI",
+  "description": "Lo nuevo del mundo tropical. Cover: Lauta",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -625,6 +625,28 @@
     },
     {
       "album": {
+        "name": "DE MI CAT\u00c1LOGO",
+        "url": "https://open.spotify.com/album/5ZXm0YOJbYKYHQnFkAldaT"
+      },
+      "artists": [
+        {
+          "name": "Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
+        },
+        {
+          "name": "Los de Juancho",
+          "url": "https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268846,
+      "name": "Ah\u00ed Viene, Ah\u00ed Va",
+      "url": "https://open.spotify.com/track/4h5hlBFYCXhqIMzbuu2Wx4"
+    },
+    {
+      "album": {
         "name": "Ale Ale",
         "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
       },
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 320946,
       "name": "Am\u00e9 a Mi Manera",
       "url": "https://open.spotify.com/track/0ixOWBxBHVjEgukprnmEp9"
@@ -4650,7 +4672,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173693,
       "name": "Disc\u00falpeme Se\u00f1or",
       "url": "https://open.spotify.com/track/6c1ZfnHFuzU5Wh8PS48IWI"
@@ -5489,6 +5511,36 @@
     },
     {
       "album": {
+        "name": "El Mismo Aire (Remix)",
+        "url": "https://open.spotify.com/album/25E5393fIxawirTkDu9vkq"
+      },
+      "artists": [
+        {
+          "name": "La Revulsiva",
+          "url": "https://open.spotify.com/artist/4wNFb9W3qEbAgwk0Ln8iea"
+        },
+        {
+          "name": "Juanjo Morgade",
+          "url": "https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE"
+        },
+        {
+          "name": "Tiziano El Bomb\u00f3n de la Cumbia",
+          "url": "https://open.spotify.com/artist/3VQ35PnyCi0bUcfF9P2sxs"
+        },
+        {
+          "name": "Lucas Bunnker",
+          "url": "https://open.spotify.com/artist/1AIGPpwjs3zZXT7cJIYEOM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152083,
+      "name": "El Mismo Aire - Remix",
+      "url": "https://open.spotify.com/track/2FhtlPXmaJ1bcgMVXL3uCw"
+    },
+    {
+      "album": {
         "name": "2080",
         "url": "https://open.spotify.com/album/6tBSz0KOUayWW3yI1VcdKO"
       },
@@ -6118,7 +6170,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 188132,
       "name": "ENTR\u00c9GAME",
       "url": "https://open.spotify.com/track/3rkzQE7dyRH6UlbFgoqbWf"
@@ -6274,7 +6326,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 179350,
       "name": "Es por ti",
       "url": "https://open.spotify.com/track/3YMjInKKh90vzjaLrezMpj"
@@ -6314,7 +6366,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 259444,
       "name": "Es Una Locura",
       "url": "https://open.spotify.com/track/1CJ11DyYeirjnpbJL6qQyk"
@@ -6734,7 +6786,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 210447,
       "name": "FANTASMA",
       "url": "https://open.spotify.com/track/2WwWSOTnmtN1Xc3ic5xiXU"
@@ -6774,7 +6826,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 176250,
       "name": "FAVOR",
       "url": "https://open.spotify.com/track/7bdC5HsSCVFpKHOLZfn0u8"
@@ -9361,6 +9413,24 @@
     },
     {
       "album": {
+        "name": "Lo Nuestro Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/675MhAK1X2KUHcUODtAUyT"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196829,
+      "name": "Lo Nuestro Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/3clgHCFjmDz5MLr7XhQ58Y"
+    },
+    {
+      "album": {
         "name": "Momento Zero.",
         "url": "https://open.spotify.com/album/1qzCxXvPKPJQ5N6aTz0Ovv"
       },
@@ -9792,6 +9862,24 @@
       "duration_ms": 226432,
       "name": "Magia",
       "url": "https://open.spotify.com/track/1sbKA3XQ7CQXPF5BXwqGYy"
+    },
+    {
+      "album": {
+        "name": "Mal correspondido",
+        "url": "https://open.spotify.com/album/1BmOeSHcbEuIGmvqVUEq9t"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Mal correspondido",
+      "url": "https://open.spotify.com/track/0me65jYQpoB6fumoeuScCq"
     },
     {
       "album": {
@@ -14685,6 +14773,24 @@
     },
     {
       "album": {
+        "name": "San Judas Tadeo",
+        "url": "https://open.spotify.com/album/7DkuguUjWSdbtYVGWgNkgM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232562,
+      "name": "San Judas Tadeo",
+      "url": "https://open.spotify.com/track/2XjBJman1Dule4YpbxMW9c"
+    },
+    {
+      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
@@ -16631,6 +16737,28 @@
     },
     {
       "album": {
+        "name": "Yo Solo Quer\u00eda Divertirme",
+        "url": "https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133255,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/0PC3Pk2uMx1o2bNFr1Ba9K"
+    },
+    {
+      "album": {
         "name": "TROPiKETE",
         "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
       },
@@ -17500,6 +17628,24 @@
       "duration_ms": 290107,
       "name": "Vanidad",
       "url": "https://open.spotify.com/track/1QlJSCz5vDDsvbDovwcVlV"
+    },
+    {
+      "album": {
+        "name": "Vatos",
+        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146511,
+      "name": "Vatos",
+      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DVNE967JBk.md) - [plain]
 
 > Your Disneyland soundtrack is here all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,822 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,871 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

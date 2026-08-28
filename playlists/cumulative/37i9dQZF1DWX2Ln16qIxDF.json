@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Canciones que ten\u00e9s que escuchar  \ud83d\udcf8 TOBIKA & Yami Safdie",
+  "description": "Canciones que ten\u00e9s que escuchar  \ud83d\udcf8 Lauta",
   "name": "El Top 2026",
   "tracks": [
     {
@@ -8533,6 +8533,32 @@
     },
     {
       "album": {
+        "name": "Yo Solo Quer\u00eda Divertirme",
+        "url": "https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        },
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Ese Alguien Soy Yo",
+      "url": "https://open.spotify.com/track/4yrherdujo8OqdG5p9Vuwa"
+    },
+    {
+      "album": {
         "name": "ESPACIO",
         "url": "https://open.spotify.com/album/4xhFGaj0T9cAYG3wBhd87J"
       },
@@ -10704,7 +10730,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"

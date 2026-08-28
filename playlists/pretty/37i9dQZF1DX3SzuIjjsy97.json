@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407109,
+  "num_followers": 407107,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 300246,
-      "name": "Way Down Hadestown",
-      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "High School Musical 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 180693,
       "name": "Fabulous",
       "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 300246,
+      "name": "Way Down Hadestown",
+      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
     },
     {
       "added_at": "2026-07-29 10:41:14",

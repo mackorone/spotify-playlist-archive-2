@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 274308,
       "name": "LOVE HURTS",
       "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
@@ -3343,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "xperiment - cartunez",
+        "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143684,
+      "name": "rare creature",
+      "url": "https://open.spotify.com/track/2jEwyQK7vEniqlLPNDelwR"
+    },
+    {
+      "album": {
         "name": "RedRum",
         "url": "https://open.spotify.com/album/7fR5TB4x9uXQTABvFAgw8J"
       },
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 198631,
       "name": "RedRum",
       "url": "https://open.spotify.com/track/279cJxRBqU4IwLj6ppg0Li"
@@ -4009,6 +4027,28 @@
     },
     {
       "album": {
+        "name": "xperiment - cartunez",
+        "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "vamp city (with OsamaSon)",
+      "url": "https://open.spotify.com/track/4UyE3xTsvuyovBIODvhDV0"
+    },
+    {
+      "album": {
         "name": "REBIRTH",
         "url": "https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G"
       },
@@ -4024,6 +4064,24 @@
       "duration_ms": 196000,
       "name": "VENUS",
       "url": "https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R"
+    },
+    {
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/008gez3vC3exTPYRIRNYpP"
+      },
+      "artists": [
+        {
+          "name": "HXG",
+          "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134310,
+      "name": "Versus",
+      "url": "https://open.spotify.com/track/3BqiNcda0bGkjQJ1NhKoTB"
     },
     {
       "album": {
@@ -4158,7 +4216,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 222848,
       "name": "wedidit (with Playboi Carti)",
       "url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"

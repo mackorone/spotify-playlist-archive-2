@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/5fhTNA2BZ4ixWbY2tSZWQR"
+      },
+      "artists": [
+        {
+          "name": "Helang",
+          "url": "https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/2O6Yy4D8zCHr4CyPnc8p30"
+    },
+    {
+      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/7KYsXYxYko9FpBfG8jF0XH"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 305806,
       "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
       "url": "https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7"
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192209,
       "name": "Come To Life",
       "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
@@ -3485,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "Dancin",
+        "url": "https://open.spotify.com/album/5uCT9jfpzEPu58pp1qtsa9"
+      },
+      "artists": [
+        {
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/7rANCqEygdRQAWQoIq3OVK"
+    },
+    {
+      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7eQZtC02epRZy4P1Li7nFz"
       },
@@ -3504,7 +3540,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177405,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/2SUUs5xx9z1XPp46MYegiE"
@@ -4714,7 +4750,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 139047,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
@@ -5200,7 +5236,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 238125,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
@@ -8740,7 +8776,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Is Anyone There?",
       "url": "https://open.spotify.com/track/72KMAIU0XxUKsXblW2DRBC"
@@ -9942,7 +9978,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 203225,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/1OBa351gDcE1HWUsfaTCCy"
@@ -11240,6 +11276,28 @@
       "duration_ms": 433304,
       "name": "Multiversum",
       "url": "https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP"
+    },
+    {
+      "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "7 SKIES",
+          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/4u4wMk7GgiKCkT1uoaVl0t"
     },
     {
       "album": {
@@ -12852,7 +12910,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 212812,
       "name": "Paradigm",
       "url": "https://open.spotify.com/track/3qklz3reI4PMULFdMnvh9E"
@@ -13744,7 +13802,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193024,
       "name": "Raider on the Storm",
       "url": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA"
@@ -16170,7 +16228,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 198466,
       "name": "Subelo",
       "url": "https://open.spotify.com/track/5szq4GnsvihuuxYrKsdsP2"
@@ -17330,7 +17388,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 298125,
       "name": "The Spot",
       "url": "https://open.spotify.com/track/5fqLqeakKq58Eu05bx2si5"
@@ -18445,6 +18503,28 @@
     },
     {
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/23WfD5u5LWYBFlKo07p3Fc"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Humans Musik",
+          "url": "https://open.spotify.com/artist/3huzrC7mZ7tINmFf1g1hO0"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208578,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/3GCfgCb2mbTj6VeKmazKGh"
+    },
+    {
+      "album": {
         "name": "Undress",
         "url": "https://open.spotify.com/album/66qEnfu3obq6fu1sqKVpDO"
       },
@@ -19074,7 +19154,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 204965,
       "name": "We Watch",
       "url": "https://open.spotify.com/track/7L5bon0C6MMs8q6O2aFn06"

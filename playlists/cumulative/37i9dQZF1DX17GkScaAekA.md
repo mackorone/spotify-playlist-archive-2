@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-167 songs - 10 hr 39 min
+168 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Kol Nidrei, Op\. 47](https://open.spotify.com/track/6VzDnCR45eYPY6qW5waFYh) | [Max Bruch](https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5), [Astrig Siranossian](https://open.spotify.com/artist/4UgW7knecWcaJivnQJFkmu), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp) | [Sir!](https://open.spotify.com/album/4u6sUgcwEx0g6yQatZXLaU) | 10:11 | 2026-08-21 |  |
 | [Kreisleriana, Op\. 16: IV\. Sehr langsam](https://open.spotify.com/track/7IZbfKsq8IVKaO5dG1D101) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Schumann: Arabeske, Kreisleriana & Fantasie in C](https://open.spotify.com/album/6V3uJu4hhaDw8dQiVpTQuh) | 3:24 | 2025-09-19 |  |
 | [La catedral: I\. Preludio \(Saudade\)](https://open.spotify.com/track/1N1zNKs5kVMIAzDDt6Thwc) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Profesión](https://open.spotify.com/album/0dyXdhgy1xBPqk97JzFz8J) | 1:59 | 2024-09-06 |  |
+| [Leonore Overture No\. 3 in C Major, Op\. 72b](https://open.spotify.com/track/3Yz8BuiJ47zkKpbYhFPHMw) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5), [Antoine Tamestit](https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr) | [Beethoven for Three: Symphony No\. 3 "Eroica" and Leonore Overture No\. 3](https://open.spotify.com/album/3Hw8f8DBaeohURaMuWo2Bb) | 13:32 | 2026-08-28 |  |
 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 | 2021-11-09 | 2025-12-23 |
 | [Liszt: 12 Lieder von Franz Schubert, S\. 558: No\. 7, Frühlingsglaube](https://open.spotify.com/track/2R72B7gT4Xd43hMg6L2OrZ) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Schubert: Sonata in C Minor, D\. 958, 4 Impromptus, D\. 935 & Rondo, D\. 951](https://open.spotify.com/album/4aXv606D4yGVp48EP0NYEj) | 3:53 | 2025-04-14 |  |
 | [Liszt: 12 Études d'exécution transcendante, S\. 139: No\. 3, Paysage](https://open.spotify.com/track/0lbHYhKPi7O4ciIIkQ5Sdk) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Yoav Levanon](https://open.spotify.com/artist/52yX103V1TYtCoiuEHdDPO) | [Liszt: Paysage](https://open.spotify.com/album/3ukuyVyMtzm1HAqVkzma43) | 4:43 | 2025-08-22 |  |

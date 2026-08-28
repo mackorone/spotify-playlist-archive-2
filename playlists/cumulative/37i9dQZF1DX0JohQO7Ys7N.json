@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Njerae",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Kahuti",
   "name": "NairoBae",
   "tracks": [
     {
@@ -3646,6 +3646,24 @@
       "duration_ms": 196039,
       "name": "Maisha",
       "url": "https://open.spotify.com/track/5ZkpQo8ETp8Vei3eiv3oM7"
+    },
+    {
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds"
+      },
+      "artists": [
+        {
+          "name": "Kahuti",
+          "url": "https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz"
     },
     {
       "album": {

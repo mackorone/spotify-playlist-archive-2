@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 178909,
       "name": "Gentle River Flow",
       "url": "https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo"
@@ -5702,7 +5702,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 185625,
       "name": "Opening Trees",
       "url": "https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E"
@@ -7563,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "Symbolic",
+        "url": "https://open.spotify.com/album/2kleGofzY0AVL7bzSAuf9m"
+      },
+      "artists": [
+        {
+          "name": "Qualeis",
+          "url": "https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169888,
+      "name": "Symbolic",
+      "url": "https://open.spotify.com/track/24gnyEWYUMkZvPncFgimt6"
+    },
+    {
+      "album": {
         "name": "Taigara",
         "url": "https://open.spotify.com/album/4vDUobGl0tDNkhC45JOZYD"
       },
@@ -7996,6 +8014,24 @@
       "duration_ms": 189000,
       "name": "tinySketch #78",
       "url": "https://open.spotify.com/track/3mfka5FNYAkcZGYPfAslL6"
+    },
+    {
+      "album": {
+        "name": "To Walk Alone",
+        "url": "https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "To Walk Alone",
+      "url": "https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl"
     },
     {
       "album": {

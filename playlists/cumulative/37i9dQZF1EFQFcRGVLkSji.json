@@ -3081,6 +3081,28 @@
     },
     {
       "album": {
+        "name": "GENESIS FM",
+        "url": "https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160001,
+      "name": "science (feat. Nippa)",
+      "url": "https://open.spotify.com/track/2HOd0QqnkYWQRhU9gXzSuL"
+    },
+    {
+      "album": {
         "name": "softCORE",
         "url": "https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER"
       },

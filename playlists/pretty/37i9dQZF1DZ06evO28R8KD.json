@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAAAvfOdEdFkwUlEi4queTOKB",
+  "snapshot_id": "ao4sgAAAAADUPQhsyy1zklXDFbDxGzww",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noon Liquid Ore",
+        "url": "https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 265312,
+      "name": "Noon Liquid Ore",
+      "url": "https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw"
+    },
     {
       "added_at": null,
       "album": {

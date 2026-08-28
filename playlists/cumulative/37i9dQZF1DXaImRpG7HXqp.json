@@ -15759,6 +15759,24 @@
     },
     {
       "album": {
+        "name": "Writing A Letter",
+        "url": "https://open.spotify.com/album/4t0p9BjpkxVE0dCFk9y2Av"
+      },
+      "artists": [
+        {
+          "name": "Antonio Boulevard",
+          "url": "https://open.spotify.com/artist/41RSV4AuIGcLiAUFwrXMm3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134838,
+      "name": "Writing A Letter",
+      "url": "https://open.spotify.com/track/3vjGBj1R6uktBsFolNUpMO"
+    },
+    {
+      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/0dHwSbG86FO8aiGFrBrmFr"
       },

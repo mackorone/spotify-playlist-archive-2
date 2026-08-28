@@ -3623,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "Keys of Peace",
+        "url": "https://open.spotify.com/album/2DRrqId2qK96ILcALM8GFw"
+      },
+      "artists": [
+        {
+          "name": "Sander Von",
+          "url": "https://open.spotify.com/artist/0RVOnkqRPANxZjA0PWhY6t"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127605,
+      "name": "Keys of Peace",
+      "url": "https://open.spotify.com/track/5aC23fe0yVRDI2YLKNNdYU"
+    },
+    {
+      "album": {
         "name": "Kindred spirit",
         "url": "https://open.spotify.com/album/63bChEcIGDsqy1XAmagYNt"
       },

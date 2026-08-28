@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Silica Gel\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: g0nny \(거니\)\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,393 songs - 3 day 12 hr 21 min
+1,394 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [HELP!](https://open.spotify.com/track/5pKnUr9JRnNU49YvKWqNDU) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Bunny Tale](https://open.spotify.com/album/1GcXoTQr1o73yClQ4w8B8t) | 3:31 | 2026-03-24 | 2026-04-28 |
 | [her.](https://open.spotify.com/track/6Qf6rGWVYUgolA02Y1Si1Q) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [her.](https://open.spotify.com/album/0SjIGRHSAiqAIcreD9U1yO) | 3:21 | 2025-09-11 | 2025-10-18 |
 | [Here Comes Spring](https://open.spotify.com/track/0HoqKELIFy538h4oF7GxFT) | [Graphy](https://open.spotify.com/artist/6oEnCMb1JA0fhSK2UTUvI6) | [Here Comes Spring](https://open.spotify.com/album/0DshiGUF4rKrdZoFsgmnH2) | 3:59 | 2021-12-12 | 2022-07-23 |
+| [hey friend](https://open.spotify.com/track/62SAJVcTawajqiOEyozZXb) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [what am i afraid of when there′s nothing there](https://open.spotify.com/album/7fzhLZwPujCYQuM5oCbFF5) | 3:44 | 2026-08-28 |  |
 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 | 2021-12-12 | 2025-07-26 |
 | [HEY NERD!](https://open.spotify.com/track/3xMIKY0B2Xf2oQq6q5Wnmk) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c) | [HEY NERD!](https://open.spotify.com/album/2LCGy5OIlEjAmflbs0vX7X) | 2:49 | 2025-09-01 | 2025-10-10 |
 | [Hey Now](https://open.spotify.com/track/1we3DqWorRkHaav6dDDhjr) | [BULGOGI DISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [NOW](https://open.spotify.com/album/24N7mzkaXy64GPi0tEWANC) | 3:16 | 2026-07-16 |  |
@@ -651,7 +652,7 @@
 | [Leaves](https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Leaves](https://open.spotify.com/album/4WYPunihadZ0y8IRY96HZh) | 3:48 | 2026-02-12 | 2026-04-07 |
 | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4qL6T01dRe7p0EghSbfwsc) | 2:43 | 2025-07-10 | 2025-08-13 |
 | [Lego World](https://open.spotify.com/track/4Yc0l0eFYrcsCClR7TjzlX) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [B\-grade Media](https://open.spotify.com/album/393OXdx9w3DIlGDxYMTDIo) | 3:43 | 2025-08-08 | 2025-09-25 |
-| [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 | 2026-05-07 |  |
+| [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 | 2026-05-07 | 2026-08-28 |
 | [Lemonade](https://open.spotify.com/track/0CWdKdDpnK6R6c0sRKnyAR) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Lemonade](https://open.spotify.com/album/1czEu9Hok2Y5YAZQZZbCvA) | 3:40 | 2026-05-07 | 2026-07-01 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2022-03-31 | 2022-04-14 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 | 2022-07-27 | 2025-07-26 |

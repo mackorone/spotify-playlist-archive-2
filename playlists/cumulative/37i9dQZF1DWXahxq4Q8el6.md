@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-95 songs - 5 hr 25 min
+96 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Now We Are Free \- From "Gladiator" Soundtrack](https://open.spotify.com/track/1raWfcURBd1Q3W3K0ojDCM) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0HqvyHCJ9EaORFyA8BPDyW) | 4:14 | 2022-07-13 | 2023-04-17 |
 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/06kh9LReI7DrNWYxYAZzMm) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Classics: Ennio Morricone \- Vol\. 3](https://open.spotify.com/album/4KqqrffIOZrNTFmEkIBtYa) | 2:58 | 2022-09-16 | 2022-11-14 |
 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 | 2022-07-13 | 2024-04-19 |
+| [Obituary](https://open.spotify.com/track/6nn4ebgT72Cf8I5Dv4c9Wh) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Obituary \(From The Original Soundtrack Of The French Dispatch\)](https://open.spotify.com/album/3Q5AAcJoNHOpNPpn2k4txr) | 3:30 | 2026-08-28 |  |
 | [Raiders March](https://open.spotify.com/track/1YYKKW40noxJ8BNBODnriF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Kingdom of the Crystal Skull \(International Jewel\)](https://open.spotify.com/album/6NKHFx1dBKrBU68RDFo76f) | 5:05 | 2021-01-29 |  |
 | [Raiders March](https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Kingdom of the Crystal Skull \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5) | 5:05 | 2022-07-13 | 2024-04-19 |
 | [Rey's Theme](https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:11 | 2021-01-29 |  |

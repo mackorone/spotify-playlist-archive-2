@@ -1,13 +1,373 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Anna Graves\n",
-  "num_followers": 879922,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Le Ren\n",
+  "num_followers": 880073,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+jpNGY3AyurMeLQoRGEe+c2ocM",
+  "snapshot_id": "AAAAAJeNR6XV5VUKGgy+v/tj40Rluijt",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Don't Feel Right",
+        "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Don't Feel Right",
+      "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Don't Be Funny Without Me",
+        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Otherwise, I'm Fine",
+      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "So Much For Goodbyes",
+        "url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 251073,
+      "name": "Carry Us Home",
+      "url": "https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Angel So Bad",
+        "url": "https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u"
+      },
+      "artists": [
+        {
+          "name": "True Mountain Laurel",
+          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
+        }
+      ],
+      "duration_ms": 171460,
+      "name": "East of Anything",
+      "url": "https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/558wd4W4cpsbgcRmpmRYEh"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/5W0PNMx7FmjiyAUaoOBVSm"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Popfly",
+        "url": "https://open.spotify.com/album/2B72e5iSG2T6jPfBm7Fqlf"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Popfly",
+      "url": "https://open.spotify.com/track/59DBX7yXZx5dEAu0diFgna"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "I Don\u2019t Think About You At All",
+        "url": "https://open.spotify.com/album/2PyzkdpQyjz7JKSuhxzuhP"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "I Don't Think About You At All",
+      "url": "https://open.spotify.com/track/3OVHIXxMgDnWO3mimKikH7"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Gateways & Trains",
+        "url": "https://open.spotify.com/album/1uV4H916sDwrVHrDe0CLGy"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        },
+        {
+          "name": "Yum Yuck",
+          "url": "https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE"
+        }
+      ],
+      "duration_ms": 293207,
+      "name": "Backs of Trains",
+      "url": "https://open.spotify.com/track/6L0EKo08ZTPxwkKOi9tQjB"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/1Ju744dXpBffHJ2NqcpEZk"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "duration_ms": 178424,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/61ng94Niz1ZJUhjMyGHyx8"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Hi-Fi",
+        "url": "https://open.spotify.com/album/6Yj0yHeoiGgmvW82Gjv7xA"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Hi-Fi",
+      "url": "https://open.spotify.com/track/2W7L5fyCkI84EsUiffADwj"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sammy G's",
+      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Take This Bread",
+        "url": "https://open.spotify.com/album/5K7OCwKLIA0NoMM4DeDJRH"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        },
+        {
+          "name": "Felice County Fair",
+          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
+        }
+      ],
+      "duration_ms": 225201,
+      "name": "Take This Bread",
+      "url": "https://open.spotify.com/track/0PgojYQrr2lw1B4KXb8meR"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Therapist's Daughter",
+        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 173593,
+      "name": "Therapist's Daughter",
+      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/0Lak2L8IVUM8nPjJh4H7vV"
+      },
+      "artists": [
+        {
+          "name": "Fruition",
+          "url": "https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8"
+        }
+      ],
+      "duration_ms": 251525,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/1cG638T4uymBifCbyqy8Qj"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Clothes On",
+        "url": "https://open.spotify.com/album/6N3tCmu3jm0i9TY7cbVv4a"
+      },
+      "artists": [
+        {
+          "name": "Khatumu",
+          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
+        }
+      ],
+      "duration_ms": 238788,
+      "name": "Clothes On",
+      "url": "https://open.spotify.com/track/6FGeGrc1v4U5oi2uzS0Hrn"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Dark Feathers",
+        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
+      },
+      "artists": [
+        {
+          "name": "Renee Christine",
+          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Dark Feathers",
+      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "love's a cage",
+        "url": "https://open.spotify.com/album/2ifq5Q8Nkzz4rsWiLdHFRf"
+      },
+      "artists": [
+        {
+          "name": "Alan Fiore",
+          "url": "https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "love's a cage",
+      "url": "https://open.spotify.com/track/4QOZtELnWj7mDdpnDHjNjR"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "So The Sun Can Pour (Deluxe)",
+        "url": "https://open.spotify.com/album/7lrhgOrfBUO3dJQOVntPzn"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "duration_ms": 138581,
+      "name": "Flower Shop",
+      "url": "https://open.spotify.com/track/2pOzUB2iSQWq81MMuu6kgg"
+    },
+    {
+      "added_at": "2026-08-28 04:02:05",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F"
+      },
+      "artists": [
+        {
+          "name": "Sammi Heaney",
+          "url": "https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq"
+        }
+      ],
+      "duration_ms": 226122,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr"
+    },
     {
       "added_at": "2026-08-21 04:01:16",
       "album": {
@@ -2579,222 +2939,6 @@
       "duration_ms": 276546,
       "name": "Special",
       "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Black Lavender (ft. Brittney Spencer)",
-        "url": "https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Black Lavender (ft. Brittney Spencer)",
-      "url": "https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Whatever You Wanna",
-        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
-        }
-      ],
-      "duration_ms": 211486,
-      "name": "Whatever You Wanna",
-      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Anything He Was",
-        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Anything He Was",
-      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Don't Wanna Talk",
-        "url": "https://open.spotify.com/album/414F4S6uHCVsRZCJuBgY95"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Don't Wanna Talk",
-      "url": "https://open.spotify.com/track/2wHN2KgmzDPOszIJ8QMqHO"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Every Second",
-        "url": "https://open.spotify.com/album/3Vts22ItqLl9tlJGSj9r6c"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 154382,
-      "name": "Every Second",
-      "url": "https://open.spotify.com/track/4ilb8KnPp3ksJBz9F13mA2"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4"
-      },
-      "artists": [
-        {
-          "name": "Jordan Patterson",
-          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Reelin",
-        "url": "https://open.spotify.com/album/62Jnh12nK2w9rKee5BYNwE"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Reelin",
-      "url": "https://open.spotify.com/track/2IUAGDffoWoasAGUPu5sM5"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "I Don't Think of Kissing You",
-        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "I Don't Think of Kissing You",
-      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Beyond the Pale",
-        "url": "https://open.spotify.com/album/4XXCHWNny5jdN95g2hXbrC"
-      },
-      "artists": [
-        {
-          "name": "Cinder Well",
-          "url": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV"
-        }
-      ],
-      "duration_ms": 269833,
-      "name": "Beyond the Pale",
-      "url": "https://open.spotify.com/track/4Bp9tacwinu2kAbhSOxJGx"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/5SQVlmRmuP89gnW6c12bfQ"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 203956,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/34BOFpRdhkmFsVu2yUAgMY"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "Closed Doors (Great Damnation)",
-        "url": "https://open.spotify.com/album/4GWAdxhX6RnWmyTT645j81"
-      },
-      "artists": [
-        {
-          "name": "Renee Christine",
-          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
-        }
-      ],
-      "duration_ms": 196578,
-      "name": "Closed Doors (Great Damnation)",
-      "url": "https://open.spotify.com/track/0NmRLCy7BOeCQNWtm6jRL5"
-    },
-    {
-      "added_at": "2026-06-19 04:01:43",
-      "album": {
-        "name": "matador (with Louella)",
-        "url": "https://open.spotify.com/album/2oZa4gZkMc7tFaxu4rMRY8"
-      },
-      "artists": [
-        {
-          "name": "Khatumu",
-          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
-        },
-        {
-          "name": "Louella",
-          "url": "https://open.spotify.com/artist/7ssfxtXuXQOsRmfjQIp6R1"
-        }
-      ],
-      "duration_ms": 206041,
-      "name": "matador (with Louella)",
-      "url": "https://open.spotify.com/track/2uvjI92vG77beoB0hnX3zV"
     }
   ],
   "unique_name": "Fresh Folk",

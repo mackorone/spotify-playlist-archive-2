@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,368 likes - 150 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,419 likes - 150 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 129 | [the applebees outside kalamazoo, michigan](https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG) | 5:57 |
 | 130 | [Come Prima](https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 7:19 |
 | 131 | [Plastic Glacier](https://open.spotify.com/track/7gvKRnMCQUpZ0fLPWKUutw) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Plastic Glacier](https://open.spotify.com/album/1AxJ90rnRYJTWhVqbDmFae) | 7:13 |
-| 132 | [Haliod Xerrox Copy 3 \(Paris\) \- reMASTER](https://open.spotify.com/track/7aDqRNxPi6KkEN46MHMk5P) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Xerrox Vol\. 1 \(reMASTER\)](https://open.spotify.com/album/3dIwxVTTOoVCLU2tQ43XCS) | 11:17 |
+| 132 | [Haliod Xerrox Copy 3 \(Paris\) \- reMASTER](https://open.spotify.com/track/7aDqRNxPi6KkEN46MHMk5P) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Xerrox Vol\. 1 \(reMASTER\)](https://open.spotify.com/album/3dIwxVTTOoVCLU2tQ43XCS) | 11:17 |
 | 133 | [Worms In](https://open.spotify.com/track/2cb4G4H8rJ5JqueU6hr25X) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 2:32 |
 | 134 | [A Tune for Us](https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [A Tune for Us](https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27) | 5:53 |
 | 135 | [9°C](https://open.spotify.com/track/1y3BEsKLQ3NNVEjYOt4l9t) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [9°C](https://open.spotify.com/album/6Kn9w4RocAMB81C1m7LmYy) | 3:40 |

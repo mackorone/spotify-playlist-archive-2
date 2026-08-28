@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Briston Maroney",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Jonah Kagen\n",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -478,6 +478,24 @@
       "duration_ms": 213920,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
+    },
+    {
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/77Bno2Cix1P9rp07V0QUSv"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lima",
+          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200477,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/0WkgsnVnEqLmwxRACbAu2V"
     },
     {
       "album": {
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197539,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/00tvkuuXnJogx9XjxvPqOP"
@@ -1598,6 +1616,28 @@
       "duration_ms": 191693,
       "name": "Burning Earth",
       "url": "https://open.spotify.com/track/3Tx2cWkwWRbQdnf45a2YLm"
+    },
+    {
+      "album": {
+        "name": "Call Home",
+        "url": "https://open.spotify.com/album/5QAjN1HhovIP8FJUOT0AuN"
+      },
+      "artists": [
+        {
+          "name": "Vwillz",
+          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
+        },
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185583,
+      "name": "Call Home",
+      "url": "https://open.spotify.com/track/0E8KC0cKuIdj9NjaDBooVc"
     },
     {
       "album": {
@@ -2467,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Don't Feel Right",
+        "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Don't Feel Right",
+      "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
+    },
+    {
+      "album": {
         "name": "The Long Way Home (Vol 1)",
         "url": "https://open.spotify.com/album/3m6AT6rv7l6yjmFDc4eiFu"
       },
@@ -2504,7 +2562,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
@@ -2994,7 +3052,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 185000,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
@@ -3922,7 +3980,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197853,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/4psl72FmlFg9y711X88aEL"
@@ -4690,7 +4748,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174546,
       "name": "hometown",
       "url": "https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ"
@@ -7207,6 +7265,24 @@
     },
     {
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/1Ju744dXpBffHJ2NqcpEZk"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178424,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/61ng94Niz1ZJUhjMyGHyx8"
+    },
+    {
+      "album": {
         "name": "One Life (Acoustic)",
         "url": "https://open.spotify.com/album/0JJnuQKbA6mrON6NF6ZzEZ"
       },
@@ -7802,7 +7878,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 164486,
       "name": "Relate to you",
       "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
@@ -9424,7 +9500,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 190025,
       "name": "THE LOWS",
       "url": "https://open.spotify.com/track/79mpJRScxPAmlIXqGhb70I"
@@ -9828,7 +9904,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 182507,
       "name": "This Life",
       "url": "https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS"
@@ -9984,6 +10060,24 @@
       "duration_ms": 239265,
       "name": "time zones",
       "url": "https://open.spotify.com/track/4PwAIYkeLM1dxVpSpw9mno"
+    },
+    {
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO"
     },
     {
       "album": {
@@ -10164,6 +10258,24 @@
       "duration_ms": 217858,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN"
+    },
+    {
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
       "album": {
@@ -10607,6 +10719,24 @@
     },
     {
       "album": {
+        "name": "WHAT AM I DOING?",
+        "url": "https://open.spotify.com/album/0nBmW52mTtee3G8zPSTZgO"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163966,
+      "name": "WHAT AM I DOING?",
+      "url": "https://open.spotify.com/track/5MbIQfHUzea4zbsnsDueEL"
+    },
+    {
+      "album": {
         "name": "WHAT COMES NEXT",
         "url": "https://open.spotify.com/album/6gkyiQTcC3WxZg2TBR3apy"
       },
@@ -10998,6 +11128,24 @@
       "duration_ms": 170573,
       "name": "Wilburn Street",
       "url": "https://open.spotify.com/track/6IRxdL4Mhe52S8Iz2BPchz"
+    },
+    {
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
     },
     {
       "album": {

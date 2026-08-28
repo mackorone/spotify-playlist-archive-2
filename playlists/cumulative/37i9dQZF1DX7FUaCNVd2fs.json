@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/6BPhaPi6fgHRdNBr54AV6V"
+      },
+      "artists": [
+        {
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123700,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/3aUbGJKheqo6vHeOvNaGwd"
+    },
+    {
+      "album": {
         "name": "Approaching View",
         "url": "https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122897,
+  "num_followers": 122887,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVs63Cjaov45q5abCCc6KykFzzDRzh",
+  "snapshot_id": "AAAVte4gk7rETM7B/wNi5m2ks8vsl1gY",
   "tracks": [
+    {
+      "added_at": "2026-08-27 21:14:26",
+      "album": {
+        "name": "Lonely / Whatever Brought Us Here",
+        "url": "https://open.spotify.com/album/2i3vlZ4eKY8onPTB9MyxoJ"
+      },
+      "artists": [
+        {
+          "name": "Aether",
+          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
+        }
+      ],
+      "duration_ms": 180235,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1DV7TkWJatSTo5rbihHYVu"
+    },
     {
       "added_at": "2026-08-26 18:06:03",
       "album": {

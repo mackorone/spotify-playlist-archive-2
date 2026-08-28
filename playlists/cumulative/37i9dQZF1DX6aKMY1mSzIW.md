@@ -2,16 +2,18 @@
 
 ### [OPM Binge](https://open.spotify.com/playlist/37i9dQZF1DX6aKMY1mSzIW)
 
-> Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: Kyle Raphael
+> Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: Arthur Nery
 
-71 songs - 4 hr 24 min
+75 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [19 Underground](https://open.spotify.com/track/2eMGGFnk60oJ2K2RndYuch) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [19 Underground](https://open.spotify.com/album/45wvSE3FszjMfpHOQPiVLj) | 3:23 | 2026-08-28 |  |
 | [2200](https://open.spotify.com/track/0XhcCOuGBMOgckZbnY0bEv) | [EZ MIL](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [2200](https://open.spotify.com/album/0iSCzBT88AsxPalWKOc1pE) | 3:05 | 2026-08-10 |  |
 | [2GOOD4U](https://open.spotify.com/track/4f0XOmZT9i5n9xwUlofqwo) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [2GOOD4U](https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6) | 2:50 | 2026-07-13 |  |
 | [A$tro ft\. Jose At Melodiya \- ANG SARAP MAGTRIP \(MUSIC VIDEO\)](https://open.spotify.com/track/2I9Xjb9Ppbr5XeWMxi2XWS) | [A$tro](https://open.spotify.com/artist/5794gAYyVyxoZKIhyN9OUq) | [A$tro ft\. Jose At Melodiya \- ANG SARAP MAGTRIP \(MUSIC VIDEO\)](https://open.spotify.com/album/0HQp1XcAv5YHLvyNzRu7E2) | 4:07 | 2026-08-10 |  |
 | [ALL NIGHT LONG](https://open.spotify.com/track/0vjaH9Lnm1zhMD1Q8iah9r) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [ALL NIGHT LONG](https://open.spotify.com/album/1o31jfmI9e85pPuWjmNXfu) | 2:22 | 2026-08-10 |  |
+| [APORTS](https://open.spotify.com/track/1XZeC1RkKt7XOZnHnvpj4Z) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [APORTS](https://open.spotify.com/album/61aAPO3AwOLxbEBaEyUdDq) | 4:45 | 2026-08-28 |  |
 | [Aura](https://open.spotify.com/track/4dnk82CNAgQvINdXSGkieH) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 5:18 | 2026-04-16 |  |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2026-04-16 |  |
 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 | 2026-04-16 | 2026-08-11 |
@@ -31,6 +33,7 @@
 | [ERE](https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [ERE](https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD) | 4:44 | 2026-04-16 |  |
 | [Fetty](https://open.spotify.com/track/1O26SjawSDVCpikl9nNUyp) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Fetty](https://open.spotify.com/album/6H8VIr3GCleqBUGRalNd6H) | 3:26 | 2026-07-13 | 2026-08-11 |
 | [First Luv](https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [First Luv](https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4) | 2:56 | 2026-04-16 | 2026-08-11 |
+| [Foolish](https://open.spotify.com/track/0dqwnuduxCOBVKU22FMVxY) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Foolish](https://open.spotify.com/album/1Eta92paWc3FMbqxqaGXyy) | 3:48 | 2026-08-28 |  |
 | [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:34 | 2026-04-16 | 2026-08-11 |
 | [Get Dat](https://open.spotify.com/track/61QUUWXBP6WOq0JV1iJWhp) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Get Dat](https://open.spotify.com/album/5bm1oMsFNTXnL0bzMocRoK) | 2:34 | 2026-08-10 |  |
 | [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 | 2026-04-16 |  |
@@ -44,6 +47,7 @@
 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 | 2026-04-16 | 2026-08-11 |
 | [Langit](https://open.spotify.com/track/1hhFrtEV6mIySRYiXzbcHE) | [Ame](https://open.spotify.com/artist/5FBMWQ27y0de4TaZawQ7bN) | [Langit](https://open.spotify.com/album/7j4HxXSkpja1EYuUkIrkfc) | 5:28 | 2026-08-10 |  |
 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2026-04-16 |  |
+| [LAWLESS](https://open.spotify.com/track/17pETguR0GpfHow4GZC6uo) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [LAWLESS](https://open.spotify.com/album/6TL4BwPGpGxK2ipnLEoGgu) | 3:57 | 2026-08-28 |  |
 | [LDR](https://open.spotify.com/track/3KcBIT6PnRXEE5Ghe3b2ii) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [LDR](https://open.spotify.com/album/49r5GFwFKkhicAyUWtEW2X) | 3:31 | 2026-04-16 |  |
 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 | 2026-08-14 |  |
 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:37 | 2026-07-13 |  |

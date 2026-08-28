@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,519 songs - 3 day 23 hr 50 min
+2,522 songs - 3 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,6 +1009,7 @@
 | [Honey Vibes](https://open.spotify.com/track/5QJNtjQWSreNcBF7jvbGKV) | [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Honey Vibes](https://open.spotify.com/album/1f6Nw8zpqHihsQzVnxvhfQ) | 1:50 | 2022-09-09 | 2023-01-07 |
 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 | 2022-06-03 | 2024-05-14 |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2022-04-15 | 2022-08-19 |
+| [Hopeless Romantic](https://open.spotify.com/track/5eXSKTmAXv8NmBXeDZV225) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Hopeless Romantic](https://open.spotify.com/album/0Y0UHEQiDHYkcpL5bZN3r3) | 1:29 | 2026-08-28 |  |
 | [Hopes n' Lusts](https://open.spotify.com/track/2qi8vHk6pTOB5mbOPd8TlS) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Hopes n' Lusts](https://open.spotify.com/album/5sUncHibQvenjtPS22mKDP) | 2:12 | 2022-07-01 | 2024-05-14 |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 | 2026-07-03 |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 | 2025-07-11 |
@@ -1292,7 +1293,7 @@
 | [Love Yourself](https://open.spotify.com/track/3V4JGeR8omNqFG85PTTy7W) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Love Yourself](https://open.spotify.com/album/6Bz8p4EthN0CkdcY0YEMil) | 2:11 | 2023-03-20 | 2023-10-06 |
 | [Lovealized](https://open.spotify.com/track/6yKvJVPHX3qDdRvtMLjVcq) | [Hydronix](https://open.spotify.com/artist/60sSfJVnyDu9eWnqLGtcDW) | [Lovealized](https://open.spotify.com/album/7tz6vmkJu4hopT5vUgvydL) | 2:51 | 2022-04-15 | 2022-07-01 |
 | [Lovespell](https://open.spotify.com/track/3gV5lV1Y5P93ZqHQAz72TZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Lovespell](https://open.spotify.com/album/0rjaM4lvJKHzsf5D3owH7D) | 2:30 | 2022-07-29 | 2022-10-08 |
-| [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 | 2025-08-20 |  |
+| [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 | 2025-08-20 | 2026-08-28 |
 | [Low Battery](https://open.spotify.com/track/1D4S66ipaVqV9du7elf89y) | [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [Low Battery](https://open.spotify.com/album/4AYCDaIFCSdHmXUz6fkoxS) | 1:56 | 2024-10-11 |  |
 | [Lower East Side](https://open.spotify.com/track/0HP3RxQPPdLmpSQJQZHl9Z) | [Chase Beats](https://open.spotify.com/artist/6rjVfqmICjUb56U9D9KR6h) | [Lower East Side](https://open.spotify.com/album/1abGAhcGC1jATomzDE85dT) | 1:55 | 2025-03-28 | 2025-04-12 |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
@@ -1356,6 +1357,7 @@
 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 | 2022-09-16 | 2023-01-07 |
 | [maybe or maybe](https://open.spotify.com/track/1GRBea14szlPf66aUR1Yaz) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [maybe or maybe](https://open.spotify.com/album/2mmMqObElCavRETBc3NGVg) | 2:08 | 2023-01-06 | 2024-08-12 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 | 2022-04-15 | 2022-05-13 |
+| [MayFlowers](https://open.spotify.com/track/13fu7JlOT1f1vvfJztISGI) | [Thélian](https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0) | [MayFlowers](https://open.spotify.com/album/3ODicA66WKnh7BKbBPXJWp) | 2:04 | 2026-08-28 |  |
 | [Meadow](https://open.spotify.com/track/7Fqob7QxvquyjU27F0v3DL) | [fickle fool](https://open.spotify.com/artist/2FTGZQUnPiR0EqCJb3PEBK) | [Meadow](https://open.spotify.com/album/7dijB1jb8GJaT8C4rkgz81) | 1:58 | 2022-07-15 | 2023-01-13 |
 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 | 2022-07-01 | 2022-11-26 |
 | [meadows](https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN), [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x) | [meadows](https://open.spotify.com/album/0heqR7c9kusR5RbP6fZwUh) | 2:36 | 2023-06-06 | 2025-11-26 |
@@ -1905,6 +1907,7 @@
 | [September](https://open.spotify.com/track/7uu7u0v9IOOvDFpab8Yf6t) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Boss Hogg](https://open.spotify.com/album/59CYVZphliSm8ekQ6z1jP5) | 1:46 | 2022-05-27 | 2024-05-14 |
 | [Serenade](https://open.spotify.com/track/2bfnKbCWBGqXQIRReLvCRC) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Serenade](https://open.spotify.com/album/0gG7jXS8cG4Fsc8w3ovDQ8) | 2:19 | 2022-07-29 | 2022-08-12 |
 | [serendipity](https://open.spotify.com/track/1mHwCUn7DDawEehvDjlC3T) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [serendipity](https://open.spotify.com/album/1RYjOhJxy0K4k5E1FyGXer) | 3:03 | 2025-03-14 | 2025-05-10 |
+| [Serene](https://open.spotify.com/track/6rRqi5PccEj7r6fMry7kZG) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Serene](https://open.spotify.com/album/0qF8lclwLcRP36Guf9VvWc) | 2:19 | 2026-08-28 |  |
 | [serenity \(I\)](https://open.spotify.com/track/0MJnCQigS9d0kaP5ATMVKR) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [serenity \(I\)](https://open.spotify.com/album/1wGgXVO8zhOmUD3UTf8g1W) | 2:03 | 2023-04-11 | 2023-10-06 |
 | [series one](https://open.spotify.com/track/7euY11C8aJF0cCTL4nqJxn) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [series one](https://open.spotify.com/album/2P6V6lLhsY74iDGlhBSYpW) | 2:31 | 2023-01-13 | 2025-11-26 |
 | [Serotonin](https://open.spotify.com/track/1OIQXGEoym6v3Dh7zeBXf3) | [Odie October](https://open.spotify.com/artist/3SdLorbsWbGmEypk92huQu) | [Serotonin](https://open.spotify.com/album/6VHcQBEcrj0dbkiyTdQcnn) | 2:19 | 2026-01-16 | 2026-01-24 |
@@ -2375,7 +2378,7 @@
 | [ValleyViews](https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj) | [Mellow Mirror](https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G) | [ValleyViews](https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q) | 1:58 | 2025-07-17 |  |
 | [van life](https://open.spotify.com/track/4j8uAYMGya8Qn9pTiXusO3) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [van life](https://open.spotify.com/album/4n1tsBwH4DtpmM0jOEKUNT) | 2:21 | 2024-06-28 | 2025-11-21 |
 | [Van Von Vinkelvoss](https://open.spotify.com/track/4vCJcqYGVB7hXmmF4eMGV5) | [Fashion Allure](https://open.spotify.com/artist/3f2eVgVyrMtQwwp1Ev1Zkc) | [Van Von Vinkelvoss](https://open.spotify.com/album/5Wh4SnF9dvdtMZzXeIc7h9) | 2:42 | 2023-01-20 | 2024-09-18 |
-| [Venture](https://open.spotify.com/track/69ygh9cOs0rCVBtEjXqzRa) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Venture](https://open.spotify.com/album/55B5OdcY5sGXM0L6mfVBO0) | 2:10 | 2026-01-23 |  |
+| [Venture](https://open.spotify.com/track/69ygh9cOs0rCVBtEjXqzRa) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Venture](https://open.spotify.com/album/55B5OdcY5sGXM0L6mfVBO0) | 2:10 | 2026-01-23 | 2026-08-28 |
 | [Verge](https://open.spotify.com/track/7DQzqbyPr0GKqNPItMOQEE) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Verge](https://open.spotify.com/album/17JZeITR4GKgGWCnLF6r19) | 1:58 | 2024-03-22 | 2024-05-07 |
 | [Vibe Check](https://open.spotify.com/track/1UZzgXW7aQrbcszxDWleBR) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Days](https://open.spotify.com/album/1ll3McJaLAP6wzADXKfIEc) | 2:24 | 2023-08-03 | 2026-02-07 |
 | [Vibez Only](https://open.spotify.com/track/7KTWswOLuRYpLnskL4ZcDo) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Vibez Only](https://open.spotify.com/album/2tKxvCqHRXo1AhbRMv3yz3) | 1:33 | 2023-02-06 | 2023-09-29 |

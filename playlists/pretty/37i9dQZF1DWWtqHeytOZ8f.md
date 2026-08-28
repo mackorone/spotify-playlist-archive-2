@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,048 likes - 104 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,062 likes - 104 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 9 | [The Theme](https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua) | [Caso 63 \(Banda Sonora Original\)](https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya) | 2:31 |
 | 10 | [Analemma](https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Analemma](https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq) | 7:57 |
 | 11 | [th1 \[evnslower\]](https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [th1 \[evnslower\]](https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4) | 11:08 |
-| 12 | [Subterraneans](https://open.spotify.com/track/3ohfG89N3G3Zn3xqpLI2DQ) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F), [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Subterraneans](https://open.spotify.com/album/0g43DJEkJONaa8qeMmVwQG) | 8:56 |
+| 12 | [Subterraneans](https://open.spotify.com/track/3ohfG89N3G3Zn3xqpLI2DQ) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F), [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Subterraneans](https://open.spotify.com/album/0g43DJEkJONaa8qeMmVwQG) | 8:56 |
 | 13 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 |
 | 14 | [The Boat](https://open.spotify.com/track/6bslbp8bb9kpX54SogOLsp) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 7:05 |
 | 15 | [Detransitioning](https://open.spotify.com/track/7GL1r3EvpFiTlMN7HTG4kg) | [Uboa](https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl) | [The Origin of My Depression](https://open.spotify.com/album/01U2G02pbK0IcIOMW0j3Dn) | 4:27 |

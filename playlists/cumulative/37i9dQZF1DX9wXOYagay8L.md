@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: MaWhoo, Lwah Ndlunkulu
+> Proudly Southern African Afropop gems\. Cover: Marcus Harvey
 
-768 songs - 2 day 6 hr 32 min
+769 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Mama](https://open.spotify.com/track/3kehy52PXs2TZtrIgbjULy) | [Prifix](https://open.spotify.com/artist/5m02wN31BEY64szwkl3TCX) | [New Dawn](https://open.spotify.com/album/7d1hMRTBeeiYAuRn3ot9kG) | 5:29 | 2023-08-31 | 2023-09-15 |
 | [Mamezala](https://open.spotify.com/track/6WgfG3YnKv0xjg646WLRrD) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Mamezala](https://open.spotify.com/album/175WAqrPQcqyLyjPLHvAlb) | 5:02 | 2021-11-04 | 2022-09-02 |
 | [Mangibona Wena](https://open.spotify.com/track/4tsZyrzMjg17NoQQtrqojq) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Mangibona Wena](https://open.spotify.com/album/3LopGgCBqT5oOiATRsWMsh) | 3:50 | 2024-02-08 |  |
+| [Mapula](https://open.spotify.com/track/50VKji3mzRcgYlvKT2iMwv) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Son of Elvis](https://open.spotify.com/album/4d2zcshoD27NGmfXUaiTlP) | 2:33 | 2026-08-28 |  |
 | [Marry me](https://open.spotify.com/track/2SlFyZLbFhRXmqlLU2S87B) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Otherwise, uRight?](https://open.spotify.com/album/6znV0z4e94CXQeSemVjlLI) | 3:45 | 2025-10-10 |  |
 | [Masithandane](https://open.spotify.com/track/3WfwcQAHFWsrF8LnPz1QgJ) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [From My Soil To Yours](https://open.spotify.com/album/1nHbsCaPCVzmiYgztcKhyp) | 3:06 | 2023-11-16 | 2024-06-21 |
 | [Matla Sona](https://open.spotify.com/track/0w6RgRKqBro4Hg2t1s9p6r) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Siba Mrwebi](https://open.spotify.com/artist/4x5Paddc596KaUBlGYV6ZB) | [Matla Sona](https://open.spotify.com/album/5OFTJAMBYujoo1hDN1Nasa) | 1:56 | 2023-03-24 | 2023-04-28 |
@@ -755,7 +756,7 @@
 | [Which One?](https://open.spotify.com/track/3HUyTrcgJM5NvM5JafLnpw) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Igazi, Iinyembezi Nombilo](https://open.spotify.com/album/0OSKkWOh1BNpYGJJ0V11nl) | 3:30 | 2023-06-30 | 2023-07-28 |
 | [World's Gone Crazy](https://open.spotify.com/track/4fF0vcZOgs1ijRkjNe4pY7) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [World's Gone Crazy](https://open.spotify.com/album/3dCeERtGHsEXfr41irHUk3) | 4:54 | 2023-05-05 | 2023-07-21 |
 | [Woza Mntana](https://open.spotify.com/track/486lU2BE0ZY75sAOWViR6p) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Woza Mntana](https://open.spotify.com/album/20EFdGGfdVSWpqu8KX0cmI) | 5:58 | 2023-12-14 | 2024-04-05 |
-| [X2](https://open.spotify.com/track/1XqzyXxiaThMnlzZTC1tSW) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Chvna](https://open.spotify.com/artist/4qKrkF6Eml8l1DKS0AlBbI) | [X2](https://open.spotify.com/album/0QZYbJ4zAzziQoahlvnXO0) | 4:39 | 2024-05-02 |  |
+| [X2](https://open.spotify.com/track/1XqzyXxiaThMnlzZTC1tSW) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Chvna](https://open.spotify.com/artist/4qKrkF6Eml8l1DKS0AlBbI) | [X2](https://open.spotify.com/album/0QZYbJ4zAzziQoahlvnXO0) | 4:39 | 2024-05-02 | 2026-08-28 |
 | [Xola](https://open.spotify.com/track/1K1LdWVjJURkMXNaCmS62i) | [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi), [Sphesihle Zulu\-Dludla](https://open.spotify.com/artist/1BmoWjd81OQoAU190nxzJh) | [Ithuna lesgebengu](https://open.spotify.com/album/7nrxrJBzfEyl82Ae0YFdE9) | 4:26 | 2022-10-28 | 2022-12-02 |
 | [Xolele](https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Xolele](https://open.spotify.com/album/77ZMPaD41XDBxolBY0aiVB) | 5:08 | 2022-05-26 | 2022-09-02 |
 | [Y.O.U.](https://open.spotify.com/track/5PGCJcOdDR8DlqkhMZMODk) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Y.O.U.](https://open.spotify.com/album/2CZiEK2WAD9LNJKB64zLN5) | 4:21 | 2024-02-08 | 2025-02-14 |

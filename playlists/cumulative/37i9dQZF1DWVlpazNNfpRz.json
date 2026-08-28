@@ -151,6 +151,28 @@
     },
     {
       "album": {
+        "name": "ANUEL CON KAROL",
+        "url": "https://open.spotify.com/album/013rm1MUOcX2rHjpWKhNZV"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190524,
+      "name": "ANUEL CON KAROL",
+      "url": "https://open.spotify.com/track/1kdQcY7axkvhUdt4YaAz2I"
+    },
+    {
+      "album": {
         "name": "At Night",
         "url": "https://open.spotify.com/album/0RnzyTy6ySG5rm5pVBtyMH"
       },
@@ -390,7 +412,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180923,
       "name": "CHINGON 2",
       "url": "https://open.spotify.com/track/54gJmxMx9Ea5zRaAKNodqp"
@@ -1311,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "LOBA",
+        "url": "https://open.spotify.com/album/340iAQjYY21afl6rnZNIfC"
+      },
+      "artists": [
+        {
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "LOBA",
+      "url": "https://open.spotify.com/track/1JIjxDenfJH0faBe1PgVQS"
+    },
+    {
+      "album": {
         "name": "Mamasota",
         "url": "https://open.spotify.com/album/2yL1IlNfseQGsWer9di6fN"
       },
@@ -1882,7 +1922,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187670,
       "name": "PROVENZA - REMIX",
       "url": "https://open.spotify.com/track/7xHNDiHAqzjIKKeR8f5vhH"

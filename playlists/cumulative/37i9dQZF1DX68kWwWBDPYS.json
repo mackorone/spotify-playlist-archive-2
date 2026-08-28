@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "morrxs chidxs haciendo m\u00fasica chida. Milkmanen portada.",
+  "description": "morrxs chidxs haciendo m\u00fasica chida. Ana Sofi W. y BLNKO portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -667,6 +667,28 @@
     },
     {
       "album": {
+        "name": "Amo Que Te Odio (Odio Que Te Amo)",
+        "url": "https://open.spotify.com/album/49kX3ebLciMGNCmrVsMt63"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172660,
+      "name": "Amo Que Te Odio (Odio Que Te Amo)",
+      "url": "https://open.spotify.com/track/5unQQTNmDVa7Scr3FMl3Bf"
+    },
+    {
+      "album": {
         "name": "Amorcito coraz\u00f3n lofi",
         "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
       },
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 274964,
       "name": "Be Real",
       "url": "https://open.spotify.com/track/4Z6jDtBIuZ6nWsnieIt4BQ"
@@ -1460,6 +1482,24 @@
       "duration_ms": 168758,
       "name": "CHOCOMIL",
       "url": "https://open.spotify.com/track/0Cti0NQEAY5kk46or7DFs5"
+    },
+    {
+      "album": {
+        "name": "Cielo, llora por m\u00ed",
+        "url": "https://open.spotify.com/album/29MP645mJSBeCgaVjKjXJu"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Cielo, llora por m\u00ed",
+      "url": "https://open.spotify.com/track/09ImD0c9clzVLFizFNEzOl"
     },
     {
       "album": {
@@ -2015,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "desamarte",
+        "url": "https://open.spotify.com/album/0Pim7BoPeNOBmr3ujj7ilp"
+      },
+      "artists": [
+        {
+          "name": "Azul Aim\u00e9",
+          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140930,
+      "name": "desamarte",
+      "url": "https://open.spotify.com/track/0DAJiEqEgGY0ml27s2Nr7E"
+    },
+    {
+      "album": {
         "name": "Desastre Emocional",
         "url": "https://open.spotify.com/album/1bnsJ7ZuB6TaWW364pwtag"
       },
@@ -2092,6 +2150,24 @@
       "duration_ms": 208000,
       "name": "Desorden",
       "url": "https://open.spotify.com/track/0y5NsA4NMN27BVBLezLnqT"
+    },
+    {
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/6V2XsAud3A0QFZiGsZn7wk"
+      },
+      "artists": [
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150229,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/5kzFshCfWOpBfrj8Ety0rM"
     },
     {
       "album": {
@@ -2765,6 +2841,32 @@
     },
     {
       "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/4PtX2RfsOJZAqliYWaDHeK"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bison",
+          "url": "https://open.spotify.com/artist/2r5TgQxK2D0Eu7ZFNmBodx"
+        },
+        {
+          "name": "Don Kalavera",
+          "url": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
+        },
+        {
+          "name": "Itani Aline",
+          "url": "https://open.spotify.com/artist/5GkT1e3KzLEH9pXEWnlMba"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206770,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/0loqYClSNP1psuwHueeHWD"
+    },
+    {
+      "album": {
         "name": "No Sentimental.",
         "url": "https://open.spotify.com/album/2HW6H7sQmFkDTumdZO8qEx"
       },
@@ -3150,7 +3252,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 319485,
       "name": "Golondrina",
       "url": "https://open.spotify.com/track/3cUAlb6xg9ctNkqlNhxEhF"
@@ -3273,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "i cant wait (te quiero ver)",
+        "url": "https://open.spotify.com/album/4fpee4HTSaeUvEVAfAXsZn"
+      },
+      "artists": [
+        {
+          "name": "feel trip.",
+          "url": "https://open.spotify.com/artist/7ysdcHcrr06qQJ1BL0dKVU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165636,
+      "name": "i cant wait (te quiero ver)",
+      "url": "https://open.spotify.com/track/0ZXO069Wwy4kkIZ3P8LnBc"
+    },
+    {
+      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7"
       },
@@ -3342,6 +3462,28 @@
       "duration_ms": 160000,
       "name": "intentar",
       "url": "https://open.spotify.com/track/7CLnnfyGhwK2U7UoMIzSlk"
+    },
+    {
+      "album": {
+        "name": "Iridiscente (Se Contagia)",
+        "url": "https://open.spotify.com/album/0nBUs8eygWvByXTEs3sd15"
+      },
+      "artists": [
+        {
+          "name": "Val Acosta",
+          "url": "https://open.spotify.com/artist/27mmTV4E5hIwxznMdoOQSj"
+        },
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210261,
+      "name": "Iridiscente (Se Contagia)",
+      "url": "https://open.spotify.com/track/5iuUHLp94rjxfsjBvktUdb"
     },
     {
       "album": {
@@ -3656,7 +3798,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194750,
       "name": "La Procesi\u00f3n",
       "url": "https://open.spotify.com/track/6vAuz14DByEIz9DPoXrkDj"
@@ -4018,7 +4160,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 130639,
       "name": "Magia",
       "url": "https://open.spotify.com/track/6X802Oflvx2dhW2s3yZgu3"
@@ -4290,7 +4432,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 283500,
       "name": "Mi Sol",
       "url": "https://open.spotify.com/track/2FXcCBpPjud1HGfELDogYA"
@@ -4970,7 +5112,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 144424,
       "name": "Nothing in my pocket.",
       "url": "https://open.spotify.com/track/78nKt9sCrv7p5u4yhencAR"
@@ -5540,7 +5682,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 156000,
       "name": "Por Ti Me Quiero Quedar",
       "url": "https://open.spotify.com/track/4eQkui7BuVuLdIIuMbG4u5"
@@ -7010,7 +7152,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 191198,
       "name": "Tu Fantasma",
       "url": "https://open.spotify.com/track/3RdxaQyDTWu6QmDakA7uTd"
@@ -7274,6 +7416,24 @@
       "duration_ms": 124500,
       "name": "Velocidad",
       "url": "https://open.spotify.com/track/23jT6XOiKPzp5oonljkaOa"
+    },
+    {
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/2mVYXOyKpRpMUAyCLo92Qt"
+      },
+      "artists": [
+        {
+          "name": "Un Le\u00f3n Marinero",
+          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188467,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3oQYB3orxfAcRihSNaljck"
     },
     {
       "album": {

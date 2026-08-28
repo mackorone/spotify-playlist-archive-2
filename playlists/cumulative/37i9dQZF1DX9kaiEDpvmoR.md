@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-610 songs - 1 day 12 hr 6 min
+612 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Hansa City](https://open.spotify.com/track/2QgChXLXnpYzqgGRmWr28p) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Hansa City](https://open.spotify.com/album/6AbSkU3FBzeHHqoyb3UI8g) | 3:12 | 2026-03-12 | 2026-04-17 |
 | [Happier Now](https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Happier Now](https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr) | 2:37 | 2025-06-19 | 2026-03-15 |
 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 | 2024-10-24 | 2025-05-16 |
+| [Har du också känt den](https://open.spotify.com/track/2EOs4OdGE2bfr3PalXWh3m) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Har du också känt den](https://open.spotify.com/album/7756xsFANOT1qnKlLIYojt) | 3:25 | 2026-08-27 |  |
 | [Har på känn](https://open.spotify.com/track/2jlC60WVWghOGflEo0kt9L) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR) | [Sällskapssjuk](https://open.spotify.com/album/1dtyicmDm2kBFPmwMLdVMu) | 3:30 | 2024-10-24 | 2025-04-25 |
 | [Hate To Love](https://open.spotify.com/track/0FQrZ9z8qTnG6teIZhb3EY) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hate To Love](https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS) | 3:05 | 2025-06-05 | 2025-07-31 |
 | [Have I Told You Lately \(feat\. Åsa Jinder\)](https://open.spotify.com/track/2UpJkYhDzt8HQk6i6Z77w8) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Johnny Logan](https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc), [Åsa Jinder](https://open.spotify.com/artist/0WIJklwnefNN9A2XeHqTxG) | [Have I Told You Lately \(feat\. Åsa Jinder\)](https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB) | 4:06 | 2025-04-24 | 2025-06-21 |
@@ -367,6 +368,7 @@
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-27 |
 | [Min far](https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Min far](https://open.spotify.com/album/6vdmOcvEwbtCjPdNjxFgqp) | 3:28 | 2025-01-02 | 2025-03-02 |
 | [Miracle](https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Miracle](https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa) | 3:05 | 2026-08-20 |  |
+| [Mirakel](https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Mirakel](https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I) | 4:38 | 2026-08-27 |  |
 | [Mitt hjärta en rebell](https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Mitt hjärta en rebell](https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx) | 3:11 | 2026-05-07 |  |
 | [Mitt i min stad](https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Sommar](https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu) | 2:22 | 2025-04-24 | 2025-06-08 |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
@@ -438,8 +440,8 @@
 | [Roll On Buddy](https://open.spotify.com/track/716inKAgvoukiftOCG4l6l) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Roll On Buddy](https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM) | 3:23 | 2024-08-22 | 2024-10-25 |
 | [Roll With The Punches](https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES) | 3:58 | 2025-02-06 | 2026-02-13 |
 | [Roses](https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Roses](https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw) | 3:44 | 2025-10-30 | 2026-05-22 |
-| [Rosor](https://open.spotify.com/track/0aDYLomq2NbOuqniPSJ65T) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Rosor](https://open.spotify.com/album/2Ms7NYrOs79Q2N6M4C7D3S) | 3:45 | 2026-07-16 |  |
-| [Rullande muller](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 4:26 | 2026-08-20 |  |
+| [Rosor](https://open.spotify.com/track/0aDYLomq2NbOuqniPSJ65T) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Rosor](https://open.spotify.com/album/2Ms7NYrOs79Q2N6M4C7D3S) | 3:45 | 2026-07-16 | 2026-08-28 |
+| [Rullande muller](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 4:26 | 2026-08-20 | 2026-08-28 |
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-15 | 2025-01-03 |
 | [Rytmen av ett regn](https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Rytmen av ett regn](https://open.spotify.com/album/5KUGbEBxb6DBveyI28Sstp) | 3:14 | 2024-06-27 | 2024-08-09 |
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 | 2025-05-30 |

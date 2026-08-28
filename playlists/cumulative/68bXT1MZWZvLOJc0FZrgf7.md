@@ -4,7 +4,7 @@
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
 
-933 songs - 2 day 1 hr 17 min
+934 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Magic City \- Vip Mix](https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Magic City \(Vip Mix\)](https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q) | 2:51 | 2023-06-09 | 2023-12-14 |
 | [Make Some Noise](https://open.spotify.com/track/3rsXPMYxQ7vl1XCcrZlzAC) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Make Some Noise](https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH) | 2:58 | 2023-02-04 | 2023-12-14 |
 | [makeumine \- JEV's attempt at a love song](https://open.spotify.com/track/1fCGQe9g33DCgZEyD59Imm) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie), [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [makeumine \(JEV's attempt at a love song\)](https://open.spotify.com/album/04a0NDGwDUXN1kTkdLXgbW) | 3:13 | 2025-05-16 | 2025-10-25 |
+| [Makuhia](https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Makuhia](https://open.spotify.com/album/2sr4rRlKlSxFTHGF44gKRB) | 3:08 | 2026-08-21 |  |
 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 | 2023-04-28 | 2023-12-14 |
 | [Maria \- KAAZE Remix](https://open.spotify.com/track/0Fb2c8nAmy5qcsTkcUYkC1) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Maria \(KAAZE Remix\)](https://open.spotify.com/album/3pSwW7HPWdhACCMEu2P3Dp) | 2:35 | 2025-10-31 | 2026-08-08 |
 | [Masala \(with Amrit Maan\)](https://open.spotify.com/track/5dB5jHKWnC5zHO7e0LlEyM) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Masala \(with Amrit Maan\)](https://open.spotify.com/album/7t8Wihk1jeFPSixuQV2Bj8) | 2:11 | 2025-06-27 | 2025-12-20 |

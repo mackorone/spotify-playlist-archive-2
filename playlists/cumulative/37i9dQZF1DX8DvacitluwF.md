@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Njerae
 
-688 songs - 1 day 13 hr 6 min
+689 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Clarity](https://open.spotify.com/track/1llE1R8w9ikAbGEr32u5CX) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Clarity](https://open.spotify.com/album/5nfnp4M0TXAdqN4cFL8R7r) | 4:14 | 2024-05-16 | 2024-06-14 |
 | [Clarity](https://open.spotify.com/track/6Or8tC2UWavckRdkMUUYfw) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Transparent](https://open.spotify.com/album/1UkM7U0GAqjJs3oO4M1dLR) | 4:14 | 2024-09-02 | 2024-09-12 |
 | [Closer To Me](https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Closer To Me](https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA) | 2:44 | 2024-01-25 | 2024-04-26 |
+| [Closure](https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eric Bellinger](https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf) | 3:03 | 2026-08-20 |  |
 | [CLOWN](https://open.spotify.com/track/4FqZJdnOhx9s2I6o8hmMsd) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [CLOWN](https://open.spotify.com/album/328alaY3n5WRAWkBzkBl7G) | 3:47 | 2023-10-12 | 2023-10-27 |
 | [Coffee In The Morning](https://open.spotify.com/track/3kNJP86qR3rdhLaCP9Z4bR) | [Zimkitha](https://open.spotify.com/artist/6A7lXry2Pg5fOttzmjqpDy) | [Coffee In The Morning](https://open.spotify.com/album/7309E3YupTU0JV7Tr3PJuH) | 3:58 | 2024-08-30 | 2024-09-03 |
 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 | 2026-08-20 |  |
@@ -288,7 +289,7 @@
 | [I'm Not Psycho](https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [I'm Not Psycho](https://open.spotify.com/album/6rq02kHQ14i9Goruy0dULE) | 4:10 | 2025-06-27 | 2025-08-15 |
 | [iBanga](https://open.spotify.com/track/71FOt5WJ7PxdnO2EzpoFEq) | [Sakhile](https://open.spotify.com/artist/24q1SC842cNItRb6BYyCA4) | [iBanga](https://open.spotify.com/album/1NgsdlA5tzaN6iybzRy0mS) | 3:34 | 2026-02-13 | 2026-02-20 |
 | [IBIZA](https://open.spotify.com/track/0yzXQ1yTjxKTtUc28XFBPL) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF) | [IBIZA](https://open.spotify.com/album/1WvongU8fEccauGewV5MS7) | 4:00 | 2024-04-18 | 2024-07-12 |
-| [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 | 2026-04-13 |  |
+| [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 | 2026-04-13 | 2026-08-28 |
 | [ILAH'S DREAM](https://open.spotify.com/track/12IHcVx02kJPOE0uDYobp2) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [LIFE AS YOU KNOW IT, THE BEST OF LUCK AND THE WORST OF TIMES](https://open.spotify.com/album/738x96kICIYTdlC3k1UbiP) | 4:05 | 2025-06-13 | 2025-06-20 |
 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 | 2024-02-22 | 2024-05-10 |
 | [Imimangaliso](https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Imimangaliso](https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN) | 2:51 | 2024-10-03 | 2025-07-25 |

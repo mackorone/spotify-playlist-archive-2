@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298360,
+  "num_followers": 298387,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-08-21 08:53:51",
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+    },
+    {
+      "added_at": "2026-08-21 08:53:51",
+      "album": {
         "name": "All the Space Between",
         "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 132840,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
-    },
-    {
-      "added_at": "2026-08-21 08:53:51",
-      "album": {
-        "name": "Rio Lua",
-        "url": "https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 149736,
-      "name": "Rio Lua",
-      "url": "https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW"
     },
     {
       "added_at": "2026-08-21 08:53:51",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-08-21 08:53:51",
       "album": {
+        "name": "Rio Lua",
+        "url": "https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 149736,
+      "name": "Rio Lua",
+      "url": "https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW"
+    },
+    {
+      "added_at": "2026-08-21 08:53:51",
+      "album": {
         "name": "Second Sleep / Star Eyes",
         "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2026-08-21 08:53:51",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
         }
       ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+      "duration_ms": 144590,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y"
     },
     {
       "added_at": "2026-08-21 08:53:51",
@@ -619,18 +635,18 @@
     {
       "added_at": "2026-08-21 08:53:51",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0"
+        "name": "Gentleman Blue",
+        "url": "https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
         }
       ],
-      "duration_ms": 144590,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y"
+      "duration_ms": 208706,
+      "name": "Gentleman Blue",
+      "url": "https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U"
     },
     {
       "added_at": "2026-08-21 08:53:51",
@@ -651,22 +667,6 @@
     {
       "added_at": "2026-08-21 08:53:51",
       "album": {
-        "name": "Gentleman Blue",
-        "url": "https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2"
-      },
-      "artists": [
-        {
-          "name": "Elysia Biro",
-          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Gentleman Blue",
-      "url": "https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U"
-    },
-    {
-      "added_at": "2026-08-21 08:53:51",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 224240,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD"
+    },
+    {
+      "added_at": "2026-08-21 08:53:51",
+      "album": {
+        "name": "L'AMOUR C'EST COOL",
+        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "duration_ms": 174419,
+      "name": "L'AMOUR C'EST COOL",
+      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
     },
     {
       "added_at": "2026-08-21 08:53:51",
@@ -715,22 +731,6 @@
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-08-21 08:53:51",
-      "album": {
-        "name": "L'AMOUR C'EST COOL",
-        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        }
-      ],
-      "duration_ms": 174419,
-      "name": "L'AMOUR C'EST COOL",
-      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
     },
     {
       "added_at": "2026-08-21 08:53:51",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-08-21 08:53:51",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        },
-        {
-          "name": "Side One",
-          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
-    },
-    {
-      "added_at": "2026-08-21 08:53:51",
-      "album": {
         "name": "The Avenue wave 1",
         "url": "https://open.spotify.com/album/32evpf12hMTPw544bBrMsq"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": "2026-08-21 08:53:51",
       "album": {
-        "name": "Whether I Win or Lose",
-        "url": "https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
       },
       "artists": [
         {
-          "name": "Saults",
-          "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        },
+        {
+          "name": "Side One",
+          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
         }
       ],
-      "duration_ms": 242460,
-      "name": "Whether I Win or Lose",
-      "url": "https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d"
+      "duration_ms": 172653,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
     },
     {
       "added_at": "2026-08-21 08:53:51",
@@ -859,6 +843,22 @@
       "duration_ms": 219506,
       "name": "All The Feels",
       "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
+    },
+    {
+      "added_at": "2026-08-21 08:53:51",
+      "album": {
+        "name": "Whether I Win or Lose",
+        "url": "https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr"
+      },
+      "artists": [
+        {
+          "name": "Saults",
+          "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
+        }
+      ],
+      "duration_ms": 242460,
+      "name": "Whether I Win or Lose",
+      "url": "https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d"
     },
     {
       "added_at": "2026-08-21 08:53:51",

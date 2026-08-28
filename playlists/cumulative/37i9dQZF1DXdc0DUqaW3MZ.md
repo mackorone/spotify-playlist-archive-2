@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-513 songs - 1 day 5 hr 56 min
+514 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Aquaself](https://open.spotify.com/track/48ZxMdmUA9CK7i31wn7bbx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Stars](https://open.spotify.com/album/6tZqo8dAjOS8Nb0XWSqMDJ) | 6:16 | 2021-12-07 | 2022-07-24 |
 | [argentin](https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [argentin](https://open.spotify.com/album/6K99lHPJIPlR62rMl0RvLN) | 2:53 | 2021-12-07 | 2022-05-07 |
 | [Ashamed](https://open.spotify.com/track/043daTv9IaP4mfzgSCHCet) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [Ashamed](https://open.spotify.com/album/6HjR2KF3GytEzr72yzUXyk) | 3:31 | 2022-04-11 | 2022-07-02 |
+| [Ay Sí](https://open.spotify.com/track/4txlZCYRpHpZIr3IJnDHiP) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Ay Sí](https://open.spotify.com/album/0G0U0kVWbtAMXDporMuhT5) | 2:51 | 2026-08-27 |  |
 | [Back 2 Me \(feat\. Sadie Walker\)](https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Back 2 Me \(feat\. Sadie Walker\)](https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3) | 4:13 | 2024-10-25 | 2025-02-28 |
 | [Back in Tha Game](https://open.spotify.com/track/7fJpSXw0yBa47OPDw5rdSP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Universo](https://open.spotify.com/album/5pDKZYQcIxWfSarmCTabn3) | 5:28 | 2022-04-11 | 2022-06-30 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-10-20 | 2024-03-01 |
@@ -376,7 +377,7 @@
 | [People](https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [People](https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV) | 2:54 | 2022-04-11 | 2024-07-19 |
 | [Piece Of Me](https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Piece Of Me](https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO) | 3:09 | 2026-08-20 |  |
 | [Promised Me Love](https://open.spotify.com/track/6b5NKD3dNcwNs2RzMZvjE2) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Finn Rees](https://open.spotify.com/artist/4VRtrl4vjdooevtaWYZtKb), [Joy Spheres Rees](https://open.spotify.com/artist/2BJvzGYPdJyk3kT90S6gmD) | [Promised Me Love](https://open.spotify.com/album/6ZSsKjaKt5xFuAGk8piIrW) | 4:28 | 2025-04-17 | 2025-05-09 |
-| [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-03-01 |  |
+| [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-03-01 | 2026-08-28 |
 | [Proof](https://open.spotify.com/track/5MvR97fgxepTnKgv50skDJ) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Proof](https://open.spotify.com/album/77jz1DXTmdJ0Fl5K8IKc1W) | 4:39 | 2022-04-11 | 2022-04-17 |
 | [Quarantena](https://open.spotify.com/track/4a2HXS6BmrLGg0Zzz5PJGW) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/43uIW9EnHzwmcNYK3bsilW) | 4:31 | 2021-12-07 | 2022-07-25 |
 | [Queen of Hearts](https://open.spotify.com/track/62XnXVAIuiDcYK3Hk58Nd8) | [Dips & Lo\-Wu](https://open.spotify.com/artist/5QEVwgXGtOIfu8mm03TJpL), [DIPS](https://open.spotify.com/artist/2YFxopUp6v7hoOEQ1HQB9q), [Lo\-Wu](https://open.spotify.com/artist/2BtcLFqhYnJtVDtMK27Pvg) | [Queen of Hearts](https://open.spotify.com/album/5NljHdrSfO2Njhh82oiurG) | 4:01 | 2021-12-07 | 2022-05-24 |

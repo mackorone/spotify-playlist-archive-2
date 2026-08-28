@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Adam Chaffins",
+  "description": "Rising voices, enduring roots. Cover: Mama's Broke",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 301787,
       "name": "1 Mile From Heaven",
       "url": "https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160708,
       "name": "Airpark",
       "url": "https://open.spotify.com/track/0EhC9Gs7lTaptKF92NR40k"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 223886,
       "name": "Alabama Beauty Queen",
       "url": "https://open.spotify.com/track/7rg80OVCvZN76iCjMaH5g8"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 244800,
       "name": "American Way",
       "url": "https://open.spotify.com/track/7qxLbldVgLQhNkPOxVp4ni"
@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Angel So Bad",
+        "url": "https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u"
+      },
+      "artists": [
+        {
+          "name": "True Mountain Laurel",
+          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160224,
+      "name": "Bird of Prey",
+      "url": "https://open.spotify.com/track/2JWzA8qO67IgiYpC4mC3dd"
+    },
+    {
+      "album": {
         "name": "Black Bird",
         "url": "https://open.spotify.com/album/2RDbuNxjXQ3q45FUgGuW2k"
       },
@@ -914,6 +932,24 @@
       "duration_ms": 184393,
       "name": "Boy and a Bird Dog",
       "url": "https://open.spotify.com/track/4gDbSuC9bn0bl6ZGE8yaSy"
+    },
+    {
+      "album": {
+        "name": "Brand New Name",
+        "url": "https://open.spotify.com/album/4j28YHFhOaDd5we9a39Uy3"
+      },
+      "artists": [
+        {
+          "name": "Jack Blocker",
+          "url": "https://open.spotify.com/artist/2JW9eW6831ZTp8CRk2KgP7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Brand New Name",
+      "url": "https://open.spotify.com/track/536fTKyfHAfEkcwEnhErNx"
     },
     {
       "album": {
@@ -1231,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Coquihalla",
+        "url": "https://open.spotify.com/album/6sOvtJyWQ7J8fIC2XRcmM3"
+      },
+      "artists": [
+        {
+          "name": "Braden Lam",
+          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156669,
+      "name": "Coquihalla",
+      "url": "https://open.spotify.com/track/5EdwMMjdUXyIe6K8oCJzrw"
+    },
+    {
+      "album": {
         "name": "Vera",
         "url": "https://open.spotify.com/album/2bMv75cm4yqxRklbRe5Zj2"
       },
@@ -1264,6 +1318,24 @@
       "duration_ms": 200497,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/5ScqgAxMZQSB2ubp9OOAD2"
+    },
+    {
+      "album": {
+        "name": "Country Rose",
+        "url": "https://open.spotify.com/album/4njw6JYR5k31p5vCb9FZDf"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Something",
+          "url": "https://open.spotify.com/artist/1jFjZeZbSmgLEtzv9kC8bM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209012,
+      "name": "Country Rose",
+      "url": "https://open.spotify.com/track/5uykVD8gTzApGmApjCUJCQ"
     },
     {
       "album": {
@@ -1548,7 +1620,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 275974,
       "name": "Dream Song",
       "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
@@ -1794,6 +1866,24 @@
       "duration_ms": 205384,
       "name": "Faeries",
       "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
+    },
+    {
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Failing",
+      "url": "https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM"
     },
     {
       "album": {
@@ -2817,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "CALIFORNIALAND",
+        "url": "https://open.spotify.com/album/78Y1q2yi3SvmucaW5qwSnO"
+      },
+      "artists": [
+        {
+          "name": "Niina Soleil",
+          "url": "https://open.spotify.com/artist/3SCtnUPSAO4z0LqyzVFLGS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288591,
+      "name": "Heaven Take Me Up",
+      "url": "https://open.spotify.com/track/0KPE2Is2Md9GB5YMr431Gd"
+    },
+    {
+      "album": {
         "name": "Heavy Tobacco",
         "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
       },
@@ -2922,6 +3030,24 @@
       "duration_ms": 261268,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
+    },
+    {
+      "album": {
+        "name": "I've Missed You All These Years",
+        "url": "https://open.spotify.com/album/4BoZuX8uqUb7l3bfk2f1gP"
+      },
+      "artists": [
+        {
+          "name": "Sera Cahoone",
+          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169253,
+      "name": "Hits Right",
+      "url": "https://open.spotify.com/track/1WLqUK8hqk1lJBWz7ju1e6"
     },
     {
       "album": {
@@ -3074,6 +3200,24 @@
       "duration_ms": 351173,
       "name": "Hummingbird (feat. Allison de Groot & Tatiana Hargreaves)",
       "url": "https://open.spotify.com/track/7rGxSnSvzHLtsyM7wfqTYV"
+    },
+    {
+      "album": {
+        "name": "Country Desire",
+        "url": "https://open.spotify.com/album/0k39LDUNQsIVCXAaWvqpgg"
+      },
+      "artists": [
+        {
+          "name": "Alicia Blue",
+          "url": "https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242337,
+      "name": "Hungry Ghost",
+      "url": "https://open.spotify.com/track/5vnyMm6yPci46TGUq8F6Iu"
     },
     {
       "album": {
@@ -3553,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/3x924sTFY4cpXAe3E9l59A"
+      },
+      "artists": [
+        {
+          "name": "Kate Prascher",
+          "url": "https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222621,
+      "name": "Jubilee",
+      "url": "https://open.spotify.com/track/3t1XkpmCDBBqEhcYoTL9GY"
+    },
+    {
+      "album": {
         "name": "June, You're On My Mind",
         "url": "https://open.spotify.com/album/75hnuiPsjsaJPaluNiZIhY"
       },
@@ -3938,7 +4100,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 216380,
       "name": "Like a Child",
       "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
@@ -4302,7 +4464,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 162873,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/4iPu4L2Xz371HTYnZ3pqIl"
@@ -4378,6 +4540,24 @@
       "duration_ms": 186845,
       "name": "Made To Love Someone",
       "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
+    },
+    {
+      "album": {
+        "name": "Marlboro Vinyasa",
+        "url": "https://open.spotify.com/album/2D64EiwCKYJrEzAVtq9fE1"
+      },
+      "artists": [
+        {
+          "name": "Willi Carlisle",
+          "url": "https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Marlboro Vinyasa",
+      "url": "https://open.spotify.com/track/25PSyiIh8FRTe02jMjhLwi"
     },
     {
       "album": {
@@ -4616,6 +4796,24 @@
       "duration_ms": 182140,
       "name": "Millionaire Money",
       "url": "https://open.spotify.com/track/11Xej6CravthiyPLMqTvKe"
+    },
+    {
+      "album": {
+        "name": "Miss Queen Know It All",
+        "url": "https://open.spotify.com/album/0vdydLfZYSC8bJDlIjz1bT"
+      },
+      "artists": [
+        {
+          "name": "Meg Lui",
+          "url": "https://open.spotify.com/artist/0ei3gCD1ByhH4bn6DeGBsJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206638,
+      "name": "Miss Queen Know It All",
+      "url": "https://open.spotify.com/track/2vJgX76zzFsPMoUhdPlLeb"
     },
     {
       "album": {
@@ -4882,7 +5080,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 222200,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/3ejswiDrCHaq6OxOB21iLe"
@@ -5073,6 +5271,24 @@
     },
     {
       "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/2A54l52ERyzEb4Bc6Csgqx"
+      },
+      "artists": [
+        {
+          "name": "RIVVRS",
+          "url": "https://open.spotify.com/artist/5T3N5ks9c3L7D4aXw54DVs"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190051,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/07KqyoGk4R7bdJBoWGAzIa"
+    },
+    {
+      "album": {
         "name": "Ouachita Woods",
         "url": "https://open.spotify.com/album/1Z5hNOQBUwlVCPUikDTRdO"
       },
@@ -5120,7 +5336,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177600,
       "name": "Out West",
       "url": "https://open.spotify.com/track/1mftpk7MAIdq89RRnICK26"
@@ -5366,7 +5582,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 210733,
       "name": "Playing Fetch",
       "url": "https://open.spotify.com/track/5FSdDpJ2O30Jp7Ec8JYKR2"
@@ -5492,7 +5708,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 170200,
       "name": "Rabbits",
       "url": "https://open.spotify.com/track/0y87p8TQIJ5FRpBhVKOvJQ"
@@ -6468,7 +6684,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172870,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/7yWUwranBTGBPpIkWaemdL"
@@ -7654,7 +7870,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 212507,
       "name": "When the Heart Wants",
       "url": "https://open.spotify.com/track/24muAdSH00NkQx1XDkTtQj"
@@ -8026,6 +8242,24 @@
       "duration_ms": 178000,
       "name": "You Don't Know How Lucky You Are",
       "url": "https://open.spotify.com/track/0vwEIx0FBN9afds4oFQTWf"
+    },
+    {
+      "album": {
+        "name": "You're An Oak",
+        "url": "https://open.spotify.com/album/1rqSekKhz5dMB2QnMCpUqZ"
+      },
+      "artists": [
+        {
+          "name": "Dasher The Band",
+          "url": "https://open.spotify.com/artist/5IEGhfMgzofovjCJq9jalr"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257492,
+      "name": "You're An Oak",
+      "url": "https://open.spotify.com/track/6gYxVypPRnS6XHHzL5n2g7"
     },
     {
       "album": {

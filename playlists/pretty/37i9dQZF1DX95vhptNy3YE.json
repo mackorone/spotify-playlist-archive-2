@@ -1,6 +1,6 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443212,
+  "num_followers": 443191,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
+    },
+    {
+      "added_at": "2026-08-21 22:02:58",
+      "album": {
         "name": "Como Descobrir",
         "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 176000,
       "name": "Como Descobrir",
       "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
-    },
-    {
-      "added_at": "2026-08-21 22:02:58",
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": "2026-08-21 22:02:58",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
-        "name": "Instinto / Cancelado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/231P6DLf8gwN0frya1Z56y"
-      },
-      "artists": [
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 169821,
-      "name": "Cancelado - Ao Vivo",
-      "url": "https://open.spotify.com/track/0I3qO1WoxLiCvEqmrxnO9T"
-    },
-    {
-      "added_at": "2026-08-21 22:02:58",
-      "album": {
         "name": "FREQU\u00caNCIA LUNAR",
         "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
       },
@@ -915,34 +895,22 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
-        "name": "2X (Os Caras da Rua) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4ouHiCMczVoB3r7rCkzBl2"
+        "name": "Instinto / Cancelado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/231P6DLf8gwN0frya1Z56y"
       },
       "artists": [
         {
-          "name": "FM O Dia",
-          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
         },
         {
           "name": "Gamadinho",
           "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        },
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        },
-        {
-          "name": "Paulinho",
-          "url": "https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1"
-        },
-        {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
         }
       ],
-      "duration_ms": 179669,
-      "name": "2X (Os Caras da Rua) - Ao Vivo",
-      "url": "https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR"
+      "duration_ms": 169821,
+      "name": "Cancelado - Ao Vivo",
+      "url": "https://open.spotify.com/track/0I3qO1WoxLiCvEqmrxnO9T"
     },
     {
       "added_at": "2026-08-21 22:02:58",
@@ -987,6 +955,38 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
+        "name": "2X (Os Caras da Rua) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4ouHiCMczVoB3r7rCkzBl2"
+      },
+      "artists": [
+        {
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        },
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        },
+        {
+          "name": "Paulinho",
+          "url": "https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1"
+        },
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        }
+      ],
+      "duration_ms": 179669,
+      "name": "2X (Os Caras da Rua) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR"
+    },
+    {
+      "added_at": "2026-08-21 22:02:58",
+      "album": {
         "name": "Fiz Quase Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
       },
@@ -999,30 +999,6 @@
       "duration_ms": 167925,
       "name": "Fiz Quase Tudo - Ao Vivo",
       "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
-    },
-    {
-      "added_at": "2026-08-21 22:02:58",
-      "album": {
-        "name": "A Pagodeira (Ao vivo)",
-        "url": "https://open.spotify.com/album/61erIGUIWd2zHF7KTaR9Xx"
-      },
-      "artists": [
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 215196,
-      "name": "A Pagodeira - Ao Vivo",
-      "url": "https://open.spotify.com/track/2nNxtJ8Ce702sXXbVBwvW6"
     },
     {
       "added_at": "2026-08-21 22:02:58",
@@ -1047,6 +1023,30 @@
       "duration_ms": 124000,
       "name": "Malandro TouchScreen",
       "url": "https://open.spotify.com/track/5weTYPqLyxPP2zqzoLWep3"
+    },
+    {
+      "added_at": "2026-08-21 22:02:58",
+      "album": {
+        "name": "A Pagodeira (Ao vivo)",
+        "url": "https://open.spotify.com/album/61erIGUIWd2zHF7KTaR9Xx"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 215196,
+      "name": "A Pagodeira - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nNxtJ8Ce702sXXbVBwvW6"
     },
     {
       "added_at": "2026-08-21 22:02:58",

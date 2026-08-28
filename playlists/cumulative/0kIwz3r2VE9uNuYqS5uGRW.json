@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Ban2leros #1",
+        "url": "https://open.spotify.com/album/2moNJyy7a1uxT0CoRyWuDP"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama G",
+          "url": "https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY"
+        },
+        {
+          "name": "Migue Ceballos",
+          "url": "https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125299,
+      "name": "Ban2leros #1",
+      "url": "https://open.spotify.com/track/3FIZxxvk9GDlxiFlVFaibx"
+    },
+    {
+      "album": {
         "name": "Galaxy Sweat",
         "url": "https://open.spotify.com/album/1JLWiiHlNzBpyAHeBv7Ugz"
       },

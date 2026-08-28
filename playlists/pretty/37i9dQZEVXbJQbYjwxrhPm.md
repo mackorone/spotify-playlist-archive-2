@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Мръсна жега](https://open.spotify.com/track/2H8IhpLx4fuPMHToqHzGpi) | [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt), [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK) | [Мръсна жега](https://open.spotify.com/album/2fPRJqUgWOtvfKZPs6lZII) | 2:36 |
 | 50 | [Дискотека](https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL) | [Krissy](https://open.spotify.com/artist/1tQw6OfMksrYe6ZipFVFzo), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Дискотека](https://open.spotify.com/album/4kA6BN3gGjzYUk97RCvJzS) | 3:25 |
 
-Snapshot ID: `MiKO4AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiP+2AAAAAAAAAAAAAAAAAAAAAAAAGVu`

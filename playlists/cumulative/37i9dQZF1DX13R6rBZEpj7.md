@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-415 songs - 23 hr 46 min
+416 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [ON JOB](https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [ON JOB](https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy) | 3:18 | 2025-10-02 |  |
 | [On My Line](https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [On My Line](https://open.spotify.com/album/63hVrszqSChih5vJ18lquM) | 3:22 | 2023-12-01 | 2025-07-09 |
 | [On My Way \(Feat\. Zdot, Kara Marni\) \- ZKG Remix](https://open.spotify.com/track/0QXvYArdrPJEaGJTW5hL2N) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [ZKG](https://open.spotify.com/artist/6SXQM1iGWeRGGpxJKcl4uh) | [On My Way \(Feat\. Zdot, Kara Marni\) \[ZKG Remix\]](https://open.spotify.com/album/5hKK3n38k4IFoMVR72APw5) | 2:39 | 2025-06-20 | 2026-04-24 |
-| [One For You](https://open.spotify.com/track/1YYqYfP9tEtTjRjtZYy0uU) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [One For You](https://open.spotify.com/album/6MuIJ8Fo03mJBp8TbmuekF) | 1:51 | 2026-08-06 |  |
+| [One For You](https://open.spotify.com/track/1YYqYfP9tEtTjRjtZYy0uU) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [One For You](https://open.spotify.com/album/6MuIJ8Fo03mJBp8TbmuekF) | 1:51 | 2026-08-06 | 2026-08-28 |
 | [One More Night](https://open.spotify.com/track/0o8QnRcmXgQsQK7uxpu7oE) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [One More Night](https://open.spotify.com/album/48cUtMWSyrz04CmJDJrkTb) | 2:32 | 2026-05-29 |  |
 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 | 2022-04-15 | 2025-05-02 |
 | [Only Fans \- DJ Q Remix](https://open.spotify.com/track/2ETxl4UkDnOdaq7FUjFxkY) | [Khyenci](https://open.spotify.com/artist/6gUnqjogPaTSqt7cPC681p), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Only Fans \(DJ Q Remix\)](https://open.spotify.com/album/7FxxeBsPGposcj65wnhYxP) | 4:15 | 2022-04-15 | 2022-07-22 |
@@ -312,6 +312,7 @@
 | [Pyro](https://open.spotify.com/track/5DTLWS56vrnEKtWjMQbW2C) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Pyro](https://open.spotify.com/album/0GEePO06fLMiXXIVQ7XkDc) | 4:12 | 2024-02-02 | 2024-02-24 |
 | [Pyrophobia](https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5) | 3:08 | 2024-07-25 | 2024-08-31 |
 | [R U Sleeping](https://open.spotify.com/track/3UHVRGrDIFDjHUSddj4rfX) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [R U Sleeping](https://open.spotify.com/album/30kCQUL7TBvCNhX4tUKnnk) | 2:05 | 2026-04-23 |  |
+| [Ready or Not](https://open.spotify.com/track/6jFekvoFFMvTrJBnkexOBq) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Ready or Not](https://open.spotify.com/album/2qPsy8AHXFunq76NWCzeGf) | 2:05 | 2026-08-27 |  |
 | [Really Tight](https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L) | [Danny Dennett](https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ), [Sando](https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8) | [Really Tight](https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ) | 4:04 | 2022-05-20 | 2025-04-04 |
 | [Redlight](https://open.spotify.com/track/01Kbrkw0CyQv1f6BJ6EprF) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/6sYxW0BRWV06CQhMchiuHI) | 4:09 | 2023-04-04 | 2023-09-15 |
 | [Redlight](https://open.spotify.com/track/2vJ707HOqiCUmvuk2OsdDo) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/7CZx4YfWKTwCnSUpduSX0o) | 4:09 | 2022-07-14 | 2023-05-19 |

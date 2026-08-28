@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Luna Simao",
-  "num_followers": 50917,
+  "num_followers": 50908,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "double cheesy nachos",
-        "url": "https://open.spotify.com/album/3P1BDVWy9Lq4db42pnMrCL"
-      },
-      "artists": [
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "double cheesy nachos",
-      "url": "https://open.spotify.com/track/68jBpNl8RSMcxCSyn2AkcP"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "Sol\u00edsima",
         "url": "https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 223001,
       "name": "Sol\u00edsima - Piano Version",
       "url": "https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "double cheesy nachos",
+        "url": "https://open.spotify.com/album/3P1BDVWy9Lq4db42pnMrCL"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "double cheesy nachos",
+      "url": "https://open.spotify.com/track/68jBpNl8RSMcxCSyn2AkcP"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "BUTCH IM TANK (L.M.S)",
-        "url": "https://open.spotify.com/album/4JhusyOulp7HWQDnFQ8CGu"
+        "name": "Ich hasse die Sonne",
+        "url": "https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA"
       },
       "artists": [
         {
-          "name": "Ebow",
-          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
+          "name": "piya",
+          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
         }
       ],
-      "duration_ms": 179419,
-      "name": "BUTCH IM TANK (L.M.S)",
-      "url": "https://open.spotify.com/track/3T3bx5A1F0lM5NETm0fD2h"
+      "duration_ms": 164250,
+      "name": "Ich hasse die Sonne",
+      "url": "https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -491,34 +491,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Ich hasse die Sonne",
-        "url": "https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA"
+        "name": "BUTCH IM TANK (L.M.S)",
+        "url": "https://open.spotify.com/album/4JhusyOulp7HWQDnFQ8CGu"
       },
       "artists": [
         {
-          "name": "piya",
-          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
+          "name": "Ebow",
+          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
         }
       ],
-      "duration_ms": 164250,
-      "name": "Ich hasse die Sonne",
-      "url": "https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
-        "name": "c.260611",
-        "url": "https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu"
-      },
-      "artists": [
-        {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
-        }
-      ],
-      "duration_ms": 105234,
-      "name": "c.260611",
-      "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
+      "duration_ms": 179419,
+      "name": "BUTCH IM TANK (L.M.S)",
+      "url": "https://open.spotify.com/track/3T3bx5A1F0lM5NETm0fD2h"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -543,6 +527,22 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
+        "name": "c.260611",
+        "url": "https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "duration_ms": 105234,
+      "name": "c.260611",
+      "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
         "name": "chasing love and missing people",
         "url": "https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 173773,
       "name": "chasing love and missing people",
       "url": "https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "Opium",
+        "url": "https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 146454,
+      "name": "Opium",
+      "url": "https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -639,18 +655,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Opium",
-        "url": "https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741"
+        "name": "Ich denk an dich",
+        "url": "https://open.spotify.com/album/1Kqnz3yaL8gvxP9YUnfr89"
       },
       "artists": [
         {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+          "name": "Jenny & Joy",
+          "url": "https://open.spotify.com/artist/5biUqgfoCEV5HSpWHWUgLH"
         }
       ],
-      "duration_ms": 146454,
-      "name": "Opium",
-      "url": "https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp"
+      "duration_ms": 160205,
+      "name": "Ich denk an dich",
+      "url": "https://open.spotify.com/track/5ikD0eJ2tR0KGzbNmQaN79"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -667,22 +683,6 @@
       "duration_ms": 180031,
       "name": "Wash my hair",
       "url": "https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
-        "name": "Ich denk an dich",
-        "url": "https://open.spotify.com/album/1Kqnz3yaL8gvxP9YUnfr89"
-      },
-      "artists": [
-        {
-          "name": "Jenny & Joy",
-          "url": "https://open.spotify.com/artist/5biUqgfoCEV5HSpWHWUgLH"
-        }
-      ],
-      "duration_ms": 160205,
-      "name": "Ich denk an dich",
-      "url": "https://open.spotify.com/track/5ikD0eJ2tR0KGzbNmQaN79"
     },
     {
       "added_at": "2026-08-04 22:00:28",

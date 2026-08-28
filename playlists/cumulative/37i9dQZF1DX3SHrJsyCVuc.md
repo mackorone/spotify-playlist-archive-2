@@ -4,7 +4,7 @@
 
 > A new world of alternative noise\. Cover: Fontaines D.C.
 
-249 songs - 13 hr 51 min
+250 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Lucinda \(EM\)](https://open.spotify.com/track/0oocoADIlPjnJtdYbY1AkS) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Lucinda \(EM\)](https://open.spotify.com/album/6VlcwTjhb5fKroAM9309fR) | 4:31 | 2026-05-21 | 2026-08-14 |
 | [Lunch Money](https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Lunch Money](https://open.spotify.com/album/5d1OI49ZAH9m7aOICesn0G) | 3:36 | 2026-06-04 |  |
 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 | 2025-10-23 | 2026-06-12 |
+| [Make It Stop](https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:55 | 2026-08-27 |  |
 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-20 |  |
 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 | 2025-10-23 | 2025-12-05 |
 | [Missing](https://open.spotify.com/track/1xZiJQuvH4AMNjUPrd6P2g) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [Remains](https://open.spotify.com/album/7lTUctoVU6VuJj0jvk3n7F) | 3:54 | 2026-04-23 | 2026-07-03 |
@@ -223,7 +224,7 @@
 | [Swamped](https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky Is Falling](https://open.spotify.com/album/28uUvZtG0MaZILpUToigcn) | 3:17 | 2025-10-23 | 2025-11-21 |
 | [Take Me Apart](https://open.spotify.com/track/60X2aBTjALI2TZvRe3dHTJ) | [LORY](https://open.spotify.com/artist/1MnhXelXuGXhjgCyWrc4DF) | [Three\-Three\-Three](https://open.spotify.com/album/48JSARqYTYJa1DmZl1NOLJ) | 2:19 | 2025-11-06 | 2026-01-30 |
 | [Take Me to the Meeting](https://open.spotify.com/track/6awY3r3qQHoyCRIVR0Pq2b) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Take Me to the Meeting](https://open.spotify.com/album/2t0u5r7EU6Exkj0kdOMEKg) | 3:21 | 2026-06-25 |  |
-| [Tender Blades](https://open.spotify.com/track/3yl61cFag5kZhb9tCX6lU6) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 4:03 | 2026-05-29 |  |
+| [Tender Blades](https://open.spotify.com/track/3yl61cFag5kZhb9tCX6lU6) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 4:03 | 2026-05-29 | 2026-08-28 |
 | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5) | 3:03 | 2025-10-23 | 2026-02-13 |
 | [The Fountain](https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [The Fountain](https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E) | 3:25 | 2026-08-06 |  |
 | [The Gap](https://open.spotify.com/track/0QqS4DQq9tVaQZwP1977M7) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [The Gap](https://open.spotify.com/album/1Bnpt6QVXk8mDmiYIfGOUL) | 4:28 | 2026-02-26 | 2026-06-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Juwls",
+  "description": "Frisse Nederlandse pop. Cover: Samuel Welten & Russo",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -3907,6 +3907,28 @@
     },
     {
       "album": {
+        "name": "BOEM!",
+        "url": "https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144522,
+      "name": "BOEM!",
+      "url": "https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3"
+    },
+    {
+      "album": {
         "name": "Bouwen Met Jou",
         "url": "https://open.spotify.com/album/2eyxNgqrG2GfVPGY8Yzubs"
       },
@@ -4766,7 +4788,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 176031,
       "name": "Dans Je Toch Met Mij",
       "url": "https://open.spotify.com/track/7bxx1OY6p8RqPkpDLa7FEc"
@@ -11524,7 +11546,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 166488,
       "name": "Ik Wil Je Terug",
       "url": "https://open.spotify.com/track/0hAJJ3P8CnHixr0AhySogi"
@@ -12030,7 +12052,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171940,
       "name": "Je Hoort Nog Steeds Bij Mij",
       "url": "https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2"
@@ -15322,7 +15344,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174000,
       "name": "Meer Dan Mooi",
       "url": "https://open.spotify.com/track/0RlbV33r7lt8IRb4UafByA"
@@ -16336,7 +16358,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 133913,
       "name": "Multimiljonair",
       "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
@@ -17721,6 +17743,24 @@
     },
     {
       "album": {
+        "name": "Ogen Dicht",
+        "url": "https://open.spotify.com/album/0spjY1xMzhzf1BF82s0EEf"
+      },
+      "artists": [
+        {
+          "name": "KRISTAN",
+          "url": "https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142852,
+      "name": "Ogen Dicht",
+      "url": "https://open.spotify.com/track/1pNwikzUuoBeLVSrPHLaKq"
+    },
+    {
+      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/7nrIqZOOBKlPpWfGeDT5Ti"
       },
@@ -17808,6 +17848,24 @@
       "duration_ms": 201118,
       "name": "Oktober",
       "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
+    },
+    {
+      "album": {
+        "name": "Omdat Ik Van Je Hou",
+        "url": "https://open.spotify.com/album/7duRm33pmP2AI25OBg8hj4"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198337,
+      "name": "Omdat Ik Van Je Hou",
+      "url": "https://open.spotify.com/track/4YH2E3cJJQZMzO2jC9Gldw"
     },
     {
       "album": {
@@ -18557,6 +18615,24 @@
     },
     {
       "album": {
+        "name": "Papa's Geld",
+        "url": "https://open.spotify.com/album/2SDdUEUN0OOzxV2hhdgrWm"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142271,
+      "name": "Papa's Geld",
+      "url": "https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT"
+    },
+    {
+      "album": {
         "name": "FLEMMING",
         "url": "https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt"
       },
@@ -19265,6 +19341,24 @@
     },
     {
       "album": {
+        "name": "Rijden Onder Invloed",
+        "url": "https://open.spotify.com/album/07vDbEeuOsnLfjjperIAoj"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Rijden Onder Invloed",
+      "url": "https://open.spotify.com/track/4Ls8224Uo6Rd3npe9FRei2"
+    },
+    {
+      "album": {
         "name": "Ritmo Pegajoso",
         "url": "https://open.spotify.com/album/4EoYRkSz9c0UnC2MgcrjO6"
       },
@@ -19378,6 +19472,24 @@
       "duration_ms": 156183,
       "name": "Rode Roos",
       "url": "https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk"
+    },
+    {
+      "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/6LYbzBb95GIAGNhitP4IaY"
+      },
+      "artists": [
+        {
+          "name": "Jav\u00e9",
+          "url": "https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152201,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/0ZJ5pfR6GTqEfDqZFkpu5b"
     },
     {
       "album": {
@@ -23647,6 +23759,24 @@
     },
     {
       "album": {
+        "name": "Vondel",
+        "url": "https://open.spotify.com/album/4rNcN9Tqnczmm3T31BwmVQ"
+      },
+      "artists": [
+        {
+          "name": "Luc Burghout",
+          "url": "https://open.spotify.com/artist/2gfx2RPSwrbv5rTNjR1HW8"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Vondel",
+      "url": "https://open.spotify.com/track/7JiPb8HB6QQ4mf8Gn8GtS7"
+    },
+    {
+      "album": {
         "name": "Voor Altijd",
         "url": "https://open.spotify.com/album/6FSu3XpDFgsWzbLWk4RZTq"
       },
@@ -24122,7 +24252,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 223588,
       "name": "Waar Ben Jij",
       "url": "https://open.spotify.com/track/5MfppCV3LbvXdQV6UXx7Xp"
@@ -26616,7 +26746,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 134444,
       "name": "Zwak Voor Jou",
       "url": "https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC"

@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
+> ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Nezzah
 
-161 songs - 9 hr 8 min
+162 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 | 2023-09-22 |  |
 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 | 2024-02-16 | 2026-06-13 |
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-20 | 2024-08-03 |
+| [Las Notas Serán Besos](https://open.spotify.com/track/5DqzMGW2RiwZkSTOq99K8q) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6) | [Las Notas Serán Besos](https://open.spotify.com/album/4rEGPL1WSJCJn2ukxiNMw9) | 2:52 | 2026-08-28 |  |
 | [Laura \(Mi Suerte\)](https://open.spotify.com/track/2P31HyQaVL7how4eulaCA5) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [De los Amores Prestados](https://open.spotify.com/album/1CSgdHYRD3LnNxEGtxAZmU) | 2:59 | 2026-03-18 | 2026-03-27 |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2024-05-18 |
 | [Los Domingos](https://open.spotify.com/track/7ArjPcNTIMIPTST10plFKV) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Los Domingos](https://open.spotify.com/album/4pKMqz4Q8R1bIGCK41ilrt) | 3:37 | 2023-09-22 |  |

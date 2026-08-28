@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: r-906",
-  "num_followers": 121276,
+  "num_followers": 121264,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-18 15:00:34",
       "album": {
-        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
-        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
-      },
-      "artists": [
-        {
-          "name": "n-buna",
-          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
-      "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
-    },
-    {
-      "added_at": "2026-08-18 15:00:34",
-      "album": {
         "name": "\u304f\u3089\u3057\u30a2\u30bd\u30fc\u30c8",
         "url": "https://open.spotify.com/album/15bUakbuDdhL0sHTLsli39"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
+    },
+    {
+      "added_at": "2026-08-18 15:00:34",
+      "album": {
+        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
+        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
+      },
+      "artists": [
+        {
+          "name": "n-buna",
+          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
+      "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
     }
   ],
   "unique_name": "VOCALOID now",

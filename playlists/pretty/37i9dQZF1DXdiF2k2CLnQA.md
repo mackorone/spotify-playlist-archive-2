@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! Cover: Tony Iommi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,013 likes - 136 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,008 likes - 136 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

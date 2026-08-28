@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/22nkGF7OSbEjSgn7SPIi6t"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133374,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/7JdsUzY1xoVeADZq2n3Qpj"
+    },
+    {
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY"
       },
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174782,
       "name": "CASA",
       "url": "https://open.spotify.com/track/3vrnf0Mq2Rab3l0Y3GQ3lN"
@@ -4964,7 +4982,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153750,
       "name": "DJAN XONA",
       "url": "https://open.spotify.com/track/0MPGkpJCV1LkHJKTJMfuJo"
@@ -7143,6 +7161,24 @@
     },
     {
       "album": {
+        "name": "Fruta Proibida",
+        "url": "https://open.spotify.com/album/4VUE0eKHwPzQ0PO7cHO04K"
+      },
+      "artists": [
+        {
+          "name": "Venus",
+          "url": "https://open.spotify.com/artist/0JvMGnHp2N3pLEzsqpw7Hu"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151134,
+      "name": "Fruta Proibida",
+      "url": "https://open.spotify.com/track/5hNigQs5ima4nOigK7ladV"
+    },
+    {
+      "album": {
         "name": "Fumo",
         "url": "https://open.spotify.com/album/38VUIJV6lnoYPbpgnZObhL"
       },
@@ -8284,7 +8320,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 147341,
       "name": "Ipanema",
       "url": "https://open.spotify.com/track/3dGuHCcyjt9vBSWwJMlbMc"
@@ -8490,6 +8526,28 @@
       "duration_ms": 144092,
       "name": "J\u00e1 Sei",
       "url": "https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR"
+    },
+    {
+      "album": {
+        "name": "J\u00c1 T\u00c1 TARDE",
+        "url": "https://open.spotify.com/album/3IZ5X0uAK51OF7zPRnv9VX"
+      },
+      "artists": [
+        {
+          "name": "Balata",
+          "url": "https://open.spotify.com/artist/0E3h7iT1bT5h7kZ52qsica"
+        },
+        {
+          "name": "Fraga",
+          "url": "https://open.spotify.com/artist/0Fg2MQOKY2fF3IRX12X7YJ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "J\u00c1 T\u00c1 TARDE",
+      "url": "https://open.spotify.com/track/2eUL8ZydJ3j3D2fNheqxuI"
     },
     {
       "album": {
@@ -15339,6 +15397,24 @@
     },
     {
       "album": {
+        "name": "show my shine",
+        "url": "https://open.spotify.com/album/0zSIXfMCYCb39WZ6ntmGER"
+      },
+      "artists": [
+        {
+          "name": "Solbee",
+          "url": "https://open.spotify.com/artist/6QUhW3F6mOIKgq2X0dEDNd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193987,
+      "name": "show my shine",
+      "url": "https://open.spotify.com/track/6O8EiOfOS1eYM4b6Wroxq0"
+    },
+    {
+      "album": {
         "name": "Sil\u00eancio",
         "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
       },
@@ -17862,7 +17938,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157440,
       "name": "ver\u00e3o de lisboa",
       "url": "https://open.spotify.com/track/5BsvhFYvtZocwGJwq0Jstp"

@@ -1,12 +1,12 @@
 {
   "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 100932,
+  "num_followers": 101019,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKGhI9SQiZ+6cSfV7vp6vgrPNSF",
+  "snapshot_id": "AAAAAFPffC2QcPVkuT4BNT7NJszvFGzR",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:08",
@@ -27,6 +27,134 @@
       "duration_ms": 129045,
       "name": "I Love a Rainbow",
       "url": "https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y"
+    },
+    {
+      "added_at": "2026-08-28 04:00:59",
+      "album": {
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/7cZrrtDVOcS1M3HJbCaM9h"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "duration_ms": 147858,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1mJJXABEAJlxZLrF6LXmTI"
+    },
+    {
+      "added_at": "2026-08-28 04:00:59",
+      "album": {
+        "name": "My Ice Cream Truck (Doggyland Version)",
+        "url": "https://open.spotify.com/album/37okxQCkCtg2Wtn8N3OuzU"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        }
+      ],
+      "duration_ms": 115300,
+      "name": "My Ice Cream Truck - Doggyland Version",
+      "url": "https://open.spotify.com/track/1f6fvLYmieAKqfrecQxbZJ"
+    },
+    {
+      "added_at": "2026-08-28 04:00:59",
+      "album": {
+        "name": "Everybody Celebrate",
+        "url": "https://open.spotify.com/album/0Br7GhLMD0H1FQtT9vUJIv"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Everybody Celebrate",
+      "url": "https://open.spotify.com/track/3xjW7CDh9Mvzq2Ve5l3lhS"
+    },
+    {
+      "added_at": "2026-08-28 04:00:59",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/2s6jpXO0dmQuopHy31hnCf"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 145779,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1zz6YHwIKtkPpzvhQx01aw"
+    },
+    {
+      "added_at": "2026-08-28 04:00:59",
+      "album": {
+        "name": "Mermaid Summer",
+        "url": "https://open.spotify.com/album/6ow0aRZqb3NxXdNp0e2I32"
+      },
+      "artists": [
+        {
+          "name": "Emmie's Wonder Wardrobe",
+          "url": "https://open.spotify.com/artist/1qIM7v8YWqonfMc9y63Twg"
+        },
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 178644,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/4D5kxvNYtnr8LPGeFAMszL"
+    },
+    {
+      "added_at": "2026-08-28 04:00:59",
+      "album": {
+        "name": "Celebrate Differences",
+        "url": "https://open.spotify.com/album/5DeO2lCO38H2FMKIMAftm7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "duration_ms": 98348,
+      "name": "Something New About You",
+      "url": "https://open.spotify.com/track/4BQyN2oU69bGRJOE2ObJNy"
+    },
+    {
+      "added_at": "2026-08-28 04:00:59",
+      "album": {
+        "name": "Wild Wild West",
+        "url": "https://open.spotify.com/album/1LiVO1wG6CzqzpdnOlnXJY"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Jake Tankersley",
+          "url": "https://open.spotify.com/artist/77Q95u1SgL9yCUGnvIud25"
+        }
+      ],
+      "duration_ms": 96545,
+      "name": "Wild Wild West",
+      "url": "https://open.spotify.com/track/1T9tOAnVWLydHpXR9uW9vR"
     },
     {
       "added_at": "2026-08-21 22:15:21",
@@ -1683,106 +1811,6 @@
       "duration_ms": 88490,
       "name": "Treasure Hunt",
       "url": "https://open.spotify.com/track/5euJiGFOJ5VKD9HOBE6i2l"
-    },
-    {
-      "added_at": "2026-06-19 04:00:39",
-      "album": {
-        "name": "Ten In The Bed",
-        "url": "https://open.spotify.com/album/24OZW0GFNy5cPWqZkB2kCI"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ten In The Bed",
-      "url": "https://open.spotify.com/track/3Q0JQlJb2j5sdEY7xwdohI"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "Bottle Up (from PAW Patrol: The Dino Movie)",
-        "url": "https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        },
-        {
-          "name": "PAW Patrol",
-          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Bottle Up - from PAW Patrol: The Dino Movie",
-      "url": "https://open.spotify.com/track/7LAcikXNoHVAQFeEx8caQ2"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/7IIGaEFyIvyiXfAoze8PsF"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 208540,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6bUCROtu78ifRgxj0PeBT4"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "I'm A Submarine",
-        "url": "https://open.spotify.com/album/19AS7yBeaVBKr7TpYB8YKS"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 107534,
-      "name": "I'm A Submarine",
-      "url": "https://open.spotify.com/track/0ihOJt7QyaXKq5xmlipNae"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "Footwork Crazy",
-        "url": "https://open.spotify.com/album/5GCu1RDfOKCV2VsW5VNxsN"
-      },
-      "artists": [
-        {
-          "name": "Gracie's Corner",
-          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Footwork Crazy",
-      "url": "https://open.spotify.com/track/6NGQ7vAeiLmmQllGuNXosU"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "Lachy's Sparkle Music Machine",
-        "url": "https://open.spotify.com/album/5GYiI0CFvaENj5c6hakhaX"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 109847,
-      "name": "Lachy's Sparkle Music Machine",
-      "url": "https://open.spotify.com/track/3u240MRJgxb6BYlkYvzxXW"
     }
   ],
   "unique_name": "New Kids Music",

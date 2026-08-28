@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月25日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月27日付。
 
 7,904 songs - 19 day 15 hr 7 min
 
@@ -4833,7 +4833,7 @@
 | [Wanna](https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Wanna](https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N) | 2:28 | 2023-08-25 | 2023-09-04 |
 | [Wanna Buy A Plant + Cost Me](https://open.spotify.com/track/0iNyG60qrVpVQ1YOceyI2Y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/51aVfAzEowNwmCUzsDhXvO) | 3:33 | 2026-08-03 | 2026-08-11 |
 | [Wannabe](https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Wannabe](https://open.spotify.com/album/1wLVxgVaAol2Vmz7A9M6Fn) | 4:25 | 2024-11-22 | 2024-11-26 |
-| [Want it \~One of the BE:ST\-06 SHUNTO\~](https://open.spotify.com/track/1voHOqp1WDAOU7EI3ooEdA) | [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [Missing](https://open.spotify.com/album/5s3ikpH92AFAHiCSipbp63) | 2:59 | 2026-07-03 | 2026-08-25 |
+| [Want it \~One of the BE:ST\-06 SHUNTO\~](https://open.spotify.com/track/1voHOqp1WDAOU7EI3ooEdA) | [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [Missing](https://open.spotify.com/album/5s3ikpH92AFAHiCSipbp63) | 2:59 | 2026-07-03 |  |
 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 | 2025-08-11 | 2025-08-16 |
 | [WanteD! WanteD!](https://open.spotify.com/track/7M3TZDUNvaNBo0qtWVaZif) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ENSEMBLE](https://open.spotify.com/album/2zEowQWsCZMuNDJsYTxgRC) | 3:37 | 2023-02-26 | 2026-02-07 |
 | [WARAiNA](https://open.spotify.com/track/48GwG0Wwmo6qmxw8UUaAZB) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [WARAiNA](https://open.spotify.com/album/5AQTkylFaZYygZEhKmp2j6) | 3:08 | 2026-04-13 | 2026-04-16 |
@@ -5962,7 +5962,7 @@
 | [セルフフライデー](https://open.spotify.com/track/444mX7Tw6Jfa3daYJ9ipgm) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [セルフフライデー](https://open.spotify.com/album/4MNMIkw8dwTOeqORsWUObv) | 2:14 | 2026-06-12 | 2026-06-20 |
 | [セレナーデ](https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 3:39 | 2026-01-23 | 2026-06-11 |
 | [センス \- feat\. Siero](https://open.spotify.com/track/7ClJtd1bQghOIeErB6ZDhd) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [SPEEDSTAR](https://open.spotify.com/album/25ZgsmzkQ3Gn8WZpPYtYSm) | 2:37 | 2026-06-26 | 2026-06-30 |
-| [センセーション](https://open.spotify.com/track/0BALoMCHyL9s4VYHq9sffV) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ぱわーオブらぶ / センセーション](https://open.spotify.com/album/0wWSy06e4evneurWE9x3lx) | 3:08 | 2026-07-17 |  |
+| [センセーション](https://open.spotify.com/track/0BALoMCHyL9s4VYHq9sffV) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ぱわーオブらぶ / センセーション](https://open.spotify.com/album/0wWSy06e4evneurWE9x3lx) | 3:08 | 2026-07-17 | 2026-08-28 |
 | [センチメンタルピリオド](https://open.spotify.com/track/4f1zepqZ36gAWIQWWLIg21) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [UNISON SQUARE GARDEN](https://open.spotify.com/album/2swnkAwXAPaUzneGrSQe06) | 4:08 | 2026-04-30 | 2026-05-02 |
 | [セーラー服と機関銃](https://open.spotify.com/track/4a6Tpe4ke7vPXkYSYo2lBn) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [歌物語](https://open.spotify.com/album/3jzqhDFbWzs3vhwclLiEyC) | 4:33 | 2024-10-10 | 2024-10-11 |
 | [ソウルズ](https://open.spotify.com/track/7yJ2irr6aDyXSD8An8s4tq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [ソウルズ](https://open.spotify.com/album/41ob2WhOjMIZHpq1SoDeHd) | 3:37 | 2024-09-26 | 2024-10-16 |
@@ -6637,7 +6637,7 @@
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-07-03 | 2024-07-05 |
 | [全部だきしめて](https://open.spotify.com/track/2GvIuq1U7otDgyWGtMSAMS) | [KinKi Kids](https://open.spotify.com/artist/5ki9pRkPNIXLjuiqG1Jh84) | [KinKi Single Selection](https://open.spotify.com/album/3px6xas6sAcNGNJTy6ZQw9) | 4:35 | 2025-05-30 | 2025-06-04 |
 | [八月、某、月明かり](https://open.spotify.com/track/2dZP7UEXGIvn1HXgfWFA3Z) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:36 | 2025-12-19 | 2025-12-23 |
-| [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 | 2024-06-10 | 2026-08-25 |
+| [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 | 2024-06-10 |  |
 | [六ノ輪](https://open.spotify.com/track/0RDHzL3m6eK2wSuCou4sAW) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [六ノ輪](https://open.spotify.com/album/7wX1l5Bu8H2sCbkBqy7XPe) | 3:27 | 2026-06-22 | 2026-06-27 |
 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-26 | 2024-07-29 |
 | [其の慈愛で](https://open.spotify.com/track/1FKHdBDp8wQelk8uwz83Ie) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [其の慈愛で](https://open.spotify.com/album/6tv3enJQanVWKP0WXD6zdD) | 2:45 | 2026-06-10 | 2026-06-12 |
@@ -7255,7 +7255,7 @@
 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 | 2023-06-02 | 2023-06-12 |
 | [松に鶴](https://open.spotify.com/track/32eU3Iod2SBL0C7sJaIdYf) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [芒に月](https://open.spotify.com/album/14Mamzg3Id7WcUtkbT3umL) | 3:29 | 2025-06-30 | 2025-07-02 |
 | [果てない空](https://open.spotify.com/track/3FsTZ0Q7CfFiIIByInF08I) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Beautiful World](https://open.spotify.com/album/5uwmEk6t3b8mqSqTzg5hEc) | 4:25 | 2026-06-10 | 2026-06-12 |
-| [栄光の扉](https://open.spotify.com/track/4Q0cwmEsjcP0tuYJ20FqU6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [LOVE＋PEACE](https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti) | 3:27 | 2025-07-15 |  |
+| [栄光の扉](https://open.spotify.com/track/4Q0cwmEsjcP0tuYJ20FqU6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [LOVE＋PEACE](https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti) | 3:27 | 2025-07-15 | 2026-08-28 |
 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 | 2023-03-20 | 2026-07-17 |
 | [栞](https://open.spotify.com/track/4ydI1PBgOZvwLScf5eR0kw) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [栞](https://open.spotify.com/album/1RebfCbPJxZ2coD3Fb9Rtn) | 4:30 | 2024-08-29 | 2024-09-17 |
 | [桜](https://open.spotify.com/track/5Hi4IAtdFZzg6IfAVMd6lZ) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [NAMELESS　WORLD](https://open.spotify.com/album/4aD2P4IT3O69rPMMKDpb51) | 6:00 | 2024-02-02 | 2026-03-28 |

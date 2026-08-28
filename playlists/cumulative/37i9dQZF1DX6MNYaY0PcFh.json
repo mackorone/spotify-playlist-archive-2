@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 162149,
       "name": "Bass Provider (feat. MC Vapour)",
       "url": "https://open.spotify.com/track/1UQ9xq3YMhJWaiqk8R6Joo"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171428,
       "name": "Dip 'N Run",
       "url": "https://open.spotify.com/track/2zHUOTwJlXpxKc75z8owsh"
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 205162,
       "name": "Draw a Line",
       "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
@@ -3203,6 +3203,28 @@
     },
     {
       "album": {
+        "name": "Gotta Have It",
+        "url": "https://open.spotify.com/album/5gxDE36TyHAZ0Dv8V7SAqJ"
+      },
+      "artists": [
+        {
+          "name": "Faster Horses",
+          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
+        },
+        {
+          "name": "Mass Medium",
+          "url": "https://open.spotify.com/artist/4XpxlgcEnxaBDaAO7V1XvH"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "Gotta Have It",
+      "url": "https://open.spotify.com/track/3uRbDTbV1cux3narst5tIh"
+    },
+    {
+      "album": {
         "name": "Grindin",
         "url": "https://open.spotify.com/album/3OG6eMwSnvA0KcAzl8BjnQ"
       },
@@ -3492,6 +3514,28 @@
       "duration_ms": 141776,
       "name": "HITZ 4 THE HOOD",
       "url": "https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj"
+    },
+    {
+      "album": {
+        "name": "HOLD DA PHONE",
+        "url": "https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203222,
+      "name": "HOLD DA PHONE",
+      "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
     },
     {
       "album": {
@@ -3942,7 +3986,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 202816,
       "name": "In Dreams (its just the rhythm)",
       "url": "https://open.spotify.com/track/6JRZnxpx5BlUOeWGgtSzqS"
@@ -4267,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Left 2 Right",
+        "url": "https://open.spotify.com/album/7v1W3n2gwiWgPlN9xtFdeQ"
+      },
+      "artists": [
+        {
+          "name": "ASHLEY",
+          "url": "https://open.spotify.com/artist/7M8bXhbLycgcemcr95A1yx"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134657,
+      "name": "Left 2 Right",
+      "url": "https://open.spotify.com/track/1OIOYPtDyOQgIMauAPzTdP"
+    },
+    {
+      "album": {
         "name": "lemons",
         "url": "https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI"
       },
@@ -4406,6 +4468,28 @@
       "duration_ms": 253235,
       "name": "Like This Like That",
       "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
+    },
+    {
+      "album": {
+        "name": "linea rossa",
+        "url": "https://open.spotify.com/album/7rzG9m326lh7XqH9n5Yk89"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        },
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "linea rossa",
+      "url": "https://open.spotify.com/track/5Zxs47wrNNldpeXprV1q3K"
     },
     {
       "album": {
@@ -5174,7 +5258,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 200571,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
@@ -5370,7 +5454,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 190140,
       "name": "Never Done",
       "url": "https://open.spotify.com/track/6KK9Bbxwf6jsjKtG33K5XG"
@@ -5770,7 +5854,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194666,
       "name": "Only Thing",
       "url": "https://open.spotify.com/track/2SejgFmszB8YDZdJEQCG2D"
@@ -6927,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/3XnQfViRNFmbBbSMbXnhOH"
+      },
+      "artists": [
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252341,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/3GLqZIluME1vD6xnP4mxa8"
+    },
+    {
+      "album": {
         "name": "Shadows Pt. 3",
         "url": "https://open.spotify.com/album/0oWr4r89kkWmeZ5dQqHcHy"
       },
@@ -7186,7 +7288,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 137484,
       "name": "So Serious",
       "url": "https://open.spotify.com/track/4xPyAOKqIrvqbOq97hoB3b"
@@ -7808,6 +7910,24 @@
       "duration_ms": 161715,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
+    },
+    {
+      "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/56DdGmW9V0Ei6p3gNjwAlw"
+      },
+      "artists": [
+        {
+          "name": "KING BOOO!",
+          "url": "https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/1f9NLjlCaWJdeGFh4srqX3"
     },
     {
       "album": {
@@ -8745,6 +8865,24 @@
     },
     {
       "album": {
+        "name": "GDWDMA",
+        "url": "https://open.spotify.com/album/3DznN9CYfsUcIDqDJnszUq"
+      },
+      "artists": [
+        {
+          "name": "KURUPT FM",
+          "url": "https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181334,
+      "name": "Weapon",
+      "url": "https://open.spotify.com/track/5YzbbmGGzUbL4Uc0a61uir"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
       },
@@ -9070,6 +9208,24 @@
       "duration_ms": 198363,
       "name": "Wouldn't Believe",
       "url": "https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf"
+    },
+    {
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/34zHYKVsBkk46553W51kA2"
+      },
+      "artists": [
+        {
+          "name": "Girls Don't Sync",
+          "url": "https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129252,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/2Ug6Ycg3oErPbOWxfZetXG"
     },
     {
       "album": {

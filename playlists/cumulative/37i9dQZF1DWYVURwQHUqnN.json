@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Gradur",
+  "description": "Photo : Gambi",
   "name": "Best Life",
   "tracks": [
     {
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168750,
       "name": "CHETOU",
       "url": "https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL"
@@ -2555,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "CHOUCHOU",
+        "url": "https://open.spotify.com/album/5K5D26lByVf171TQKpZ3zZ"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "CHOUCHOU",
+      "url": "https://open.spotify.com/track/3uXidY01yR5pKdk7xTGSn4"
+    },
+    {
+      "album": {
         "name": "CHRISTIAN DIOR",
         "url": "https://open.spotify.com/album/7g99lYKLGip8dkdx5hHZSv"
       },
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 129796,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/3j3L6nvfidj1eZoKTm9w4f"
@@ -8598,6 +8616,24 @@
       "duration_ms": 135000,
       "name": "Pas Changer",
       "url": "https://open.spotify.com/track/470Tgxw94PIHrvOZp7NizG"
+    },
+    {
+      "album": {
+        "name": "PAS COMME LES AUTRES",
+        "url": "https://open.spotify.com/album/5AXwPOdRA98SYWvwdva5e9"
+      },
+      "artists": [
+        {
+          "name": "Mougli",
+          "url": "https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108576,
+      "name": "PAS COMME LES AUTRES",
+      "url": "https://open.spotify.com/track/7IhB9WKWuEISgm34K2R9no"
     },
     {
       "album": {

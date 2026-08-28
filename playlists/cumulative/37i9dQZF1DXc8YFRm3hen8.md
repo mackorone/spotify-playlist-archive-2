@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 Las Pastillas del Abuelo
 
-482 songs - 1 day 6 hr 31 min
+483 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 | 2022-07-06 |  |
 | [Pensamientos](https://open.spotify.com/track/4BVUqdx68RHFWruvHVQtvJ) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Pensamientos](https://open.spotify.com/album/1ZO91hsQDPJohLn1NlghqD) | 3:52 | 2022-07-06 | 2022-07-12 |
 | [Perdido](https://open.spotify.com/track/4iyzfXpgx4vCEU40sVUMvm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:52 | 2025-04-25 | 2026-05-29 |
+| [Perdí la Fe](https://open.spotify.com/track/4c4Zc4mLY8pgv6dSjAFvfL) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE), [Walas](https://open.spotify.com/artist/1vn1P4IIBrr7MB0glpcYJc) | [Perdí la Fe](https://open.spotify.com/album/7kxJkGQIAqaYuXy2PBGCpN) | 3:55 | 2026-08-28 |  |
 | [Perfectos Cromosomas](https://open.spotify.com/track/66Jjt6HVWhwdkdFicMKkik) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Fernando Ruiz Diaz](https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c) | [Covers en Fase 1](https://open.spotify.com/album/6QgdtzyhmigYYMh5ZiMiuc) | 3:46 | 2022-07-01 | 2022-07-05 |
 | [Pero mi mente no me deja](https://open.spotify.com/track/4LKOMJEmMfaz9SRSkbHn0O) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [SUBIDOS AL PONY](https://open.spotify.com/album/46rFn3rJ8c4kvk8gSsLaI0) | 3:59 | 2025-09-12 | 2025-11-18 |
 | [Perros de la Calle](https://open.spotify.com/track/3OtLyp9Osabr0ZD4e4Lt5w) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Perros de la Calle](https://open.spotify.com/album/0or3IneZHIPdTybhh2PWSa) | 3:14 | 2022-06-29 | 2022-07-28 |
@@ -465,7 +466,7 @@
 | [UNA SOGA](https://open.spotify.com/track/0Y8VQnd0ecmXNivq04iiKV) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [SOLO POR HOY](https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5) | 3:05 | 2026-07-24 |  |
 | [Una Tregua](https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Hija del Rigor](https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO) | 3:30 | 2022-07-06 | 2022-11-08 |
 | [Una Vez Más](https://open.spotify.com/track/4gPlgQtE8ZbtWSoADLneBw) | [Lucho Al A77AQUE](https://open.spotify.com/artist/2cloS9NWMDt9emhfy9QUmA) | [Una Vez Más](https://open.spotify.com/album/6iZCkRzYbbwYLiHXLBn2mk) | 3:11 | 2023-08-18 | 2023-09-22 |
-| [Una Vida Más](https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 4:03 | 2026-01-12 |  |
+| [Una Vida Más](https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 4:03 | 2026-01-12 | 2026-08-28 |
 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 | 2022-07-19 |  |
 | [Valle de Valium](https://open.spotify.com/track/639KxyOYhHgaovDipRf4RY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Valle de Valium](https://open.spotify.com/album/6N2LPGfUDWFcxWRL6eOG7S) | 2:07 | 2022-07-19 | 2022-07-25 |
 | [Vamos a Casarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 | 2025-06-27 | 2025-07-11 |

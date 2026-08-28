@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y"
+      },
+      "artists": [
+        {
+          "name": "The Dark Wave",
+          "url": "https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489770,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy"
+    },
+    {
+      "album": {
         "name": "Alone (Cover)",
         "url": "https://open.spotify.com/album/5B5G82hCzSMXhA5szT7Lez"
       },
@@ -6389,6 +6407,28 @@
     },
     {
       "album": {
+        "name": "Till Death Parts Us",
+        "url": "https://open.spotify.com/album/6I9dVel8cyK5qwEhjq5BIb"
+      },
+      "artists": [
+        {
+          "name": "Beyond Disdain",
+          "url": "https://open.spotify.com/artist/2MpVNPYFczBeNjPXePyVB4"
+        },
+        {
+          "name": "Selene Calder",
+          "url": "https://open.spotify.com/artist/6ol142WWS5UFXOVXQ6hRs3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259720,
+      "name": "Lost Inside The Sound",
+      "url": "https://open.spotify.com/track/5hvZynQUpMYVnKV0H6yM5C"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0zXTGKTKT4ascu8laqtbsN"
       },
@@ -12226,6 +12266,24 @@
       "duration_ms": 174479,
       "name": "Where Is My Home",
       "url": "https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij"
+    },
+    {
+      "album": {
+        "name": "Where Is She Now?",
+        "url": "https://open.spotify.com/album/5UJjRl7i07a3XG1sAgcy72"
+      },
+      "artists": [
+        {
+          "name": "Jaded Memory",
+          "url": "https://open.spotify.com/artist/0alnEO2EJlIGozaDXc2VxQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231223,
+      "name": "Where Is She Now?",
+      "url": "https://open.spotify.com/track/6jBBodGWMRO6tVI5I9obrq"
     },
     {
       "album": {

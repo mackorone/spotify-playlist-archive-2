@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Aaron Rowe",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Savanna Leigh",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 209206,
       "name": "Adam",
       "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 205483,
       "name": "batman",
       "url": "https://open.spotify.com/track/5LvQwR4I2HHqIhuxCuitDY"
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 234750,
       "name": "Boardwalk",
       "url": "https://open.spotify.com/track/5c9ODNAoJI6tkqCnOByDoK"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 204374,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
@@ -5150,7 +5150,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 119006,
       "name": "Easy As Pie",
       "url": "https://open.spotify.com/track/1YUU5Mm00U78pAvQH5FN9Z"
@@ -7113,6 +7113,24 @@
     },
     {
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F"
+      },
+      "artists": [
+        {
+          "name": "Sammi Heaney",
+          "url": "https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226122,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr"
+    },
+    {
+      "album": {
         "name": "guitar center",
         "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
       },
@@ -9022,6 +9040,24 @@
       "duration_ms": 210005,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz"
+    },
+    {
+      "album": {
+        "name": "i remember everything",
+        "url": "https://open.spotify.com/album/1Z5DbLdPaRXKrgiWcIX09q"
+      },
+      "artists": [
+        {
+          "name": "Rin",
+          "url": "https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155136,
+      "name": "i remember everything",
+      "url": "https://open.spotify.com/track/0UPkt0Wqk1Po0FnEi0tAb5"
     },
     {
       "album": {
@@ -11586,7 +11622,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 198386,
       "name": "Love Will Kill Me",
       "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
@@ -11928,7 +11964,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194773,
       "name": "Matthew McConaughey",
       "url": "https://open.spotify.com/track/3nFW9odnQHPBGbYS9a825p"
@@ -12620,7 +12656,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 191454,
       "name": "My Kind of Freak",
       "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
@@ -12728,7 +12764,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 189392,
       "name": "Never Know Love",
       "url": "https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8"
@@ -13250,7 +13286,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192600,
       "name": "Oh, Ana",
       "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
@@ -13988,7 +14024,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174655,
       "name": "Poconos",
       "url": "https://open.spotify.com/track/3Sqb167kZ1XoEApxbbrDby"
@@ -17774,7 +17810,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 177993,
       "name": "the man with money in his hands",
       "url": "https://open.spotify.com/track/05zheau3JeycC8FNZpGRSd"
@@ -17922,7 +17958,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 175796,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/2DjhpO10QxqIzoLM71xYrf"
@@ -19327,6 +19363,24 @@
     },
     {
       "album": {
+        "name": "weird feeling",
+        "url": "https://open.spotify.com/album/29vu2j5NvtQOErNhMGi2Kk"
+      },
+      "artists": [
+        {
+          "name": "Savanna Leigh",
+          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229046,
+      "name": "weird feeling",
+      "url": "https://open.spotify.com/track/5q0vOrLH8fbfTYn28vwzAh"
+    },
+    {
+      "album": {
         "name": "Wella",
         "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
       },
@@ -19378,6 +19432,24 @@
       "duration_ms": 200000,
       "name": "What a Woman Tastes Like",
       "url": "https://open.spotify.com/track/5MNsmiILMG66m3h5SXZHCS"
+    },
+    {
+      "album": {
+        "name": "WHAT AM I DOING?",
+        "url": "https://open.spotify.com/album/0nBmW52mTtee3G8zPSTZgO"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163966,
+      "name": "WHAT AM I DOING?",
+      "url": "https://open.spotify.com/track/5MbIQfHUzea4zbsnsDueEL"
     },
     {
       "album": {
@@ -19796,6 +19868,24 @@
       "duration_ms": 181888,
       "name": "Wicked Nature",
       "url": "https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk"
+    },
+    {
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
     },
     {
       "album": {
@@ -20476,7 +20566,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 249306,
       "name": "Your Side Of The Moon",
       "url": "https://open.spotify.com/track/5jRi5oRKtafH4U1EerxQOp"

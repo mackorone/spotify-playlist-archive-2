@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Miss Kaninna",
+  "description": "The best new AUS & NZ Rap. Cover: Chandler Jewels",
   "name": "Local Hype",
   "tracks": [
     {
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 158400,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/7dJsy8JHa5wRS1vXQW0FoY"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 214933,
       "name": "be an adult (have a breakdown)",
       "url": "https://open.spotify.com/track/7tctL0fL0PBrr1IYRertWv"
@@ -4107,6 +4107,28 @@
     },
     {
       "album": {
+        "name": "The Marine Blue Social Club",
+        "url": "https://open.spotify.com/album/4EYKcEYXVR3TRJeYS0fn8u"
+      },
+      "artists": [
+        {
+          "name": "MOKOMOKAI",
+          "url": "https://open.spotify.com/artist/6IyLCow3HLUYJJJ12P9WQd"
+        },
+        {
+          "name": "Troy Kingi",
+          "url": "https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275590,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/2rOyYldVLfwKghlS3SgNEW"
+    },
+    {
+      "album": {
         "name": "Break Bread",
         "url": "https://open.spotify.com/album/2u6LKT2RtZvLCQe0ONJLqy"
       },
@@ -4308,7 +4330,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 189473,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
@@ -5566,7 +5588,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 232871,
       "name": "closer",
       "url": "https://open.spotify.com/track/7dUnpBgAO2oHqnplCHwgor"
@@ -5592,6 +5614,24 @@
       "duration_ms": 231240,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/4uztmuf8KLgD8nWNK63WJV"
+    },
+    {
+      "album": {
+        "name": "coals",
+        "url": "https://open.spotify.com/album/6rK8avqAkRVnA4vXGpOLav"
+      },
+      "artists": [
+        {
+          "name": "Miles Nautu",
+          "url": "https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "coals",
+      "url": "https://open.spotify.com/track/19HFuyV4ULjJglDjKPtSqy"
     },
     {
       "album": {
@@ -11235,6 +11275,24 @@
     },
     {
       "album": {
+        "name": "A NEW LIFE",
+        "url": "https://open.spotify.com/album/3ZBJVg5erq1SdZMQreHqPr"
+      },
+      "artists": [
+        {
+          "name": "Chandler Jewels",
+          "url": "https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "GO DUMB",
+      "url": "https://open.spotify.com/track/43vAoVmQxWX1u5X7kYBzmy"
+    },
+    {
+      "album": {
         "name": "GO DUMB",
         "url": "https://open.spotify.com/album/79tyRWEbkDzOi4sotZUf0A"
       },
@@ -13638,7 +13696,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 142597,
       "name": "I CONDEMN",
       "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
@@ -15108,6 +15166,28 @@
       "duration_ms": 224842,
       "name": "KINGDOM (feat. Nafe Smallz)",
       "url": "https://open.spotify.com/track/0cG9MhOrTjloceJNQ2mzOv"
+    },
+    {
+      "album": {
+        "name": "KINGS",
+        "url": "https://open.spotify.com/album/7F1X7oOFCbFH632hzBMMDr"
+      },
+      "artists": [
+        {
+          "name": "Kiz",
+          "url": "https://open.spotify.com/artist/2d0xNvXlAx1EaLYlamKrAo"
+        },
+        {
+          "name": "Ivan Ooze",
+          "url": "https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156148,
+      "name": "KINGS",
+      "url": "https://open.spotify.com/track/2ndsnYzWDhP1wDm6WrGWQJ"
     },
     {
       "album": {
@@ -18925,6 +19005,24 @@
     },
     {
       "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/6Zcy3dIE2qyVwqBVpSvy3U"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/3KzqPheSwyNSvYtjtOtmP4"
+    },
+    {
+      "album": {
         "name": "MY LADY",
         "url": "https://open.spotify.com/album/6RtYJ3q5f7geON8ISvGIU7"
       },
@@ -20354,6 +20452,24 @@
       "duration_ms": 188005,
       "name": "O.T",
       "url": "https://open.spotify.com/track/6W3wz3J5LLRmum0v35uSec"
+    },
+    {
+      "album": {
+        "name": "Obsession (Work)",
+        "url": "https://open.spotify.com/album/5RpUsok0TiicLeWerfWZrR"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Obsession (Work)",
+      "url": "https://open.spotify.com/track/2Ps1KEbjs4ug90EiUsriAM"
     },
     {
       "album": {
@@ -22564,7 +22680,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173893,
       "name": "Pressed",
       "url": "https://open.spotify.com/track/4J1511BNhGrfsDYut0TDSs"
@@ -26440,7 +26556,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 156600,
       "name": "Soulmate.",
       "url": "https://open.spotify.com/track/6KvajFnkpE3GrcTcjP3rN3"
@@ -26844,6 +26960,28 @@
       "duration_ms": 159300,
       "name": "Split Screen Remix",
       "url": "https://open.spotify.com/track/4gasyarc8b9eS4apgQ7NW2"
+    },
+    {
+      "album": {
+        "name": "St. Tropez (feat. Loe Shimmy)",
+        "url": "https://open.spotify.com/album/0zeb1GdT5RE0fj6cqjPXKP"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "St. Tropez (feat. Loe Shimmy)",
+      "url": "https://open.spotify.com/track/2INDQDAUbSVYopu4vaKxke"
     },
     {
       "album": {
@@ -31896,7 +32034,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160754,
       "name": "When I Was Little",
       "url": "https://open.spotify.com/track/6RpX05WuPO7sQxUPHZ5JcS"
@@ -32092,6 +32230,24 @@
       "duration_ms": 189986,
       "name": "whistle while I walk",
       "url": "https://open.spotify.com/track/1b4ZJ97qyW0PAAydBfBcIz"
+    },
+    {
+      "album": {
+        "name": "white girl",
+        "url": "https://open.spotify.com/album/22PdbCdNWLwiBGbjmWjg8K"
+      },
+      "artists": [
+        {
+          "name": "Cult Sh\u03c6tta",
+          "url": "https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "white girl",
+      "url": "https://open.spotify.com/track/4Ec2HAjovi3MSAHhMP5vQy"
     },
     {
       "album": {

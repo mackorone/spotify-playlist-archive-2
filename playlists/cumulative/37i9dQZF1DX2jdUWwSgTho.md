@@ -4,7 +4,7 @@
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-154 songs - 8 hr 17 min
+155 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Pardonne\-moi](https://open.spotify.com/track/7jDmxUkdq4n3CHL6aLNJla) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 3:07 | 2023-12-08 | 2024-10-02 |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-07-27 | 2023-12-09 |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2024-01-02 |  |
-| [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-19 |  |
+| [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-19 | 2026-08-28 |
+| [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 | 2026-08-27 |  |
 | [Plus forts ensemble \(extrait de "Miraculous, le film : la bande originale"\) \- Radio Edit](https://open.spotify.com/track/4N1Rgnb7Xyzt0PlIKUKsyQ) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [Plus forts ensemble \(extrait de "Miraculous, le film : la bande originale"\) \[Radio Edit\]](https://open.spotify.com/album/22T57wU3V470K1fGIjUxx9) | 4:29 | 2023-07-27 | 2023-12-09 |
 | [Pom Pom Pom](https://open.spotify.com/track/6SPyKWcqwlXpUXGZUI8Atl) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Sergio Alejandro](https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX), [Jango Jack](https://open.spotify.com/artist/1R1ZaDpOyunIdJ6oAssW8H) | [Pom Pom Pom](https://open.spotify.com/album/0xHa6kFqBfU2gVEDspJO4w) | 2:38 | 2025-12-19 | 2026-06-20 |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2024-03-18 | 2024-06-04 |

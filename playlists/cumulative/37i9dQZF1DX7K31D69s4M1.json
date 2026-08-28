@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "A Faint Memory",
+        "url": "https://open.spotify.com/album/3JssN89zs5K8kDEifZNbHA"
+      },
+      "artists": [
+        {
+          "name": "Serendipity",
+          "url": "https://open.spotify.com/artist/2xaN7xa5yzMAuoatXrqV1u"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140377,
+      "name": "A Faint Memory",
+      "url": "https://open.spotify.com/track/0QmgM5ln2qWu1CAOrtqpFv"
+    },
+    {
+      "album": {
         "name": "A French Film",
         "url": "https://open.spotify.com/album/2JmiWAL0pcAGTBatnbPcp4"
       },
@@ -21627,6 +21645,24 @@
     },
     {
       "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/1waX7Zs3meuBkm7PmkBrz4"
+      },
+      "artists": [
+        {
+          "name": "Dustin Koller",
+          "url": "https://open.spotify.com/artist/62yrCbWafSx5Wsh2nwEjSa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137218,
+      "name": "Perennial",
+      "url": "https://open.spotify.com/track/0yLIr7qd4KKxAm1x0w998w"
+    },
+    {
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/0r7CY1aenIWvpO4tB7wPfH"
       },
@@ -22956,6 +22992,24 @@
       "duration_ms": 140290,
       "name": "Recollections",
       "url": "https://open.spotify.com/track/4CrgXSWQJVJBamNhg7HAEh"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/24r8O1QtZXkV1Kp11YvAfS"
+      },
+      "artists": [
+        {
+          "name": "Ivan Malik",
+          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153374,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/1kHgAppEheR33IS7xkGQMB"
     },
     {
       "album": {

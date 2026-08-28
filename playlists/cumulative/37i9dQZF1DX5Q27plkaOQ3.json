@@ -458,7 +458,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 281142,
       "name": "ACTIN UP",
       "url": "https://open.spotify.com/track/4nT0uEb6TyESkc8FkCnOBg"
@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 132413,
       "name": "BLACK FLASH",
       "url": "https://open.spotify.com/track/42PsJv3rptP0CewrgcUq8Z"
@@ -5838,7 +5838,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 212906,
       "name": "CHOKEPOINT",
       "url": "https://open.spotify.com/track/6zEIzGEpk9s80eiif1NMMF"
@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 225103,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3HaRFJZ3QSjn3ffXN1f0Cl"
@@ -9670,6 +9670,24 @@
       "duration_ms": 195200,
       "name": "Emperors",
       "url": "https://open.spotify.com/track/4SgXFVxpHpWUTYkF0IHDFd"
+    },
+    {
+      "album": {
+        "name": "Emulator",
+        "url": "https://open.spotify.com/album/0FCWCHdCVxWhxEtDgMUqIg"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242580,
+      "name": "Emulator",
+      "url": "https://open.spotify.com/track/5eJvrxga5144z3fkPveQkr"
     },
     {
       "album": {
@@ -12686,7 +12704,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197160,
       "name": "Gotta Be Tuff",
       "url": "https://open.spotify.com/track/5dRdCzTA5fIesu6eNyYkwM"
@@ -13718,6 +13736,28 @@
       "duration_ms": 158095,
       "name": "his name is",
       "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
+    },
+    {
+      "album": {
+        "name": "HIT MARKER",
+        "url": "https://open.spotify.com/album/6jGJwn2zi2pZrtHKTzRafH"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "LAYZ",
+          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153931,
+      "name": "HIT MARKER",
+      "url": "https://open.spotify.com/track/7ikqXedbEEGIbnhYl1E8HH"
     },
     {
       "album": {
@@ -15855,6 +15895,28 @@
     },
     {
       "album": {
+        "name": "JUST A DREAM",
+        "url": "https://open.spotify.com/album/6k4MaMSq7L2W8ZIk024M6a"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Kayp",
+          "url": "https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "JUST A DREAM",
+      "url": "https://open.spotify.com/track/3PJeEOtdQPJLni274n1cYj"
+    },
+    {
+      "album": {
         "name": "Untouchable (Remixes)",
         "url": "https://open.spotify.com/album/4x9qcejBbzCnz0NloIkOAi"
       },
@@ -16060,6 +16122,24 @@
       "duration_ms": 168926,
       "name": "KICKBACK",
       "url": "https://open.spotify.com/track/0xXZrytS3tv0KSLsJkcMgj"
+    },
+    {
+      "album": {
+        "name": "Kickback",
+        "url": "https://open.spotify.com/album/3QEKGsg5IhM3dTrkYRKRJw"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167993,
+      "name": "Kickback",
+      "url": "https://open.spotify.com/track/2JYwABnQjGYSYOvcNo0kNx"
     },
     {
       "album": {
@@ -16648,7 +16728,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193655,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/6K243Q9nHNvuyhOw4tmvPy"
@@ -17432,7 +17512,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192800,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/12MBHTjIa78Oel3ifITxfM"
@@ -18725,6 +18805,28 @@
     },
     {
       "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/6jrCaxuLofDAhLobzVkFsS"
+      },
+      "artists": [
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        },
+        {
+          "name": "Chozen",
+          "url": "https://open.spotify.com/artist/0T8PFaa4SnSE2VyKYN5E4N"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/0MMiSyWQmucI2fVAof9Tgg"
+    },
+    {
+      "album": {
         "name": "Business In The Front (Pt. 1)",
         "url": "https://open.spotify.com/album/4uLDjlEstIZmGHNVL2J9O9"
       },
@@ -18904,6 +19006,28 @@
       "duration_ms": 195200,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6GpLFDZhw5svOfUVOfW97H"
+    },
+    {
+      "album": {
+        "name": "My Own Thing",
+        "url": "https://open.spotify.com/album/7jbG0GQpMYF4WMJXmwhEWz"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144104,
+      "name": "My Own Thing",
+      "url": "https://open.spotify.com/track/4YHl9ZnsG1QBQ4LRiopP16"
     },
     {
       "album": {
@@ -21485,6 +21609,28 @@
     },
     {
       "album": {
+        "name": "Play With Fire",
+        "url": "https://open.spotify.com/album/4zM9FQhfEmgILqLxxvEaPp"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/2DKj0J1FaMYe4LRIyk5Sya"
+    },
+    {
+      "album": {
         "name": "Play With Fire (MUST DIE! Remix)",
         "url": "https://open.spotify.com/album/6WSabbkOTlWYcvdCHbaMfx"
       },
@@ -23432,6 +23578,32 @@
       "duration_ms": 220000,
       "name": "Revival",
       "url": "https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/3bWQuWVizOR2XxzSDJRWeX"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/7jhGzwO9ZsNUa3OlIHxlgl"
     },
     {
       "album": {
@@ -31328,7 +31500,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 209142,
       "name": "Walk With Giants",
       "url": "https://open.spotify.com/track/5yGthIUxDOGIENDHO7dGAT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > yk what else is massive
 
-[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,188 songs - 2 day 19 hr 5 min
+[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,211 songs - 2 day 20 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1192,9 +1192,32 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1182 | [St\. Patrick's](https://open.spotify.com/track/2qzzG3HPPphZekVBxlEFLy) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:40 |
 | 1183 | [Love Is A Battlefield](https://open.spotify.com/track/4p1PizAGdglm2sVvPuFPWs) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [The Collection](https://open.spotify.com/album/2FmhbFIebAChLAJh9Bfg8b) | 4:05 |
 | 1184 | [Notice Me, Horton \- From "Seussical The Musical"](https://open.spotify.com/track/5HML9ylanbhqWYe0kk3jiM) | [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Stephen Flaherty](https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy), [Janine LaManna](https://open.spotify.com/artist/6JR2RlXf1P7oALaIiHwJEm), [Kevin Chamberlin](https://open.spotify.com/artist/0hjafZk3hkNc7iamqlXfJY) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 3:07 |
-| 1185 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 |
-| 1186 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
-| 1187 | [For Now](https://open.spotify.com/track/7zCbNTKUV9R8FJ9kxz2RwH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:53 |
-| 1188 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
+| 1185 | [Dezenove Verões](https://open.spotify.com/track/0TMS96EiyeJDQB52lahhaZ) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:51 |
+| 1186 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 |
+| 1187 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
+| 1188 | [For Now](https://open.spotify.com/track/7zCbNTKUV9R8FJ9kxz2RwH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:53 |
+| 1189 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
+| 1190 | [Reza Braba](https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:24 |
+| 1191 | [Rio Lua](https://open.spotify.com/track/198fZFjpBDEML0LpLP73Jr) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 2:29 |
+| 1192 | [Garoa](https://open.spotify.com/track/0WKzLOMasvsWU5DsqN9tv9) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 2:44 |
+| 1193 | [Mania](https://open.spotify.com/track/31dLDYGHpzZfh2r52CdDte) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:30 |
+| 1194 | [Rua de Pedra](https://open.spotify.com/track/5rf6UR5ac8QielUN0k3H53) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 2:01 |
+| 1195 | [Coco Caramelo](https://open.spotify.com/track/0I8Ip5XsojRrFK3g2cbh3A) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 2:49 |
+| 1196 | [Se Eu Nunca Mais Lhe Ver](https://open.spotify.com/track/61JndDLU4c7TXSkz79T8kN) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:49 |
+| 1197 | [Gente Fina](https://open.spotify.com/track/1YtG8IFVZbhoZhH5D3XvzW) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 2:55 |
+| 1198 | [Eu Vou Pro Samba, Viu?](https://open.spotify.com/track/0ZirVpVEx943xdUD9bivHe) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:14 |
+| 1199 | [Loba Solitária](https://open.spotify.com/track/2ICrrCYWeRfmNz2MCN1rmO) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:37 |
+| 1200 | [Dona do Mar](https://open.spotify.com/track/3EX1gZ9B6tnIlhoY42KZbc) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:07 |
+| 1201 | [Lucid Girl](https://open.spotify.com/track/5TdnxXaZIqJjASZaJQrW2e) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Got a Story to Tell](https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB) | 3:24 |
+| 1202 | [Price I'll Pay](https://open.spotify.com/track/3qbDVLxZSDfkWodxfuoX4X) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Got a Story to Tell](https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB) | 2:59 |
+| 1203 | [Somebody Knew](https://open.spotify.com/track/5RcOzqkotKCf4WOfsMCTHE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Got a Story to Tell](https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB) | 3:05 |
+| 1204 | [Waiting on the Right Time](https://open.spotify.com/track/0WRdWdAsq97tmWHvSoCQYl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Got a Story to Tell](https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB) | 3:39 |
+| 1205 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
+| 1206 | [Sunsetz](https://open.spotify.com/track/1yOP9UtSPGMbXSdpfXprP5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/4OHcXYbEbip8iTE6WPU0XK) | 3:34 |
+| 1207 | [Opera House](https://open.spotify.com/track/3qvCIYvILaiHUA0Ehv8Ttb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/4OHcXYbEbip8iTE6WPU0XK) | 6:04 |
+| 1208 | [Truly](https://open.spotify.com/track/1yXuC81bycGdCrBxPS1fnO) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/4OHcXYbEbip8iTE6WPU0XK) | 4:03 |
+| 1209 | [Young & Dumb](https://open.spotify.com/track/5A8o4QlSYTe4OxSrNiImSc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/4OHcXYbEbip8iTE6WPU0XK) | 4:32 |
+| 1210 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/2TeX8rhHEbWA5u3FZZAxBX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6arepQNAs2wdg2GoRB861m) | 4:46 |
+| 1211 | [Don't Let Me Go](https://open.spotify.com/track/4b3khTm3ufGRTyZwuYdasn) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:22 |
 
-Snapshot ID: `AAAMIiYiUX7Oq4vpxIhzKc+aj66IBGNx`
+Snapshot ID: `AAAMOpfaSYgFaG2B4TzjkkMHvvY+cx8M`

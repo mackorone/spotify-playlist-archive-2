@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Damaris Bojor y Wuicho Kun",
-  "num_followers": 93465,
+  "num_followers": 93463,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "HIJO DE P",
-        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
-      },
-      "artists": [
-        {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
-        }
-      ],
-      "duration_ms": 181132,
-      "name": "HIJO DE P",
-      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
-    },
-    {
-      "added_at": "2026-08-21 06:00:33",
-      "album": {
         "name": "Victoria Miller",
         "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 181080,
       "name": "Victoria Miller",
       "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
+    },
+    {
+      "added_at": "2026-08-21 06:00:33",
+      "album": {
+        "name": "HIJO DE P",
+        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "HIJO DE P",
+      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -291,22 +291,22 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "Dirty Money",
-        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
+        "name": "ME VEIA BIEN",
+        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
       },
       "artists": [
         {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
         },
         {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
         }
       ],
-      "duration_ms": 154785,
-      "name": "Dirty Money",
-      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
+      "duration_ms": 148051,
+      "name": "ME VEIA BIEN",
+      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -351,22 +351,22 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "ME VEIA BIEN",
-        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
+        "name": "Dirty Money",
+        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
       },
       "artists": [
         {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
         },
         {
-          "name": "Novato El Flow",
-          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
         }
       ],
-      "duration_ms": 148051,
-      "name": "ME VEIA BIEN",
-      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
+      "duration_ms": 154785,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -611,30 +611,6 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "Miop\u00eda",
-        "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Mai Grc",
-          "url": "https://open.spotify.com/artist/761tunlrRfUDgAl3c0YSFb"
-        },
-        {
-          "name": "SORKI",
-          "url": "https://open.spotify.com/artist/7o6GKsh3DbgdZVv3wi989P"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Miop\u00eda",
-      "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
-    },
-    {
-      "added_at": "2026-08-21 06:00:33",
-      "album": {
         "name": "250cc",
         "url": "https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB"
       },
@@ -659,22 +635,26 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
+        "name": "Miop\u00eda",
+        "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
       },
       "artists": [
         {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
         },
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Mai Grc",
+          "url": "https://open.spotify.com/artist/761tunlrRfUDgAl3c0YSFb"
+        },
+        {
+          "name": "SORKI",
+          "url": "https://open.spotify.com/artist/7o6GKsh3DbgdZVv3wi989P"
         }
       ],
-      "duration_ms": 203276,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
+      "duration_ms": 212250,
+      "name": "Miop\u00eda",
+      "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -699,18 +679,42 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "Cumbia y Calle",
-        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
       },
       "artists": [
         {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 149617,
-      "name": "No Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
+      "duration_ms": 203276,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
+    },
+    {
+      "added_at": "2026-08-21 06:00:33",
+      "album": {
+        "name": "hoy les digo que",
+        "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
+      },
+      "artists": [
+        {
+          "name": "1702",
+          "url": "https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 236341,
+      "name": "los quiero de verdad",
+      "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -759,22 +763,18 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "hoy les digo que",
-        "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
+        "name": "Cumbia y Calle",
+        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
       },
       "artists": [
         {
-          "name": "1702",
-          "url": "https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
         }
       ],
-      "duration_ms": 236341,
-      "name": "los quiero de verdad",
-      "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
+      "duration_ms": 149617,
+      "name": "No Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-08-21 06:00:33",
-      "album": {
         "name": "Ping\u00fcinos",
         "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 196629,
       "name": "Ping\u00fcinos",
       "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
+    },
+    {
+      "added_at": "2026-08-21 06:00:33",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "duration_ms": 152928,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
+    },
+    {
+      "added_at": "2026-08-21 06:00:33",
+      "album": {
         "name": "Te Llevo A D\u00f3nde Quieras",
         "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 144098,
       "name": "Te Llevo A D\u00f3nde Quieras",
       "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
-    },
-    {
-      "added_at": "2026-08-21 06:00:33",
-      "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
-      },
-      "artists": [
-        {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
-        }
-      ],
-      "duration_ms": 152928,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "puede ser que ma\u00f1ana",
-        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "puede ser que ma\u00f1ana",
-      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
-    },
-    {
-      "added_at": "2026-08-21 06:00:33",
-      "album": {
         "name": "Manuel (Ojal\u00e1 que nunca escuches este disco)",
         "url": "https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 125449,
       "name": "El alma de la fiesta",
       "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
+    },
+    {
+      "added_at": "2026-08-21 06:00:33",
+      "album": {
+        "name": "puede ser que ma\u00f1ana",
+        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "puede ser que ma\u00f1ana",
+      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
     },
     {
       "added_at": "2026-08-21 06:00:33",

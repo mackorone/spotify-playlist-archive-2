@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-887 songs - 1 day 14 hr 30 min
+888 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [With You](https://open.spotify.com/track/23GQbTtMN4A7cyA0xMOh9o) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [With You](https://open.spotify.com/album/3A5MxOjRq7IBka8wjQUdp6) | 3:09 | 2022-06-10 | 2022-07-29 |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2023-06-02 |
 | [Wonderland](https://open.spotify.com/track/5P3BsY0X3coRVobCcaDLRh) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Venezia](https://open.spotify.com/album/3AwXe36NVPSvuhPPIZq7PH) | 3:05 | 2021-12-08 | 2022-06-10 |
+| [Writing A Letter](https://open.spotify.com/track/3vjGBj1R6uktBsFolNUpMO) | [Antonio Boulevard](https://open.spotify.com/artist/41RSV4AuIGcLiAUFwrXMm3) | [Writing A Letter](https://open.spotify.com/album/4t0p9BjpkxVE0dCFk9y2Av) | 2:14 | 2026-08-28 |  |
 | [Years](https://open.spotify.com/track/6EpvQk0cm34OCHYSTs4UU9) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Years](https://open.spotify.com/album/0dHwSbG86FO8aiGFrBrmFr) | 2:42 | 2024-12-10 |  |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-24 | 2023-06-23 |
 | [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 | 2024-05-24 |

@@ -4,7 +4,7 @@
 
 > Unwind and enjoy the long summer evenings
 
-477 songs - 20 hr 48 min
+478 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Just as sweet](https://open.spotify.com/track/0dq7eyvLUORWRTbiMz6eg8) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Just as sweet](https://open.spotify.com/album/0Sq2GMSzWwMtNbs5pYSss7) | 1:36 | 2023-06-27 | 2025-04-17 |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-05-20 | 2025-04-17 |
 | [Keepsake](https://open.spotify.com/track/3kInd0TVmBr2TaumXmTZbN) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Open Window](https://open.spotify.com/album/3ZMOUgL032R3ee7TiaD5gV) | 2:20 | 2022-05-20 | 2026-05-23 |
+| [Keys of Peace](https://open.spotify.com/track/5aC23fe0yVRDI2YLKNNdYU) | [Sander Von](https://open.spotify.com/artist/0RVOnkqRPANxZjA0PWhY6t) | [Keys of Peace](https://open.spotify.com/album/2DRrqId2qK96ILcALM8GFw) | 2:07 | 2026-08-28 |  |
 | [Kindred spirit](https://open.spotify.com/track/5cEqbUbGnhIHvilwTVJMkh) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Kindred spirit](https://open.spotify.com/album/63bChEcIGDsqy1XAmagYNt) | 2:46 | 2025-08-12 |  |
 | [L'amour du pont neuf](https://open.spotify.com/track/2MqbBr74Hb7Z2AVPPzXBT3) | [Nicole Pelletier](https://open.spotify.com/artist/42s2bRUZDcAxHkGW5GXjpG) | [L'amour du pont neuf](https://open.spotify.com/album/5nHABuTO5dtobvtAoZ3bit) | 3:03 | 2022-05-20 | 2024-04-10 |
 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 | 2022-05-20 | 2024-04-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Faruz Feet en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Sandro Malandro en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180000,
       "name": "Armando",
       "url": "https://open.spotify.com/track/2L7YbJVC0TV0S3AoCSVTzj"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 165000,
       "name": "BICHY",
       "url": "https://open.spotify.com/track/2mfoBp17aA9btfrZ6d17Jq"
@@ -2952,6 +2952,32 @@
       "duration_ms": 219585,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT"
+    },
+    {
+      "album": {
+        "name": "Vamosay",
+        "url": "https://open.spotify.com/album/2sfMZIkkg45z64C83UO78R"
+      },
+      "artists": [
+        {
+          "name": "Hione",
+          "url": "https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg"
+        },
+        {
+          "name": "Dj Kay Fear",
+          "url": "https://open.spotify.com/artist/54nmJ9XTJMCad8cxQwsrE6"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187593,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/3Nw0MelHJWMxf6KTQ5q5Xc"
     },
     {
       "album": {
@@ -4398,6 +4424,28 @@
       "duration_ms": 275121,
       "name": "Colocados",
       "url": "https://open.spotify.com/track/2PNXAJsaHQQROOGAWv5Y8m"
+    },
+    {
+      "album": {
+        "name": "COMME DES GARCONS",
+        "url": "https://open.spotify.com/album/0GuAzKo0dgpKHz9nZ5bYqH"
+      },
+      "artists": [
+        {
+          "name": "Vic Gunn",
+          "url": "https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190099,
+      "name": "COMME DES GARCONS",
+      "url": "https://open.spotify.com/track/35LI0G3bv8iKLdT8AKa1ky"
     },
     {
       "album": {
@@ -8652,7 +8700,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 260949,
       "name": "Gan\u00e9",
       "url": "https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4"
@@ -9092,7 +9140,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 134550,
       "name": "Habito",
       "url": "https://open.spotify.com/track/0MIofyxRQOPbWndFnYe5c3"
@@ -13847,6 +13895,32 @@
     },
     {
       "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3PcBU9xmZRyLRzH2vJODdd"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/54LbXBtNtr5wvXgNLkeUj3"
+    },
+    {
+      "album": {
         "name": "Naughty",
         "url": "https://open.spotify.com/album/6If6VpFM0vlUR7ceyoh9jQ"
       },
@@ -14620,7 +14694,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192989,
       "name": "OHTANI",
       "url": "https://open.spotify.com/track/2e7HPYIymKD7GWkQb0JHuK"
@@ -14928,6 +15002,28 @@
       "duration_ms": 231068,
       "name": "Pa' Que Mami No Llore",
       "url": "https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U"
+    },
+    {
+      "album": {
+        "name": "Pa' Que Mueva los Pies",
+        "url": "https://open.spotify.com/album/7vVITPiAtSAb0IxSaRliBF"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Fntwxy",
+          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182823,
+      "name": "Pa' Que Mueva los Pies",
+      "url": "https://open.spotify.com/track/7Fkx9p3pfgDlekaeUarir4"
     },
     {
       "album": {
@@ -16068,6 +16164,24 @@
       "duration_ms": 205714,
       "name": "Porque Yo S\u00e9",
       "url": "https://open.spotify.com/track/1Gn203o9G6Q7XBpVrLncrL"
+    },
+    {
+      "album": {
+        "name": "Porte Marino",
+        "url": "https://open.spotify.com/album/4pRwVPSqo2tLmQUJdxqxtC"
+      },
+      "artists": [
+        {
+          "name": "MR Tyson",
+          "url": "https://open.spotify.com/artist/2wu9w7R9TJuxVQqm5l361K"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244281,
+      "name": "Porte Marino",
+      "url": "https://open.spotify.com/track/1qkyktX5oqrZ3IvTKdieEh"
     },
     {
       "album": {
@@ -18417,6 +18531,32 @@
     },
     {
       "album": {
+        "name": "Sin Ley",
+        "url": "https://open.spotify.com/album/0863UtITgRYy5gqqcoZxrA"
+      },
+      "artists": [
+        {
+          "name": "Made X La Calle",
+          "url": "https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "Sin Ley",
+      "url": "https://open.spotify.com/track/3Xv3uQG9TWKWKznnhqHyds"
+    },
+    {
+      "album": {
         "name": "Sin Molde (Autentico.wav)",
         "url": "https://open.spotify.com/album/027cpioE9K6ymhcgjDdYYQ"
       },
@@ -19956,7 +20096,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 251206,
       "name": "Tridente",
       "url": "https://open.spotify.com/track/2drh9irG9lf2qy552sbVxA"

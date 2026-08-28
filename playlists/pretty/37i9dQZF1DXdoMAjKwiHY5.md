@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop\-rock favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,988 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,004 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mad Dog in the Fog](https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/5k6bVjojHQOCux6plgLwia) | 3:47 |
+| 1 | [Blue Brush\-Footed Butterfly](https://open.spotify.com/track/2QVpQ3lEaAuOOnhZRffYh3) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/0O2BBZ5P4ljzLyyYfSVedH) | 3:15 |
 | 2 | [Ice Cold Lakes](https://open.spotify.com/track/4j2eOzBQBX65CuR5thn8da) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 3:01 |
 | 3 | [The Weekend](https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [The Weekend](https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e) | 3:28 |
 | 4 | [Ocean](https://open.spotify.com/track/07l1kKih1RMbzyXtrfV7dl) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Summer Anthem](https://open.spotify.com/album/3DCY0TDCPChhTocNkkFoah) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 79 | [Sleepwalker](https://open.spotify.com/track/5szl1EdOw3CuvItkpGuDHk) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Breach](https://open.spotify.com/album/0NkjpLDsYnqAdfEre7EHNL) | 3:31 |
 | 80 | [Be Like That](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:25 |
 
-Snapshot ID: `AAAAANduuaaIlkdBXDOdoLIuEOmKFfZE`
+Snapshot ID: `AAAAALmEhKNdjEppHyIU8ohO74/5e1J1`

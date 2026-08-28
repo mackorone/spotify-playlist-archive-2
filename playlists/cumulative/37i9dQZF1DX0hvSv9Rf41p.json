@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 with Blanke",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 with Seven Lions + Kill The Noise",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 224680,
       "name": "Bass Bumpin",
       "url": "https://open.spotify.com/track/4XUNSbxzT3vgIeAYBhPQsl"
@@ -5244,7 +5244,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 164610,
       "name": "BrAiNdEaD",
       "url": "https://open.spotify.com/track/6z6ffepNBAyt3p68b9aPfv"
@@ -8298,7 +8298,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171428,
       "name": "D4B",
       "url": "https://open.spotify.com/track/6DSHXVpYslRrFXAOqYaGtM"
@@ -10274,7 +10274,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 128142,
       "name": "DONTTRUSTME - Sullivan King & Benda Remix",
       "url": "https://open.spotify.com/track/7pddglpSVLghORfwW4zk8I"
@@ -11457,6 +11457,24 @@
     },
     {
       "album": {
+        "name": "Emulator",
+        "url": "https://open.spotify.com/album/0FCWCHdCVxWhxEtDgMUqIg"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242580,
+      "name": "Emulator",
+      "url": "https://open.spotify.com/track/5eJvrxga5144z3fkPveQkr"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/7DHtNFKiPvXOIAt7wkTzdb"
       },
@@ -12292,7 +12310,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153608,
       "name": "FADE AWAY",
       "url": "https://open.spotify.com/track/6INR2J3rF5DiuTod3wCZjG"
@@ -12990,7 +13008,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 240000,
       "name": "Feel Something - AlienPark Remix",
       "url": "https://open.spotify.com/track/49uJYG5ehXLK4peT4Uy4wI"
@@ -14905,6 +14923,24 @@
     },
     {
       "album": {
+        "name": "Gatita Rica",
+        "url": "https://open.spotify.com/album/2dgoqWMaAcK8wa7Vb4y6bi"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "Gatita Rica",
+      "url": "https://open.spotify.com/track/4GOzYVBFonZD1JsBcKjc4S"
+    },
+    {
+      "album": {
         "name": "EDGE OF THE WORLD",
         "url": "https://open.spotify.com/album/40LNAakQwoFFgvhHfMwMHV"
       },
@@ -15492,7 +15528,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 178285,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq"
@@ -16690,6 +16726,32 @@
       "duration_ms": 170339,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI"
+    },
+    {
+      "album": {
+        "name": "Hear Me Now",
+        "url": "https://open.spotify.com/album/6YDLIVYbDwJ4GNaM6sJHgJ"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199781,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/0ktwSpjmTtx3RkQkeRFk0C"
     },
     {
       "album": {
@@ -18190,7 +18252,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 195428,
       "name": "Hurricane - Riot Ten Remix",
       "url": "https://open.spotify.com/track/560EpE0jS13RzydxTRX8pR"
@@ -18622,6 +18684,28 @@
       "duration_ms": 182896,
       "name": "I Like It When You Move",
       "url": "https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2"
+    },
+    {
+      "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/1vljf6DgdCNGRX3GZz5Rul"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189937,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc"
     },
     {
       "album": {
@@ -20065,6 +20149,28 @@
     },
     {
       "album": {
+        "name": "JUST A DREAM",
+        "url": "https://open.spotify.com/album/6k4MaMSq7L2W8ZIk024M6a"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Kayp",
+          "url": "https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "JUST A DREAM",
+      "url": "https://open.spotify.com/track/3PJeEOtdQPJLni274n1cYj"
+    },
+    {
+      "album": {
         "name": "Just A Dream",
         "url": "https://open.spotify.com/album/3HGlp8bSoomAkZKQl67fqx"
       },
@@ -20654,7 +20760,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 185446,
       "name": "LA LA LAND",
       "url": "https://open.spotify.com/track/4wtfQkr4ke2P6k6Al0yPXl"
@@ -20834,6 +20940,28 @@
       "duration_ms": 226400,
       "name": "Laserbeam - Sullivan King Remix",
       "url": "https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX"
+    },
+    {
+      "album": {
+        "name": "Lately (feat. Jex)",
+        "url": "https://open.spotify.com/album/4DQKQpEGu6a7wG4zCAa4xH"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209828,
+      "name": "Lately (feat. Jex)",
+      "url": "https://open.spotify.com/track/3WSDoGL8yrK4xq0bBJQgbp"
     },
     {
       "album": {
@@ -21588,7 +21716,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 166666,
       "name": "LIGHTS GO OUT - Dennett Remix",
       "url": "https://open.spotify.com/track/1hQAmS4c99YiiXTORf0pCW"
@@ -24332,6 +24460,28 @@
       "duration_ms": 205249,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/4N83wAazucqM5dhLMWEv0r"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/6jrCaxuLofDAhLobzVkFsS"
+      },
+      "artists": [
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        },
+        {
+          "name": "Chozen",
+          "url": "https://open.spotify.com/artist/0T8PFaa4SnSE2VyKYN5E4N"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/0MMiSyWQmucI2fVAof9Tgg"
     },
     {
       "album": {
@@ -28215,6 +28365,28 @@
     },
     {
       "album": {
+        "name": "Play With Fire",
+        "url": "https://open.spotify.com/album/4zM9FQhfEmgILqLxxvEaPp"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/2DKj0J1FaMYe4LRIyk5Sya"
+    },
+    {
+      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/55rXKa79HyEaM9gYapnZiy"
       },
@@ -28366,6 +28538,28 @@
       "duration_ms": 199800,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/0UiIemKC5qrAGxrFXrb6zx"
+    },
+    {
+      "album": {
+        "name": "Point of No Return",
+        "url": "https://open.spotify.com/album/4xvjV9r15J4tlMuSuF9R0P"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        },
+        {
+          "name": "Space Wizard",
+          "url": "https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Point of No Return",
+      "url": "https://open.spotify.com/track/3uXwLpj0yInIrDi9PvTFby"
     },
     {
       "album": {
@@ -33044,7 +33238,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 209142,
       "name": "SIDESTEP",
       "url": "https://open.spotify.com/track/4b5y4uI6XsMGjQQKDIisls"
@@ -35235,6 +35429,32 @@
     },
     {
       "album": {
+        "name": "SUFFOCATING (with Adalaide Adams)",
+        "url": "https://open.spotify.com/album/4yV2olLPyN2fXujzf7wmlL"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "SUFFOCATING (with Adalaide Adams)",
+      "url": "https://open.spotify.com/track/48Uh86xRi2vWHwh47e5hOn"
+    },
+    {
+      "album": {
         "name": "Sugar, We're Goin Down",
         "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
       },
@@ -35302,6 +35522,24 @@
       "duration_ms": 256000,
       "name": "Summer's Gone - Skybreak HALF BLOOD Remix",
       "url": "https://open.spotify.com/track/1l0XoqAFbcGhyNmAMmIE8M"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1GOH6Mnz6bk3vpVB4xuglu"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0im0RIk0Wc8vzsTRMPoK7U"
     },
     {
       "album": {

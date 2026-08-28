@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "con Querer Queriendo",
+        "url": "https://open.spotify.com/album/0ci90ZG0KwbqJY2oA1ZUkS"
+      },
+      "artists": [
+        {
+          "name": "IREGUI",
+          "url": "https://open.spotify.com/artist/2aBqrQgnQGT9Puu0IiSoaW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "con Querer Queriendo",
+      "url": "https://open.spotify.com/track/4dv59QYOFht2OSxET6zT2s"
+    },
+    {
+      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -2595,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "GAN\u00d3 LA MONOTON\u00cdA",
+        "url": "https://open.spotify.com/album/79GJkZapBVywSJlT9enVJe"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163456,
+      "name": "GAN\u00d3 LA MONOTON\u00cdA",
+      "url": "https://open.spotify.com/track/6XonJNBNphvKVg6zFjqrAB"
+    },
+    {
+      "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
       },
@@ -2872,7 +2908,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153103,
       "name": "Infidelidad",
       "url": "https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA"
@@ -3632,6 +3668,24 @@
       "duration_ms": 152023,
       "name": "MAM\u00c1 PERD\u00d3N",
       "url": "https://open.spotify.com/track/6UWA0lXKspDvsfmiMGuo8e"
+    },
+    {
+      "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
     },
     {
       "album": {
@@ -5026,7 +5080,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 188064,
       "name": "Por Esos Ojos",
       "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
@@ -6616,7 +6670,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 157103,
       "name": "Vive Tu Vida",
       "url": "https://open.spotify.com/track/3DzNgv4wLRfR90ZKl5raAZ"

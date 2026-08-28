@@ -1,13 +1,29 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 52505,
+  "num_followers": 52507,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "AAAZ5iozN/ciYW585jO+LsLb8BfCWqw5",
+  "snapshot_id": "AAAZ54LDFt5jl25+QMnI3nuM9xyBUBj9",
   "tracks": [
+    {
+      "added_at": "2026-08-28 08:02:20",
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/1OZnp2XRk7X93hEs81tmq6"
+      },
+      "artists": [
+        {
+          "name": "Rod Coote",
+          "url": "https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/1pqO9Go49HkfPvBvfLRiMW"
+    },
     {
       "added_at": "2026-08-21 13:35:20",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Jamback",
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
   "name": "Deep & Minimal",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 221538,
       "name": "15 Seconds of Fame - Edit",
       "url": "https://open.spotify.com/track/1Q8WZ2aN87ld2vcb9UmrTB"
+    },
+    {
+      "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "1997 - Radio Edit",
+      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
     },
     {
       "album": {
@@ -804,6 +822,32 @@
       "duration_ms": 219692,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/0hI0tjl8fLB6UqpTq8SFCs"
+    },
+    {
+      "album": {
+        "name": "Another Night (Ranger Trucco Remix)",
+        "url": "https://open.spotify.com/album/7p61COsWZOhuyy36degfBX"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Chesster",
+          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
+        },
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223550,
+      "name": "Another Night - Ranger Trucco Remix",
+      "url": "https://open.spotify.com/track/29Ryx73SRQjFLovbWRuG57"
     },
     {
       "album": {
@@ -2448,6 +2492,24 @@
     {
       "album": {
         "name": "Body Movin'",
+        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
+      },
+      "artists": [
+        {
+          "name": "Fede Aliprandi",
+          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Body Movin'",
+      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
+    },
+    {
+      "album": {
+        "name": "Body Movin'",
         "url": "https://open.spotify.com/album/0HeGISGAF6CRRFkwkCBwHw"
       },
       "artists": [
@@ -2744,6 +2806,24 @@
       "duration_ms": 191929,
       "name": "Breaking Dollars",
       "url": "https://open.spotify.com/track/7MNdA4KvxD2qFilUBt8sys"
+    },
+    {
+      "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168334,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
     },
     {
       "album": {
@@ -4776,6 +4856,28 @@
     {
       "album": {
         "name": "Desire",
+        "url": "https://open.spotify.com/album/3eISzBDmXKKLPaQOIPWqg9"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        },
+        {
+          "name": "Alex Lynch",
+          "url": "https://open.spotify.com/artist/4fCuFai2RGjsA7ptG5ZDxF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206616,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1ACxe83zCuJVNcuWaxC5M9"
+    },
+    {
+      "album": {
+        "name": "Desire",
         "url": "https://open.spotify.com/album/2PcHkOCIs4zZ9U8as2z9QJ"
       },
       "artists": [
@@ -5206,7 +5308,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 230769,
       "name": "Do You Like Bass",
       "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
@@ -5867,6 +5969,32 @@
     },
     {
       "album": {
+        "name": "Echoes From The 90s",
+        "url": "https://open.spotify.com/album/7mOkoTACtQ51YEOlW2Rv0D"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Summum",
+          "url": "https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw"
+        },
+        {
+          "name": "Atlantic Ocean",
+          "url": "https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195114,
+      "name": "Echoes From The 90s",
+      "url": "https://open.spotify.com/track/7ImUOhb1xKibBXXJVZ7PK5"
+    },
+    {
+      "album": {
         "name": "Ecstacy",
         "url": "https://open.spotify.com/album/3hRYZTHc0SiTwVcNMcKZQh"
       },
@@ -6374,7 +6502,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 195000,
       "name": "Face Bass",
       "url": "https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW"
@@ -7237,6 +7365,28 @@
     },
     {
       "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193749,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
+    },
+    {
+      "album": {
         "name": "From L to R",
         "url": "https://open.spotify.com/album/4Jg42Y6rrywR82J2N1Uk6J"
       },
@@ -7580,7 +7730,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 180451,
       "name": "GANGSTA",
       "url": "https://open.spotify.com/track/5w2J3jCuxhCKXSeAKooytB"
@@ -9988,7 +10138,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 198000,
       "name": "If Its Real",
       "url": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
@@ -12452,7 +12602,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 176744,
       "name": "Love to Love",
       "url": "https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q"
@@ -13618,7 +13768,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 178124,
       "name": "Move Shake",
       "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
@@ -15357,6 +15507,28 @@
     },
     {
       "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185423,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
+    },
+    {
+      "album": {
         "name": "P Power",
         "url": "https://open.spotify.com/album/5vgwUctmCAXT1JCQSRZ5kz"
       },
@@ -16028,7 +16200,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186870,
       "name": "Poppy Pill",
       "url": "https://open.spotify.com/track/5vzilsnm2ht0puswLrtdHe"
@@ -16894,6 +17066,28 @@
       "duration_ms": 266176,
       "name": "Reconnection - Radio Mix",
       "url": "https://open.spotify.com/track/1kLaW7XBG6pYciw2JSmi5G"
+    },
+    {
+      "album": {
+        "name": "RMS007",
+        "url": "https://open.spotify.com/album/4Gg3XrcqT7JCTPKCR7iTxG"
+      },
+      "artists": [
+        {
+          "name": "Owen Andrews",
+          "url": "https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s"
+        },
+        {
+          "name": "Luke Andrews",
+          "url": "https://open.spotify.com/artist/4HXTQukv28KsVXxf1uXQoA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Record Stepper - Radio Edit",
+      "url": "https://open.spotify.com/track/1SuM7xpxqMZANsOqdCTAj1"
     },
     {
       "album": {
@@ -17968,7 +18162,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 190107,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/6jbkf149SUyfKC61XXhAd7"
@@ -18682,7 +18876,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 146564,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
@@ -20286,7 +20480,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 472835,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/2IoYR7dZzXRwnYkULlTRae"
@@ -22184,6 +22378,28 @@
       "duration_ms": 192727,
       "name": "TWOSTEP",
       "url": "https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ"
+    },
+    {
+      "album": {
+        "name": "U know me",
+        "url": "https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Marz Fay",
+          "url": "https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194910,
+      "name": "U know me",
+      "url": "https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq"
     },
     {
       "album": {

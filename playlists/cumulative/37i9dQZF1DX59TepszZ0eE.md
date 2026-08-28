@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-483 songs - 2 day 3 hr 37 min
+485 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2023-03-17 |  |
 | [Bulelani/Oh Give Thanks \(Psalm 107:1\) \- Live](https://open.spotify.com/track/6KGpgs31vrR8VA5OflfrQW) | [Ncebakazi Msomi](https://open.spotify.com/artist/51g9htpUzFdCV8GhceWMpX) | [The 37th Psalm \(Live at Emperors Palace\)](https://open.spotify.com/album/1qLHR4gDkXhHEkqnqYkoQ2) | 7:50 | 2025-10-31 | 2026-02-20 |
 | [Buya Jonah](https://open.spotify.com/track/1ytFtOdraWpdSCHfBoonEE) | [uShenge](https://open.spotify.com/artist/5yCiMUECKJoYQt9GPGCyQU) | [Buya Jonah](https://open.spotify.com/album/2fI00Z7sgsvnaqOjAQSznu) | 2:35 | 2026-05-01 |  |
+| [Buyelekhaya \(feat\. Thami Mthabela\)](https://open.spotify.com/track/5pVeDbjv2a1VivRNiOc5j5) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Thami Mthabela](https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi) | [27:27](https://open.spotify.com/album/1Ec0jVUUxyahw0pQRpR04T) | 3:50 | 2026-08-28 |  |
 | [Certainly](https://open.spotify.com/track/4osmGMXeS9jri3GqAXACYt) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Yousef T Gurupira](https://open.spotify.com/artist/2LtnT8DI2Ct5bPnIXwl2VZ) | [Certainly](https://open.spotify.com/album/7aNaGNekx5e2Px3LwExDKE) | 4:21 | 2025-03-07 | 2025-04-25 |
 | [Consistent God \- Live At Cedarwoods of Sandton, 2023 / Reprise](https://open.spotify.com/track/5B4t3Oj13oo2bZ86w92ZCg) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Consistent God \(Live At Cedarwoods of Sandton, 2023 / Reprise\)](https://open.spotify.com/album/605drAootvO08Oed9ZdP1Z) | 2:23 | 2024-03-29 | 2024-04-05 |
 | [Difela Medley \- Live](https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Difela Medley \(Live\)](https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z) | 11:05 | 2024-06-07 | 2024-08-16 |
@@ -285,6 +286,7 @@
 | [Nkosi Yezulu \- Live](https://open.spotify.com/track/0stBlRRNEm66Hs5qXwDDlk) | [Breakthrough Worship ZA](https://open.spotify.com/artist/06WukqeQmCpLBsSu0njfLN), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Volume Two \(Live\)](https://open.spotify.com/album/1WbKAzYsOVGXjnmXWvX6bQ) | 8:31 | 2026-04-10 | 2026-07-10 |
 | [Nne Ndi Shumela \(Live\)](https://open.spotify.com/track/1h80HKqjegsny8lawquT4C) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Nne Ndi Shumela \(Live\)](https://open.spotify.com/album/5UF3bB4HpAtm1cJCQR2J5x) | 8:08 | 2022-09-15 | 2024-11-08 |
 | [Nothing Without You \- Live](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2023-06-23 |  |
+| [Nsovo Moment \- Live](https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Nsovo Moment \(Live\)](https://open.spotify.com/album/4kmuvjCmGtxm62swhicrrc) | 2:58 | 2026-08-28 |  |
 | [Ntate Kemang \- Live](https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 4:29 | 2023-06-16 |  |
 | [Ntho ke ena \(Live\)](https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs) | [Tebs David](https://open.spotify.com/artist/5wuC7dnBTQsphj7CIOm4fv) | [Ntho ke ena \(Live\)](https://open.spotify.com/album/0olffnuTDQXe6cYxOse7f3) | 6:00 | 2023-12-22 | 2024-06-07 |
 | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 | 2022-03-17 | 2026-05-15 |

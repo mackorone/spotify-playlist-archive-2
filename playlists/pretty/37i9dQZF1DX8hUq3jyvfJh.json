@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Mannda Lym e mais mulheres incr\u00edveis no volume m\u00e1ximo! Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:78WvOgIBo2emAnJLbv7nXO\">Mannda Lym</a>",
-  "num_followers": 196414,
+  "num_followers": 196413,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
+        "name": "Samba Meu",
+        "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Casa de Noca",
+      "url": "https://open.spotify.com/track/2CNz3RMSyPMb9OWaPLU6CS"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
         "name": "MAIS FORTE QUE A D\u00daVIDA",
         "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "Samba Meu",
-        "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Casa de Noca",
-      "url": "https://open.spotify.com/track/2CNz3RMSyPMb9OWaPLU6CS"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
         "name": "De Pouco a Pouco (Ao Vivo)",
         "url": "https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 288000,
       "name": "De Pouco a Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
-        "name": "Tua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o1WUvRXTUtf96kmcMfsDW"
-      },
-      "artists": [
-        {
-          "name": "Amanda Amado",
-          "url": "https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Tua - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NYGIhDbUMfAZgBYt11c5Z"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -371,18 +355,18 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "Jogou Aonde",
-        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
+        "name": "Tua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o1WUvRXTUtf96kmcMfsDW"
       },
       "artists": [
         {
-          "name": "Gica",
-          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+          "name": "Amanda Amado",
+          "url": "https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD"
         }
       ],
-      "duration_ms": 158378,
-      "name": "Jogou Aonde",
-      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
+      "duration_ms": 170878,
+      "name": "Tua - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NYGIhDbUMfAZgBYt11c5Z"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -411,6 +395,22 @@
       "duration_ms": 222493,
       "name": "Pagode de Mulher",
       "url": "https://open.spotify.com/track/6LeFKU9Jl3tdfrhKZzBwqu"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
+        "name": "Jogou Aonde",
+        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
+      },
+      "artists": [
+        {
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+        }
+      ],
+      "duration_ms": 158378,
+      "name": "Jogou Aonde",
+      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "BRava",
-        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
-      },
-      "artists": [
-        {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "INCOMUM",
-      "url": "https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
         "name": "Janeiro",
         "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 190153,
       "name": "Janeiro",
       "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "INCOMUM",
+      "url": "https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
+        "name": "Consegue",
+        "url": "https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir"
+      },
+      "artists": [
+        {
+          "name": "Rafa Laranja",
+          "url": "https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Consegue",
+      "url": "https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
         "name": "Amor e Sacanagem",
         "url": "https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 169762,
       "name": "Amor e Sacanagem",
       "url": "https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
-        "name": "Consegue",
-        "url": "https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir"
-      },
-      "artists": [
-        {
-          "name": "Rafa Laranja",
-          "url": "https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Consegue",
-      "url": "https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6"
     },
     {
       "added_at": "2026-07-06 16:39:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 353 likes - 2,570 songs - 6 day 7 hr 2 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,573 songs - 6 day 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2558,7 +2558,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2548 | [Goodbyes](https://open.spotify.com/track/2DIm16Db0DLjItmIBQgyIK) | [Random Anthem](https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1) | [Goodbyes](https://open.spotify.com/album/57L4nw8EjLLRdFQZgzts8I) | 4:19 |
 | 2549 | [Empty Streets](https://open.spotify.com/track/58vNJXmharklZeHTgF94EC) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Empty Streets](https://open.spotify.com/album/5HY8Nnt2HMPG4WkvCOFJts) | 2:27 |
 | 2550 | [Take Care](https://open.spotify.com/track/0qKadBHML8rQm8EOtniFNd) | [Nedim ERTUNA](https://open.spotify.com/artist/0MFMm7OrfEjP2QmfFQfWLs) | [Take Care](https://open.spotify.com/album/4qqpwmGS9zaPcAmR3FgkWw) | 3:00 |
-| 2551 | [Maria Giuanna \- Orchestral Version](https://open.spotify.com/track/4DmzbYKEiljwvHubLwb6lW) | [Los Amigos](https://open.spotify.com/artist/0r5bcdtdDTvbKqzgicuo84), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Maria Giuanna \(Orchestral Version\)](https://open.spotify.com/album/6wKhonMn1CAhj0YN6mxCcO) | 3:02 |
+| 2551 | [Maria Giuanna \- Orchestral Version](https://open.spotify.com/track/4DmzbYKEiljwvHubLwb6lW) | [Los Amigos](https://open.spotify.com/artist/2tZ5WLSncaSlhmRkBuILPu), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Maria Giuanna \(Orchestral Version\)](https://open.spotify.com/album/6wKhonMn1CAhj0YN6mxCcO) | 3:02 |
 | 2552 | [Me Partes el Alma](https://open.spotify.com/track/4hiEnddFwCsFT2ZMmHd4Vw) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/36A4gGmNg8qcTEbeb78iJ5) | 3:02 |
 | 2553 | [I Don't Wanna](https://open.spotify.com/track/2dBISZAkoPUFtSxXOrzFWg) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [I Don't Wanna](https://open.spotify.com/album/3uAjKCqmcjrqWzUk2CBLDw) | 4:18 |
 | 2554 | [Don't Remember](https://open.spotify.com/track/0coZLUJAyKfdywx3cuiMhu) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Don't Remember](https://open.spotify.com/album/5gycPqdPjbDFaE4pe3WLyH) | 1:29 |
@@ -2567,7 +2567,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2557 | [No Te Voy A Perder](https://open.spotify.com/track/3EfBHJNorj6Gbles4qhxIb) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:30 |
 | 2558 | [Me Quedo Contigo](https://open.spotify.com/track/1mgysJeEOX2MYA68RXE1Ar) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 |
 | 2559 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
-| 2560 | [La Ziminadda di Dominichinu \- Orchestral Version](https://open.spotify.com/track/0mc8ZILVFn9naG604eJCd7) | [Los Amigos](https://open.spotify.com/artist/0r5bcdtdDTvbKqzgicuo84), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [La Ziminadda di Dominichinu \(Orchestral Version\)](https://open.spotify.com/album/7jXo0AURN3pDWXC3M1sEWz) | 3:37 |
+| 2560 | [La Ziminadda di Dominichinu \- Orchestral Version](https://open.spotify.com/track/0mc8ZILVFn9naG604eJCd7) | [Los Amigos](https://open.spotify.com/artist/2tZ5WLSncaSlhmRkBuILPu), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [La Ziminadda di Dominichinu \(Orchestral Version\)](https://open.spotify.com/album/7jXo0AURN3pDWXC3M1sEWz) | 3:37 |
 | 2561 | [Goodbye](https://open.spotify.com/track/4drwARutqBFfGSHWDorifH) | [Andrew Whistler](https://open.spotify.com/artist/1wyuerQdwzNyYFMp8tyDc9) | [Goodbye](https://open.spotify.com/album/5gd6OT2GQ53tiJ8Ee9U5k8) | 3:35 |
 | 2562 | [Fragile Fantasy](https://open.spotify.com/track/03ZqzUxLxUcDu6mfGz3FCu) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Fragile Fantasy](https://open.spotify.com/album/4hQ4Q10iWMfRCXhHI9gUNw) | 4:06 |
 | 2563 | [Show me love](https://open.spotify.com/track/0UbAmYmsn8jMVEfM0ks5Na) | [Bossa de Valores](https://open.spotify.com/artist/19vd7nCwwKyTXgKek1jXKV) | [I'm over you](https://open.spotify.com/album/3nndwUpOvEjtVgJINBPc8j) | 4:45 |
@@ -2578,5 +2578,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2568 | [Joakim](https://open.spotify.com/track/5gdwmsCeG3xqES0lZfNwvX) | [Ubaye](https://open.spotify.com/artist/4lJw57BJeFpdkJ0CWegxCy) | [Ani](https://open.spotify.com/album/4RXVWWfxIi6fnVIgC0rRxT) | 3:34 |
 | 2569 | [Change \- Live](https://open.spotify.com/track/67fwh9pjo1EhZv6CRdGn0k) | [Ordinary Rebel](https://open.spotify.com/artist/2xda5wpmZV4e87JXCiqa1n) | [F\#ck your algorithm \(Live\)](https://open.spotify.com/album/1Owmdso3Q3KVgdCWKFhV9k) | 1:36 |
 | 2570 | [Still Here](https://open.spotify.com/track/2pvxqf7svdVW4lsEDInBgL) | [Luminette](https://open.spotify.com/artist/6EDrUPkkMaONedx9KMIwFK), [MASK CX](https://open.spotify.com/artist/1KrxJKNuzMTqHBGq3vaBHl) | [Still Here](https://open.spotify.com/album/41sYQqwzW8Z5yDvcNpjKpH) | 3:23 |
+| 2571 | [BOUDICCA'S THEME](https://open.spotify.com/track/0BmDv4ru9o2f8EdEmpXtLV) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [BOUDICCA'S THEME](https://open.spotify.com/album/0UlXd4zHKvweA828vg6f8c) | 3:09 |
+| 2572 | [Hampir Saja](https://open.spotify.com/track/402MPYl6n9BtEVH8xvjro6) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Hampir Saja](https://open.spotify.com/album/0KTMY3iGT5MDmK35lWJdph) | 3:23 |
+| 2573 | [Il Pinguino all'Equatore](https://open.spotify.com/track/3bt8vxAIbEphRxnfnoYGCu) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Il Pinguino all'Equatore](https://open.spotify.com/album/6XyjAUoOY30MSNAimNl0nT) | 2:59 |
 
-Snapshot ID: `AAAK+dWx2+J/+yqD+wG+hdiU8x9Q6h+y`
+Snapshot ID: `AAAK/DdDuWpbHPcta3S+NBV0q2fOh02K`

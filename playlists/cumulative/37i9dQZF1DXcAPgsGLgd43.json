@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 228292,
       "name": "Dame Fuego",
       "url": "https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ"
@@ -11572,6 +11572,32 @@
       "duration_ms": 226889,
       "name": "Ulalala",
       "url": "https://open.spotify.com/track/4EMLCdqC0BXgpr42Op96a0"
+    },
+    {
+      "album": {
+        "name": "La Criminal EP",
+        "url": "https://open.spotify.com/album/3CbdSetzq97CEk0MRfHliP"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        },
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158139,
+      "name": "Umami",
+      "url": "https://open.spotify.com/track/17icVfibca9F7l88wcXzrs"
     },
     {
       "album": {

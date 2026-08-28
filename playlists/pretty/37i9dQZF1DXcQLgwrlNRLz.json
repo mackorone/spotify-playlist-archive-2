@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 18026,
+  "num_followers": 18055,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
         "name": "Jeune prince",
         "url": "https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 155973,
       "name": "Pression",
       "url": "https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Il s'appelait Tayc",
-        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 220490,
-      "name": "Il s'appelait Tayc",
-      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Glish",
         "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 292173,
       "name": "Yoyo / Petit coeur",
       "url": "https://open.spotify.com/track/0zKdCMxjRXZW3xENEFMI1k"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Il s'appelait Tayc",
+        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 220490,
+      "name": "Il s'appelait Tayc",
+      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Formule 7",
-        "url": "https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Bloqu\u00e9",
-      "url": "https://open.spotify.com/track/0K6Olb7aNjYMJEO9yFO0m7"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Le succ\u00e8s",
         "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 208484,
       "name": "Le succ\u00e8s",
       "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Formule 7",
+        "url": "https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Bloqu\u00e9",
+      "url": "https://open.spotify.com/track/0K6Olb7aNjYMJEO9yFO0m7"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
-      },
-      "artists": [
-        {
-          "name": "RJ Kanierra",
-          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "En Haut",
         "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 172394,
       "name": "En Haut",
       "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
+      },
+      "artists": [
+        {
+          "name": "RJ Kanierra",
+          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
+        }
+      ],
+      "duration_ms": 214777,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1265,6 +1265,26 @@
       "url": "https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt"
     },
     {
+      "added_at": "2026-08-21 10:56:34",
+      "album": {
+        "name": "M\u00c9TAMORPHOSE",
+        "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
+      },
+      "artists": [
+        {
+          "name": "SK 07",
+          "url": "https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "MINIMUM (feat. d\u00f8pelym)",
+      "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
       "added_at": "2026-07-24 11:14:20",
       "album": {
         "name": "Yebisa Bango / Bijou",
@@ -1295,26 +1315,6 @@
       "duration_ms": 216428,
       "name": "Mpiaka",
       "url": "https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ"
-    },
-    {
-      "added_at": "2026-08-21 10:56:34",
-      "album": {
-        "name": "M\u00c9TAMORPHOSE",
-        "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
-      },
-      "artists": [
-        {
-          "name": "SK 07",
-          "url": "https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW"
-        },
-        {
-          "name": "d\u00f8pelym",
-          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "MINIMUM (feat. d\u00f8pelym)",
-      "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Yebisa Bango / Bijou",
-        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 149932,
-      "name": "Yebisa Bango",
-      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Agent Secret",
         "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 164737,
       "name": "Agent secret",
       "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Yebisa Bango / Bijou",
+        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 149932,
+      "name": "Yebisa Bango",
+      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
     },
     {
       "added_at": "2026-07-24 11:14:20",

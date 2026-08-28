@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 161652,
       "name": "A Mille",
       "url": "https://open.spotify.com/track/61HktB3Swoc5cqNTM5huWs"
@@ -9224,7 +9224,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 126666,
       "name": "CAPITALE",
       "url": "https://open.spotify.com/track/6JDtYIGpLNuP1ZV6yXAUE4"
@@ -20643,6 +20643,24 @@
     },
     {
       "album": {
+        "name": "Hai mai?",
+        "url": "https://open.spotify.com/album/3ildD9tG7YNONEKsgonGWk"
+      },
+      "artists": [
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145499,
+      "name": "Hai mai?",
+      "url": "https://open.spotify.com/track/7yVsKau8TBSfmjvcsN9FFF"
+    },
+    {
+      "album": {
         "name": "HAI PRESO UN L",
         "url": "https://open.spotify.com/album/4Nh4WlI3U6koBTsge4XB1K"
       },
@@ -24066,7 +24084,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 107076,
       "name": "Krokodyle",
       "url": "https://open.spotify.com/track/16lEt3JYAauK42S9NoRYcs"
@@ -26028,6 +26046,24 @@
       "duration_ms": 150437,
       "name": "LIBERT\u00c9",
       "url": "https://open.spotify.com/track/5u4NUZyZvf6arLqD9Jafqq"
+    },
+    {
+      "album": {
+        "name": "LILBABY",
+        "url": "https://open.spotify.com/album/0rkKsWxIWrnLy3BInO8Zn4"
+      },
+      "artists": [
+        {
+          "name": "ANGELIDESIGNER",
+          "url": "https://open.spotify.com/artist/0hxbY4COvnne0xPBbhNDOw"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121691,
+      "name": "LILBABY",
+      "url": "https://open.spotify.com/track/1f2FzUPg1jLOf08tbV5Z5t"
     },
     {
       "album": {
@@ -30629,6 +30665,32 @@
     },
     {
       "album": {
+        "name": "MOLLY & PERCOCET",
+        "url": "https://open.spotify.com/album/6Vy5FSOCSoZk65g4kM4qYu"
+      },
+      "artists": [
+        {
+          "name": "manueltime",
+          "url": "https://open.spotify.com/artist/6N77V5lSWGy12nnqNmjYW0"
+        },
+        {
+          "name": "Almighty Brian",
+          "url": "https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw"
+        },
+        {
+          "name": "OGKAGE",
+          "url": "https://open.spotify.com/artist/10EWS82AzwXYzLhaIf9wD3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103783,
+      "name": "MOLLY & PERCOCET",
+      "url": "https://open.spotify.com/track/1tM8ONGcgmvt91bBd9DiVU"
+    },
+    {
+      "album": {
         "name": "WE 2FLY",
         "url": "https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2"
       },
@@ -30988,7 +31050,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 136433,
       "name": "MONTAGNA (feat. Side Baby)",
       "url": "https://open.spotify.com/track/2po9ZE001hx0fMIJMAnxMR"
@@ -37508,7 +37570,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 122880,
       "name": "PIQUE PAULISTA",
       "url": "https://open.spotify.com/track/4ZRb9GPJt67Ygr7ntm68Z8"
@@ -42564,6 +42626,24 @@
       "duration_ms": 90000,
       "name": "SANTA LUCIA FREESTYLE",
       "url": "https://open.spotify.com/track/6MuaqerDEGFJVvOZ7msKnP"
+    },
+    {
+      "album": {
+        "name": "SANTA MARIA",
+        "url": "https://open.spotify.com/album/1q7vU8v26panFjOvLhs4kE"
+      },
+      "artists": [
+        {
+          "name": "SKT",
+          "url": "https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167234,
+      "name": "SANTA MARIA",
+      "url": "https://open.spotify.com/track/2wIsDpneFSPdpOouVVcIA7"
     },
     {
       "album": {
@@ -53722,6 +53802,24 @@
       "duration_ms": 168000,
       "name": "ZAINO GUCCI",
       "url": "https://open.spotify.com/track/2prQiacFHWgk5TCigkAyv4"
+    },
+    {
+      "album": {
+        "name": "ZAMPIRONI",
+        "url": "https://open.spotify.com/album/3qjXUtL974aMV5OyH8IrMv"
+      },
+      "artists": [
+        {
+          "name": "Zizzu",
+          "url": "https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "ZAMPIRONI",
+      "url": "https://open.spotify.com/track/77MJc2Z6QCNaG0MDuwNGOw"
     },
     {
       "album": {

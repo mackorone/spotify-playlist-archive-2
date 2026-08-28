@@ -593,6 +593,32 @@
     },
     {
       "album": {
+        "name": "CABELO CARACOL (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7vvAhh1tVHe2jMGOZBJIfu"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
+        {
+          "name": "Davi Horta",
+          "url": "https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "CABELO CARACOL - ac\u00fastico",
+      "url": "https://open.spotify.com/track/0dU5mGAGhrg51LG0grx33H"
+    },
+    {
+      "album": {
         "name": "Can't Tame Her (Acoustic)",
         "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
       },
@@ -920,7 +946,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187936,
       "name": "Del Mar - Acustico",
       "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"

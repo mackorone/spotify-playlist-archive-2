@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - James the Seventh on the cover",
+  "description": "sweet. sharp. unbothered - Zolita on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -5268,7 +5268,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 140506,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM"
@@ -11997,6 +11997,24 @@
     },
     {
       "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/3wwtalcjQ2XkOYEVl8wGrp"
+      },
+      "artists": [
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/4V5MKIbOWMNrMA63qDZzZD"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
       },
@@ -12030,6 +12048,24 @@
       "duration_ms": 243037,
       "name": "Miss Misfortunately",
       "url": "https://open.spotify.com/track/5lB1flA93G6OiJFNBR1uE3"
+    },
+    {
+      "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Miss Misunderstood",
+      "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
     },
     {
       "album": {
@@ -12686,7 +12722,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 133695,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/04nNCAclZY6SkkhAsyZvrg"
@@ -15495,6 +15531,24 @@
     },
     {
       "album": {
+        "name": "Scaring Everyone",
+        "url": "https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204534,
+      "name": "Scaring Everyone",
+      "url": "https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV"
+    },
+    {
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv"
       },
@@ -16434,7 +16488,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 133625,
       "name": "SMH",
       "url": "https://open.spotify.com/track/07I8k93iDfq3yZMZPyvUJ1"

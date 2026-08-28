@@ -4265,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "El Club de la Gente Sola",
+        "url": "https://open.spotify.com/album/6IIVfYvBO0Gu4KQxKqsAy8"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "El Club de la Gente Sola",
+      "url": "https://open.spotify.com/track/2dtND3tFl7E7DA8U6BlDiO"
+    },
+    {
+      "album": {
         "name": "SI HUBI\u00c9RAMOS SIDO M\u00c1S VALIENTES",
         "url": "https://open.spotify.com/album/2rcZSqpm3P6ZpZDJJBbPIg"
       },
@@ -5817,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "Extra\u00f1os Amantes",
+        "url": "https://open.spotify.com/album/5O57VdMlTANWuMczkCYleW"
+      },
+      "artists": [
+        {
+          "name": "Belarte",
+          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197169,
+      "name": "Extra\u00f1os Amantes",
+      "url": "https://open.spotify.com/track/1ROAWnefYAAiZkm8Ru5zhn"
+    },
+    {
+      "album": {
         "name": "FANTASMAS",
         "url": "https://open.spotify.com/album/4fw4d6JXCtzj3ZZp9Jdjxz"
       },
@@ -5886,7 +5922,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 270350,
       "name": "Feo, fuerte y formal (feat. Dani Mart\u00edn)",
       "url": "https://open.spotify.com/track/4eNULXk6WZ39Tkhnu07nGF"
@@ -7720,7 +7756,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
@@ -8660,7 +8696,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 211483,
       "name": "Los Besos",
       "url": "https://open.spotify.com/track/59O96uAlR5DZIKO303B2A7"
@@ -12004,7 +12040,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 352189,
       "name": "Puntos suspensivos",
       "url": "https://open.spotify.com/track/1vo9W7p9tPuzsH1b4JGDQD"

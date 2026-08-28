@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "\u7d72\u8def",
+        "url": "https://open.spotify.com/album/0CHbpwiT2lzuzIMLvXCe0f"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285830,
+      "name": "\u53ef\u60dc\u4e0d\u662f\u4f60",
+      "url": "https://open.spotify.com/track/4m4e3vIghV2QkHuOf83M7N"
+    },
+    {
+      "album": {
         "name": "\u65b0\u5730\u7403",
         "url": "https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8"
       },
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 233406,
       "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
       "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"

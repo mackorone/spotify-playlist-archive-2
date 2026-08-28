@@ -2341,6 +2341,28 @@
     },
     {
       "album": {
+        "name": "Che Bella Vita (con Angelina Mango)",
+        "url": "https://open.spotify.com/album/1Y3WHJSYWtpVFUNqQ0zo4b"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167828,
+      "name": "Che Bella Vita (con Angelina Mango)",
+      "url": "https://open.spotify.com/track/6mn3IXt1IIQh22zgVK8u6G"
+    },
+    {
+      "album": {
         "name": "Che fastidio!",
         "url": "https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u"
       },
@@ -2378,6 +2400,24 @@
       "duration_ms": 183520,
       "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
       "url": "https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV"
+    },
+    {
+      "album": {
+        "name": "CHE SENSO HA",
+        "url": "https://open.spotify.com/album/7zivG0D3FlHYLY0qCDutKo"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "CHE SENSO HA",
+      "url": "https://open.spotify.com/track/1uFXSSLeb506dvP0BRZY0F"
     },
     {
       "album": {
@@ -3616,7 +3656,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 170392,
       "name": "ELTAKAT\u00c0",
       "url": "https://open.spotify.com/track/2mWiATAIvHfZBosHgHpkq1"
@@ -4600,6 +4640,28 @@
       "duration_ms": 182790,
       "name": "Genitore 3",
       "url": "https://open.spotify.com/track/6xZn3AmvO8JJvswcnFpev3"
+    },
+    {
+      "album": {
+        "name": "Genova e Napoli",
+        "url": "https://open.spotify.com/album/7L8I7uCdJIKQJsRIaeB0cz"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Gigi D'Alessio",
+          "url": "https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178398,
+      "name": "Genova e Napoli",
+      "url": "https://open.spotify.com/track/4IPvLJHeW1wwPDz0mYvxzZ"
     },
     {
       "album": {
@@ -7566,7 +7628,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173445,
       "name": "MILLION DOLLAR BABE",
       "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
@@ -8346,7 +8408,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 153862,
       "name": "Obbligo o Verit\u00e0",
       "url": "https://open.spotify.com/track/42rkEnDZG3nErSDRDCHJeR"
@@ -9792,6 +9854,24 @@
       "duration_ms": 166551,
       "name": "Quando Sar\u00f2 Morto - feat. J-AX",
       "url": "https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7"
+    },
+    {
+      "album": {
+        "name": "L'AMORE",
+        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213749,
+      "name": "QUANTO FORTE TI PENSAVO",
+      "url": "https://open.spotify.com/track/7ldyOPtbSh2t7iOEAsFOlR"
     },
     {
       "album": {
@@ -12074,7 +12154,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 224000,
       "name": "TI HO VISTO ENTRARE NELLA MIA VITA",
       "url": "https://open.spotify.com/track/01zwb3TqJG9A6rZlxBsoiF"
@@ -12592,7 +12672,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 154639,
       "name": "Un Bel Casino",
       "url": "https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz"
@@ -13422,6 +13502,28 @@
       "duration_ms": 191020,
       "name": "Zero",
       "url": "https://open.spotify.com/track/1VuQnyUvKCe7ydmdBP8mxW"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "Zero stare sereno",
+      "url": "https://open.spotify.com/track/5MCOAQ3gNReN6bZqrg4ZV6"
     },
     {
       "album": {

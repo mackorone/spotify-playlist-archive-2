@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.
 
-625 songs - 1 day 10 hr 31 min
+626 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Place Of Peace](https://open.spotify.com/track/1ZNz9Fopnb6Y8MYPgBVTkc) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [From A Man's Perspective](https://open.spotify.com/album/2Q05oCwAlB5dtUyRb2xybj) | 2:45 | 2024-12-06 | 2025-04-22 |
 | [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/track/3s5J9EMC6T3ILzUO98Ovho) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/album/3X3yUZB4Mj01slhTurM4tJ) | 3:48 | 2024-09-27 | 2025-02-01 |
 | [Polaroid](https://open.spotify.com/track/2gvi2caSU5dR8JlqWOtJHA) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Polaroid](https://open.spotify.com/album/5aCD1rMzLRMGS8my1lDomm) | 3:24 | 2026-02-13 |  |
+| [Pouring](https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Pouring](https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5) | 3:34 | 2026-08-27 |  |
 | [Pretty Girls](https://open.spotify.com/track/7lbQiRc7nKiZEJBoFBbisE) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [When You Know You Know](https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg) | 3:26 | 2026-04-17 |  |
 | [Pretty In Pink](https://open.spotify.com/track/7tbNHZI8MRf6BlksTrFAlM) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 2:56 | 2025-10-03 | 2026-02-21 |
 | [Pretty Much](https://open.spotify.com/track/1TeVzCFYaztQJj9FWKZmkL) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Pretty Much](https://open.spotify.com/album/7Gkdgo8kaulYc0GIP6gupB) | 4:39 | 2025-04-25 | 2025-06-21 |

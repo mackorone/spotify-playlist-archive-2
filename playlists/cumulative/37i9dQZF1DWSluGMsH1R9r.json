@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Dreaming Beyond The Horizon",
+        "url": "https://open.spotify.com/album/1xL63vR9F4o3hKGbXqjYnD"
+      },
+      "artists": [
+        {
+          "name": "Leyre Hart",
+          "url": "https://open.spotify.com/artist/2h1jzXo7ckWedFcCtZxgYv"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151955,
+      "name": "Dreaming Beyond The Horizon",
+      "url": "https://open.spotify.com/track/1mWjGFUS6psBjRkCrdfqeu"
+    },
+    {
+      "album": {
         "name": "Dried Out",
         "url": "https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX"
       },
@@ -3372,6 +3390,24 @@
       "duration_ms": 136991,
       "name": "Evanesce",
       "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
+    },
+    {
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/6Ac6qjg6v8d9uwPhZiurha"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Riedenthal",
+          "url": "https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146906,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/008fjtDWw3Z6aHgd1HbyCu"
     },
     {
       "album": {
@@ -8586,7 +8622,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 131583,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie"

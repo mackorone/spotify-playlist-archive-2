@@ -18867,6 +18867,24 @@
     },
     {
       "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/0Y0UHEQiDHYkcpL5bZN3r3"
+      },
+      "artists": [
+        {
+          "name": "Lazy Lama",
+          "url": "https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89142,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/5eXSKTmAXv8NmBXeDZV225"
+    },
+    {
+      "album": {
         "name": "Hopes n' Lusts",
         "url": "https://open.spotify.com/album/5sUncHibQvenjtPS22mKDP"
       },
@@ -24188,7 +24206,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 149000,
       "name": "Low",
       "url": "https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI"
@@ -25398,6 +25416,24 @@
       "duration_ms": 154981,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi"
+    },
+    {
+      "album": {
+        "name": "MayFlowers",
+        "url": "https://open.spotify.com/album/3ODicA66WKnh7BKbBPXJWp"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9lian",
+          "url": "https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124769,
+      "name": "MayFlowers",
+      "url": "https://open.spotify.com/track/13fu7JlOT1f1vvfJztISGI"
     },
     {
       "album": {
@@ -35679,6 +35715,24 @@
     },
     {
       "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/0qF8lclwLcRP36Guf9VvWc"
+      },
+      "artists": [
+        {
+          "name": "Floating Basket",
+          "url": "https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/6rRqi5PccEj7r6fMry7kZG"
+    },
+    {
+      "album": {
         "name": "serenity (I)",
         "url": "https://open.spotify.com/album/1wGgXVO8zhOmUD3UTf8g1W"
       },
@@ -44518,7 +44572,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 130285,
       "name": "Venture",
       "url": "https://open.spotify.com/track/69ygh9cOs0rCVBtEjXqzRa"

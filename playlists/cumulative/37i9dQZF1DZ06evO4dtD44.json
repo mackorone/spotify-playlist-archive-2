@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "O Mito (Digital Edition)",
+        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76277,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/2QNZSb9xMwUzZ6eepum6m2"
+    },
+    {
+      "album": {
         "name": "Chega de Saudade",
         "url": "https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 77293,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/45gBYIbizYRUtvVFsRIHAu"

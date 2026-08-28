@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec No\u00e9 Preszow.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Heroe.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "fleur",
+        "url": "https://open.spotify.com/album/35AIAUNRtCpafWqdss1Nfo"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155633,
+      "name": "fleur",
+      "url": "https://open.spotify.com/track/1Z4x3SgHhoizXZUBe80BzY"
+    },
+    {
+      "album": {
         "name": "Fleur bleue",
         "url": "https://open.spotify.com/album/6MluDynjZukZXNQ82wbBNX"
       },
@@ -2614,6 +2632,24 @@
       "duration_ms": 178320,
       "name": "La fresque",
       "url": "https://open.spotify.com/track/2eelhSfH6dy2EpAkidvsmE"
+    },
+    {
+      "album": {
+        "name": "La f\u00eate",
+        "url": "https://open.spotify.com/album/4FKUfsqYJ6eS7hgVVkja6K"
+      },
+      "artists": [
+        {
+          "name": "NATHAN",
+          "url": "https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148148,
+      "name": "La f\u00eate",
+      "url": "https://open.spotify.com/track/5Qw51GBTb1kkFuGO9otYdZ"
     },
     {
       "album": {
@@ -4380,7 +4416,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183576,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s"
@@ -5376,7 +5412,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 175794,
       "name": "Rien \u00e0 f\u00eater",
       "url": "https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3"
@@ -5549,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "samedi soir",
+        "url": "https://open.spotify.com/album/2aow7C3utYGjkFocqt5Pvr"
+      },
+      "artists": [
+        {
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227572,
+      "name": "samedi soir",
+      "url": "https://open.spotify.com/track/43mwnf4oJZJm4tBnFA4kQx"
+    },
+    {
+      "album": {
         "name": "contrebande 02. le disque de l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG"
       },
@@ -5658,7 +5712,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 208721,
       "name": "Seule",
       "url": "https://open.spotify.com/track/1J5H2xHZRSqoheMgsDpQfA"
@@ -6134,7 +6188,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 246968,
       "name": "Toute l'eau qui coule",
       "url": "https://open.spotify.com/track/7sI0sOYbt9POeWwalKfMdz"
@@ -6634,6 +6688,28 @@
       "duration_ms": 196800,
       "name": "\u00c6thernit\u00e9",
       "url": "https://open.spotify.com/track/0UDavOLP39jnNVJR1fg3wO"
+    },
+    {
+      "album": {
+        "name": "\u00c7a change quoi ?",
+        "url": "https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS"
+      },
+      "artists": [
+        {
+          "name": "Paul Roman",
+          "url": "https://open.spotify.com/artist/4WmJmadFvw4O76wPyjjGkO"
+        },
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150012,
+      "name": "\u00c7a change quoi ?",
+      "url": "https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq"
     },
     {
       "album": {

@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "1 na 1 000 000",
+        "url": "https://open.spotify.com/album/2N9diFOgmVEzRSkLQoDsBB"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "1 na 1 000 000",
+      "url": "https://open.spotify.com/track/7jMU2K9PjmI1tW0mG67Xqq"
+    },
+    {
+      "album": {
         "name": "ROCKST4R",
         "url": "https://open.spotify.com/album/0KSxsE8JF30bt34h0XSKN7"
       },
@@ -2934,7 +2956,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 151875,
       "name": "AIOLI",
       "url": "https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ"
@@ -20101,6 +20123,28 @@
     },
     {
       "album": {
+        "name": "GI\u0143 ZA MNIE",
+        "url": "https://open.spotify.com/album/7EHjqv4Eu3nt81MgZoNh9Y"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "GI\u0143 ZA MNIE",
+      "url": "https://open.spotify.com/track/2eJYQ014VhXL8AWclsMxqk"
+    },
+    {
+      "album": {
         "name": "Gladiator",
         "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
       },
@@ -26271,6 +26315,24 @@
     },
     {
       "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "album": {
         "name": "Jolie Jolie",
         "url": "https://open.spotify.com/album/11iiBc9zHpGhPrLWCgVZ2K"
       },
@@ -29156,7 +29218,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 196762,
       "name": "KR\u00d3LEWNA",
       "url": "https://open.spotify.com/track/5MOkYFeAGjpoqocEPlbABc"
@@ -30544,7 +30606,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 109124,
       "name": "LEPA",
       "url": "https://open.spotify.com/track/5V209N14zVkCdrL7AOUxx0"
@@ -44092,7 +44154,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 138360,
       "name": "PAY ME",
       "url": "https://open.spotify.com/track/5xWlIg1Ymp9mGxvwayG5Lv"
@@ -47444,7 +47506,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 203255,
       "name": "PRZY TOBIE",
       "url": "https://open.spotify.com/track/0XcA8Sa8YTCz5GacKTDy64"

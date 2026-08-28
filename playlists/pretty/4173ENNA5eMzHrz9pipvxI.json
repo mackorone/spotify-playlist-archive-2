@@ -1,13 +1,45 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: unfazed",
-  "num_followers": 117816,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: CYRIL",
+  "num_followers": 117808,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAh2T9j+n9cIYEHPtFzemkC1b73tBH0",
+  "snapshot_id": "AAAh3NX3BLQr6X5TOHcP2hN2+rjMnLLz",
   "tracks": [
+    {
+      "added_at": "2026-08-28 06:15:42",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
+    },
+    {
+      "added_at": "2026-08-28 06:15:53",
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/0IhNrkbGWOmyNjD78KedX4"
+      },
+      "artists": [
+        {
+          "name": "Chase Maverix",
+          "url": "https://open.spotify.com/artist/5yBWt5sObZOnI1XCsNCWfC"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/1kq25Me0b361sS3GRyVfgD"
+    },
     {
       "added_at": "2026-08-21 08:13:57",
       "album": {

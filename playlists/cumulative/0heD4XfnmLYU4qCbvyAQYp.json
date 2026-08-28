@@ -59,6 +59,46 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3beMNU6D4T0tGCafy9ogHl"
+      },
+      "artists": [
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/3IcHQz5yyO1XOXcBJv7Ng8"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194508,
+      "name": "Alive - Radio Mix",
+      "url": "https://open.spotify.com/track/7pBej7hqxOtuJLTOFPhtjU"
+    },
+    {
+      "album": {
+        "name": "All of the Secrets",
+        "url": "https://open.spotify.com/album/7DvcV1EG6EegUMmJ2HjzhM"
+      },
+      "artists": [
+        {
+          "name": "Jeffro Bean",
+          "url": "https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok"
+        },
+        {
+          "name": "J.D. Minor",
+          "url": "https://open.spotify.com/artist/7vtyibQSoRMsbVnvOcjgiQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "All of the Secrets",
+      "url": "https://open.spotify.com/track/75I2z8EnpgGZE5aNz7ELhf"
+    },
+    {
+      "album": {
         "name": "All That We Need",
         "url": "https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq"
       },
@@ -762,6 +802,24 @@
       "duration_ms": 442666,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg"
+    },
+    {
+      "album": {
+        "name": "Estate Italiana for Dummies",
+        "url": "https://open.spotify.com/album/5r6cFIfyGFRVE2BZJuqOpx"
+      },
+      "artists": [
+        {
+          "name": "Nicil",
+          "url": "https://open.spotify.com/artist/7LdO6BQKunnD0d7kdszVh2"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157718,
+      "name": "Dove sei",
+      "url": "https://open.spotify.com/track/0yBrHsqwQG773gOSftp06o"
     },
     {
       "album": {
@@ -1879,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Six Days and A Single Dime",
+        "url": "https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX"
+      },
+      "artists": [
+        {
+          "name": "The Blacktop Bandits",
+          "url": "https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129764,
+      "name": "One Hand on the Wheel, One on the Beer",
+      "url": "https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym"
+    },
+    {
+      "album": {
         "name": "One More Second",
         "url": "https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk"
       },
@@ -2060,6 +2136,24 @@
       "duration_ms": 178989,
       "name": "Quiet Mirror",
       "url": "https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z"
+    },
+    {
+      "album": {
+        "name": "trilogy III",
+        "url": "https://open.spotify.com/album/3HaR4aWTZ7rkqi2Fu4xT0Z"
+      },
+      "artists": [
+        {
+          "name": "Fatbird Finch",
+          "url": "https://open.spotify.com/artist/7yZ5D7yiDIZdp49aGOcere"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218760,
+      "name": "quiver with a scream",
+      "url": "https://open.spotify.com/track/2SxsblFeKWRPVWjy51Gmdb"
     },
     {
       "album": {
@@ -3000,6 +3094,24 @@
       "duration_ms": 240085,
       "name": "You Got The Chops",
       "url": "https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw"
+    },
+    {
+      "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva"
+      },
+      "artists": [
+        {
+          "name": "PeterLs",
+          "url": "https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md"
     },
     {
       "album": {

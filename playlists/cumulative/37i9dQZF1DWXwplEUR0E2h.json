@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Hag\u00e1moslo Real",
+        "url": "https://open.spotify.com/album/5MlSlHLvo9NFh8aV8H1uJT"
+      },
+      "artists": [
+        {
+          "name": "SAI",
+          "url": "https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166812,
+      "name": "Hag\u00e1moslo Real",
+      "url": "https://open.spotify.com/track/0DPWsdqgw4BXDc7QV5xLYV"
+    },
+    {
+      "album": {
         "name": "EL MEJOR HOMBRE DEL MUNDO",
         "url": "https://open.spotify.com/album/6fdaLD9AcFrRO32HjRHyq8"
       },
@@ -4142,7 +4160,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186818,
       "name": "Poes\u00eda Moderna (Remix)",
       "url": "https://open.spotify.com/track/3STgMfGV4RWs0nuSyQjtBf"
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 148085,
       "name": "T\u00edRAteLo",
       "url": "https://open.spotify.com/track/2SQK0hM3vPpk7CBCno53gh"

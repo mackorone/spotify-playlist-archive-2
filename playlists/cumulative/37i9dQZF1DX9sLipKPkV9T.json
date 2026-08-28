@@ -4109,6 +4109,24 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05e9\u05e2\u05d4 \u05d8\u05d5\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/6BVvlH4vQ1kbfPaIIuVVpE"
+      },
+      "artists": [
+        {
+          "name": "Harel Skaat",
+          "url": "https://open.spotify.com/artist/3kZ7g7lW0eeBtoNxtw6zZY"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "\u05d1\u05e9\u05e2\u05d4 \u05d8\u05d5\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/4wiNFROgMACU9AdrWXj9OF"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d8\u05d0\u05d5\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3LvbmsmPecVq9ENwT0kW86"
       },
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 212641,
       "name": "\u05d2\u05d9\u05d1\u05d5\u05e8 \u05de\u05e0\u05d9\u05d9\u05e8",
       "url": "https://open.spotify.com/track/2VgcII6aKobzryNqTt0mfn"
@@ -6406,6 +6424,24 @@
       "duration_ms": 231000,
       "name": "\u05d7\u05d9 \u05d1\u05d0\u05e0\u05e9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6N3FM8RgFBVElijPWpGUjJ"
+    },
+    {
+      "album": {
+        "name": "\u05d7\u05d9\u05d6\u05dc\"\u05e9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/589scGiykt7YGSWs0Gcr1L"
+      },
+      "artists": [
+        {
+          "name": "\u05dc\u05d9\u05d1\u05d9",
+          "url": "https://open.spotify.com/artist/6i6cYhUsMaxv83MXcZh3PH"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151935,
+      "name": "\u05d7\u05d9\u05d6\u05dc\"\u05e9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/78xRG1G6qEXKY2mvIsWCvn"
     },
     {
       "album": {
@@ -9337,6 +9373,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d4\u05e4\u05e0\u05d8",
+        "url": "https://open.spotify.com/album/2CpwiTegJmyq6ZoeUPupbV"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d5\u05e2\u05dd \u05e7\u05dc\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+          "url": "https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u05de\u05d4\u05e4\u05e0\u05d8",
+      "url": "https://open.spotify.com/track/5bMbiBHgiwxKwCKl4DbbHR"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
         "url": "https://open.spotify.com/album/7arNglLP1SeJUbR2IFETpn"
       },
@@ -9623,6 +9677,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05e0\u05d4 \u05d1\u05d0\u05d5 \u05d4\u05d9\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/669dNAl68nQFrFmzeEkJ88"
+      },
+      "artists": [
+        {
+          "name": "Yuval Dayan",
+          "url": "https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225778,
+      "name": "\u05de\u05d9 \u05d4\u05d9\u05d4 \u05de\u05d0\u05de\u05d9\u05df",
+      "url": "https://open.spotify.com/track/2Y2EfINr0vztogGIdbz6Ax"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d9\u05d5\u05dd \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
         "url": "https://open.spotify.com/album/4xFAmgtwkQT8so8qjq1tLj"
       },
@@ -9634,7 +9706,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 169100,
       "name": "\u05de\u05d9 \u05db\u05de\u05d5\u05da",
       "url": "https://open.spotify.com/track/2yH03a0XgThy4Q9OCT6b0W"
@@ -13650,7 +13722,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 264566,
       "name": "\u05ea\u05e1\u05ea\u05db\u05dc \u05dc\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1bDuxIdWIwjxa2hKIcp7L7"
@@ -13668,7 +13740,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 163000,
       "name": "\u05ea\u05e7\u05d5\u05e4\u05d4",
       "url": "https://open.spotify.com/track/3u1Bn1IGwuUIBFzmBO1fQ7"

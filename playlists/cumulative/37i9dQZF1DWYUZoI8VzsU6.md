@@ -4,7 +4,7 @@
 
 > back roads up loud with Fox N' Vead
 
-87 songs - 4 hr 51 min
+88 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 | 2025-09-05 |  |
 | [Relapse](https://open.spotify.com/track/78DcrUOhBhVod09vFiXn7P) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 2:38 | 2025-09-05 |  |
 | [Ride](https://open.spotify.com/track/53VPFVW3aLdNlb4gNetXwS) | [Fox N' Vead](https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm) | [Ride](https://open.spotify.com/album/7G36cofedpDe1Y5JvuAvnw) | 3:18 | 2026-05-29 |  |
+| [Right Now](https://open.spotify.com/track/1C28jPzvhdWeyfNrkPaa2Z) | [Telander](https://open.spotify.com/artist/6Pe957QMENAWMZF7ityC81), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Right Now](https://open.spotify.com/album/026tatxGuuqA3HS6qrIZBG) | 2:52 | 2026-08-28 |  |
 | [ROCK BOTTOM](https://open.spotify.com/track/0jZFZA3lTGL5SM3GEgNGSy) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [KINDA HARD](https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU) | 2:47 | 2026-04-10 |  |
 | [Run From You](https://open.spotify.com/track/0MFkks40clRTBU42zqzUrq) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg) | [Run From You](https://open.spotify.com/album/4JvobFBALQHpzPXpoTfnfv) | 3:26 | 2025-11-07 |  |
 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2025-09-05 |  |

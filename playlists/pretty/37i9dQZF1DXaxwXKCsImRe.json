@@ -1,15 +1,63 @@
 {
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:0BFood0cmj86LkpdOArhNs\">Langa</a> ",
-  "num_followers": 8150,
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:2qVi7G7OjgVXyl9zxabzTQ\">Sarah Julia</a> ",
+  "num_followers": 8153,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEX5GEGTfybUhuUfz4hILHOdZOuc",
+  "snapshot_id": "AAAAAHANQGHaqIAs3DPNNDJb+JcV8AZ9",
   "tracks": [
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
+        "name": "Therapist's Daughter",
+        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 173593,
+      "name": "Therapist's Daughter",
+      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
+        "name": "Whatever It Takes (Break Your Heart)",
+        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "Whatever It Takes (Break Your Heart)",
+      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Bottega",
         "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Op Een Go",
         "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
@@ -49,7 +97,7 @@
       "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -73,7 +121,7 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Lose My Life",
         "url": "https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
@@ -121,55 +169,7 @@
       "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
-      "album": {
-        "name": "Wishing Stone",
-        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Wishing Stone",
-      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
-    },
-    {
-      "added_at": "2026-08-20 22:00:11",
-      "album": {
-        "name": "Whatever It Takes (Break Your Heart)",
-        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 175588,
-      "name": "Whatever It Takes (Break Your Heart)",
-      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
-    },
-    {
-      "added_at": "2026-08-20 22:00:11",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Vuurwerk",
         "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Ereronde",
         "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Alles Wat Ik Nodig Heb",
         "url": "https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Tranen Van Goud",
         "url": "https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Sluit Me In Je Armen",
         "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Huisje Aan De Zee",
         "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Ik Zing (feat. Snelle)",
         "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Beter Zo",
         "url": "https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/1k781LjKYC3QydP3Iqi42x"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4YJmG1aLGeRXrrOm3QqHJ0"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "WIE?",
         "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Slow Death Of A Good Girl",
         "url": "https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Bowie's Pressure",
         "url": "https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Youman",
         "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Uitslover",
         "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Echte Liefde Is Te Koop - Spotify Singles",
         "url": "https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
     },
     {
-      "added_at": "2026-08-20 22:00:11",
+      "added_at": "2026-08-27 22:00:56",
       "album": {
         "name": "Alles Kan Kapot",
         "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"

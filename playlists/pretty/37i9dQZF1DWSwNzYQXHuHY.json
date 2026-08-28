@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12850,
+  "num_followers": 12852,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Lovely Runner, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX"
-      },
-      "artists": [
-        {
-          "name": "UMJI",
-          "url": "https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "May I Love You?",
-      "url": "https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "Lovely Runner, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX"
+      },
+      "artists": [
+        {
+          "name": "UMJI",
+          "url": "https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "May I Love You?",
+      "url": "https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "You're Mine, You're My Man",
-        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
-      },
-      "artists": [
-        {
-          "name": "LEE JI MIN",
-          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "You're Mine, You're My Man",
-      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "Wanna Love You",
         "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 220472,
       "name": "Wanna Love You",
       "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "You're Mine, You're My Man",
+        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
+      },
+      "artists": [
+        {
+          "name": "LEE JI MIN",
+          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "You're Mine, You're My Man",
+      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "STAYC Special Single [I WANT IT]",
-        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 181972,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
         "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 173124,
       "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 181972,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Raindrop",
-        "url": "https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct"
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
       "artists": [
         {
-          "name": "HYUN SEO",
-          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Raindrop",
-      "url": "https://open.spotify.com/track/249anPnRxbDIAERScEBEkK"
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+        "name": "Raindrop",
+        "url": "https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct"
       },
       "artists": [
         {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+          "name": "HYUN SEO",
+          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
         }
       ],
-      "duration_ms": 257666,
-      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
+      "duration_ms": 170000,
+      "name": "Raindrop",
+      "url": "https://open.spotify.com/track/249anPnRxbDIAERScEBEkK"
     },
     {
       "added_at": "2026-07-03 07:31:26",

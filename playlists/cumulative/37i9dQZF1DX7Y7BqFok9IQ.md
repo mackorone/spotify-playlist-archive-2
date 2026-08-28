@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Ghost Hounds
 
-426 songs - 1 day 3 hr 22 min
+428 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 | 2025-09-26 |  |
 | [Everything I Need](https://open.spotify.com/track/049Im0p8yz9HJfkD6bmTJS) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Everything I Need](https://open.spotify.com/album/3BIDHTj4CA6YY6yCMehep3) | 3:26 | 2025-11-21 |  |
 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 | 2025-05-23 | 2026-01-17 |
+| [Evil Is a Corporation](https://open.spotify.com/track/1blW8N8bhFYbgurRHB9EnG) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Evil Is a Corporation](https://open.spotify.com/album/1XrnxEdb5uBnq06fw5xX5u) | 2:54 | 2026-08-28 |  |
 | [Feeling Lucky](https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Feeling Lucky](https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW) | 5:52 | 2025-02-14 | 2025-03-15 |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2023-09-30 |
@@ -127,6 +128,7 @@
 | [Freedom](https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J) | [Jason Lee McKinney Band](https://open.spotify.com/artist/4jKq5mpInUqZWJ8v3R92ap) | [One Last Thing](https://open.spotify.com/album/63XFht5dOCm0P15cxEm2pv) | 3:39 | 2022-03-25 | 2026-08-01 |
 | [Freedom \- Single Version](https://open.spotify.com/track/0Kdu2qRBfCRJJdWtEdKFjL) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Freedom](https://open.spotify.com/album/5XOGc9cd6GPupHK5OiC5FD) | 3:14 | 2026-01-30 |  |
 | [Future Soul](https://open.spotify.com/track/41QtY7hxoAFWC8yMIzxu43) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Future Soul](https://open.spotify.com/album/3ju1yk14EAVB3156tIylfI) | 3:19 | 2026-03-20 |  |
+| [Gasoline](https://open.spotify.com/track/5bHseWHA6zofdrsWEl8jWC) | [Ian Elliott](https://open.spotify.com/artist/2JgNh1CalUUnBExShZ7nQe) | [Gasoline](https://open.spotify.com/album/7mbqzYaU8GmuoGr3Vp9iVv) | 4:07 | 2026-08-28 |  |
 | [Get Out](https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Get Out](https://open.spotify.com/album/0cdFr8n7xLEV616xKYN2kT) | 2:41 | 2022-06-10 | 2022-07-23 |
 | [Get Your Head Right](https://open.spotify.com/track/0iPRmHlbc2egmnpS1GEz4I) | [Jim Suhler & Monkey Beat](https://open.spotify.com/artist/60iSiwrXbu8RweNR6ZvAG6) | [Get Your Head Right](https://open.spotify.com/album/4Y6VXXguQxpZz2vY79fg5u) | 3:27 | 2023-02-03 |  |
 | [Gets Me so High](https://open.spotify.com/track/0OZOk21ZTDXptdd1X6ki6p) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 4:43 | 2023-05-26 |  |
@@ -299,7 +301,7 @@
 | [Put Your Money On Me](https://open.spotify.com/track/3nFZSnjeCfNLVFPK1nnXZF) | [The Answer](https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS) | [Put Your Money On Me](https://open.spotify.com/album/7MyvRRf3JcTp4R4J3iXC0B) | 3:07 | 2024-03-22 |  |
 | [Queen of Hearts](https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Queen of Hearts](https://open.spotify.com/album/5h647p839GyskOFAlaYj1l) | 5:00 | 2026-02-27 | 2026-04-11 |
 | [Ready for More](https://open.spotify.com/track/3qCcj7VVDZtiCo8LASZQyG) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:24 | 2023-06-16 |  |
-| [Red Gorilla](https://open.spotify.com/track/1y4lKMU8Ie4ajVLfJha9Yk) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Red Gorilla](https://open.spotify.com/album/2BB6XJDQOElVgufDnj1GGH) | 3:43 | 2026-07-31 |  |
+| [Red Gorilla](https://open.spotify.com/track/1y4lKMU8Ie4ajVLfJha9Yk) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Red Gorilla](https://open.spotify.com/album/2BB6XJDQOElVgufDnj1GGH) | 3:43 | 2026-07-31 | 2026-08-28 |
 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 | 2024-05-24 | 2024-07-06 |
 | [Renegade Season](https://open.spotify.com/track/4YcPEgiT0kbnidJYw7OyUb) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Only The Wild Ones](https://open.spotify.com/album/23987SO39NcnKh9gtceZKf) | 4:36 | 2023-05-05 |  |
 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 | 2023-03-04 |
@@ -339,7 +341,7 @@
 | [Stand Up](https://open.spotify.com/track/24GtJcOJHupzE0zXfsqaTj) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go), [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ) | [Stand Up](https://open.spotify.com/album/2iQPYApeM3GraUn8UZzJwB) | 3:32 | 2024-06-28 |  |
 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2020-10-16 | 2025-09-27 |
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2021-08-27 | 2024-04-19 |
-| [Step Aside](https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Step Aside](https://open.spotify.com/album/3uIHyMh4N7MtVz078AXchj) | 4:07 | 2021-08-27 |  |
+| [Step Aside](https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Step Aside](https://open.spotify.com/album/3uIHyMh4N7MtVz078AXchj) | 4:07 | 2021-08-27 | 2026-08-28 |
 | [Still Alive and Well](https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Still Alive and Well](https://open.spotify.com/album/0pzypZjas4pni7g8u3xj5a) | 3:37 | 2022-04-26 |  |
 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 | 2024-05-24 | 2024-07-06 |
 | [Still No Good](https://open.spotify.com/track/7BmBO5pX8clT3vcZHmMkX2) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Still No Good](https://open.spotify.com/album/2QhsqBj5eOk6Mfg2f92DKW) | 3:27 | 2026-06-12 |  |

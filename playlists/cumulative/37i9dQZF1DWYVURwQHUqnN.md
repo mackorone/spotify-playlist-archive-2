@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Gradur
+> Photo : Gambi
 
-622 songs - 1 day 4 hr 32 min
+624 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,12 +122,13 @@
 | [chAmpagne](https://open.spotify.com/track/6jA2JzaXl46LbUeXTe99Yh) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [chAmpagne](https://open.spotify.com/album/1Z0P6rNbVqaH68Rgz1ro9Q) | 3:02 | 2026-06-11 | 2026-07-10 |
 | [Champs\-Elysées](https://open.spotify.com/track/0L0EUIiVNMHGAoMkxKiZAc) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Champs\-Elysées](https://open.spotify.com/album/50n0otnT9R0vnjFqeuSCNu) | 2:32 | 2026-06-18 | 2026-07-31 |
 | [Chaud \(3X\)](https://open.spotify.com/track/2EV1rDXHS2SPny3Ze4plqa) | [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Chaud \(3X\)](https://open.spotify.com/album/6xnBINMMlBgGTsUlt17WAb) | 2:04 | 2026-04-16 | 2026-05-22 |
-| [CHETOU](https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU), [JKDM](https://open.spotify.com/artist/1ZnkQoMIqX3MOMYju1boa5) | [CHETOU](https://open.spotify.com/album/4Z7mcih5os6vGp9Wa4xfdG) | 2:48 | 2026-07-23 |  |
+| [CHETOU](https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU), [JKDM](https://open.spotify.com/artist/1ZnkQoMIqX3MOMYju1boa5) | [CHETOU](https://open.spotify.com/album/4Z7mcih5os6vGp9Wa4xfdG) | 2:48 | 2026-07-23 | 2026-08-28 |
 | [CHIC](https://open.spotify.com/track/2O0PyqI1NcZaBexnZRTVph) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr), [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [CHIC](https://open.spotify.com/album/0SGCy198gEl9SSfGvyoPhT) | 2:34 | 2026-05-07 | 2026-06-05 |
 | [Chipie](https://open.spotify.com/track/4GaTi5LEmGxCOeYQ05yNPF) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi / Piccolo](https://open.spotify.com/album/6CZVGOnFHvFfwL1dAEcdYc) | 2:22 | 2025-09-04 | 2025-09-27 |
 | [Choco Choco](https://open.spotify.com/track/5tI73fA7h63cAcIf3c4CBN) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Choco Choco](https://open.spotify.com/album/4jOEbgU3sMXTEIGmWjZzpq) | 3:20 | 2026-04-09 | 2026-06-05 |
 | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc) | 2:50 | 2025-07-24 | 2025-09-05 |
-| [CHRISTIAN DIOR](https://open.spotify.com/track/3j3L6nvfidj1eZoKTm9w4f) | [Mougli](https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl) | [CHRISTIAN DIOR](https://open.spotify.com/album/7g99lYKLGip8dkdx5hHZSv) | 2:09 | 2026-07-23 |  |
+| [CHOUCHOU](https://open.spotify.com/track/3uXidY01yR5pKdk7xTGSn4) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CHOUCHOU](https://open.spotify.com/album/5K5D26lByVf171TQKpZ3zZ) | 2:46 | 2026-08-27 |  |
+| [CHRISTIAN DIOR](https://open.spotify.com/track/3j3L6nvfidj1eZoKTm9w4f) | [Mougli](https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl) | [CHRISTIAN DIOR](https://open.spotify.com/album/7g99lYKLGip8dkdx5hHZSv) | 2:09 | 2026-07-23 | 2026-08-28 |
 | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/track/5cRB7bjIxlRw1WE1s6mSob) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/album/64tJiJFVMWd0EbFXQu3bfi) | 2:45 | 2026-04-09 | 2026-06-19 |
 | [Cleopatra](https://open.spotify.com/track/7xkOpZUJgKGdtM1jKzxbuw) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Cleopatra](https://open.spotify.com/album/4jPqEGoEVD2cer3Qm78kUw) | 4:33 | 2023-09-28 | 2023-10-13 |
 | [COACHELLA](https://open.spotify.com/track/0tG22TBE28k4hEr69YbPjX) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [COACHELLA](https://open.spotify.com/album/0RNAqjv9UZVe9lcu0bL9LD) | 1:57 | 2025-06-19 | 2025-07-11 |
@@ -424,6 +425,7 @@
 | [Pas besoin de toi](https://open.spotify.com/track/5qaKyps348j6M5NkP4n6h9) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Pas besoin de toi](https://open.spotify.com/album/1VdP0hVjcgPUtE2bM8DUp8) | 2:08 | 2026-06-04 | 2026-07-03 |
 | [Pas bénef](https://open.spotify.com/track/0Yj8YEKajzJLetLzQA0DxK) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Pas bénef](https://open.spotify.com/album/2z1vNsKXAA72YzqFrAHd7s) | 2:38 | 2026-07-09 | 2026-08-14 |
 | [Pas Changer](https://open.spotify.com/track/470Tgxw94PIHrvOZp7NizG) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8) | [Pas Changer](https://open.spotify.com/album/2XMtidA1dIJjjeZpRgVtZP) | 2:15 | 2026-03-26 | 2026-04-24 |
+| [PAS COMME LES AUTRES](https://open.spotify.com/track/7IhB9WKWuEISgm34K2R9no) | [Mougli](https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl) | [PAS COMME LES AUTRES](https://open.spotify.com/album/5AXwPOdRA98SYWvwdva5e9) | 1:48 | 2026-08-27 |  |
 | [Pas d'ralentir](https://open.spotify.com/track/5uROWvo0OIQTWktn6vkZTe) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [TALAL](https://open.spotify.com/album/4CwmOmzQRDheNeehHE24CI) | 2:17 | 2026-07-02 | 2026-07-31 |
 | [Pas les mots](https://open.spotify.com/track/5EvhoSHeimcPmYB9f4DhND) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Pas les mots](https://open.spotify.com/album/5dufV0lmFg19yoQaFIwXxa) | 3:30 | 2023-12-08 | 2024-01-19 |
 | [Pas les mêmes go](https://open.spotify.com/track/2bCT9q1I962xiq1nVg2Vr0) | [DVM](https://open.spotify.com/artist/6Tzkt668w24f7uHLTiq6tr), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Pas les mêmes go](https://open.spotify.com/album/6qa4XL0AQznbaeX6IWSqSV) | 2:23 | 2025-06-19 | 2025-07-04 |

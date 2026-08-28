@@ -518,7 +518,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172596,
       "name": "Allt jag har",
       "url": "https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G"
@@ -2702,6 +2702,24 @@
       "duration_ms": 155694,
       "name": "D\u00d6",
       "url": "https://open.spotify.com/track/6xQhvjACkxeuaRIH25UizF"
+    },
+    {
+      "album": {
+        "name": "D\u00f6den ut",
+        "url": "https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "D\u00f6den ut",
+      "url": "https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742"
     },
     {
       "album": {
@@ -5508,6 +5526,24 @@
       "duration_ms": 205685,
       "name": "I\u2019m gonna die",
       "url": "https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq"
+    },
+    {
+      "album": {
+        "name": "Jack & Coke",
+        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Jack & Coke",
+      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
     },
     {
       "album": {

@@ -89,6 +89,76 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/0zzINECUPOJ7iO0DNw60fQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)",
+          "url": "https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2"
+        },
+        {
+          "name": "\u30ca\u30ea\u30bf\u30d6\u30e9\u30a4\u30a2\u30f3 (CV. \u8863\u5ddd\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO"
+        },
+        {
+          "name": "\u30d3\u30ef\u30cf\u30e4\u30d2\u30c7 (CV. \u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk"
+        },
+        {
+          "name": "\u30c8\u30e9\u30f3\u30bb\u30f3\u30c9 (CV. \u585a\u7530\u60a0\u8863)",
+          "url": "https://open.spotify.com/artist/7IxilqqfqYRowm1sO9y8ey"
+        },
+        {
+          "name": "\u30c9\u30a5\u30e9\u30e1\u30f3\u30c6 (CV. \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/4lTTjcjh8UlGSJEKskZnoF"
+        },
+        {
+          "name": "\u30d6\u30a8\u30ca\u30d3\u30b9\u30bf (CV. \u548c\u6cc9\u98a8\u82b1)",
+          "url": "https://open.spotify.com/artist/3ma40KMu3hLS3xNTSmUrjd"
+        },
+        {
+          "name": "\u30a8\u30d4\u30d5\u30a1\u30cd\u30a4\u30a2 (CV. \u5343\u8cc0\u5149\u8389)",
+          "url": "https://open.spotify.com/artist/7vI36mvsWrpfa834C53X81"
+        },
+        {
+          "name": "\u30ed\u30b4\u30bf\u30a4\u30d7 (CV. \u9ad9\u6a4b\u7f8e\u7a7a)",
+          "url": "https://open.spotify.com/artist/51pb9lS7U3nemKSk5vNAgU"
+        },
+        {
+          "name": "\u30f4\u30a3\u30af\u30c8\u30ef\u30fc\u30eb\u30d4\u30b5 (CV. \u5d8b\u91ce \u82b1)",
+          "url": "https://open.spotify.com/artist/348qmJy6ym6VYVcxpviRMr"
+        },
+        {
+          "name": "\u30eb\u30fc\u30e9\u30fc\u30b7\u30c3\u30d7 (CV. \u6d77\u91ce\u6c34\u7389)",
+          "url": "https://open.spotify.com/artist/5BSVB6yLcPsN0xpqQKce5Z"
+        },
+        {
+          "name": "\u30a8\u30d5\u30d5\u30a9\u30fc\u30ea\u30a2 (CV. \u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3Vx7sGNK3imQeT1ugyRY1g"
+        },
+        {
+          "name": "\u30bf\u30a4\u30c8\u30eb\u30db\u30eb\u30c0\u30fc (CV. \u83ef\u6210 \u7d50)",
+          "url": "https://open.spotify.com/artist/0vOasrpivvPjuRcG0GtNbK"
+        },
+        {
+          "name": "\u30d5\u30a1\u30ec\u30ce\u30d7\u30b7\u30b9 (CV. \u6d45\u898b\u6625\u90a3)",
+          "url": "https://open.spotify.com/artist/3L2qOGNaUjIVJn02Atwe9Q"
+        },
+        {
+          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
+          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211847,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/5RX9b0oBHxD19tORiLj3J2"
+    },
+    {
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
         "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
       },
@@ -1392,7 +1462,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 277613,
       "name": "U.M.A. NEW WORLD!!",
       "url": "https://open.spotify.com/track/4U3PW92efRw3m4v5dUeLiy"

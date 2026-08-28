@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,207 songs - 3 day 5 hr 53 min
+1,208 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [In a Lake](https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:04 | 2026-03-02 |  |
 | [In Heaven](https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:50 | 2023-11-19 | 2025-07-25 |
 | [in My Garden...](https://open.spotify.com/track/40xfJg6ZZXr3jRJkxJJZ0O) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 0:25 | 2024-01-29 |  |
+| [in my head](https://open.spotify.com/track/1s91QUzwrPMLlHK8DPOJ7h) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [come back down](https://open.spotify.com/album/4a0wDl4zpCX10gWbsB9VuJ) | 4:47 | 2026-08-27 |  |
 | [In Search of a Revival Part 1](https://open.spotify.com/track/5uublBvCrRoWOpwqNk40u8) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [In Search of a Revival](https://open.spotify.com/album/53iGXRquz0HTYwER9duEAM) | 0:51 | 2026-02-13 | 2026-02-18 |
 | [In Sharky Water](https://open.spotify.com/track/6MStSRrh6pePveL74rjJLI) | [Disco Inferno](https://open.spotify.com/artist/1YCFvBoIeRSc0HMU7fhUZA) | [D.I\. Go Pop](https://open.spotify.com/album/3Lw1772fKHpOpVxdMGNYa3) | 4:40 | 2026-08-26 |  |
 | [In the Darkness](https://open.spotify.com/track/2HO68dkF74HHG99eOmE4cP) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 2:01 | 2022-06-15 |  |

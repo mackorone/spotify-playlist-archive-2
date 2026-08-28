@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Dimension, Subsonic\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Rudimental, Original Koffee, Winny",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1897,6 +1897,32 @@
     },
     {
       "album": {
+        "name": "Bad Like We",
+        "url": "https://open.spotify.com/album/7u14rDTc5jKcEMHSWcbaK7"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138749,
+      "name": "Bad Like We",
+      "url": "https://open.spotify.com/track/0slrjKYwQth7FI29UX4KJh"
+    },
+    {
+      "album": {
         "name": "Bad To Me (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0sYcA8hhlj5cgbDtJ1kYxs"
       },
@@ -2296,7 +2322,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 202970,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
@@ -6236,7 +6262,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 201379,
       "name": "Detrimental",
       "url": "https://open.spotify.com/track/51KpGM5O4gfSuU0xH7db5K"
@@ -10326,6 +10352,28 @@
       "duration_ms": 204137,
       "name": "Gone Sleep",
       "url": "https://open.spotify.com/track/5T7OpBrCobyQSQQpcFF33j"
+    },
+    {
+      "album": {
+        "name": "Gone Too Far (feat. Debbie)",
+        "url": "https://open.spotify.com/album/0cA8CJGC0piSQVutbbnSCS"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244534,
+      "name": "Gone Too Far (feat. Debbie)",
+      "url": "https://open.spotify.com/track/050o8anUmNwNQUF4aHD559"
     },
     {
       "album": {
@@ -15076,7 +15124,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168988,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/2JT8Ey1EajEe1VNgBzl9Ut"
@@ -15250,6 +15298,28 @@
       "duration_ms": 157714,
       "name": "Luther",
       "url": "https://open.spotify.com/track/4CNSZaO2oRMnpKygQWm9XG"
+    },
+    {
+      "album": {
+        "name": "Luvstruck",
+        "url": "https://open.spotify.com/album/6j8kSOE7570sGdkEywqNtX"
+      },
+      "artists": [
+        {
+          "name": "Southside Spinners",
+          "url": "https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb"
+        },
+        {
+          "name": "Tantrum Desire",
+          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191043,
+      "name": "Luvstruck",
+      "url": "https://open.spotify.com/track/1h2OnssnIvGfBbLxqoMXy2"
     },
     {
       "album": {
@@ -17162,7 +17232,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 169292,
       "name": "Night Is Gone",
       "url": "https://open.spotify.com/track/7xh1GRHnE4VTwDSGHE6PtA"
@@ -18436,6 +18506,28 @@
       "duration_ms": 240676,
       "name": "Out Of My Head (feat. Cherryade)",
       "url": "https://open.spotify.com/track/4LQ5kRz9xJzzDtXu6NeJXH"
+    },
+    {
+      "album": {
+        "name": "Out Of Order",
+        "url": "https://open.spotify.com/album/0sIklElM0n5HrCtjYZwpSr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Out Of Order",
+      "url": "https://open.spotify.com/track/0d9O4v0lfZFPIdo2mXkGyX"
     },
     {
       "album": {
@@ -20930,7 +21022,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 155862,
       "name": "Roll it up (20 past 4 anthem)",
       "url": "https://open.spotify.com/track/77YD079zdGquATTtu8VRiG"
@@ -20956,6 +21048,28 @@
       "duration_ms": 186614,
       "name": "Round To Ya Speaker",
       "url": "https://open.spotify.com/track/2KriMN9ZBNzSVYG7geNFs7"
+    },
+    {
+      "album": {
+        "name": "Round Town",
+        "url": "https://open.spotify.com/album/49u2bCDZisKFUceNyxKn4l"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Olivia Rose",
+          "url": "https://open.spotify.com/artist/0TiRArM5MxSef6ntzpRWoK"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Round Town",
+      "url": "https://open.spotify.com/track/3rkYvGhyYpWkEOdtCA8Kc0"
     },
     {
       "album": {
@@ -21784,6 +21898,32 @@
       "duration_ms": 246617,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/0YMxtPDNnm6HB38mzwlyWJ"
+    },
+    {
+      "album": {
+        "name": "Send Shots",
+        "url": "https://open.spotify.com/album/68StQRtOUcywtJN19YKfcZ"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159423,
+      "name": "Send Shots",
+      "url": "https://open.spotify.com/track/2l8RyIEP6A1aPkM2EVecNY"
     },
     {
       "album": {
@@ -25113,6 +25253,32 @@
     },
     {
       "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/65nUXlcBE8EUG5RZg56gZr"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "TomInTheChamber",
+          "url": "https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203988,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/5vmIskAaWuj49nrHTL2FbL"
+    },
+    {
+      "album": {
         "name": "The Time Is Now",
         "url": "https://open.spotify.com/album/2TYE9xneaoElu4uel4p7h3"
       },
@@ -27199,6 +27365,24 @@
     },
     {
       "album": {
+        "name": "What A Waste",
+        "url": "https://open.spotify.com/album/6f1YjJltiPE5Knq10i5BsN"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183941,
+      "name": "What A Waste",
+      "url": "https://open.spotify.com/track/3AEEXDf0D6dnF1YySqpDY1"
+    },
+    {
+      "album": {
         "name": "What Can I Do",
         "url": "https://open.spotify.com/album/1B2434Cr2Q9G09VJbkc8k0"
       },
@@ -27594,7 +27778,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 195883,
       "name": "White Wine",
       "url": "https://open.spotify.com/track/1P6ixf80XyBAxYZe9mtE7U"
@@ -27634,7 +27818,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 146915,
       "name": "Whole Place Lift",
       "url": "https://open.spotify.com/track/5qBkr45TSiCMMsVrwicIFk"
@@ -27938,7 +28122,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 276034,
       "name": "Wings",
       "url": "https://open.spotify.com/track/5XoEtgy9X6oOofSFODcN6p"

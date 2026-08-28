@@ -1385,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "Ilumina",
+        "url": "https://open.spotify.com/album/3qUCGLswiZwsi0EGL5mG15"
+      },
+      "artists": [
+        {
+          "name": "Nathan Stade",
+          "url": "https://open.spotify.com/artist/77Egfx3NIgMXywP0ywmi6m"
+        },
+        {
+          "name": "An Tran",
+          "url": "https://open.spotify.com/artist/4zcI1nMuObqx7zEzZf0qxi"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "The Park Bench",
+      "url": "https://open.spotify.com/track/4dtrV6Tcga0pwfiPyrxk8P"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
         "url": "https://open.spotify.com/album/5NZeobdPF0gjjynPpSLf3d"
       },

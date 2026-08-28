@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Shortstraw",
+  "description": "The best new and classic South African Rock. Cover: Francois van Coke & Zaan Sonnekus",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 207773,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "B-Sides",
+        "url": "https://open.spotify.com/album/3zCewR7zOx3lM2pqDL3nsb"
+      },
+      "artists": [
+        {
+          "name": "Marlowe",
+          "url": "https://open.spotify.com/artist/55AEMJuSnZDxamdYP4zT59"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305658,
+      "name": "Breathe Here Comes the Panic",
+      "url": "https://open.spotify.com/track/1RJjLIbSRaA46rr45wtjKo"
+    },
+    {
+      "album": {
         "name": "Bring Me Home",
         "url": "https://open.spotify.com/album/5l7NWTB7wrNwWXT2q0r4ow"
       },
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 200625,
       "name": "By Jou",
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
@@ -6508,7 +6526,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 132283,
       "name": "Groen en Goud",
       "url": "https://open.spotify.com/track/4ECZ8E595VQ5yQFMtCT7s2"
@@ -6851,6 +6869,28 @@
     },
     {
       "album": {
+        "name": "Helkat",
+        "url": "https://open.spotify.com/album/3HUSvMpH1QHRRcpDURQNe1"
+      },
+      "artists": [
+        {
+          "name": "TonnelVisie",
+          "url": "https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT"
+        },
+        {
+          "name": "SAMPAULE",
+          "url": "https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234463,
+      "name": "Helkat",
+      "url": "https://open.spotify.com/track/7HVv7sMBxx6HLffNs881ld"
+    },
+    {
+      "album": {
         "name": "Hello Crazy World -10th Anniversary Special",
         "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
       },
@@ -7046,7 +7086,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
@@ -8332,7 +8372,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
@@ -9282,6 +9322,28 @@
       "duration_ms": 179000,
       "name": "Let's Lose Our Minds",
       "url": "https://open.spotify.com/track/7czgLEdXVU7oZKAP8izt9x"
+    },
+    {
+      "album": {
+        "name": "LEWE",
+        "url": "https://open.spotify.com/album/78DUWRDY8l6abxg18AZ1xM"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166531,
+      "name": "LEWE",
+      "url": "https://open.spotify.com/track/5OcPA6RnXawZZoNK0ytZxn"
     },
     {
       "album": {
@@ -16893,6 +16955,24 @@
     },
     {
       "album": {
+        "name": "VIR DIE HUIS",
+        "url": "https://open.spotify.com/album/7fhkVuovpSaqsGdq5JQKdr"
+      },
+      "artists": [
+        {
+          "name": "Bcom",
+          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145253,
+      "name": "VIR DIE HUIS",
+      "url": "https://open.spotify.com/track/6uEfoQrvM9GTl10gb7LGIN"
+    },
+    {
+      "album": {
         "name": "Vir Ewig",
         "url": "https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ"
       },
@@ -17066,7 +17146,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 235568,
       "name": "Vriende",
       "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"

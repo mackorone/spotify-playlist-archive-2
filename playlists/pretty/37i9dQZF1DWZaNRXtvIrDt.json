@@ -1,18 +1,46 @@
 {
-  "description": "A new world of alternative electronic music. Cover: RONA",
-  "num_followers": 128953,
+  "description": "A new world of alternative electronic music. Cover: Lady Shaka",
+  "num_followers": 128940,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxCQVrJOocLhVxSf7cfjN3GTWI5",
+  "snapshot_id": "AAAAANcs3tv5mjDZsVibVHvNpteDpYQO",
   "tracks": [
     {
-      "added_at": "2026-08-20 14:00:37",
+      "added_at": "2026-08-27 20:00:11",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3BniYseVeFgP3VRlbS4j7U"
+      },
+      "artists": [
+        {
+          "name": "Lady Shaka",
+          "url": "https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt"
+        },
+        {
+          "name": "DJ PGZ",
+          "url": "https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX"
+        },
+        {
+          "name": "DoloRRes",
+          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
+        },
+        {
+          "name": "Zaila",
+          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
+        }
+      ],
+      "duration_ms": 210702,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5DXWCJDhpdGHI2oq5CEGDr"
+    },
+    {
+      "added_at": "2026-07-16 14:00:25",
       "album": {
         "name": "To The Ground",
-        "url": "https://open.spotify.com/album/0SHvu2jmYWzaRnIeBS41jM"
+        "url": "https://open.spotify.com/album/7DKGiduBb7Yi8CSmp0YXgB"
       },
       "artists": [
         {
@@ -22,39 +50,27 @@
       ],
       "duration_ms": 321984,
       "name": "To The Ground",
-      "url": "https://open.spotify.com/track/0AT5v0rYHbno8CqsX0wvsT"
+      "url": "https://open.spotify.com/track/6hFJ2Ih17ZrZnTgrVymX7T"
     },
     {
-      "added_at": "2026-08-03 03:01:30",
+      "added_at": "2026-08-27 20:00:11",
       "album": {
-        "name": "Human Voice",
-        "url": "https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs"
+        "name": "Syphon Filter",
+        "url": "https://open.spotify.com/album/6hfBgi826jO7SEMDhSvTsG"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 396363,
-      "name": "Human Voice",
-      "url": "https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9"
-    },
-    {
-      "added_at": "2026-08-03 03:01:30",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3uerP3QgajVmFLeFe1k4OF"
-      },
-      "artists": [
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        },
         {
-          "name": "moktar",
-          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
+          "name": "Mosam Howieson",
+          "url": "https://open.spotify.com/artist/2G2XO6kbdZXsI1uprXIdMx"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1jTYIQTzD0eDoaZ6jdrXFf"
+      "duration_ms": 440888,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/13ADKoNailGRb5y2CpzUYf"
     },
     {
       "added_at": "2026-07-16 14:00:25",
@@ -425,24 +441,20 @@
       "url": "https://open.spotify.com/track/1y6x1Hc0C5sVPCfngfmfOp"
     },
     {
-      "added_at": "2026-08-20 14:00:37",
+      "added_at": "2026-08-27 20:00:11",
       "album": {
-        "name": "Syphon Filter",
-        "url": "https://open.spotify.com/album/6hfBgi826jO7SEMDhSvTsG"
+        "name": "Emerald Web",
+        "url": "https://open.spotify.com/album/1giV4u6ARwOSNz4dcrP7qJ"
       },
       "artists": [
         {
-          "name": "Sleep D",
-          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
-        },
-        {
-          "name": "Mosam Howieson",
-          "url": "https://open.spotify.com/artist/2G2XO6kbdZXsI1uprXIdMx"
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
         }
       ],
-      "duration_ms": 336741,
-      "name": "Syphon Filter",
-      "url": "https://open.spotify.com/track/1Jw1iEp4UdK3i3U5eGJeHz"
+      "duration_ms": 324000,
+      "name": "Emerald Web",
+      "url": "https://open.spotify.com/track/1oR5NzGJ9L4PSZcexlhFr4"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -597,6 +609,22 @@
       "url": "https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W"
     },
     {
+      "added_at": "2026-08-20 14:00:37",
+      "album": {
+        "name": "Alyse",
+        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 231477,
+      "name": "Alyse",
+      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
+    },
+    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "SPRINTER",
@@ -629,22 +657,6 @@
       "url": "https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK"
     },
     {
-      "added_at": "2026-08-20 14:00:37",
-      "album": {
-        "name": "Alyse",
-        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 231477,
-      "name": "Alyse",
-      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
-    },
-    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "Archangel",
@@ -659,6 +671,22 @@
       "duration_ms": 281500,
       "name": "Man With a Second Face",
       "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
+    },
+    {
+      "added_at": "2026-08-03 03:01:30",
+      "album": {
+        "name": "Human Voice",
+        "url": "https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 396363,
+      "name": "Human Voice",
+      "url": "https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -697,22 +725,6 @@
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
     {
-      "added_at": "2026-08-03 03:01:30",
-      "album": {
-        "name": "XXXXX",
-        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 138118,
-      "name": "Taconeando",
-      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
-    },
-    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "A Hundred Days Off",
@@ -727,6 +739,22 @@
       "duration_ms": 548560,
       "name": "Two Months Off",
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
+    },
+    {
+      "added_at": "2026-08-03 03:01:30",
+      "album": {
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -867,26 +895,6 @@
       "duration_ms": 186666,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "What You Like (feat. yun\u00e8 pinku)",
-        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "What You Like",
-      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
     }
   ],
   "unique_name": "Portal",

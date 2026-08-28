@@ -4747,6 +4747,32 @@
     },
     {
       "album": {
+        "name": "Shed My Skin",
+        "url": "https://open.spotify.com/album/1f4OrlXMf9hGdITiunDMgw"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Therese",
+          "url": "https://open.spotify.com/artist/4wfoAaFRdaZdrn782iDlCD"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233750,
+      "name": "Shed My Skin",
+      "url": "https://open.spotify.com/track/1r1YI0vAu4QocqjsxinvHe"
+    },
+    {
+      "album": {
         "name": "Planet Chill, Vol. 2 - Compiled by York",
         "url": "https://open.spotify.com/album/4ZZRn4k2n9dfma94A8OxxD"
       },

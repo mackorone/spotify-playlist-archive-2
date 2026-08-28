@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 132584,
       "name": "Greeting The Sun",
       "url": "https://open.spotify.com/track/3GokcudGhem91ONdxbHDti"
@@ -12353,6 +12353,24 @@
     },
     {
       "album": {
+        "name": "Singular Reflection",
+        "url": "https://open.spotify.com/album/2K1ZXF5ZzsRidUnqSu15Px"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173742,
+      "name": "Singular Reflection",
+      "url": "https://open.spotify.com/track/50ctB1N90EJq0LvxaBu5Wq"
+    },
+    {
+      "album": {
         "name": "Sinking",
         "url": "https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa"
       },
@@ -13560,6 +13578,24 @@
       "duration_ms": 145500,
       "name": "The Cherry Trees",
       "url": "https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH"
+    },
+    {
+      "album": {
+        "name": "The Color of Quiet",
+        "url": "https://open.spotify.com/album/1tE5mTZdeJBja88RKYrbYb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Davis",
+          "url": "https://open.spotify.com/artist/5eSG013MW3QlMs7bPkUzou"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191479,
+      "name": "The Color of Quiet",
+      "url": "https://open.spotify.com/track/4nJdv9kW8TKO6U7SrJ2nl1"
     },
     {
       "album": {

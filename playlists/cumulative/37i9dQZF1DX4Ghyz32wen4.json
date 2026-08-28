@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. BB ASUL y TAICHU en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Yukun en portada.",
   "name": "sentimiento r&b.",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 193734,
       "name": "100 mil metros",
       "url": "https://open.spotify.com/track/6Q9VND5KYebjLjGTnK5qgh"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 158052,
       "name": "ASTROS",
       "url": "https://open.spotify.com/track/5mPHerqBng78VtnLT2VTWl"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 109560,
       "name": "BIEN CONTENTA",
       "url": "https://open.spotify.com/track/6AeQHbDNzjsOfl7unZYNlA"
@@ -1164,6 +1164,36 @@
       "duration_ms": 227266,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/55jK8S4pNyrHAfkMq7oGxM"
+    },
+    {
+      "album": {
+        "name": "Cali",
+        "url": "https://open.spotify.com/album/6921DJk1AZONak9EoUPAR5"
+      },
+      "artists": [
+        {
+          "name": "Kanito Escalante",
+          "url": "https://open.spotify.com/artist/4Bo2MWN76cTam7PE2GZBj6"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl"
     },
     {
       "album": {
@@ -1664,7 +1694,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
@@ -1734,6 +1764,28 @@
       "duration_ms": 161860,
       "name": "Culpables (feat. Leo Torrez)",
       "url": "https://open.spotify.com/track/12z4HLBFVH6dAaYTlk4HzB"
+    },
+    {
+      "album": {
+        "name": "CU\u00c9NTALES",
+        "url": "https://open.spotify.com/album/0DJRjhljh6iH4fHDQrdjA1"
+      },
+      "artists": [
+        {
+          "name": "S4nx",
+          "url": "https://open.spotify.com/artist/1Y4o7TgeeBiGD0b9fYjJpo"
+        },
+        {
+          "name": "russov",
+          "url": "https://open.spotify.com/artist/0s4WdkvyljEJe8dc01Lu0r"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154578,
+      "name": "CU\u00c9NTALES",
+      "url": "https://open.spotify.com/track/6Dfnj7KTNR3RwxU7WimizP"
     },
     {
       "album": {
@@ -2178,7 +2230,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 160408,
       "name": "distinto",
       "url": "https://open.spotify.com/track/7gvOxZLlPi5tnbNyzY63aA"
@@ -2985,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "GU\u00c1RDAME.",
+        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "GU\u00c1RDAME.",
+      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
+    },
+    {
+      "album": {
         "name": "Hablando De Love",
         "url": "https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5"
       },
@@ -3102,7 +3172,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 145696,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/0niFnECGzaBRNFSuG553dV"
@@ -3293,6 +3363,28 @@
     },
     {
       "album": {
+        "name": "La gravedad y el tiempo.",
+        "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "La gravedad y el tiempo.",
+      "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
+    },
+    {
+      "album": {
         "name": "BEFORE LOVE CAME TO KILL US+",
         "url": "https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay"
       },
@@ -3344,6 +3436,32 @@
       "duration_ms": 205200,
       "name": "Ladrones de Estrellas",
       "url": "https://open.spotify.com/track/5NqtAYtvukTpz4om6tQ5Zg"
+    },
+    {
+      "album": {
+        "name": "Lady Night",
+        "url": "https://open.spotify.com/album/4T3wmpExsKWR36ysYh3hvL"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "Lady Night",
+      "url": "https://open.spotify.com/track/0a1zVbAhcSXby7OoSHJGBo"
     },
     {
       "album": {
@@ -4034,7 +4152,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 231190,
       "name": "Miami City",
       "url": "https://open.spotify.com/track/1XzaJUjNUHYTdXhEip0GvB"
@@ -4082,6 +4200,28 @@
       "duration_ms": 156764,
       "name": "mineminemine",
       "url": "https://open.spotify.com/track/5LspgGqZ9jI2JNSfTShgoL"
+    },
+    {
+      "album": {
+        "name": "Mitsuha",
+        "url": "https://open.spotify.com/album/497upAcOGSCwzVtcCAK0LA"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        },
+        {
+          "name": "Bolishe One",
+          "url": "https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151181,
+      "name": "Mitsuha",
+      "url": "https://open.spotify.com/track/22cQH5kvi5TK53w3pcFkim"
     },
     {
       "album": {
@@ -4589,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "MOSAICO",
+        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "No Pain No Gain",
+      "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
+    },
+    {
+      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
       },
@@ -4658,7 +4816,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 197366,
       "name": "No te enamores de \u00e9l",
       "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
@@ -5362,6 +5520,24 @@
       "duration_ms": 225661,
       "name": "Piscina",
       "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
+    },
+    {
+      "album": {
+        "name": "POLOS",
+        "url": "https://open.spotify.com/album/3dQZckwH6EKczxZRBXUAg1"
+      },
+      "artists": [
+        {
+          "name": "Gsus lz",
+          "url": "https://open.spotify.com/artist/4qyzYqmGhKieYxQZmTX4xS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136465,
+      "name": "POLOS",
+      "url": "https://open.spotify.com/track/0cll1eRQrPsBe77BJ5EmLI"
     },
     {
       "album": {

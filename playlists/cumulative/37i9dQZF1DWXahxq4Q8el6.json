@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Obituary (From The Original Soundtrack Of The French Dispatch)",
+        "url": "https://open.spotify.com/album/3Q5AAcJoNHOpNPpn2k4txr"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Obituary",
+      "url": "https://open.spotify.com/track/6nn4ebgT72Cf8I5Dv4c9Wh"
+    },
+    {
+      "album": {
         "name": "Indiana Jones and the Kingdom of the Crystal Skull (International Jewel)",
         "url": "https://open.spotify.com/album/6NKHFx1dBKrBU68RDFo76f"
       },

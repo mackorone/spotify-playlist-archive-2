@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": " \u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af  Cover: \u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6 *\u91d1\u66dc\u66f4\u65b0\u3002\u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af Cover: 80KIDZ *\u91d1\u66dc\u66f4\u65b0\u3002\u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
   "name": "Altar JP: \u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168375,
       "name": "2AM",
       "url": "https://open.spotify.com/track/18IcMSwjYvrFi9oKSNl9iL"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 307679,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/3BVl2qpU0EWUvLxYAZpdDy"
@@ -7790,7 +7790,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 572000,
       "name": "Clap Weapon",
       "url": "https://open.spotify.com/track/02t4GKRKFxGp24sQzCkXBF"
@@ -13433,6 +13433,24 @@
     },
     {
       "album": {
+        "name": "Extra Wave",
+        "url": "https://open.spotify.com/album/6DuZp5UYQksOPbTA7ZbWMo"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212807,
+      "name": "Extra Wave",
+      "url": "https://open.spotify.com/track/22xm77fKMfx2XUwO4wB417"
+    },
+    {
+      "album": {
         "name": "Eye Drop",
         "url": "https://open.spotify.com/album/3ZSJ5JFCxuUvrX0nmrMMuA"
       },
@@ -13664,7 +13682,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 209784,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5SbcM1JPZLg3B1dR0sNUnz"
@@ -13828,6 +13846,28 @@
       "duration_ms": 370000,
       "name": "Fantasista",
       "url": "https://open.spotify.com/track/1WyuqLzeEX499wLisKcTPf"
+    },
+    {
+      "album": {
+        "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189231,
+      "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi"
     },
     {
       "album": {
@@ -18590,7 +18630,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 243692,
       "name": "HEADLIGHT",
       "url": "https://open.spotify.com/track/4msUkK75c5ChKWzYfIe71i"
@@ -21778,7 +21818,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 281666,
       "name": "Inner Circuit",
       "url": "https://open.spotify.com/track/23oBDAZ9JckV9hyqEKu6ZZ"
@@ -22214,7 +22254,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 288214,
       "name": "It is!",
       "url": "https://open.spotify.com/track/4RpYU3YGDRIdtKCvsLWyhv"
@@ -24546,7 +24586,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 260529,
       "name": "LET THE KICK DRUM SPEAK",
       "url": "https://open.spotify.com/track/0DQz3zKkelq1pWbNufy5RS"
@@ -24684,6 +24724,24 @@
       "duration_ms": 359531,
       "name": "Let's Play Fade Away",
       "url": "https://open.spotify.com/track/5RGwvBjWw2lb6ltihLJSCO"
+    },
+    {
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156015,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
     },
     {
       "album": {
@@ -27408,7 +27466,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 229475,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
@@ -27988,6 +28046,46 @@
       "duration_ms": 232598,
       "name": "Minor Fools - Edit",
       "url": "https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio"
+    },
+    {
+      "album": {
+        "name": "MIRACLES",
+        "url": "https://open.spotify.com/album/7E7MGpIgxAnJT6Awn7QucC"
+      },
+      "artists": [
+        {
+          "name": "play in stereo",
+          "url": "https://open.spotify.com/artist/52pMoTflDmenysWghuvU5n"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "MIRACLES",
+      "url": "https://open.spotify.com/track/76WJI7aHwXjtGaYqByCKDB"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4Ca3BtmO41F1EvydCfcoOw"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291971,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/45Q7gfiscW28MWPY9VvebZ"
     },
     {
       "album": {
@@ -30693,6 +30791,24 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/5u2SydpyK5My9bvvzm3WpG"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231304,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/6z8D9KWgMGNm6oSzFltgHe"
+    },
+    {
+      "album": {
         "name": "Off Wiv Ya Headz",
         "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
       },
@@ -32098,7 +32214,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 349253,
       "name": "Ox",
       "url": "https://open.spotify.com/track/5tchN0Lwd8a8bC6n8fT0df"
@@ -32830,6 +32946,24 @@
       "duration_ms": 244075,
       "name": "picciriddu",
       "url": "https://open.spotify.com/track/2At1jjhWsAZpgpyvk21fhv"
+    },
+    {
+      "album": {
+        "name": "Pick A Different Life",
+        "url": "https://open.spotify.com/album/2DtnXc3nHCMN4NE5dCwWvy"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233194,
+      "name": "Pick A Different Life - Edit",
+      "url": "https://open.spotify.com/track/2GHP3jh5vsxipzFirqQBCT"
     },
     {
       "album": {
@@ -34880,7 +35014,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 245978,
       "name": "Recollection",
       "url": "https://open.spotify.com/track/2SeLMGUEyObd27vJbFDGoQ"
@@ -35882,7 +36016,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 173767,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/6j0wJFtuFSpMI5psWv4lmu"
@@ -37118,7 +37252,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 91428,
       "name": "Scramble",
       "url": "https://open.spotify.com/track/74H93B3sLLkit4im854HkM"
@@ -38842,6 +38976,24 @@
       "duration_ms": 308986,
       "name": "So High - Busy P Remix",
       "url": "https://open.spotify.com/track/3mDeFLUpZAhmlH6NCEXkOK"
+    },
+    {
+      "album": {
+        "name": "CUT OUT",
+        "url": "https://open.spotify.com/album/7DJjR18jSvogl8jnb0hj38"
+      },
+      "artists": [
+        {
+          "name": "80KIDZ",
+          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208700,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/22mwnGfFXZAOniXbEhTDzE"
     },
     {
       "album": {
@@ -41436,6 +41588,28 @@
       "duration_ms": 296428,
       "name": "Taking Over (feat. Obi Franky) - M-HIGH's Morning After Remix",
       "url": "https://open.spotify.com/track/6BrVE0zec9W3wHWRpU1nBY"
+    },
+    {
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nicole Miglis",
+          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222768,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
     },
     {
       "album": {
@@ -44808,7 +44982,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 151475,
       "name": "U Wanna Party? - Radio Edit",
       "url": "https://open.spotify.com/track/1GUhleNmUxoSthBkRNVJUA"
@@ -45050,7 +45224,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 256526,
       "name": "Ultramoon",
       "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
@@ -46306,7 +46480,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 330000,
       "name": "Walking In Blur",
       "url": "https://open.spotify.com/track/7mFOclgAU52cnrWuqI0Tk9"
@@ -49002,10 +49176,28 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186870,
       "name": "Young London",
       "url": "https://open.spotify.com/track/5cwZWtLpAgDQXIFbRhUZcc"
+    },
+    {
+      "album": {
+        "name": "Young London (Club Mix)",
+        "url": "https://open.spotify.com/album/2Ud0dVIgjJnq3EIKN9IFGG"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335267,
+      "name": "Young London - Club Mix",
+      "url": "https://open.spotify.com/track/4EaZ0xEdzEIjUBgRFn7Ce2"
     },
     {
       "album": {

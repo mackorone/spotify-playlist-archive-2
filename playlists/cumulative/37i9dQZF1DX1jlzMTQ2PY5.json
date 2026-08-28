@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 183839,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
@@ -3782,6 +3782,24 @@
       "duration_ms": 198620,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z"
+    },
+    {
+      "album": {
+        "name": "Ostinato",
+        "url": "https://open.spotify.com/album/08CzRrbKv2Y4S4Hqk4ldtj"
+      },
+      "artists": [
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337781,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7idY7H9TfqM1bTn5o9rmvI"
     },
     {
       "album": {

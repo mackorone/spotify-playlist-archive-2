@@ -8225,6 +8225,32 @@
     },
     {
       "album": {
+        "name": "FORTNITE",
+        "url": "https://open.spotify.com/album/3NuC3raDvkEtFaPPiyh4rl"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "Yakuza 893",
+          "url": "https://open.spotify.com/artist/3n9acIT6Q9Bx11G2XyaKGC"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168174,
+      "name": "FORTNITE",
+      "url": "https://open.spotify.com/track/59aZb0E94kwEzJpjVShjNu"
+    },
+    {
+      "album": {
         "name": "Filho do Povo",
         "url": "https://open.spotify.com/album/5WJsQiKEvMZNcPsr6LBwXI"
       },
@@ -9270,7 +9296,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 188674,
       "name": "HIST\u00d3RIA",
       "url": "https://open.spotify.com/track/6zXt3ihvEWTuslDjyqUxOS"
@@ -14612,7 +14638,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171743,
       "name": "OKAY BABY",
       "url": "https://open.spotify.com/track/0M5Q9qM3z8LzJKCcgFyzVb"
@@ -15878,7 +15904,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 147710,
       "name": "Pinga",
       "url": "https://open.spotify.com/track/70VUEBLxpWiIfvYuzktTro"
@@ -17038,6 +17064,24 @@
       "duration_ms": 208695,
       "name": "Quitada",
       "url": "https://open.spotify.com/track/2syKsGREUuYq4pzIBxInwQ"
+    },
+    {
+      "album": {
+        "name": "R2",
+        "url": "https://open.spotify.com/album/0TdAg7PkYNZXbplalkB3Ph"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143309,
+      "name": "R2",
+      "url": "https://open.spotify.com/track/0Fzn5ozhhP2alg1bNqTyas"
     },
     {
       "album": {
@@ -19374,6 +19418,24 @@
       "duration_ms": 186686,
       "name": "S\u00f3 Pra Mim",
       "url": "https://open.spotify.com/track/086BFApQhJolDewBka9jit"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Queria",
+        "url": "https://open.spotify.com/album/3IQREn7b79PWtxxGOpMCjy"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236282,
+      "name": "S\u00f3 Queria",
+      "url": "https://open.spotify.com/track/7lDpsG8Z7ElOqgeNPoHy3D"
     },
     {
       "album": {

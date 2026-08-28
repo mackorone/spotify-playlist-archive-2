@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,755 songs - 10 day 16 hr 8 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 283 likes - 4,764 songs - 10 day 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4763,5 +4763,14 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4753 | [on my way to christmas](https://open.spotify.com/track/7dDAodVygqSfAydDB3BupY) | [Lanssonnn](https://open.spotify.com/artist/0EqxnmuxSUf5ZRcHAKAohR) | [on my way to christmas](https://open.spotify.com/album/5X1ngDbH2wWQcLAkZbr95F) | 3:14 |
 | 4754 | [אלגוריתם](https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [אלגוריתם](https://open.spotify.com/album/3z86HVtVhwZRLEU2VGjGtO) | 3:27 |
 | 4755 | [Fading Trace](https://open.spotify.com/track/6VRtRhIuagAfxY6tXIjWMe) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Fading Trace](https://open.spotify.com/album/0L1E65Cgz1nwbjD3XOe47v) | 2:45 |
+| 4756 | [Time in The Sun](https://open.spotify.com/track/7uTVHaOSODr9fXtFACbUjq) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Time in The Sun](https://open.spotify.com/album/7wl1kJkaj7GXOEybCExqrW) | 3:06 |
+| 4757 | [Bad Decisions Look Good](https://open.spotify.com/track/0QxZBZuftVyV6hb9it5Lrn) | [Nico Lume](https://open.spotify.com/artist/3papE4VFBMYi9a6Jxp72Lj) | [Afters](https://open.spotify.com/album/3KCZd8oWqok2DXjHUIhX9D) | 3:24 |
+| 4758 | [Private Table](https://open.spotify.com/track/1j0akOAJMJYjJRSymt3wfH) | [Nico Lume](https://open.spotify.com/artist/3papE4VFBMYi9a6Jxp72Lj) | [Afters](https://open.spotify.com/album/3KCZd8oWqok2DXjHUIhX9D) | 3:17 |
+| 4759 | [Act Brand New](https://open.spotify.com/track/1PD7vguENHrgcKVtMbdIER) | [Nico Lume](https://open.spotify.com/artist/3papE4VFBMYi9a6Jxp72Lj) | [Afters](https://open.spotify.com/album/3KCZd8oWqok2DXjHUIhX9D) | 3:19 |
+| 4760 | [No Plus One](https://open.spotify.com/track/4B2yA9S7ZfzoXojYIuyO29) | [Nico Lume](https://open.spotify.com/artist/3papE4VFBMYi9a6Jxp72Lj) | [Afters](https://open.spotify.com/album/3KCZd8oWqok2DXjHUIhX9D) | 2:42 |
+| 4761 | [Afters](https://open.spotify.com/track/5zWjNogvxhn2xlKT9Gl3qS) | [Nico Lume](https://open.spotify.com/artist/3papE4VFBMYi9a6Jxp72Lj) | [Afters](https://open.spotify.com/album/3KCZd8oWqok2DXjHUIhX9D) | 3:55 |
+| 4762 | [BOUDICCA'S THEME](https://open.spotify.com/track/0BmDv4ru9o2f8EdEmpXtLV) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [BOUDICCA'S THEME](https://open.spotify.com/album/0UlXd4zHKvweA828vg6f8c) | 3:09 |
+| 4763 | [Bajo Llave](https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8) | [Danel](https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo) | [Ante Todo](https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC) | 3:45 |
+| 4764 | [Vuelo \(Non\-Stop\) \- 2026](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\) \[2026\]](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 |
 
-Snapshot ID: `AAAJ0re6QgFRV+8Nm6fAXxBMY1+NOAm8`
+Snapshot ID: `AAAJ1/yNXguATjThz65+MLyYuP+sb7TS`

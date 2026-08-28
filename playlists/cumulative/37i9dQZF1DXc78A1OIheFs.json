@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "BedHead",
+        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "BedHead",
+      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
+    },
+    {
+      "album": {
         "name": "Bends Not Breaks",
         "url": "https://open.spotify.com/album/4HPIDNQCkOV04zaCCGUtkL"
       },
@@ -1579,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Call It Love",
+        "url": "https://open.spotify.com/album/2GQA3K9IZkwfrMEallCO1p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Bree",
+          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+        },
+        {
+          "name": "Adah Dylan",
+          "url": "https://open.spotify.com/artist/7ByPzrMoxa3wStzuXS1WhU"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247509,
+      "name": "Don't Call It Love",
+      "url": "https://open.spotify.com/track/5lDBhkVY56oiH5dSbH956X"
+    },
+    {
+      "album": {
         "name": "Don't Wait for Me to Be What You Want Me to Be",
         "url": "https://open.spotify.com/album/2HbSx1TVZbDgRCZsFNByMA"
       },
@@ -2298,7 +2338,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
@@ -2342,6 +2382,24 @@
       "duration_ms": 174799,
       "name": "GOLDTOPS",
       "url": "https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD"
+    },
+    {
+      "album": {
+        "name": "Real Fruit Ice Cream",
+        "url": "https://open.spotify.com/album/0IZBTsOSwbLm3BUooalvgB"
+      },
+      "artists": [
+        {
+          "name": "Lontalius",
+          "url": "https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165787,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/2QDRCumn6ZdKPtuxbl7G6C"
     },
     {
       "album": {
@@ -3318,7 +3376,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 179000,
       "name": "Letting Love Die",
       "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
@@ -3898,7 +3956,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 283253,
       "name": "Metal",
       "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"

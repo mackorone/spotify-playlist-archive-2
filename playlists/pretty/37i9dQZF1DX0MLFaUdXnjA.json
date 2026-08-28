@@ -1,13 +1,29 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Amie Blu",
-  "num_followers": 1773873,
+  "description": "Sit back and relax to the chillest pop.  Cover: Andrea Bejar",
+  "num_followers": 1773691,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsqHNW3UaZcrAoztsU0szpOjXbr",
+  "snapshot_id": "AAAAANa99tdpHdpVYCUJWXvouW3vpqjV",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+    },
     {
       "added_at": "2026-07-11 17:40:28",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151654,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+    },
+    {
       "added_at": "2026-08-14 04:00:11",
       "album": {
         "name": "All American",
@@ -39,6 +71,22 @@
       "duration_ms": 228146,
       "name": "All American",
       "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
+    },
+    {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
+        "name": "WHAT AM I DOING?",
+        "url": "https://open.spotify.com/album/0nBmW52mTtee3G8zPSTZgO"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 163966,
+      "name": "WHAT AM I DOING?",
+      "url": "https://open.spotify.com/track/5MbIQfHUzea4zbsnsDueEL"
     },
     {
       "added_at": "2026-08-21 04:00:20",
@@ -105,6 +153,22 @@
       "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
     },
     {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
+        "name": "Comets",
+        "url": "https://open.spotify.com/album/7IEd3tVmQkE4zYdOWavFkp"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 202625,
+      "name": "Comets",
+      "url": "https://open.spotify.com/track/6YAZ4sSUI3MrKduG40Wr2e"
+    },
+    {
       "added_at": "2026-08-07 05:11:51",
       "album": {
         "name": "Chuck Timely & The Hourglass",
@@ -153,6 +217,22 @@
       "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
     },
     {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "duration_ms": 203446,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
+    },
+    {
       "added_at": "2026-07-31 04:01:36",
       "album": {
         "name": "tokyo",
@@ -199,6 +279,22 @@
       "duration_ms": 180768,
       "name": "Love, At The End Of The World",
       "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
+    },
+    {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
+        "name": "i remember everything",
+        "url": "https://open.spotify.com/album/1Z5DbLdPaRXKrgiWcIX09q"
+      },
+      "artists": [
+        {
+          "name": "Rin",
+          "url": "https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA"
+        }
+      ],
+      "duration_ms": 155136,
+      "name": "i remember everything",
+      "url": "https://open.spotify.com/track/0UPkt0Wqk1Po0FnEi0tAb5"
     },
     {
       "added_at": "2026-08-14 04:00:11",
@@ -345,20 +441,20 @@
       "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
     },
     {
-      "added_at": "2026-08-07 05:11:51",
+      "added_at": "2026-08-28 04:02:54",
       "album": {
-        "name": "Lean In, Kiss Me",
-        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1j4woMGd04ZJv3tzhoNe3W"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Conor Burns",
+          "url": "https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Lean In, Kiss Me",
-      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
+      "duration_ms": 240476,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0oiGdy7Zp6ZTbm2cdFnvRO"
     },
     {
       "added_at": "2026-08-07 05:13:34",
@@ -391,22 +487,6 @@
       "duration_ms": 230637,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
-    },
-    {
-      "added_at": "2026-08-07 05:11:51",
-      "album": {
-        "name": "Chuck Timely & The Hourglass",
-        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 261427,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
       "added_at": "2026-07-22 18:23:34",
@@ -505,22 +585,6 @@
       "url": "https://open.spotify.com/track/2EEQ6GrxDHsyaX6nq9CJh7"
     },
     {
-      "added_at": "2026-07-17 04:06:59",
-      "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 193838,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
-    },
-    {
       "added_at": "2026-05-15 19:31:50",
       "album": {
         "name": "Middle of Nowhere",
@@ -603,22 +667,6 @@
       "duration_ms": 168215,
       "name": "Mars",
       "url": "https://open.spotify.com/track/5RbmvXlg7WFVqFZtxv9ATO"
-    },
-    {
-      "added_at": "2026-07-17 04:06:59",
-      "album": {
-        "name": "Hangin' On",
-        "url": "https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9"
-      },
-      "artists": [
-        {
-          "name": "Frank Mastra",
-          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
-        }
-      ],
-      "duration_ms": 211619,
-      "name": "Hangin' On",
-      "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
     },
     {
       "added_at": "2026-05-29 04:02:52",
@@ -735,22 +783,6 @@
       "duration_ms": 190199,
       "name": "I Knew It, I Knew You - Piano Version (From \"Toy Story 5\")",
       "url": "https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX"
-    },
-    {
-      "added_at": "2026-07-10 04:02:28",
-      "album": {
-        "name": "Full Moon Chamber",
-        "url": "https://open.spotify.com/album/0wiTPWUxtCXFCgtEsoqMea"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "You Make It Easy",
-      "url": "https://open.spotify.com/track/5rJYLtLtWOnEGdu5yjxIya"
     },
     {
       "added_at": "2026-07-03 04:02:27",
@@ -1329,62 +1361,6 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2026-05-08 04:01:35",
-      "album": {
-        "name": "Tied Up",
-        "url": "https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "LAUV",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 176107,
-      "name": "Tied Up",
-      "url": "https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws"
-    },
-    {
-      "added_at": "2026-04-17 04:01:26",
-      "album": {
-        "name": "Survive - EP",
-        "url": "https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "Stay Love",
-      "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
-    },
-    {
-      "added_at": "2026-05-08 04:01:35",
-      "album": {
-        "name": "Macram\u00e9",
-        "url": "https://open.spotify.com/album/2fzrBj31NWHaEjODwESbKy"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        },
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 211147,
-      "name": "Macram\u00e9 (ft. Mei Semones)",
-      "url": "https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy"
-    },
-    {
       "added_at": "2026-02-27 18:35:08",
       "album": {
         "name": "The Romantic",
@@ -1417,26 +1393,6 @@
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
-      "added_at": "2026-05-01 04:03:47",
-      "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/016Ii6RB1OeFoP5zzHxlIV"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        },
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        }
-      ],
-      "duration_ms": 180110,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/5U6eOve1EBA0Z1v2zTomF1"
-    },
-    {
       "added_at": "2026-03-27 04:00:28",
       "album": {
         "name": "Carry On",
@@ -1451,22 +1407,6 @@
       "duration_ms": 168767,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-04-03 04:01:40",
-      "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 192572,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
     },
     {
       "added_at": "2026-05-01 04:03:47",

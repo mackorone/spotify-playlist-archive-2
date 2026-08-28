@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,291 songs - 2 day 23 hr 31 min
+1,292 songs - 2 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,6 +657,7 @@
 | [Locked Away](https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Locked Away](https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF) | 3:32 | 2021-11-19 | 2022-01-25 |
 | [Lois Eyes](https://open.spotify.com/track/5NLjv0kPAAk2Jjw6i3U4Ns) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Lois Eyes](https://open.spotify.com/album/0tVGx4MmbLFWlNujwyUMGM) | 2:42 | 2022-08-17 | 2022-11-01 |
 | [Lone](https://open.spotify.com/track/6V90OtIX1Ja8OvqvPFMe9Z) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Lone](https://open.spotify.com/album/4woa0Yhe82WmbMGe7zuxS1) | 4:14 | 2022-03-04 | 2022-05-17 |
+| [Lonely](https://open.spotify.com/track/1DV7TkWJatSTo5rbihHYVu) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Lonely / Whatever Brought Us Here](https://open.spotify.com/album/2i3vlZ4eKY8onPTB9MyxoJ) | 3:00 | 2026-08-27 |  |
 | [Lonely](https://open.spotify.com/track/2c6PNDLjisZLJe08W3j3PU) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Lonely](https://open.spotify.com/album/7qqThyYgtFmqIzhTKbVHRe) | 2:19 | 2024-09-12 | 2024-12-06 |
 | [Long Ago](https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE) | [Wassu](https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Long Ago](https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y) | 4:20 | 2023-03-01 | 2023-05-30 |
 | [Long Legs](https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Long Legs](https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5) | 3:00 | 2026-01-19 | 2026-05-13 |

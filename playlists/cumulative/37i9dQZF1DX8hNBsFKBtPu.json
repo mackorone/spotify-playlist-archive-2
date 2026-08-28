@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "We got you! Den bedste nye pop er samlet her \ud83d\udc96 Sissal ",
+  "description": "We got you! Den bedste nye pop er samlet her \ud83d\udc96 Dahlin p\u00e5 cover!",
   "name": "Ny Pop (2)",
   "tracks": [
     {
@@ -310,6 +310,24 @@
       "duration_ms": 161570,
       "name": "911",
       "url": "https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14"
+    },
+    {
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
     },
     {
       "album": {
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 184615,
       "name": "Blomstergudinde",
       "url": "https://open.spotify.com/track/03U8SRAFjQMPjSV2wIVWf7"
@@ -2882,7 +2900,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 161784,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
@@ -2958,6 +2976,24 @@
       "duration_ms": 152054,
       "name": "Dans",
       "url": "https://open.spotify.com/track/3zEHkfxOhEimlQbDx9ECrf"
+    },
+    {
+      "album": {
+        "name": "Danser N\u00e5r Vi Gamle",
+        "url": "https://open.spotify.com/album/75QYHwoNJXBrp8aRQVLMhU"
+      },
+      "artists": [
+        {
+          "name": "ASTA NORR",
+          "url": "https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174990,
+      "name": "Danser N\u00e5r Vi Gamle",
+      "url": "https://open.spotify.com/track/5MxUHatAvPzP1WTMpyy8wT"
     },
     {
       "album": {
@@ -3929,6 +3965,28 @@
     },
     {
       "album": {
+        "name": "Du er min bror!",
+        "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kn\u00e6gt",
+          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186347,
+      "name": "Du er min bror!",
+      "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
+    },
+    {
+      "album": {
         "name": "Du Har Ret",
         "url": "https://open.spotify.com/album/0gzC0uQBZRCsXPPloHvm8W"
       },
@@ -4034,7 +4092,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 147451,
       "name": "DU M\u00c5 IK G\u00c5",
       "url": "https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm"
@@ -4146,7 +4204,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 192208,
       "name": "D\u00f8 lykkelig",
       "url": "https://open.spotify.com/track/1W7VoI0jZwHtNlBZpkTCHu"
@@ -4352,6 +4410,24 @@
       "duration_ms": 201976,
       "name": "Elsker Dig S\u00e5 Meget",
       "url": "https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o"
+    },
+    {
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
     },
     {
       "album": {
@@ -6901,6 +6977,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+    },
+    {
+      "album": {
         "name": "Heaven II",
         "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
       },
@@ -6916,6 +7010,28 @@
       "duration_ms": 147461,
       "name": "Heaven II",
       "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
+    },
+    {
+      "album": {
+        "name": "HEL IGEN (feat. Chris Abolade)",
+        "url": "https://open.spotify.com/album/6lvkflWV8rpLiRSWKVkqkT"
+      },
+      "artists": [
+        {
+          "name": "Blaadage",
+          "url": "https://open.spotify.com/artist/0ttQJRduN0NrldVyK7WRDy"
+        },
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215668,
+      "name": "HEL IGEN (feat. Chris Abolade)",
+      "url": "https://open.spotify.com/track/27U7IT8vYLgI4tZnKTKf0r"
     },
     {
       "album": {
@@ -7683,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Hvor du er",
+        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
+      },
+      "artists": [
+        {
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145778,
+      "name": "Hvor du er",
+      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
+    },
+    {
+      "album": {
         "name": "Hvor Du Er (feat. URO & Albert Heath)",
         "url": "https://open.spotify.com/album/0aV8pw9j8zgF8AgX3KcuMQ"
       },
@@ -7950,7 +8084,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 172571,
       "name": "I Know It's Wrong",
       "url": "https://open.spotify.com/track/7kjmxkch7Kq6JG7MJU0kXw"
@@ -11278,7 +11412,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 233037,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/59edZBlolguuivWORanXkJ"
@@ -12889,6 +13023,28 @@
     },
     {
       "album": {
+        "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+        "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        },
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221687,
+      "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+      "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
+    },
+    {
+      "album": {
         "name": "Pr\u00f8veperiode",
         "url": "https://open.spotify.com/album/0CBZzY2fFMIUgmj25IdhGc"
       },
@@ -13186,6 +13342,24 @@
       "duration_ms": 199166,
       "name": "RESCUER",
       "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
+    },
+    {
+      "album": {
+        "name": "Reverse Psychology",
+        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178928,
+      "name": "Reverse Psychology",
+      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
     },
     {
       "album": {
@@ -13797,6 +13971,24 @@
     },
     {
       "album": {
+        "name": "serena joy",
+        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185838,
+      "name": "serena joy",
+      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
+    },
+    {
+      "album": {
         "name": "Serial Kisser",
         "url": "https://open.spotify.com/album/33QYD1uYMCpsPMKllkvGZ6"
       },
@@ -13808,7 +14000,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 166407,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/0XSj08H0vgkV8MFZiaL2D5"
@@ -14677,6 +14869,24 @@
     },
     {
       "album": {
+        "name": "Springer Ud",
+        "url": "https://open.spotify.com/album/3LMJtJioGVKPeaxpGy7tO7"
+      },
+      "artists": [
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199581,
+      "name": "Springer Ud",
+      "url": "https://open.spotify.com/track/0DfaZn6bsKotvLY14Mzb1R"
+    },
+    {
+      "album": {
         "name": "Spr\u00e6kker ft. S\u00f8n",
         "url": "https://open.spotify.com/album/7zB2ONGvB3muGw7oTLejpF"
       },
@@ -15162,7 +15372,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 169500,
       "name": "Svag",
       "url": "https://open.spotify.com/track/4Ub0D9c3Vr1hSVeectM3a5"

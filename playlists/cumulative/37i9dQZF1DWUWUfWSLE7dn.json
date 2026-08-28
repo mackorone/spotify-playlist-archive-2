@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Forma",
+        "url": "https://open.spotify.com/album/5isqCcNoUKXw2zRVsS9y51"
+      },
+      "artists": [
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199103,
+      "name": "Forma",
+      "url": "https://open.spotify.com/track/4oii9raro7oRZUpnNORmqU"
+    },
+    {
+      "album": {
         "name": "Frozen Thoughts",
         "url": "https://open.spotify.com/album/07Ep1Tj9fon7n8VXleTfdZ"
       },
@@ -2114,6 +2132,36 @@
       "duration_ms": 118250,
       "name": "My Son",
       "url": "https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz"
+    },
+    {
+      "album": {
+        "name": "Glass: Naqoyqatsi: Religion",
+        "url": "https://open.spotify.com/album/1wVgYeTmDlZmfxBAvXuiuS"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Oscar Jockel",
+          "url": "https://open.spotify.com/artist/0aoA1OWyDRcpf0u6zh7bsw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248773,
+      "name": "Naqoyqatsi: Religion",
+      "url": "https://open.spotify.com/track/6YDep5Rct1MHh45KjBk4o1"
     },
     {
       "album": {

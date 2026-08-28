@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 300 songs - 15 hr 47 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 301 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,5 +308,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 298 | [New Coat of Paint](https://open.spotify.com/track/0km6LmWEBCRpdU8ey7e7dW) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Stephen Cole](https://open.spotify.com/artist/76iXJt5FHxefmr6S8wPi6g) | [Jazz Me up!, Vol\. 1](https://open.spotify.com/album/1kOCeKNNKP19NWYTCcjmJK) | 3:29 |
 | 299 | [La Coleta \- Remix](https://open.spotify.com/track/1b3ATDYZL3b30LjwPYha8I) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Bendecido por Dios](https://open.spotify.com/album/4L64bZD6wNZAHGWqtvnqWT) | 3:12 |
 | 300 | [empecemos devuelta](https://open.spotify.com/track/6F17ZOfEoSSHJeYXLrsnqI) | [amazing](https://open.spotify.com/artist/0mkweBNmdERTJdBeTCIJby), [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy) | [zetahayunosolo](https://open.spotify.com/album/4B6ynl0EHi4wVGidxfGzjp) | 2:21 |
+| 301 | [Ban2leros \#1](https://open.spotify.com/track/3FIZxxvk9GDlxiFlVFaibx) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Migue Ceballos](https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe) | [Ban2leros \#1](https://open.spotify.com/album/2moNJyy7a1uxT0CoRyWuDP) | 2:05 |
 
-Snapshot ID: `AAAWMgu8sg93tc48g0m7eqZovyb2I9uJ`
+Snapshot ID: `AAAWMxuRI3k2xjgzOoEjy4IQ1y+/Q9Om`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The latest releases from bluegrass and string bands alike. Cover: Bronwyn",
+  "description": "The latest releases from bluegrass and string bands alike. Cover: Two Runner",
   "name": "New Grass",
   "tracks": [
     {
@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "So Much For Goodbyes",
+        "url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251073,
+      "name": "Carry Us Home",
+      "url": "https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt"
+    },
+    {
+      "album": {
         "name": "Charleston Girl",
         "url": "https://open.spotify.com/album/2fJbdvfLYGnCEpDkzykcd1"
       },
@@ -1504,6 +1522,28 @@
       "duration_ms": 217000,
       "name": "Childhood Friends",
       "url": "https://open.spotify.com/track/71piXe6nDDe1hIfeyL6hh0"
+    },
+    {
+      "album": {
+        "name": "Cindy",
+        "url": "https://open.spotify.com/album/2rrcSuZ1nV9CeFmciY7hJD"
+      },
+      "artists": [
+        {
+          "name": "Hillary Klug",
+          "url": "https://open.spotify.com/artist/7bKlmScAPDnvjvXdesMS7r"
+        },
+        {
+          "name": "Ketch Secor",
+          "url": "https://open.spotify.com/artist/2aqTRwwChQlJmPzvR0C227"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Cindy",
+      "url": "https://open.spotify.com/track/28yih8fwRgHYCj0IWEnSwf"
     },
     {
       "album": {
@@ -2487,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Appalachian Smoke",
+        "url": "https://open.spotify.com/album/5ZBrC2ZIpEsqtiPMApTWuR"
+      },
+      "artists": [
+        {
+          "name": "Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199428,
+      "name": "Eagle\u2019s Nest",
+      "url": "https://open.spotify.com/track/4uvDDcY10LXEdC7dlXsjkN"
+    },
+    {
+      "album": {
         "name": "Early Shadow",
         "url": "https://open.spotify.com/album/14lPn3Bs8Zm1MFz7TwbjRu"
       },
@@ -2605,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Empty Glass of Gin",
+        "url": "https://open.spotify.com/album/2w7Um5XMrObsNWrlXUcPYK"
+      },
+      "artists": [
+        {
+          "name": "J.M. Clifford",
+          "url": "https://open.spotify.com/artist/7nvJAcPF5V0cZ5GfYTIGCY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155824,
+      "name": "Empty Glass of Gin",
+      "url": "https://open.spotify.com/track/6vC0O52eibldATnJp77ZvU"
+    },
+    {
+      "album": {
         "name": "End of the Line",
         "url": "https://open.spotify.com/album/0CDEu5LMLHDNqzKlYMtKsR"
       },
@@ -2700,7 +2776,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 224861,
       "name": "Everything Burns",
       "url": "https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX"
@@ -3252,7 +3328,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 255506,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/7jsvlXJa8q92uekIqbWO1w"
@@ -3314,6 +3390,24 @@
       "duration_ms": 230960,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0cu0Jlsd2N5xfMBcsUskRa"
+    },
+    {
+      "album": {
+        "name": "Give Me a Trail",
+        "url": "https://open.spotify.com/album/2A3cTTuGN5RM1TKXeb5xPU"
+      },
+      "artists": [
+        {
+          "name": "Donna Hughes",
+          "url": "https://open.spotify.com/artist/0rFVdej5uMjF7nca0nAjEY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178254,
+      "name": "Give Me a Trail",
+      "url": "https://open.spotify.com/track/7pdkKaDOATjpEq7lhxoBOJ"
     },
     {
       "album": {
@@ -3448,6 +3542,24 @@
       "duration_ms": 185933,
       "name": "Good Morning (In Heaven)",
       "url": "https://open.spotify.com/track/4MZodY8Eei5MGkOkitalIr"
+    },
+    {
+      "album": {
+        "name": "Good Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/4nEzGoha281v4N6bT2xJOm"
+      },
+      "artists": [
+        {
+          "name": "The Sullivan Sisters",
+          "url": "https://open.spotify.com/artist/0VhCfHrJIYbnVcyd0WvAGX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138782,
+      "name": "Good Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/6SJ0mwPPHGBwnDfXKiwfKE"
     },
     {
       "album": {
@@ -3778,7 +3890,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 168853,
       "name": "Here Rattler",
       "url": "https://open.spotify.com/track/15SLW0p76aVCqCeN1ZtMTg"
@@ -4723,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "In The By And By",
+        "url": "https://open.spotify.com/album/0Zlw0SnIddnECxvSE3KCJa"
+      },
+      "artists": [
+        {
+          "name": "Valley Flower",
+          "url": "https://open.spotify.com/artist/30RBNZU9rtKnfb5dlOm1Ew"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178917,
+      "name": "In The By And By",
+      "url": "https://open.spotify.com/track/0YQa5rROZOdXmVSP8SmVWI"
+    },
+    {
+      "album": {
         "name": "In the Garden",
         "url": "https://open.spotify.com/album/2IBgRUNWmDr2a7iY39BI2B"
       },
@@ -4854,7 +4984,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 158762,
       "name": "Is Now The Time",
       "url": "https://open.spotify.com/track/3GpRe4Op4t0KZsITUITC1d"
@@ -4890,7 +5020,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 295200,
       "name": "It's Gonna Fall/Old Daingerfield",
       "url": "https://open.spotify.com/track/4Hyw1umOLvIrCXAh1891Tz"
@@ -5420,6 +5550,24 @@
       "duration_ms": 159500,
       "name": "Life On The Road",
       "url": "https://open.spotify.com/track/4JszQxT7eV52QPT7AoAbMb"
+    },
+    {
+      "album": {
+        "name": "Horizon Never Dies",
+        "url": "https://open.spotify.com/album/0znDjIuYSYvOj05gOnL3v6"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218465,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/2MrPXy1eCPCIhxXpFbN1xc"
     },
     {
       "album": {
@@ -6201,6 +6349,24 @@
     },
     {
       "album": {
+        "name": "Porchlight",
+        "url": "https://open.spotify.com/album/6AfKQ41w6aEH5bL7WdVW0Z"
+      },
+      "artists": [
+        {
+          "name": "Two Runner",
+          "url": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160980,
+      "name": "Mocking Crow",
+      "url": "https://open.spotify.com/track/5D18GDlBbK2CjfnMRGZ8oA"
+    },
+    {
+      "album": {
         "name": "Dan Tyminski: Live From The Ryman",
         "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
@@ -6864,7 +7030,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 187092,
       "name": "One White Line At A Time",
       "url": "https://open.spotify.com/track/4ODmbC99RAJl33VRCPf5Hk"
@@ -7764,10 +7930,28 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 207438,
       "name": "Red River Valley",
       "url": "https://open.spotify.com/track/0QOEsoMZDUqsw7cuiwmywa"
+    },
+    {
+      "album": {
+        "name": "Redtail",
+        "url": "https://open.spotify.com/album/2neMKa9YM3iDPoQYUPMOj6"
+      },
+      "artists": [
+        {
+          "name": "Never Come Down",
+          "url": "https://open.spotify.com/artist/39mjfpuocb8x295Q9W1gXy"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248351,
+      "name": "Redtail",
+      "url": "https://open.spotify.com/track/590JpOrUjRNX2b5RVkmnp9"
     },
     {
       "album": {
@@ -7782,7 +7966,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 238802,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/2QVU2SsLcJragskqMn3YEV"
@@ -9014,7 +9198,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 231653,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/7qAIHFtOLHXMsVH3RJA0Ug"
@@ -10086,7 +10270,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 208321,
       "name": "Unknown Legend (with The Travelin' McCourys)",
       "url": "https://open.spotify.com/track/3iE5gZUcK2TQ7GpXoPskpl"

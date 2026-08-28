@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 211000,
       "name": "Exhibitions",
       "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
@@ -3382,6 +3382,24 @@
       "duration_ms": 100013,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+    },
+    {
+      "album": {
+        "name": "Zala",
+        "url": "https://open.spotify.com/album/050hlTMs6fuyM4Uuk6ecvf"
+      },
+      "artists": [
+        {
+          "name": "Pataki Gisella",
+          "url": "https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113624,
+      "name": "Zala",
+      "url": "https://open.spotify.com/track/0mTNIBqWyosvtyYerntoBV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX47ov4h4oSjW"

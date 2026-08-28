@@ -4119,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Essa Tua Boca",
+        "url": "https://open.spotify.com/album/0OoWsyjLSPot5B0nlFbaBw"
+      },
+      "artists": [
+        {
+          "name": "Lupambo",
+          "url": "https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167465,
+      "name": "Essa Tua Boca",
+      "url": "https://open.spotify.com/track/5PiNNm6D5Hz665DclsD79L"
+    },
+    {
+      "album": {
         "name": "Estou a Ficar Maluco",
         "url": "https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio"
       },
@@ -6609,6 +6627,28 @@
     },
     {
       "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/02kkOYtWO748kfR1bzSiCc"
+      },
+      "artists": [
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        },
+        {
+          "name": "Nacer",
+          "url": "https://open.spotify.com/artist/5KmeAufxFDnb8T3iMDvQ1F"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192565,
+      "name": "Mafia",
+      "url": "https://open.spotify.com/track/3H1m0lTIeVsHeyPvUzRX65"
+    },
+    {
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/46hdoSNACICzcXfEOsfFqi"
       },
@@ -6704,6 +6744,28 @@
       "duration_ms": 195436,
       "name": "Mais um Caso",
       "url": "https://open.spotify.com/track/74vJ2796jQqnf0tiopPnde"
+    },
+    {
+      "album": {
+        "name": "Mais uma Vez",
+        "url": "https://open.spotify.com/album/4EgcAuoLHxHQMov8Qwen1x"
+      },
+      "artists": [
+        {
+          "name": "Joelson JB",
+          "url": "https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8"
+        },
+        {
+          "name": "Graciano Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/7tfYOwkhgJHOxtqRHbqcws"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189870,
+      "name": "Mais uma Vez",
+      "url": "https://open.spotify.com/track/6Nv3ZUW0VuGWQH0oswtLpg"
     },
     {
       "album": {
@@ -9678,7 +9740,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 219666,
       "name": "Planos",
       "url": "https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8"
@@ -12264,7 +12326,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 164636,
       "name": "The Best",
       "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
@@ -14342,7 +14404,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 174174,
       "name": "\u00c9s S\u00f3 Tu",
       "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"

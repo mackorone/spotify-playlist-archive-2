@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 772 songs - 2 day 1 hr 44 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 773 songs - 2 day 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -775,10 +775,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 765 | [Slip On Through \- Remastered 2009](https://open.spotify.com/track/6BzZvQJsXi68wSvFTHU9bC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:19 |
 | 766 | [PLANET FROG](https://open.spotify.com/track/2MTB6NrHEAHBeNsx389RlI) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [PLANET FROG](https://open.spotify.com/album/5zRHU8HegfzTYosVvihqet) | 0:24 |
 | 767 | [Bella Donna \- 2016 Remaster](https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:22 |
-| 768 | [In Sharky Water](https://open.spotify.com/track/6MStSRrh6pePveL74rjJLI) | [Disco Inferno](https://open.spotify.com/artist/1YCFvBoIeRSc0HMU7fhUZA) | [D.I\. Go Pop](https://open.spotify.com/album/3Lw1772fKHpOpVxdMGNYa3) | 4:40 |
-| 769 | [Brain](https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 |
-| 770 | [Etiquette I.D.](https://open.spotify.com/track/5n7VnQbx6A4C01afTZln8D) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 0:05 |
-| 771 | [The White Tent the Raft](https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [The Walking](https://open.spotify.com/album/7cv1OYN3ovq1sXi1Qwj2KW) | 9:12 |
-| 772 | [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 |
+| 768 | [in my head](https://open.spotify.com/track/1s91QUzwrPMLlHK8DPOJ7h) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [come back down](https://open.spotify.com/album/4a0wDl4zpCX10gWbsB9VuJ) | 4:47 |
+| 769 | [In Sharky Water](https://open.spotify.com/track/6MStSRrh6pePveL74rjJLI) | [Disco Inferno](https://open.spotify.com/artist/1YCFvBoIeRSc0HMU7fhUZA) | [D.I\. Go Pop](https://open.spotify.com/album/3Lw1772fKHpOpVxdMGNYa3) | 4:40 |
+| 770 | [Brain](https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 |
+| 771 | [Etiquette I.D.](https://open.spotify.com/track/5n7VnQbx6A4C01afTZln8D) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 0:05 |
+| 772 | [The White Tent the Raft](https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [The Walking](https://open.spotify.com/album/7cv1OYN3ovq1sXi1Qwj2KW) | 9:12 |
+| 773 | [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 |
 
-Snapshot ID: `AAAJgEZ9/y48IH9ho8yiMvR6HauNsQRk`
+Snapshot ID: `AAAJgvq284K4Exf/ovxTVkALwKyLuZYC`

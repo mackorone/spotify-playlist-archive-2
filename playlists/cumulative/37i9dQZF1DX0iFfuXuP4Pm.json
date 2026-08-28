@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: kiddotin",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Leanne",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6fWc51QIkVlqhVjMRQn4rb"
+      },
+      "artists": [
+        {
+          "name": "Stell",
+          "url": "https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193913,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/42dPVlqbsRmQCtGzm2N606"
+    },
+    {
+      "album": {
         "name": "D.T.M.G (Don\u2019t Touch My Girl)",
         "url": "https://open.spotify.com/album/6062kTEHbdxuq6NdFg6jXW"
       },
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 261000,
       "name": "dahon",
       "url": "https://open.spotify.com/track/6DElmrdn8ZlCuTfI3lFQ6l"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 289864,
       "name": "Dalawampung Taon",
       "url": "https://open.spotify.com/track/5Z3xMu0Qb9Scjm6C7KQFc1"
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 171868,
       "name": "Driftstar",
       "url": "https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 199200,
       "name": "Dun Ka Na",
       "url": "https://open.spotify.com/track/49EciH2ERqVPlBmXpg6y2o"
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 280829,
       "name": "Ganun Pa Rin",
       "url": "https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH"
@@ -5997,6 +6015,36 @@
     },
     {
       "album": {
+        "name": "MATIKAS",
+        "url": "https://open.spotify.com/album/2QTyml7RetBQsH6cUxnwoI"
+      },
+      "artists": [
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Icetizy",
+          "url": "https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Smugglaz",
+          "url": "https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283795,
+      "name": "MATIKAS",
+      "url": "https://open.spotify.com/track/3rhLse4xpSYpuXuvYOrOo6"
+    },
+    {
+      "album": {
         "name": "Maulan",
         "url": "https://open.spotify.com/album/4wJr8jkyzQqhgkMlhfCXTQ"
       },
@@ -7928,7 +7976,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 209410,
       "name": "PARA SAKIN",
       "url": "https://open.spotify.com/track/3YhZYAFOcKzZWuRV2gR1M9"
@@ -8454,6 +8502,24 @@
     {
       "album": {
         "name": "Puso",
+        "url": "https://open.spotify.com/album/6INNQlbCinKJOVMURzn5Kz"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262560,
+      "name": "Puso",
+      "url": "https://open.spotify.com/track/6bL1905He8qzy48DcXO1Xt"
+    },
+    {
+      "album": {
+        "name": "Puso",
         "url": "https://open.spotify.com/album/1W3PCcGjOgI58R6r9sYZbx"
       },
       "artists": [
@@ -8678,6 +8744,24 @@
       "duration_ms": 212432,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/7kzbzi1LYrwRLyfynDnRDs"
+    },
+    {
+      "album": {
+        "name": "Ride Slow",
+        "url": "https://open.spotify.com/album/47aXAOxiP01Y1jR0SCgxeT"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Ride Slow",
+      "url": "https://open.spotify.com/track/5JKb9yr5pvdphnWdn4KILp"
     },
     {
       "album": {
@@ -8992,7 +9076,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 227401,
       "name": "Sa'yo Bumabalik",
       "url": "https://open.spotify.com/track/35YfRQNWOs5xxkfOkP1LsG"
@@ -9481,6 +9565,24 @@
     },
     {
       "album": {
+        "name": "Shuloks",
+        "url": "https://open.spotify.com/album/70FbVi8zPEnqd19ZBnyq2s"
+      },
+      "artists": [
+        {
+          "name": "RAPROJECT SIX",
+          "url": "https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178639,
+      "name": "Shuloks",
+      "url": "https://open.spotify.com/track/1m4zRUexgXzzpI9Sb94bgz"
+    },
+    {
+      "album": {
         "name": "Sikulo",
         "url": "https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL"
       },
@@ -9580,6 +9682,28 @@
       "duration_ms": 213307,
       "name": "simula ngayon.",
       "url": "https://open.spotify.com/track/0kLXjivW4YUO9vvBj5pZc7"
+    },
+    {
+      "album": {
+        "name": "SINAYANG MO",
+        "url": "https://open.spotify.com/album/0whfWV03SIkgggiwxATXRl"
+      },
+      "artists": [
+        {
+          "name": "Paul N Ballin",
+          "url": "https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300472,
+      "name": "SINAYANG MO",
+      "url": "https://open.spotify.com/track/2en7U6rrWfZomS9y7AWleC"
     },
     {
       "album": {
@@ -10836,6 +10960,24 @@
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
+    },
+    {
+      "album": {
+        "name": "Totoong tayo",
+        "url": "https://open.spotify.com/album/5Ftd3Rg6FB7A0cvmDMyShR"
+      },
+      "artists": [
+        {
+          "name": "Jin DC",
+          "url": "https://open.spotify.com/artist/4aYM8Vij7I9a2VLcAPJ6Y2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227764,
+      "name": "Totoong tayo",
+      "url": "https://open.spotify.com/track/3Fu4WzdH4SpUUPLroN4qyS"
     },
     {
       "album": {

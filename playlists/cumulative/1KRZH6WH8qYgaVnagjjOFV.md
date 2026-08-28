@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship fifa
 
-226 songs - 14 hr 50 min
+227 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Real](https://open.spotify.com/track/7brRFdTSwwq1xeYXnXP5O8) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/134ohkHTVB4T6erW8wmcMP) | 2:56 | 2025-06-20 | 2026-06-02 |
 | [Rescue Me](https://open.spotify.com/track/78cWj0B00NY8VOUdFHyli0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/0QiMDbTi1TJ8RGUKU11jZr) | 3:31 | 2026-01-30 |  |
 | [Rest In The Father](https://open.spotify.com/track/5IDjOtUQ2UAjyoJ3vN7xbh) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 3:16 | 2025-01-31 |  |
+| [Roots](https://open.spotify.com/track/4PDQlJW9xltAaMQ2i93kNf) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Roots](https://open.spotify.com/album/0hxt1oPU61fYIwVCJYJt9G) | 3:12 | 2026-08-28 |  |
 | [Salvation Belongs To You \- Live From Passion 2024](https://open.spotify.com/track/21YqSmQdOvrToR08TFYwJc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:16 | 2025-01-31 | 2025-09-20 |
 | [Saturday](https://open.spotify.com/track/2qHzx9pQ4rxDGkauEEkjd7) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Saturday](https://open.spotify.com/album/1rHG4Xy7nq6FCPoeDJF8Kj) | 3:59 | 2026-04-24 |  |
 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 | 2025-03-21 |  |

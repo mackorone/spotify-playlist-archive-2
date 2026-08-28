@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-696 songs - 1 day 6 hr 7 min
+697 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [snowy moons](https://open.spotify.com/track/6lIFz8EFovWUWhVQame9Bw) | [one master key](https://open.spotify.com/artist/7tYH9lZ44lvMea9dhS0lkF) | [snowy moons](https://open.spotify.com/album/4y0R9pkqPiroVU0rvdnkom) | 2:26 | 2023-08-14 |  |
 | [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:34 | 2023-04-18 | 2023-07-19 |
 | [Sol 42](https://open.spotify.com/track/1JlqsLiK8l29lI1nvITHpz) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Sol 42](https://open.spotify.com/album/0w9o0ErIr3XtG3X6OhJvaj) | 3:09 | 2022-04-22 | 2024-04-16 |
+| [Solace](https://open.spotify.com/track/4Jsgy7qBam1hLdeGMSsjBZ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Solace](https://open.spotify.com/album/022d17fNu5mmhqcrsQ0mJA) | 2:47 | 2026-08-28 |  |
 | [Solace](https://open.spotify.com/track/2AHSUI2C0WLWrknZcPDpft) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Solace](https://open.spotify.com/album/2bq4ptv6LwMRFnNedCAp5n) | 2:12 | 2023-09-11 |  |
 | [Solfeggio](https://open.spotify.com/track/0iZ9VfP5adrL4UdIa5D2Cs) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Solfeggio](https://open.spotify.com/album/6potW1KKhU50Il0kKXrdzo) | 2:54 | 2022-04-22 | 2023-08-15 |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2022-04-22 | 2023-10-05 |

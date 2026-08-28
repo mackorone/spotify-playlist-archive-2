@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-490 songs - 1 day 5 hr 59 min
+491 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/2UrSdFSG1rTuzCwAkeP0ou) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Quarantine Covers](https://open.spotify.com/album/1PoNxdvXr6C4XM4cr6Fr6u) | 3:03 | 2021-03-12 | 2023-01-14 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2021-03-12 | 2022-08-10 |
 | [Heat Waves](https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP) | [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Volume 1](https://open.spotify.com/album/4a9VIksdlTfLwRkdDnycfd) | 2:06 | 2023-03-17 |  |
-| [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 | 2024-05-17 |  |
+| [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 | 2024-05-17 | 2026-08-28 |
 | [high and dry](https://open.spotify.com/track/6B9bHLVreCYkEgMs3SnQnY) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [high and dry](https://open.spotify.com/album/3QF88Oi8ah5VqZZD7cgfF2) | 4:05 | 2021-03-12 | 2022-04-08 |
 | [High and Dry](https://open.spotify.com/track/4XBanipnWptd3FPUlMkss8) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [High and Dry](https://open.spotify.com/album/06gtbsD5DmpApjUcGsHG0X) | 5:16 | 2021-08-27 | 2022-07-13 |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-03-12 | 2023-12-09 |
@@ -271,6 +271,7 @@
 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 | 2021-03-12 | 2022-04-12 |
 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 | 2021-03-12 | 2022-08-10 |
 | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW), [Elias Araya](https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Tobias Winterkorn](https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K) | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut) | 5:38 | 2023-05-26 | 2023-07-13 |
+| [Line of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/7gaEtTnfbMI7xjqbc0VQeS) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Tobias Winterkorn](https://open.spotify.com/artist/1Gok9BYzGUUKO0fD5nL1Ze), [Elias Araya](https://open.spotify.com/artist/14nHNjH8ioxKccZ2u6AA1z) | [Line of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/4pgWogA2n0iyzIGREcGy0Y) | 5:38 | 2026-03-06 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-05-31 |  |
 | [Look What You Made Me Do](https://open.spotify.com/track/4JKJdil8crNoWXwp2bzD0Y) | [Jack Leopards & The Dolphin Club](https://open.spotify.com/artist/2loafgTVvbkRKq6nTVQAH4) | [Look What You Made Me Do](https://open.spotify.com/album/33IzyiqFfgvPELo9bsBw2a) | 3:37 | 2021-03-12 | 2022-04-18 |
 | [Losing My Religion](https://open.spotify.com/track/1oXL3rpccEIey1ncsRqjap) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Losing My Religion](https://open.spotify.com/album/3DCsXZiCjPnszqfc0YnJi3) | 4:06 | 2021-03-12 | 2022-04-18 |

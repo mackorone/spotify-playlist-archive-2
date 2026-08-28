@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: unfazed",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: CYRIL",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -4183,6 +4183,24 @@
     },
     {
       "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/0IhNrkbGWOmyNjD78KedX4"
+      },
+      "artists": [
+        {
+          "name": "Chase Maverix",
+          "url": "https://open.spotify.com/artist/5yBWt5sObZOnI1XCsNCWfC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/1kq25Me0b361sS3GRyVfgD"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM"
       },
@@ -5114,6 +5132,24 @@
       "duration_ms": 240000,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/2LndWB1qY0YA7zHFhbnKzi"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
     },
     {
       "album": {

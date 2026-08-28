@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Ela Taubert",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Elsay Elmar",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "ciclos",
+        "url": "https://open.spotify.com/album/6t2HxVOXaO4TFEVZtqM2jG"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "desamarte",
+      "url": "https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC"
+    },
+    {
+      "album": {
         "name": "Desde Hola",
         "url": "https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf"
       },
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 201692,
       "name": "Diosa de Cien Colores",
       "url": "https://open.spotify.com/track/3xFMTGwwMZdfmdQBPClrVf"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-28",
       "duration_ms": 202903,
       "name": "El Avi\u00f3n",
       "url": "https://open.spotify.com/track/20Mt9BQVdMWNSyekweMvrc"
@@ -4182,6 +4200,24 @@
       "duration_ms": 192251,
       "name": "No Te Esperaba",
       "url": "https://open.spotify.com/track/39VpoxiF5HN43Hkc9flyGa"
+    },
+    {
+      "album": {
+        "name": "No vivir\u00edas igual",
+        "url": "https://open.spotify.com/album/0PK4vZ49RHea4vSJqD5r42"
+      },
+      "artists": [
+        {
+          "name": "Emyl Rusev",
+          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174967,
+      "name": "No Vivir\u00edas Igual",
+      "url": "https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ"
     },
     {
       "album": {

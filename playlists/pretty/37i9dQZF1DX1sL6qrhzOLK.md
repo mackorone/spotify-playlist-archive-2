@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > Sync Next 26에서 이어지는 가장 뜨거운 주파수!<br/>baan, Mogwaa, HYPNOSIS THERAPY는 물론, 파트너사 녹기 전에와 배러댄서프가 함께 큐레이션한 여름의 사운드트랙\. 전자음악과 힙합, 헤비니스가 교차하는 사운드 속에서 당신만의 New Black을 발견해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 27 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,411 likes - 27 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 11 | [Boy \- VIP Mix](https://open.spotify.com/track/4Xo3MwHazsnCwiWcmjz1I2) | [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Boy](https://open.spotify.com/album/1CVKYbQHvZpOOnsmHezXP2) | 7:52 |
 | 12 | [Lobster Telephone \- Mogwaa Remix](https://open.spotify.com/track/59kAcwBsqK9SUl4nkPC5Qv) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [I Hear You – Bonus Tracks Edition](https://open.spotify.com/album/5EGfRfeXfcrx6la5ZYNmjx) | 5:56 |
 | 13 | [Plastic Star](https://open.spotify.com/track/0Pb8Lm5tu20xX8x9dUaUdv) | [Byetone](https://open.spotify.com/artist/6ysohaI3qDxQ5qDVAq7Vbd) | [Plastic Star](https://open.spotify.com/album/7y4mPQVSEp40tbrPk1mwBJ) | 4:51 |
-| 14 | [Prototype 4](https://open.spotify.com/track/11rsL1lUvDqmiI0489BcHo) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Prototypes](https://open.spotify.com/album/1u89kyOzEtQHOFSxPj9zsN) | 5:22 |
+| 14 | [Prototype 4](https://open.spotify.com/track/11rsL1lUvDqmiI0489BcHo) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Prototypes](https://open.spotify.com/album/1u89kyOzEtQHOFSxPj9zsN) | 5:22 |
 | 15 | [DON\`T STOP](https://open.spotify.com/track/1V9neLfeVtRtxZmayxThF1) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [RAW SURVIVAL](https://open.spotify.com/album/5O3tQ4qUFHFu7JQexui7uY) | 4:05 |
 | 16 | [JONGNO](https://open.spotify.com/track/2On0valXDGvnN9pbTEzu8g) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [PSILOCYBIN](https://open.spotify.com/album/2oMSJiq1zLTaIGkpte4HwW) | 3:05 |
 | 17 | [+82](https://open.spotify.com/track/7amxuIEN4t82u2XTvuJzz4) | [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR), [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [HYPNOSIS THERAPY](https://open.spotify.com/album/7iHbidfgSyFUACwHgzMqoN) | 2:37 |

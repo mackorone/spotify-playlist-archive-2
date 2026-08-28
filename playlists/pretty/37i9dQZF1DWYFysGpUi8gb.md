@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring ugly \(uk\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,733 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,703 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 38 | [Shoplifting](https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:02 |
 | 39 | [Buster](https://open.spotify.com/track/3aDbVibedUfG25q1PWD0Ay) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Shock Corridor](https://open.spotify.com/album/17gMcCILR3WdtxduhoSn98) | 4:22 |
 | 40 | [Tilapia](https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Oxis 9](https://open.spotify.com/album/5awexwsI3WGjVeU5TmhG7p) | 2:14 |
-| 41 | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG), [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR) | 4:00 |
+| 41 | [Cat Piss Junkie \- The Healing Power of Horses Both Have Flu Remix](https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG), [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR) | 4:00 |
 | 42 | [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 |
 | 43 | [Four in a bed](https://open.spotify.com/track/26ILgpUQ7fe9CjUZzyFaLb) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Four in a bed](https://open.spotify.com/album/68XTDfvOvY5epM4iIhZofm) | 2:12 |
 | 44 | [OBL](https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [OBL](https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu) | 4:04 |

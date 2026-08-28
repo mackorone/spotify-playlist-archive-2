@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-288 songs - 16 hr 50 min
+289 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Shatterproof](https://open.spotify.com/track/2K784MIWGTceQ44dDW4ZfL) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:29 | 2025-07-18 | 2025-09-05 |
 | [Shatterproof](https://open.spotify.com/track/7CUAJ97lsdWEXK73mt5XZ8) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/0WBw8GeKLwQiIPfdPaJHL6) | 2:21 | 2026-01-02 |  |
 | [She's Another World](https://open.spotify.com/track/3ukYhWDNqFtAYR46hDjGYi) | [Raul Vidal](https://open.spotify.com/artist/1MFBRFYyixy1oM4MK5iTC0), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [She's Another World](https://open.spotify.com/album/7uEsoDwoASRM4yFaYq4i0g) | 3:53 | 2026-01-23 |  |
+| [Shed My Skin](https://open.spotify.com/track/1r1YI0vAu4QocqjsxinvHe) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Therese](https://open.spotify.com/artist/4wfoAaFRdaZdrn782iDlCD) | [Shed My Skin](https://open.spotify.com/album/1f4OrlXMf9hGdITiunDMgw) | 3:53 | 2026-08-28 |  |
 | [Shipwrecked \- Original Chillout Mix](https://open.spotify.com/track/37rmCFTLVT5Z1kKWNgASA8) | [Mike Foyle](https://open.spotify.com/artist/0gEWoMKkhrZEtu2DNSS8rt) | [Planet Chill, Vol\. 2 \- Compiled by York](https://open.spotify.com/album/4ZZRn4k2n9dfma94A8OxxD) | 5:08 | 2025-07-18 | 2026-04-18 |
 | [Show Me The Side of Your Love](https://open.spotify.com/track/3EjsSFHT9tcrcahZMpvoCf) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ), [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Siuxx](https://open.spotify.com/artist/62Bzq7sIaStaE1ENlVWFAF) | [Show Me The Side of Your Love](https://open.spotify.com/album/3T3HuXBq9J9AqnIkcL71G2) | 3:20 | 2025-06-19 |  |
 | [Silence](https://open.spotify.com/track/4zsqHhDIC8xgP0L9bPMQrL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Silence](https://open.spotify.com/album/2RpAGLWCRu8R78tDj0JXa6) | 3:59 | 2025-07-18 |  |

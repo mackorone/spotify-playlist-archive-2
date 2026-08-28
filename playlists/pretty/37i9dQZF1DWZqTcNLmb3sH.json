@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 72912,
+  "num_followers": 72927,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZpZ42MV1zXGOXZRQzdU2KfqhCl",
+  "snapshot_id": "AAAAANiPIfVy5kn2e44ydImuUD6KtgHl",
   "tracks": [
     {
       "added_at": "2026-08-26 06:00:35",
@@ -157,6 +157,30 @@
       "url": "https://open.spotify.com/track/11KnxP2nh0dLYvABna6945"
     },
     {
+      "added_at": "2026-08-27 09:26:59",
+      "album": {
+        "name": "Ee Dhareya Mele (From \"America America 2\")",
+        "url": "https://open.spotify.com/album/4MXX8Zx1LZYyW3IKS4DDS2"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        }
+      ],
+      "duration_ms": 248490,
+      "name": "Ee Dhareya Mele - From \"America America 2\"",
+      "url": "https://open.spotify.com/track/2wpIPggt6cGzBEdREtHmKX"
+    },
+    {
       "added_at": "2026-08-24 14:31:32",
       "album": {
         "name": "Beda Yaava Sundari (From \"Toss\")",
@@ -303,6 +327,34 @@
       "duration_ms": 206808,
       "name": "Shaka Laka (From \"Spark - Kannada\")",
       "url": "https://open.spotify.com/track/0MwwqPad6PNwmyNv0bmn2T"
+    },
+    {
+      "added_at": "2026-08-27 09:26:59",
+      "album": {
+        "name": "Undaadi Gundaru (From \"Heggana Muddu\")",
+        "url": "https://open.spotify.com/album/1Tg7lbeslCiepP6L19UhuN"
+      },
+      "artists": [
+        {
+          "name": "Karthik Chennoji Rao",
+          "url": "https://open.spotify.com/artist/5KgNFugdTwo3Ut6cO4rBKu"
+        },
+        {
+          "name": "Bakkesh Ronada",
+          "url": "https://open.spotify.com/artist/5BNUAAL7Y22WTqBKbNziNz"
+        },
+        {
+          "name": "Avinash Balekkala",
+          "url": "https://open.spotify.com/artist/3b4YWyZTjKAu8vsot8EyIY"
+        },
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "duration_ms": 255291,
+      "name": "Undaadi Gundaru (From \"Heggana Muddu\")",
+      "url": "https://open.spotify.com/track/2aP6DPdFEPg5sboPvosUhq"
     },
     {
       "added_at": "2026-08-26 06:00:35",
@@ -1751,62 +1803,6 @@
       "duration_ms": 184499,
       "name": "Baa KARAVALIGE (From \"KARAVALI\")",
       "url": "https://open.spotify.com/track/2m3NvJMD7tWv0Y3rm2TyGZ"
-    },
-    {
-      "added_at": "2026-06-22 16:20:26",
-      "album": {
-        "name": "Inmele (From \"Lakshmi Puthra\")",
-        "url": "https://open.spotify.com/album/3wNmBoCLkg3Q3SX6ksRQ9m"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "A.P. Arjun",
-          "url": "https://open.spotify.com/artist/1WmSed4rURzSyxwiETfssP"
-        },
-        {
-          "name": "Prithwi Bhat",
-          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
-        },
-        {
-          "name": "Darshan Melavanki",
-          "url": "https://open.spotify.com/artist/6rDDHmNTWgRCEmK6JRnb9s"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Inmele (From \"Lakshmi Puthra\")",
-      "url": "https://open.spotify.com/track/24JVhWyyCygFBh9VaxbgCY"
-    },
-    {
-      "added_at": "2026-06-22 16:20:26",
-      "album": {
-        "name": "The Boys Anthem (From \"Boys Never Compromise\")",
-        "url": "https://open.spotify.com/album/51WcZjJ1Xiex9P4uMQS8v6"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        },
-        {
-          "name": "Loki Tavasya",
-          "url": "https://open.spotify.com/artist/5NAV2Nwh1sHl7ce2SiwHUR"
-        },
-        {
-          "name": "Kinnal Raj",
-          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
-        },
-        {
-          "name": "Harish Jalgere",
-          "url": "https://open.spotify.com/artist/0f7cKBA6JTLqVoxYXOsJTp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "The Boys Anthem (From \"Boys Never Compromise\")",
-      "url": "https://open.spotify.com/track/03KQ1tGK3LjqMhZlk76AJV"
     },
     {
       "added_at": "2026-06-22 16:20:26",

@@ -1,6 +1,6 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 810991,
+  "num_followers": 811140,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3DeHyfe2Da8xznvABSfIE5"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1PAgmT6YqGhd6zT9kN9gIo"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/482njCey5m8quxX6ymvlIP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 208506,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/2n6FX3Jcg4b4Leoz0GOqBF"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3DeHyfe2Da8xznvABSfIE5"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1PAgmT6YqGhd6zT9kN9gIo"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "All Rise",
-        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
-      },
-      "artists": [
-        {
-          "name": "Blue",
-          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Best In Me",
-      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 202640,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/4w2Yq2cklbssmUtUy5Vh6H"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "All Rise",
+        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
     },
     {
       "added_at": "2026-02-25 17:44:31",

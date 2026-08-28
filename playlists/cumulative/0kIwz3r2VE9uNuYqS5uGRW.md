@@ -4,7 +4,7 @@
 
 > 
 
-288 songs - 15 hr 4 min
+289 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Badali Badala](https://open.spotify.com/track/3TyG9VWhzwh9ETEQ0JOsgU) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Between Us](https://open.spotify.com/album/1FckvjpUd1bin7xkXQzyuF) | 5:03 | 2026-06-19 |  |
 | [Baila](https://open.spotify.com/track/1lLoW8BPXr9EK4s2L1Qwid) | [MG'](https://open.spotify.com/artist/24NUzfEiDv7O3XmfUWy8DH) | [Baila](https://open.spotify.com/album/0iWdERMMhVmphw8ioaIdtR) | 3:01 | 2025-08-26 |  |
 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 | 2026-06-03 |  |
+| [Ban2leros \#1](https://open.spotify.com/track/3FIZxxvk9GDlxiFlVFaibx) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Migue Ceballos](https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe) | [Ban2leros \#1](https://open.spotify.com/album/2moNJyy7a1uxT0CoRyWuDP) | 2:05 | 2026-08-27 |  |
 | [BDE](https://open.spotify.com/track/6fdVOh7MmC69eCrX0XxO5M) | [Galaxy Sweat](https://open.spotify.com/artist/0PCn3ztGLidBzzK3FT4ezo) | [Galaxy Sweat](https://open.spotify.com/album/1JLWiiHlNzBpyAHeBv7Ugz) | 2:53 | 2025-09-22 |  |
 | [Believe in Me](https://open.spotify.com/track/3PW9C68cjN0FZVMsBjuYYy) | [TriniPrince](https://open.spotify.com/artist/6WPYob9LKVO2vFN2ZCZkZl) | [Believe in Me](https://open.spotify.com/album/40CUhO4l1bIl6sLoVgmHmb) | 1:52 | 2026-06-23 |  |
 | [Best Thing](https://open.spotify.com/track/3e5BwnOOms59dg70weqzpX) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 3:41 | 2026-06-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18561,
+  "num_followers": 18557,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aouJgAAAAABbfyVJ+5YxKyX+n6n3A3LN",
+  "snapshot_id": "ao4sgAAAAACD4LUzwMW4qirsDvy2cyyl",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Homecoming (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 39960,
-      "name": "Theme (from \"Spider Man\") [Original Television Series]",
-      "url": "https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: Homecoming (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 39960,
+      "name": "Theme (from \"Spider Man\") [Original Television Series]",
+      "url": "https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
       },
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 374066,
-      "name": "Suite New Day - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/2IE9mgjkkk7Lfj9wgzz8MT"
+      "duration_ms": 156466,
+      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
+      "duration_ms": 374066,
+      "name": "Suite New Day - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/2IE9mgjkkk7Lfj9wgzz8MT"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 101173,
-      "name": "Cast of Cooks",
-      "url": "https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 407533,
       "name": "The Batman - from \"The Batman\"",
       "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 101173,
+      "name": "Cast of Cooks",
+      "url": "https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 118800,
-      "name": "Special Order",
-      "url": "https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 291733,
       "name": "Your Father Would Be Proud",
       "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 118800,
+      "name": "Special Order",
+      "url": "https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 116693,
-      "name": "A New Deal",
-      "url": "https://open.spotify.com/track/6ddWWAGUgZPBmi6Ezakha1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 219293,
       "name": "Tears of Joy",
       "url": "https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 116693,
+      "name": "A New Deal",
+      "url": "https://open.spotify.com/track/6ddWWAGUgZPBmi6Ezakha1"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Him Go (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "The Break Of Dawn",
-      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 149760,
       "name": "The Imperial Suite",
       "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Him Go (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 109466,
+      "name": "The Break Of Dawn",
+      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
     },
     {
       "added_at": null,

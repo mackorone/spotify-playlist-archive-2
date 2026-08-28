@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 102992,
+  "num_followers": 102996,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7rwPjOYMdCm9LKVJk2Uiyy"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "Se m'innamoro",
-      "url": "https://open.spotify.com/track/6Pm5m45fMlLOJ8pKBHKzSc"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
         "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 198082,
       "name": "Dove Si Balla",
       "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7rwPjOYMdCm9LKVJk2Uiyy"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Se m'innamoro",
+      "url": "https://open.spotify.com/track/6Pm5m45fMlLOJ8pKBHKzSc"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "IL BENE NEL MALE",
-        "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 213143,
-      "name": "IL BENE NEL MALE",
-      "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Per Un Milione",
         "url": "https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 174615,
       "name": "Per Un Milione",
       "url": "https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "IL BENE NEL MALE",
+        "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 213143,
+      "name": "IL BENE NEL MALE",
+      "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Barbara e altri Carella",
-        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Carella",
-          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Barbara",
-      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "di20are",
         "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Barbara e altri Carella",
+        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carella",
+          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Nicola Di Bari",
         "url": "https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 190866,
       "name": "La prima cosa bella",
       "url": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Tango (1991 - Remaster)",
+        "url": "https://open.spotify.com/album/6vtR5awftB25quBXs42aA3"
+      },
+      "artists": [
+        {
+          "name": "Matia Bazar",
+          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Vacanze Romane - 1991 Remaster",
+      "url": "https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -923,38 +939,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Tango (1991 - Remaster)",
-        "url": "https://open.spotify.com/album/6vtR5awftB25quBXs42aA3"
-      },
-      "artists": [
-        {
-          "name": "Matia Bazar",
-          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Vacanze Romane - 1991 Remaster",
-      "url": "https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Fragola",
-          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Siamo uguali",
-      "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "CHIAMAMI PER NOME",
         "url": "https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 222666,
       "name": "CHIAMAMI PER NOME",
       "url": "https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Fragola",
+          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Siamo uguali",
+      "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Endrigo (1968)",
-        "url": "https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8"
-      },
-      "artists": [
-        {
-          "name": "Sergio Endrigo",
-          "url": "https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Canzone per te",
-      "url": "https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Senza farlo apposta",
         "url": "https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 215156,
       "name": "Senza farlo apposta",
       "url": "https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Endrigo (1968)",
+        "url": "https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8"
+      },
+      "artists": [
+        {
+          "name": "Sergio Endrigo",
+          "url": "https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Canzone per te",
+      "url": "https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Ringo Starr",
-        "url": "https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Ringo Starr",
-      "url": "https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "L'ADDIO",
         "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 207750,
       "name": "L'ADDIO",
       "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Ringo Starr",
+        "url": "https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Ringo Starr",
+      "url": "https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira"
     },
     {
       "added_at": "2026-01-25 23:01:06",
